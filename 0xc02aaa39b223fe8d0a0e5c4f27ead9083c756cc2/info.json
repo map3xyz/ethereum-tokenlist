@@ -1,0 +1,25 @@
+{
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "decimals": 18,
+  "id": "3525a979-daee-4ee5-9202-3274324f900b",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Wrapped Ether",
+  "spam": false,
+  "symbol": "WETH",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

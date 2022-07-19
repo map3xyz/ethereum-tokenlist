@@ -1,0 +1,28 @@
+{
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "decimals": 18,
+  "id": "e0df37bb-9d5e-4bc8-8f5e-667149f22806",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Dai Stablecoin",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xcaA7e4656f6A2B59f5f99c745F91AB26D1210DCe",
+  "decimals": 18,
+  "id": "b489dbd4-cdd1-4ee5-9073-3c6acdd8e33a",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://Qmcbin86EXd14LhbqLknH9kM3N7oueBYt9qQmZdmMWqrgu",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap LEND LP",
+  "spam": false,
+  "symbol": "UniLENDETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

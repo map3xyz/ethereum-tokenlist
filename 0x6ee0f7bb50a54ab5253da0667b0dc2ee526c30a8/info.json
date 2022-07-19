@@ -1,0 +1,29 @@
+{
+  "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
+  "decimals": 18,
+  "id": "0dfbcae9-17cb-4c1d-b500-ad4cbf26cf99",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing Binance USD",
+  "spam": false,
+  "symbol": "aBUSD",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

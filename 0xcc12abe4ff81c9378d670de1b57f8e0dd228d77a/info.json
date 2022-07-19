@@ -1,0 +1,28 @@
+{
+  "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+  "decimals": 18,
+  "id": "db673ee5-7adc-4ace-833a-0510ac3a15ec",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmUgE3UECZxZcCAiqd3V9otfFWLi5fxR8uHd94RxkT3iYb",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave interest bearing REN",
+  "spam": false,
+  "symbol": "aREN",
+  "tags": [
+    "atokenv2"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

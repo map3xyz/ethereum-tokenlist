@@ -1,0 +1,28 @@
+{
+  "address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+  "decimals": 18,
+  "id": "fae6d9da-80ca-4f7b-a210-3ac04522ca3a",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmXj52EGotmpyep84PBycmQnAgCF2sbqxdXFWP3GPZFbEz",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave interest bearing SNX",
+  "spam": false,
+  "symbol": "aSNX",
+  "tags": [
+    "atokenv2"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

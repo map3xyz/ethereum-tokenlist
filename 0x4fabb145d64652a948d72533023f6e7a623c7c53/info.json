@@ -1,0 +1,28 @@
+{
+  "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+  "decimals": 18,
+  "id": "ac1efd70-b4e5-467a-abfe-57036d6082f4",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Binance USD",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

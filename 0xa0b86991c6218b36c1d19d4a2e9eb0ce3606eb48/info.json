@@ -1,0 +1,28 @@
+{
+  "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "decimals": 6,
+  "id": "fa6db9d8-1ed0-42f1-a51b-fc0046800cc3",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "USD Coin",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

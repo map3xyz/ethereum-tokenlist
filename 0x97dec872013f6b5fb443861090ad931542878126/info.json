@@ -1,0 +1,28 @@
+{
+  "address": "0x97deC872013f6B5fB443861090ad931542878126",
+  "decimals": 18,
+  "id": "252102f4-9def-426d-b8c9-b0b07ac2363e",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://Qme9QQcNzKvk3FEwEZvvKJWSvDUd41z5geWHNpuJb6di9y",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap USDC LP",
+  "spam": false,
+  "symbol": "UniUSDCETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

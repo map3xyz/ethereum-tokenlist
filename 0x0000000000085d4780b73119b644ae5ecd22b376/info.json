@@ -1,0 +1,28 @@
+{
+  "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+  "decimals": 18,
+  "id": "c09e5e43-5e8b-4469-a66a-e3ca6706fe5c",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "TrueUSD",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

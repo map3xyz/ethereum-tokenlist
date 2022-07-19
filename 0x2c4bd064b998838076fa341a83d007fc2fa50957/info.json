@@ -1,0 +1,28 @@
+{
+  "address": "0x2C4Bd064b998838076fa341A83d007FC2FA50957",
+  "decimals": 18,
+  "id": "ae4d80d5-be9e-4ad5-a4a4-e539e82feea8",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmSS94EJyBeHeUmoDmGjQjeuUHQxTcMaD8Zvw8W8XdGDBv",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap MKR LP",
+  "spam": false,
+  "symbol": "UniMKRETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+  "decimals": 18,
+  "id": "543a089a-5adf-4d3e-8e1e-2a1f8f1ddba0",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0xa685a61171bb30d4072b338c80cb7b2c865c873e/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave interest bearing MANA",
+  "spam": false,
+  "symbol": "aMANA",
+  "tags": [
+    "atokenv2"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

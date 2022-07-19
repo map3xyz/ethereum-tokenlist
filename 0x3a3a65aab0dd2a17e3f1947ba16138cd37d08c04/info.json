@@ -1,0 +1,28 @@
+{
+  "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+  "decimals": 18,
+  "id": "106fc9ce-534f-4b99-94f1-404dce2dac9f",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing ETH",
+  "spam": false,
+  "symbol": "aETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

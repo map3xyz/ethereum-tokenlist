@@ -1,0 +1,28 @@
+{
+  "address": "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667",
+  "decimals": 18,
+  "id": "0d83c431-35c1-4ddc-86ff-bff01da7e32c",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmYNz8J1h5yefkaAw6tZwUYoJyBTWmBXgAY28ZWZ5rPsLR",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap DAI LP",
+  "spam": false,
+  "symbol": "UniDAIETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

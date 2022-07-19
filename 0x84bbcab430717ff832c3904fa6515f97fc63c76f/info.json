@@ -1,0 +1,28 @@
+{
+  "address": "0x84BBcaB430717ff832c3904fa6515f97fc63C76F",
+  "decimals": 18,
+  "id": "448837fb-09bc-4d67-a545-1ec067e127a3",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0x84bbcab430717ff832c3904fa6515f97fc63c76f/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing UniSETHETH",
+  "spam": false,
+  "symbol": "aUniSETHETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

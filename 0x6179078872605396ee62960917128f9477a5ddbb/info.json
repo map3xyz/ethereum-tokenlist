@@ -1,0 +1,28 @@
+{
+  "address": "0x6179078872605396Ee62960917128F9477a5DdbB",
+  "decimals": 18,
+  "id": "d898a979-3bf8-4d3f-8e6b-38651cce82ec",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing UniETH",
+  "spam": false,
+  "symbol": "aUniETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

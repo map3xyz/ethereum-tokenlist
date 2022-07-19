@@ -1,0 +1,28 @@
+{
+  "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+  "decimals": 8,
+  "id": "925cd543-5d47-41fc-966d-247f0d2b8cf0",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0xfc4b8ed459e00e5400be803a9bb3954234fd50e3/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing WBTC",
+  "spam": false,
+  "symbol": "aWBTC",
+  "tags": [
+    "atokenv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

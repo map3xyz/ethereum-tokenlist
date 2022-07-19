@@ -1,0 +1,28 @@
+{
+  "address": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+  "decimals": 18,
+  "id": "af1dddae-d088-4e70-bdd1-534e9245a93a",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmauhqAKU8YLhDhT4M5ZcPMuqEfqkBrBaC31uWC9UXd1ik",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave interest bearing YFI",
+  "spam": false,
+  "symbol": "aYFI",
+  "tags": [
+    "atokenv2"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

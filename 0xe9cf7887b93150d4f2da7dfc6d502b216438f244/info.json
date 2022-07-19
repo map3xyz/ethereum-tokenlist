@@ -1,0 +1,28 @@
+{
+  "address": "0xe9Cf7887b93150D4F2Da7dFc6D502B216438F244",
+  "decimals": 18,
+  "id": "0474639d-3ab5-4ed1-9d67-67b32c999367",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmZcwn4eZJpjihH8TApRczQQJdAzpR6Er7g1bvo6PGhxWi",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap sETH LP",
+  "spam": false,
+  "symbol": "UnisETHETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

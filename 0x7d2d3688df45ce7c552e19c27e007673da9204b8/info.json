@@ -1,0 +1,28 @@
+{
+  "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
+  "decimals": 18,
+  "id": "39d5efef-5515-4bf2-8300-7455484fef24",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/tokens/ethereum-tokenlist/0x7d2d3688df45ce7c552e19c27e007673da9204b8/logo.svg",
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave Interest bearing LEND",
+  "spam": false,
+  "symbol": "aLEND",
+  "tags": [
+    "atokenv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

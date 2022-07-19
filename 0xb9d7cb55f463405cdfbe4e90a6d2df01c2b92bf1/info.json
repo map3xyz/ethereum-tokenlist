@@ -1,0 +1,28 @@
+{
+  "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "decimals": 18,
+  "id": "0c4c63d3-816c-4796-bec9-6ec82aebf0ea",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmYdpeez387RdMw6zEEa5rMXuayi748Uc15eFuoa3QhGEJ",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Aave interest bearing UNI",
+  "spam": false,
+  "symbol": "aUNI",
+  "tags": [
+    "atokenv2"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
