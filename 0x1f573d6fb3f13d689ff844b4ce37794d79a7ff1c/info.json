@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e936a929-e124-489a-af7c-8e7722921d99",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Bancor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

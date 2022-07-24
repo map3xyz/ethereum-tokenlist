@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5c6bc8a2-c2ca-492e-8a50-9b27eb3036b0",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00/logo.svg",
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aBAT.svg"
+    }
+  },
+  "name": "Aave Interest bearing BAT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aBAT",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
