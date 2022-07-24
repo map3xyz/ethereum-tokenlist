@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "490a2a31-722e-477f-96f6-a04c0b31a902",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
