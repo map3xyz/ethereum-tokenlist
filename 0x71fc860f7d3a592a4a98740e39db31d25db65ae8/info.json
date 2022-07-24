@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "d8acb882-93c2-4493-8ae7-762c76890c68",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUSDT.svg"
+    }
+  },
+  "name": "Aave Interest bearing USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aUSDT",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
