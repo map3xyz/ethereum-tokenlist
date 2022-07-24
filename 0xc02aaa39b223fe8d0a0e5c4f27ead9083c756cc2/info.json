@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6214a58d-f623-4748-97ba-5394c49ace0c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

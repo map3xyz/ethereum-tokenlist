@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x97deC872013f6B5fB443861090ad931542878126",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "17c8a35f-8306-4489-98f1-1e353dbc5def",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap USDC LP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UniUSDCETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
