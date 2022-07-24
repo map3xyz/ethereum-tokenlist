@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4a35255d-4b56-433a-8db5-6a11f9ddd019",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aENJ.svg"
+    }
+  },
+  "name": "Aave interest bearing ENJ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aENJ",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
