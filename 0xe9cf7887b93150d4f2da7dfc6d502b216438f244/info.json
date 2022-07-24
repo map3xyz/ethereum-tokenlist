@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xe9Cf7887b93150D4F2Da7dFc6D502B216438F244",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d308479a-42b1-4f84-97f5-e1c067b7548f",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap sETH LP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UnisETHETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
