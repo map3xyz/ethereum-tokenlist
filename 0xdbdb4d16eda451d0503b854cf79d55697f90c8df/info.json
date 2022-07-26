@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdbdb4d16eda451d0503b854cf79d55697f90c8df/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbdb4d16eda451d0503b854cf79d55697f90c8df/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "ALCX",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

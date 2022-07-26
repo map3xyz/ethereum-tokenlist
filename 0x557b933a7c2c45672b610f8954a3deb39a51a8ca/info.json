@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x557b933a7c2c45672b610f8954a3deb39a51a8ca/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x557b933a7c2c45672b610f8954a3deb39a51a8ca/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "REVV",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

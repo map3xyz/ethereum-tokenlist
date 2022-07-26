@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "STORJ",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "ANKR",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }
