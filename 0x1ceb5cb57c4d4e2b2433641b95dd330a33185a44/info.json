@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "KP3R",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

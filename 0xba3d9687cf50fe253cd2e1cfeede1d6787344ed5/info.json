@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5/logo.svg",
       "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aAAVE.svg"
     }
   },
@@ -32,6 +32,7 @@
   "tags": [
     "atokenv1"
   ],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x4a220e6096b25eadb88358cb44068a3248254675/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a220e6096b25eadb88358cb44068a3248254675/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "QNT",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

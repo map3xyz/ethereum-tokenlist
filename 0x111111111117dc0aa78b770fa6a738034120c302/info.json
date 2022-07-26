@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x111111111117dc0aa78b770fa6a738034120c302/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x111111111117dc0aa78b770fa6a738034120c302/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "1INCH",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

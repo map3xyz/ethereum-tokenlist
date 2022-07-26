@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x321c2fe4446c7c963dc41dd58879af648838f98d/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x321c2fe4446c7c963dc41dd58879af648838f98d/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "CTX",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

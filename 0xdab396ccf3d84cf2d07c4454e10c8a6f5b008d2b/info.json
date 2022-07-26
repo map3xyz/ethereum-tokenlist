@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "GFI",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }

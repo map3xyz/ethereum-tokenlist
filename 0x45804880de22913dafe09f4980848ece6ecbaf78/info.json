@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x45804880de22913dafe09f4980848ece6ecbaf78/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45804880de22913dafe09f4980848ece6ecbaf78/logo.svg",
       "ipfs": null
     }
   },
@@ -30,6 +30,7 @@
   "spam": false,
   "symbol": "PAXG",
   "tags": [],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }
