@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-07-24T09:16:55.374Z",
+  "timestamp": "2022-08-04T14:20:27.935Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -181,6 +181,14 @@
       ]
     },
     {
+      "address": "0x10c71515602429C19d53011EA7040B87a4894838",
+      "name": "Diamond Platform Token",
+      "decimals": 18,
+      "symbol": "DPT",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0x111111111117dc0aa78b770fa6a738034120c302",
       "name": "1Inch",
       "decimals": 18,
@@ -227,6 +235,14 @@
       "name": "Reputation",
       "decimals": 18,
       "symbol": "REP",
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+      "name": "USDK",
+      "decimals": 18,
+      "symbol": "USDK",
       "logoURI": "",
       "tags": []
     },
@@ -440,6 +456,14 @@
       "tags": []
     },
     {
+      "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+      "name": "USDQ",
+      "decimals": 18,
+      "symbol": "USDQ",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
       "name": "Quant",
       "decimals": 18,
@@ -501,6 +525,14 @@
       "tags": []
     },
     {
+      "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
+      "name": "Digix Gold Token",
+      "decimals": 9,
+      "symbol": "DGX",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
       "name": "Binance USD",
       "decimals": 18,
@@ -533,6 +565,14 @@
       "name": "Revv",
       "decimals": 18,
       "symbol": "REVV",
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+      "name": "sUSD",
+      "decimals": 18,
+      "symbol": "sUSD",
       "logoURI": "",
       "tags": []
     },
@@ -795,6 +835,22 @@
       ]
     },
     {
+      "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+      "name": "Reserve Rights",
+      "decimals": 18,
+      "symbol": "RSR",
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+      "name": "Single Collateral DAI",
+      "decimals": 18,
+      "symbol": "SAI",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0x8c69f7A4C9B38F1b48005D216c398Efb2F1Ce3e4",
       "name": "Aave Interest bearing UniMKRETH",
       "decimals": 18,
@@ -803,6 +859,14 @@
       "tags": [
         "atokenv1"
       ]
+    },
+    {
+      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "name": "Paxos Standard",
+      "decimals": 18,
+      "symbol": "PAX",
+      "logoURI": "",
+      "tags": []
     },
     {
       "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
@@ -927,6 +991,14 @@
       ]
     },
     {
+      "address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+      "name": "StableUSD",
+      "decimals": 6,
+      "symbol": "USDS",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
       "name": "Aave Interest bearing LINK",
       "decimals": 18,
@@ -973,6 +1045,14 @@
       "tags": [
         "atokenv1"
       ]
+    },
+    {
+      "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
+      "name": "CryptoFranc",
+      "decimals": 18,
+      "symbol": "XCHF",
+      "logoURI": "",
+      "tags": []
     },
     {
       "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
@@ -1139,6 +1219,14 @@
       ]
     },
     {
+      "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+      "name": "Terra",
+      "decimals": 18,
+      "symbol": "AURA",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
       "name": "CurveDAOToken",
       "decimals": 18,
@@ -1165,6 +1253,14 @@
       ]
     },
     {
+      "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+      "name": "STASIS EURO",
+      "decimals": 2,
+      "symbol": "EURS",
+      "logoURI": "",
+      "tags": []
+    },
+    {
       "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
       "name": "Alchemix",
       "decimals": 18,
@@ -1177,6 +1273,14 @@
       "name": "Kyber Network Crystal",
       "decimals": 18,
       "symbol": "KNC",
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+      "name": "HUSD",
+      "decimals": 8,
+      "symbol": "HUSD",
       "logoURI": "",
       "tags": []
     },
@@ -1232,6 +1336,14 @@
       "name": "0x Protocol Token",
       "decimals": 18,
       "symbol": "ZRX",
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE",
+      "name": "xEURO",
+      "decimals": 0,
+      "symbol": "xEUR",
       "logoURI": "",
       "tags": []
     },
