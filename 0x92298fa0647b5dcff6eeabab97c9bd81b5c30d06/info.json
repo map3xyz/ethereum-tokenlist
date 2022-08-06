@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "popular global platform for creating and sharing original videos.",
+      "verified": true
+    }
+  ],
+  "id": "cb11f519-7fa0-4b1c-9687-50d2f336c036",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+    "research": null,
+    "website": "-"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92298fa0647b5dcff6eeabab97c9bd81b5c30d06/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LikeApp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIKE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

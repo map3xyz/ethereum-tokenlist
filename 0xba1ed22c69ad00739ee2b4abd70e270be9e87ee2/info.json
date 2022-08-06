@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBa1ED22C69ad00739EE2b4aBD70e270BE9e87eE2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7f4f6991-1d77-4a86-91ac-8edf30bda254",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBa1ED22C69ad00739EE2b4aBD70e270BE9e87eE2",
+    "research": null,
+    "website": "http://www.webflix.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Webflix Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WFX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

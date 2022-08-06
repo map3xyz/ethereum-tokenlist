@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Egretia (EGT) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "14643129-d151-4752-8315-f6b6a84fa544",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34",
+    "research": null,
+    "website": "http://egretia.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Egretia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

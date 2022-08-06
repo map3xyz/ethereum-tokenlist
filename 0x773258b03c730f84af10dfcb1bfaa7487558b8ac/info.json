@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SEFI is the native governance token for SecretSwap and Secret DeFi more generally. Earn SEFI and shape the future of the front-running resistant, privacy-first open finance ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "105aa1b0-9587-4597-a202-8f7b74dce5e2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x773258b03c730f84af10dfcb1bfaa7487558b8ac",
+    "research": null,
+    "website": "https://secretswap.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x773258b03c730f84af10dfcb1bfaa7487558b8ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SEFI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

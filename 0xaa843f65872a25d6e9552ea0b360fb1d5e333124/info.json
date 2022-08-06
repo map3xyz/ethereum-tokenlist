@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xAa843f65872a25D6E9552eA0B360Fb1d5E333124",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Eco Value Coin is a Blockchain based Carbon Credit token. It will allow individuals, businesses and governments to trade and offset carbon emissions..",
+      "verified": true
+    }
+  ],
+  "id": "1b04c9a8-4f2d-4528-a322-1c66ff8a3570",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAa843f65872a25D6E9552eA0B360Fb1d5E333124",
+    "research": "https://www.ecovaluecoin.com/#ecctech",
+    "website": "https://ecovaluecoin.com",
+    "github": "https://github.com/ecovalue/evc-contracts",
+    "whitepaper": "https://www.ecovaluecoin.com/wp-content/uploads/2018/07/EVC-Whitepaper-v1.0.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaa843f65872a25d6e9552ea0b360fb1d5e333124/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EVC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

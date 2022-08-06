@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yeld is the next generation in DeFi yield farming products.",
+      "verified": true
+    }
+  ],
+  "id": "afe25e99-dcf9-4d74-a97b-701bfd95fa72",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+    "research": null,
+    "website": "https://yeld.finance",
+    "github": "https://github.com/merlox/yeld-website",
+    "whitepaper": "https://yeld.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x468ab3b1f63a1c14b361bc367c3cc92277588da1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yeld Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YELD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

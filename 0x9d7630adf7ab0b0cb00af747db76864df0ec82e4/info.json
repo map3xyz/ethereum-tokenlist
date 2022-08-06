@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GATENet is building on-chain regulated securities settlement and registry solutions to reduce costs and increase efficiencies for issuers, investors and market participants.",
+      "verified": true
+    }
+  ],
+  "id": "ff09913d-244b-4f82-9e32-26f9bf583bc9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+    "research": null,
+    "website": "https://gatetoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d7630adf7ab0b0cb00af747db76864df0ec82e4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GATENet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GATE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x841FB148863454A3b3570f515414759BE9091465",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHIH TZU project is a meme based token that has determined to pursue NFT artwork",
+      "verified": true
+    }
+  ],
+  "id": "6b4fa3c8-d54c-4939-a24c-1a74bff7bdd0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x841FB148863454A3b3570f515414759BE9091465",
+    "research": null,
+    "website": "https://www.shih-tzu.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x841fb148863454a3b3570f515414759be9091465/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shih Tzu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

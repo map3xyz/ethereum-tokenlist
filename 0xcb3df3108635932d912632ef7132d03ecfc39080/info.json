@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcB3df3108635932D912632ef7132d03EcFC39080",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hyper deflationary token with unique rewards and burning protocol.",
+      "verified": true
+    }
+  ],
+  "id": "17c53872-8d35-41ed-8000-a6f8fcb44717",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcB3df3108635932D912632ef7132d03EcFC39080",
+    "research": null,
+    "website": "https://wingshop.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb3df3108635932d912632ef7132d03ecfc39080/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wings",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WING",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xabC1280A0187a2020cC675437aed400185F86Db6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c4187d24-2176-4145-bcdc-3d2e6e637ff1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xabC1280A0187a2020cC675437aed400185F86Db6",
+    "research": null,
+    "website": "https://www.sachain.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xabc1280a0187a2020cc675437aed400185f86db6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Smart Application Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

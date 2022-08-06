@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1da015eA4AD2d3e5586E54b9fB0682Ca3CA8A17a",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "79f1e5c9-609c-401e-bd07-27ec34556f4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1da015eA4AD2d3e5586E54b9fB0682Ca3CA8A17a",
+    "research": null,
+    "website": "https://dragonex.io/en-us/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DragonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

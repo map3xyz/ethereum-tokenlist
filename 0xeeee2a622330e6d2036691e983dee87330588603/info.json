@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A community based project that drives the adoption of crypto which will attract new comers to the industry.",
+      "verified": true
+    }
+  ],
+  "id": "83fbf3ec-a803-4b39-bb23-e019d1a8c816",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeeee2a622330e6d2036691e983dee87330588603",
+    "research": null,
+    "website": "https://askobar-network.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeeee2a622330e6d2036691e983dee87330588603/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Asko",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASKO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mysterium is building a decentralised P2P VPN and other tools that allow users to browse the internet freely and earn by sharing their internet connection.",
+      "verified": true
+    }
+  ],
+  "id": "3706c25f-f34b-4f4e-869f-8af5cda9f60c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+    "research": null,
+    "website": "https://mysterium.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mysterium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x25200235cA7113C2541E70dE737c41f5e9AcD1F6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f31e3eb5-a4f1-4c12-889c-7b3ed1d9c537",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x25200235cA7113C2541E70dE737c41f5e9AcD1F6",
+    "research": null,
+    "website": "https://www.pathhive.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25200235ca7113c2541e70de737c41f5e9acd1f6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PathHive Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

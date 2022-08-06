@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TNB is token represent to Miao'A International Timechain (M.I.T). That is dedicated to building a precision time-valuebased transmission network.",
+      "verified": true
+    }
+  ],
+  "id": "7e903c4f-7f12-4587-96ca-2698ad0ce404",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF7920B0768Ecb20A123fAc32311d07D193381d6f",
+    "research": null,
+    "website": "https://tnb.fund/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf7920b0768ecb20a123fac32311d07d193381d6f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Time New Bank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

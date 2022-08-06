@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FOX is ShapeShift’s official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). ",
+      "verified": true
+    }
+  ],
+  "id": "0002f4d9-661d-4a88-a1f4-b6cb37489ebc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+    "research": null,
+    "website": "https://shapeshift.com/fox-token"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc770eefad204b5180df6a14ee197d99d808ee52d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ClearCoin makes buying and selling of media on the blockchain simple and seamless. Its platform powers a system allowing for complete data transparency everyone can trust.",
+      "verified": true
+    }
+  ],
+  "id": "46d032c3-0436-49dc-9d6e-511b7664befc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
+    "research": null,
+    "website": "http://clearcoin.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ClearCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCLR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFII is a fork of Yearn.finance YFI with YIP 8 implemented.",
+      "verified": true
+    }
+  ],
+  "id": "6e420472-69af-4a80-80ef-7a2b0e7162f5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+    "research": "https://research.binance.com/en/projects/dfimoney",
+    "website": "https://yfii.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFII",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFII",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

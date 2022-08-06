@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a49e9ca7-84c4-4ccc-a57e-62b2022146e8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
+    "research": null,
+    "website": "https://www.porkchop.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x646707246d7d5c2a86d7206f41ca8199ea9ced69/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Porkchop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHOP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

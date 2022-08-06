@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9d1C2A187cf908aEd8CFAe2353Ef72F06223d54D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "0b51be8a-99f0-417e-8162-3b52b2fcc170",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9d1C2A187cf908aEd8CFAe2353Ef72F06223d54D",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d1c2a187cf908aed8cfae2353ef72f06223d54d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike WBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sWBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Guider platform aims to facilitate and expedite the search for a suitable guide for travelers.",
+      "verified": true
+    }
+  ],
+  "id": "6a667ba4-25ed-4c65-99d8-0fcfd736c6d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0",
+    "research": null,
+    "website": "https://guider.travel"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Guider",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

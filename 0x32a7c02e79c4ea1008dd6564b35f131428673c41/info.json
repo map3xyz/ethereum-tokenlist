@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CRUST provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer. Crust's technical stack is also capable of supporting a decentralized computing layer. It is designed to build a decentralized cloud ecosystem that values data privacy and ownership.",
+      "verified": true
+    }
+  ],
+  "id": "9b6ddbd6-9746-4cbe-abab-0511dcf7cbca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+    "research": null,
+    "website": "https://crust.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32a7c02e79c4ea1008dd6564b35f131428673c41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRUST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

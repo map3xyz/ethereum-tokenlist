@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x165440036Ce972C5F8EBef667086707e48B2623e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "aa977c90-70d6-423d-98b8-f44cefd9a8dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x165440036Ce972C5F8EBef667086707e48B2623e",
+    "research": null,
+    "website": "https://unigraph.app/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x165440036ce972c5f8ebef667086707e48b2623e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UniGraph",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRAPH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BKK is the Proof-of-Equity token of the BKEX trading platform with a 'transaction is mining' mechanism.",
+      "verified": true
+    }
+  ],
+  "id": "4886e2a0-0ce5-44cb-8048-87c403cfdc37",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+    "research": null,
+    "website": "https://www.bkex.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BKEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

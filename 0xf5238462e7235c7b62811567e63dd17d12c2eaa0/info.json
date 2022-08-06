@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CACHE Gold tokens are fully regulated, public, transparent, redeemable tokens backed by gold stored in vaults around the world.",
+      "verified": true
+    }
+  ],
+  "id": "801592c8-ea5f-4035-9c86-4112da9e15ec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
+    "research": null,
+    "website": "https://cache.gold"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5238462e7235c7b62811567e63dd17d12c2eaa0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CACHE Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x19C9872640eC38c2Cf36C0F04d1365Ef067869B3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "41f6ee2e-f29b-425b-b845-a92b0eeba67e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19C9872640eC38c2Cf36C0F04d1365Ef067869B3",
+    "research": null,
+    "website": "https://www.oathprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19c9872640ec38c2cf36c0f04d1365ef067869b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Oath Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OATH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

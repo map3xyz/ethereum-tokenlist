@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA858bC1b71a895Ee83B92F149616F9B3F6Afa0FB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3fd6db4e-e6a1-4774-b52b-77653d487855",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA858bC1b71a895Ee83B92F149616F9B3F6Afa0FB",
+    "research": null,
+    "website": "https://kambria.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kambria Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

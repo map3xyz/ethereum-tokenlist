@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PIN📌is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on Ethereum, Binance Smart Chain, and Polygon.",
+      "verified": true
+    }
+  ],
+  "id": "d4fee59d-e2ef-42b6-ab87-cb6664f3238e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+    "research": null,
+    "website": "https://publicindex.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc1f976b91217e240885536af8b63bc8b5269a9be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

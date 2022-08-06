@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xAf8A215e81FAea7C180CE22b72483525121813BD",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0943af79-e1ad-45b0-a7f6-761127186c4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAf8A215e81FAea7C180CE22b72483525121813BD",
+    "research": null,
+    "website": "https://www.egcchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaf8a215e81faea7c180ce22b72483525121813bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Engine Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xB00934c2694deF3f90aDb8Ce55Ca54fcF230C2D9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5c6b7cc6-7321-4b4e-b6cd-5b598c9104b0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB00934c2694deF3f90aDb8Ce55Ca54fcF230C2D9",
+    "research": null,
+    "website": "http://slicertoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb00934c2694def3f90adb8ce55ca54fcf230c2d9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Slicer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLCR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

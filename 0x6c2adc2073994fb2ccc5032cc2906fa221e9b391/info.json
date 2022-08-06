@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Delphy is a distributed, social mobile prediction market platform built on Ethereum..",
+      "verified": true
+    }
+  ],
+  "id": "9812ebe9-5fa6-4b04-9cd3-3c3d312cbbb5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
+    "research": null,
+    "website": "https://www.delphy.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Delphy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

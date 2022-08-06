@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Building a next-gen scalable crypto payment platform.",
+      "verified": true
+    }
+  ],
+  "id": "0e1e36bd-0c7f-4374-907b-2f8f2bbf00e4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
+    "research": null,
+    "website": "https://global.intercoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6ef5febbd2a56fab23f18a69d3fb9f4e2a70440b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Intercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d28cba88-f6ed-4f2a-9196-2a6fd1a0b71c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+    "research": null,
+    "website": "https://www.siacashcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74fd51a98a4a1ecbef8cc43be801cce630e260bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SiaCashCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

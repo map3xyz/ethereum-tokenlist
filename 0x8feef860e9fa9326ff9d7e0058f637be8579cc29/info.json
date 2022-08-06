@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The TIMERS token is a representation of a humans intrinsic time value. The abbreviation IPM stands for Income/Per/Minute.",
+      "verified": true
+    }
+  ],
+  "id": "9c3f6dac-7867-4b3c-8196-03f9e5d30d47",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
+    "research": null,
+    "website": "https://timers.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8feef860e9fa9326ff9d7e0058f637be8579cc29/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TIMERS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

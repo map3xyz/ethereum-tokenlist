@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market. Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Our vision is to build future Internet of Tokens.",
+      "verified": true
+    }
+  ],
+  "id": "b06d4b3a-c7bd-4498-bb55-5c7c4c23baa2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
+    "research": null,
+    "website": "https://darwinia.network/",
+    "github": "https://github.com/darwinia-network",
+    "twitter": "https://twitter.com/DarwiniaNetwork",
+    "telegram": "https://t.me/DarwiniaNetwork"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Darwinia Commitment Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KTON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

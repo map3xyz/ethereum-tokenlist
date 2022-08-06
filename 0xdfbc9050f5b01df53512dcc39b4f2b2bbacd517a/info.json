@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Jobchain is an ecosystem that enables anybody to find jobs or hire personnel anytime, anywhere while earning salary in cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "02af0167-c94c-43a0-9422-c42e59fe3823",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+    "research": null,
+    "website": "https://www.jobchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jobchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JOB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

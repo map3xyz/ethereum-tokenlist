@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d2e0bb12-6808-4302-81a6-b8cd5422f367",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf",
+    "research": null,
+    "website": "https://agrolot.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72c9fb7ed19d3ce51cea5c56b3e023cd918baadf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Agrolot Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGLT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

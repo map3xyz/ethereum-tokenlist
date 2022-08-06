@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).",
+      "verified": true
+    }
+  ],
+  "id": "f4baa5bd-d37d-4eb9-8c0a-72e1264b7b3a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+    "research": "https://research.binance.com/en/projects/arpa",
+    "website": "https://arpachain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba50933c268f567bdc86e1ac131be072c6b0b71a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ARPA Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARPA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

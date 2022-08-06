@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE9b8897f3bd92a5845CDEAAeBEa1be5703D53fe2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FMO's unique Proof-of-Transaction consensus algorithm, which allows the direct contributors to the blockchain to Transaction and get rewarded, can address the fundamental problems in PoW, PoS consensus algorithms and sustain a fair and reasonable operation.",
+      "verified": true
+    }
+  ],
+  "id": "7059010e-8702-4a99-9f8e-b881871966f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE9b8897f3bd92a5845CDEAAeBEa1be5703D53fe2",
+    "research": null,
+    "website": "https://fmo.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe9b8897f3bd92a5845cdeaaebea1be5703d53fe2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FMO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

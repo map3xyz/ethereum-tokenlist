@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A reputation based, tokenized social platform orientated towards the crypto communities needs, educating retail investors about blockchain based projects.",
+      "verified": true
+    }
+  ],
+  "id": "0a8b0287-4257-4fc8-994c-079535ba14ee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+    "research": null,
+    "website": "https://coreto.io",
+    "github": "https://github.com/coreto-io",
+    "twitter": "https://twitter.com/Coretoio",
+    "telegram": "https://t.me/Coreto",
+    "medium": "https://medium.com/coreto"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coreto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

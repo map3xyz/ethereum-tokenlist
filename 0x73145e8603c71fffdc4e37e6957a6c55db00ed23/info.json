@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x73145E8603c71FFfDC4E37E6957a6C55dB00ED23",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Binary options trading platform",
+      "verified": true
+    }
+  ],
+  "id": "55f85c45-4200-4b8f-a411-a8d41a27e324",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x73145E8603c71FFfDC4E37E6957a6C55dB00ED23",
+    "research": null,
+    "website": "https://nagatrade.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73145e8603c71fffdc4e37e6957a6c55db00ed23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NaGa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NLP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d9813f87-83a0-4d0d-927a-0737d8325be1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB",
+    "research": null,
+    "website": "https://www.seer.best/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SEER-ERC20-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

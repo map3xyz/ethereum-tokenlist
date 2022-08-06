@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The governance token for VitaDAO, a decentralized collective funding early stage longevity research.",
+      "verified": true
+    }
+  ],
+  "id": "fa5d6d67-5fde-4ff8-b8b3-e34061d2f296",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321",
+    "research": null,
+    "website": "https://www.vitadao.com",
+    "twitter": "https://twitter.com/vita_dao",
+    "github": "https://github.com/VitaDAO",
+    "telegram": "https://t.me/vitadao",
+    "telegramNews": "https://t.me/vitadaonews",
+    "blog": "https://www.vitadao.com/",
+    "discord": "https://discord.com/channels/810893413880561704/880806340837118022",
+    "whitepaper": "https://github.com/VitaDAO/whitepaper/raw/master/VitaDAO_Whitepaper.pdf",
+    "medium": "https://vitadao.medium.com/",
+    "reddit": "https://reddit.com/r/VitaDAO/",
+    "coingecko": "https://coingecko.com/en/coins/vitadao",
+    "youtube": "https://youtube.com/c/vitadao"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VitaDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VITA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Auctus will be the utility token at the heart of the DeFi products developed by Auctus.",
+      "verified": true
+    }
+  ],
+  "id": "96533277-f80f-4e7a-b486-ac9d9c1f680d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+    "research": null,
+    "website": "https://auctus.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc12d099be31567add4e4e4d0d45691c3f58f5663/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Auctus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RSD is an algorithmic token with dynamic supply based on reinforcement learning aimed at the DeFi market.",
+      "verified": true
+    }
+  ],
+  "id": "155c29cb-48bb-4336-87e0-f2732756f1e3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+    "research": null,
+    "website": "https://rsd.cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61ed1c66239d29cc93c8597c6167159e8f69a823/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Reference System for DeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

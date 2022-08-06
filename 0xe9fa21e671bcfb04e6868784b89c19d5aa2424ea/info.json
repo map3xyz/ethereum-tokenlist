@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "773b5ac1-950a-46d3-bb58-eab2a9ed9226",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+    "research": null,
+    "website": "https://eurocoinpay.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EurocoinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

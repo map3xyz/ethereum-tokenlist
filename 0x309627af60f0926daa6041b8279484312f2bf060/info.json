@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USDB is a stabletoken backed by BNT (Bancor Network Token), and utilized in relays on the Bancor network.",
+      "verified": true
+    }
+  ],
+  "id": "edd55e16-23e6-49de-b84c-522138e3f5e9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x309627af60F0926daa6041B8279484312f2bf060",
+    "research": null,
+    "website": "https://usdb.peg.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x309627af60f0926daa6041b8279484312f2bf060/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bancor USD Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

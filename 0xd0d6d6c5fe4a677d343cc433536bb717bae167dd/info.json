@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "adChain is a browser agnostic Ethereum based solution for digital advertising that seamlessly integrates with pre-existing RTB and programmatic industry standards.",
+      "verified": true
+    }
+  ],
+  "id": "df8666c1-1727-44f2-b3c0-69b1854956cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+    "research": null,
+    "website": "https://adtoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AdToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

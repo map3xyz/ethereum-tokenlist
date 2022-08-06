@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SoMee.Social (ONG) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "786a8f69-ee11-439a-9479-4e1b06c9ad24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+    "research": null,
+    "website": "https://SoMee.social"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "onG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

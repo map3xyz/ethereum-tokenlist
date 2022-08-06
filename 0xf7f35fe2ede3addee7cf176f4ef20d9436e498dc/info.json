@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Biffy is a cybernetic system that lives on the Ethereum blockchain and loves art.",
+      "verified": true
+    }
+  ],
+  "id": "17f8f02d-728c-4f7b-9785-6d2622bbf02b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+    "research": null,
+    "website": "https://biffy.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf7f35fe2ede3addee7cf176f4ef20d9436e498dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Biffys Love",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

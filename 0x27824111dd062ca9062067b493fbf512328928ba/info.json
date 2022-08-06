@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x27824111DD062Ca9062067B493Fbf512328928BA",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UNI Payment System, a globally accepted payment system based exclusively on cryptocurrencies and stablecoins.",
+      "verified": true
+    }
+  ],
+  "id": "fa5f5b13-4aa0-4a0f-9185-571db2406116",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27824111dd062ca9062067b493fbf512328928ba",
+    "research": null,
+    "website": "https://unitoken.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27824111dd062ca9062067b493fbf512328928ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

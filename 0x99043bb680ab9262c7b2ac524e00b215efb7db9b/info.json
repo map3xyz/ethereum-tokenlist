@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bishu is a community driven ERC20 token that gives back to charities",
+      "verified": true
+    }
+  ],
+  "id": "9361c1a1-c77d-43f2-a318-2c564a369685",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x99043bb680ab9262c7b2ac524e00b215efb7db9b",
+    "research": null,
+    "website": "https://bishu.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x99043bb680ab9262c7b2ac524e00b215efb7db9b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Black Kishu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BISHU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

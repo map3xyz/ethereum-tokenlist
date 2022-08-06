@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The proposal of the ZCore Token (ZCRT) is to take advantage of the technological and usability advantages offered by the platform ZCore Network.",
+      "verified": true
+    }
+  ],
+  "id": "49405935-e425-4292-8957-08e9b4edc06b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C",
+    "research": null,
+    "website": "https://zcore.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7e43a1c8e118aa2965f5eabe0e718d83db7a63c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZCore Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

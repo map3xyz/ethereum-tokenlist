@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4b94c8567763654101F690Cf4d54957206383b75",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NeoWorld is a multiplayer sandbox game running on the blockchain and a 3D virtual world created by users all over the globe.",
+      "verified": true
+    }
+  ],
+  "id": "95147103-ce83-4fd4-b48a-cfdfba49882b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4b94c8567763654101F690Cf4d54957206383b75",
+    "research": null,
+    "website": "https://neoworld.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b94c8567763654101f690cf4d54957206383b75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NEOWORLD CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

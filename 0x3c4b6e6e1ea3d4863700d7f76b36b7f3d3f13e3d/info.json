@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "9db906bd-3159-4e5e-af31-65b7c097e742",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+    "research": null,
+    "website": "https://www.investvoyager.com",
+    "blog": "https://investvoyager.com/blog/",
+    "twitter": "https://twitter.com/investvoyager",
+    "reddit": "https://reddit.com/r/Invest_Voyager/",
+    "telegram": "https://t.me/investvoyager",
+    "whitepaper": "https://investvoyager.com/VoyagerToken/White_Paper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/ethos/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Voyager Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

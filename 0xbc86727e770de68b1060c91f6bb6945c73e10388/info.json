@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized reputation and payments for peer-to-peer marketplaces.",
+      "verified": true
+    }
+  ],
+  "id": "0325f56a-d91f-451d-8ecd-093d87646157",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBC86727E770de68B1060C91f6BB6945c73e10388",
+    "research": null,
+    "website": "https://paywithink.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc86727e770de68b1060c91f6bb6945c73e10388/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ink Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

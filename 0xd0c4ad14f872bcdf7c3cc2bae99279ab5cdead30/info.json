@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c1b2288d-b05f-413a-88ca-e1f6eae2a18c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+    "research": null,
+    "website": "https://www.epacoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0c4ad14f872bcdf7c3cc2bae99279ab5cdead30/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Epacoin ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aavegotchis are crypto-collectibles living on the Ethereum blockchain, backed by the ERC721 standard used in popular blockchain games. $GHST is the official utility token of the Aavegotchi ecosystem and can be used to purchase portals, wearables, and consumables.",
+      "verified": true
+    }
+  ],
+  "id": "7c0c1ff0-495b-4638-aaef-9b1a8000e54b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "research": null,
+    "website": "https://www.aavegotchi.com/",
+    "github": "https://github.com/aavegotchi",
+    "twitter": "https://twitter.com/aavegotchi",
+    "coingecko": "https://coingecko.com/en/coins/aavegotchi/",
+    "medium": "https://aavegotchi.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aavegotchi-ghst-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3f382dbd960e3a9bbceae22651e88158d2791550/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aavegotchi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GHST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

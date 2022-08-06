@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+  "color": null,
+  "decimals": 0,
+  "description": [],
+  "id": "3cc7da25-898e-4fdc-9c2b-b7f8bd2305dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+    "research": null,
+    "website": "https://vndc.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VNDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VNDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

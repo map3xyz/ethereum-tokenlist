@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
+      "verified": true
+    }
+  ],
+  "id": "225abe4d-ad38-442f-acec-c596b44e13e9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+    "research": "https://research.binance.com/en/projects/akropolis",
+    "website": "https://akropolis.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Akropolis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AKRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

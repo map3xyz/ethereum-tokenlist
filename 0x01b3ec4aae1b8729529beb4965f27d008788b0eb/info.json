@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Digital Assets Power Play Ltd. (DPP) is the leading developer of algorithmic crypto trading tools, services, and software. DPP offers a full suite of revolutionary and intuitive tools for algo strategy creation, DPP DataStreams, DPP Historical, DPP Trader+, DPP TradeVenue and DPP Coinvestor.",
+      "verified": true
+    }
+  ],
+  "id": "3267eeef-b4c5-4a23-bb37-5753b4f2c305",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
+    "research": null,
+    "website": "https://dapowerplay.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01b3ec4aae1b8729529beb4965f27d008788b0eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DA Power Play Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

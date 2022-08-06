@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e46d7e0d-0138-4785-9d69-f7c3e5410bb1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da",
+    "research": null,
+    "website": "http://ecoball.org/#/home"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c2af3a86b4bf47e6ee63ad9bde7b3b0ba7f95da/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EcosBall",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

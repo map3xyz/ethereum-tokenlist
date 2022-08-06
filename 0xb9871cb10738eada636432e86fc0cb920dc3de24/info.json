@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb9871cB10738eADA636432E86FC0Cb920Dc3De24",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PRIA is a fully automated and decentralized digital asset that implements and manages a perpetual ultra-deflationary monetary policy favourable to inflation arbitrage by market participants.",
+      "verified": true
+    }
+  ],
+  "id": "e3518f67-493a-4f63-8288-ed2eeef42ab1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb9871cB10738eADA636432E86FC0Cb920Dc3De24",
+    "research": null,
+    "website": "https://pria.eth.link"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9871cb10738eada636432e86fc0cb920dc3de24/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PRIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRIA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Folder Protocol provides a blockchain-based second layer technologies and marketplace that aims to revolutionize the global storage economy for highly scalable, faster retrieval, and wider distribution.",
+      "verified": true
+    }
+  ],
+  "id": "fd056635-aac7-4dfa-9361-ed6e1f32832e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+    "research": null,
+    "website": "https://folderlabs.io/",
+    "twitter": "https://twitter.com/folderlabs",
+    "telegram": "https://t.me/folderlabs",
+    "reddit": "https://reddit.com/user/folderlabs",
+    "medium": "https://folderlabs.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8580f3363684d76055bdc6660caefe8709744e1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Folder Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

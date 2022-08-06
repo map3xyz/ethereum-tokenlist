@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe18AF2C54B852AC2260834534CE70661ABbB321B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BDAO Network is a decentralized and autonomous reward platform that runs on the Ethereum blockchain through smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "e57ede41-6d33-456b-bf58-f608af6bc66c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe18AF2C54B852AC2260834534CE70661ABbB321B",
+    "research": null,
+    "website": "https://bdao.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe18af2c54b852ac2260834534ce70661abbb321b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDAO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

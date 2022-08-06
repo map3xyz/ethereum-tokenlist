@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x06EA6a8992c447A618b1b5495AA5C42228C1A5E1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "First Blockchain network passive asset management open-source, community-owned, permissionless, and censorship-resistant protocol for connecting effective management and profits to long term holders.",
+      "verified": true
+    }
+  ],
+  "id": "9ebc6ba7-9c24-4197-a6db-fe15d008e9f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x06EA6a8992c447A618b1b5495AA5C42228C1A5E1",
+    "research": null,
+    "website": "https://sagapassive.live/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06ea6a8992c447a618b1b5495aa5c42228c1a5e1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SAGA PASSIVE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3b9e094D56103611f0ACEfDAb43182347BA60dF4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "No.1 Trading Strategy Marketplace",
+      "verified": true
+    }
+  ],
+  "id": "43fced5b-b73f-445c-90e2-a4d35a8de43d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b9e094D56103611f0ACEfDAb43182347BA60dF4",
+    "research": null,
+    "website": "https://pantheonx.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b9e094d56103611f0acefdab43182347ba60df4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PANTHEON X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

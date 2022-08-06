@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Verasity",
+      "verified": true
+    }
+  ],
+  "id": "ca748841-e916-4cbf-98e2-c69a8af8079b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F",
+    "research": null,
+    "website": "https://verasity.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VRA (old ERC-20)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VRA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

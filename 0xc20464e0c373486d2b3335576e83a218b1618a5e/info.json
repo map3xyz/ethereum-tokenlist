@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc20464e0C373486d2B3335576e83a218b1618A5E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Datarius cryptobank is a decentralized partially closed system.",
+      "verified": true
+    }
+  ],
+  "id": "d9464e4c-8a1b-4f46-8645-64f2b533d6e0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc20464e0C373486d2B3335576e83a218b1618A5E",
+    "research": null,
+    "website": "https://datarius.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc20464e0c373486d2b3335576e83a218b1618a5e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Datarius Credit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

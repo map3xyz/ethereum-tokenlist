@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KFC token has a swap business.",
+      "verified": true
+    }
+  ],
+  "id": "cacf13de-588c-4de4-94e1-6133c6468d6b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+    "research": null,
+    "website": "https://chickenswap.org/#/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe63684bcf2987892cefb4caa79bd21b34e98a291/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chicken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KFC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

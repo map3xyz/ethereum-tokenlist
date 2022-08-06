@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MX is the native token of the MXC trading platform. MX holders reportedly benefit from asset appreciation, rebates on platform revenue, supervision, and voting.",
+      "verified": true
+    }
+  ],
+  "id": "70595a7a-a7f3-4305-a051-4fe7424712e4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+    "research": null,
+    "website": "https://mxc.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11eef04c884e24d9b7b4760e7476d06ddf797f36/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

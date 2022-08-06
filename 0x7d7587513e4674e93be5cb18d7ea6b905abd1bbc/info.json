@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7d7587513e4674e93Be5CB18d7EA6b905Abd1BbC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "D4RKBAY : P2P e-commerce solution focused on users privacy.",
+      "verified": true
+    }
+  ],
+  "id": "72cb23e6-c6be-4535-8dda-6bf95e0e610e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7d7587513e4674e93Be5CB18d7EA6b905Abd1BbC",
+    "research": null,
+    "website": "https://coin.darkpay.market"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d7587513e4674e93be5cb18d7ea6b905abd1bbc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DARK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DARK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

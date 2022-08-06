@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YEARN FINANCE PASSIVE INCOME (YFPI) is a Governance token. Users who stake YFPI tokens can vote for potential product upgrades, releases, and parameter fixes.",
+      "verified": true
+    }
+  ],
+  "id": "5683f0b9-e53b-43f9-8e85-f3a5ddb14141",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+    "research": null,
+    "website": "https://yfpi.finance/",
+    "github": "https://github.com/yfpi",
+    "twitter": "https://twitter.com/YFPIncome",
+    "telegram": "https://t.me/YF_PI",
+    "medium": "https://medium.com/@yfpincome"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yearn Finance Passive Income",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFPI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

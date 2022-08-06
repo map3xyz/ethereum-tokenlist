@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Value DeFi: Bringing True Value to DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "7292ce25-f528-43fa-b3bf-885a767bc39e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C",
+    "research": null,
+    "website": "https://valuedefi.io/",
+    "github": "https://github.com/valuedefi",
+    "twitter": "https://twitter.com/value_defi",
+    "telegram": "https://t.me/ValueDeFi",
+    "discord": "https://discord.com/invite/Dpvd7tp",
+    "medium": "https://medium.com/@valuedefi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Value USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

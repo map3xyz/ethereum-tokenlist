@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0eF3b2024ae079e6dBC2b37435cE30d2731F0101",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UNIFI is a Defi coin used to interact in the UNifi decentralized financial eco-sysytem ",
+      "verified": true
+    }
+  ],
+  "id": "4f6985b8-b556-4ff2-86bc-ddc7dd04c281",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0eF3b2024ae079e6dBC2b37435cE30d2731F0101",
+    "research": null,
+    "website": "https://UNIFIDEFI.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNIFI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNIFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

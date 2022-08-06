@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CAT Token - created for people who love cats.",
+      "verified": true
+    }
+  ],
+  "id": "b62fcce4-4ddc-4496-b6c8-ba980423ff18",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
+    "research": null,
+    "website": "https://thecattoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CAT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

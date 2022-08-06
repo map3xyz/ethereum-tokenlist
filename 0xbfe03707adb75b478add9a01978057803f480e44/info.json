@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBfE03707aDb75b478Add9A01978057803F480E44",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Imsmart is a utility token designed to facilitate the advanced development and deployment of SME 360 solutions.",
+      "verified": true
+    }
+  ],
+  "id": "bcc2e7a6-9593-4200-be6b-8e865abaf638",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBfE03707aDb75b478Add9A01978057803F480E44",
+    "research": null,
+    "website": "https://imsmart.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbfe03707adb75b478add9a01978057803f480e44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IMSMART",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

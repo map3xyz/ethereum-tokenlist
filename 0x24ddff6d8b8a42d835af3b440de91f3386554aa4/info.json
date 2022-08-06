@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralised global wireless internet provider.",
+      "verified": true
+    }
+  ],
+  "id": "c0116299-9a4b-466a-a2a3-50834e0b9d45",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
+    "research": null,
+    "website": "https://iungo.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24ddff6d8b8a42d835af3b440de91f3386554aa4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IUNGO token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ING",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

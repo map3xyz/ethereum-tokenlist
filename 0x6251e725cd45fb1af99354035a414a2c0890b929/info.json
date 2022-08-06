@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "367d95eb-b1c0-494d-9af7-e55187eaa5c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+    "research": null,
+    "website": "https://www.mixtrust.exchange/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6251e725cd45fb1af99354035a414a2c0890b929/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MixTrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

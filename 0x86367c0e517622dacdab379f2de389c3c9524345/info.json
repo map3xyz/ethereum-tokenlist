@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x86367c0e517622DAcdab379f2de389c3C9524345",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The UPUSD is a fully-transparent, digital asset that is collateralized 1-to-1 with U.S. dollars to be held at U.S. domiciled, FDIC-insured banks.",
+      "verified": true
+    }
+  ],
+  "id": "4334efa9-fd65-461a-b640-9ea84d9b655d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x86367c0e517622dacdab379f2de389c3c9524345",
+    "research": null,
+    "website": "https://universalprotocol.io/",
+    "reddit": "https://reddit.com/r/universalprotocol/",
+    "twitter": "https://twitter.com/UPPlatform",
+    "coingecko": "https://coingecko.com/en/coins/universal-us-dollar/",
+    "medium": "https://medium.com/universalprotocol",
+    "telegram": "https://t.me/universalprotocolplatform"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86367c0e517622dacdab379f2de389c3c9524345/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Universal US Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UPUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

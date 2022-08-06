@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5ca326ae-268e-48b3-a4df-214103897313",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+    "research": null,
+    "website": "https://www.usechain.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UseChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

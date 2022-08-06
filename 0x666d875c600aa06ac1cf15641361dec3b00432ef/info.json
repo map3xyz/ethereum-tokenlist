@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BTSE utility token carefully designed to augment the user experience on the exchange and within the BTSE ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "7aedf155-abcb-4f6f-a55a-f455d89abbdb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+    "research": null,
+    "website": "https://btse.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x666d875c600aa06ac1cf15641361dec3b00432ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTSE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTSE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

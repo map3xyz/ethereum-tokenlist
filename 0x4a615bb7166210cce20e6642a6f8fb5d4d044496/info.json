@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A DeFi lending protocol allowing lenders and SME borrowers to facilitate permissionless and borderless loaning/borrowing transactions",
+      "verified": true
+    }
+  ],
+  "id": "1036ac7a-c988-4b3e-88bf-96cf6ba9b229",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+    "research": null,
+    "website": "https://naos.finance/",
+    "twitter": "https://twitter.com/naos_finance",
+    "github": "https://github.com/NAOS-Finance",
+    "telegram": "https://t.me/naos_finance",
+    "discord": "https://discord.com/invite/rRaPwCVTaA",
+    "medium": "https://medium.com/naos-finance",
+    "youtube": "https://youtube.com/channel/UCPu4TKw6uQaKFuXAUtzdtMg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/naos-finance/",
+    "docs": "https://naosfinance.gitbook.io/naos-finance/",
+    "coingecko": "https://coingecko.com/en/coins/naos-finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a615bb7166210cce20e6642a6f8fb5d4d044496/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NAOS Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Machi X claims to be a collective of artists and patrons, curating and trading digital art. The Machi X DAO is a member-directed organization where members pool resources, create proposals to improve Machi X, and approve governance changes for the Machi X ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "d81f1baf-6b04-41d6-91d9-835a9b96ffb0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+    "research": null,
+    "website": "https://machix.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MachiX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

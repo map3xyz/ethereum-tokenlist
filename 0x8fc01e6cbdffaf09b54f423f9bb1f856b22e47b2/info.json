@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "bcc8c60b-c18c-4aab-b5a0-28c3ff6bdd44",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
+    "research": null,
+    "website": "https://www.obitanchain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fc01e6cbdffaf09b54f423f9bb1f856b22e47b2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ObitanChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

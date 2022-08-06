@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+  "color": null,
+  "decimals": 9,
+  "description": [],
+  "id": "d48f283f-c438-40d4-a4e6-07971a006f51",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7FCE2856899a6806eeEf70807985fc7554C66340",
+    "research": null,
+    "website": "https://cryptolending.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7fce2856899a6806eeef70807985fc7554c66340/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CLP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

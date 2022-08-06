@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BlackPearl Token ",
+      "verified": true
+    }
+  ],
+  "id": "c71ea293-cc50-4afb-950d-4ba9a43b2a37",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
+    "research": null,
+    "website": "https://blackpearlchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x426fc8be95573230f6e6bc4af91873f0c67b21b4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BlackPearl Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPLC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

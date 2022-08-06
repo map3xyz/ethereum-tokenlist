@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFFS adopts a modular design. Modularity refers to the combination of various elements of the product to form a subsystem with specific functions. We combine these subsystem as a universal module with other modules to create a new system with multiple functions and performance.",
+      "verified": true
+    }
+  ],
+  "id": "5f9a0689-acbb-44ba-8033-fcd1023b2324",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
+    "research": null,
+    "website": "https://yffs.finance/",
+    "github": "https://github.com/yffsfinance",
+    "twitter": "https://twitter.com/yffsfinance",
+    "telegram": "https://t.me/yffsfinance",
+    "medium": "https://medium.com/@yffs.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFARM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFARM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

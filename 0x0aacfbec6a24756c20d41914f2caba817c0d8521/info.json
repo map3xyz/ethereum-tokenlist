@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YAM is a decentralized cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "dde3f7f4-9069-4eb7-be5e-539ead40afd2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+    "research": null,
+    "website": "https://yam.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0aacfbec6a24756c20d41914f2caba817c0d8521/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YAM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

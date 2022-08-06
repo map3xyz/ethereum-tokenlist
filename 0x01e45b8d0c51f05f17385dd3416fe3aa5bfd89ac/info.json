@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f8d28557-1c08-4714-88a6-ffad775e7cfb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+    "research": null,
+    "website": "https://www.coinbig.com/cb.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01e45b8d0c51f05f17385dd3416fe3aa5bfd89ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "COINBIG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

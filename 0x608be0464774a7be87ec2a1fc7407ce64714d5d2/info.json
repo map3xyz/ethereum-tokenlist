@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x608Be0464774A7Be87EC2a1fc7407ce64714d5D2",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "fde517c4-1b6b-4c8b-95cb-e6f95eaa05f2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x608Be0464774A7Be87EC2a1fc7407ce64714d5D2",
+    "research": null,
+    "website": "https://www.globalcryptogate.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x608be0464774a7be87ec2a1fc7407ce64714d5d2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GlobalCryptoGate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

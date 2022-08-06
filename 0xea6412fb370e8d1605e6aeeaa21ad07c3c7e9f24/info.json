@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mushroom is a community-driven digital currency supporting financial freedom.",
+      "verified": true
+    }
+  ],
+  "id": "8a6656ae-6a66-48da-b57d-c7ef18dbe78b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+    "research": null,
+    "website": "https://www.mushroom.community/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mushroom (MUSH)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUSH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

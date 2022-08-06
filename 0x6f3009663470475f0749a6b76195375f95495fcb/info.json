@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6F3009663470475F0749A6b76195375f95495fcB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HatchDAO is a universal repository for researchers and developers to experiment with various decentralized consensus protocols in DAO’s",
+      "verified": true
+    }
+  ],
+  "id": "f2f025b1-2690-4253-94de-3ba404b79d16",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6F3009663470475F0749A6b76195375f95495fcB",
+    "research": "https://etherscan.io/token/0x6f3009663470475f0749a6b76195375f95495fcb",
+    "website": "https://hatchdao.finance",
+    "github": "https://github.com/HatchDAO/HatchDAO-Token",
+    "whitepaper": "https://pdfhost.io/v/sizGm.REJ_HatchDao_WPpdf.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f3009663470475f0749a6b76195375f95495fcb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HATCH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HATCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

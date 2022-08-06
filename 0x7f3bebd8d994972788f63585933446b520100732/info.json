@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7f3BEbd8D994972788f63585933446b520100732",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Meme Tokens that grew into a vibrant ecosystem, Up to explode!",
+      "verified": true
+    }
+  ],
+  "id": "59602c46-d30d-441f-a693-685f2511f824",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7f3bebd8d994972788f63585933446b520100732",
+    "research": null,
+    "website": "https://www.pinatapins.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f3bebd8d994972788f63585933446b520100732/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pinata",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PINS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

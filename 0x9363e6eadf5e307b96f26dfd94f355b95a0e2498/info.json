@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9363E6eaDF5e307b96f26DFd94F355b95A0e2498",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "efd4d8a6-5451-4626-94cb-c79a971cbbb5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9363E6eaDF5e307b96f26DFd94F355b95A0e2498",
+    "research": null,
+    "website": "https://vestoria.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9363e6eadf5e307b96f26dfd94f355b95a0e2498/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vestoria",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

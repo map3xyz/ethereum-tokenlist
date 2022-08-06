@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3918C42F14F2eB1168365F911f63E540E5A306b5",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "4fbcc78c-033a-487e-b8f9-d5cf913fd8ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3918C42F14F2eB1168365F911f63E540E5A306b5",
+    "research": null,
+    "website": "https://www.nrp.world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3918c42f14f2eb1168365f911f63e540e5a306b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Neural Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

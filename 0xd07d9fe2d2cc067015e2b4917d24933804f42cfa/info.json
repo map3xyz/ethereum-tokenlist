@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tolar is an open source, community governed crypto-currency featuring scalable, fast, secure, and fair transactions.",
+      "verified": true
+    }
+  ],
+  "id": "4c7d1859-8cfc-42a2-9998-5b4b5f22f45d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA",
+    "research": null,
+    "website": "https://www.tolar.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd07d9fe2d2cc067015e2b4917d24933804f42cfa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tolar Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ariva (ARV) is a cryptocurrency supported by Ariva Co., produced for active use in global and local tourism and travel networks in the near future.",
+      "verified": true
+    }
+  ],
+  "id": "201a73fb-e5e3-444b-aa0f-41cc64a04fa8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
+    "research": null,
+    "website": "https://www.ariva.digital/",
+    "twitter": "https://twitter.com/ArivaCoin",
+    "github": "https://github.com/ariva-digital",
+    "telegram": "https://t.me/ariva_arv",
+    "telegramNews": "https://t.me/arivadigital",
+    "youtube": "https://youtube.com/channel/UCYab7J37fMRtP7ucjEc0eog",
+    "facebook": "https://facebook.com/arivadigital",
+    "medium": "https://medium.com/@arivacoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ariva/",
+    "coingecko": "https://coingecko.com/en/coins/ariva"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79c7ef95ad32dcd5ecadb231568bb03df7824815/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ariva",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARV",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

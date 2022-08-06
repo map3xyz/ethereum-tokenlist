@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.",
+      "verified": true
+    }
+  ],
+  "id": "7d7addde-654f-4239-9e3c-18f2352967e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+    "research": null,
+    "website": "https://www.fintrux.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd559f20296ff4895da39b5bd9add54b442596a61/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FintruX Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xD01ef7C0A5d8c432fc2d1a85c66cF2327362E5C6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "aETHb is a reward-earing bond that enables instant liquidity for staked ETH tokens in Ethereum 2.0 network.",
+      "verified": true
+    }
+  ],
+  "id": "2ec650b2-584a-4025-bfa4-d8d1b2d0ca89",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD01ef7C0A5d8c432fc2d1a85c66cF2327362E5C6",
+    "research": null,
+    "website": "https://stkr.io/",
+    "github": "https://github.com/Ankr-network/stkr-smartcontract",
+    "twitter": "https://twitter.com/Ankr",
+    "telegram": "https://t.me/ankrnetwork",
+    "medium": "https://medium.com/ankr-network",
+    "whitepaper": "https://assets.ankr.com/files/stkr_whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "aETHb",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aETHb",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

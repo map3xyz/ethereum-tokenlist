@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.",
+      "verified": true
+    }
+  ],
+  "id": "ea96f14f-2e47-4caa-a8ef-29f1558fd1b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+    "research": null,
+    "website": "https://ftx.com",
+    "blog": "https://blog.ftx.com/",
+    "twitter": "https://twitter.com/FTX_Official",
+    "telegram": "https://t.me/FTX_Official",
+    "whitepaper": "https://docs.google.com/document/d/1u5MOkENoWP8PGcjuoKqRkNP5Gl1LLRB9JvAHwffQ7ec/view",
+    "coingecko": "https://coingecko.com/en/coins/ftx-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FTX Token (FTT)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

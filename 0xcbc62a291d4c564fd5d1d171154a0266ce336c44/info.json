@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZYTH is used to lower commission fees on the exchange, currency pairing, casino games, marketplace and even to pay members ads on our social platform.",
+      "verified": true
+    }
+  ],
+  "id": "c0504452-e9ea-43e0-b713-bab24410e073",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+    "research": null,
+    "website": "https://uzyth.com/",
+    "github": "https://github.com/zythtech",
+    "whitepaper": "https://18.190.113.58//api.uzyth.com/uploaded_media/downloads/1591291137645_download.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbc62a291d4c564fd5d1d171154a0266ce336c44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZYTH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "\"\"",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

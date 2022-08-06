@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Snovian.Space is a decentralized reward based social networking platform. Snovian.Space is designed specifically for professionals in crypto, tech, and other niches. Users can contact each other via messages, that the recipients read and answer, incentivized by a crypto reward for their time and expertise.",
+      "verified": true
+    }
+  ],
+  "id": "0fc5cc8e-01b4-46c9-8013-e00cfa78854e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
+    "research": null,
+    "website": "https://snovian.space/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdc5bac39dbe132b1e030e898ae3830017d7d969/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Snovio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

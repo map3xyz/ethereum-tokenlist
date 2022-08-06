@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "82f7e910-116c-4102-8ef4-d993c9a6eea7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+    "research": null,
+    "website": "https://pyro.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14409b0fc5c7f87b5dad20754fe22d29a3de8217/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PYRO Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYRO",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DVP (Decentralized Vulnerability Platform) is an international community of information security professionals (White Hats). The platform endeavors to build, leveraging on Blockchain technologies and utilizing Blockchain-based token as a key incentive, a technology driven global community and ecosystem that brings organizations, Blockchain projects and White Hats together, creating a sustainable secure environment for the Blockchain industry as a whole.",
+      "verified": true
+    }
+  ],
+  "id": "e414b96c-8371-459f-86bf-f6514097c38e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8E30ea2329D95802Fd804f4291220b0e2F579812",
+    "research": null,
+    "website": "https://dvpnet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e30ea2329d95802fd804f4291220b0e2f579812/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentralized Vulnerability Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DVP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

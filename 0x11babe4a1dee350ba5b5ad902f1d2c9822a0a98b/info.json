@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x11baBe4a1Dee350BA5b5aD902F1d2C9822A0a98B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "be288588-4cb0-4728-a6df-5fbbd99e7c2e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11baBe4a1Dee350BA5b5aD902F1d2C9822A0a98B",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11babe4a1dee350ba5b5ad902f1d2c9822a0a98b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Short WBTC-DAI 4x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsWBTC4x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

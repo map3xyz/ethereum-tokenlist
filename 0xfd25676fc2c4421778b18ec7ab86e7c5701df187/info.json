@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFD25676Fc2c4421778B18Ec7Ab86E7C5701DF187",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Alchemy is a decentralized data model training platform based on blockchain security encryption operation and a random forest training model.",
+      "verified": true
+    }
+  ],
+  "id": "e52175b0-e700-4c0c-9def-9d1eed023d85",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFD25676Fc2c4421778B18Ec7Ab86E7C5701DF187",
+    "research": null,
+    "website": "https://alchemy-ai.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfd25676fc2c4421778b18ec7ab86e7c5701df187/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alchemy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Alchemy",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

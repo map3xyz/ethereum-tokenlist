@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9025f9A59694dd939739e05beB2502a567e8326f",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ec68e45a-8a1b-4486-8bc6-7067ad1ddee0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9025f9A59694dd939739e05beB2502a567e8326f",
+    "research": null,
+    "website": "https://namtancoin.cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9025f9a59694dd939739e05beb2502a567e8326f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NamTanToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAMTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

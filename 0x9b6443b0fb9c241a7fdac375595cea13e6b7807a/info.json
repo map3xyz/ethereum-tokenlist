@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Reality Clash is an Augmented Reality FPS combat game set in an underground world of cryptocurrency and hackers.",
+      "verified": true
+    }
+  ],
+  "id": "ca494c2d-311d-4b15-9de1-81a7721d8fc6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
+    "research": null,
+    "website": "http://reality-clash.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Reality Clash Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

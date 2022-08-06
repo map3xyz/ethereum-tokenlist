@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHIBG is Community Project",
+      "verified": true
+    }
+  ],
+  "id": "f5682efc-db42-4a10-b543-fc2548f7c8f4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+    "research": null,
+    "website": "https://shibgtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c749474ecd356cb399d87eb60fd078368d24d4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SHIBA INU GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIBG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MTB21 is a wine-backed vintage coin from Costaflores",
+      "verified": true
+    }
+  ],
+  "id": "f3a976ea-f206-4fa0-82a6-00a0f8f2c0a1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308",
+    "research": "https://wiki.costaflores.com",
+    "website": "https://openvino.exchange/MTB21"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69d3af30c63f5bd916bbcd79b58dbc8bd16d0308/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MikeTangoBravo21",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTB21",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

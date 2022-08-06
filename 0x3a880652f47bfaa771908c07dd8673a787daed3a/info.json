@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy.",
+      "verified": true
+    }
+  ],
+  "id": "5edd2d9b-0bad-4efb-9223-07d51949b401",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "research": null,
+    "website": "https://derivadex.com",
+    "twitter": "https://twitter.com/DDX_Official",
+    "telegram": "https://t.me/DerivaDEX",
+    "discord": "https://discord.com/invite/rSYxQD2j",
+    "youtube": "https://youtube.com/channel/UCSAEVzSu0AEcJF2e7TMbZJg",
+    "reddit": "https://reddit.com/r/derivadex/",
+    "medium": "https://medium.com/derivadex",
+    "github": "https://gitlab.com/derivadex"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a880652f47bfaa771908c07dd8673a787daed3a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DDX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Utrust platform allows merchants to accept digital currencies as a means of payment.",
+      "verified": true
+    }
+  ],
+  "id": "a3fe1d09-6ad4-4bc5-a574-b10562280809",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+    "research": "https://research.binance.com/en/projects/utrust",
+    "website": "https://utrust.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Utrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

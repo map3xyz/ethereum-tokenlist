@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0dF721639CA2F7fF0E1F618b918A65FFB199AC4E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Howdoo is a revolutionary new messaging and social media platform that offers greater choice and control to users.",
+      "verified": true
+    }
+  ],
+  "id": "72ebc4c7-3781-4be5-9820-2f5464fdba18",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0dF721639CA2F7fF0E1F618b918A65FFB199AC4E",
+    "research": null,
+    "website": "https://howdoo.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0df721639ca2f7ff0e1f618b918a65ffb199ac4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "uDOO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uDOO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

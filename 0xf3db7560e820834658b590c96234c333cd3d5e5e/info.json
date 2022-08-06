@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf3db7560E820834658B590C96234c333Cd3D5E5e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.",
+      "verified": true
+    }
+  ],
+  "id": "f8c47095-717e-4e18-b7ac-29ea57fdaa72",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf3db7560E820834658B590C96234c333Cd3D5E5e",
+    "research": null,
+    "website": "https://coinpoker.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3db7560e820834658b590c96234c333cd3d5e5e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Poker Chips",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

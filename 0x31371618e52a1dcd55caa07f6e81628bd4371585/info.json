@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x31371618e52a1dCD55Caa07f6E81628Bd4371585",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ATBANK DIGITAL under AT GROUP is the world's first bank to use digital banking service. With the motto: “In just a few minutes, with no need for branches or paperwork”, you absolutely do not need to go to the bank, or use any paper for your banking activities. Just open the ATBANK DIGITAL app and use it to complete transactions in just a few seconds. Anytime... Anywhere...",
+      "verified": true
+    }
+  ],
+  "id": "1dd59f07-8d18-410c-8db1-1238b9b5e97c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x31371618e52a1dCD55Caa07f6E81628Bd4371585",
+    "research": null,
+    "website": "https://defi.atbankdigital.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31371618e52a1dcd55caa07f6e81628bd4371585/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ATBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

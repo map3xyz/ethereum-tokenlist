@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AMEPAY is a cryptocurrency-based payment alternative that is fast, convenient, and secure. AMEPAY eliminates the complexity, high-costs, and delays that are familiar to the present system and replaces it with a simple, affordable, and quick network.",
+      "verified": true
+    }
+  ],
+  "id": "75342688-10ea-44df-8f05-7a43ef119147",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+    "research": null,
+    "website": "https://amepay.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12513335ffd5dafc2334e98625d27c1ca84bff86/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AME Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Celo Dollar is a 1:1 equivalent of the Celo Dollar on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "38fbff23-bc59-44fd-b738-b6b9167fd23f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+    "research": null,
+    "website": "https://www.wrapped.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "wCUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

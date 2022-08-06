@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Governance by Traders for Traders. By linking game-theory and collective intelligence, we aim to welcome thousands of traders, analysts and thinkers to KASH.",
+      "verified": true
+    }
+  ],
+  "id": "b3e45156-879e-426b-9667-dd8f93542b76",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+    "research": null,
+    "website": "https://kash.community"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kids Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

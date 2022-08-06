@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xE531642e9bb5d027E9C20E03284287B97919a9a5",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "52c1e0a9-28c3-4af0-8d0a-7aeb7c9ede26",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE531642e9bb5d027E9C20E03284287B97919a9a5",
+    "research": null,
+    "website": "https://myfaithcoin.info/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe531642e9bb5d027e9c20e03284287b97919a9a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FaithCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAITH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

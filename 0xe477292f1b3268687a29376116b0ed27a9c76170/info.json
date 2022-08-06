@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HERO radically changes todays centralized way of online betting. The token and its smart contract allow decentralized peer-to-peer online betting in any field.",
+      "verified": true
+    }
+  ],
+  "id": "0b63c95f-e66b-49c2-9446-ae8686bf07ee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE477292f1B3268687A29376116B0ED27A9c76170",
+    "research": null,
+    "website": "https://www.herocoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe477292f1b3268687a29376116b0ed27a9c76170/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Herocoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

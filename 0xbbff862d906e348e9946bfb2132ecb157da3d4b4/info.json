@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sharder is a multi-chain storage & validation network.",
+      "verified": true
+    }
+  ],
+  "id": "e97692cd-02b0-4ced-9591-de7c927a424f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
+    "research": null,
+    "website": "https://sharder.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbbff862d906e348e9946bfb2132ecb157da3d4b4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sharder",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

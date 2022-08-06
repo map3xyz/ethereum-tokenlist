@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+  "color": null,
+  "decimals": 15,
+  "description": [],
+  "id": "c8774205-5d6d-4d66-8f6e-a09bb62f808d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+    "research": null,
+    "website": "https://www.hubii.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdd6c68bb32462e01705011a4e2ad1a60740f217f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hubiits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

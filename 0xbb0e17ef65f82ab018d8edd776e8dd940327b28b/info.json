@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Axie Infinity Shards are Axie Infinity's governance token.",
+      "verified": true
+    }
+  ],
+  "id": "e1a284bf-5255-479d-8efc-24bcb388a73f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+    "research": "https://research.binance.com/en/projects/axie-infinity",
+    "website": "https://axieinfinity.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Axie Infinity Shard",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

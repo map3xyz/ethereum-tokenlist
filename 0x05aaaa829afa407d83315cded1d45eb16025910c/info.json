@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sp8de - implemented within a protocol created and maintained by the scientists - pioneers in the realm of blockchain innovation and cryptography development, has its aim to revolutionize the ever-growing gaming industry as we know it today using the Cardano blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "d2034158-b627-4720-b115-829691139165",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+    "research": null,
+    "website": "https://sp8de.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05aaaa829afa407d83315cded1d45eb16025910c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SP8DE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

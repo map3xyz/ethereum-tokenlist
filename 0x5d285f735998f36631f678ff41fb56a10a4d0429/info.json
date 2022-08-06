@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MixMarvel is a global game publishing platform based on blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "93412fdc-5927-4d2d-8202-88943de2d096",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d285F735998F36631F678FF41fb56A10A4d0429",
+    "research": null,
+    "website": "https://www.mixmarvel.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d285f735998f36631f678ff41fb56a10a4d0429/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MixMarvel Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

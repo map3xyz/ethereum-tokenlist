@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "d1bb59d9-5fac-490a-9fd4-a1637ab6cb11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628",
+    "research": null,
+    "website": "https://entercoin.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9d01d4cb824219a8f482a0fad479cb971fd0628/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EnterCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENTRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

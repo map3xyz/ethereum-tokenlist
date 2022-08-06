@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WAGMI is the brilliant product of combining a Play-To-Earn game concept with a cultural acronym.",
+      "verified": true
+    }
+  ],
+  "id": "053803f2-cb6f-4c82-a9cb-88d230b58807",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+    "research": null,
+    "website": "https://www.wagmigame.io",
+    "telegram": "https://t.me/WAGMIOfficialGroup",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wagmi-game/",
+    "twitter": "https://twitter.com/WagmiGameCo",
+    "facebook": "https://facebook.com/wagmigame/",
+    "discord": "https://discord.com/wagmigame"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e987df68cc13d271e621ec82e050a1bbd62c180/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WAGMI Game",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAGMI",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

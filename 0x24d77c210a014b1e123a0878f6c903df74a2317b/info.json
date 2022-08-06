@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x24D77c210a014b1E123a0878F6C903Df74A2317B",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "3645521b-6fa4-43f5-9288-f54604d56fda",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24D77c210a014b1E123a0878F6C903Df74A2317B",
+    "research": null,
+    "website": "https://www.bitfxt.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24d77c210a014b1e123a0878f6c903df74a2317b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BITFXT COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

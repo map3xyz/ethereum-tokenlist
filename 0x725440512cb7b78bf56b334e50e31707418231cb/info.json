@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x725440512cb7b78bF56B334E50e31707418231CB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A Social Messenger Platform that allows users to send Money & Cryptocurrency to each other.",
+      "verified": true
+    }
+  ],
+  "id": "21f136e8-fb06-45a0-8ab6-980359d95c43",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x725440512cb7b78bF56B334E50e31707418231CB",
+    "research": null,
+    "website": "https://dexacoin.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x725440512cb7b78bf56b334e50e31707418231cb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEXA COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

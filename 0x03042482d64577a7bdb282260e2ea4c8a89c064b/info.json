@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The bridge between decentralized and traditional finance.",
+      "verified": true
+    }
+  ],
+  "id": "ba9b1b4c-8c76-45a2-b1da-b2b8cbe09d3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+    "research": null,
+    "website": "https://cntr.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03042482d64577a7bdb282260e2ea4c8a89c064b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Centaur Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

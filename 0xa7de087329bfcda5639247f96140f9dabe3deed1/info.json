@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Metronome Desktop Wallet.",
+      "verified": true
+    }
+  ],
+  "id": "a99c0a46-1190-4f4d-a7bf-d33792946ac6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+    "research": null,
+    "website": "https://stateratoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7de087329bfcda5639247f96140f9dabe3deed1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Statera",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

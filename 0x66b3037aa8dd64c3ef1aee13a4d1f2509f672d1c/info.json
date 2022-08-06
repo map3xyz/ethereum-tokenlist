@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x66B3037aa8Dd64c3eF1AEE13a4D1F2509F672D1C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NAP is the fuel token used for DeFI products governed by ZZZ.finance ",
+      "verified": true
+    }
+  ],
+  "id": "b6372b57-137d-49fd-9722-aad18e417ac1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x66B3037aa8Dd64c3eF1AEE13a4D1F2509F672D1C",
+    "research": null,
+    "website": "https://zzz.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66b3037aa8dd64c3ef1aee13a4d1f2509f672d1c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NAP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

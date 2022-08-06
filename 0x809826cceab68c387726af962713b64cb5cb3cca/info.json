@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our mission is to connect the unconnected, so brick and mortar stores business can access previously unavailable insights.",
+      "verified": true
+    }
+  ],
+  "id": "a21e6da5-dd14-4536-b211-2dc3d7c3606b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+    "research": null,
+    "website": "https://nucleus.vision"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x809826cceab68c387726af962713b64cb5cb3cca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NucleusVision",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "nCash",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

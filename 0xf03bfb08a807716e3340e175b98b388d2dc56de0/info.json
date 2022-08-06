@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xf03bfb08a807716e3340e175B98b388d2DC56DE0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4c1d1b07-f905-497b-8aaa-b12973c3ada9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf03bfb08a807716e3340e175B98b388d2DC56DE0",
+    "research": null,
+    "website": "https://neodium.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf03bfb08a807716e3340e175b98b388d2dc56de0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Neodium Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

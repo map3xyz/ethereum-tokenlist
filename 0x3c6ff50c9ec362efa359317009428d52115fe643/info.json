@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c6063c3a-2e69-45f2-a188-d69b40a9513b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C6ff50c9Ec362efa359317009428d52115fe643",
+    "research": null,
+    "website": "https://peerex.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c6ff50c9ec362efa359317009428d52115fe643/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PeerEx Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PERX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

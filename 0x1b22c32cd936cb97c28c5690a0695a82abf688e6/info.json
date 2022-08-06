@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3fae96a4-9324-43f4-b73e-299babbaf4d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",
+    "research": null,
+    "website": "https://mywish.io/index.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b22c32cd936cb97c28c5690a0695a82abf688e6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MyWish Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WISH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

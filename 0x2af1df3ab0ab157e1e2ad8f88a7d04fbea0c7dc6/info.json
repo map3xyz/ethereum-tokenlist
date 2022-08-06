@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Bankless BED Index is an equal weighted index of Bitcoin, Ethereum and DPI.",
+      "verified": true
+    }
+  ],
+  "id": "39d54662-805f-4ca6-9dd2-2927c8c8d1f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+    "research": null,
+    "website": "https://www.indexcoop.com/",
+    "blog": "https://gov.indexcoop.com",
+    "twitter": "https://twitter.com/indexcoop",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defi-pulse-index/p",
+    "coingecko": "https://coingecko.com/en/coins/defipulse-index",
+    "discord": "https://discord.com/invite/RKZ4S3b"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bankless BED Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

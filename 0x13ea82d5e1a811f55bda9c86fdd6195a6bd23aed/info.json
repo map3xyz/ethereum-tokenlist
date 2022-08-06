@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x13EA82D5e1A811F55BDA9c86FdD6195A6bD23Aed",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "218eb830-7bcb-4bac-bf93-f7fd1e4e133e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13EA82D5e1A811F55BDA9c86FdD6195A6bD23Aed",
+    "research": null,
+    "website": "http://www.tfchain.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Travelling Free Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

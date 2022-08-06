@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1d988874-f50f-4b9f-b55e-b9057303cf30",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
+    "research": null,
+    "website": "http://wppenergy.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x056dd20b01799e9c1952c7c9a5ff4409a6110085/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WPPTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

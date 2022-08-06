@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+  "color": null,
+  "decimals": 3,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SeChain project is building the future of decentralized services where the service provider & the customers can get the work done in decentralized environment far from centralized companies.",
+      "verified": true
+    }
+  ],
+  "id": "8fc3cbab-0f5b-4d1c-88ea-d842edc79c49",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+    "research": null,
+    "website": "https://snn.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5717f5df41ea67ef67dfd3c1d02f9940bcf5d08/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SeChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

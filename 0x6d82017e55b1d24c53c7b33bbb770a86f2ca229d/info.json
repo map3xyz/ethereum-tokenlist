@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stable FIL is the stablecoin created for the Filecoin community. Backed by both a treasury of FIL and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the FIL treasury.",
+      "verified": true
+    }
+  ],
+  "id": "aebe6532-0488-49f1-a46c-f4d595b9f1ef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D",
+    "research": null,
+    "website": "https://ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/Bm6pUHjHUC",
+    "coingecko": "https://coingecko.com/en/coins/stable-fil"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6d82017e55b1d24c53c7b33bbb770a86f2ca229d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable FIL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFIL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

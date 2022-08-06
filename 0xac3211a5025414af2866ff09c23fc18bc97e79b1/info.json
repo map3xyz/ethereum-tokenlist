@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A unified Token, Wallet and HUB for Carbon Offsetting",
+      "verified": true
+    }
+  ],
+  "id": "f0fc00eb-6385-4bf4-afcf-6223603047f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+    "research": null,
+    "website": "https://dovu.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac3211a5025414af2866ff09c23fc18bc97e79b1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DOVU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

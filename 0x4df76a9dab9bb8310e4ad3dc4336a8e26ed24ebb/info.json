@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4dF76A9DaB9bb8310e4Ad3dc4336a8e26ed24EBB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SAPPCHAIN is a decentralized end-to-end encrypted anonymous messaging App with peer-to-peer transfer of money and cryptocurrency solution.",
+      "verified": true
+    }
+  ],
+  "id": "c5acac7e-769a-425a-8d04-9b5b4b9c38bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4dF76A9DaB9bb8310e4Ad3dc4336a8e26ed24EBB",
+    "research": null,
+    "website": "https://sappchain.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4df76a9dab9bb8310e4ad3dc4336a8e26ed24ebb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sappchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

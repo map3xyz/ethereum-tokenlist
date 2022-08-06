@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x226F15CDBAa36814ce3cB287563069c32cC1A293",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CRYPTOFOREX is a US dollar pegged stablecoin that aims to bring the benefits of cryptocurrency into forex trading.`",
+      "verified": true
+    }
+  ],
+  "id": "30dec36f-6c52-41ab-8073-6755afe930cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x226F15CDBAa36814ce3cB287563069c32cC1A293",
+    "research": null,
+    "website": "http://cryptoforex.ai/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x226f15cdbaa36814ce3cb287563069c32cc1a293/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRYPTOFOREX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

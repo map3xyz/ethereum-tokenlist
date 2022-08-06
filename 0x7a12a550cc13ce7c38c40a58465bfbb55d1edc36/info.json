@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7A12a550cC13cE7c38c40a58465BfbB55D1EdC36",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CubeBit is an innovative and extensive platform that tenders effortless, transparent, and secure way to grow your digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "c428d6f3-dc62-4d56-997e-aa0b0f8c8d4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7a12a550cc13ce7c38c40a58465bfbb55d1edc36",
+    "research": null,
+    "website": "https://cubebit.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a12a550cc13ce7c38c40a58465bfbb55d1edc36/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "cubecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

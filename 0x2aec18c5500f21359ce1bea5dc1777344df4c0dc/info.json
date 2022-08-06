@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7399db3c-7861-40da-ae1b-76ff00024a25",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+    "research": null,
+    "website": "https://www.farmatrust.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FarmaTrust Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

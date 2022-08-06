@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cbbce3e4-8337-4707-9d8c-cf8f5e077e24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PoSToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xbfFe4FDCD397e7942Fd7c9F99255e0AA34E4B3FB",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "c6f1b499-aea8-41b9-bf67-e1a1fc2fc106",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbfFe4FDCD397e7942Fd7c9F99255e0AA34E4B3FB",
+    "research": null,
+    "website": "https://www.tranium.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbffe4fdcd397e7942fd7c9f99255e0aa34e4b3fb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tranium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x501262281B2Ba043e2fbf14904980689CDDB0C78",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mithril Ore is a Casper Ethereum Staking Pool. Participation in Casper may be limited due to complexity, network-congestion, and/or lack of funds. This token allows participation by resolving these variables.",
+      "verified": true
+    }
+  ],
+  "id": "f0104395-4628-407d-b583-826cecf5081c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x501262281B2Ba043e2fbf14904980689CDDB0C78",
+    "research": null,
+    "website": "http://www.mithrilore.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x501262281b2ba043e2fbf14904980689cddb0c78/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mithril Ore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

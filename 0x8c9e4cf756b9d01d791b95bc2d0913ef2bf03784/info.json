@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "783dafea-99e2-4cbe-a004-adaf343dc125",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+    "research": null,
+    "website": "https://www.aerotoken.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AeroToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

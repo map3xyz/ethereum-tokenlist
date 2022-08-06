@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "20125b91-b6fb-4870-89da-d568f4e3bedd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11",
+    "research": null,
+    "website": "https://goldentoken.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GOLDEN TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

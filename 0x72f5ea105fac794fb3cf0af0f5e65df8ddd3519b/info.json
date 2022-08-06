@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x72f5eA105faC794fb3CF0Af0f5e65DF8dDd3519B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "REC Wallet is the ethereum wallet and cryptocurrency wallet to store your favourite ERC20 tokens!",
+      "verified": true
+    }
+  ],
+  "id": "dea0e943-f2bc-48b5-9e3f-b0b1c2d380da",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72f5eA105faC794fb3CF0Af0f5e65DF8dDd3519B",
+    "research": null,
+    "website": "https://svcapital.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72f5ea105fac794fb3cf0af0f5e65df8ddd3519b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "REC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

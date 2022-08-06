@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdBB2F12CB89Af05516768C2c69A771D92A25D17c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Beast DAO is a decentralized incubator and platform for developers to deploy, and raise capital with cross-chain interoperability.",
+      "verified": true
+    }
+  ],
+  "id": "a24c2918-be25-433d-be4b-f2a130283c92",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdbb2f12cb89af05516768c2c69a771d92a25d17c",
+    "research": null,
+    "website": "https://beast.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbb2f12cb89af05516768c2c69a771d92a25d17c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Beast DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

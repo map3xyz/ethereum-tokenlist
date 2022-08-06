@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf3A2ace8e48751c965eA0A1D064303AcA53842b9",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HXY Money is brought to you by HXY Business - Our ERC20 incentive token, HXY, acts as the economic core to the HXY.Business DApp eco-system",
+      "verified": true
+    }
+  ],
+  "id": "8e4b33c2-c788-4fcb-bdc2-b41a76b7f960",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf3A2ace8e48751c965eA0A1D064303AcA53842b9",
+    "research": null,
+    "website": "https://HXY.business"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3a2ace8e48751c965ea0a1d064303aca53842b9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HXY Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token used as a medium of motivation to participate and enhance economic activities within the Blocery Food Supply Chain Ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "707816c7-34d8-4381-8dee-1d0fb1a7f6f2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+    "research": null,
+    "website": "http://blocery.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8ad7dfe656188a23e89da09506adf7ad9290d5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blocery Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

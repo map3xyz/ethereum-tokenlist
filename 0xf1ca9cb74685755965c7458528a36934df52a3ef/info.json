@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AVINOC is a consistent, integrated and permissionless base data layer for decentralized, transparent and worldwide coordination of business flights within the general aviation, to achieve optimal utilization and reduce costs significantly.",
+      "verified": true
+    }
+  ],
+  "id": "e17147f2-a49a-4fa1-b90a-97f3549adab6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+    "research": null,
+    "website": "https://www.avinoc.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1ca9cb74685755965c7458528a36934df52a3ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AVINOC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVINOC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

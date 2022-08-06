@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x33c23d44679433A88B89ca38D3311A9a3D160699",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Magical Liquidity Rainbow ! Stake Uniswap v2 LP tokens and earn RAINBOW",
+      "verified": true
+    }
+  ],
+  "id": "21c8a704-232d-41a1-983b-d4d16a4e2baf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x33c23d44679433A88B89ca38D3311A9a3D160699",
+    "research": null,
+    "website": "https://magicliquidity.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33c23d44679433a88b89ca38d3311a9a3d160699/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RAINBOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAINBOW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

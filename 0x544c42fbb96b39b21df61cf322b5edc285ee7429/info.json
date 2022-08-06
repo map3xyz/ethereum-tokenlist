@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
+      "verified": true
+    }
+  ],
+  "id": "2338c6b8-2e35-4340-84c5-dab8826f87b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+    "research": null,
+    "website": "https://insurace.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x544c42fbb96b39b21df61cf322b5edc285ee7429/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InsurAce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INSUR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x19ea630bCBc1a511a16e65b6ECd447c92E1C087c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Carats.io is tokenizing the world’s most precious commodity — diamonds. We're building a liquid method to exchange diamonds’ digital value with a real-world usage and exposure to the diamond and jewelry industries.",
+      "verified": true
+    }
+  ],
+  "id": "136301e4-b121-4468-a343-1ab6c5c892b8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19ea630bCBc1a511a16e65b6ECd447c92E1C087c",
+    "research": null,
+    "website": "https://carats.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Carats Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CARAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1d464Ac5e046e5fE280c9588eDF8eB681b07008F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GMB is a platform that powers a dual cryptocurrency system, created to facilitate ease of transacting in the real world with a virtually generated money.",
+      "verified": true
+    }
+  ],
+  "id": "2f4bec49-04b9-400a-87d3-5aeba7fd0463",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1d464Ac5e046e5fE280c9588eDF8eB681b07008F",
+    "research": null,
+    "website": "https://gmbplatform.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d464ac5e046e5fe280c9588edf8eb681b07008f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GMB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "1033b4dd-fd57-47de-bada-077699a72a8e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+    "research": null,
+    "website": "https://token.hunt.town"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HuntToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

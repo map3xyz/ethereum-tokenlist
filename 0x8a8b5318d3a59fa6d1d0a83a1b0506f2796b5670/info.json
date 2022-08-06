@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Denarii (ARI) is an ERC20 token with staking and liquidity pool staking",
+      "verified": true
+    }
+  ],
+  "id": "8eb96191-59e2-487b-a7f8-4629f5ffe371",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
+    "research": null,
+    "website": "https://ari.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a8b5318d3a59fa6d1d0a83a1b0506f2796b5670/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Denarii",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

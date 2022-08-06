@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC741f06082AA47F93729070aD0dD95E223Bda091",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Education Ecosystem describes itself as a project-based learning platform where developers can discover new technologies and try them out hands-on using free practical project examples.",
+      "verified": true
+    }
+  ],
+  "id": "8b12c15b-7d1b-4072-a126-d78f69f26d95",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC741f06082AA47F93729070aD0dD95E223Bda091",
+    "research": null,
+    "website": "https://www.education-ecosystem.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc741f06082aa47f93729070ad0dd95e223bda091/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Education",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEDU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

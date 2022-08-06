@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xBE3F88E18BE3944FdDa830695228ADBB82fA125F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stable MPH is the stablecoin created for the 88MPH community. Backed by both a treasury of MPH and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the MPH treasury.",
+      "verified": true
+    }
+  ],
+  "id": "af31e59b-a4ef-4e5d-8e95-f2777e369e67",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBE3F88E18BE3944FdDa830695228ADBB82fA125F",
+    "research": null,
+    "website": "https://ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/Bm6pUHjHUC",
+    "coingecko": "https://coingecko.com/en/coins/stable-mph"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbe3f88e18be3944fdda830695228adbb82fa125f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable MPH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneMPH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

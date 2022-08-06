@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.",
+      "verified": true
+    }
+  ],
+  "id": "1132347e-2ae6-4586-97a0-36ab655b5406",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcbd55D4fFc43467142761A764763652b48b969ff",
+    "research": null,
+    "website": "https://astrotools.io/",
+    "telegram": "https://t.me/astrotoolsio",
+    "twitter": "https://twitter.com/Astro_Tools",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/astrotools/",
+    "coingecko": "https://coingecko.com/en/coins/astrotools/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbd55d4ffc43467142761a764763652b48b969ff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AstroTools",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASTRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

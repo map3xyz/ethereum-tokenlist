@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The DUCATO Protocols aims at developing an optimized blockchain technology, providing user-centric services, expanding of network participants and developing credible algorithm and decentralized governance for network users’ profit.",
+      "verified": true
+    }
+  ],
+  "id": "8d8965c2-a6a9-4888-8b24-e23a1fab85fb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d",
+    "research": null,
+    "website": "http://ducato.io/",
+    "twitter": "https://twitter.com/DUCATO_DeFi",
+    "telegram": "https://t.me/DUCATO_Channel",
+    "facebook": "https://facebook.com/DeFi.DUCATO/",
+    "medium": "https://medium.com/@ducato.mkt",
+    "whitepaper": "https://ducato.io/files/DUCATO_Whitepaper_ENG_v0.8.3.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa117ea1c0c85cef648df2b6f40e50bb5475c228d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DUCATO Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUCATO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

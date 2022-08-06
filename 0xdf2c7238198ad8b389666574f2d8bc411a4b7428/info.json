@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more.",
+      "verified": true
+    }
+  ],
+  "id": "7dbb280a-695f-46d2-b6a2-9cca482387c7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+    "research": null,
+    "website": "https://mainframe.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf2c7238198ad8b389666574f2d8bc411a4b7428/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mainframe Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

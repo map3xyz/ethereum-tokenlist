@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7bF219195f0A3E109886AE5901298A9ba34DD1F6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A currency used as payment for removals and transport services",
+      "verified": true
+    }
+  ],
+  "id": "57114345-1f84-42a9-a4ec-72d0d7b6e5a6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7bF219195f0A3E109886AE5901298A9ba34DD1F6",
+    "research": null,
+    "website": "https://vancoin.cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bf219195f0a3e109886ae5901298a9ba34dd1f6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

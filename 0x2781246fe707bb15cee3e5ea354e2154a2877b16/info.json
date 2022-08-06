@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.",
+      "verified": true
+    }
+  ],
+  "id": "a0b1ac28-1679-4bda-b3af-2c51121125a6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
+    "research": null,
+    "website": "https://elysia.kr/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2781246fe707bb15cee3e5ea354e2154a2877b16/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ELYSIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

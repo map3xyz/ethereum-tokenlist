@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHRIMP is an entirely decentralized protocol, similar to YAM but without the shortcomings of YAM. Which practices elastic supply, and fair distribution",
+      "verified": true
+    }
+  ],
+  "id": "fe2e4820-b0b4-4947-8cf1-1a7772481c27",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x38c4102D11893351cED7eF187fCF43D33eb1aBE6",
+    "research": null,
+    "website": "https://shrimp.finance/",
+    "github": "https://github.com/shrimp-finance/shrimp-protocol",
+    "twitter": "https://twitter.com/FinanceShrimp"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38c4102d11893351ced7ef187fcf43d33eb1abe6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shrimp.Finance(SHRIMP)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHRIMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

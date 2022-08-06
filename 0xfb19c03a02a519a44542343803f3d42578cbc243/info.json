@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xFB19C03a02a519a44542343803F3D42578CBc243",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CR Coin es un token digital con la principal función de ser un medio de pago digital, rápido, seguro y sin intermediarios lo cual puede conocerse también como un “Token de Utilidad” ya que nuestro principal enfoque es darle la mayor cantidad de usos posibles a CR Coin y así nuestros usuarios lo puedan utilizar para comprar comida, ropa, servicios y demás.",
+      "verified": true
+    }
+  ],
+  "id": "e63922d8-917e-469d-9e05-0d850f4e1be8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfb19c03a02a519a44542343803f3d42578cbc243",
+    "research": null,
+    "website": "https://crcoinico.com/",
+    "telegram": "https://t.me/joinchat/4mPn7zVK0vgyYmQx",
+    "twitter": "https://twitter.com/crcointoken",
+    "coingecko": "https://coingecko.com/es/monedas/cr-coin"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb19c03a02a519a44542343803f3d42578cbc243/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CR Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

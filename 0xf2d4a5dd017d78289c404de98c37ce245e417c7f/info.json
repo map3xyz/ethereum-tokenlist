@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf2D4A5dd017d78289C404DE98c37cE245e417C7f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Paparazzi is a photo-centric blockchain-based platform to provide a seamless process of capturing, sharing, and trading a graphic memory.",
+      "verified": true
+    }
+  ],
+  "id": "dc1c5931-6dd9-4ef1-bc9a-79a4014a01a9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf2d4a5dd017d78289c404de98c37ce245e417c7f",
+    "research": null,
+    "website": "https://pazzi.world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf2d4a5dd017d78289c404de98c37ce245e417c7f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PAPARAZZI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAZZI-N",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

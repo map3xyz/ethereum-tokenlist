@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Compound is an open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.",
+      "verified": true
+    }
+  ],
+  "id": "eb00e92f-5e98-496b-88ac-5dba111317a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39aa39c021dfbae8fac545936693ac917d5e7563/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound USD Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cUSDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

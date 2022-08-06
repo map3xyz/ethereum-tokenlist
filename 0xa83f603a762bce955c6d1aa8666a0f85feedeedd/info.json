@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA83f603a762bcE955c6D1Aa8666A0f85FEEdeeDD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FIC is the aggregation token of the IPFS network. The two major landing ecosystems of FIC include KT80s++ mining machine and KLUUK browser.",
+      "verified": true
+    }
+  ],
+  "id": "eed12156-0b5a-49f5-b7a2-c575c70eb2ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa83f603a762bce955c6d1aa8666a0f85feedeedd",
+    "research": null,
+    "website": "http://www.filecash.info/store.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa83f603a762bce955c6d1aa8666a0f85feedeedd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

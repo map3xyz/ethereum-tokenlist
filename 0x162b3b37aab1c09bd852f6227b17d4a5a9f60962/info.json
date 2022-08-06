@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x162b3b37aAB1c09BD852F6227B17d4a5a9F60962",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "New Dex with No Boundries. Trading, Liquidity Pools, Leveraging, Lending. Dividend sharing for Token Holders",
+      "verified": true
+    }
+  ],
+  "id": "0a3cf346-ed69-4510-bb27-c1734c09fd6e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x162b3b37aAB1c09BD852F6227B17d4a5a9F60962",
+    "research": null,
+    "website": "https://tradepowerdex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x162b3b37aab1c09bd852f6227b17d4a5a9f60962/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TradePowerDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

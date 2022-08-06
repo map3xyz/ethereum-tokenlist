@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "smART OF GIVING (AOG) is an idea-turned-reality that envisioned a unique model to generate funds for charities without asking for monetary donation.",
+      "verified": true
+    }
+  ],
+  "id": "389c9e92-2c4b-4e72-b382-86bef22ae88e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
+    "research": null,
+    "website": "https://www.smartofgiving.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8578530205cecbe5db83f7f29ecfeec860c297c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AOG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AOG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

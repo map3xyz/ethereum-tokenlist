@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BitMax Token (BTMX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "df774441-1633-4d9c-b3bf-842325e5476e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+    "research": null,
+    "website": "https://bitmax.io/#/home"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcca0c9c383076649604ee31b20248bc04fdf61ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitMax token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTMX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

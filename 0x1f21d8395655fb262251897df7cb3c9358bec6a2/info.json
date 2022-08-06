@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1F21d8395655fb262251897df7CB3c9358BEc6a2",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "2137a43c-1688-457f-bda4-802528a938e6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1F21d8395655fb262251897df7CB3c9358BEc6a2",
+    "research": null,
+    "website": "http://ironcoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f21d8395655fb262251897df7cb3c9358bec6a2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IRONCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

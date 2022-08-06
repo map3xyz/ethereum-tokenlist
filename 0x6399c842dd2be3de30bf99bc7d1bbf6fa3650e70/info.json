@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Financial Instrument Protocol.",
+      "verified": true
+    }
+  ],
+  "id": "3ee21bd8-f49f-4819-908c-17d0fbc94294",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+    "research": null,
+    "website": "https://premia.finance",
+    "github": "https://github.com/premiafinance/",
+    "twitter": "https://twitter.com/premiafinance",
+    "medium": "https://premia.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PREMIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$PREMIA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

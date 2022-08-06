@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Crypto.com Chain will be a privacy preserving payment network that focuses on enabling crypto spending in the real world, powering the future of mobile money.",
+      "verified": true
+    }
+  ],
+  "id": "d399af54-cd38-4dac-bd81-4cb22e3406eb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+    "research": null,
+    "website": "https://crypto.com/en/chain",
+    "blog": "https://medium.com/@crypto.com",
+    "twitter": "https://twitter.com/cryptocom",
+    "reddit": "https://reddit.com/r/Crypto_com/",
+    "facebook": "https://facebook.com/CryptoComOfficial",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "whitepaper": "https://crypto.com/images/chain_whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/crypto-com-chain/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crypto.com Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

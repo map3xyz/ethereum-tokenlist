@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xe7D7b37e72510309Db27C460378f957B1B04Bd5d",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6f35321b-496b-4cd4-b402-58956b3d66b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe7D7b37e72510309Db27C460378f957B1B04Bd5d",
+    "research": null,
+    "website": "http://www.empowr.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7d7b37e72510309db27c460378f957b1b04bd5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "empowr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMPR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

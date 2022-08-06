@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Birdchain is a decentralized instant messaging application. It will give its users opportunity to earn extra income by selling their unused SMS messages, watching promotional videos, and selling their data.",
+      "verified": true
+    }
+  ],
+  "id": "b1e5e146-125b-40c4-95af-a4b516be9c8f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
+    "research": null,
+    "website": "https://www.birdchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BirdCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

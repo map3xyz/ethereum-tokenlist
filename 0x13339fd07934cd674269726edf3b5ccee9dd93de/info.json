@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Join CurioInvest today and invest in classic cars and limited edition hypercars starting with little. Discover the collections of others and get rewarded for sharing yours. ",
+      "verified": true
+    }
+  ],
+  "id": "d3487843-9221-418a-964c-01e71e91d667",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+    "research": null,
+    "website": "https://curioinvest.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13339fd07934cd674269726edf3b5ccee9dd93de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CurToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

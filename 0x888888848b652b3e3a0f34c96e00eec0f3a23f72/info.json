@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Trilium (TLM) is the native utility token of the Alien Worlds metaverse",
+      "verified": true
+    }
+  ],
+  "id": "72f5422f-1c55-47af-a43d-9f815748a887",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+    "research": null,
+    "website": "https://alienworlds.io",
+    "telegram": "https://t.me/AlienWorldsOffical",
+    "twitter": "https://twitter.com/alienworlds",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/alien-worlds/",
+    "coingecko": "https://coingecko.com/en/coins/alien-worlds/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x888888848b652b3e3a0f34c96e00eec0f3a23f72/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alien Worlds Trilium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

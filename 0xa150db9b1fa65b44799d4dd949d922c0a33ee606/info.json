@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Digital Reserve Currency was designed to become a decentralized digital store of value with a limited supply and a zero inflation rate. It was created during the COVID-19 crisis when fiscal and monetary policies have exposed serious vulnerabilities in the current financial system. The concept of Digital Reserve Currency was developed by Maxim Nurov, founder of Digital Finance.",
+      "verified": true
+    }
+  ],
+  "id": "e4712dc0-b853-456d-9dd8-a9d070ef6a1e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+    "research": null,
+    "website": "https://drcglobal.org/",
+    "github": "https://github.com/digitalreserve/DRC",
+    "twitter": "https://twitter.com/DRCToken",
+    "telegram": "https://t.me/DigitalReserveCurrency",
+    "discord": "https://discord.com/invite/8BrRdc",
+    "whitepaper": "https://drcglobal.org/white-paper-1"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa150db9b1fa65b44799d4dd949d922c0a33ee606/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Digital Reserve Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

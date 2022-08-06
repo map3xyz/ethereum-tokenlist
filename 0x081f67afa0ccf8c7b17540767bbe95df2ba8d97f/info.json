@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3bbda590-1fc8-432f-8c06-a4c9b1394c02",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
+    "research": null,
+    "website": "https://www.coinex.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinEx Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

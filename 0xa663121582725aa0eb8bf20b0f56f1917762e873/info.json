@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MUTANT token is the governance token for YMEN.finance project. It's farmed with YMEN token and can be sold into YMEN/MUTANT pool.",
+      "verified": true
+    }
+  ],
+  "id": "3f95022a-9348-4e91-af31-7f29253a531e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA663121582725aA0eb8BF20B0F56F1917762e873",
+    "research": null,
+    "website": "https://ymen.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa663121582725aa0eb8bf20b0f56f1917762e873/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MUTANT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUTANT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

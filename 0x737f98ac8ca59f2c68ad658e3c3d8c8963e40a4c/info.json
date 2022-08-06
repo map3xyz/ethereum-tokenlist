@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Worldcore (WRC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "d3018cd4-fea6-42c6-b514-4838e0dbd3cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+    "research": null,
+    "website": "https://amon.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Amon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

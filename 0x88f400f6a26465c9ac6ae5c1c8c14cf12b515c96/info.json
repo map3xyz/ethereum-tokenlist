@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+  "color": null,
+  "decimals": 9,
+  "description": [],
+  "id": "6d406bf2-2705-42ea-872a-074700c8d425",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+    "research": null,
+    "website": "https://virustoken.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88f400f6a26465c9ac6ae5c1c8c14cf12b515c96/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Virus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIRUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

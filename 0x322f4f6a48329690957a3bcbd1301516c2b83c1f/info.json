@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x322f4f6a48329690957a3BCBd1301516C2B83c1F",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mesh Chain (MESH) предоставляется компанией Genesis Crypto Technology.",
+      "verified": true
+    }
+  ],
+  "id": "4a74978a-b8f9-498a-8b75-0a08876efb97",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x322f4f6a48329690957a3BCBd1301516C2B83c1F",
+    "research": null,
+    "website": "https://meschain.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x322f4f6a48329690957a3bcbd1301516c2b83c1f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MesChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MES",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

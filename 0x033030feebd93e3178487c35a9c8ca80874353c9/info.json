@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x033030FEeBd93E3178487c35A9c8cA80874353C9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitdepositary, BDT Token presents the first ICO crowdfunding platform to provide secure and light-weight digital wallet to the platform users allowing them to trade cryptocurrencies or exchange for Fiat currencies.",
+      "verified": true
+    }
+  ],
+  "id": "12819a17-c422-407b-bd4b-56e4b298d921",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x033030FEeBd93E3178487c35A9c8cA80874353C9",
+    "research": null,
+    "website": "https://bitdepositary.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x033030feebd93e3178487c35a9c8ca80874353c9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BDT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

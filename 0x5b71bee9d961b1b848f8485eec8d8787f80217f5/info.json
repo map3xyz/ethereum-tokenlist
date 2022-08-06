@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitforex Token (BF) is token issued by BitForex Exchange, it is the proof of platform ownership. BF are issued mainly through trade mining, community and ecosystem mutual construction, and being released gradually.",
+      "verified": true
+    }
+  ],
+  "id": "08393995-47a0-408d-914a-e4a2346057fb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5",
+    "research": null,
+    "website": "https://bitforex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b71bee9d961b1b848f8485eec8d8787f80217f5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitForex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "InnovaMinex is an innovative business model that uses blockchain technology to guarantee the traceability of precious metals. By applying a set of procedures, it is possible to certify the whole process, from its origin in the mines, to the refinery and the commercialization to the end consumer.",
+      "verified": true
+    }
+  ],
+  "id": "5fc320a3-9108-4087-8192-f43ad5460a8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
+    "research": null,
+    "website": "https://innovaminex.com/en/inx"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InnovaMinex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

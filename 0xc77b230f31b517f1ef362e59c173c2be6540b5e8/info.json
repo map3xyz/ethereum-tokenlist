@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Vidy is the world's first decentralized ad network, powered by the Ethereum blockchain. Vidy's ad platform allows advertisers to embed video ads directly into hyper-relevant website text, improving user experience, ad conversions and publisher payments.",
+      "verified": true
+    }
+  ],
+  "id": "087a3a0b-6227-4eb4-96b8-3188b1ce546d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+    "research": null,
+    "website": "https://vidy.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc77b230f31b517f1ef362e59c173c2be6540b5e8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VidyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

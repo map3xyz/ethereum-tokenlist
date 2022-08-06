@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "stETH is a token that represents staked ether in Lido.",
+      "verified": true
+    }
+  ],
+  "id": "a1d99cec-cea7-4a9f-8b3b-67e4a1a43f13",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "research": null,
+    "website": "https://stake.lido.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xae7ab96520de3a18e5e111b5eaab095312d7fe84/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "stETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "stETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x05b8cb3F1f1F46cEAE3187c56AF5B223CF2D831A",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "7a6b2150-b147-4b4a-8345-49d2e9cc3517",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05b8cb3F1f1F46cEAE3187c56AF5B223CF2D831A",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05b8cb3f1f1f46ceae3187c56af5b223cf2d831a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin ATM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BATM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

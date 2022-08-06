@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "xSUSHI is a trading fee accruing token. 0.05% of the exchange trade fees on SushiSwap are awarded to holders of the xSUSHI token",
+      "verified": true
+    }
+  ],
+  "id": "454e796c-baa0-4e48-9cf5-af5fa8ef922b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+    "research": null,
+    "website": "https://sushiswap.fi",
+    "github": "https://github.com/sushiswap",
+    "twitter": "https://twitter.com/SushiSwap",
+    "discord": "https://discord.com/invite/sqhXAqc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8798249c2e607446efb7ad49ec89dd1865ff4272/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SushiBar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xSUSHI",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

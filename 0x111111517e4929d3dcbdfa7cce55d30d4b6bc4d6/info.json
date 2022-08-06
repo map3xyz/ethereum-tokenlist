@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The ICHI token is a token built for governing the ICHI DAO.",
+      "verified": true
+    }
+  ],
+  "id": "df4a4cc5-f6aa-48cc-b347-0d46e9099742",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm",
+    "twitter": "https://twitter.com/ichifoundation",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ICHI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICHI",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

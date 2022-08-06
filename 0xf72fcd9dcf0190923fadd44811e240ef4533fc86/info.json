@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror VIXY Token.",
+      "verified": true
+    }
+  ],
+  "id": "ea41312f-601b-42e6-b33a-4d3c1ef171bb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf72fcd9dcf0190923fadd44811e240ef4533fc86/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mVIXY Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mVIXY",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

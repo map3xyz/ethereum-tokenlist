@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "08d831e4-de08-4801-bfe0-2effebe9b85c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+    "research": null,
+    "website": "https://camouflage.eth/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bb7db697567178c590efa64a7dcb2ce6213768c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Camouflage.eth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAMO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xb8e103b60A33597136EA9511F46b6dBeB643a3a5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9a2dae57-6c4b-4d65-938e-5cb06f1f6664",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb8e103b60A33597136EA9511F46b6dBeB643a3a5",
+    "research": null,
+    "website": "https://www.siambitcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Siambitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

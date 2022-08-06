@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.",
+      "verified": true
+    }
+  ],
+  "id": "59576f3c-a781-41f8-ab7a-25f4ee091dfa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+    "research": null,
+    "website": "https://dydx.foundation",
+    "twitter": "https://twitter.com/dydxfoundation",
+    "github": "https://github.com/dydxfoundation"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92d6c1e31e14520e676a687f0a93788b716beff5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dYdX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYDX",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

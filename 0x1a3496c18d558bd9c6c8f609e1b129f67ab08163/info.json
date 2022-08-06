@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The DEA Project is a blockchain-based multimedia digital entertainment platform featuring digital arts, games, and various other forms of entertainment. ",
+      "verified": true
+    }
+  ],
+  "id": "50650617-e710-4633-bcb9-1ea0d7bf1fcc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
+    "research": null,
+    "website": "https://dea.sg/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a3496c18d558bd9c6c8f609e1b129f67ab08163/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEAPCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitrue Coin (BTR) is the native asset on the Bitrue exchange. BTR is designed to support all Bitrue businesses such as trading fee deductions, cash deposits by projects, voting for listings, wealth management programs, and loan programs.",
+      "verified": true
+    }
+  ],
+  "id": "c9849e69-d8b5-4a45-b829-99cac3f08fb7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+    "research": null,
+    "website": "https://www.bitrue.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd433138d12beb9929ff6fd583dc83663eea6aaa5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitrue Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

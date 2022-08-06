@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5e3845A1d78DB544613EdbE43Dc1Ea497266d3b8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "473aef2e-d4b2-4f99-ae10-aceb2f502818",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5e3845A1d78DB544613EdbE43Dc1Ea497266d3b8",
+    "research": null,
+    "website": "https://lnxprotocol.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5e3845a1d78db544613edbe43dc1ea497266d3b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LNX Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "e71670fd-e326-4de9-8582-bbb4a2a8fbce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+    "research": null,
+    "website": "https://piplcoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PiplCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIPL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

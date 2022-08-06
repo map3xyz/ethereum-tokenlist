@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Quadrant Protocol is the engine that powers Quadrant's data mapping capabilities.",
+      "verified": true
+    }
+  ],
+  "id": "36f6c3ff-34a7-49d6-8791-ddc53976fabe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+    "research": null,
+    "website": "https://www.quadrantprotocol.com/#"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc28e931814725bbeb9e670676fabbcb694fe7df2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QuadrantProtocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eQUAD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

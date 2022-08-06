@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x005D1123878Fc55fbd56b54C73963b234a64af3c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kiba Inu is creating an all in one dex trading platform for meme coins and will include built-in honeypot checker, reflections gains tracker in USD value with charts on the swap platform.",
+      "verified": true
+    }
+  ],
+  "id": "c5321c4a-0a5c-4638-9fff-4be33ffcb797",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x005D1123878Fc55fbd56b54C73963b234a64af3c",
+    "research": null,
+    "website": "https://kibainu.space",
+    "twitter": "https://twitter.com/kibainukiba",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kiba-inu/",
+    "coingecko": "https://coingecko.com/coins/kiba-inu/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x005d1123878fc55fbd56b54c73963b234a64af3c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kiba Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIBA",
+  "tags": [
+    "memes"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

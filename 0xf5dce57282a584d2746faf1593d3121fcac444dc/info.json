@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+      "verified": true
+    }
+  ],
+  "id": "ecd8ea5f-d801-4a81-94e5-7e918903d074",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5dce57282a584d2746faf1593d3121fcac444dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound Dai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

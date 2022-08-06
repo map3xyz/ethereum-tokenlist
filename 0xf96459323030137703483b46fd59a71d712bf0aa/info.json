@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF96459323030137703483B46fD59A71D712BF0aa",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "xtake.finance aims to offer universal blockchain income powered by easy decentralized finance, passive income, yield farming, and liquidity mining.",
+      "verified": true
+    }
+  ],
+  "id": "8e48e6d5-7707-4c9d-bfbd-131c8c029795",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF96459323030137703483B46fD59A71D712BF0aa",
+    "research": null,
+    "website": "https://xtake.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf96459323030137703483b46fd59a71d712bf0aa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XTAKE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

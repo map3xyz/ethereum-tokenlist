@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x04A020325024F130988782bd5276e53595e8d16E",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Herbalist Token Project is going to solve expensive rare herbs problem by building a blockchain integrated marketplace that will bring the farmers and the buyers together. In our platform, any farmer is going to be able list their products and find buyers around the globe easily and quickly.",
+      "verified": true
+    }
+  ],
+  "id": "cd98d844-050d-440b-9cce-1ff626dc8ee6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x04A020325024F130988782bd5276e53595e8d16E",
+    "research": null,
+    "website": "http://www.herbalisttoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04a020325024f130988782bd5276e53595e8d16e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Herbalist Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HERB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

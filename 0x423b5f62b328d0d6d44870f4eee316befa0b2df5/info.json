@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GoNetwork (GOT) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "df6722a1-e9d3-405b-ae96-efb6708141ad",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
+    "research": null,
+    "website": "https://gonetwork.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x423b5f62b328d0d6d44870f4eee316befa0b2df5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

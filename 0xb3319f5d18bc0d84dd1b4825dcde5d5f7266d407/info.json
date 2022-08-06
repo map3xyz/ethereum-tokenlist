@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "16daaf7f-1076-409e-8ad4-97a4a61267ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound 0x",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cZRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

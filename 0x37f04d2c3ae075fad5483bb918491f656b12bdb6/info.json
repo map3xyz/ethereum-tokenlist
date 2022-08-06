@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VestChain (VEST) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "fbe72ddc-8195-4849-9012-cb664cfc46b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
+    "research": null,
+    "website": "https://vestchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37f04d2c3ae075fad5483bb918491f656b12bdb6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vestchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

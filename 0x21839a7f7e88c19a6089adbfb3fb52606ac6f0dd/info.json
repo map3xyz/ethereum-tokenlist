@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x21839a7f7e88c19a6089AdBFB3fB52606Ac6f0Dd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Most Trending & Potential Exchange Platform For Trading",
+      "verified": true
+    }
+  ],
+  "id": "2726b306-9472-4b31-98b4-bab479b1f698",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21839a7f7e88c19a6089AdBFB3fB52606Ac6f0Dd",
+    "research": null,
+    "website": "https://f5trader.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21839a7f7e88c19a6089adbfb3fb52606ac6f0dd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FTO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

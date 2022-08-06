@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "nDEX Network is a next generation decentralized ethereum token exchange. Our primary goal is to provide a clean, fast and secure trading environment with lowest service charge.",
+      "verified": true
+    }
+  ],
+  "id": "04ed90da-b768-4c4f-87b7-556010e57555",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+    "research": null,
+    "website": "https://ndexnetwork.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1966d718a565566e8e202792658d7b5ff4ece469/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "nDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x21cA39943E91d704678F5D00b6616650F066fD63",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror TSLA Token.",
+      "verified": true
+    }
+  ],
+  "id": "032c5a15-7cfb-4aa8-9541-d1dedbaac149",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21cA39943E91d704678F5D00b6616650F066fD63",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21ca39943e91d704678f5d00b6616650f066fd63/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mTSLA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mTSLA",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

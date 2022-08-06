@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x60ec679cf3a48d89EfA774FCcD3Dc59Ef1401330",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NXT Gold (NXTG) is an ERC20 token backed 1:1 with NXT.",
+      "verified": true
+    }
+  ],
+  "id": "1728416a-a393-48fa-906c-1605fcebe444",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x60ec679cf3a48d89EfA774FCcD3Dc59Ef1401330",
+    "research": null,
+    "website": "https://nxtgold.eu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60ec679cf3a48d89efa774fccd3dc59ef1401330/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NXT Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NXTG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

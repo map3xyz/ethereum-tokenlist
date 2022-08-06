@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4689a4e169eB39cC9078C0940e21ff1Aa8A39B9C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Proton is a public chain that is dedicated to data fusion and collaboration.",
+      "verified": true
+    }
+  ],
+  "id": "64fc0a6d-d7db-4a55-9de0-8074adf931ad",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4689a4e169eB39cC9078C0940e21ff1Aa8A39B9C",
+    "research": null,
+    "website": "https://www.proton.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Proton Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

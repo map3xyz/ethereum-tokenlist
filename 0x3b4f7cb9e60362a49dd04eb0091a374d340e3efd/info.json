@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ITAM operates a platform (NFT.Farm) that values digital assets and freely trades such assets using ITAM NFT. ITAM NFT is a Middleware technology for cultural and artistic creations such as paintings, comics, fashion, and games.",
+      "verified": true
+    }
+  ],
+  "id": "d6436073-9b0a-4215-8c77-8e5d488ecfee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD",
+    "research": null,
+    "website": "https://itam.network",
+    "twitter": "https://twitter.com/itamgames",
+    "medium": "https://medium.com/itam",
+    "telegram": "https://t.me/itam_en",
+    "youtube": "https://youtube.com/channel/UCgM_ijLKjeibbQATtX46ZTw"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b4f7cb9e60362a49dd04eb0091a374d340e3efd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ITAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITAM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

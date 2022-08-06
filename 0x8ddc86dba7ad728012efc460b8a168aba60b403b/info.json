@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bcb345ff-5df5-49c6-8e81-aab614f8a4ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+    "research": null,
+    "website": "https://www.tokensets.com/set/ethhivol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8ddc86dba7ad728012efc460b8a168aba60b403b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETHDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHDai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f07f7532-e32d-43f3-be38-76e1c2651149",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+    "research": null,
+    "website": "https://wikitoken.bitcoinwiki.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WIKI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIKI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

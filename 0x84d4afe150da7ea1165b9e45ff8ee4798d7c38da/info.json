@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "mToken wrapper for USDT",
+      "verified": true
+    }
+  ],
+  "id": "9a64ec4a-9109-474b-9760-1379fea735b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA",
+    "research": null,
+    "website": "https://defimoneymarket.com",
+    "twitter": "https://twitter.com/DMMDAO",
+    "reddit": "https://reddit.com/r/DMMDAO",
+    "medium": "https://medium.com/dmm-dao"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84d4afe150da7ea1165b9e45ff8ee4798d7c38da/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DMM: USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

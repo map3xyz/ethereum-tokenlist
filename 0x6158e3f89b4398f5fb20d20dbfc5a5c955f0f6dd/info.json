@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6158e3F89b4398f5fb20D20DbFc5a5c955F0F6dd",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ded6bf5f-f2db-41f3-9eec-805ad6fef5c3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6158e3F89b4398f5fb20D20DbFc5a5c955F0F6dd",
+    "research": null,
+    "website": "https://www.timebox.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6158e3f89b4398f5fb20d20dbfc5a5c955f0f6dd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TimeBox Coin",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "TB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

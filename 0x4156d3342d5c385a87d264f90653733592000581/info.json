@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4156D3342D5c385a87D264F90653733592000581",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The SALT platform is meant to facilitate getting a loan, where the company holds your cryptocoins as collateral while you don't pay back the loan.",
+      "verified": true
+    }
+  ],
+  "id": "45d95e2c-cd50-4fe2-9297-f77474623372",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
+    "research": null,
+    "website": "https://www.saltlending.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4156d3342d5c385a87d264f90653733592000581/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Salt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SALT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xf4922496163E8176CeD096ED80c67ca8ea2168D6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Les Collectionneurs is a community of French-speaking enthusiasts who share their knowledge of NFTs. The purpose of this community is to inform, exchange knowledge about NFTs, promote certain projects or artists, and explain the interest and importance of NFTs in the world of crypto-currencies to new members.",
+      "verified": true
+    }
+  ],
+  "id": "35a06234-06a7-43bd-9ff7-455d5fd078f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf4922496163E8176CeD096ED80c67ca8ea2168D6",
+    "research": null,
+    "website": "https://lescollectionneurs.org/",
+    "twitter": "https://twitter.com/Collections_NFT",
+    "discord": "https://discord.com/invite/lcnft"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4922496163e8176ced096ed80c67ca8ea2168d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Les Collectionneurs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PINS",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

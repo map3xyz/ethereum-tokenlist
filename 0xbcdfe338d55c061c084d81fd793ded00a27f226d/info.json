@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Machine. Learning Unleash untapped private data, idle processing power and crowdsourced algorithms.",
+      "verified": true
+    }
+  ],
+  "id": "5da76163-d02f-4954-aee5-ef72943a8a39",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+    "research": null,
+    "website": "https://decentralizedml.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcdfe338d55c061c084d81fd793ded00a27f226d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DML Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DML",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

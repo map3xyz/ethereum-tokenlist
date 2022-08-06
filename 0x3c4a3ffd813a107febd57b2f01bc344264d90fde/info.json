@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3c4a3ffd813a107febd57B2f01BC344264D90FdE",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EnergiToken rewards energy saving behaviour. Our blockchain solution will create a platform to reward energy efficient behaviour through EnergiToken.",
+      "verified": true
+    }
+  ],
+  "id": "bd310053-524e-4441-9f1d-5be325f3f69a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3c4a3ffd813a107febd57B2f01BC344264D90FdE",
+    "research": null,
+    "website": "https://energitoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4a3ffd813a107febd57b2f01bc344264d90fde/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EnergiToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ee202564-8863-4ca6-908f-541ee68b09b2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF",
+    "research": null,
+    "website": "https://heronode.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x491c9a23db85623eed455a8efdd6aba9b911c5df/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HeroNodeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

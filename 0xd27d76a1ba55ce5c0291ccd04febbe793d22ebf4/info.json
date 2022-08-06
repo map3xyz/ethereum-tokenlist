@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "59ae84db-984e-4b3e-9428-4414e3383d27",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
+    "research": null,
+    "website": "https://www.benepit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Benepit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x114f1fC16DB3615dE301B39914625a79b912Ea11",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UFO-HOTEL with space-age architecture and running autonomously anywhere in the world. Our smart-contracts provides protection of property rights, transparency of booking rooms, commissions to sellers.",
+      "verified": true
+    }
+  ],
+  "id": "71a8ffb0-f524-44d5-859d-94932e64be9a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x114f1fC16DB3615dE301B39914625a79b912Ea11",
+    "research": null,
+    "website": "https://ufohotel.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x114f1fc16db3615de301b39914625a79b912ea11/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UFOHotelCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UHC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

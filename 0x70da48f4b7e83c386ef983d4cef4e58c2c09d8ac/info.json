@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QURAS is a genuine secret contract platform that fulfills various privacy protection needs.",
+      "verified": true
+    }
+  ],
+  "id": "c9ce3936-3634-406e-a608-c5719cb69c50",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+    "research": null,
+    "website": "https://quras.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Quras Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XQC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

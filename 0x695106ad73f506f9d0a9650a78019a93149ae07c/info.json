@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BNS Token is a multi-protocol utility token by Bitbns, which aims at enabling general masses to use cryptocurrency just like they use FIAT currency in day-to-day transactions.",
+      "verified": true
+    }
+  ],
+  "id": "4be7a453-7b57-48b9-9c55-1850ee4bd6d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x695106Ad73f506f9D0A9650a78019A93149AE07C",
+    "research": null,
+    "website": "https://bitbns.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x695106ad73f506f9d0a9650a78019a93149ae07c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BNS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

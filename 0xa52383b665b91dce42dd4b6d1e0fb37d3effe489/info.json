@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9defac3e-bdcd-4fb9-80f8-08931755de23",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+    "research": null,
+    "website": "https://master-usd.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa52383b665b91dce42dd4b6d1e0fb37d3effe489/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MASTER USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The community-powered food delivery platform.",
+      "verified": true
+    }
+  ],
+  "id": "a42491dd-2b43-4a0b-b2e8-70f4f3785e1a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+    "research": null,
+    "website": "https://bistroo.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bistroo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

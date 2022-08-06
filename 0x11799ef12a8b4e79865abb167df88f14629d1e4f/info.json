@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x11799ef12A8b4e79865abb167DF88f14629d1E4f",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain-powered platform and unique investment elements deliver the most engaging, fairest playing and poker platform on the market.",
+      "verified": true
+    }
+  ],
+  "id": "ebd7488d-7032-4ef6-9098-6d8d1c0ecda2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11799ef12A8b4e79865abb167DF88f14629d1E4f",
+    "research": null,
+    "website": "https://betxshare.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11799ef12a8b4e79865abb167df88f14629d1e4f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BETX Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

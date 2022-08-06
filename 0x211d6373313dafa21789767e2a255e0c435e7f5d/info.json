@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USDI payment gateway.",
+      "verified": true
+    }
+  ],
+  "id": "96b01da8-d4cd-4259-8f78-ae77172803e9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+    "research": null,
+    "website": "https://otfund.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x211d6373313dafa21789767e2a255e0c435e7f5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USDI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

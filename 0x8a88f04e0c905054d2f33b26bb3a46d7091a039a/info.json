@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3a51b6a0-3318-44e9-b3b9-1cc0d8a365ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+    "research": null,
+    "website": "https://igtoken.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a88f04e0c905054d2f33b26bb3a46d7091a039a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

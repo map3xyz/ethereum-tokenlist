@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A Yield Farming Project.",
+      "verified": true
+    }
+  ],
+  "id": "f783fafe-ae06-4e1a-be37-ac12d73a2640",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
+    "research": null,
+    "website": "https://xunii.finance",
+    "github": "https://github.com/xuniifinance/",
+    "twitter": "https://twitter.com/xuniifinance",
+    "telegram": "https://t.me/xuniifinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a50b3d55e9a1089029824a26caaa8f2abfc4bb0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "xunii.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XUNII",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

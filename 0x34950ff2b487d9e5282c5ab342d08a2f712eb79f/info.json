@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first blockchain-based energy-saving platform.",
+      "verified": true
+    }
+  ],
+  "id": "c6273ec5-65ce-496a-b101-992c5f1d87fd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+    "research": null,
+    "website": "https://efforce.io/",
+    "twitter": "https://twitter.com/EfforceOfficial",
+    "facebook": "https://facebook.com/EFFORCE/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34950ff2b487d9e5282c5ab342d08a2f712eb79f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Efforce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOZX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

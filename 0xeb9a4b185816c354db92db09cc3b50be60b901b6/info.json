@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Origin Sport (ORS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b21396a7-a0ee-4c9b-8e96-35090970fe1b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6",
+    "research": null,
+    "website": "https://originsport.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb9a4b185816c354db92db09cc3b50be60b901b6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OriginSport Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

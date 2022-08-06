@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA806B3FEd6891136940cF81c4085661500aa2709",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SnL token describes itself as a stable, Ethereum-backed asset that aims to eliminate counterparty, market, or security risks.",
+      "verified": true
+    }
+  ],
+  "id": "72801ec6-e658-4291-8ca1-02879c951e3c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA806B3FEd6891136940cF81c4085661500aa2709",
+    "research": null,
+    "website": "https://www.snltoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa806b3fed6891136940cf81c4085661500aa2709/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sport AND Leisure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SnL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AirDance's mission is to develop and promote dance globally, providing online access to the knowledge and experience of legendary dancers of our time.",
+      "verified": true
+    }
+  ],
+  "id": "70dc4c93-31cd-450a-9fcc-15e4e3c4a3e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3",
+    "research": null,
+    "website": "http://airdance.live/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf1d11025f2a22b9dc01c7a100b4f6ddebac82a3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AirDance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DANCE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "10c819fc-3f9f-4b23-9295-74a74cdca5d2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+    "research": null,
+    "website": "https://romchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacaca5b8805636608e14c64b0bfffc2deb2c6cec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ROMToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

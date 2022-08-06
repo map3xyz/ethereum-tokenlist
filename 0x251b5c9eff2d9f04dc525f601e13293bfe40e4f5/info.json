@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "iYearn Finance is an independent FORK from Yearn Finance technology that is built to be reliable, independent and profitable.",
+      "verified": true
+    }
+  ],
+  "id": "788f5453-775d-48d4-aeec-32d248421224",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x251b5c9eff2d9f04dc525f601e13293bfe40e4f5",
+    "research": null,
+    "website": "https://iyearn.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x251b5c9eff2d9f04dc525f601e13293bfe40e4f5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "iYearn Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IYFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

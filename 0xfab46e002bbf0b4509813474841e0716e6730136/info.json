@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xFab46E002BbF0b4509813474841E0716E6730136",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "77b79443-fe5a-4fab-bb8d-eb213ea1c37b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFab46E002BbF0b4509813474841E0716E6730136",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfab46e002bbf0b4509813474841e0716e6730136/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FaucetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

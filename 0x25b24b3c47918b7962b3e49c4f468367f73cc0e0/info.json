@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Ultimate Decentralized Platform",
+      "verified": true
+    }
+  ],
+  "id": "ca0e3aae-a21a-4475-8f66-56a378be9e93",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
+    "research": null,
+    "website": "https://www.axltoken.com/",
+    "twitter": "https://twitter.com/Axltoken",
+    "telegram": "https://t.me/Axltoken",
+    "facebook": "https://facebook.com/Axltoken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25b24b3c47918b7962b3e49c4f468367f73cc0e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AXL INU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

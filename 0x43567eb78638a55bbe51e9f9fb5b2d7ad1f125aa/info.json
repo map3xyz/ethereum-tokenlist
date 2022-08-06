@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "7beb652f-d35c-4a1b-8ba3-ab7d695daa02",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa",
+    "research": null,
+    "website": "https://hackspace.capital/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43567eb78638a55bbe51e9f9fb5b2d7ad1f125aa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HAC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zinc simplifies, accelerates and reduces the cost of the hiring journey for workers and recruiters within the technology sector.",
+      "verified": true
+    }
+  ],
+  "id": "480b16ef-42e6-4d84-9028-15237a9a38a0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
+    "research": null,
+    "website": "https://zinc.work/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZINC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZINC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

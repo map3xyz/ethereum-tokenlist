@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Measurable Data Token (MDT) aims to provide a decentralized data economy, where data providers and data buyers can exchange data securely and anonymously.",
+      "verified": true
+    }
+  ],
+  "id": "066b5395-5947-4953-b5be-d6c507674933",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
+    "research": "https://research.binance.com/en/projects/measurable-data-token",
+    "website": "http://mdt.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Measurable Data Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

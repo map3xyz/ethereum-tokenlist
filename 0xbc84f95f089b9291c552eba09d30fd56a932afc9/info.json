@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBC84F95f089b9291C552EBA09D30Fd56A932AFC9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FEG Wrapped UNI",
+      "verified": true
+    }
+  ],
+  "id": "206fa876-61e8-46f5-80df-eda13abdb5d5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbc84f95f089b9291c552eba09d30fd56a932afc9",
+    "research": null,
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc84f95f089b9291c552eba09d30fd56a932afc9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FEG Wrapped UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fUNI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

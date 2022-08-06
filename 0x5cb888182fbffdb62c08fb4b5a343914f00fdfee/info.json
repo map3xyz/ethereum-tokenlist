@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d3c257ed-c6db-4503-9ffe-99a5c7f8b6df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5cb888182fbffdb62c08fb4b5a343914f00fdfee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Moneybrain BiPS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BiPS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

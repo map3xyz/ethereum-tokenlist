@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xB0F14f66caE71164D89E8a0cf0875eF2c32Fb660",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "8cf56caf-f619-4a81-8d3a-cc5a58f60390",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB0F14f66caE71164D89E8a0cf0875eF2c32Fb660",
+    "research": null,
+    "website": "http://ctagtoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb0f14f66cae71164d89e8a0cf0875ef2c32fb660/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CTAGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTAG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

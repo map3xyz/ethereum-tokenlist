@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7c8161545717a334f3196e765d9713f8042EF338",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "9c5a4dd0-1f0a-4a61-aabb-bc863876fed7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7c8161545717a334f3196e765d9713f8042EF338",
+    "research": null,
+    "website": "https://pancakeswap.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c8161545717a334f3196e765d9713f8042ef338/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PancakeSwap Token (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAKE",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

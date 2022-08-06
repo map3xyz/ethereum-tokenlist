@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Insula builds long only diversified crypto investment funds custodied securely on the blockchain and owned by investors through private key.",
+      "verified": true
+    }
+  ],
+  "id": "740699c4-c6c1-4e5f-baf9-f5e9e56626b6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+    "research": null,
+    "website": "https://www.insulainvestments.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Insula",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ISLA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

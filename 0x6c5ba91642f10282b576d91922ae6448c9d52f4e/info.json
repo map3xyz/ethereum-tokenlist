@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs.",
+      "verified": true
+    }
+  ],
+  "id": "ca56c8cc-7274-4975-8113-45d90701e09f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+    "research": null,
+    "website": "https://phala.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c5ba91642f10282b576d91922ae6448c9d52f4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Phala",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

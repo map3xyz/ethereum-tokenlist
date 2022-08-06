@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Authenticate online using your self-sovereign eID and start monetizing your anonymized personal data.",
+      "verified": true
+    }
+  ],
+  "id": "6aadd47c-b3d5-4f10-9ce0-da37184baaf7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+    "research": null,
+    "website": "https://vetri.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x922ac473a3cc241fd3a0049ed14536452d58d73c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VALID",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BankSocial is your gateway to a full range of banking services using blockchain technology available globally.",
+      "verified": true
+    }
+  ],
+  "id": "59f8613e-da54-4dce-ac83-392f8af5b48b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+    "research": null,
+    "website": "https://www.banksocial.io",
+    "twitter": "https://twitter.com/banksocialio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/banksocial/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0af55d5ff28a3269d69b98680fd034f115dd53ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BankSocial",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

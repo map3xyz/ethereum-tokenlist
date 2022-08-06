@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x72896d5478aD86B14a6d4f6e7441740d4970083d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped ZCore is a coin backed by 1 ZCR, on the ethereum network, which is an scalable, easy to use peer-to-peer network.",
+      "verified": true
+    }
+  ],
+  "id": "38e85f80-a4f3-4e7b-835a-1ebfa9abe8fc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72896d5478ad86b14a6d4f6e7441740d4970083d",
+    "research": null,
+    "website": "https://defi.zcore.cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72896d5478ad86b14a6d4f6e7441740d4970083d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped ZCore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WZCR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x5c250ff9b993C6991cC4A3cC543716e53b478018",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "STPAY is creating a global platform to support Education and E-Commerce.",
+      "verified": true
+    }
+  ],
+  "id": "488ded3d-8e14-4557-a06a-fd743c216d94",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5c250ff9b993C6991cC4A3cC543716e53b478018",
+    "research": null,
+    "website": "https://stpay.org/",
+    "github": "https://github.com/stpay/contract",
+    "telegram": "https://t.me/stpaychannel",
+    "facebook": "https://facebook.com/stpaychannel",
+    "youtube": "https://youtube.com/channel/UCfrHNUUZMw7PfojxfdRTTDQ"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c250ff9b993c6991cc4a3cc543716e53b478018/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "STPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

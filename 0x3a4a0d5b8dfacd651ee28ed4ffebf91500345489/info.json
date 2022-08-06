@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x3A4A0D5b8dfAcd651EE28ed4fFEBf91500345489",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A BRX token is created to evaluate the size of the shares, as well as to facilitate the exchange of shares through innovation. The token is used for any transactions made within the cooperative,joining fees, membership and share fees, as well as for remuneration.",
+      "verified": true
+    }
+  ],
+  "id": "2d66156d-aa2b-4a97-84a4-e5f1580f5e52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A4A0D5b8dfAcd651EE28ed4fFEBf91500345489",
+    "research": null,
+    "website": "https://polar-berry.com/",
+    "github": "https://github.com/Filinomus/BerryX",
+    "twitter": "https://twitter.com/Polar berry",
+    "facebook": "https://facebook.com/polarberrycom",
+    "whitepaper": "https://polar-berry.com/whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a4a0d5b8dfacd651ee28ed4ffebf91500345489/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BerryX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our platform powers research groups, data vendors, funds and institutions by generating on-demand NLP/NLU correlation matrix datasets",
+      "verified": true
+    }
+  ],
+  "id": "6df6c084-7ae9-44df-99cc-860f1a8d0027",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+    "research": null,
+    "website": "https://vectorspace.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d29a64504629172a429e64183d6673b9dacbfce/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VectorspaceAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VXV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

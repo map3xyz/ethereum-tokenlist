@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bethereum is a decentralised, social-betting platform based on Ethereum technology and Smart Contracts. Bether is the digital ERC-223 token powering the Bethereum solution.",
+      "verified": true
+    }
+  ],
+  "id": "74848f9f-3aaf-4a9d-bb2c-474b2ec0c268",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x14C926F2290044B647e1Bf2072e67B495eff1905",
+    "research": null,
+    "website": "https://www.bethereum.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14c926f2290044b647e1bf2072e67b495eff1905/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETHER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

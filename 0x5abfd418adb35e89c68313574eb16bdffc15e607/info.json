@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5abFd418AdB35e89c68313574eB16BdfFc15e607",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "63d4dab5-3da2-45c2-aa96-651c6a3d1660",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5abFd418AdB35e89c68313574eB16BdfFc15e607",
+    "research": null,
+    "website": "https://timvi.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5abfd418adb35e89c68313574eb16bdffc15e607/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TimviToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

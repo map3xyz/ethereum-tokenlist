@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x039B5649A59967e3e936D7471f9c3700100Ee1ab",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kucoin Shares (KCS) is an exchange based token and native currency of the Kucoin crypto exchange.",
+      "verified": true
+    }
+  ],
+  "id": "0cefca1a-2d7f-4eb6-892a-04bd0b7f7a33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x039B5649A59967e3e936D7471f9c3700100Ee1ab",
+    "research": null,
+    "website": "https://kucoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x039b5649a59967e3e936d7471f9c3700100ee1ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KuCoin Shares",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KCS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Follow Coin is the platform to excel in trading in the Cryptocurrency world! You can follow and copy influencers with the highest reputation and much more!",
+      "verified": true
+    }
+  ],
+  "id": "33bd61ff-75f4-4c5d-a845-bfc577c4b8a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+    "research": null,
+    "website": "https://followcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0200412995f1bafef0d3f97c4e28ac2515ec1ece/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FollowCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLLW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

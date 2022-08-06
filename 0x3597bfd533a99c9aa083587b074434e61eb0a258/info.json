@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Creating a world-wide marketplace on Ethereum Blockchain to sell and buy Mobile Data with DENT Tokens.",
+      "verified": true
+    }
+  ],
+  "id": "2c9712cd-c6e0-4fa4-9156-548d36c9a696",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+    "research": null,
+    "website": "https://www.dentwireless.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3597bfd533a99c9aa083587b074434e61eb0a258/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DENT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DENT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

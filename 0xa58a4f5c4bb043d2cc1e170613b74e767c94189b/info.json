@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token that powers the trust infrastructure of the internet.",
+      "verified": true
+    }
+  ],
+  "id": "91a51365-37fa-427b-837b-d10ced32ed58",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+    "research": null,
+    "website": "http://protocol.utu.io/",
+    "github": "https://github.com/utu-protocol/",
+    "twitter": "https://twitter.com/UTU_trust",
+    "telegram": "https://t.me/UTUtrust"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UTU Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

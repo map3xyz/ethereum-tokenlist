@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa1e72267084192Db7387c8CC1328fadE470e4149",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TrueFi is an on-chain uncollateralized lending protocol. tfTUSD represents a users TUSD deposit into the protocol's lending pool",
+      "verified": true
+    }
+  ],
+  "id": "0eeef042-5e77-40f7-a6c4-95e9d901a79f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1e72267084192Db7387c8CC1328fadE470e4149",
+    "research": null,
+    "website": "https://truefi.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1e72267084192db7387c8cc1328fade470e4149/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueFi TrueUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "tfTUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

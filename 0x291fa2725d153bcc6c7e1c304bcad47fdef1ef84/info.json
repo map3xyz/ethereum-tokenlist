@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "28f9c32a-c08c-4510-91d4-797c5e395d5c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84",
+    "research": null,
+    "website": "https://megamine.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x291fa2725d153bcc6c7e1c304bcad47fdef1ef84/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mega Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MX3",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

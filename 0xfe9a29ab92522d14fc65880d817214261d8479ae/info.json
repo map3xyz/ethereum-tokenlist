@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AMM / DEX for yield-bearing LP Token swaps.",
+      "verified": true
+    }
+  ],
+  "id": "82c81117-05ec-4475-9a38-6a70420c2168",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfe9a29ab92522d14fc65880d817214261d8479ae",
+    "research": null,
+    "website": "https://snowswap.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfe9a29ab92522d14fc65880d817214261d8479ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SnowSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNOW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

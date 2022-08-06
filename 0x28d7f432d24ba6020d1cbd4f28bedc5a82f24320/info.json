@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "24285c8c-67e0-4769-bed4-92e00c63d5ea",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320",
+    "research": null,
+    "website": "https://tercet.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tercet Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

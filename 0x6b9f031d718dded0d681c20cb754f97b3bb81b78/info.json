@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Geeq is based on a new blockchain consensus protocol called Proof of Honesty(PoH). PoH empowers users who hold tokens on the platform to determine for themselves whether the network of validating nodes is behaving honestly. This allows Geeq to provide 99% Byzantine Fault Tolerance (BFT) while delivering rapid transaction finality at extremely low transactions cost.",
+      "verified": true
+    }
+  ],
+  "id": "70be93b5-77b6-49cb-8907-ad5e0a74f0ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
+    "research": "https://www.coingecko.com/en/coins/geeq",
+    "website": "https://geeq.io",
+    "github": "https://github.com/geeq-token",
+    "twitter": "https://twitter.com/Geeq",
+    "whitepaper": "https://geeq.io/geeq-white-paper-2/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b9f031d718dded0d681c20cb754f97b3bb81b78/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Geeq",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEEQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

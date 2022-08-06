@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6D6506E6F438edE269877a0A720026559110B7d5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Proof of art combined with decentralized staking",
+      "verified": true
+    }
+  ],
+  "id": "ffbd5e26-17df-4acb-8c37-ad5b53e045cf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6D6506E6F438edE269877a0A720026559110B7d5",
+    "research": null,
+    "website": "https://bonktoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6d6506e6f438ede269877a0a720026559110b7d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bonk Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BONK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

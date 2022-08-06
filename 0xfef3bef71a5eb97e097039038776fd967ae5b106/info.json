@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFMoonshot is the governance token for YFMoonshot, a site that performs a variety of functions for DeFi users, moving their assets in and out of different liquidity pools in order to find the best yields.",
+      "verified": true
+    }
+  ],
+  "id": "e240e8da-fc38-4993-b1c2-a97bd217e318",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfef3bEf71A5EB97E097039038776fD967ae5B106",
+    "research": null,
+    "website": "https://yfmoonshot.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfef3bef71a5eb97e097039038776fd967ae5b106/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFMoonshot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFMS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

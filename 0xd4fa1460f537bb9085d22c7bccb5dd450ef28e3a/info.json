@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The idea behind Populous is to allow enterprise owners the opportunity for liquidity on invoices for durations up to 90 days using a peer-to-peer invoice financing platform.",
+      "verified": true
+    }
+  ],
+  "id": "ad9a164a-d127-48b9-a0c1-d6cb419f9c4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
+    "research": null,
+    "website": "https://populous.world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Populous",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

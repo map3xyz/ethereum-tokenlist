@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "3c402554-5d1c-4ed2-ba4d-c73d1ea62eba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
+    "research": null,
+    "website": "https://www.kuaitoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26ddf6cabadcbf4f013841bd8d914830beb0d984/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KuaiToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

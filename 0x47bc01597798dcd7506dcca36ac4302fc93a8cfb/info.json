@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "8ca2a0a6-8359-4ca9-a55d-9d49fc05c237",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb",
+    "research": null,
+    "website": "https://crowdmachine.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crowd Machine Compute Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

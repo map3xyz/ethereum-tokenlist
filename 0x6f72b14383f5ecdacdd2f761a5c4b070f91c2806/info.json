@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "ed1b2162-c162-46d9-866a-ab726aab5789",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806",
+    "research": null,
+    "website": "https://www.meltproject.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f72b14383f5ecdacdd2f761a5c4b070f91c2806/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Melt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MELT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

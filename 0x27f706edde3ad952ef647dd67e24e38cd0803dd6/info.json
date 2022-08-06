@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b7bd7fec-d9ff-4b8b-970f-21b2be891372",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
+    "research": null,
+    "website": "https://uetoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27f706edde3ad952ef647dd67e24e38cd0803dd6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Useless Ethereum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

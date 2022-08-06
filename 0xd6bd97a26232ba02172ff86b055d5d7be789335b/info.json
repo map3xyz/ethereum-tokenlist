@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd6bD97a26232bA02172Ff86b055d5D7bE789335B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ormeus Cash is a True Transactional Coin for a New Era of Commerce",
+      "verified": true
+    }
+  ],
+  "id": "44811df7-0743-4362-9cb5-32bb562c8508",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd6bD97a26232bA02172Ff86b055d5D7bE789335B",
+    "research": null,
+    "website": "https://ormeuscash.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6bd97a26232ba02172ff86b055d5d7be789335b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ormeus Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OMC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

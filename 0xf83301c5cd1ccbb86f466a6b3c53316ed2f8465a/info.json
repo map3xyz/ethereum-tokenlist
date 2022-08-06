@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Comsa is a conduit for future ICOs that want to exist in the COMSA ecosystem. As part of the project, a COMSA team is now already in place to provide companies with consultation, expertise and solutions to support their very own ICOs and implement blockchain technology into their business practices using our Zaif exchange and mijin private blockchain software, all at the same time, as a one-stop solution.",
+      "verified": true
+    }
+  ],
+  "id": "960f25a9-656e-4d0c-a731-04343605ab52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
+    "research": null,
+    "website": "https://comsa.io/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "COMSA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

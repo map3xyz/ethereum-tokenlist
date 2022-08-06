@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1063ce524265d5a3A624f4914acd573dD89ce988",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aigang is building autonomous insurance network - fully automated insurance for IoT devices and a platform for insurance innovation built around data.",
+      "verified": true
+    }
+  ],
+  "id": "4a18f431-fd86-475b-98f2-f14133f8a099",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1063ce524265d5a3A624f4914acd573dD89ce988",
+    "research": null,
+    "website": "https://aigang.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1063ce524265d5a3a624f4914acd573dd89ce988/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aigang",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

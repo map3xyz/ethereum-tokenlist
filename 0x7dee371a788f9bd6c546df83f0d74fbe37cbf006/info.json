@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dd01d7b4-9835-4ef9-9760-65fd894d1840",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+    "research": null,
+    "website": "https://teccoin.tech/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7dee371a788f9bd6c546df83f0d74fbe37cbf006/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Teccoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Tecn",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

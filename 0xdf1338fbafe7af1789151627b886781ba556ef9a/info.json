@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdf1338FbAfe7aF1789151627B886781ba556eF9a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kuende describes itself as a blockchain-fueled social media platform that encourages its users to engage in real-life interactions through Gamified Challenges. Kuende's Gamified Challenges actively encourage people to engage in activities that lead to real-life interactions.",
+      "verified": true
+    }
+  ],
+  "id": "eaa06def-fc05-49aa-bb06-d3e69a786772",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdf1338FbAfe7aF1789151627B886781ba556eF9a",
+    "research": null,
+    "website": "https://ico.kuende.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf1338fbafe7af1789151627b886781ba556ef9a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kuende Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

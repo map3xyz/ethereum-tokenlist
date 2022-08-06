@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Azbit Global Ltd Is a blockchain-based banking platform for crypto traders and crypto investors. Building a bridge between the world of traditional finance and cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "ff48b980-6b6c-4599-a41e-0c66121ed01b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99",
+    "research": null,
+    "website": "https://azbit.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Azbit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

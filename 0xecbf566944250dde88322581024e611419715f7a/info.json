@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xECbF566944250ddE88322581024E611419715f7A",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "xBTC gives users one token access to every single digital asset on earth, pegged against Bitcoin dominance.",
+      "verified": true
+    }
+  ],
+  "id": "33c31cdd-042c-4aca-9396-e4b16f929b31",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xECbF566944250ddE88322581024E611419715f7A",
+    "research": null,
+    "website": "https://xbtc.fi",
+    "github": "https://github.com/ipo/xBTC-uFragments",
+    "whitepaper": "https://xbtc.fi/whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xecbf566944250dde88322581024e611419715f7a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "xBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Token to support the Crowny marketing platform that allows users to interact and engage with their favorite brands",
+      "verified": true
+    }
+  ],
+  "id": "6c252b15-b0ab-419f-8a40-cd6139d6aae5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+    "research": null,
+    "website": "https://crowny.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbddf072d7aae7b9288e31a4eebe6c54e3a143b1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crowny Token (CRWNY)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRWNY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

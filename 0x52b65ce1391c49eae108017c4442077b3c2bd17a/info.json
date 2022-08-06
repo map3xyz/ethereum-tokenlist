@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x52b65CE1391C49eaE108017c4442077b3C2Bd17a",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FEG Wrapped USDC",
+      "verified": true
+    }
+  ],
+  "id": "eba7c1df-6dea-4d7d-b775-0a3780b8dfaf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x52b65ce1391c49eae108017c4442077b3c2bd17a",
+    "research": null,
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52b65ce1391c49eae108017c4442077b3c2bd17a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FEG Wrapped USDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fUSDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

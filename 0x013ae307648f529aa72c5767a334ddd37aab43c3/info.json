@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x013AE307648f529aa72c5767A334DDd37aaB43c3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1c562938-ec68-45d8-87bc-a09d3a0e0b47",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x013AE307648f529aa72c5767A334DDd37aaB43c3",
+    "research": null,
+    "website": "https://etherscan.io/token/0x013ae307648f529aa72c5767a334ddd37aab43c3"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x013ae307648f529aa72c5767a334ddd37aab43c3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Synth sBNB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

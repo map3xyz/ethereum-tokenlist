@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ofin is non-custodial investment protocol that enables novices to invest directly into the funds managed by seasoned crypto traders",
+      "verified": true
+    }
+  ],
+  "id": "14ef4470-f9e7-43f9-9647-ab8a4bda4ccf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+    "research": null,
+    "website": "https://ofin.io",
+    "github": "https://github.com/Ofinio/Ofin.io",
+    "twitter": "https://twitter.com/OfinProtocol",
+    "telegram": "https://t.me/ofin_io",
+    "medium": "https://medium.com/@ofin"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ofin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

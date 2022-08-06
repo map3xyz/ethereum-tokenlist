@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0C3eF32f802967DB75B9D49fE1e76620151cCB81",
+  "color": null,
+  "decimals": 5,
+  "description": [],
+  "id": "88bb15e7-c499-4bbe-ad28-578ee79c920b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0C3eF32f802967DB75B9D49fE1e76620151cCB81",
+    "research": null,
+    "website": "https://www.wn.work/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c3ef32f802967db75b9d49fe1e76620151ccb81/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Whole Network Node",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NODE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

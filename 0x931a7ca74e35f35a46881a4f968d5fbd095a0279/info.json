@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "23375b7a-1a2e-4b55-b5f6-09a75c1e48c3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x931a7ca74e35f35a46881a4f968d5fbd095a0279/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FailToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAIL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

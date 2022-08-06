@@ -1,0 +1,53 @@
+{
+  "active": true,
+  "address": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Panther Protocol Token",
+      "verified": true
+    }
+  ],
+  "id": "a1bf0f86-ce22-4237-b0c7-d77fbed1304c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+    "research": null,
+    "website": "https://pantherprotocol.io",
+    "blog": "https://blog.pantherprotocol.io",
+    "coingecko": "https://coingecko.com/coins/panther-protocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/panther-protocol/",
+    "discord": "https://discord.com/invite/WZuRnMCZ4c",
+    "docs": "https://docs.pantherprotocol.io/",
+    "facebook": "https://facebook.com/Panther-Protocol-102781158610564/",
+    "github": "https://github.com/pantherprotocol",
+    "medium": "https://medium.com/@panther-protocol",
+    "reddit": "https://reddit.com/r/PantherProtocol",
+    "telegram": "https://t.me/pantherprotocol",
+    "telegramNews": "https://t.me/pantherprotocolann",
+    "twitter": "https://twitter.com/ZkPanther",
+    "whitepaper": "https://pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf",
+    "youtube": "https://youtube.com/c/PantherProtocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x909e34d3f6124c324ac83dcca84b74398a6fa173/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "$ZKP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$ZKP",
+  "tags": [
+    "privacy",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

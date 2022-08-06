@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA02d0b6bfcE1dBd02b9cBB70e6b480333E8A86eC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IPWeb: A high-performance public chain based on P2P distributed storage. P2P distributed storage not only provides a secure, reliable, and low-cost storage platform, but anyone can freely use the distributed storage provided by IPWeb while defining smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "a4d043c4-f657-46ad-9e34-165aaa072722",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA02d0b6bfcE1dBd02b9cBB70e6b480333E8A86eC",
+    "research": null,
+    "website": "https://ipweb.top"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa02d0b6bfce1dbd02b9cbb70e6b480333e8a86ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IPWT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPWT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

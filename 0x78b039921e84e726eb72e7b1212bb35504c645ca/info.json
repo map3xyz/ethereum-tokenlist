@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "59016e1d-435c-43e3-b274-8036b5b66348",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x78B039921E84E726EB72E7b1212bb35504c645cA",
+    "research": null,
+    "website": "https://www.sether.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78b039921e84e726eb72e7b1212bb35504c645ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
