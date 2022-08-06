@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EMRX Token has been designed to incentivize the traders, investors, issuers and partners within the Emirex ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "3a3972da-20ff-46bd-b7f6-09cd808e2c25",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+    "research": null,
+    "website": "https://emirex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdbc2a5b32f3a5141acd18c39883066e4dab9774/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Emirex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

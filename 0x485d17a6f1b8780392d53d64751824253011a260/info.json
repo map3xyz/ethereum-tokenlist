@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x485d17A6f1B8780392d53D64751824253011A260",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TIME is an utility and governance token of ChronoTech ecosystem",
+      "verified": true
+    }
+  ],
+  "id": "1f382325-a3da-4677-a1b8-d5c0adcae871",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260",
+    "research": null,
+    "website": "https://chrono.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x485d17a6f1b8780392d53d64751824253011a260/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ChronoTech TIME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

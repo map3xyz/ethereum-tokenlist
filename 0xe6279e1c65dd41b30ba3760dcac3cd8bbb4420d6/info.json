@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+  "color": null,
+  "decimals": 9,
+  "description": [],
+  "id": "c032c857-14c5-4306-a5b2-8ffbcd3fc0e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+    "research": null,
+    "website": "https://rebased.fi/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rebased",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

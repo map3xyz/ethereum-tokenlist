@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2e98A6804E4b6c832ED0ca876a943abD3400b224",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bela (BELA) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "c803ee19-cb66-4778-9270-cc0c29242b98",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2e98A6804E4b6c832ED0ca876a943abD3400b224",
+    "research": null,
+    "website": "https://www.livebela.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e98a6804e4b6c832ed0ca876a943abd3400b224/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bela",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BELA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

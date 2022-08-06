@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zilla (ZLA) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "f325a38b-5277-4680-aad0-3027240ccf6c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
+    "research": null,
+    "website": "https://zla.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zilla Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZLA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a8ef686d-027d-4ba0-b911-78e25e2c7360",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+    "research": null,
+    "website": "https://uquidcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd01db73e047855efb414e6202098c4be4cd2423b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uquid Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UQC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

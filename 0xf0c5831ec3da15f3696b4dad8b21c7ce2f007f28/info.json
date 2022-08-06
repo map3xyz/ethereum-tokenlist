@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AxisToken will be the world's first Transportation blockchain platform",
+      "verified": true
+    }
+  ],
+  "id": "51ec968a-22d6-41aa-9245-2eb9742d92dc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28",
+    "research": null,
+    "website": "https://axistoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AXIS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

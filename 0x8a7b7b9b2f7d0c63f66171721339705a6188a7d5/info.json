@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "21e68d87-94a2-4d08-b870-33dfa8503d6f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+    "research": null,
+    "website": "https://etherdoge.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EtherDoge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDOGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

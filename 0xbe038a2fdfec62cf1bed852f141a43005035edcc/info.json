@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xbe038A2FDfec62Cf1beD852f141A43005035edcC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "INT is an INT Chain cross-chain asset based on Ethereum network, and INT Chain is a blockchain application platform and interactive standard based on the economic driving mode.",
+      "verified": true
+    }
+  ],
+  "id": "b94cc09d-4b43-4918-b13a-e5352f916ef8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbe038A2FDfec62Cf1beD852f141A43005035edcC",
+    "research": null,
+    "website": "https://intchain.io/",
+    "github": "https://github.com/intfoundation/int",
+    "whitepaper": "https://intchain.io/whitepaper/INT-whitepaper-release-EN.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbe038a2fdfec62cf1bed852f141a43005035edcc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Intchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

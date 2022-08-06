@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4D13d624a87baa278733c068A174412AfA9ca6C8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fad0cd0c-687a-41f7-a1b4-f9a68939a57f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4D13d624a87baa278733c068A174412AfA9ca6C8",
+    "research": null,
+    "website": "https://www.eterbase.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d13d624a87baa278733c068a174412afa9ca6c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Eterbase Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBASE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

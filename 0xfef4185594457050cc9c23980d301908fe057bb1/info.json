@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfeF4185594457050cC9c23980d301908FE057Bb1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "V-ID makes any digital file verifiable. The VIDT API enables organizations to protect their digital data against fraud and manipulation. A simple but strong formula, that adds and protects value at minimum expense and effort. Organizations like Airbus, AmSpec and IBM use VIDT Datalink to certify and secure digital documents like certificates, invoices, diplomas and sensor-data. VIDT Datalink products and services connect every cloud to every blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "01c67be4-d267-4a33-9a49-d9327e14938b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfeF4185594457050cC9c23980d301908FE057Bb1",
+    "research": null,
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfef4185594457050cc9c23980d301908fe057bb1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VIDT Datalink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

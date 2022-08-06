@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
+      "verified": true
+    }
+  ],
+  "id": "e0b899d0-49d9-44ca-a5f4-09e542f9c8d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+    "research": null,
+    "website": "https://www.temco.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TEMCO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEMCO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

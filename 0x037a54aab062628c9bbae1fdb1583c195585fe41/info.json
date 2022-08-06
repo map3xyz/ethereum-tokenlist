@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LCX.com - Innovating Capital Markets. Solutions for compliant digital assets and security tokens. LCX is a secure and compliant platform for buying, selling, transferring, and storing digital currency.",
+      "verified": true
+    }
+  ],
+  "id": "b935e4d8-31b6-4ab9-ae3c-0b426da8b049",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+    "research": null,
+    "website": "https://www.LCX.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x037a54aab062628c9bbae1fdb1583c195585fe41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LCX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

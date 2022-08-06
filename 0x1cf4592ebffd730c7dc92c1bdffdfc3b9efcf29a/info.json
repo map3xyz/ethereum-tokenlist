@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The main token for Waves Protocol.",
+      "verified": true
+    }
+  ],
+  "id": "8a4222e6-2bad-4c0c-90af-a100d15b74d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+    "research": null,
+    "website": "https://waves.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WAVES",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAVES",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

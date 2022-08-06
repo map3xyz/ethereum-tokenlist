@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "eMTRG is the ERC-20 equivalent of MTRG, the governance coin of the Meter network.",
+      "verified": true
+    }
+  ],
+  "id": "ddbdaa40-fe09-42a6-9690-caf60fc2088c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "research": null,
+    "website": "https://meter.io/",
+    "github": "https://github.com/meterio",
+    "twitter": "https://twitter.com/Meter_IO",
+    "telegram": "https://t.me/Meter_IO",
+    "discord": "https://discord.com/invite/XZgZsCn",
+    "facebook": "https://facebook.com/MeterFoundation/",
+    "reddit": "https://reddit.com/r/Meter_io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Meter Governance mapped by Meter.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMTRG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

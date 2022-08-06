@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x9fa69536d1cda4A04cFB50688294de75B505a9aE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome",
+      "verified": true
+    }
+  ],
+  "id": "5add8a32-a157-42e9-adb8-0f102e92c12b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9fa69536d1cda4A04cFB50688294de75B505a9aE",
+    "research": null,
+    "website": "https://derace.com",
+    "blog": "https://derace.com",
+    "twitter": "https://twitter.com/deracenft",
+    "telegram": "https://t.me/DeRaceNFT",
+    "medium": "https://deracenft.medium.com/",
+    "discord": "https://discord.com/invite/67M9ckF3q3"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9fa69536d1cda4a04cfb50688294de75b505a9ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeRace Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DERC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

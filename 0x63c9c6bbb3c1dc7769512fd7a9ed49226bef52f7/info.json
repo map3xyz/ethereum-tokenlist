@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x63c9c6BBb3C1dC7769512fD7a9ED49226bEf52f7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped version of Ethereum (ETH)",
+      "verified": true
+    }
+  ],
+  "id": "89d172f5-d7ab-40d9-a9ba-a8a680a089da",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x63c9c6BBb3C1dC7769512fD7a9ED49226bEf52f7",
+    "research": null,
+    "website": "https://ecocelium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63c9c6bbb3c1dc7769512fd7a9ed49226bef52f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WrapETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The $BOSON token is the core economic unit of the Boson ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "f8e96173-fd72-414e-a859-59165a67afc3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc477d038d5420c6a9e0b031712f61c5120090de9",
+    "research": null,
+    "website": "https://bosonprotocol.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc477d038d5420c6a9e0b031712f61c5120090de9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOSON Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOSON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

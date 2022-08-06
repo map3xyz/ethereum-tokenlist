@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FUTURAX is project of cryptocurrencies exchanger platform, we foucused to build modern Crypto Market with many feature and benefit to Trader.",
+      "verified": true
+    }
+  ],
+  "id": "2e87008a-f87d-4e43-9fa1-09beb116bb34",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x41875C2332B0877cDFAA699B641402b7D4642c32",
+    "research": null,
+    "website": "https://www.futurax.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41875c2332b0877cdfaa699b641402b7d4642c32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FUTURAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

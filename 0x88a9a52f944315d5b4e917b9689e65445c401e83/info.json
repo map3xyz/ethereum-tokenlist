@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x88A9A52F944315D5B4e917b9689e65445C401E83",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fear is a blockchain horror gaming and NFT project from the creators of the famous Whack It games.",
+      "verified": true
+    }
+  ],
+  "id": "f2a19589-ac0c-4d23-a64a-57e28141d358",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x88a9a52f944315d5b4e917b9689e65445c401e83",
+    "research": null,
+    "website": "https://www.fearnft.games/",
+    "whitepaper": "https://fearnft.games/docs/fear-nfts-whitepaper.pdf",
+    "twitter": "https://twitter.com/fearnfts",
+    "telegram": "https://t.me/fearcoin",
+    "telegramNews": "https://t.me/fearnftsannouncement",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fear-nfts/",
+    "coingecko": "https://coingecko.com/en/coins/fear",
+    "facebook": "https://facebook.com/FEAR-109921091272605"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88a9a52f944315d5b4e917b9689e65445c401e83/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fear",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

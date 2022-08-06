@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ICH It is a digital currency to support inventors and preserve their rights with smart and innovative solutions.",
+      "verified": true
+    }
+  ],
+  "id": "bd67b3ec-8a75-42a1-b5ba-be67180aa9cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
+    "research": null,
+    "website": "https://ideachaincoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8483e2d6560585c02d46bf7b3186bf154a96166/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IdeaChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

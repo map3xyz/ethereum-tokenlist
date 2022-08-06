@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Grap is a fork of the YAM project. But it came with correct 'rebase' and it fixed some obvious bugs. So it will be less trouble and more fun.",
+      "verified": true
+    }
+  ],
+  "id": "d210ec4e-3ac0-4e44-9f39-23800c15c3fc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+    "research": null,
+    "website": "https://grap.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GRAP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

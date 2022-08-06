@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "STAK is the governance token of Jigstack DAO as well as the main utility asset across it's ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "8a6c62f9-da7b-4cd7-a272-e5ef3329edb0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+    "research": null,
+    "website": "https://www.jigstack.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jigstack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x19EdFbe9814AF6eeE88289fdd789BC473e84f8F7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "089de9bc-a4da-4a66-b008-08e0f32972a4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19EdFbe9814AF6eeE88289fdd789BC473e84f8F7",
+    "research": null,
+    "website": "https://miniethereum.online/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19edfbe9814af6eee88289fdd789bc473e84f8f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MINI ETHEREUM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "METH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Flapp is the token of both the present and the future: an ecosystem for developers and users that facilitates the use and creation of blockchain based dapps",
+      "verified": true
+    }
+  ],
+  "id": "c85a98ed-6434-4753-8bd8-014fe569fe3f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f",
+    "research": null,
+    "website": "https://flapptoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcfb72ed3647cc8e7fa52e4f121ecdabefc305e7f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flapp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

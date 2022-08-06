@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x12A64aE35CCcBF75c169f0a4BDafEeeFEFa1958c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This token is meant to boost and facilitate reliable banana product trade.",
+      "verified": true
+    }
+  ],
+  "id": "546eaa68-109a-446d-9ac8-3e4b803cf421",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12A64aE35CCcBF75c169f0a4BDafEeeFEFa1958c",
+    "research": null,
+    "website": "https://www.planetagro.org/banana-exchange"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12a64ae35cccbf75c169f0a4bdafeeefefa1958c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Planetagro-Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BANANA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

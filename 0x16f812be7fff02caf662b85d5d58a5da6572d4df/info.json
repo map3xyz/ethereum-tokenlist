@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "United Traders, found online at UnitedTraders.com. offers an investment marketplace, Access to multiple exchanges, and online financial education materials.",
+      "verified": true
+    }
+  ],
+  "id": "578abc5c-f111-4a03-b682-a13ea4e38214",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df",
+    "research": null,
+    "website": "https://uttoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16f812be7fff02caf662b85d5d58a5da6572d4df/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "United Traders Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

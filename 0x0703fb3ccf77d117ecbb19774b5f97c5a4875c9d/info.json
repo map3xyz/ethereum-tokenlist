@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CHF stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "18e3c556-811d-4237-96b2-a1b30870f8c3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
+    "research": null,
+    "website": "-"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0703fb3ccf77d117ecbb19774b5f97c5a4875c9d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Digital CHF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCHF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

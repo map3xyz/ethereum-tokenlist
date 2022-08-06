@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "34f51aa6-902c-46a0-9ec7-3425b10b191f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+    "research": null,
+    "website": "https://sportyco.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SPFToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

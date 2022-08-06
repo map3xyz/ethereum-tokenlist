@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8c4E7f814d40f8929F9112C5D09016F923d34472",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "XCELTOKEN PLUS (XLAB) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "2cb5e432-5240-4b29-8b36-a8c281269dc1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8c4E7f814d40f8929F9112C5D09016F923d34472",
+    "research": null,
+    "website": "https://www.xceltrip.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c4e7f814d40f8929f9112c5d09016f923d34472/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XCELTOKEN PLUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XLAB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

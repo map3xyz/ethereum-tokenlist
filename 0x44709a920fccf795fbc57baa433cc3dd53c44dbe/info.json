@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DappRadar aims to be one of the leading global NFT & DeFi DAPP store.",
+      "verified": true
+    }
+  ],
+  "id": "9c902e93-917e-4667-b680-26f2905587a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+    "research": null,
+    "website": "https://dappradar.com/",
+    "github": "https://github.com/dappradar",
+    "twitter": "https://twitter.com/dappradar",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dappradar/",
+    "telegram": "https://t.me/joinchat/GdhNjQ8PMhCZ_a0CZutmXg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44709a920fccf795fbc57baa433cc3dd53c44dbe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DappRadar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RADAR",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

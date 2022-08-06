@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
+      "verified": true
+    }
+  ],
+  "id": "d6641707-a2f0-459b-92be-41a7d6ff3c8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+    "research": null,
+    "website": "https://aleph.im"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27702a26126e0b3702af63ee09ac4d1a084ef628/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "aleph.im ERC-20 v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALEPH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ethereum Meta addresses a major weakness in Ethereum: the lack of privacy. Ethereum Meta enables smart contracts where no friend, family, nor foe can see what you bought or for how much.",
+      "verified": true
+    }
+  ],
+  "id": "b21eb4bc-d26d-46c0-842f-fbd28cab0002",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
+    "research": null,
+    "website": "https://ethermeta.com",
+    "twitter": "https://twitter.com/EthereumMeta",
+    "telegram": "https://t.me/ethereummeta",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethereum-meta/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfd957f21bd95e723645c07c48a2d8acb8ffb3794/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Meta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

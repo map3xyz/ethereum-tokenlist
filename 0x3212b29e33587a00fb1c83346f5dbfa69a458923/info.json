@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "b506725c-6a99-4697-931b-614d42fb0292",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+    "research": null,
+    "website": "https://tokenlon.im/imBTC"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3212b29e33587a00fb1c83346f5dbfa69a458923/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Tokenized Bitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "imBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

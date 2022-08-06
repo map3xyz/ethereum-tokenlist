@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1051a014E4b3F2bD08E5A7e52522f0F71628162B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An innovative platform that allows fans to book live meetings with STARS.",
+      "verified": true
+    }
+  ],
+  "id": "c2573d8b-3c77-465e-899f-2b410a0ee9fd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1051a014E4b3F2bD08E5A7e52522f0F71628162B",
+    "research": null,
+    "website": "https://www.gotogods.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1051a014e4b3f2bd08e5a7e52522f0f71628162b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GOTOGODS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OGODS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

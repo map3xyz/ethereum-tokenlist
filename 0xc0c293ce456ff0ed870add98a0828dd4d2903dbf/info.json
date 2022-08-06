@@ -1,0 +1,48 @@
+{
+  "active": true,
+  "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Boosting DeFi stakeholders' yield potential and governance power, starting with Balancer.",
+      "verified": true
+    }
+  ],
+  "id": "a50914cd-e9c5-4682-b540-f3541744401b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+    "research": null,
+    "website": "https://aura.finance",
+    "twitter": "https://twitter.com/AuraFinance",
+    "github": "https://github.com/aurafinance",
+    "telegram": "https://t.me/",
+    "telegramNews": "https://t.me/aurafinance",
+    "discord": "https://discord.com/",
+    "forum": "https://forum.aura.finance/",
+    "blog": "https://mirror.xyz/0xfEE0Bbe31345a7c27368534fEf45a57133FF3A86",
+    "docs": "https://docs.aura.finance/",
+    "coingecko": "https://coingecko.com/en/coins/aura-finance",
+    "sourceCode": "https://github.com/aurafinance/aura-contracts"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aura Finance (AURA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AURA",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

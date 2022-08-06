@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x038e1b56b615fF3dD20e0BD4C7e91c7EE07d3508",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pTokens, which give exposure to a desired short or leveraged position.",
+      "verified": true
+    }
+  ],
+  "id": "482283d9-a317-4893-96f1-342e10679852",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x038e1b56b615fF3dD20e0BD4C7e91c7EE07d3508",
+    "research": null,
+    "website": "https://bzx.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x038e1b56b615ff3dd20e0bd4c7e91c7ee07d3508/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Long WBTC-DAI 3x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLWBTC3x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

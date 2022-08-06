@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The link between open finance, traceability, and transparency. The future of supply chains today.",
+      "verified": true
+    }
+  ],
+  "id": "7b7c8f25-faae-4ffb-8a7f-d35ffad97402",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+    "research": null,
+    "website": "https://suku.world",
+    "github": "https://github.com/SukuLab",
+    "twitter": "https://twitter.com/SUKUecosystem",
+    "telegram": "https://t.me/SUKUecosystem",
+    "facebook": "https://facebook.com/SUKUecosystem"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SUKU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUKU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

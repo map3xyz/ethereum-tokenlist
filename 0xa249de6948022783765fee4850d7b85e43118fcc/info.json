@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa249DE6948022783765Fee4850d7b85E43118FCc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Jarvis+ (JAR) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "303ef4ee-3dd4-4651-a375-3b384d1205b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa249DE6948022783765Fee4850d7b85E43118FCc",
+    "research": null,
+    "website": "http://www.jarvisplus.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa249de6948022783765fee4850d7b85e43118fcc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jarvis+ Coins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

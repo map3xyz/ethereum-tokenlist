@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x24cCeDEBF841544C9e6a62Af4E8c2fA6e5a46FdE",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The BlueSparrow token was launched 28th October 2021 and was designed to benefit people in all parts of the world no matter the circumstance, country, culture or economic disadvantage. One reason that makes that possible; our draw system!",
+      "verified": true
+    }
+  ],
+  "id": "728e30db-35cd-4a00-b6ea-3d5e3c2cd8d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24cCeDEBF841544C9e6a62Af4E8c2fA6e5a46FdE",
+    "research": null,
+    "website": "http://bluesparrowtoken.com",
+    "twitter": "https://twitter.com/BlueSparrowETH",
+    "telegram": "https://t.me/BlueSparrowOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bluesparrow-token-new/",
+    "coingecko": "https://coingecko.com/coins/bluesparrow",
+    "discord": "https://discord.com/invite/bluesparrow"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BlueSparrow",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLUESPARROW",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

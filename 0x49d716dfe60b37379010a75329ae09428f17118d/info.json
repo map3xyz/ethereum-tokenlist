@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x49d716DFe60b37379010A75329ae09428f17118d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PoolTogether is a no-loss, audited savings game powered by blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "a17ace7e-bfd7-451c-9952-98f24d1c3160",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49d716DFe60b37379010A75329ae09428f17118d",
+    "research": null,
+    "website": "https://www.pooltogether.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49d716dfe60b37379010a75329ae09428f17118d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pool Dai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "plDai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

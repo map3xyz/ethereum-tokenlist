@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "b24f5c9c-cb8a-4ad3-a63e-b3036232ea00",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+    "research": null,
+    "website": "http://btclite.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTC LITE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

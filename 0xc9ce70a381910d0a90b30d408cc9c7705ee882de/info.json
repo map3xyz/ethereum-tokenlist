@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nyan is a decentralized hedge fund using on-chain governance",
+      "verified": true
+    }
+  ],
+  "id": "5dff3768-136f-45d9-b3d3-4b34f1b26915",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
+    "research": null,
+    "website": "https://nyan.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc9ce70a381910d0a90b30d408cc9c7705ee882de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NYAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NYAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

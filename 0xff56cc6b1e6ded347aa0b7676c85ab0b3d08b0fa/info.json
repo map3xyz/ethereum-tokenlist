@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Orbs is a blockchain infrastructure-as-a-service built for large scale consumer applications to meet their business and technological requirements.",
+      "verified": true
+    }
+  ],
+  "id": "cbcdf99d-5be8-40bf-b775-8acdfb277f41",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+    "research": null,
+    "website": "https://orbs.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Orbs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORBS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

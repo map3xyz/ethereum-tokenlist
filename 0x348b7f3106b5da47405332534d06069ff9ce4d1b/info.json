@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x348B7f3106B5Da47405332534d06069fF9CE4d1B",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elongate Deluxe The passive reward protocol with advanced elongation technology.",
+      "verified": true
+    }
+  ],
+  "id": "732223db-e97e-4776-a3a3-d4eb698d8593",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x348B7f3106B5Da47405332534d06069fF9CE4d1B",
+    "research": null,
+    "website": "https://elongd.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x348b7f3106b5da47405332534d06069ff9ce4d1b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Elongate Deluxe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELONGD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

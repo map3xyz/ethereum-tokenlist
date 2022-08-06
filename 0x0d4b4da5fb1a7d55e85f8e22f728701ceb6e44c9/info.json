@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bea500ff-b808-43a4-ab05-5bcde123c839",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9",
+    "research": null,
+    "website": "https://digimaxtoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d4b4da5fb1a7d55e85f8e22f728701ceb6e44c9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DigiMax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

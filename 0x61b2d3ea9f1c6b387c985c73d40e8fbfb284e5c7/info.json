@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x61B2d3eA9f1c6b387C985C73d40e8fBfb284E5C7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d8c18614-0386-4812-9e99-4744e675b7d7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x61B2d3eA9f1c6b387C985C73d40e8fBfb284E5C7",
+    "research": null,
+    "website": "https://robocalls.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RoboCalls",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RC20",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

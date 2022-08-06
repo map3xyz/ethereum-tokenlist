@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MARK.SPACE is an open-source platform for the creation of 3D/VR/AR-compatible spaces and objects of any purpose, as well as their quick launch and integration into a unique ecosystem. The platform supports a crypto economy and is powered by Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "3deadab6-1f72-4530-8d8a-9f3513331232",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89",
+    "research": null,
+    "website": "http://markspace.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf453b5b9d4e0b5c62ffb256bb2378cc2bc8e8a89/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mark",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

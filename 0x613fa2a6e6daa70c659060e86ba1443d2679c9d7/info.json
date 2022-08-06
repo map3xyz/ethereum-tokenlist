@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x613Fa2A6e6DAA70c659060E86bA1443D2679c9D7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bb4fa45b-0994-46d6-b918-920712116964",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x613Fa2A6e6DAA70c659060E86bA1443D2679c9D7",
+    "research": null,
+    "website": "https://parkingo.io/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GOToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

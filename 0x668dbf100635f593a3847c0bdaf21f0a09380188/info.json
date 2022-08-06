@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BNSD is a DeFI token to augment the returns on your existing tokens by generating high yields on it.",
+      "verified": true
+    }
+  ],
+  "id": "40b1f147-90a0-44a0-87f4-d1fff0454c3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x668DbF100635f593A3847c0bDaF21f0a09380188",
+    "research": null,
+    "website": "https://bns.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x668dbf100635f593a3847c0bdaf21f0a09380188/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BNSD Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8b8d8c67-2b3f-484e-b657-b859784e47a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+    "research": null,
+    "website": "https://bloom.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bloom Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

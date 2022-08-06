@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "268d41ad-4db5-4e16-861e-c5765dc83b8f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+    "research": null,
+    "website": "https://erc20.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ERC20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERC20",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7090a6e22c838469c9E67851D6489ba9c933a43F",
+  "color": null,
+  "decimals": 0,
+  "description": [],
+  "id": "9c262fce-cd4e-4f40-a8a7-88e8084d65f0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7090a6e22c838469c9E67851D6489ba9c933a43F",
+    "research": null,
+    "website": "https://zuckbucks.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7090a6e22c838469c9e67851d6489ba9c933a43f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zuck Bucks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZBUX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

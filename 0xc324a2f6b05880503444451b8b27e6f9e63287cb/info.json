@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Exchange Union is a “decentralized network” that connects individual digital asset exchanges from around the world. The team is on a mission to solve one of crypto’s most prominent issues – illiquidity.",
+      "verified": true
+    }
+  ],
+  "id": "161eacdf-afd4-4c15-9d49-55e60d5c6d2c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+    "research": null,
+    "website": "https://www.exchangeunion.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc324a2f6b05880503444451b8b27e6f9e63287cb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Exchange Union Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XUC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

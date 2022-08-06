@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd6cAF5Bd23CF057f5FcCCE295Dcc50C01C198707",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Layer0 Network Infrastructure & Private Finance Protocol Platform for Web3",
+      "verified": true
+    }
+  ],
+  "id": "d4612917-54c8-479c-a3ed-fb6246e6ed8d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+    "research": null,
+    "website": "https://www.evanesco.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6caf5bd23cf057f5fccce295dcc50c01c198707/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Evanesco Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

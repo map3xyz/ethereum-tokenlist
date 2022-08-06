@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3abdfF32F76b42E7635bdb7e425f0231A5F3aB17",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b94c4b13-778a-4141-ba51-beacf2b3b6d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3abdfF32F76b42E7635bdb7e425f0231A5F3aB17",
+    "research": null,
+    "website": "https://www.connectjob.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ConnectJob",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CJT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

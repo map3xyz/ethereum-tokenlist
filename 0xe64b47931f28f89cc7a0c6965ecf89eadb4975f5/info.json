@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe64b47931f28f89Cc7A0C6965Ecf89EaDB4975f5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Ludos Protocol is a decentralized solution game ecosystem. The protocol is mainly composed of three parts:Main chain + multi-sidechain infrastructure, Toolbox for game developers, DApps, and incentivized game ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "9666329b-6539-4c3f-ab50-e1775e96a713",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe64b47931f28f89Cc7A0C6965Ecf89EaDB4975f5",
+    "research": null,
+    "website": "http://ludos.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ludos Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The goal of Breezecoin is to combine blockchain-based cryptocurrency technology with real estate investments.",
+      "verified": true
+    }
+  ],
+  "id": "76cb96a4-8b06-4bcb-a456-521de2c42389",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170",
+    "research": null,
+    "website": "https://www.breezecoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77c07555af5ffdc946fb47ce15ea68620e4e7170/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Breeze",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRZE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

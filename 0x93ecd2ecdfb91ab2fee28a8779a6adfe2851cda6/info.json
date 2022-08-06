@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cb35e1a7-4c13-4ff4-aa97-6ba28a8b9b91",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
+    "research": null,
+    "website": "https://loanburst.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LoanBurst",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBurst",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

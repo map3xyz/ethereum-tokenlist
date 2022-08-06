@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x018d7D179350f1Bb9853D04982820E37ccE13a92",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "INMAX is A dependable digital asset exchange and financial system.",
+      "verified": true
+    }
+  ],
+  "id": "6b03e45f-ed7b-41e8-93fe-2aaa0ce2b76e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x018d7D179350f1Bb9853D04982820E37ccE13a92",
+    "research": null,
+    "website": "https://inmax.live"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x018d7d179350f1bb9853d04982820e37cce13a92/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "INMAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

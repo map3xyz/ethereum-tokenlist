@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x75739d5944534115d7C54ee8C73F186D793BAE02",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Collective is an all-in-one platform built to incubate, manage and develop communities, and help assure liquidity for the best Crypto Projects.",
+      "verified": true
+    }
+  ],
+  "id": "3563c6fc-1fa7-4317-9504-06b3d5119f24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x75739d5944534115d7c54ee8c73f186d793bae02",
+    "research": null,
+    "website": "https://www.thecollectivegroup.org",
+    "twitter": "https://twitter.com/TheCollectiveGo",
+    "telegram": "https://t.me/TheCollectiveCommunity",
+    "facebook": "https://facebook.com/thecollectivego/",
+    "medium": "https://thecollectivego-02.medium.com/",
+    "whitepaper": "https://thecollectivego-02.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75739d5944534115d7c54ee8c73f186d793bae02/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Collective",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CO2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

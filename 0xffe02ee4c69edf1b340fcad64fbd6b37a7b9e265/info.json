@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NANJCOIN is a cryptocurrency created using blockchain technology with the goal of connecting people and sports in ways that previously didn’t exist.",
+      "verified": true
+    }
+  ],
+  "id": "66cbb97b-2fae-44e7-8e16-c0623ff808b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+    "research": null,
+    "website": "https://nanjcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NANJCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NANJ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mononoke Inu - the anime token with the biggest potential out there! Freshly released on Ethereum!",
+      "verified": true
+    }
+  ],
+  "id": "d65d25b0-09ca-4834-9efb-c2f2665b2adc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+    "research": null,
+    "website": "https://www.mononoke-i.nu/",
+    "github": "https://github.com/MononokeInu",
+    "twitter": "https://twitter.com/Mononoke_Inu",
+    "reddit": "https://reddit.com/r/mononoke_inu",
+    "telegram": "https://t.me/mononokeinu",
+    "youtube": "https://youtube.com/channel/UCdH9xvqETEHJSZDRW94jJAg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4da08a1bff50be96bded5c7019227164b49c2bfc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mononoke Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Mononoke-Inu",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

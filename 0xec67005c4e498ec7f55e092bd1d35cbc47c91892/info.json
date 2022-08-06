@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Melon is an Ethereum-based protocol for decentralized on-chain asset management.",
+      "verified": true
+    }
+  ],
+  "id": "671ad5df-eb02-4206-a553-424bbaed8f63",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+    "research": null,
+    "website": "https://melonport.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xec67005c4e498ec7f55e092bd1d35cbc47c91892/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Melon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

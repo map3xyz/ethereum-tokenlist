@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x60c68a87bE1E8a84144b543AAcfA77199cd3d024",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Themis is a trusted blockchain infrastructure based on group escrow service, the problmes of fair exchanges which using cryptocurrencies as the medium, and helping to build a new generation of trusted network.",
+      "verified": true
+    }
+  ],
+  "id": "c1a70b80-479f-4304-9c84-43ce21430ebd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x60c68a87bE1E8a84144b543AAcfA77199cd3d024",
+    "research": null,
+    "website": "https://themis.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60c68a87be1e8a84144b543aacfa77199cd3d024/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Themis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

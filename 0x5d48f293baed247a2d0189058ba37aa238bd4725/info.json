@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5d48F293BaED247A2D0189058bA37aa238bD4725",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NeuroChain will deliver a protocol to create simple and scalable business applications.",
+      "verified": true
+    }
+  ],
+  "id": "821eec8e-8aa8-46a1-98c2-efebc3e2c6ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d48F293BaED247A2D0189058bA37aa238bD4725",
+    "research": null,
+    "website": "https://www.neurochaintech.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d48f293baed247a2d0189058ba37aa238bd4725/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NeuroChain Clausius",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

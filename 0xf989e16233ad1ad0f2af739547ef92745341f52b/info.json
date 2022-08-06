@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF989E16233ad1aD0F2aF739547eF92745341F52B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Coin Fella Projekt is all about decentralized financial services with a goal to facilitate financial management in Cryptospace with a specially developed wallet and currency/ERC20 token.",
+      "verified": true
+    }
+  ],
+  "id": "effe8a66-9873-46c9-9b60-7e029e376f32",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF989E16233ad1aD0F2aF739547eF92745341F52B",
+    "research": null,
+    "website": "https://coinfellatoken.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf989e16233ad1ad0f2af739547ef92745341f52b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coin Fella Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy. ADX-LOYALTY is it's governance token.",
+      "verified": true
+    }
+  ],
+  "id": "053e8b29-6d23-4370-bdb1-74c1554c2ba2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
+    "research": "https://research.binance.com/en/projects/adex-network",
+    "website": "https://adex.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9a4cb9dc9296e111c66dfacab8be034ee2e1c2c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AdEx Loyalty",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADX-LOYALTY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

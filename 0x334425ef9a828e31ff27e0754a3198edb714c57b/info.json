@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x334425Ef9a828e31fF27e0754A3198eDb714C57B",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "b5b0c896-c9f2-438e-8e1c-d4e80e919963",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x334425Ef9a828e31fF27e0754A3198eDb714C57B",
+    "research": null,
+    "website": "https://www.genesis-crypto.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x334425ef9a828e31ff27e0754a3198edb714c57b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Genesis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

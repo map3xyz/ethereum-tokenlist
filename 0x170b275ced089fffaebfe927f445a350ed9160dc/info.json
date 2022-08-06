@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x170b275CEd089FffAEBFe927F445a350ED9160DC",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Monetize your owndata with Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "9326fe51-d63d-4013-83b6-6ac454eaf228",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x170b275CEd089FffAEBFe927F445a350ED9160DC",
+    "research": null,
+    "website": "https://owndata.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x170b275ced089fffaebfe927f445a350ed9160dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OwnData",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OWN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

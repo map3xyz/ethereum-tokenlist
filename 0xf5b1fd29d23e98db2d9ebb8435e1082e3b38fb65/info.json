@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kishimoto Inu is the Latest Anime & Inu Based Token released on the ERC20 Network.",
+      "verified": true
+    }
+  ],
+  "id": "99e74adb-07c0-446d-8b1c-30a921d32e51",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65",
+    "research": null,
+    "website": "https://kishimotoinu.com/",
+    "twitter": "https://twitter.com/KishimotoInu",
+    "telegram": "https://t.me/Kishimoto_Inu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kishimoto Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KISHIMOTO",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

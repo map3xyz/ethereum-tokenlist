@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD7b3669C7d3E38aB5a441383D41F25E003e02148",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6adc2c00-18c2-4e52-bc23-afab7f5d358c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD7b3669C7d3E38aB5a441383D41F25E003e02148",
+    "research": null,
+    "website": "https://seal.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7b3669c7d3e38ab5a441383d41f25e003e02148/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SealToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

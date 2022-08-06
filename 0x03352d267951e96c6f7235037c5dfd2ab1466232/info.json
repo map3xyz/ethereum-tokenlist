@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x03352D267951E96c6F7235037C5DFD2AB1466232",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneFOX is an ICHI-created stablecoin for Shapeshift.",
+      "verified": true
+    }
+  ],
+  "id": "9ac7cea7-0672-4280-8583-36d4621895ad",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x03352D267951E96c6F7235037C5DFD2AB1466232",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8",
+    "coingecko": "https://coingecko.com/coins/stable-fox"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03352d267951e96c6f7235037c5dfd2ab1466232/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable FOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFOX",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

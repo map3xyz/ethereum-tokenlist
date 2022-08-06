@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NUTS is an upcoming ecosystem to empower simple & secure DeFi. The first product Stash is live in beta with second product Insure coming shortly.",
+      "verified": true
+    }
+  ],
+  "id": "155a7091-76d7-40d2-aba1-349e0dc89329",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
+    "research": null,
+    "website": "https://squirrel.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84294fc9710e1252d407d3d80a84bc39001bd4a8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "(Old) NUTS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUTS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

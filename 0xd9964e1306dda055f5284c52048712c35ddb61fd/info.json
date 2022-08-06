@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD9964E1306dda055F5284c52048712c35DdB61Fd",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cd61c017-eafc-4520-9980-9c76825df84e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD9964E1306dda055F5284c52048712c35DdB61Fd",
+    "research": null,
+    "website": "https://bitnautic.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9964e1306dda055f5284c52048712c35ddb61fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitNautic Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

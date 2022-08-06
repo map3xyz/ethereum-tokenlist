@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+      "verified": true
+    }
+  ],
+  "id": "4cfa2ba8-e44f-467c-9e52-e59c4940c607",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+    "research": null,
+    "website": "https://www.jasmy.co.jp/en.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7420b4b9a0110cdc71fb720908340c03f9bc03ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "JasmyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JASMY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pioneer of Global Game Public Chain, dedicated to creating a game ecology based on blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "9c6bac25-5435-4973-b18f-1cd83ea25194",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34",
+    "research": null,
+    "website": "https://www.baerchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Baer Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

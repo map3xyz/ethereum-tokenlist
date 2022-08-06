@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.",
+      "verified": true
+    }
+  ],
+  "id": "5f19fc37-7ad3-4b46-8e29-c64291becfd2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+    "research": null,
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "telegram": "https://t.me/reservecurrency",
+    "github": "https://github.com/reserve-protocol/rsr-mainnet",
+    "blog": "https://medium.com/reserve-currency",
+    "coingecko": "https://coingecko.com/coins/reserve-rights-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x320623b8e4ff03373931769a31fc52a4e78b5d70/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Reserve Rights",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSR",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

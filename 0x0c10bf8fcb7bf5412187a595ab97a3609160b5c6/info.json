@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USDD is a fully decentralized algorithmic stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "47237f82-c248-463e-8410-ac1bb21dd0d3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "research": null,
+    "website": "https://usdd.io/",
+    "twitter": "https://twitter.com/usddio",
+    "whitepaper": "https://usdd.io/USDD-en.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentralized USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

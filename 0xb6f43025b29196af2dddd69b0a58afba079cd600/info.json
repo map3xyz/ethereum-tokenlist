@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb6F43025B29196Af2dddd69b0a58AFBa079cD600",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1b251205-a651-4408-9f37-9028fe67dbd9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb6F43025B29196Af2dddd69b0a58AFBa079cD600",
+    "research": null,
+    "website": "http://www.iicoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6f43025b29196af2dddd69b0a58afba079cd600/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "智投链",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

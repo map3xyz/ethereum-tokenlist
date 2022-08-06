@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "renBCH is a one-for-one representation of BCH on Ethereum via RenVM.",
+      "verified": true
+    }
+  ],
+  "id": "8f73f18a-1f10-41a0-8e64-2fe673a12ec5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+    "research": null,
+    "website": "https://renproject.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x459086f2376525bdceba5bdda135e4e9d3fef5bf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "renBCH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "renBCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A community-driven currency that powers an open-sourced library of cool dapps built on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "a910e937-5155-4589-9bea-608a4364e51a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+    "research": null,
+    "website": "https://www.eltcoin.tech/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44197a4c44d6a059297caf6be4f7e172bd56caaf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ELTCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELTCOIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

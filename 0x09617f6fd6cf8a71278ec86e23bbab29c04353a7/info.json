@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e63f980c-a539-48c8-8af5-2f24115f3c40",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+    "research": null,
+    "website": "https://shardus.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unblocked Ledger Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x076C97e1c869072eE22f8c91978C99B4bcB02591",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cecb1413-e26a-49dc-969e-14c9e40cde83",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x076C97e1c869072eE22f8c91978C99B4bcB02591",
+    "research": null,
+    "website": "https://www.commerceblock.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x076c97e1c869072ee22f8c91978c99b4bcb02591/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CommerceBlock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

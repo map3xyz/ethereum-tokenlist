@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An unstoppable bankroll drives casino for thousands of users and hundreds of applications. DICE.FINANCE empowers players, developers, game providers and agency to participate in a game marketplace that is open and accessible to all.",
+      "verified": true
+    }
+  ],
+  "id": "1f3f4ea5-13f7-4e2e-ba52-d83b5c999228",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+    "research": null,
+    "website": "https://dice.finance/",
+    "twitter": "https://twitter.com/DiceFinance",
+    "whitepaper": "https://github.com/dice-finance/Whitepaper/blob/master/Dice.FinanceWP.md"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf67ced76e8356366291246a9222169f4dbdbe64/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DICE.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DICE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Collection of the systems which facilitate the inter-transaction between Linker Coin and various economic networks built on crypto-currency market, financial market, e-commerce market, etc.",
+      "verified": true
+    }
+  ],
+  "id": "0e9cd4e1-c981-4121-bf63-bb2871e1f2e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+    "research": null,
+    "website": "https://www.linkercoin.com/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6beb418fc6e1958204ac8baddcf109b8e9694966/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Linker Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Fog Computing Platform.",
+      "verified": true
+    }
+  ],
+  "id": "a788fa07-3d2c-4847-8a81-2ea8cc3ec0a9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
+    "research": null,
+    "website": "https://sonm.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SONM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

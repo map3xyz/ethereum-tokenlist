@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RDT is the native token for the Ridotto cross-chain gambling & lottery protocol.",
+      "verified": true
+    }
+  ],
+  "id": "41f6535a-11c1-45b3-92ad-a0232726b58f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+    "research": null,
+    "website": "https://ridotto.io",
+    "twitter": "https://twitter.com/ridotto_io",
+    "github": "https://github.com/ridotto-io",
+    "telegram": "https://t.me/ridotto_community",
+    "telegramNews": "https://t.me/ridotto_io",
+    "discord": "https://discord.com/invite/qAXNArk2KU",
+    "medium": "https://ridotto-io.medium.com/",
+    "reddit": "https://reddit.com/r/ridotto_io",
+    "youtube": "https://youtube.com/channel/UCxumaSF7pnu29f5kU4FAJbw",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ridotto/",
+    "coingecko": "https://coingecko.com/en/coins/ridotto"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4740735aa98dc8aa232bd049f8f0210458e7fca3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ridotto Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

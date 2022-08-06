@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dec48502-de81-4d81-a8f5-2be0888df671",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+    "research": null,
+    "website": "https://www.thenagacoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NAGA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

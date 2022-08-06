@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE2E6D4BE086c6938B53B22144855eef674281639",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0db564ee-1b2c-4edc-beb0-0a602482b100",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE2E6D4BE086c6938B53B22144855eef674281639",
+    "research": null,
+    "website": "https://ethereum.link/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe2e6d4be086c6938b53b22144855eef674281639/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Link Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

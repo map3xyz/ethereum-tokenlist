@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aragon Court handles subjective disputes that require the judgment of human jurors. These jurors stake a token called ANJ which allows them to be drafted into juries and earn fees for successfully adjudicating disputes.",
+      "verified": true
+    }
+  ],
+  "id": "fa7312c9-98b7-4ae9-85d6-e7481b3641e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+    "research": null,
+    "website": "https://anj.aragon.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd62b1c403fa761baadfc74c525ce2b51780b184/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aragon Network Juror",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANJ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

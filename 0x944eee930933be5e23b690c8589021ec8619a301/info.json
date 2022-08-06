@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Munch is a fully decentralized, community-built project to help charities. We are very active in our community and strive to develop trust by being transparent in our mission and our goals.",
+      "verified": true
+    }
+  ],
+  "id": "495b0ca9-594d-4771-a158-41db12933ee2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x944eeE930933BE5E23b690c8589021Ec8619a301",
+    "research": null,
+    "website": "https://munchtoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x944eee930933be5e23b690c8589021ec8619a301/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MUNCH Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUNCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

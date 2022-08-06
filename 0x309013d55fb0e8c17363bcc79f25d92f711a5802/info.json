@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unfolding the Power of Soft Bitcoin Economy.",
+      "verified": true
+    }
+  ],
+  "id": "a16e58d4-7837-4dcd-a956-05f72d9bed9d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+    "research": null,
+    "website": "https://sbtc.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x309013d55fb0e8c17363bcc79f25d92f711a5802/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa6d6720258CbB7E4A79BB2F379e3d8f25d78B716",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokelite is an erc20 utility token that gives holders of token a chance to lend Major Crypto Assets such as Bnb, Atom, Eth, and Btc using their blockchain assets to secure cash loans..",
+      "verified": true
+    }
+  ],
+  "id": "5ca7c26c-792b-45cb-bf57-ab0134794520",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa6d6720258CbB7E4A79BB2F379e3d8f25d78B716",
+    "research": null,
+    "website": "https://tokelite.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6d6720258cbb7e4a79bb2f379e3d8f25d78b716/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TOKELITE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3D46454212c61ECb7b31248047Fa033120B88668",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized organization for borderless collaboration. Headquartered in the Decentraland VR world.",
+      "verified": true
+    }
+  ],
+  "id": "d01a5857-6792-412c-88ea-81073f8ca10e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3D46454212c61ECb7b31248047Fa033120B88668",
+    "research": null,
+    "website": "https://movementdao.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3d46454212c61ecb7b31248047fa033120b88668/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Movement",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

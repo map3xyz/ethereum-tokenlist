@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0F72714B35a366285Df85886A2eE174601292A17",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "1SG seeks to facilitate transactions by pegging one 1SG token to one Singapore dollar. Through a centralized, fully-collateralized legal asset (Singapore Dollar), the token value of 1SG is guaranteed at a 1:1 exchange rate.",
+      "verified": true
+    }
+  ],
+  "id": "d53ffa8e-bc1e-4b35-b4ec-1ebe05e98f24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0F72714B35a366285Df85886A2eE174601292A17",
+    "research": null,
+    "website": "http://1.sg/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f72714b35a366285df85886a2ee174601292a17/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "1SG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "1SG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

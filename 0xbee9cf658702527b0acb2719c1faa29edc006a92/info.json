@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "f32a62f9-196c-40e0-ab7e-388f8cbf97d2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbee9cf658702527b0acb2719c1faa29edc006a92/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

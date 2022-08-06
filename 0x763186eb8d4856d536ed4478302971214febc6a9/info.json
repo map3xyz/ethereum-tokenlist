@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The smart escrow token.",
+      "verified": true
+    }
+  ],
+  "id": "70775e48-3ee9-42b1-8dac-52adce810122",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x763186eB8d4856D536eD4478302971214FEbc6A9",
+    "research": null,
+    "website": "https://www.betterbetting.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x763186eb8d4856d536ed4478302971214febc6a9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Better Betting",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

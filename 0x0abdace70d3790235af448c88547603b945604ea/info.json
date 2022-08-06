@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Billed as a network of decentralized markets and communities",
+      "verified": true
+    }
+  ],
+  "id": "640f0a9b-c3ce-428e-a655-e1d8efefe6e3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0AbdAce70D3790235af448C88547603b945604ea",
+    "research": null,
+    "website": "https://district0x.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0abdace70d3790235af448c88547603b945604ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "district0x Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa7ED29B253D8B4E3109ce07c80fc570f81B63696",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Basis Cash is an open source, permissionless stablecoin pegged to USD. The protocol is designed to expand and contract supply similarly to the way central banks buy and sell fiscal debt to stabilze purchasing power, without any REBASES or risking colletrals. Basis Share is a medium of governing the Basis Cash and receiving the seigniorage rewards.",
+      "verified": true
+    }
+  ],
+  "id": "a62bbbbe-6517-4a6c-a1ad-aac9754900df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696",
+    "research": null,
+    "website": "https://basis.cash/",
+    "github": "https://github.com/Basis-Cash",
+    "twitter": "https://twitter.com/Basis Cash",
+    "telegram": "https://t.me/basiscash",
+    "discord": "https://discord.com/invite/UEZq3HF5Eu",
+    "medium": "https://medium.com/basis-cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7ed29b253d8b4e3109ce07c80fc570f81b63696/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Basis Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

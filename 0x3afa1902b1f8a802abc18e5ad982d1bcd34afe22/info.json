@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "910977de-01ae-45ec-aefa-63dc831db9ec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+    "research": null,
+    "website": "https://www.grearn.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3afa1902b1f8a802abc18e5ad982d1bcd34afe22/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GrEARN's Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

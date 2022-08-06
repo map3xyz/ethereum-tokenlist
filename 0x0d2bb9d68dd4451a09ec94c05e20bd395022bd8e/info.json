@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptobucks enables its users to do peer to peer exchange on all the local currencies and other cryptocurrencies. It empowers peer to peer trading and copy trade.",
+      "verified": true
+    }
+  ],
+  "id": "59db5f31-358e-4c5c-ae8b-fae1221d920c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
+    "research": null,
+    "website": "https://www.cryptobuckslimited.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRYPTOBUCKS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBUCKS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xEaa2C985abF14Ac850F6614faebd6E4436BeA65f",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHUMO THE WORLDS MOST POWERFUL SHIB!",
+      "verified": true
+    }
+  ],
+  "id": "520af3c0-678b-4b79-a0a0-0f52ed4aab99",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeaa2c985abf14ac850f6614faebd6e4436bea65f",
+    "research": null,
+    "website": "https://http://shumo.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibnobi/",
+    "twitter": "https://twitter.com/ShumoOfficial",
+    "telegram": "https://t.me/shumoofficial",
+    "medium": "https://www.medium.com/@ShumoOfficial"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeaa2c985abf14ac850f6614faebd6e4436bea65f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shumo.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHUMO",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

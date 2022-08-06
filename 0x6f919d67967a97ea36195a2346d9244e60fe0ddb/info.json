@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockcloud (BLOC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "0d0f8671-5421-474d-ac1f-234427304282",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+    "research": null,
+    "website": "https://www.block-cloud.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f919d67967a97ea36195a2346d9244e60fe0ddb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blockcloud",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLOC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

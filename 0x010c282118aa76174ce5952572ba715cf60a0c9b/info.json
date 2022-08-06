@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x010c282118aA76174CE5952572BA715CF60A0c9B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Asset Backed By Wine And Vineyard Investment Funds",
+      "verified": true
+    }
+  ],
+  "id": "3b472c25-68aa-4d92-a8c7-969f710aa90c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x010c282118aA76174CE5952572BA715CF60A0c9B",
+    "research": null,
+    "website": "https://vinxcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x010c282118aa76174ce5952572ba715cf60a0c9b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VINX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VINX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

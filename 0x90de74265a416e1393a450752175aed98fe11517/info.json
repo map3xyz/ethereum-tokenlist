@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unlock lets you easily lock and manage access to your content, apps, community and even real life events and spaces.",
+      "verified": true
+    }
+  ],
+  "id": "c8aadc25-4ed2-4ae3-b195-e21c45bdb674",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x90de74265a416e1393a450752175aed98fe11517",
+    "research": null,
+    "website": "https://unlock-protocol.com/",
+    "twitter": "https://twitter.com/Unlock Protocol",
+    "telegram": "https://t.me/unlockprotocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90de74265a416e1393a450752175aed98fe11517/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unlock Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

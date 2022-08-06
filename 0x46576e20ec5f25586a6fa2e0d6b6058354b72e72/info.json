@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The main token of Cryptomindex exchange",
+      "verified": true
+    }
+  ],
+  "id": "c3d59c0a-135f-493d-9ac0-a261d8527988",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72",
+    "research": null,
+    "website": "https://cryptomindex.com",
+    "facebook": "https://facebook.com/cryptomindex",
+    "twitter": "https://twitter.com/cryptomindex1",
+    "telegram": "https://t.me/cryptomindex"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46576e20ec5f25586a6fa2e0d6b6058354b72e72/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cryptomind",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

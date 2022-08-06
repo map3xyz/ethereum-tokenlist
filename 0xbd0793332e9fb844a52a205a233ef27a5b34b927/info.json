@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBd0793332e9fB844A52a205A233EF27a5b34B927",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange.",
+      "verified": true
+    }
+  ],
+  "id": "6e066b60-f3fc-4177-a2a0-528f16189155",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBd0793332e9fB844A52a205A233EF27a5b34B927",
+    "research": null,
+    "website": "https://zb.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd0793332e9fb844a52a205a233ef27a5b34b927/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

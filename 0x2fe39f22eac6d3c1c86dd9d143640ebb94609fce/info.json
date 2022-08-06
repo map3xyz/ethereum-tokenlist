@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ea509679-989f-4a19-be1f-fb22cf2f9587",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+    "research": null,
+    "website": "https://www.jdcoin.us/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "JDCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

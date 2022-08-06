@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x30680AC0a8A993088223925265fD7a76bEb87E7F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ARAW is the Decentralised Payment for E-Commerce Ecosystem, aiming to be at the forefront of the Blockchain User Adoption globally with the intuitive integration of E-Commerce with the Decentralised Payment.",
+      "verified": true
+    }
+  ],
+  "id": "e704d65b-2ed0-4e77-b8a0-f399d4f76651",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x30680AC0a8A993088223925265fD7a76bEb87E7F",
+    "research": null,
+    "website": "https://arawtoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30680ac0a8a993088223925265fd7a76beb87e7f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ARAW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARAW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

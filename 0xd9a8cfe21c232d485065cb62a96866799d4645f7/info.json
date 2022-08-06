@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd9A8cfe21C232D485065cb62a96866799d4645f7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3c62992f-c5b7-4704-ba41-fbec4e687936",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9A8cfe21C232D485065cb62a96866799d4645f7",
+    "research": null,
+    "website": "https://fingerprintcoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9a8cfe21c232d485065cb62a96866799d4645f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FingerPrint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FGP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

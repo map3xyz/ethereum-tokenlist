@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
+      "verified": true
+    }
+  ],
+  "id": "8f24cf7a-507a-4c6b-8d5c-fb484ce97830",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "research": null,
+    "website": "https://app.hop.exchange/",
+    "twitter": "https://twitter.com/HopProtocol",
+    "github": "https://github.com/hop-protocol",
+    "docs": "https://docs.hop.exchange/",
+    "whitepaper": "https://app.hop.exchange/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hop-exchange/",
+    "coingecko": "https://coingecko.com/coins/hop-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOP",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

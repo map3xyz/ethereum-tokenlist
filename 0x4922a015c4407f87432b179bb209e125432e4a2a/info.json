@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage.",
+      "verified": true
+    }
+  ],
+  "id": "d2f31666-9e66-4d21-93c9-79ba01978363",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4922a015c4407F87432B179bb209e125432E4a2A",
+    "research": null,
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4922a015c4407f87432b179bb209e125432e4a2a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gold Tether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XAUt",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

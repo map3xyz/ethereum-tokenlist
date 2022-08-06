@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE1bAD922F84b198A08292FB600319300ae32471b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "65c57285-78e0-40d4-81af-3ce368cf9d19",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE1bAD922F84b198A08292FB600319300ae32471b",
+    "research": null,
+    "website": "https://firmachain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1bad922f84b198a08292fb600319300ae32471b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "[FCT] FirmaChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

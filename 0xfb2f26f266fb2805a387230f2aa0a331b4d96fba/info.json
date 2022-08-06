@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Edge network aims to provide serverless infrastructure that is built using the spare capacity around its users. The $EDGE token enables the transfer of value from the consumers of network services to contributors to the network on a proof of work basis.",
+      "verified": true
+    }
+  ],
+  "id": "a349e28c-213e-4d88-acac-1392ea4cc0cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
+    "research": null,
+    "website": "https://edge.network/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DADI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DADI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

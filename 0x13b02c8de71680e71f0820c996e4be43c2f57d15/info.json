@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror QQQ Token.",
+      "verified": true
+    }
+  ],
+  "id": "278b953d-2417-45b8-abb2-8d89ba3bdcbd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13b02c8de71680e71f0820c996e4be43c2f57d15/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mQQQ Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mQQQ",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

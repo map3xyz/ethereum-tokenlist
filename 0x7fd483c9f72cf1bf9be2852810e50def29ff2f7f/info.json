@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7fD483c9F72cf1Bf9BE2852810E50DeF29Ff2f7f",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7c9c9cd2-2d58-4376-b9e8-38eeb06816f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7fD483c9F72cf1Bf9BE2852810E50DeF29Ff2f7f",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7fd483c9f72cf1bf9be2852810e50def29ff2f7f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CotteToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

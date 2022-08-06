@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Content Neutrality Network (CNN) Platform introduces several mechanisms/protocols related to content creation, distribution, circulation and revenue share. CNN Platform combines personalized recommendation with the community votes to distribute the most relevant content to each user.",
+      "verified": true
+    }
+  ],
+  "id": "d14f4816-08ed-4f54-ba78-3d1c7ecc877e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
+    "research": null,
+    "website": "http://www.cnntoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8713d26637cf49e1b6b4a7ce57106aabc9325343/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CNN Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Statera is a wrapper for Statera to enable its successful usage on Dex aggregators and multi-token pools",
+      "verified": true
+    }
+  ],
+  "id": "5d5b23e4-aa74-4bde-9656-60244f2c92ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+    "research": null,
+    "website": "https://stateratoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xedeec5691f23e4914cf0183a4196bbeb30d027a0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Statera",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSTA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

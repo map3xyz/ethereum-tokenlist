@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.",
+      "verified": true
+    }
+  ],
+  "id": "7af35747-61cc-40fe-aabf-37c541f7bbd3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4",
+    "research": null,
+    "website": "https://www.epik-protocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EpiK Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

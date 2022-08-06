@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x618aCb9601cb54244F5780F09536DB07d2C7aCf4",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Grig is an ambitious project dedicated to produce a cutting-edge mobile platform providing highly secure messaging, payment transfers and 3-factor authentication capabilities.",
+      "verified": true
+    }
+  ],
+  "id": "b1dc13bf-1826-429e-a11b-af07dd4aaf9d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x618aCb9601cb54244F5780F09536DB07d2C7aCf4",
+    "research": null,
+    "website": "https://grig.ai/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x618acb9601cb54244f5780f09536db07d2c7acf4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Defense Grade Security (GRIG)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRIG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

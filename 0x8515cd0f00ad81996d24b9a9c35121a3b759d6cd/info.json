@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f3f2603e-1313-4273-9eb5-0a9cca9c1271",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
+    "research": null,
+    "website": "https://blockburn.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blockburn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

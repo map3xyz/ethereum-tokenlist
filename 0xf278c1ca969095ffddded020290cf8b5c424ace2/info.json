@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "As an architecture combining block chain and internet of things (IoT), Ruff Chain includes a public chain for development as well as a distributed operating system.",
+      "verified": true
+    }
+  ],
+  "id": "a378a7a7-d468-49e3-98ef-65ac37230737",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
+    "research": null,
+    "website": "http://ruffchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf278c1ca969095ffddded020290cf8b5c424ace2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RUFF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUFF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

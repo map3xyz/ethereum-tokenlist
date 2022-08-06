@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tardigrades Finance offers frictionless rewards 5% Tax with 2.5% Burn / and 2.5% back to Holders for each transaction.",
+      "verified": true
+    }
+  ],
+  "id": "a77623da-b97c-4e38-a1cd-050ab9b553e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
+    "research": null,
+    "website": "https://www.tardigrades.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92a42db88ed0f02c71d439e55962ca7cab0168b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tardigrades.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRDG",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

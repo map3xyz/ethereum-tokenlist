@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xcA37530E7c5968627BE470081d1C993eb1dEaf90",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneDODO is an ICHI-created stablecoin for DODO.",
+      "verified": true
+    }
+  ],
+  "id": "ebaee8b2-8709-4aeb-99ab-a2d98ee0a0a5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcA37530E7c5968627BE470081d1C993eb1dEaf90",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca37530e7c5968627be470081d1c993eb1deaf90/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable DODO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneDODO",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5432C580E34f590f4dd901B825DDeb92e905e826",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TradeX token is created for the projects which are built with its real-life utility.",
+      "verified": true
+    }
+  ],
+  "id": "a3b62dd1-d642-4d37-8610-6ceea7d7c7b1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5432C580E34f590f4dd901B825DDeb92e905e826",
+    "research": null,
+    "website": "https://tradextoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5432c580e34f590f4dd901b825ddeb92e905e826/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TradeX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TXH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

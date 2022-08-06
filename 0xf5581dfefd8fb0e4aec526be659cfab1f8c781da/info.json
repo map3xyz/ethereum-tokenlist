@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.",
+      "verified": true
+    }
+  ],
+  "id": "2ee8ef48-204d-48b7-9db1-fc66b0cab0e4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "research": null,
+    "website": "https://hoprnet.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HOPR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOPR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": " Props’ open-source infrastructure creates a decentralized network of apps operated by independent developers, who share an underlying token, benefiting from collective network effects.",
+      "verified": true
+    }
+  ],
+  "id": "25ee2c92-0194-4fd1-913c-bcc9e0bb51b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+    "research": null,
+    "website": "https://www.propsproject.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Props Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PROPS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

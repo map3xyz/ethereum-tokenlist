@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The self-distributing store of value token.",
+      "verified": true
+    }
+  ],
+  "id": "440456ba-b563-42f1-9271-ce21bf0a90a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9",
+    "research": null,
+    "website": "https://flowprotocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc6e64729931f60d2c8bc70a27d66d9e0c28d1bf9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flow Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLOW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

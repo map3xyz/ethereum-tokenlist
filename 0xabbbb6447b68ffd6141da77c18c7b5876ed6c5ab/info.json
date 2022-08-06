@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DATx (DATX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "5da78e54-5939-453e-806a-7f1740108fa0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
+    "research": null,
+    "website": "https://www.datx.co/#home"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DATx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

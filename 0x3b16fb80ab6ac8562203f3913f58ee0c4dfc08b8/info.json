@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3b16fB80Ab6Ac8562203F3913f58ee0c4DFc08B8",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "9de5fa8e-c8db-4424-95bc-bfeedab48dc9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b16fB80Ab6Ac8562203F3913f58ee0c4DFc08B8",
+    "research": null,
+    "website": "https://www.theadvertisingtoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b16fb80ab6ac8562203f3913f58ee0c4dfc08b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Advertising Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

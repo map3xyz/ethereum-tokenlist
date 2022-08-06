@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE6F1966d04CfcB9cd1B1dC4E8256D8b501b11CbA",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Autonomous Yield and Liquidity Generation Charity Protocol",
+      "verified": true
+    }
+  ],
+  "id": "80bbd8a9-e759-460a-9c02-57492ba8f055",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE6F1966d04CfcB9cd1B1dC4E8256D8b501b11CbA",
+    "research": null,
+    "website": "https://safeearthcrypto.com/",
+    "twitter": "https://twitter.com/SafeEarthETH",
+    "telegram": "https://t.me/SafeEarthETH"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SafeEarth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAFEEARTH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

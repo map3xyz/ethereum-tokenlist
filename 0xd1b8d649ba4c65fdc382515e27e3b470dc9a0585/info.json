@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD1b8D649Ba4C65Fdc382515E27E3B470Dc9a0585",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped version of Ormeus Ecosystem (ECO)",
+      "verified": true
+    }
+  ],
+  "id": "4b56c6c7-32fd-4b62-9cf7-1e12c013626b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD1b8D649Ba4C65Fdc382515E27E3B470Dc9a0585",
+    "research": null,
+    "website": "https://ecocelium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd1b8d649ba4c65fdc382515e27e3b470dc9a0585/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WrapECO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eECO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

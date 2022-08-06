@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts. BMX is an ERC20 based token issued by BitMart Exchange.",
+      "verified": true
+    }
+  ],
+  "id": "3b0b05dc-ecdd-40ac-b80b-fe4960263c3c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+    "research": null,
+    "website": "https://www.bitmart.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x986ee2b944c42d017f52af21c4c69b84dbea35d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitMartToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

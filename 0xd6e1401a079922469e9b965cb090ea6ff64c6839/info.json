@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD6e1401a079922469e9b965Cb090ea6fF64C6839",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HOLD is a revolutionary card that provides instant cash against cryptocurrency collateral. Leverage the power of your portfolio without having to sell it.",
+      "verified": true
+    }
+  ],
+  "id": "c443fd03-450b-48a1-b7c3-ffe7e4c3cdcb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD6e1401a079922469e9b965Cb090ea6fF64C6839",
+    "research": null,
+    "website": "https://hold.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6e1401a079922469e9b965cb090ea6ff64c6839/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

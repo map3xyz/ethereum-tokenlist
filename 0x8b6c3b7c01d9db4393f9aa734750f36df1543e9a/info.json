@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VI is the native token used in the Vid app. Vid is a social media platform that pays you for the value you provide to the platform.",
+      "verified": true
+    }
+  ],
+  "id": "fc3178df-e4cb-488c-8818-dfed82be9e27",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+    "research": null,
+    "website": "https://vid.camera/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

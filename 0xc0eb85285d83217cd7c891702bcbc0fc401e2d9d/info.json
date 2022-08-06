@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hive Coin is a cryptocurrency, with the new blockchain technology and smart contracts, companies no longer need centralized intermediaries for transactions or financing. The blockchain grants absolute transparency, integrity and immutability of the data stored in the system.",
+      "verified": true
+    }
+  ],
+  "id": "b545ad9b-0644-4f5f-886e-7399dd08c5c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+    "research": null,
+    "website": "https://www.hiveterminal.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hive Project Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HVN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

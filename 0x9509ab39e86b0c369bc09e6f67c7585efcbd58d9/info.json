@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9509AB39e86b0c369Bc09e6F67C7585eFcBD58D9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "56eec3b6-0ef1-4667-86d8-238cd83aca82",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9509AB39e86b0c369Bc09e6F67C7585eFcBD58D9",
+    "research": null,
+    "website": "https://www.coindy.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9509ab39e86b0c369bc09e6f67c7585efcbd58d9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coindy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CODY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

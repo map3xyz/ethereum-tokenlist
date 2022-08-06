@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
+  "color": null,
+  "decimals": 3,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GOLD Ethereum-based ERC20 token is a convenient and instant way to store, buy, sell or transfer investment grade gold.",
+      "verified": true
+    }
+  ],
+  "id": "68ba8305-c83f-458b-a9ec-f4c7ba12e273",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
+    "research": null,
+    "website": "https://gold.storage/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d16450d347c12c086d6c94c76c5aaac35ea07e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gold Storage",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

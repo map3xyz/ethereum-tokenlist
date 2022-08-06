@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEA610B1153477720748DC13ED378003941d84fAB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9ca7db00-38cc-4882-b450-b98b5045b226",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+    "research": null,
+    "website": "https://alismedia.jp/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea610b1153477720748dc13ed378003941d84fab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AlisToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6b9F1F092E0B10015a4391A80cD3E6B6cefD1728",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b8bed248-60ad-4490-b1b9-fd19c8a0410c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6b9F1F092E0B10015a4391A80cD3E6B6cefD1728",
+    "research": null,
+    "website": "https://luckyseven.solutions/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b9f1f092e0b10015a4391a80cd3e6b6cefd1728/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LuckySevenToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

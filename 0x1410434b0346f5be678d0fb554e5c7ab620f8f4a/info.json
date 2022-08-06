@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The KAN can be used and circulated in various scenarios to serve the community's value incentives and sharing economy, and ultimately construct the K Sites cryptocurrency ecological mechanism.",
+      "verified": true
+    }
+  ],
+  "id": "f0e9c4d2-d3e9-442c-8db7-88596591685c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+    "research": null,
+    "website": "http://kan.land"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitKan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

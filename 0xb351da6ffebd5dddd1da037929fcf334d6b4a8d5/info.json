@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9ce719f5-1fc5-4fc2-b4e6-521b00fd3f99",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5",
+    "research": null,
+    "website": "https://flittoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb351da6ffebd5dddd1da037929fcf334d6b4a8d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

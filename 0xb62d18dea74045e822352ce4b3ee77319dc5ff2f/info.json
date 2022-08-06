@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EventChain (EVC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "65ee1751-a47a-44b4-aa45-515b0214eb01",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+    "research": null,
+    "website": "https://eventchain.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EventChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

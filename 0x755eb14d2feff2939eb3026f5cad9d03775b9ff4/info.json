@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3905c41c-0e51-40f1-b959-cb7fe4cecdce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4",
+    "research": null,
+    "website": "https://bunnytoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x755eb14d2feff2939eb3026f5cad9d03775b9ff4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BunnyToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUNNY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

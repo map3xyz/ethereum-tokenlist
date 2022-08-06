@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PolkaCity is a unique fully contract-based metaverse project which combines NFT, DeFi and gaming worlds!",
+      "verified": true
+    }
+  ],
+  "id": "a372e411-fb79-4eec-8d1e-3d8c1208f521",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+    "research": null,
+    "website": "https://www.polkacity.io",
+    "twitter": "https://twitter.com/PolkaCity",
+    "telegram": "https://t.me/Polkacity"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Polka City",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "290bb04e-dce3-4587-bf2a-ffe12c8d2ad0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381",
+    "research": null,
+    "website": "http://www.cocosbcx.io/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c6f5f7d555e7518f6841a79436bd2b1eef03381/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CocosToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COCOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

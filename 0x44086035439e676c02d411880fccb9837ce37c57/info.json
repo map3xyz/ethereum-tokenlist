@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x44086035439E676c02D411880FcCb9837CE37c57",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "uSD is a stablecoin based on Uniswap Liquidity Pools Minted by the magic rainbow of Uniswap stablecoin pools, and backed by the power of the Unicorn, uSD is the most secure and resilient stablecoin on Ethereum - ever. The only way it could be destabilized is if the entire stablecoin industry crashed.",
+      "verified": true
+    }
+  ],
+  "id": "b6611a52-2bb1-4162-9883-9dfea5649e3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x44086035439E676c02D411880FcCb9837CE37c57",
+    "research": null,
+    "website": "https://unifihub.com",
+    "github": "https://github.com/b-u-i-d-l/unifi/tree/master/contracts/stableCoin",
+    "whitepaper": "https://github.com/b-u-i-d-l/unifi/blob/master/README.md"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44086035439e676c02d411880fccb9837ce37c57/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "unified Stable Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

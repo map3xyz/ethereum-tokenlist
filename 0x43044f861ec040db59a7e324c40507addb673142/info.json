@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cap is a protocol to trade the markets with stablecoins.",
+      "verified": true
+    }
+  ],
+  "id": "f0ef07e9-041e-47b4-b102-072a315abbb1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
+    "research": null,
+    "website": "https://cap.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43044f861ec040db59a7e324c40507addb673142/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "59cd08b8-8b96-4fb3-8ac1-d30d3fa19702",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
+    "research": null,
+    "website": "https://relex.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a42d2c580f83dce404acad18dab26db11a1750e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Relex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RLX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

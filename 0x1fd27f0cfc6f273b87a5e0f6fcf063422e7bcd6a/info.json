@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1fd27F0CfC6f273b87A5E0F6fCf063422E7bCD6a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "76f2956f-8ecc-4512-9226-bc2b79418d25",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1fd27F0CfC6f273b87A5E0F6fCf063422E7bCD6a",
+    "research": null,
+    "website": "https://bitagro.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1fd27f0cfc6f273b87a5e0f6fcf063422e7bcd6a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Agrocoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

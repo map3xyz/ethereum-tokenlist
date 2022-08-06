@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd0983dD6a0334c71d0478255D1F794508026b888",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EGG Protocol is a suite of smart contracts focused on creating a simple way to generate rewards on various assets via best-in-class liquidity pools, soft staking, proof of stake (PoS) and airdrops.",
+      "verified": true
+    }
+  ],
+  "id": "6d01e69f-de8d-407b-ba1d-63fed42c810b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd0983dd6a0334c71d0478255d1f794508026b888",
+    "research": null,
+    "website": "https://cocoricos.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0983dd6a0334c71d0478255d1f794508026b888/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EGG Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "c8573940-d1ef-40ee-bdd9-5f2efc947261",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+    "research": null,
+    "website": "https://raydium.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe617dd80c621a5072bd8cba65e9d76c07327004d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Raydium (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAY",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

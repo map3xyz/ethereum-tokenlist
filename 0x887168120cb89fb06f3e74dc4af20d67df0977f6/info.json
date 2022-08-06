@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A CeFi and DeFi RegTech ecosystem delivering top compliance, regulatory, transaction monitoring and identity management.",
+      "verified": true
+    }
+  ],
+  "id": "b694035f-b73e-429a-8a65-c4b3c7114329",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x887168120cb89fb06f3e74dc4af20d67df0977f6",
+    "research": null,
+    "website": "https://www.sekuritance.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x887168120cb89fb06f3e74dc4af20d67df0977f6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sekuritance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

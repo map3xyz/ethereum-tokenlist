@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x84810bcF08744d5862B8181f12d17bfd57d3b078",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Easy to use Decentralized Open Source Protocol that allows users to stake any amount of Ether to Ethereum-2 while keeping their staked amount valuable and liquid.",
+      "verified": true
+    }
+  ],
+  "id": "80ee799d-2148-4db2-a400-75df375b70e8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x84810bcF08744d5862B8181f12d17bfd57d3b078",
+    "research": null,
+    "website": "https://www.sharedstake.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84810bcf08744d5862b8181f12d17bfd57d3b078/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SharedStake Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

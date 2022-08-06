@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa4Cf2aFD3B165975afFFBf7e487CDd40C894Ab6B",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A community-first protocol procuring a bridge to the blockchain - enabling individuals to purchase cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "b4108e50-c48a-4176-82b4-390a7820675c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa4Cf2aFD3B165975afFFBf7e487CDd40C894Ab6B",
+    "research": null,
+    "website": "https://shibaken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShibaKen.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIBAKEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

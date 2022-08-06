@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xEB58343b36C7528F23CAAe63a150240241310049",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nimbus - Creating Value Based on Real Use cases for Digital Assets.",
+      "verified": true
+    }
+  ],
+  "id": "f06daa84-e87a-4005-bfcc-9151963089c6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEB58343b36C7528F23CAAe63a150240241310049",
+    "research": null,
+    "website": "https://nimbusplatform.io",
+    "twitter": "https://twitter.com/nmbplatform",
+    "telegram": "https://t.me/nmbplatform",
+    "youtube": "https://youtube.com/channel/UCOl3hXqESQ54chKSn5nsfPg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb58343b36c7528f23caae63a150240241310049/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NBU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBU",
+  "tags": [
+    "staking",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

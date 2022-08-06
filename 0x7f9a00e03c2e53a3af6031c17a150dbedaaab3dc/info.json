@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token promoting the Read This Contract (RTC) initiative and ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "f85ebb4f-3dde-4c24-9aa1-e8a76c7d05c3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC",
+    "research": null,
+    "website": "https://etherscan.io/address/0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC#code"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Read This Contract",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

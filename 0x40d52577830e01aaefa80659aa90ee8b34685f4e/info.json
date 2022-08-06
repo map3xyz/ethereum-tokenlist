@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x40d52577830E01aAEfa80659aA90ee8B34685F4e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain asset exchange, providing real time and safe trading.",
+      "verified": true
+    }
+  ],
+  "id": "ac1171c0-5df0-4735-ab75-1b5ea9f392c7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x40d52577830E01aAEfa80659aA90ee8B34685F4e",
+    "research": null,
+    "website": "https://bilaxy.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x40d52577830e01aaefa80659aa90ee8b34685f4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bilaxy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

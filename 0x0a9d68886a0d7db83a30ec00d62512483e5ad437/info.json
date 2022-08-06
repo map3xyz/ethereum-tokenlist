@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Treecle is a Platform DApp that provides used car sales and various vehicle services using blockchain technology to provide transparent and reliable information.",
+      "verified": true
+    }
+  ],
+  "id": "3e129d4a-a3dd-4701-a1e3-a0159d8ae703",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+    "research": null,
+    "website": "https://treecle.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a9d68886a0d7db83a30ec00d62512483e5ad437/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Treecle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRCL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

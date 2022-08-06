@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The utility token in the 0x_nodes ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "ee09cba5-bdea-4f2d-8c33-cf67bcdc2b97",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+    "research": null,
+    "website": "https://www.0xnodes.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaaca86b876ca011844b5798eca7a67591a9743c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BIOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

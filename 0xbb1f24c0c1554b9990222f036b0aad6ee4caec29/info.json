@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We Build Popular Mobile Crypto Games With Utility Cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "2a8e9a55-ba09-4778-a774-3bad73576ec4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29",
+    "research": null,
+    "website": "https://cryptosoul.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb1f24c0c1554b9990222f036b0aad6ee4caec29/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CryptoSoul",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOUL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

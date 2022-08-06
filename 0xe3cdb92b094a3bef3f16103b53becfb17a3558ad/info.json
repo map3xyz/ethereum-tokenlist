@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe3cDB92b094a3BeF3f16103b53bECfb17A3558ad",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FEG Wrapped BTC",
+      "verified": true
+    }
+  ],
+  "id": "b42ce31e-c70e-4c7c-8897-e14f3962e4c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe3cdb92b094a3bef3f16103b53becfb17a3558ad",
+    "research": null,
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe3cdb92b094a3bef3f16103b53becfb17a3558ad/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FEG Wrapped BTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

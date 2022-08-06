@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneVBTC is the stablecoin created for the Strudel Finance community. Backed by both a treasury of VBTC and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the VBTC treasury.",
+      "verified": true
+    }
+  ],
+  "id": "ba3573c4-318c-4a61-8746-4f97788cac0b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+    "research": null,
+    "website": "https://ichi.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "oneVBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneVBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

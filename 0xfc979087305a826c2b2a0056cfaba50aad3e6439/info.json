@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rewarding networks - reinvented. DAFI rewards users based on network adoption, for smarter Staking & Social rewards. Same chains. New possibilities.",
+      "verified": true
+    }
+  ],
+  "id": "1b51ca96-6632-4c3c-bf1f-11551d114e52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+    "research": null,
+    "website": "https://www.dafiprotocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc979087305a826c2b2a0056cfaba50aad3e6439/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAFI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

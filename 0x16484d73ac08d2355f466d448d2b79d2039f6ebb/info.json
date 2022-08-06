@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FortKnoxster is a cyber-security company offering secure and private communications for all.",
+      "verified": true
+    }
+  ],
+  "id": "54834d27-1601-4df3-b1a6-78d3f530182f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16484d73ac08d2355f466d448d2b79d2039f6ebb",
+    "research": null,
+    "website": "https://fortknoxster.com",
+    "twitter": "https://twitter.com/FortKnoxster",
+    "telegram": "https://t.me/FortKnoxster",
+    "facebook": "https://facebook.com/FortKnoxster",
+    "youtube": "https://youtube.com/c/FortKnoxster",
+    "reddit": "https://reddit.com/r/FortKnoxster/",
+    "medium": "https://medium.com/fortknoxster"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16484d73ac08d2355f466d448d2b79d2039f6ebb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KnoxsterCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FKX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

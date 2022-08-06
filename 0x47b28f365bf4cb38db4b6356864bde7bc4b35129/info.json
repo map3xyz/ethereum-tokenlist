@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x47b28F365Bf4CB38DB4B6356864BDE7bc4B35129",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FNB provides a new system that connects franchise HQs, franchise affiliates, and customers together through AR advertisement platform, franchise token, and blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "b4f97788-2864-4d0e-af90-ddf4c409c9f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47b28F365Bf4CB38DB4B6356864BDE7bc4B35129",
+    "research": null,
+    "website": "https://fnbprotocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47b28f365bf4cb38db4b6356864bde7bc4b35129/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FNB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

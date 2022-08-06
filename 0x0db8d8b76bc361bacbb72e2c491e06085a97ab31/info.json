@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IQeon is a European startup company developing the cutting-edge technological products in the sphere of Gaming and Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "d1733d9c-d400-4f75-9304-8407369d5578",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
+    "research": null,
+    "website": "https://iqeon.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "iQeon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IQN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

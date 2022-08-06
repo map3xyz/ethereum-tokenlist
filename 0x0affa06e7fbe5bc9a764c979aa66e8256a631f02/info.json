@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "51769c46-314f-42c4-8c78-1f290aa976ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+    "research": null,
+    "website": "https://polybius.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Polybius Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x74faaB6986560fD1140508e4266D8a7b87274Ffd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralised Financial Services Ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "ab7e64b9-160e-415c-9853-157a8fa8ce9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x74faaB6986560fD1140508e4266D8a7b87274Ffd",
+    "research": null,
+    "website": "https://hyperdao.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74faab6986560fd1140508e4266d8a7b87274ffd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HyperDao",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDAO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

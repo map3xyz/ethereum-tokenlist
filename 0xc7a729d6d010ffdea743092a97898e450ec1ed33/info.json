@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc7A729D6d010FfdEA743092a97898E450eC1ED33",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c6f86f7d-ed7e-45d8-8e1d-2ed405f7fd3c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc7A729D6d010FfdEA743092a97898E450eC1ED33",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7a729d6d010ffdea743092a97898e450ec1ed33/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap V2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNI-V2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

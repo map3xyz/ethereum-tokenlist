@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9c197c4b58527fAAAb67CB35E3145166B23D242e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HNB aims to build a decentralized blockchain network where individuals and enterprises can exchange products and services with trust and security.",
+      "verified": true
+    }
+  ],
+  "id": "5bbe0136-0dd4-49bb-ab24-506d629cde74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9c197c4b58527fAAAb67CB35E3145166B23D242e",
+    "research": null,
+    "website": "https://hnb.eco"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c197c4b58527faaab67cb35e3145166b23d242e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HashNet BitEco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

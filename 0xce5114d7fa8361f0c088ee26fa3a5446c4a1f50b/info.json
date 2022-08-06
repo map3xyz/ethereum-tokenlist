@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xce5114d7fa8361F0c088EE26FA3A5446C4a1f50b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our Blueprint for Decentralized Sharing Economy and Smart City Engine!",
+      "verified": true
+    }
+  ],
+  "id": "77689c4a-ed36-407c-a26f-343ffceefe7c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xce5114d7fa8361F0c088EE26FA3A5446C4a1f50b",
+    "research": null,
+    "website": "https://www.bluewhale.foundation"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blue Whale eXchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

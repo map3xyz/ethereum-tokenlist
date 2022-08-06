@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x638155F4BD8F85d401Da32498D8866eE39A150B8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Jura protocol is essentially a suite of four different innovations all wrapped into one: an individual account-based directed acyclic graph (DAG) data structure we’ve named the Fusus, a Proof of Dedication (PoD) consensus mechanism, a dynamically monitored and distributed sharding (DMDS) technique for distributing data, and an AI security and learning layer to prevent malicious attacks from happening",
+      "verified": true
+    }
+  ],
+  "id": "2741826d-efdb-42d1-a3b7-b640fbbaa68e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x638155F4BD8F85d401Da32498D8866eE39A150B8",
+    "research": null,
+    "website": "https://jura.network/",
+    "github": "https://github.com/JuraNetwork",
+    "twitter": "https://twitter.com/JuraProtocol",
+    "whitepaper": "https://docsend.com/view/p9f87gp/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x638155f4bd8f85d401da32498d8866ee39a150b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jura",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JREX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

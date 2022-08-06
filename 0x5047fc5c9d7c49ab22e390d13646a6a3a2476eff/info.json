@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x5047fc5C9D7c49Ab22e390d13646a6A3a2476eff",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneWING is an ICHI-created stablecoin for Wing.",
+      "verified": true
+    }
+  ],
+  "id": "fca101b9-c6c0-4f6b-94c2-fba5eb1a8040",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5047fc5C9D7c49Ab22e390d13646a6A3a2476eff",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5047fc5c9d7c49ab22e390d13646a6a3a2476eff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable WING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneWING",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

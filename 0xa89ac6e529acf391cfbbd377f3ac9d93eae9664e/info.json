@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Keep4r Network is an improved fork of the keep3r network!",
+      "verified": true
+    }
+  ],
+  "id": "8e05f8ae-ad7e-4e6f-84e8-da77a61ac5d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+    "research": null,
+    "website": "https://kp4r.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Keep4r",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KP4R",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

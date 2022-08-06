@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Chi (Q-Chi) can be broken down to mean quantum essence of life, is attempting to harness the disruptive blockchain technology to power the marketing, health and gaming industry. ",
+      "verified": true
+    }
+  ],
+  "id": "a41847a6-c09f-46ce-8643-3301c28f7718",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+    "research": null,
+    "website": "http://www.qchi.mobi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x687bfc3e73f6af55f0ccca8450114d107e781a0e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QChi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x40428FDD5588197C15DD00B22fe9b9A48afeEb23",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cotrace is COVID contact tracing, decentralized",
+      "verified": true
+    }
+  ],
+  "id": "285a050e-b5ad-4b34-b617-2fa0d088ecdd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x40428FDD5588197C15DD00B22fe9b9A48afeEb23",
+    "research": null,
+    "website": "https://cotrace.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x40428fdd5588197c15dd00b22fe9b9a48afeeb23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cotrace",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xE66b3AA360bB78468c00Bebe163630269DB3324F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeFi Payment Protocol that enables POS terminals on blockchains and brings consumer protection to crypto payments",
+      "verified": true
+    }
+  ],
+  "id": "73301a40-75d4-41f3-a33a-06e85a5995ef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe66b3aa360bb78468c00bebe163630269db3324f",
+    "research": null,
+    "website": "https://merchanttoken.org",
+    "twitter": "https://twitter.com/merchant_token",
+    "github": "https://github.com/hipspay",
+    "telegram": "https://t.me/MTOOFFICIAL",
+    "whitepaper": "https://static.hips.com/pdf/white_paper/merchant_token_white_paper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/merchant-token/",
+    "coingecko": "https://coingecko.com/en/coins/merchant-token"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe66b3aa360bb78468c00bebe163630269db3324f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Merchant Token (MTO)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GSENetwork is committed to establishing a transparent and secure phenomenon-level decentralized credit network. With the help of the Internet of Things technology, the pass incentive system, and the composite pass economy design, smart contract services can be implemented through the sharing economy to achieve credit recovery and redefine classical sharing.",
+      "verified": true
+    }
+  ],
+  "id": "0ecff4c0-3ccf-4531-87c9-6218304d1c3c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+    "research": null,
+    "website": "https://gse.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GSENetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GSE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first and only yield-farming, vaults and staking deflationary token with no admin control.",
+      "verified": true
+    }
+  ],
+  "id": "f294bc5f-4117-4ba0-8bb3-34ce96b491e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+    "research": null,
+    "website": "https://yvs.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xec681f28f4561c2a9534799aa38e0d36a83cf478/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YVS.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YVS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

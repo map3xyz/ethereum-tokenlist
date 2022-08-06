@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8c9d8f5CC3427F460e20F63b36992f74AA19e27d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeFiat Points is the secondary, inflationary asset of the DeFiat ecosystem, granted for network participation.",
+      "verified": true
+    }
+  ],
+  "id": "339b0fb3-0a0e-47f9-a1a6-a2be121db5da",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8c9d8f5CC3427F460e20F63b36992f74AA19e27d",
+    "research": null,
+    "website": "https://defiat.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c9d8f5cc3427f460e20f63b36992f74aa19e27d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeFiat Points",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFTP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

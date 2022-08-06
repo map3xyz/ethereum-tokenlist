@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DOS Network Token (DOS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b8e703a9-8f30-489d-9464-f7ea80a15582",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+    "research": null,
+    "website": "https://dos.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a913bead80f321e7ac35285ee10d9d922659cb7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DOS Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

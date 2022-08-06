@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CargoX aims to disrupt the global logistics industry by replacing legacy paper Bill of Lading documents with Smart B/L Contract based on blockchain technology to able to state and transfer cargo ownership rights without the hassle of handling paper.",
+      "verified": true
+    }
+  ],
+  "id": "c681e6c6-b0a8-4311-81c0-1efe25993b7d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb6EE9668771a79be7967ee29a63D4184F8097143",
+    "research": null,
+    "website": "https://cargox.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6ee9668771a79be7967ee29a63d4184f8097143/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CargoX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

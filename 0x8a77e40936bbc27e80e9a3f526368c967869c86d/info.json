@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8a77e40936BbC27e80E9a3F526368C967869c86D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a1f5976c-aa5b-4c84-ad41-efc5810f3aef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8a77e40936BbC27e80E9a3F526368C967869c86D",
+    "research": null,
+    "website": "http://merculet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a77e40936bbc27e80e9a3f526368c967869c86d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Merculet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

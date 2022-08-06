@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3277dd536471a3cBEB0c9486aCad494C95A31E73",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5485d31d-42ae-4671-b1ec-065c1217f4b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3277dd536471a3cBEB0c9486aCad494C95A31E73",
+    "research": null,
+    "website": "https://token.coinhe.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3277dd536471a3cbeb0c9486acad494c95a31e73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coinhe Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

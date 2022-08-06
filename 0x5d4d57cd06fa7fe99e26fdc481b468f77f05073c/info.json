@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Netkoin is a crypto rewards platform.",
+      "verified": true
+    }
+  ],
+  "id": "7789a0ef-6ac0-415e-a8f2-605035e8faac",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+    "research": "https://coinmarketcap.com/currencies/netkoin/",
+    "website": "https://netkoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Netkoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

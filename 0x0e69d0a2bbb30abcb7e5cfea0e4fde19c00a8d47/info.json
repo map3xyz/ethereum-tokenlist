@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CarLive Chain is a vertical application of blockchain technology in the field of automotive social network.",
+      "verified": true
+    }
+  ],
+  "id": "b4ae4d31-de4c-44d5-8c43-f7fbbba691fb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47",
+    "research": null,
+    "website": "https://carlive.io",
+    "facebook": "https://facebook.com/CarLiveChain/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/carlive-chain/",
+    "twitter": "https://twitter.com/CarliveChain"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CarLive Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

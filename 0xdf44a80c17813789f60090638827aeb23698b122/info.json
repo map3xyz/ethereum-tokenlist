@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xdF44A80c17813789f60090638827aEb23698B122",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d445c9be-676d-4df7-80f9-e3cc38142508",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdF44A80c17813789f60090638827aEb23698B122",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf44a80c17813789f60090638827aeb23698b122/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "stableDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STDEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

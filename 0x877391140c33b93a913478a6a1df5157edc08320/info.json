@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x877391140c33B93a913478a6A1DF5157edC08320",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BTCE is a borderless remittance platform enabling peer to peer transactions in the cheapest, fastest and easiest way.",
+      "verified": true
+    }
+  ],
+  "id": "588480f4-38ee-443e-bb1d-9ae5433f0632",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x877391140c33B93a913478a6A1DF5157edC08320",
+    "research": null,
+    "website": "http://www.btceinfo.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x877391140c33b93a913478a6a1df5157edc08320/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTCERC-20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

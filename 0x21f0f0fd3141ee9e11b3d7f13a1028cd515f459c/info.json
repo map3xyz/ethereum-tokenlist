@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b0a65b78-dc38-41d2-bb67-249b2872cfb3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21f0f0fd3141ee9e11b3d7f13a1028cd515f459c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MrpToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

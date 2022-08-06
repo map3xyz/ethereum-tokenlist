@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. WSCRT is the wrapped ERC20 version of SCRT which can be exchanged 1:1 on the Secret Network Bridge.",
+      "verified": true
+    }
+  ],
+  "id": "ae44c62b-4a9f-4752-966d-5fd4e966e314",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+    "research": null,
+    "website": "https://scrt.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b89bf8ba858cd2fcee1fada378d5cd6936968be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WSCRT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSCRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

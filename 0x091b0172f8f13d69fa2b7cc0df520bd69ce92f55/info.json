@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x091B0172f8F13d69fA2B7Cc0DF520bd69CE92f55",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CentasaveX aims to guide people in saving cryptocurrency from a little amount to a bigger amount that can be used in the future. CentasaveX is the power of Saving Crypto.",
+      "verified": true
+    }
+  ],
+  "id": "7302ef50-6669-4186-9116-59b76ea24162",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x091B0172f8F13d69fA2B7Cc0DF520bd69CE92f55",
+    "research": null,
+    "website": "https://centasavex.site/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x091b0172f8f13d69fa2b7cc0df520bd69ce92f55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CentaSaveX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

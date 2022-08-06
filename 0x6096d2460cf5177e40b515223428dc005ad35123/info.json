@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6096d2460CF5177E40B515223428DC005ad35123",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Precium is a smart contract platform that provides a template of various smart contract terms to allow users to create and use smart contracts simply and securely through peer-to-peer transactions.",
+      "verified": true
+    }
+  ],
+  "id": "4b731a3f-0609-4e60-a4f6-fb7ba953890e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6096d2460CF5177E40B515223428DC005ad35123",
+    "research": null,
+    "website": "https://precium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6096d2460cf5177e40b515223428dc005ad35123/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Precium Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

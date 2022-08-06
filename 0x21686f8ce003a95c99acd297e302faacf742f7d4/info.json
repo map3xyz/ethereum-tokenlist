@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x21686F8ce003a95c99aCd297E302FAACf742F7d4",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Conceal ($wCCX) provides an untraceable gateway to and from the Ethereum ecosystem to $CCX. Wrapped Conceal ($wCCX) represents $CCX on the Ethereum ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "2317e437-7526-43d7-8ebf-389a7a33ff13",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21686F8ce003a95c99aCd297E302FAACf742F7d4",
+    "research": null,
+    "website": "https://conceal.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21686f8ce003a95c99acd297e302faacf742f7d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Conceal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCCX",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf1738912ae7439475712520797583ac784ea9033",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Xion Global provides a global decentralized ecommerce platform, combining the world of blockchain, the power of DeFi and the ease and UX of ecommerce.",
+      "verified": true
+    }
+  ],
+  "id": "9b3c16bc-38c6-481b-94ac-d38a5d01337f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf1738912ae7439475712520797583ac784ea9033",
+    "research": null,
+    "website": "https://xion.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XionGlobal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

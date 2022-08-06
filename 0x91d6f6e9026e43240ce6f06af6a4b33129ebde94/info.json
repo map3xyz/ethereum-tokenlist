@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RiveX is a chain agnostic interoperable layer-2 solution across different blockchain protocols. RiveX aims to empower the next generation of decentralized applications, decentralized finance and enterprise solutions.",
+      "verified": true
+    }
+  ],
+  "id": "0241d46f-cba8-4111-9f83-bc9c6818e008",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
+    "research": null,
+    "website": "https://rivex.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91d6f6e9026e43240ce6f06af6a4b33129ebde94/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RiveX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RVX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

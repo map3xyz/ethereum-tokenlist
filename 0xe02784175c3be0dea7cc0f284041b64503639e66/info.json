@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE02784175C3BE0DEa7CC0F284041b64503639E66",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TouchCon describes itself as an advertising reward platform that scans Smart QR Codes (SQC) for advertisements and connects users with advertisers.",
+      "verified": true
+    }
+  ],
+  "id": "46bc148a-8883-40e6-b35f-7afbbd952016",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE02784175C3BE0DEa7CC0F284041b64503639E66",
+    "research": null,
+    "website": "http://www.touchcon.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe02784175c3be0dea7cc0f284041b64503639e66/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TouchCon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

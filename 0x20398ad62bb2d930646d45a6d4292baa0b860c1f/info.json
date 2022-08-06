@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x20398aD62bb2D930646d45a6D4292baa0b860C1f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FLASH - The time travel of money",
+      "verified": true
+    }
+  ],
+  "id": "f9f2d2f5-3898-4129-92c3-ec062dd54660",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20398aD62bb2D930646d45a6D4292baa0b860C1f",
+    "research": null,
+    "website": "https://flashstake.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20398ad62bb2d930646d45a6d4292baa0b860c1f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flashstake",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

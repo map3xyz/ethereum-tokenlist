@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbD0a4bf098261673d5E6e600Fd87ddcd756e6764",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HINA is a decentralized, peer-to-peer deflationary meme token that passively rewards its holders with a 2% tax redistribution for all transactions.",
+      "verified": true
+    }
+  ],
+  "id": "58f007ae-d0e0-416a-9c2e-8e045dabb29f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbD0a4bf098261673d5E6e600Fd87ddcd756e6764",
+    "research": null,
+    "website": "https://www.realhinainu.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd0a4bf098261673d5e6e600fd87ddcd756e6764/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hina Inu Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HINA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

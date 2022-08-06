@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Odyssey (OCN) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "e1b43331-a8a9-427e-9040-f4f368c6efb1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+    "research": null,
+    "website": "http://www.ocnex.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4092678e4e78230f46a1534c0fbc8fa39780892b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

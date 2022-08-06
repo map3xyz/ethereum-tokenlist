@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0947b0e6D821378805c9598291385CE7c791A6B2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Lendingblock is a platform that facilitates peer-to-peer borrowing and lending of cryptocurrencies and digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "11fd7ea4-26ce-4a8e-afff-d8c70861d26f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0947b0e6D821378805c9598291385CE7c791A6B2",
+    "research": null,
+    "website": "https://lendingblock.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0947b0e6d821378805c9598291385ce7c791a6b2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lendingblock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

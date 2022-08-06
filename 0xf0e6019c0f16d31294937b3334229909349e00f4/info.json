@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF0e6019c0F16d31294937b3334229909349e00f4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5ac603b2-5949-4035-b7b3-a13b532718e3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF0e6019c0F16d31294937b3334229909349e00f4",
+    "research": null,
+    "website": "https://www.ibstoken.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0e6019c0f16d31294937b3334229909349e00f4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IBStoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

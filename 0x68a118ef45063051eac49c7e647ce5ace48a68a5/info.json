@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The BASED Protocol is a DeFi game of chicken designed to shake out weak hands and yield the highest gains for those who understand the rules.",
+      "verified": true
+    }
+  ],
+  "id": "3fdabbd2-13fc-4119-9239-4cc997c9eb1a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+    "research": null,
+    "website": "https://based.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68a118ef45063051eac49c7e647ce5ace48a68a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Based Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$BASED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

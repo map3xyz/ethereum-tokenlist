@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x02E2C716230C6750208F7Cb1Af34049472C91527",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The blockchain technology of Yep Chain touches multiple social levels and can solve problems such as logistics tracking and verification, vehicle life tracking and so on, as well as help build a smart city.",
+      "verified": true
+    }
+  ],
+  "id": "10a4d852-552d-4740-a432-6c1a97519a4e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x02E2C716230C6750208F7Cb1Af34049472C91527",
+    "research": null,
+    "website": "http://www.yepchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02e2c716230c6750208f7cb1af34049472c91527/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

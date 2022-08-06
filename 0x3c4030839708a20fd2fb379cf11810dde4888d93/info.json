@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "125d165c-59b8-47df-8153-8739cf6151e4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3c4030839708a20fd2fb379cf11810dde4888d93",
+    "research": null,
+    "website": "https://imswallet.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4030839708a20fd2fb379cf11810dde4888d93/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IMSWallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

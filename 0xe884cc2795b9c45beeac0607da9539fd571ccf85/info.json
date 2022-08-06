@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ultiledger aims to build an economic and financial ecosystem based on token 'ULT' to help any organization that needs to build trust at a low cost and construct a distributed financial book and accounting system with bank-grade security.",
+      "verified": true
+    }
+  ],
+  "id": "46f9befa-4b57-4bbc-b6cf-df8ff90938bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85",
+    "research": null,
+    "website": "https://www.ultiledger.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe884cc2795b9c45beeac0607da9539fd571ccf85/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ultiledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

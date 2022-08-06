@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8606a8F28e1e2FD50B9074d65C01548B1F040B32",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "ec7a15ca-102b-4d7e-ac29-e10638910df0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8606a8F28e1e2FD50B9074d65C01548B1F040B32",
+    "research": null,
+    "website": "https://cryptrust.io/platform"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8606a8f28e1e2fd50b9074d65c01548b1f040b32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cryptrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

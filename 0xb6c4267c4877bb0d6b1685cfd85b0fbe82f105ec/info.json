@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Relevant is an app for curating information based on quality, not clicks. Relevant uses a reputation system and economic incentives to encourage users to rank and organize content within topic-based communities. It’s based on the principle of inclusive hierarchy — anyone can participate but not everyone’s vote holds the same weight.",
+      "verified": true
+    }
+  ],
+  "id": "256489b1-a0de-407a-982b-51847cc9ae94",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec",
+    "research": null,
+    "website": "https://relevant.community/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Relevant",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

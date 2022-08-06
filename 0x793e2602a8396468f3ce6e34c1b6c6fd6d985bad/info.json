@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The $ICK Mask is a face mask by Saint Fame, the world's first internet-owned fashion house. It is the first piece collectively designed by the disciples of Saint Fame.",
+      "verified": true
+    }
+  ],
+  "id": "a0740489-741a-4e45-a3ab-d38134327ae9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD",
+    "research": null,
+    "website": "https://www.saintfame.com/SICK"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Saint Fame: $ICK Mask",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

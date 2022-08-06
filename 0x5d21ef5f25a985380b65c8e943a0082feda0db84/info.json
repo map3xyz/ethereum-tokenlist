@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b825a460-b2d1-4690-a34e-21af9832651f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+    "research": null,
+    "website": "https://www.ethereumcash.technology/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d21ef5f25a985380b65c8e943a0082feda0db84/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ethereumcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

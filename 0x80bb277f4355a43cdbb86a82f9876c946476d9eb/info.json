@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DogDefi offers liquidity mining and earn DogDeFiCoin as reward.",
+      "verified": true
+    }
+  ],
+  "id": "e1fbe125-dd8d-493d-99a1-f434aae88301",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
+    "research": null,
+    "website": "https://dogdeficoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80bb277f4355a43cdbb86a82f9876c946476d9eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DogDefiCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGDEFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

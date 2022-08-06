@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xddb3Db2DFdD8705e606959637477AEE7B0Cc22F1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "db2cea8b-c1dc-40d8-8894-1dce4d283b54",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xddb3Db2DFdD8705e606959637477AEE7B0Cc22F1",
+    "research": null,
+    "website": "https://www.tyercoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xddb3db2dfdd8705e606959637477aee7b0cc22f1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tyercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

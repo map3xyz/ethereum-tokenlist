@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x997DD3880C08d55B3551232Fb8f666975fDbBf58",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bec1af56-dcfe-4481-9746-0b896ce718d2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x997DD3880C08d55B3551232Fb8f666975fDbBf58",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x997dd3880c08d55b3551232fb8f666975fdbbf58/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PrivToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRIV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

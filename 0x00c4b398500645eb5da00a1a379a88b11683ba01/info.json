@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x00c4B398500645eb5dA00a1a379a88B11683ba01",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ee1f135b-b8b8-4737-8459-6824c15d16eb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00c4B398500645eb5dA00a1a379a88B11683ba01",
+    "research": null,
+    "website": "https://www.eximchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00c4b398500645eb5da00a1a379a88b11683ba01/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Eximchain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

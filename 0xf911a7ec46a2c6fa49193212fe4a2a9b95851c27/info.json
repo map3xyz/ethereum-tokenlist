@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ampleforth tries to replicate fiat. We want to destroy it.",
+      "verified": true
+    }
+  ],
+  "id": "7173be6c-1f9c-4922-995c-70988a01e36c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
+    "research": null,
+    "website": "https://antiample.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Antiample",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XAMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

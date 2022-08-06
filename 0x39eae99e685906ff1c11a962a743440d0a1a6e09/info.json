@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Holyheld, financial service for a digital generation.",
+      "verified": true
+    }
+  ],
+  "id": "72c01d61-c378-443c-bb11-689cd5269579",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+    "research": null,
+    "website": "https://holyheld.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39eae99e685906ff1c11a962a743440d0a1a6e09/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Holyheld",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

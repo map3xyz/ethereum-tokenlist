@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "XDEFI Wallet is a multi-chain web browser extension currently available on Chrome & Brave (soon on Firefox) built for DeFi users and NFT lovers. It is a wallet with native integrations on THORChain, Ethereum + several EVM networks and Terra.",
+      "verified": true
+    }
+  ],
+  "id": "2b3c5071-be39-42c7-a4e3-0309b666f062",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72b886d09c117654ab7da13a14d603001de0b777",
+    "research": null,
+    "website": "https://www.xdefi.io",
+    "twitter": "https://twitter.com/xdefi_wallet",
+    "github": "https://github.com/xdefi-tech",
+    "telegram": "https://t.me/xdefi_io",
+    "telegramNews": "https://t.me/xdefi_announcements"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72b886d09c117654ab7da13a14d603001de0b777/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XDEFI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDEFI",
+  "tags": [
+    "nft",
+    "defi",
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

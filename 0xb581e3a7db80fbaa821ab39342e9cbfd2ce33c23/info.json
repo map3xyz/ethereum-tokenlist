@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Arcade Token (ARCD) is the official cryptocurrency of Arcade City, the decentralized gig marketplace for rides, deliveries and more.",
+      "verified": true
+    }
+  ],
+  "id": "2acb8f45-edba-4c40-b7ba-eecc97f20569",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
+    "research": null,
+    "website": "https://arcade.city"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb581e3a7db80fbaa821ab39342e9cbfd2ce33c23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Arcade Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

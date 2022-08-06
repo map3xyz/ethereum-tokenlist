@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nestree Community Messenger.",
+      "verified": true
+    }
+  ],
+  "id": "7b8d00b0-471c-4252-859a-4152568ba4f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
+    "research": null,
+    "website": "https://www.nestree.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nestree",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BeforeCoinMarketCap is a platform for tracking the initial placement of tokens/coins, and audit of valid tokens with a small volume. The platform rewards users with valuable information and tokens of their own ecosystem token (BCMC1).",
+      "verified": true
+    }
+  ],
+  "id": "075e156d-678b-4d5f-bb2a-401e7fccbdc2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+    "research": null,
+    "website": "https://beta.beforecoinmarketcap.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5e2a54fef5f9e4a6b21ec646bbed7a160a00f18/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BeforeCoinMarketCap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCMC1",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

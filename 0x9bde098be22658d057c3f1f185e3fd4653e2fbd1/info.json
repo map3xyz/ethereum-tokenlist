@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9BdE098Be22658d057C3F1F185e3Fd4653E2fbD1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An Advanced & Incentive Enabled Decentralize Financial System",
+      "verified": true
+    }
+  ],
+  "id": "1ee8da39-3d13-4165-ae96-c2e3f8488feb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9bde098be22658d057c3f1f185e3fd4653e2fbd1",
+    "research": null,
+    "website": "https://kp2r.network",
+    "github": "https://github.com/kp2r-network",
+    "whitepaper": "https://docs.kp2r.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9bde098be22658d057c3f1f185e3fd4653e2fbd1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KP2R.Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KP2R",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

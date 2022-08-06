@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "fc3940d2-e820-422e-bfe7-31343c0c6095",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd87447f48ad729c5c4b8bcb503e1395f62e8b98/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pool Usdc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "plUsdc",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

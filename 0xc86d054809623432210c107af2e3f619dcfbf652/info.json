@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC86D054809623432210c107af2e3F619DcFbf652",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sentinel Protocol, operated and developed by Uppsala Security, is the world's first crowdsourced Threat Intelligence Platform powered by blockchain technology to protect the cyberspace.",
+      "verified": true
+    }
+  ],
+  "id": "9cedf149-38cd-46d3-9f92-b244268c3ace",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC86D054809623432210c107af2e3F619DcFbf652",
+    "research": null,
+    "website": "https://sentinelprotocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc86d054809623432210c107af2e3f619dcfbf652/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SENTINEL PROTOCOL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

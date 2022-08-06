@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x839961692c56270b73538F9906f8736fC1DA4fA6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Challenge is a community driven DeFi-project by the people and for the people, the decisions and actions of CLG (governance token) are made by its community through voting to assure equity and fairness for all.",
+      "verified": true
+    }
+  ],
+  "id": "02a85fdf-ee12-4b57-a8ed-8461c700d172",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x839961692c56270b73538F9906f8736fC1DA4fA6",
+    "research": null,
+    "website": "https://www.challengeclg.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x839961692c56270b73538f9906f8736fc1da4fa6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CHALLENGE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

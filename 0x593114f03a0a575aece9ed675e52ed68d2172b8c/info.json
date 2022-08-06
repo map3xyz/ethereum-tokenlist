@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BidiPass Network is comprised of an EVM blockchain and digital asset bridge. Our team leverages our existing infrastructure to build products that improve usability and trust of decentralized applications.",
+      "verified": true
+    }
+  ],
+  "id": "c4fba512-0482-4009-9ce0-c7ff1e22ff07",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
+    "research": null,
+    "website": "https://bidipass.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x593114f03a0a575aece9ed675e52ed68d2172b8c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BidiPass",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

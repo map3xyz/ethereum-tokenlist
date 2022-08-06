@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Project Serum describes itself as a functional decentralized exchange with trustless cross-chain trading, at the speed and price that customers want.",
+      "verified": true
+    }
+  ],
+  "id": "bbcc0c27-3841-4710-ad79-d6138ad63a1b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+    "research": "https://research.binance.com/en/projects/serum",
+    "website": "https://projectserum.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Serum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRM",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

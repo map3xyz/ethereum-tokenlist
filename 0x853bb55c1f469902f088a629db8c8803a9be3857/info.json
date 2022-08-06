@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x853Bb55c1f469902F088A629db8C8803A9BE3857",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stable 1inch is the stablecoin created for the 1inch community. Backed by both a treasury of 1inch and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the 1inch treasury.",
+      "verified": true
+    }
+  ],
+  "id": "fe360a45-bc05-4128-b6f9-0a7876a877f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x853Bb55c1f469902F088A629db8C8803A9BE3857",
+    "research": null,
+    "website": "https://ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/Bm6pUHjHUC",
+    "coingecko": "https://coingecko.com/en/coins/stable-1inch",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stable-1inch/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x853bb55c1f469902f088a629db8c8803a9be3857/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable 1inch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "one1inch",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Niftyx is building a decentralised protocol for NFT trading and minting.",
+      "verified": true
+    }
+  ],
+  "id": "bff2c9e4-5a99-4ff6-90b5-ecc40cd44d16",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+    "research": null,
+    "website": "https://niftyx.org",
+    "twitter": "https://twitter.com/NiftyxProtocol",
+    "telegram": "https://t.me/NiftyxProtocol",
+    "discord": "https://discord.com/invite/eZcFahS",
+    "medium": "https://niftyx.medium.com/",
+    "youtube": "https://youtube.com/channel/UCpdJrm8MyN6bUaD0ztLLBfg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Niftyx Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHROOM",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

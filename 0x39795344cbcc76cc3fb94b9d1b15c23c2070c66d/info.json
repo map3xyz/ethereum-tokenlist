@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Seigniorage Share (SHARE) is the speculation and governance token into the Dollar Protocol. Holders get seigniorage paid in Dollar (USD) token pro-rata.",
+      "verified": true
+    }
+  ],
+  "id": "9d08df0f-63bf-4f7f-b1ff-5f65eb43ba66",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+    "research": null,
+    "website": "https://dollarprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Seigniorage Shares",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHARE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

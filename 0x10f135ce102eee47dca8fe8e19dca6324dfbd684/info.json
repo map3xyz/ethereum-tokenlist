@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x10F135Ce102Eee47DCA8FE8E19Dca6324DFBD684",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Blockchain Primary Market Integrated Service Platform.",
+      "verified": true
+    }
+  ],
+  "id": "3c0c8016-50d9-4c11-87c9-c7a9f3062986",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x10F135Ce102Eee47DCA8FE8E19Dca6324DFBD684",
+    "research": null,
+    "website": "http://www.coindaily.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10f135ce102eee47dca8fe8e19dca6324dfbd684/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinDaily",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

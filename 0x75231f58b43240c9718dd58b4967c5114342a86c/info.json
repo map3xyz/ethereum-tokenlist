@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OKB is a global utility token issued by OK Blockchain foundation.",
+      "verified": true
+    }
+  ],
+  "id": "08b6b22c-e6fe-4f1a-8e26-1389dc9151b8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x75231F58b43240C9718Dd58B4967c5114342a86c",
+    "research": null,
+    "website": "https://okex.com",
+    "blog": "https://medium.com/okex-blog",
+    "twitter": "https://twitter.com/okex_",
+    "facebook": "https://facebook.com/okexofficial",
+    "telegram": "https://t.me/okexofficial_en",
+    "coingecko": "https://coingecko.com/en/coins/okb/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75231f58b43240c9718dd58b4967c5114342a86c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OKB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OKB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

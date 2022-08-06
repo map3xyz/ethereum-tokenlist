@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3ff90c7e-79be-418a-84e8-2db47c175927",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+    "research": null,
+    "website": "https://www.dowcoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dow",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

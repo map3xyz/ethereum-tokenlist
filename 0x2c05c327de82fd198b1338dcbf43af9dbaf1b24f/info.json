@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2C05C327dE82fD198b1338DCBF43Af9dbaf1B24F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bf13edb3-cce3-4c24-8d54-dbbb4e49ace0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C05C327dE82fD198b1338DCBF43Af9dbaf1B24F",
+    "research": null,
+    "website": "http://www.charsproject.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c05c327de82fd198b1338dcbf43af9dbaf1b24f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CHARScoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHARS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

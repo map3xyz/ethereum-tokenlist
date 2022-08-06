@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Official coin of the Tiger King",
+      "verified": true
+    }
+  ],
+  "id": "d7a33da2-b828-488d-9f7e-47ebde7793fb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24e89bdf2f65326b94e36978a7edeac63623dafa",
+    "research": null,
+    "website": "https://www.tiger-king.org/",
+    "twitter": "https://twitter.com/Tiger_King_Coin",
+    "telegram": "https://t.me/theTigerKingOfficial"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24e89bdf2f65326b94e36978a7edeac63623dafa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tiger King",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKING",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

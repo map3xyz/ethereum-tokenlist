@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x99a3a5333b4Eb80192149F9eDd42d1D57AC591ee",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "79c8c73b-e322-4b42-8347-e9f5c6f3897c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x99a3a5333b4Eb80192149F9eDd42d1D57AC591ee",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x99a3a5333b4eb80192149f9edd42d1d57ac591ee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "COSS Exchange Liquidity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CELT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

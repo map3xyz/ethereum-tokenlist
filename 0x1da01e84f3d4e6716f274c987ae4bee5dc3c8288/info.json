@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DefiBids is a one of a kind decentralized auction site. Defi Bids allows users to bid on packages of existing ERC20 tokens.",
+      "verified": true
+    }
+  ],
+  "id": "a28ceef1-6876-4ef9-b24e-cb5ad3e65bf1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+    "research": null,
+    "website": "https://defibids.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DefiBids",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

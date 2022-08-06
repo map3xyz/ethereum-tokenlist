@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Synergy is a peer-to-peer (P2P) energy trading platform that allows for the trading of energy among individual producers of energy, reaping stable revenues to consumers across city-wide energy grids, providing grater energy options at fairer prices.",
+      "verified": true
+    }
+  ],
+  "id": "e352462d-9800-43e4-85c2-169ede04f65c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
+    "research": null,
+    "website": "https://electrify.asia"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ElectrifyAsia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

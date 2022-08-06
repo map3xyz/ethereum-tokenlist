@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB0DD7c86b9FB49A5a2377111d9b5EEDeF2f99880",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5abf9001-d93f-443c-8fcf-255701def887",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB0DD7c86b9FB49A5a2377111d9b5EEDeF2f99880",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb0dd7c86b9fb49a5a2377111d9b5eedef2f99880/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NVTNetworkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

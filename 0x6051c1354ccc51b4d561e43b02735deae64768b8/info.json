@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x6051C1354Ccc51b4d561e43b02735DEaE64768B8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "yRise is an innovative solution for your Decentralized Finance needs, bringing staking, yield farming and fixed-rate savings into a single platform, and making it easier for users to manage their portfolio of DeFi assets. Our platform is one of the most user-friendly platforms in the market, where users find it easy and intuitive to navigate.",
+      "verified": true
+    }
+  ],
+  "id": "dd806ef5-954c-4851-9e66-6d2419d16fee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8",
+    "research": null,
+    "website": "https://yrise.finance",
+    "twitter": "https://twitter.com/YriseFinance",
+    "telegram": "https://t.me/YriseFinance",
+    "discord": "https://discord.com/invite/3agjxBy",
+    "medium": "https://medium.com/@yrisefinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6051c1354ccc51b4d561e43b02735deae64768b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "yRise",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yRise",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

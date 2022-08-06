@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x78a3B2f1e7eec1073088ea4a193618743F81cEf8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "bootusd is an ICHI-created stablecoin for Boot Finance.",
+      "verified": true
+    }
+  ],
+  "id": "3bc05f4f-3efc-43b0-bc39-5a1a626128ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x78a3b2f1e7eec1073088ea4a193618743f81cef8",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78a3b2f1e7eec1073088ea4a193618743f81cef8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable BOOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "bootusd",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

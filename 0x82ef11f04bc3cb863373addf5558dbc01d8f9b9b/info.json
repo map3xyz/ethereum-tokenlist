@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x82Ef11f04Bc3cb863373aDdf5558dbc01d8F9b9b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Halloween token was meant to store and tokenize every horrible event ever documented on the interne. 60% of all annual sales Will be donatated to peoples and countries living in fear through charity ororganizations.",
+      "verified": true
+    }
+  ],
+  "id": "7cf4e030-aa60-4ce0-952a-c617c1fb3379",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x82Ef11f04Bc3cb863373aDdf5558dbc01d8F9b9b",
+    "research": null,
+    "website": "https://halloween.airsite.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82ef11f04bc3cb863373addf5558dbc01d8f9b9b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Halloween",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "horor",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

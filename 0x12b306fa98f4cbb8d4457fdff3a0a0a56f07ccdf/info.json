@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7d923dd8-cff3-4fa3-b06b-0ec2d8f0c00b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+    "research": null,
+    "website": "http://www.spectre.ai/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Spectre.ai D-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SXDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

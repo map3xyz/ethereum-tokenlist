@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1Fc31488f28ac846588FFA201cDe0669168471bD",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UAX is a stablecoin with a 1:1 exchange rate to Ukrainian Hryvnia.",
+      "verified": true
+    }
+  ],
+  "id": "e7bb2287-67e1-441d-9626-469dda831c07",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1Fc31488f28ac846588FFA201cDe0669168471bD",
+    "research": null,
+    "website": "https://xreserve.fund"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1fc31488f28ac846588ffa201cde0669168471bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UAX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Innovative USD Stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "9d2b6ec8-e425-4f1f-bf71-70b465218d0a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+    "research": "https://docs.esd.tools/",
+    "website": "https://emptyset.finance/",
+    "github": "https://github.com/emptysetsquad/dollar",
+    "whitepaper": "https://github.com/emptysetsquad/dollar-docs"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Empty Set Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

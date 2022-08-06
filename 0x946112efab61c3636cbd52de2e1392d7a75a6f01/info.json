@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hydro is a decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions.",
+      "verified": true
+    }
+  ],
+  "id": "febd7bfa-4ad9-4bc5-8f71-32e6f30dec91",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+    "research": null,
+    "website": "https://www.projecthydro.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x946112efab61c3636cbd52de2e1392d7a75a6f01/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hydro Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYDRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

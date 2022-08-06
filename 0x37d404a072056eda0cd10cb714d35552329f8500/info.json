@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x37D404A072056EDA0Cd10Cb714D35552329F8500",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7ed72428-cb05-41dc-b0ca-37d3f3b3f859",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x37D404A072056EDA0Cd10Cb714D35552329F8500",
+    "research": null,
+    "website": "https://www.xrtfoundation.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37d404a072056eda0cd10cb714d35552329f8500/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XRT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

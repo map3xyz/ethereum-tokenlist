@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cfc62b0a-474f-4e09-90b2-6326e225c0c9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6885fc6a8166d6b875cc9884ea9fcf76745f8b51/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MonetChainToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

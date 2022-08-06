@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "51f81476-4166-4fda-bb35-1c22c7a2344e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+    "research": null,
+    "website": "https://www.penta.global"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Penta Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

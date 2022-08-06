@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Synthetix platform enables the creation of on-chain synthetic assets (Synths) that track the value of assets in the real world.",
+      "verified": true
+    }
+  ],
+  "id": "42d47c2a-dd7f-40ac-a177-beea433e18dc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+    "research": null,
+    "website": "https://synthetix.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc011a72400e58ecd99ee497cf89e3775d4bd732f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Synthetix Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

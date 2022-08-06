@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9baec167-c817-47eb-a951-c3fbca63a474",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+    "research": null,
+    "website": "https://www.clearpoll.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x705ee96c1c160842c92c1aecfcffccc9c412e3d9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ClearPoll Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

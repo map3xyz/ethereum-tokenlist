@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "APIS platform provides service to help effective node management and to deliver better access to Blockchain incentive system.",
+      "verified": true
+    }
+  ],
+  "id": "bce4bb0f-070d-414f-b262-689d83c7f24f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+    "research": null,
+    "website": "https://apisplatform.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "APIX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APIX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

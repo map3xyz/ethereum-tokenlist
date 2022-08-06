@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+  "color": null,
+  "decimals": 10,
+  "description": [],
+  "id": "ef62b7e7-8da0-4304-aee4-9d84f12d6a04",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+    "research": null,
+    "website": "https://triaconta.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3293cc907fde439b39aedaf1b982785adaff186b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TriaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

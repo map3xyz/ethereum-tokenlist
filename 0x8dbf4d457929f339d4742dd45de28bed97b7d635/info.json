@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8DbF4D457929F339D4742DD45de28BEd97b7d635",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f7e5ef82-d22e-4781-ab78-84e4c637c2bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8DbF4D457929F339D4742DD45de28BEd97b7d635",
+    "research": null,
+    "website": "http://www.diychain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8dbf4d457929f339d4742dd45de28bed97b7d635/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DIYChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

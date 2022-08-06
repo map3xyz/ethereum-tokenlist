@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
+      "verified": true
+    }
+  ],
+  "id": "d604cdba-43f4-4519-b99f-08a64627a2a0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+    "research": null,
+    "website": "https://quickswap.exchange/",
+    "github": "https://github.com/QuickSwap",
+    "twitter": "https://twitter.com/QuickswapDEX",
+    "telegram": "https://t.me/QuickSwapDEX",
+    "medium": "https://quickswap-layer2.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c28aef8977c9b773996d0e8376d2ee379446f2f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QuickSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

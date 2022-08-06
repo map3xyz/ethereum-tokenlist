@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0A76aad21948eA1ef447D26DEe91a54370E151e0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0b964a26-9071-43f7-bdd8-2b46871b763a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0A76aad21948eA1ef447D26DEe91a54370E151e0",
+    "research": null,
+    "website": "http://www.ethereumlite.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a76aad21948ea1ef447d26dee91a54370e151e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Lite",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELITE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

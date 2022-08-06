@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "apM Coin is a blockchain-based customer reward management and payment platform which aims to improve efficiency and credibility of business transactions between wholesalers and buyers.",
+      "verified": true
+    }
+  ],
+  "id": "9a408002-a91b-46ec-a92f-f8a23e7cc283",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
+    "research": null,
+    "website": "https://apm-coin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "APM Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

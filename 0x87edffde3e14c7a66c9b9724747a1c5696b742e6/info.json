@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralizing the Global Adult Entertainment Industry",
+      "verified": true
+    }
+  ],
+  "id": "9b734244-3bf8-4e3d-86a1-527b5649051f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
+    "research": null,
+    "website": "https://swag.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87edffde3e14c7a66c9b9724747a1c5696b742e6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Swag Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWAG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

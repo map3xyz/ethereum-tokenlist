@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zeedex is a decentralized exchange where users can trade, stake, lend and borrow cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "6fcb58ba-ca49-4caa-bc98-8a45444fd1e6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+    "research": null,
+    "website": "https://zeedex.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5150956e082c748ca837a5dfa0a7c10ca4697f9c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zeedex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZDEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

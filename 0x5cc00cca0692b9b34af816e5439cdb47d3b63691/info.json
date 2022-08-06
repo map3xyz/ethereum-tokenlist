@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5CC00ccA0692b9b34AF816e5439CDb47D3B63691",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "59b98b55-0a60-4dd5-bda7-b1a13a16739b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5CC00ccA0692b9b34AF816e5439CDb47D3B63691",
+    "research": null,
+    "website": "https://www.wooshcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5cc00cca0692b9b34af816e5439cdb47d3b63691/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WooshCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XWO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+  "color": null,
+  "decimals": 16,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TheDAO was launched in 2016. It was the first major DAO project on Ethereum. The tokens continue to be active today",
+      "verified": true
+    }
+  ],
+  "id": "a6675d1e-acb4-4f1f-bc59-33405b845f19",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
+    "research": null,
+    "website": "https://en.wikipedia.org/wiki/The_DAO_(organization)"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb9bc244d798123fde783fcc1c72d3bb8c189413/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TheDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

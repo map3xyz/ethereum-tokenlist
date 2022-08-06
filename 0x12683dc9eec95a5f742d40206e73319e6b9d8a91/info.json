@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FABRK is building the missing “People Protocol” of the internet. It’s like HTTP, but for finding people instead of websites. It allows people to own their data, freely exchange value and digital currency, and discover new ways to socialize.",
+      "verified": true
+    }
+  ],
+  "id": "a58936f2-d93b-4f8f-baa5-637eb152e997",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+    "research": null,
+    "website": "https://www.fabrk.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12683dc9eec95a5f742d40206e73319e6b9d8a91/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FAB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

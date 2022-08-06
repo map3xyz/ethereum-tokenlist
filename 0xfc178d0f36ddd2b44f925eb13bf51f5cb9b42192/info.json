@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFc178d0F36ddd2B44f925EB13bF51f5cB9B42192",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LCT is a Light Coin Exchange platform point based on the ERC20 standard of Ethereum blockchain, which bears community rights and interests, circulation attribute and a value attribute. The total supply of LCT is 200 million, with no additional issuance forever.",
+      "verified": true
+    }
+  ],
+  "id": "a113b7a5-fc12-4578-85c7-91d573d8a258",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfc178d0f36ddd2b44f925eb13bf51f5cb9b42192",
+    "research": null,
+    "website": "https://lightcoinex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc178d0f36ddd2b44f925eb13bf51f5cb9b42192/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Light Coin Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

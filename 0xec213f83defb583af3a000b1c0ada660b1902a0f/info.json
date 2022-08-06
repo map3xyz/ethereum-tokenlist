@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Presearch aims to build a next-generation search engine that is powered by its community.",
+      "verified": true
+    }
+  ],
+  "id": "3b45e905-186d-4927-abdb-e8146678fc0a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+    "research": null,
+    "website": "https://presearch.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xec213f83defb583af3a000b1c0ada660b1902a0f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Presearch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

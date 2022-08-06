@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Predix Network is a prediction-based reward system on the Ethereum blockchain powered by PRDX, a price-reactive deflationary stakable ERC20 token. PRDX supports a tiered staking mechanism where users are placed in different staking tiers based on the staking size.",
+      "verified": true
+    }
+  ],
+  "id": "90c8f080-ed09-4795-ba3a-8da6d29eb9d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
+    "research": null,
+    "website": "https://predix.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Predix Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

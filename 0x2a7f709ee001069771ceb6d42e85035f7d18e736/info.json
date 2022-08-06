@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2a7f709eE001069771ceB6D42e85035f7D18E736",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "StealthSwap is a protocol that implements shielded payments on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "5f0c7347-aead-4c0b-a329-17494a8e3b70",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2a7f709eE001069771ceB6D42e85035f7D18E736",
+    "research": "https://medium.com/stealthswap",
+    "website": "https://stealthswap.org",
+    "github": "https://github.com/stealthswap",
+    "whitepaper": "https://stealthswap.org/dist/assets/stealthswap-whitepaper-v1.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a7f709ee001069771ceb6d42e85035f7d18e736/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OWL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OWL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

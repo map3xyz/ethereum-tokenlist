@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x62A6738d887F47e297676FaB05b902709B106C64",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Arca U.S. Treasury Fund is the first of its kind—a closed-end fund registered under the Investment Company Act of 1940 issuing shares as digital securities that are transferable using blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "3febec14-195f-46cc-8ccf-11610251aca8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x62A6738d887F47e297676FaB05b902709B106C64",
+    "research": null,
+    "website": "https://arcoin.arcalabs.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62a6738d887f47e297676fab05b902709b106c64/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

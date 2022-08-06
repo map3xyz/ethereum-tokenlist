@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BZRX is a bZx protocol governance token",
+      "verified": true
+    }
+  ],
+  "id": "68f06e54-ef54-4f9d-a1b9-8815b875358b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56d811088235F11C8920698a204A5010a788f4b3",
+    "research": null,
+    "website": "https://bzx.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56d811088235f11c8920698a204a5010a788f4b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "bZx Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

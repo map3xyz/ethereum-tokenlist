@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x15bdA08c3afbf5955D6e9B235Fd55a1FD0DbC829",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "f4a08246-a586-4f5c-8909-776318ca28c6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x15bdA08c3afbf5955D6e9B235Fd55a1FD0DbC829",
+    "research": null,
+    "website": "https://alpha-coin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alpha Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

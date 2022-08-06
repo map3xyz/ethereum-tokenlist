@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x865ec58b06bF6305B886793AA20A2da31D034E68",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Moss Coin (MOC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "dedb6971-c2db-483c-a330-0721f0367b4c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x865ec58b06bF6305B886793AA20A2da31D034E68",
+    "research": null,
+    "website": "http://moss.land"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x865ec58b06bf6305b886793aa20a2da31d034e68/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Moss Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

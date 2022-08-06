@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE4F356EcCe6FbDA81eCDea2E38527e59422861C2",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The BitStash (STASH) token is an asset used for trading on the BitStash Blockchain saving time and money on gas fees. By enabling cross-blockchain swaps BitStash is not only used for transactions as a payable token but also provides a open DeFi platform.",
+      "verified": true
+    }
+  ],
+  "id": "9ebc0098-a890-41ff-963b-e1125b562a0a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE4F356EcCe6FbDA81eCDea2E38527e59422861C2",
+    "research": null,
+    "website": "https://bitstash.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe4f356ecce6fbda81ecdea2e38527e59422861c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitStash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoinUs is a personal multi-wallet offering convenience and security for storing various cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "bfec3533-b787-4d2c-8ff3-69520c2dfe00",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308",
+    "research": null,
+    "website": "https://www.coinus.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinUs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

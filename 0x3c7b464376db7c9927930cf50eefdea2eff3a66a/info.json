@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USDA is a traditional economic and encrypted currency exchange platform based on Block Chain Technology 3.0 issued by APDB for the natural economic regions of Asia-Pacific and its surrounding regions.",
+      "verified": true
+    }
+  ],
+  "id": "0d410e2d-07c2-4d17-a04d-fa35c47095b4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A",
+    "research": null,
+    "website": "https://usda.cc/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c7b464376db7c9927930cf50eefdea2eff3a66a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USDA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

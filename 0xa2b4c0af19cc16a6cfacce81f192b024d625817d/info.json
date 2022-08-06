@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with instant rewards for holders. Join the moon mission.",
+      "verified": true
+    }
+  ],
+  "id": "13d15eb7-b88d-401a-9214-f9b4bdcacc77",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "research": null,
+    "website": "https://kishu.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa2b4c0af19cc16a6cfacce81f192b024d625817d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kishu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KISHU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

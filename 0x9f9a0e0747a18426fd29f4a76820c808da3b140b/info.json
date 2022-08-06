@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9F9A0E0747A18426fd29F4A76820C808dA3B140b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "93d691c7-1d1d-4af7-a240-3dc67ae54f6e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9F9A0E0747A18426fd29F4A76820C808dA3B140b",
+    "research": null,
+    "website": "https://ethbold.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f9a0e0747a18426fd29f4a76820c808da3b140b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETHBOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETBOLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9064c91e51d7021A85AD96817e1432aBf6624470",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "50f89a01-3c07-4594-96bd-6e622737bfb9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9064c91e51d7021A85AD96817e1432aBf6624470",
+    "research": null,
+    "website": "https://www.shinechain.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9064c91e51d7021a85ad96817e1432abf6624470/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "shinechain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

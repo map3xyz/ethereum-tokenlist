@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Krypton is a community-driven, privacy first cryptocurrency project with a main focus on decentralization, scalability and fungibility.",
+      "verified": true
+    }
+  ],
+  "id": "8a50e214-ed26-45dc-ae74-089b86366c1e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
+    "research": null,
+    "website": "https://kexingqiu.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Krypton",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KGC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

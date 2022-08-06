@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "THIRM PROTOCOL is a Cross-chain & Cross-platform Lending Protocol built on Ethereum. Thirm Protocol automatically lends pooled user cryptocurrencies to the highest paying protocol and generates the highest possible APY.",
+      "verified": true
+    }
+  ],
+  "id": "9a4b131d-0d27-4c6a-b1e5-ce9b2cf68d76",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
+    "research": null,
+    "website": "https://thirm.com",
+    "github": "https://github.com/thirmtoken",
+    "twitter": "https://twitter.com/thirmprotocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb526fd41360c98929006f3bdcbd16d55de4b0069/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "THIRM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THIRM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Xion is bringing cross chain decentralised payments, loyalty and financial rewards to a global commerce industry. Think 'Stripe' for web 3.",
+      "verified": true
+    }
+  ],
+  "id": "0836c6ca-5748-4192-81ef-09fb95b507a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "research": null,
+    "website": "https://xion.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc25af3123d2420054c8fcd144c21113aa2853f39/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Xion Global Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

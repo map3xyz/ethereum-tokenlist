@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2A05d22DB079BC40C2f77a1d1fF703a56E631cc1",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "d2221a6d-3114-41f4-a447-fd422b5a6e0f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2A05d22DB079BC40C2f77a1d1fF703a56E631cc1",
+    "research": null,
+    "website": "https://www.bitasean.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitAsean",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

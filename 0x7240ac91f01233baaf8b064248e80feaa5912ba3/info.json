@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized finance tentacles",
+      "verified": true
+    }
+  ],
+  "id": "c1ff9f6d-9244-4683-886c-87d26bd6b4d8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+    "research": null,
+    "website": "https://octo.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7240ac91f01233baaf8b064248e80feaa5912ba3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OctoFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCTO",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

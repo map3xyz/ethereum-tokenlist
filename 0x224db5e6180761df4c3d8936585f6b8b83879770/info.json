@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kullanımı kolay kripto para",
+      "verified": true
+    }
+  ],
+  "id": "05d8d6ac-b0f0-4b22-8413-d369abefd7fe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x224db5e6180761df4c3d8936585f6b8b83879770",
+    "research": null,
+    "website": "https://omlira.com",
+    "twitter": "https://twitter.com/om_lira",
+    "discord": "https://discord.com/invite/MB75Bnc",
+    "facebook": "https://facebook.com/omlira",
+    "medium": "https://omlira.medium.com",
+    "whitepaper": "https://omlira.com/whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x224db5e6180761df4c3d8936585f6b8b83879770/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OM Lira",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OML",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

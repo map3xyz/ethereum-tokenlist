@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA",
+  "color": null,
+  "decimals": 10,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tether DeFi (USDD) is called a stablecoin because it was originally designed to always be worth $1.00, maintaining $1.00 in reserves for each tether issued. Nevertheless, Tether DeFi (USDD) Limited states that owners of tethers have no contractual right, other legal claims, or guarantee that tethers will be redeemed or exchanged for dollars.",
+      "verified": true
+    }
+  ],
+  "id": "2b6b9f83-5e1d-4d0b-9501-a6d4b290092b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA",
+    "research": null,
+    "website": "https://tetherdefi.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x861d899e74ec0e84fa8a15ba58088bb3baccb6fa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether DeFi (USDD)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

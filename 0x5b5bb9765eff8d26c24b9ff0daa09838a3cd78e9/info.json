@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x5b5bB9765eff8D26c24B9FF0DAa09838a3Cd78E9",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitanium (BI) was built from the ground up to embody the strength and stability of Titanium. Bitanium delivers the finest high performance enterprise-first blockchain available in an ERC20 Token to date.",
+      "verified": true
+    }
+  ],
+  "id": "b3c5ab88-1694-42f4-9b2f-7ab47f68ebe7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5b5bB9765eff8D26c24B9FF0DAa09838a3Cd78E9",
+    "research": "https://ethplorer.io/address/0x5b5bb9765eff8d26c24b9ff0daa09838a3cd78e9",
+    "website": "https://bitanium.org",
+    "github": "https://github.com/vittominacori/erc20-generator/blob/v3.0.4/dist/BaseToken.dist.sol",
+    "twitter": "https://twitter.com/@bitaniumb",
+    "telegram": "https://t.me/gregowens",
+    "whitepaper": "https://bitanium.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b5bb9765eff8d26c24b9ff0daa09838a3cd78e9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitanium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

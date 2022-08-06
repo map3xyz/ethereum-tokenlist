@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Enabling DeFi through community governance.",
+      "verified": true
+    }
+  ],
+  "id": "335604dc-9726-49d1-bf00-ee711f2eb80a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+    "research": null,
+    "website": "https://meridian-network.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95172ccbe8344fecd73d0a30f54123652981bd6f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Meridian Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

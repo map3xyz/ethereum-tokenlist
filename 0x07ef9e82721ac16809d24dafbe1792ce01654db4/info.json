@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Chimpion created the first ever online banking for the crypto community.",
+      "verified": true
+    }
+  ],
+  "id": "cca21ff8-2719-460d-a61c-4eba71aa73ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
+    "research": null,
+    "website": "https://www.chimpion.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07ef9e82721ac16809d24dafbe1792ce01654db4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chimpion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNANA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x627974847450C45b60B3Fe3598f4e6E4cf945B9a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0c45bfb1-718d-4da7-b50f-9fe2b23fb647",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x627974847450C45b60B3Fe3598f4e6E4cf945B9a",
+    "research": null,
+    "website": "https://www.thunderboltcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x627974847450c45b60b3fe3598f4e6e4cf945b9a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ThunderBoltCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

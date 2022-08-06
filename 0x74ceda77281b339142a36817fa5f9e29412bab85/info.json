@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x74CEDa77281b339142A36817Fa5F9E29412bAb85",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Eroscoin (ERO) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "ddf3d491-0e60-4157-9288-929983548808",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x74CEDa77281b339142A36817Fa5F9E29412bAb85",
+    "research": null,
+    "website": "https://eroscoin.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74ceda77281b339142a36817fa5f9e29412bab85/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EROSCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

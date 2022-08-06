@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x943ED852DadB5C3938ECdC6883718df8142DE4C8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FansTime (FTI) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "f93b534d-274c-48a4-bd9f-1aec9fb4429e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x943ED852DadB5C3938ECdC6883718df8142DE4C8",
+    "research": null,
+    "website": "https://www.fanstime.org/english.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x943ed852dadb5c3938ecdc6883718df8142de4c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FTI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

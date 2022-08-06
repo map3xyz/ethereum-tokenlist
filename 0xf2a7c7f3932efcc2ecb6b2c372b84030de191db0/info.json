@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf2a7C7f3932EfCc2ECB6b2C372B84030dE191dB0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8972a25c-de8f-45a4-bd00-d7aaecf4f120",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf2a7C7f3932EfCc2ECB6b2C372B84030dE191dB0",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf2a7c7f3932efcc2ecb6b2c372b84030de191db0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Secondary Data Attestation Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEDA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

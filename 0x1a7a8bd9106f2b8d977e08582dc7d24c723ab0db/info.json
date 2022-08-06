@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AppCoins is an open and distributed protocol for app stores based on the Ethereum blockchain and smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "9edd6175-ce30-41f2-b311-09afffb8e5ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+    "research": null,
+    "website": "https://appcoins.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AppCoins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APPC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

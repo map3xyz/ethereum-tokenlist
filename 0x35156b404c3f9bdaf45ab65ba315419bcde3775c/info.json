@@ -1,0 +1,48 @@
+{
+  "active": true,
+  "address": "0x35156b404C3f9bdaf45ab65Ba315419bcDe3775c",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CHIRO is Chihiroverse an Integrated Ecosystem of Interactive Gaming.",
+      "verified": true
+    }
+  ],
+  "id": "565bd227-0ca8-42c6-9ae2-3928aa6145e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x35156b404c3f9bdaf45ab65ba315419bcde3775c",
+    "research": null,
+    "website": "https://www.chihiro-inu.com",
+    "twitter": "https://twitter.com/ChihiroInuETH",
+    "discord": "https://discord.com/invite/CkeppjfPyn",
+    "telegram": "https://t.me/ChihiroInuETH",
+    "whitepaper": "https://linktr.ee/chihiroinu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chihiro-inu",
+    "coingecko": "https://coingecko.com/en/coins/chihiro-inu",
+    "github": "https://etherscan.io/address/0x35156b404c3f9bdaf45ab65ba315419bcde3775c#code"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35156b404c3f9bdaf45ab65ba315419bcde3775c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chihiro Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHIRO",
+  "tags": [
+    "gamefi",
+    "nft",
+    "deflationary",
+    "memes"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.",
+      "verified": true
+    }
+  ],
+  "id": "9f793a02-68cc-4623-8e67-8f4aaa93b88e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
+    "research": null,
+    "website": "https://getbabb.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

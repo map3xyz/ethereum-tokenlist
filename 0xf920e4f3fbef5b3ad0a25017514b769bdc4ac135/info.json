@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.",
+      "verified": true
+    }
+  ],
+  "id": "f4807db8-b931-4930-9425-6d54d7223551",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
+    "research": null,
+    "website": "https://getbabb.com",
+    "whitepaper": "https://getbabb.com/wp-content/uploads/2021/03/BABB-Whitepaper.pdf",
+    "twitter": "https://twitter.com/getbabb",
+    "facebook": "https://facebook.com/getbabb/",
+    "youtube": "https://youtube.com/channel/UCQtkZd7sfzbEugz7VdFhv4Q",
+    "discord": "https://discord.com/invite/39rQp2g6JA",
+    "medium": "https://babb.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babb/",
+    "coingecko": "https://coingecko.com/en/coins/babb"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BABB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAX",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

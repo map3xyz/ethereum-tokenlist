@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aludra is a Decentralized Network where Financial Instruments are Traded. We Provide Services and Trust in OTC Sales for Cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "c404da27-fdb9-4a96-b0cb-5f4692654afa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+    "research": null,
+    "website": "https://aludra.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb339fca531367067e98d7c4f9303ffeadff7b881/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aludra Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

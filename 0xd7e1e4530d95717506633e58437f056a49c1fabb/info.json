@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd7E1e4530D95717506633E58437f056A49c1FABB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a645e853-89b7-4b32-914f-c4e2aba1d3f4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd7E1e4530D95717506633E58437f056A49c1FABB",
+    "research": null,
+    "website": "https://amaten.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7e1e4530d95717506633e58437f056a49c1fabb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AMA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

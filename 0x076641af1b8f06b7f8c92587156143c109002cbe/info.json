@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Payment Service Platform on Blockchain;Integration within 6 days for developer to access digital currency;Safe,convenient and efficient, making digital transactions easier",
+      "verified": true
+    }
+  ],
+  "id": "7cf58448-c89d-44be-be6c-2896398a9a92",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x076641aF1B8f06B7f8C92587156143C109002cbe",
+    "research": null,
+    "website": "https://sopay.org/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x076641af1b8f06b7f8c92587156143c109002cbe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SoPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

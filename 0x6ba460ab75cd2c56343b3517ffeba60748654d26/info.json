@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UpToken is designed to rapidly build a crypto ATM network where we all rise together.",
+      "verified": true
+    }
+  ],
+  "id": "a3da8a28-7a7b-42c3-9524-0a5baf867565",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26",
+    "research": null,
+    "website": "https://uptoken.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6ba460ab75cd2c56343b3517ffeba60748654d26/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UpToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

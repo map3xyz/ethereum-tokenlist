@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BWRX tokens are ERC20 tokens on the Ethereum network created via the Binance Token Canal program, where the price is pegged to WRX at a rate of 1 BWRX = 1 WRX.",
+      "verified": true
+    }
+  ],
+  "id": "bb30c46f-595b-4d7c-ba34-7eef78d06dd9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xff0a024b66739357c4ed231fb3dbc0c8c22749f5",
+    "research": "https://research.binance.com/en/projects/wazirx",
+    "website": "https://binance.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff0a024b66739357c4ed231fb3dbc0c8c22749f5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": " Binance Wrapped WRX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

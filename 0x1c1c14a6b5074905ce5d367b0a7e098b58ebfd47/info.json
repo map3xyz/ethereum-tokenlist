@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1C1C14A6B5074905Ce5d367B0A7E098b58EbFD47",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FIDEX Decentralized Exchange.",
+      "verified": true
+    }
+  ],
+  "id": "3bf9b812-3bf3-442c-b210-d3425596b363",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1C1C14A6B5074905Ce5d367B0A7E098b58EbFD47",
+    "research": null,
+    "website": "https://fidex.market/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c1c14a6b5074905ce5d367b0a7e098b58ebfd47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FidexToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

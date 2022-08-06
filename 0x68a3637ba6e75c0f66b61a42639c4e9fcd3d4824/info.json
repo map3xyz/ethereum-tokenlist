@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "moonswap is first experiment with cross-chain migration of swapDEX .",
+      "verified": true
+    }
+  ],
+  "id": "ef8f1d06-dd0b-4bad-b28f-90b51b72294f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+    "research": null,
+    "website": "https://moonswap.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MoonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

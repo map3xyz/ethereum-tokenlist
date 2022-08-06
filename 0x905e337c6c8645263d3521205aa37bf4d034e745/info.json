@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Doc.com began with the mission to provide accessible basic healthcare to the world, and to create a new paradigm in primary care globally.",
+      "verified": true
+    }
+  ],
+  "id": "24b10796-88f0-49e8-aace-7b178312a329",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745",
+    "research": null,
+    "website": "https://doc.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x905e337c6c8645263d3521205aa37bf4d034e745/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Medical Token Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

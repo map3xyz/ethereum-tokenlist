@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A token backed by real assets that brings in constantly growing daily BTC income to its owner.",
+      "verified": true
+    }
+  ],
+  "id": "6e0cfd43-cd06-4bd9-b47d-997e036870bd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+    "research": null,
+    "website": "https://gmt.io/",
+    "telegramNews": "https://t.me/gmt_token",
+    "facebook": "https://facebook.com/GMTtoken",
+    "twitter": "https://twitter.com/GMT_Token",
+    "telegram": "https://t.me/gmt_token_talk",
+    "whitepaper": "https://gmt.io/white-paper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gomining-token/",
+    "coingecko": "https://coingecko.com/en/coins/gmt-token",
+    "medium": "https://medium.com/@GMT_Token",
+    "reddit": "https://reddit.com/user/GoMiningToken",
+    "youtube": "https://youtube.com/channel/UCl98r2sL8dO058XWToApIJw",
+    "github": "https://github.com/gomining-token/smart"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GMT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMT",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

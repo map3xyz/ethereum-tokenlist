@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "mStable unites stablecoins, lending and swapping into one standard.",
+      "verified": true
+    }
+  ],
+  "id": "3ac7365c-0ced-4ff2-96ca-86b9ad1d4832",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+    "research": null,
+    "website": "https://mstable.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe2f2a5c287993345a840db3b0845fbc70f5935a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mStable USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

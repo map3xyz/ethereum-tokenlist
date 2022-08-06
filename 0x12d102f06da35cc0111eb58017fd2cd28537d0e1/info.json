@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yield farming token with low supply and 2% burn rate.",
+      "verified": true
+    }
+  ],
+  "id": "bc993739-3a22-4010-b069-8b8b2929bf4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+    "research": null,
+    "website": "https://app.vox.finance/",
+    "twitter": "https://twitter.com/RealVoxFinance",
+    "telegram": "https://t.me/VoxFinance",
+    "discord": "https://discord.com/invite/c32KurP"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12d102f06da35cc0111eb58017fd2cd28537d0e1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vox Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

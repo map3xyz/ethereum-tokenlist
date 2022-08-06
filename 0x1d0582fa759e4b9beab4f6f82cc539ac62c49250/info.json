@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1D0582FA759E4B9BEab4F6F82CC539ac62C49250",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "50eefdbc-97dd-4f91-9063-71c6af1febc5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1D0582FA759E4B9BEab4F6F82CC539ac62C49250",
+    "research": null,
+    "website": "https://www.godigit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d0582fa759e4b9beab4f6f82cc539ac62c49250/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoDigit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

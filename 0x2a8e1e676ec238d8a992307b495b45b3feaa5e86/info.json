@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first stablecoin that earns a yield while it’s still in your wallet",
+      "verified": true
+    }
+  ],
+  "id": "8f67e096-09f3-4bf0-b0d3-aed25b909abc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "research": null,
+    "website": "https://ousd.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a8e1e676ec238d8a992307b495b45b3feaa5e86/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Origin Dollar (OUSD)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

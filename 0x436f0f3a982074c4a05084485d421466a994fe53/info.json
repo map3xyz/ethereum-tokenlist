@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x436F0F3a982074c4a05084485D421466a994FE53",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Creating a Connected Tokenized World Rate3 bridges enterprises to the blockchain through cross-chain asset tokenization and identity management.",
+      "verified": true
+    }
+  ],
+  "id": "3f8c3dd9-80da-4c5a-9494-550dc45c9ce8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x436F0F3a982074c4a05084485D421466a994FE53",
+    "research": null,
+    "website": "https://www.rate3.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x436f0f3a982074c4a05084485d421466a994fe53/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rate3",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

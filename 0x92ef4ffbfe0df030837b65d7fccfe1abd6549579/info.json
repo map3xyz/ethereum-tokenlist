@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Swirge is an ecosystem that embodies a decentralized social media, a decentralized financial system, and a marketplace built on the blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "88365dbe-09e7-4ad7-9766-a29102da45ad",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x92ef4ffbfe0df030837b65d7fccfe1abd6549579",
+    "research": "https://swirgepay.com",
+    "website": "https://swirgepay.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92ef4ffbfe0df030837b65d7fccfe1abd6549579/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Swirge coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

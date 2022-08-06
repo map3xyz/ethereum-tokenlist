@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9032c02AC84A347ECF0b31e1cE5EEd5462294A99",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Famacoin sidechain Famapay, referred to as FMP. The issuance of the sidechain is the project's exploration of the Fama mainnet model. Build fast, easy-to-use, low-cost and secure blockchain applications on the Internet scale through off-chain expansion technology and incentive encryption economics. It is reported that there are 10 million FMPs in total, of which 50% are used for free airdrops and event rewards. 50% of FMP is used for FamaPay application development incentives.",
+      "verified": true
+    }
+  ],
+  "id": "fdb57dce-4538-491c-b937-462cf646f4be",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9032c02AC84A347ECF0b31e1cE5EEd5462294A99",
+    "research": null,
+    "website": "https://famacoins.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9032c02ac84a347ecf0b31e1ce5eed5462294a99/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FMP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

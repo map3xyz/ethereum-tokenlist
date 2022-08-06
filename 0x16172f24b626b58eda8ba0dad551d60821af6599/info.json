@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x16172F24b626B58eDa8ba0daD551d60821Af6599",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7999d51e-3d26-4db0-b1f1-3d5636573524",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16172F24b626B58eDa8ba0daD551d60821Af6599",
+    "research": null,
+    "website": "https://www.icoplatform.io/en/app/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16172f24b626b58eda8ba0dad551d60821af6599/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "iCrowdCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

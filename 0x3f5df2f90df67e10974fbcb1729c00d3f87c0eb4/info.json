@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The next-gen luxury asset staking",
+      "verified": true
+    }
+  ],
+  "id": "16d565a9-2e48-45d3-af39-028ea7c0de5b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
+    "research": null,
+    "website": "https://www.shincoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShinCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCOIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x505d0fFa350B2687eB8393AeBD14632F2990991a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TAT is a utility token designed to create value and alleviate most financial problems faced by Africans",
+      "verified": true
+    }
+  ],
+  "id": "76751f70-758c-44c6-9fb3-a606a88790f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x505d0fFa350B2687eB8393AeBD14632F2990991a",
+    "research": null,
+    "website": "https://abitnetwork.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x505d0ffa350b2687eb8393aebd14632f2990991a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tatcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

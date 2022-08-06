@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time. It will be transparent, reliable, adaptable and interoperable, without compromising on speed.",
+      "verified": true
+    }
+  ],
+  "id": "5ee50b6b-5ceb-4ba3-9054-4bcb357dc8af",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+    "research": null,
+    "website": "https://www.domraider.io/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DomRaiderToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

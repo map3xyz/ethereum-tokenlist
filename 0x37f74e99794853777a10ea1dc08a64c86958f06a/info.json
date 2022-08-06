@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x37F74e99794853777a10ea1dc08a64C86958F06a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "D Community describes itself as a blockchain-based youth community, which is upgraded from the ACG brand 'Dilidili'.",
+      "verified": true
+    }
+  ],
+  "id": "9cd4a599-9076-409a-a03d-519a0eccd97c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x37F74e99794853777a10ea1dc08a64C86958F06a",
+    "research": null,
+    "website": "http://2ds.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37f74e99794853777a10ea1dc08a64c86958f06a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "D Community",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DILI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

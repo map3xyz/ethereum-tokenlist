@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "36174965-cb63-47b2-b39e-84119989e65b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7B22938ca841aA392C93dBB7f4c42178E3d65E88",
+    "research": null,
+    "website": "https://astronaut.capital/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AstroTokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASTRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

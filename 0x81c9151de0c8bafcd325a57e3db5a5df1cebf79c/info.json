@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Datum is a decentralized and distributed high performance NoSQL database backed by a blockchain ledger. This technology allows anyone to securely and anonymously backup structured data from social networks, wearables, smart homes, and other IoT devices. Datum provides a marketplace where users can share or sell data on their own terms.",
+      "verified": true
+    }
+  ],
+  "id": "934ce511-4394-4bcb-8017-ddf560024ea3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
+    "research": null,
+    "website": "https://datum.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Datum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

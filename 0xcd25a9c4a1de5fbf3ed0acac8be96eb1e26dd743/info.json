@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xCD25A9C4A1de5FBF3Ed0Acac8bE96eb1E26dD743",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cedb2700-4707-4c6a-b0e4-d0ca63aa1c7a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCD25A9C4A1de5FBF3Ed0Acac8bE96eb1E26dD743",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd25a9c4a1de5fbf3ed0acac8be96eb1e26dd743/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinMarketFeed",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

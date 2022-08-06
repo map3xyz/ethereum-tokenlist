@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QANX is the utility token of QAN Platform.",
+      "verified": true
+    }
+  ],
+  "id": "28e7b1e4-496a-4e8e-820c-f77e4e5f95f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+    "research": null,
+    "website": "https://qanplatform.com",
+    "telegram": "https://t.me/QANplatform",
+    "telegramNews": "https://t.me/QANplatform_ANN",
+    "twitter": "https://twitter.com/qanplatform",
+    "discord": "https://discord.com/invite/bABaQeTPN7",
+    "reddit": "https://reddit.com/r/qanplatform",
+    "medium": "https://medium.com/qanplatform",
+    "youtube": "https://youtube.com/c/QANplatform",
+    "whitepaper": "https://assets.qanplatform.com/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qanplatform/",
+    "coingecko": "https://coingecko.com/en/coins/qanplatform",
+    "github": "https://github.com/QANplatform"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QANX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QANX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF4c17Bc4979c1dc7b4CA50115358Dec58C67fD9d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OPM is Omega Protocol utility ERC20 Token",
+      "verified": true
+    }
+  ],
+  "id": "167e0959-b3f9-4787-be82-f4de86d269ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF4c17Bc4979c1dc7b4CA50115358Dec58C67fD9d",
+    "research": null,
+    "website": "https://omgswap.in/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Omega Protocol Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

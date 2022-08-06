@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Parkgene (GENE) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "199013b5-b427-40cf-9b87-968eb71285c6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
+    "research": null,
+    "website": "https://parkgene.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GENE TOKEN (PARKGENE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GENE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

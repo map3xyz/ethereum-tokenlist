@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Middleware platform for decentralized finance applications",
+      "verified": true
+    }
+  ],
+  "id": "6ffef789-797f-45c5-a03c-231a0188f58c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "research": null,
+    "website": "https://Instadapp.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f40d4a6237c257fff2db00fa0510deeecd303eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Instadapp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

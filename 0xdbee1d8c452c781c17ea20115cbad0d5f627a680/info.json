@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "6182ecf3-c1c1-4b6e-8092-1cd24f8615e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbee1d8c452c781c17ea20115cbad0d5f627a680/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike SXP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sSXP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3543638eD4a9006E4840B105944271Bcea15605D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "U Network describes itself as a decentralized content asset storage, notarization, distribution, publishing, and valuation network.",
+      "verified": true
+    }
+  ],
+  "id": "27696ac7-ba94-4abb-ab22-9f0187ba827d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3543638eD4a9006E4840B105944271Bcea15605D",
+    "research": null,
+    "website": "https://u.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3543638ed4a9006e4840b105944271bcea15605d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNetworkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UUU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

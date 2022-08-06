@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$DOE is a community-focused, DeFi cryptocurrency token, and the companion to the Dogs Of Elon NFTs.",
+      "verified": true
+    }
+  ],
+  "id": "510477f4-fa1e-4504-a1b2-22cefd25fc26",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+    "research": null,
+    "website": "https://dogsofelon.io",
+    "twitter": "https://twitter.com/dogsofelon",
+    "github": "https://github.com/dogsofelon",
+    "telegram": "https://t.me/DOEOfficial",
+    "telegramNews": "https://t.me/dogsofelonupdates",
+    "discord": "https://discord.com/channels/911728350043705385/911736752379691038",
+    "reddit": "https://reddit.com/r/OfficialDogsOfElon/",
+    "medium": "https://medium.com/dogs-of-elon-community",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dogs-of-elon/",
+    "coingecko": "https://coingecko.com/coins/dogsofelon"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dogs Of Elon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOE",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

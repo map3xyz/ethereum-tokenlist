@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0x6a4C76874e686A7d080D173987A35A9c48905583",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Luxurious Pro Network Token is A high demand ERC20 token for everyone. A big, growing and sustainable community is holding LPNT today. Community of people who want to grow their economy with blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "70b8c476-5a2d-4c4f-82d2-36bb144ed754",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6a4C76874e686A7d080D173987A35A9c48905583",
+    "research": null,
+    "website": "https://lpntoken.io",
+    "twitter": "https://twitter.com/officialLPNT",
+    "github": "https://github.com/LPNTOKEN",
+    "telegram": "https://t.me/LPNT_Official",
+    "facebook": "https://facebook.com/officialLPNT",
+    "youtube": "https://youtube.com/channel/UChJkd2crx3fG31LVh5sbDiw/featured",
+    "blog": "https://blog.lpntoken.io/",
+    "whitepaper": "https://lpntoken.io/assets/lpnt-io/images/whitepaper-lpntoken.pdf",
+    "reddit": "https://reddit.com/user/lpntokenofficial/",
+    "medium": "https://lpntoken.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/luxurious-pro-network-token/",
+    "coingecko": "https://coingecko.com/en/coins/luxurious-pro-network-token"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a4c76874e686a7d080d173987a35a9c48905583/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Luxurious Pro Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LPNT",
+  "tags": [
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

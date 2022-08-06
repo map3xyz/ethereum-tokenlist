@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x59d4CCC94A9C4C3d3b4bA2Aa343a9bDF95145DD1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QUSD is the first kind of stablecoin of QIAN protocol. In the future, QIAN will launch QHKD, QEUR and other stable assets).",
+      "verified": true
+    }
+  ],
+  "id": "72009225-dd9f-4694-9e89-0c08d54666e8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x59d4CCC94A9C4C3d3b4bA2Aa343a9bDF95145DD1",
+    "research": null,
+    "website": "https://qian.finance",
+    "whitepaper": "https://qian.finance/qian_whitepaper_zh.pdf",
+    "github": "https://github.com/QIAN-Protocol/QIAN"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

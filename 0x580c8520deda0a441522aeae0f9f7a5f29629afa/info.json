@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Dawn is an open-source protocol for gaming and competitions.",
+      "verified": true
+    }
+  ],
+  "id": "6ee92946-63ac-4d4c-b35d-200857c896b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+    "research": null,
+    "website": "https://dawn.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x580c8520deda0a441522aeae0f9f7a5f29629afa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dawn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAWN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

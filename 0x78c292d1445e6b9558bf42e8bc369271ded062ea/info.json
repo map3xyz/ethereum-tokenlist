@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "b484e341-d70a-4c9c-a6d8-de19ec3f2d9e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+    "research": null,
+    "website": "https://cybermusic.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78c292d1445e6b9558bf42e8bc369271ded062ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CyberMusic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

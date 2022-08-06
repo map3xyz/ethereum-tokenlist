@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elastos is not an entity – it’s a global movement to build an internet that works for everyone. Starting with open source, decentralized web services, developers can build applications where all data is exchanged peer-to-peer, stored in a decentralized fashion, and secured by its owners via verifiable blockchain immutability and smart contract execution. This is an Internet of Value – with Values.",
+      "verified": true
+    }
+  ],
+  "id": "7b98744f-7175-4146-8ec2-1d2d560172aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+    "research": null,
+    "website": "https://elastos.info",
+    "github": "https://github.com/elastos",
+    "twitter": "https://twitter.com/ElastosInfo",
+    "telegram": "https://t.me/elastosgroup",
+    "reddit": "https://reddit.com/r/Elastos"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6fd75ff38adca4b97fbcd938c86b98772431867/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ELA on Ethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

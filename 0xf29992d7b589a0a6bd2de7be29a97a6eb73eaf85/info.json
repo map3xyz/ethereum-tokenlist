@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DMScript claims to be a blockchain-gaming company dedicated to backing and releasing video game-related projects, utilizing the blockchain technology that has also proven to be unshakable in times of crisis.",
+      "verified": true
+    }
+  ],
+  "id": "b6260891-09a5-4237-934e-046995c5c5b1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
+    "research": null,
+    "website": "https://dmscript.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf29992d7b589a0a6bd2de7be29a97a6eb73eaf85/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DMScript",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DMST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

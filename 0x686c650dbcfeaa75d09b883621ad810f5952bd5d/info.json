@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x686C650dbcFEaa75D09B883621Ad810F5952bD5d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Digital asset exchange. AAX Token (AAB) is an integral part of AAX, providing special benefits to users, and a means to be part of the growth of the exchange.",
+      "verified": true
+    }
+  ],
+  "id": "599baa56-9124-4910-b956-be0eb8170dd3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x686C650dbcFEaa75D09B883621Ad810F5952bD5d",
+    "research": null,
+    "website": "https://aab.aax.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x686c650dbcfeaa75d09b883621ad810f5952bd5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AAX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AAB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

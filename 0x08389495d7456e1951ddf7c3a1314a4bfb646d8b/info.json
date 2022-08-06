@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
+      "verified": true
+    }
+  ],
+  "id": "0aabd1a3-c983-4c1c-8c2c-deb92cdcb907",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+    "research": null,
+    "website": "https://crypterium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08389495d7456e1951ddf7c3a1314a4bfb646d8b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crypterium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

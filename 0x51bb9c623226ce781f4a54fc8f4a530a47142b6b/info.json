@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Core utility, staking, and governance token for Peet decentralized finance platform.",
+      "verified": true
+    }
+  ],
+  "id": "45c7687b-c852-488c-b952-70749cc7c4d2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x51bb9c623226ce781f4a54fc8f4a530a47142b6b",
+    "research": "https://peetdefi.gitbook.io/docs/",
+    "website": "https://peetdecentralized.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51bb9c623226ce781f4a54fc8f4a530a47142b6b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Peet DeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
