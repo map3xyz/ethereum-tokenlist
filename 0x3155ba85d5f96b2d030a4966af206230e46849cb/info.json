@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "THORChain describes itself as a decentralized liquidity network that allows users to swap assets instantly at manipulation-resistant market prices.",
+      "verified": true
+    }
+  ],
+  "id": "23150bdc-cedf-45a6-9e62-f34232003ed6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb",
+    "research": "https://research.binance.com/en/projects/thorchain",
+    "website": "https://thorchain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3155ba85d5f96b2d030a4966af206230e46849cb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "THORChain ETH.RUNE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUNE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

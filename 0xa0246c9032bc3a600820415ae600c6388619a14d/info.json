@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques.",
+      "verified": true
+    }
+  ],
+  "id": "147c28ca-5488-4a40-bc4b-3e0cdd861866",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D",
+    "research": null,
+    "website": "https://harvest.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0246c9032bc3a600820415ae600c6388619a14d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Harvest Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FARM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

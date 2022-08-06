@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.",
+      "verified": true
+    }
+  ],
+  "id": "a37500b6-9073-425d-a237-912db893bbc4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+    "research": null,
+    "website": "https://unisocks.exchange/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23b608675a2b2fb1890d3abbd85c5775c51691d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unisocks Edition 0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOCKS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "New Revenue Streams for Gamers",
+      "verified": true
+    }
+  ],
+  "id": "dfef6e6c-ce44-431d-9e3b-92fd0a1fbe5e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+    "research": null,
+    "website": "https://exeedme.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee573a945b01b788b9287ce062a0cfc15be9fd86/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Exeedme",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

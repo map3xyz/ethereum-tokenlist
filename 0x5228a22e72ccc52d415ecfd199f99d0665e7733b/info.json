@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pTokens BTC is a one-to-one pegged tokenised Bitcoin on Ethereum. Leveraging the pTokens system, Bitcoin is automatically moved into the Ethereum protocol as an ERC-777 token. pTokens BTC makes Bitcoin compatible with all financial dApps, bringing unparalleled liquidity to the DeFi ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "4d3510b5-7b88-40c0-89c9-a26b9c21148d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+    "research": null,
+    "website": "https://ptokens.io/",
+    "github": "https://github.com/provable-things",
+    "twitter": "https://twitter.com/pToken pBTC",
+    "telegram": "https://t.me/ptokens",
+    "reddit": "https://reddit.com/r/pTokens",
+    "whitepaper": "https://ptokens.io/ptokens-rev5b.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5228a22e72ccc52d415ecfd199f99d0665e7733b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "pTokens BTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "pBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A Code-as-a-Service protocol providing technology and support for blockchain-based applications",
+      "verified": true
+    }
+  ],
+  "id": "b64bd89c-311a-4dda-ba9a-a45b31ac2348",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+    "research": null,
+    "website": "https://bepro.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BEPRO Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEPRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

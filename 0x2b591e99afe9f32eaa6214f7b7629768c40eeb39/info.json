@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
+      "verified": true
+    }
+  ],
+  "id": "b163d530-2723-44ff-90cf-f0288b68b5ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "research": null,
+    "website": "https://hex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

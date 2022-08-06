@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FLX is the ungovernance token for the RAI stable asset and the Reflexer ecosystem. It is a backstop asset for the RAI protocol.",
+      "verified": true
+    }
+  ],
+  "id": "29830d4c-be20-494a-9316-9773a0287c63",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+    "research": "https://docs.reflexer.finance/",
+    "website": "https://reflexer.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6243d8cea23066d098a15582d81a598b4e8391f4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Reflexer Ungovernance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

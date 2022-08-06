@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We Meme Business.",
+      "verified": true
+    }
+  ],
+  "id": "46121cb5-70f2-4edc-95e7-5cb1edfd0aa1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
+    "research": null,
+    "website": "https://hogefinance.com",
+    "reddit": "https://reddit.com/r/hoge",
+    "discord": "https://discord.com/invite/hoge",
+    "twitter": "https://twitter.com/hogefinance",
+    "telegram": "https://t.me/hogefinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hoge-finance",
+    "coingecko": "https://coingecko.com/en/coins/hoge-finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfad45e47083e4607302aa43c65fb3106f1cd7607/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hoge Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

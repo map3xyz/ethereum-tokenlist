@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WAX Economic Token",
+      "verified": true
+    }
+  ],
+  "id": "efae865c-de19-4811-a741-bacce80c47db",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+    "research": "https://wax.io/blog/tags/technical",
+    "website": "https://wax.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WAXE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAXE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

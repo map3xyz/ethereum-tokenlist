@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "arNXM is the yield-bearing token for the arNXM vault.",
+      "verified": true
+    }
+  ],
+  "id": "d87cfd20-7c94-4de1-bebb-16924ed5aa2e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+    "research": null,
+    "website": "https://armor.fi",
+    "github": "https://github.com/ArmorFi",
+    "twitter": "https://twitter.com/ArmorFi",
+    "telegram": "https://t.me/ArmorFi",
+    "discord": "https://discord.com/invite/8HuTB22",
+    "medium": "https://medium.com/armorfi",
+    "whitepaper": "https://armorfi.gitbook.io/armor/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1337def18c680af1f9f45cbcab6309562975b1dd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Armor NXM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "arNXM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

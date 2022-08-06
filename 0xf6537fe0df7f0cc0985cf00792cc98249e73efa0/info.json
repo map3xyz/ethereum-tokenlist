@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A non-custodial, smart contract powered P2P gateway to blockchain and DeFi",
+      "verified": true
+    }
+  ],
+  "id": "0a213114-77c3-447a-80e5-939cb79155a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+    "research": null,
+    "website": "https://cryptolocally.com/",
+    "github": "https://github.com/CryptoLocally/Resources",
+    "whitepaper": "https://cryptolocally.com/en/blog/giv-whitepaper/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6537fe0df7f0cc0985cf00792cc98249e73efa0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GIVLY Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

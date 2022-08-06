@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Convergence Finance is a decentralized interchangeable assets protocol designed to bridge real-world asset exposure with the liquidity of decentralized finance (DeFi). It essentially allows DeFi participants to gain exposure to real-world assets.",
+      "verified": true
+    }
+  ],
+  "id": "3e887485-c6a2-4a3b-afe5-4d3262ea436e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+    "research": null,
+    "website": "https://conv.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc834fa996fa3bec7aad3693af486ae53d8aa8b50/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Convergence",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CONV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Duck Liquidity Pool is a DuckDAO DeFi Market Maker protocol that will provide an opportunity for yield farmers to take advantage of the new opportunities with real skin in the game.",
+      "verified": true
+    }
+  ],
+  "id": "a5f7f9f4-c550-4298-8cee-e41c76e7d02f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+    "research": null,
+    "website": "https://duckdao.io",
+    "twitter": "https://twitter.com/dao_duck",
+    "telegram": "https://t.me/duckliquiditypool",
+    "medium": "https://duckdao.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DLP Duck Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUCK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

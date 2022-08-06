@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A fully decentralized protocol for private transactions on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "25637f71-b12d-4b9b-8289-3469bd31c9c2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c",
+    "research": null,
+    "website": "https://tornado.cash",
+    "github": "https://github.com/tornadocash",
+    "twitter": "https://twitter.com/TornadoCash",
+    "telegram": "https://t.me/TornadoCashOfficial",
+    "coingecko": "https://coingecko.com/en/coins/tornado-cash/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/torn/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77777feddddffc19ff86db637967013e6c6a116c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tornado Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TORN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

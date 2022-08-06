@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for Web 3.0",
+      "verified": true
+    }
+  ],
+  "id": "4dcf5d1e-94b6-463a-9f2c-38e963dc7f6e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+    "research": null,
+    "website": "http://mantradao.com",
+    "github": "https://github.com/Mantradao",
+    "twitter": "https://twitter.com/MANTRADAO",
+    "telegram": "https://t.me/MANTRADAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mantra-dao/",
+    "coingecko": "https://coingecko.com/en/coins/mantra-dao/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3593d125a4f7849a1b059e64f4517a86dd60c95d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MANTRA DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

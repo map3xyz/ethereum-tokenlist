@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!",
+      "verified": true
+    }
+  ],
+  "id": "60765943-3b51-4ecc-95c7-34c1a8630db4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+    "research": null,
+    "website": "https://www.superfarm.io/",
+    "telegram": "https://t.me/SuperFarmDAO",
+    "twitter": "https://twitter.com/SuperFarmDAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superfarm/",
+    "coingecko": "https://coingecko.com/en/coins/superfarm/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SuperFarm",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUPER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

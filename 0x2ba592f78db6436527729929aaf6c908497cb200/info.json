@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cream - Crypto Rules Everything Around Me",
+      "verified": true
+    }
+  ],
+  "id": "9db8bccd-f049-4fc2-af68-5f6bcd5d7799",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2ba592F78dB6436527729929AAf6c908497cB200",
+    "research": null,
+    "website": "https://cream.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ba592f78db6436527729929aaf6c908497cb200/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cream Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREAM",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A new LAYER of possibilities to trade on Uniswap.",
+      "verified": true
+    }
+  ],
+  "id": "a0e37454-1eab-46de-907e-426f8f84be19",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+    "research": null,
+    "website": "https://unilayer.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ff6ffcfda92c53f615a4a75d982f399c989366b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unilayer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAYER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

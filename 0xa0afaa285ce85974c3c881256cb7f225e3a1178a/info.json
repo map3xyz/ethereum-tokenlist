@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns. Incorporated and regulated in Switzerland.",
+      "verified": true
+    }
+  ],
+  "id": "c4c31953-e2b1-407a-849b-f634dd67fdf9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",
+    "research": null,
+    "website": "https://defi.crescofin.ch"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0afaa285ce85974c3c881256cb7f225e3a1178a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped CrescoFin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCRES",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

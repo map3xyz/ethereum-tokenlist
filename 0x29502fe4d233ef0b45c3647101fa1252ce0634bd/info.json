@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x29502fE4d233EF0b45C3647101Fa1252cE0634BD",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FROGE, THE WORLDS FIRST ECO-DEFI",
+      "verified": true
+    }
+  ],
+  "id": "b7df84fe-ca85-4d00-80fd-29d01d2ee8ec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x29502fE4d233EF0b45C3647101Fa1252cE0634BD",
+    "research": null,
+    "website": "https://froge.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29502fe4d233ef0b45c3647101fa1252ce0634bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Froge Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FROGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Meme mashes up the most exciting innovations in DeFi and NFTs. Put your $MEME to work and collect digital content that you can truly own.",
+      "verified": true
+    }
+  ],
+  "id": "53d84105-2149-4657-988d-5229fb62600c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+    "research": null,
+    "website": "https://dontbuymeme.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5525d397898e5502075ea5e830d8914f6f0affe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MEME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

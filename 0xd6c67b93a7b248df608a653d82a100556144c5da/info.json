@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+  "color": null,
+  "decimals": 16,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ExNetwork Community App",
+      "verified": true
+    }
+  ],
+  "id": "10481a06-d218-4519-b0bd-3f55a657d782",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+    "research": null,
+    "website": "https://exnetwork.community/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6c67b93a7b248df608a653d82a100556144c5da/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ExNetwork Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.",
+      "verified": true
+    }
+  ],
+  "id": "9c7af4f6-8da2-4ea1-ac63-03e8b67f5221",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "research": "https://research.binance.com/en/projects/reef-finance",
+    "website": "https://reef.finance",
+    "twitter": "https://twitter.com/ReefDeFi",
+    "telegram": "https://t.me/reefdefi",
+    "coingecko": "https://coingecko.com/en/coins/reef-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/reef/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfe3e6a25e6b192a42a44ecddcd13796471735acf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Reef",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REEF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

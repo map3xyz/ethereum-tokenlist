@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We think that the best way to align platform development with customers' interests is to empower the ones who actively interact with protocol: creators and collectors.",
+      "verified": true
+    }
+  ],
+  "id": "956ee6f4-5b81-402e-9e83-c327a9cd9652",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+    "research": null,
+    "website": "https://app.rarible.com/rari"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfca59cd816ab1ead66534d82bc21e7515ce441cf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rarible",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RARI",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

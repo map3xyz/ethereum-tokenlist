@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance.",
+      "verified": true
+    }
+  ],
+  "id": "962bedf8-b0b9-40b7-911e-4525c80bf215",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+    "research": null,
+    "website": "https://bonded.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5dc02ea99285e17656b8350722694c35154db1e8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

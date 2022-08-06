@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A community driven decentralized exchange platform",
+      "verified": true
+    }
+  ],
+  "id": "a3e23b56-47cc-4aea-817f-92071be4419e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd379700999F4805Ce80aa32DB46A94dF64561108",
+    "research": null,
+    "website": "https://dextrust.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd379700999f4805ce80aa32db46a94df64561108/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dextrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DETS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

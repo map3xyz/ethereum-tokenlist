@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DIA (Decentralised Information Asset) claims to provide financial institutions with an immutable and verified single source of financial market data for any market and asset type.",
+      "verified": true
+    }
+  ],
+  "id": "353aa570-7163-4d77-b469-68a7758cbd8a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+    "research": "https://research.binance.com/en/projects/dia",
+    "website": "https://diadata.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

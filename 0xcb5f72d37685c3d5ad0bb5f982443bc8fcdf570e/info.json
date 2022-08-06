@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rootkit (ROOT) is a highly deflationary, yield-farmable token that uses permanently locked liquidity pools to unlock new possibilities.",
+      "verified": true
+    }
+  ],
+  "id": "2047d2b7-a673-4401-a439-3516ec115083",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
+    "research": null,
+    "website": "https://rootkit.finance/#/",
+    "github": "https://github.com/RootkitFinance",
+    "twitter": "https://twitter.com/rootkitfinance",
+    "telegram": "https://t.me/rootkitfinanceann",
+    "medium": "https://rootkitfinance.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rootkit Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

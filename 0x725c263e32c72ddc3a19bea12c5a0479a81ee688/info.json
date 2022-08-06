@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bridge Mutual is a decentralized, discretionary p2p/p2b platform that provides coverage for stablecoins, centralized exchanges, and smart contracts. Its allows users to provide coverage, decide on payouts, and get compensated for taking part in the ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "147d6dbb-8843-488f-833a-5118ef97a0d5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+    "research": null,
+    "website": "https://bridgemutual.io",
+    "github": "https://github.com/Bridge-Mutual",
+    "twitter": "https://twitter.com/Bridge_Mutual"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x725c263e32c72ddc3a19bea12c5a0479a81ee688/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bridge Mutual",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

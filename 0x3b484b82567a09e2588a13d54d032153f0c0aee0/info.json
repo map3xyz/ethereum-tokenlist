@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "5b36b982-a0d7-4687-a165-e7aadb097cdd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+    "research": null,
+    "website": "https://www.theopendao.com/",
+    "twitter": "https://twitter.com/The_OpenDAO",
+    "coingecko": "https://coingecko.com/en/coins/opendao/",
+    "discord": "https://discord.com/invite/zzzKhejARz"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b484b82567a09e2588a13d54d032153f0c0aee0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OpenDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOS",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DuckDAO, the world’s largest crowdsourced Incubator for crypto projects.",
+      "verified": true
+    }
+  ],
+  "id": "f8e2c7e6-adb0-43b8-9efd-5a50ad135db9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+    "research": null,
+    "website": "https://duckdao.io",
+    "twitter": "https://twitter.com/dao_duck",
+    "telegram": "https://t.me/duckdaolobby",
+    "medium": "https://duckdao.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DuckDaoDime",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDIM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

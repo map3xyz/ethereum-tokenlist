@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PolkaFoundry is a platform for creating borderless and frictionless DeFi apps. It is designed to unleash developers to explore new horizons of the DeFi landscape.",
+      "verified": true
+    }
+  ],
+  "id": "b84c294e-28ab-4b0d-8c3e-71e33af67e8e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+    "research": null,
+    "website": "https://polkafoundry.com",
+    "twitter": "https://twitter.com/polkafoundry",
+    "telegram": "https://t.me/polkafoundry",
+    "medium": "https://medium.com/polkafoundry"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b39b70e39aa811b69365398e0aace9bee238aeb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PolkaFoundry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
