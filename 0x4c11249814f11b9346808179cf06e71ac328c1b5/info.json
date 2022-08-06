@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data oracle has arrived.",
+      "verified": true
+    }
+  ],
+  "id": "19525f90-1a42-4871-b94e-bd0826ebc8db",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
+    "research": null,
+    "website": "https://orai.io",
+    "github": "https://github.com/oraichain/",
+    "twitter": "https://twitter.com/Oraichain and yAI.Finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c11249814f11b9346808179cf06e71ac328c1b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Oraichain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

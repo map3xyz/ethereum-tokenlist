@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YLD is a utility token that allows YIELD.app users to boost their APY",
+      "verified": true
+    }
+  ],
+  "id": "0ab3246d-6a7c-4c42-a3bd-f1bc8fa7e896",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+    "research": null,
+    "website": "https://yield.app",
+    "github": "https://github.com/yieldapp",
+    "whitepaper": "https://yield.app/whitepaper"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf94b5c5651c888d928439ab6514b93944eee6f48/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yield",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

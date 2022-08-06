@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Minds Tokens are the fuel of the Minds network.",
+      "verified": true
+    }
+  ],
+  "id": "ce8ff6d5-d00d-4f2a-b216-f66d2cb84687",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB26631c6dda06aD89B93C71400D25692de89c068",
+    "research": null,
+    "website": "https://minds.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb26631c6dda06ad89b93c71400d25692de89c068/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Minds",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINDS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

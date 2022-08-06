@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Everest ID Token",
+      "verified": true
+    }
+  ],
+  "id": "421c1a9f-949f-43d7-b9f8-db8fa8c83fb8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+    "research": null,
+    "website": "https://everest.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Everest",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

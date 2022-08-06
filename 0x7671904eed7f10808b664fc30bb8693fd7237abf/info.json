@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7671904eed7f10808B664fc30BB8693FD7237abF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "New way of yield farming defi BITBERRY FINANCE",
+      "verified": true
+    }
+  ],
+  "id": "c4e45e4b-5fe6-4649-bbc6-fa4a92e22a9d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7671904eed7f10808b664fc30bb8693fd7237abf",
+    "research": null,
+    "website": "https://app.bbr.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7671904eed7f10808b664fc30bb8693fd7237abf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Boolberry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

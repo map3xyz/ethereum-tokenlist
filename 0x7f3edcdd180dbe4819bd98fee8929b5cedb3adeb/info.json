@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "xTokens are ERC20 wrapper tokens for staking, governance and liquidity strategies. xToken offers simple set-and-forget tokens that provide simplified exposure to the returns from participating in staking protocols.",
+      "verified": true
+    }
+  ],
+  "id": "5ed87d5f-433b-4c89-a440-fa8f610e5c8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+    "research": null,
+    "website": "https://xtoken.market"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "xToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

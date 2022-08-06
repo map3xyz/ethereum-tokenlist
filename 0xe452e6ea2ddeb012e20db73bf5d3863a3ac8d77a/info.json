@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Celo is a 1:1 equivalent of Celo on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "7440e536-1717-494e-98b1-bb49bb9250f1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+    "research": null,
+    "website": "https://www.wrapped.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WCELO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCELO",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

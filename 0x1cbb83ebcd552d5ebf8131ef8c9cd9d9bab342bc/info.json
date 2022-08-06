@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utilizing NFTs in DeFi. Creating a way to tokenize a stake. Stake and lock your LP tokens and receive a NFT that contains the details of the stake. The LP tokens may be locked but the value is not!",
+      "verified": true
+    }
+  ],
+  "id": "a7cf0f49-7e68-4f3e-8c4a-48ce0ff13d38",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
+    "research": null,
+    "website": "https://NFY.Finance",
+    "github": "https://github.com/NFYFinance/",
+    "twitter": "https://twitter.com/NFYFinance",
+    "telegram": "https://t.me/NFYOfficialChat",
+    "discord": "https://discord.com/invite/wKgUcYr"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Non-Fungible Yearn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NFY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

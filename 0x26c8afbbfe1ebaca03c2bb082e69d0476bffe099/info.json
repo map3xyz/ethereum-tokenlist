@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CELL is a token of the Cellframe Network.",
+      "verified": true
+    }
+  ],
+  "id": "06feed53-23bb-42df-ac84-677f4ce1c125",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+    "research": "https://research.blackdragon.io/portfolio/snapshot/cellframe-cell/",
+    "website": "https://cellframe.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cellframe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CELL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

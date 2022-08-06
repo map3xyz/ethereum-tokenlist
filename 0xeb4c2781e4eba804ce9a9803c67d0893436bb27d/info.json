@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms.",
+      "verified": true
+    }
+  ],
+  "id": "c49acd9a-74d6-4182-a994-e51fb9501fd0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+    "research": null,
+    "website": "https://renproject.io",
+    "github": "https://github.com/renproject",
+    "twitter": "https://twitter.com/renprotocol",
+    "reddit": "https://reddit.com/r/RenProject/",
+    "blog": "https://medium.com/renproject",
+    "telegram": "https://t.me/renproject",
+    "whitepaper": "https://github.com/renproject/ren/wiki/Introduction",
+    "coingecko": "https://coingecko.com/en/coins/renbtc/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "renBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "renBTC",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

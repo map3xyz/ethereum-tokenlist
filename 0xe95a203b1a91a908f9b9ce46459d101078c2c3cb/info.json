@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "aETHc is a reward-bearing certificate that enables instant liquidity for staked ETH tokens in Ethereum 2.0 network.",
+      "verified": true
+    }
+  ],
+  "id": "d6adef9b-4a16-4f35-90c6-bbfc0bc9ffa9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+    "research": null,
+    "website": "https://stkr.io/",
+    "github": "https://github.com/Ankr-network/stkr-smartcontract",
+    "twitter": "https://twitter.com/Ankr",
+    "telegram": "https://t.me/ankrnetwork",
+    "medium": "https://medium.com/ankr-network",
+    "whitepaper": "https://assets.ankr.com/files/stkr_whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ankrETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aETHc",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

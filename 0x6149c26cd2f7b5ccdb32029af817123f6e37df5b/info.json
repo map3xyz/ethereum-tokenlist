@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LPOOL is the platform token of Launchpool, the fair token launchpad. LPOOL can be staked to earn an allocation from projects launching on Launchpool.",
+      "verified": true
+    }
+  ],
+  "id": "bc1b46a9-ec0c-450d-97b3-79447b8306cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+    "research": null,
+    "website": "https://launchpool.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Launchpool",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LPOOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

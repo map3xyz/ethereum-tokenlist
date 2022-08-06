@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Community Owned Decentralised Token",
+      "verified": true
+    }
+  ],
+  "id": "86f03c3c-6441-4e8b-a63c-011dcd4eb739",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
+    "research": null,
+    "website": "https://saitamatoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Saitama Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAITAMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

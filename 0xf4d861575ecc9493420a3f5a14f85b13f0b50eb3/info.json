@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fractal enables a free and open Web that respects user privacy, rewards content creators, and protects advertisers from fraud.",
+      "verified": true
+    }
+  ],
+  "id": "6c04a819-75f8-4858-a51b-3f1947cc08d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+    "research": null,
+    "website": "https://protocol.fractal.id/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fractal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

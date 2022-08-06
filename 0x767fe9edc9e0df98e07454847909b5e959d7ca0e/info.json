@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "1d3b681d-d663-43de-b323-370ee4edce3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+    "research": null,
+    "website": "https://illuvium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x767fe9edc9e0df98e07454847909b5e959d7ca0e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Illuvium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

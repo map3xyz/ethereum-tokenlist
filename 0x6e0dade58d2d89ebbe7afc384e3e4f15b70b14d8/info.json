@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QuiverX is a utility token for the QuiverX crowdfunding platform which is based on blockchain technology, and governed by smart contracts on the Ethereum ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "abd9d771-6daa-45c5-b758-55df27977842",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+    "research": null,
+    "website": "https://quiverx.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QuiverX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

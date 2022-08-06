@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LUKSO is the Blockchain for the new digital lifestyle.",
+      "verified": true
+    }
+  ],
+  "id": "1a3a5eb8-0ec6-4a38-a5be-e34e9f379f2d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
+    "research": null,
+    "website": "https://lukso.network",
+    "twitter": "https://twitter.com/lukso_io",
+    "telegram": "https://t.me/LUKSO",
+    "medium": "https://medium.com/lukso"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8b919680258d369114910511cc87595aec0be6d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LUKSO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYXe",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

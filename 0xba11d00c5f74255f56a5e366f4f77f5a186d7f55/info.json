@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "08a80308-3ff7-4714-928b-7a44ee865145",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "research": "https://research.binance.com/en/projects/band-protocol",
+    "website": "https://bandprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Band Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAND",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

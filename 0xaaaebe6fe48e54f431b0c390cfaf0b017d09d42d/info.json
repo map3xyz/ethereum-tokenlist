@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.",
+      "verified": true
+    }
+  ],
+  "id": "62d936ef-5211-4994-a545-b65aeb106202",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+    "research": null,
+    "website": "https://celsius.network",
+    "github": "https://github.com/CelsiusNetwork",
+    "twitter": "https://twitter.com/celsiusnetwork",
+    "facebook": "https://facebook.com/CelsiusNetwork",
+    "blog": "https://celsius.network/blog/",
+    "telegram": "https://t.me/CelsiusNetwork",
+    "whitepaper": "https://celsius.network/wp-content/uploads/2018/04/celsius_whitepaper-march21.pdf",
+    "coingecko": "https://coingecko.com/en/coins/celsius-degree-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Celsius",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

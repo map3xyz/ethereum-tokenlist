@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Reward token for the Anatha ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "6e62e001-1c69-44e5-a13e-bd3d5218e2de",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+    "research": null,
+    "website": "https://anatha.io",
+    "github": "https://github.com/anathatech/",
+    "twitter": "https://twitter.com/Anatha_IO",
+    "reddit": "https://reddit.com/r/Anatha"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3383c5a8969dc413bfddc9656eb80a1408e4ba20/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Anatha",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wANATHA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

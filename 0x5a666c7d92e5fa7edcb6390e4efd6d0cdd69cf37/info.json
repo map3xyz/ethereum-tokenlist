@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unmarshal is a Multi-chain DeFi network of indexers that provides seamless access to Blockchain data for DeFi applications. We provide rich, meaningful, and reliable access to data through our decentralized network nodes.",
+      "verified": true
+    }
+  ],
+  "id": "cf24e96f-311c-4d18-85dd-1b41529c9166",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+    "research": null,
+    "website": "https://unmarshal.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UnMarshal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MARSH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

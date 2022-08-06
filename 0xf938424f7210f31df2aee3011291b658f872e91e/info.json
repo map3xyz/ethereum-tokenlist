@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Interact with DeFi protocols through an NFT, enhancing the discovery, reputation, safety and programmability of on-chain liquidity",
+      "verified": true
+    }
+  ],
+  "id": "f105f466-da2f-41d6-807c-73a08a11d07e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf938424f7210f31df2aee3011291b658f872e91e",
+    "research": null,
+    "website": "https://visor.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf938424f7210f31df2aee3011291b658f872e91e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Visor.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VISR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

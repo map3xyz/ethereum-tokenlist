@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.",
+      "verified": true
+    }
+  ],
+  "id": "6074ab3d-0da6-4730-893d-b7e0e7dcb08b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+    "research": null,
+    "website": "https://get-protocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a854288a5976036a725879164ca3e91d30c6a1b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

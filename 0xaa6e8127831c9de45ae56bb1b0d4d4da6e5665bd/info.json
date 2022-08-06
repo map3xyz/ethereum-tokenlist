@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Flexible Leverage token on ETH targeting 2x",
+      "verified": true
+    }
+  ],
+  "id": "2addc7a8-b276-40e3-820b-bb2b4fc00983",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+    "research": "https://defipulse.com/",
+    "website": "https://www.indexcoop.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETH 2x Flexible Leverage Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETH2x-FLI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

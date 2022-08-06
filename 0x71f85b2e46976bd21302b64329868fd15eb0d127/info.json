@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Using a high-interest time-locked savings account, Axion is a global currency, built to serve the people.",
+      "verified": true
+    }
+  ],
+  "id": "210980b7-0b0f-4a7f-bf21-f13301ecdaf6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x71F85B2E46976bD21302B64329868fd15eb0D127",
+    "research": null,
+    "website": "https://axion.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71f85b2e46976bd21302b64329868fd15eb0d127/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Axion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

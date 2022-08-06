@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": " dForce Lending is a decentralized lending protocol.",
+      "verified": true
+    }
+  ],
+  "id": "18df1a53-dc6d-4092-a191-1555bd9b273d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+    "research": null,
+    "website": "https://dforce.network",
+    "github": "https://github.com/dforce-network",
+    "twitter": "https://twitter.com/dForcenet",
+    "medium": "https://medium.com/dforcenet",
+    "telegram": "https://t.me/dforcenet",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dforce/",
+    "coingecko": "https://coingecko.com/en/coins/dforce-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dForce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

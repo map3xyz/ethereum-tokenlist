@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$WORLD is a unique platform that combines the best tokenomics of current frictionless yield protocols for instant rewards with the additional benefits of staking in our upcoming marketplace. This way the best rewards can be guaranteed without any token inflation.",
+      "verified": true
+    }
+  ],
+  "id": "504153b4-f7d8-43b2-834d-f18bcc10a0fd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47",
+    "research": null,
+    "website": "https://worldtoken.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "World Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WORLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

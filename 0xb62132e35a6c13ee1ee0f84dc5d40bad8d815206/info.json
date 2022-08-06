@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio.",
+      "verified": true
+    }
+  ],
+  "id": "3ad5f3d4-b4dd-4de9-87a6-3a18b9c63241",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "research": null,
+    "website": "http://nexo.io",
+    "github": "https://github.com/nexofinance/NEXO-Token/",
+    "twitter": "https://twitter.com/NexoFinance",
+    "blog": "https://medium.com/nexo",
+    "facebook": "https://facebook.com/NexoFinance",
+    "telegram": "https://t.me/nexofinance",
+    "whitepaper": "https://nexo.io/assets/downloads/Nexo-Whitepaper.pdf?=a",
+    "coingecko": "https://coingecko.com/en/coins/nexo/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nexo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEXO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

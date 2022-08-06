@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Chain Games is a blockchain integrated gaming platform that incorporates non-custodial decentralized smart contract based wagering on games of skill.",
+      "verified": true
+    }
+  ],
+  "id": "93eb9252-d426-49a3-a993-ac391f2b806d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+    "research": "https://chaingames.io",
+    "website": "https://chaingames.io",
+    "github": "https://github.com/Chain-Games",
+    "whitepaper": "https://chaingames.io/wp-content/uploads/2020/08/Chain_Games-White-Paper-Aug-2020v4.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc4c2614e694cf534d407ee49f8e44d125e4681c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chain Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHAIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

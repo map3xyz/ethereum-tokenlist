@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "First Community Governed Economic Model (C-GEM) for Crypto Community.",
+      "verified": true
+    }
+  ],
+  "id": "6d646798-071c-416d-a0e6-f369cfbc388f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
+    "research": null,
+    "website": "https://deltahub.capital/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeltaHub Community",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

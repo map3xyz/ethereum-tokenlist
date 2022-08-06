@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "d4639d12-7576-4027-b9df-b630b2035ef8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+    "research": null,
+    "website": "https://keep.network",
+    "github": "https://github.com/keep-network/keep-core",
+    "twitter": "https://twitter.com/keep_project",
+    "reddit": "https://reddit.com/r/KeepNetwork",
+    "coingecko": "https://coingecko.com/en/coins/keep-network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/keep-network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KEEP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEEP",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

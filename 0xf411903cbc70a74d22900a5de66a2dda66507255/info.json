@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Verasity",
+      "verified": true
+    }
+  ],
+  "id": "12d351c0-de07-424c-a00c-479866924186",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF411903cbC70a74d22900a5DE66A2dda66507255",
+    "research": null,
+    "website": "https://verasity.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf411903cbc70a74d22900a5de66a2dda66507255/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Verasity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VRA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

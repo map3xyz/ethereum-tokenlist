@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UNCX is the governance token of the UniCrypt platform.",
+      "verified": true
+    }
+  ],
+  "id": "8f311a1e-a293-406f-ae4f-f26fa8e081e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+    "research": null,
+    "website": "https://unicrypt.network",
+    "twitter": "https://twitter.com/UNCX_token",
+    "medium": "https://unicrypt.medium.com/",
+    "telegram": "https://t.me/uncx_token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/uncx/",
+    "coingecko": "https://coingecko.com/en/coins/unicrypt",
+    "docs": "https://docs.unicrypt.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xadb2437e6f65682b85f814fbc12fec0508a7b1d0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UniCrypt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNCX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
