@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x69b9e58Dcc2680cf07c66399b7E50670F7452459",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Coinverter.info is a platform where you can easily see information about coin rates.",
+      "verified": true
+    }
+  ],
+  "id": "7861a842-933d-4857-b8c7-6bf8ad8cfd9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x69b9e58Dcc2680cf07c66399b7E50670F7452459",
+    "research": null,
+    "website": "https://coinverter.info"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69b9e58dcc2680cf07c66399b7e50670f7452459/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coinverter.info",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

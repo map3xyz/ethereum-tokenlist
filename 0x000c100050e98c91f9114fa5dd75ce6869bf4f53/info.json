@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x000C100050E98C91f9114fa5Dd75CE6869Bf4F53",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An open fund by Invictus Capital, holding the top ten cryptocurrencies by market cap, with data-backed risk hedging in cash.",
+      "verified": true
+    }
+  ],
+  "id": "78df1909-6ec3-4daa-bec2-4ec1454b66ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x000C100050E98C91f9114fa5Dd75CE6869Bf4F53",
+    "research": null,
+    "website": "https://invictuscapital.com/crypto10hedged"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x000c100050e98c91f9114fa5dd75ce6869bf4f53/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRYPTO10 Hedged",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C10",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Decentralized Internet Infrastructure for Web3.0: A more secure, private and fairer internet for everyone",
+      "verified": true
+    }
+  ],
+  "id": "de3f63e6-db05-40ed-b371-5ff8ee0e1689",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+    "research": null,
+    "website": "https://deeper.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3ae5d769e153ef72b4e3591ac004e89f48107a1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Deeper Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

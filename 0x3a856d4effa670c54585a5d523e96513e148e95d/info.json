@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TRIAS aims to create a new-generation public chain that will support the execution of general-purpose native-applications on all platforms.",
+      "verified": true
+    }
+  ],
+  "id": "76b011f3-4847-4821-abac-57b5d8519fd4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A856d4effa670C54585a5D523e96513e148e95d",
+    "research": null,
+    "website": "https://www.trias.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a856d4effa670c54585a5d523e96513e148e95d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trias Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

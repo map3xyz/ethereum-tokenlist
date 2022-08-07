@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x423FfB66AECC906361d79F87d85dB310897bDB6D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The ISIKC blockchain-based loyalty platform is reportedly built by a team that understands technology and the construction materials market.",
+      "verified": true
+    }
+  ],
+  "id": "0a129df2-ab4f-4b3a-a8d1-f6ba5796bde1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x423FfB66AECC906361d79F87d85dB310897bDB6D",
+    "research": null,
+    "website": "https://www.isikc.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x423ffb66aecc906361d79f87d85db310897bdb6d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "First Internet Football Association",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIFA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

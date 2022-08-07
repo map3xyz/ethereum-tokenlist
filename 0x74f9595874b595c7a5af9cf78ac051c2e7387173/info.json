@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x74F9595874b595c7A5af9cf78AC051C2E7387173",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Long-term venture and business investments with unique marketing system.",
+      "verified": true
+    }
+  ],
+  "id": "9340db45-2462-4ff9-a955-8a87e00828ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x74F9595874b595c7A5af9cf78AC051C2E7387173",
+    "research": null,
+    "website": "https://proofcoin.online"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74f9595874b595c7a5af9cf78ac051c2e7387173/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PROOF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

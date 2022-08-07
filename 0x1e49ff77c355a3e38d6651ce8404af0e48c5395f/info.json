@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1e49fF77c355A3e38D6651ce8404AF0E48c5395f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A smart-contract open ecosystem providing small businesses access to global trade by using a crypto token for payment or borrowing.",
+      "verified": true
+    }
+  ],
+  "id": "05a4f261-0f08-42ed-8387-addc45941b4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1e49fF77c355A3e38D6651ce8404AF0E48c5395f",
+    "research": null,
+    "website": "https://modultrade.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e49ff77c355a3e38d6651ce8404af0e48c5395f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ModulTrade Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTRc",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

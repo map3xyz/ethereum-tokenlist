@@ -1,0 +1,41 @@
+{
+  "active": false,
+  "address": "0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DEUS finance the next generation asset tokenization transpose any verifiable digital or non-digital asset securely onto the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "f9d4acce-f2df-4ef4-bbf5-dfd43fb2c56f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
+    "research": null,
+    "website": "https://deus.finance/",
+    "github": "https://github.com/deusfinance",
+    "twitter": "https://twitter.com/DeusDao",
+    "telegram": "https://t.me/deusfinance",
+    "medium": "https://medium.com/@deusfinance",
+    "whitepaper": "https://deus.finance/litepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b62F3820e0B035cc4aD602dECe6d796BC325325/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

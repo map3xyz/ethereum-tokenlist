@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TIME is an utility token of Chronobank ecosystem",
+      "verified": true
+    }
+  ],
+  "id": "0d0e8c98-5667-4034-adea-5ab9e6930448",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53",
+    "research": null,
+    "website": "https://chronobank.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chronobank TIME (EOL)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

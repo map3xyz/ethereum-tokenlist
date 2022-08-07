@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xDe6cE6c57F655b4627870bdA02eA46A2a15EED2E",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "ef776937-e706-4252-9f8e-1b65440c6212",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDe6cE6c57F655b4627870bdA02eA46A2a15EED2E",
+    "research": null,
+    "website": "https://epaycoin.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xde6ce6c57f655b4627870bda02ea46a2a15eed2e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

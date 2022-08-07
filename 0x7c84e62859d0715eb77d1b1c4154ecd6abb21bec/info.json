@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Shping is the ultimate shopping companion, allowing you to compare pricing on products with a simple barcode scan of a product and earn money for interacting with the products you love.",
+      "verified": true
+    }
+  ],
+  "id": "1a5b4067-517c-45b3-9306-f58f28c22be3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
+    "research": null,
+    "website": "https://www.shping.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shping Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHPING",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

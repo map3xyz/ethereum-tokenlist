@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2D3E7D4870a51b918919E7B851FE19983E4c38d5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Ubcoin is a crypto-goods p2p exchange where anyone can safely and instantly sell any good’s and become a cryptocurrency holder.",
+      "verified": true
+    }
+  ],
+  "id": "ef5298fc-cd32-44cb-8e10-eaa85a3dbdd7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2D3E7D4870a51b918919E7B851FE19983E4c38d5",
+    "research": null,
+    "website": "https://ubcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d3e7d4870a51b918919e7b851fe19983e4c38d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UBCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

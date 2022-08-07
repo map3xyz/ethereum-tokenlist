@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FWB is a Private Discord channel filled with our favorite thinkers, creatives, rebels, and doers.",
+      "verified": true
+    }
+  ],
+  "id": "f01ca9f6-4b92-4983-8279-15caf2ee07ec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+    "research": null,
+    "website": "https://fwb.help"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Friends with Benefits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FWB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

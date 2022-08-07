@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Incentivization of Liquidity Providers by PARSIQ.",
+      "verified": true
+    }
+  ],
+  "id": "6aa274f9-35cc-41ba-ae4b-3ec3b08a23f2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
+    "research": null,
+    "website": "https://parsiq.net",
+    "telegram": "https://t.me/parsiq_group",
+    "twitter": "https://twitter.com/parsiq_net",
+    "facebook": "https://facebook.com/parsiqnet/",
+    "medium": "https://medium.com/parsiq"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Parsiq Boost",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRQBOOST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

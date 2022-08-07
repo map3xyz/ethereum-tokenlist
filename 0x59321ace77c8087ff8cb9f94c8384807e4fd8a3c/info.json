@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Xeniumx is a blockchain-based marketplace, where buyers & sellers meet to carry out operations involving digital goods & saas based services with cryptocurrency transactions. It uses an automatic matching of users, based on the artificial intelligence approach.",
+      "verified": true
+    }
+  ],
+  "id": "da552a94-9547-4cb2-bf91-114200014866",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c",
+    "research": null,
+    "website": "https://xeniumx.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59321ace77c8087ff8cb9f94c8384807e4fd8a3c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Xeniumx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XEMX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

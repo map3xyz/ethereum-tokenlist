@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Platform and payment services for the adult industry.",
+      "verified": true
+    }
+  ],
+  "id": "95c60647-bd46-4bfe-b0a7-5264149f4c3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+    "research": null,
+    "website": "https://bank.spankchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b01c3170ae1efebee1a3159172cb3f7a5ecf9e5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOOTY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOOTY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

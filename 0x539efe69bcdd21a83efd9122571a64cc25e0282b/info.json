@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized 2-Factor Authentication, Blacklisting, Whitelisting, Auto Smart Contract Scanning, & more.",
+      "verified": true
+    }
+  ],
+  "id": "8ad3621b-181a-4525-9776-ce3b50a50bab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+    "research": null,
+    "website": "https://www.blueprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x539efe69bcdd21a83efd9122571a64cc25e0282b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Blue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLUE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "7e32ef04-4f14-4af1-ab37-0a4c9de2f57d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+    "research": null,
+    "website": "https://corion.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CorionX utility token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CORX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA28d2EC98C6bb076A2e152dC9e0d94C8C01e36B0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "f6b7039f-687c-4b85-bdb5-97461f43600f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA28d2EC98C6bb076A2e152dC9e0d94C8C01e36B0",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa28d2ec98c6bb076a2e152dc9e0d94c8c01e36b0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike COMP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sCOMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

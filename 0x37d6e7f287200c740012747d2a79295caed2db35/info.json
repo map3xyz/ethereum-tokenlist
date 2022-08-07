@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x37D6E7F287200C740012747d2A79295cAeD2DB35",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "816034e3-174f-497c-9aa7-0228de658a2f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x37D6E7F287200C740012747d2A79295cAeD2DB35",
+    "research": null,
+    "website": "https://btc-alpha.com/en/alp-coin"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37d6e7f287200c740012747d2a79295caed2db35/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ALP Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

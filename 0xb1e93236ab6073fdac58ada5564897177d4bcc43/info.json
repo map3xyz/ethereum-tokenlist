@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Seele created 'Neural Consensus Algorithm'. It transforms the consensus problem into an asynchronous request, processing and sorting data in a large-scale environment based on 'micro-real numbers'.",
+      "verified": true
+    }
+  ],
+  "id": "33da4681-caf0-44ab-99b9-27f09ad61aa8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+    "research": null,
+    "website": "https://seelen.pro/index_en.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb1e93236ab6073fdac58ada5564897177d4bcc43/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Seele",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Seele",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

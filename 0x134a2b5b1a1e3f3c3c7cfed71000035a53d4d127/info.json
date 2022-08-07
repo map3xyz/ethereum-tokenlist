@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x134A2B5B1A1E3F3c3C7cfed71000035A53d4d127",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ffb587f0-8148-4897-ad0a-4b295e09e512",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x134A2B5B1A1E3F3c3C7cfed71000035A53d4d127",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x134a2b5b1a1e3f3c3c7cfed71000035a53d4d127/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OPC-ERC20-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

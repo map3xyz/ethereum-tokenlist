@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first generation of cryptocurrencies have been based on the concepts of mining & staking. ChronoLogic works on proof-of-time. In its first use-case ChronoLogic pegs time to a store of value token named DAY based on the Ethereum blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "d627ecf1-626f-406a-b890-8faff5c12808",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+    "research": null,
+    "website": "https://chronologic.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe814aee960a85208c3db542c53e7d4a6c8d5f60f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

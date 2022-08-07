@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our Zero Carbon Market delivers lower energy prices and rewards consumers with Energis tokens as a catalyst for change, reducing carbon emissions faster than renewable energy.",
+      "verified": true
+    }
+  ],
+  "id": "bcd2865f-f299-4ba3-9fe6-176598823641",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
+    "research": null,
+    "website": "https://www.zerocarbonproject.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6737fe98389ffb356f64ebb726aa1a92390d94fb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZeroCarbon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

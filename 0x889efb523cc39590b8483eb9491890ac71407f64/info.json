@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x889eFB523cc39590B8483EB9491890AC71407f64",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Moon Juice is a experiment in farming, deflation, and programmable money.",
+      "verified": true
+    }
+  ],
+  "id": "452b78ee-e7fe-4d69-9e68-72fb1bc0deea",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x889eFB523cc39590B8483EB9491890AC71407f64",
+    "research": null,
+    "website": "https://moonjuice.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x889efb523cc39590b8483eb9491890ac71407f64/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Moon Juice (JUICE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JUICE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

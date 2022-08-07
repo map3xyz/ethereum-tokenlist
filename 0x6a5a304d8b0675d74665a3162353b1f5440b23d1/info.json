@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6A5A304D8b0675D74665A3162353b1F5440B23d1",
+  "color": null,
+  "decimals": 10,
+  "description": [],
+  "id": "06bc1348-14b8-443c-b791-1b599ffbaeee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6A5A304D8b0675D74665A3162353b1F5440B23d1",
+    "research": null,
+    "website": "https://www.priorityex.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a5a304d8b0675d74665a3162353b1f5440b23d1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PriorityEx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

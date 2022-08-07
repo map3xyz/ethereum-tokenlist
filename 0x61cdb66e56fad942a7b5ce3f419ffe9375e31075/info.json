@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x61cDb66e56FAD942a7b5cE3F419FfE9375E31075",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "649d749f-c05a-4d44-a500-d216220c8b4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x61cDb66e56FAD942a7b5cE3F419FfE9375E31075",
+    "research": null,
+    "website": "https://rainnetwork.online/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RAIN Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

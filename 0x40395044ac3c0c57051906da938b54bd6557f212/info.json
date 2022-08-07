@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MobileGo (MGO), a cryptocurrency that offers in-game rewards. Its ultimate goal is to 'make games available to everyone",
+      "verified": true
+    }
+  ],
+  "id": "66d3ea3c-a716-4a86-a80c-5cc85891db1f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212",
+    "research": null,
+    "website": "https://mobilego.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x40395044ac3c0c57051906da938b54bd6557f212/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MobileGo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

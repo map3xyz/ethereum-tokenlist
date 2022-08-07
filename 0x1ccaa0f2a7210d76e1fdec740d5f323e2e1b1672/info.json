@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Faceter (FACE) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "7d5d7a2a-4df9-48d6-9ed9-f0395ede20ea",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
+    "research": null,
+    "website": "https://tokensale.faceter.io/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Faceter Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FACE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

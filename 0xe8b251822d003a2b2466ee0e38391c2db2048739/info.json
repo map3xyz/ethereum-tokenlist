@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE8b251822d003a2b2466ee0E38391C2db2048739",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RFI + Base = RBASE.",
+      "verified": true
+    }
+  ],
+  "id": "250f8981-1c6f-4af5-acdb-6086838a0bbf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe8b251822d003a2b2466ee0e38391c2db2048739",
+    "research": null,
+    "website": "https://rbase.finance/",
+    "twitter": "https://twitter.com/DefiProphets",
+    "telegram": "https://t.me/rbasebydefiprophets"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8b251822d003a2b2466ee0e38391c2db2048739/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "rbase.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBASE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

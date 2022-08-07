@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LikeCoin is a protocol for content attribution, monetization and distribution. LikeCoin chain is a Bonded Proof of Stake blockchain developed on top of Cosmos SDK. As a permissionless protocol, 800+ media chose to adopt LikeCoin with her WordPress plugin.",
+      "verified": true
+    }
+  ],
+  "id": "e65dd370-9d7c-40c3-bdef-d7a55f0fa7ce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
+    "research": null,
+    "website": "https://like.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02f61fd266da6e8b102d4121f5ce7b992640cf98/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LikeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIKE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fb3691db-69c8-4b76-bde3-7685926a911f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+    "research": null,
+    "website": "http://ori.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Origami Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

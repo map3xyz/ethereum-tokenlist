@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "2f6dc6e9-e597-415c-b5a2-f0ad5ee31b8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
+    "research": null,
+    "website": "https://www.dcorp.it/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DCORP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

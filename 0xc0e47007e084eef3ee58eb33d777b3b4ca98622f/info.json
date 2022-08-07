@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized protocol with DeFi swap interface including a fair fee distribution system and advanced matching engine.",
+      "verified": true
+    }
+  ],
+  "id": "9670f7f6-e80e-4a64-ad88-939aaacee2a4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f",
+    "research": null,
+    "website": "https://stardex.io/",
+    "github": "https://github.com/stardexio",
+    "twitter": "https://twitter.com/stardexio",
+    "telegram": "https://t.me/stardexio",
+    "medium": "https://medium.com/@stardex"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0e47007e084eef3ee58eb33d777b3b4ca98622f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StarDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSTAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

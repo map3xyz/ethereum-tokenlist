@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x171D750d42d661B62C277a6B486ADb82348c3Eca",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "70e8b618-5c0d-4df6-ade7-06ef395dd99b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x171D750d42d661B62C277a6B486ADb82348c3Eca",
+    "research": null,
+    "website": "https://omnitude.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x171d750d42d661b62c277a6b486adb82348c3eca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Omnitude Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECOM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

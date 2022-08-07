@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0b1724cc9FDA0186911EF6a75949e9c0d3F0f2F3",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Etheriya is a Decentralized Blockchain-based macro and micro freelance marketplace where anyone can order or offer services ranging from Blockchain-based, graphic design, programming, consultancy, writing and translation, Video creation, marketing, business, advertising to mention just a few.",
+      "verified": true
+    }
+  ],
+  "id": "ff7bc595-b41c-4836-ade3-7452348106fa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0b1724cc9FDA0186911EF6a75949e9c0d3F0f2F3",
+    "research": null,
+    "website": "http://etheriya.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b1724cc9fda0186911ef6a75949e9c0d3f0f2f3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Etheriya",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RIYA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

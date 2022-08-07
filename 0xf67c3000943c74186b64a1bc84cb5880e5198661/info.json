@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf67c3000943c74186B64A1Bc84Cb5880E5198661",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our CHF36 tokens are used to connect banking network with ethereum,to send (and receive) EUR and CHF directly with your Smart Contracts. End-users do not need a wallet, because wire-transfers trigger mint/burn at the moment the transfer happens.",
+      "verified": true
+    }
+  ],
+  "id": "70b860d1-1f9f-46b6-b17e-440f9d4e4248",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf67c3000943c74186B64A1Bc84Cb5880E5198661",
+    "research": null,
+    "website": "https://element36.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf67c3000943c74186b64a1bc84cb5880e5198661/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CHF36",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHF36",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "STK (STK) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "bdfe1cc5-82ea-4e09-920f-4e71b40eb232",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
+    "research": null,
+    "website": "https://stktoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xae73b38d1c9a8b274127ec30160a4927c4d71824/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "STK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

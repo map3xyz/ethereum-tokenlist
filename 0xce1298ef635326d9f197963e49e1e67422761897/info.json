@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCE1298eF635326d9F197963E49E1E67422761897",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PiSwap is a new generation Defi platform, fully integrated with tools to help users to access Defi easily, quickly and securely.",
+      "verified": true
+    }
+  ],
+  "id": "c4352b90-d547-402e-ac7a-5828de547dfe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCE1298eF635326d9F197963E49E1E67422761897",
+    "research": null,
+    "website": "https://piswap.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xce1298ef635326d9f197963e49e1e67422761897/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PiSwap Token (PIS)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

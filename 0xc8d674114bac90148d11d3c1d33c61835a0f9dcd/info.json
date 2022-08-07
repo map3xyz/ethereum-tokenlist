@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror NFLX Token.",
+      "verified": true
+    }
+  ],
+  "id": "5fa5948d-bef3-4da1-9f9a-1543dfc94bd7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc8d674114bac90148d11d3c1d33c61835a0f9dcd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mNFLX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mNFLX",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

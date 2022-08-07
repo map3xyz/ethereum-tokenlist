@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hxro is a cryptocurrency exchange platform that offers perpetual, time-based digital derivatives markets. Hxro offers a way to interact with the market.",
+      "verified": true
+    }
+  ],
+  "id": "57a3f82b-e570-4d0f-8744-d3d534f6084a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
+    "research": null,
+    "website": "https://hxro.io/",
+    "twitter": "https://twitter.com/RealHxro",
+    "telegram": "https://t.me/TheRealHxro",
+    "medium": "https://medium.com/@hxromedia"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hxro Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

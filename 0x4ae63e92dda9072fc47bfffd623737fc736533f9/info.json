@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A Dececentralized Smart Contract that focuses the power of Savings. Dividend earnings for every Savings and stakes.",
+      "verified": true
+    }
+  ],
+  "id": "9fc23d10-6a35-4947-a9c0-4b1f43862d5c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9",
+    "research": null,
+    "website": "https://centfi.co",
+    "github": "https://github.com/centfibank",
+    "whitepaper": "https://gofile.io/d/j0TTOA"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ae63e92dda9072fc47bfffd623737fc736533f9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CentFi Bank Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFIX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

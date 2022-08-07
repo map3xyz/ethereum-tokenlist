@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3810A4Ddf41E586Fa0dbA1463A7951B748cEcFca",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MenaPay aims to replace cash and traditional banking tools used for online and offline transactions in daily life.",
+      "verified": true
+    }
+  ],
+  "id": "188a74d8-ce5d-455c-9665-d268add95b20",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3810A4Ddf41E586Fa0dbA1463A7951B748cEcFca",
+    "research": null,
+    "website": "https://www.menapay.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3810a4ddf41e586fa0dba1463a7951b748cecfca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

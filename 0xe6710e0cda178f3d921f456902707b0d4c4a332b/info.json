@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe6710e0CdA178f3D921f456902707B0d4C4A332B",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$JULIEN token is social token of Julien Bouteloup. You can exchange $JULIEN token for DeFI lessons: smart contract coding, arbitrage, cryptoeconomics, investment etc",
+      "verified": true
+    }
+  ],
+  "id": "59ef6f64-cbea-4614-83aa-a2465f94c39b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe6710e0CdA178f3D921f456902707B0d4C4A332B",
+    "research": null,
+    "website": "https://app.tryroll.com/rewards/JULIEN"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6710e0cda178f3d921f456902707b0d4c4a332b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Julien",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JULIEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

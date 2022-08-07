@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b045225a-0397-45d6-9ee1-9840ffa3d256",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577",
+    "research": null,
+    "website": "http://pkgtoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02f2d4a04e6e01ace88bd2cd632875543b2ef577/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PKG Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

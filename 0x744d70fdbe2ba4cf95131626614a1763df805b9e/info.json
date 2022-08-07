@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Status (SNT) is an open source messaging platform and mobile interface built to interact with applications that run on the Ethereum network. ",
+      "verified": true
+    }
+  ],
+  "id": "fc22ac0b-4c17-45d5-a951-dd0cad01dfb8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+    "research": null,
+    "website": "http://status.im",
+    "github": "https://github.com/status-im",
+    "twitter": "https://twitter.com/ethstatus",
+    "reddit": "https://reddit.com/r/statusim/",
+    "facebook": "https://facebook.com/ethstatus",
+    "whitepaper": "https://status.im/whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/status/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x744d70fdbe2ba4cf95131626614a1763df805b9e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Status",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

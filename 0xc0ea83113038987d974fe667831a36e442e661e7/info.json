@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc0ea83113038987d974FE667831a36E442e661E7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Liber exchange platform uses LIBFX to mobilize the support from the community serving to expand the market for Liber exchange platform and use LIBFX as the main payment method of Liber.",
+      "verified": true
+    }
+  ],
+  "id": "fea8ff12-dea8-423d-9221-9dc1c951e7f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc0ea83113038987d974FE667831a36E442e661E7",
+    "research": null,
+    "website": "https://libermx.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0ea83113038987d974fe667831a36e442e661e7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Libfx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Libfx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

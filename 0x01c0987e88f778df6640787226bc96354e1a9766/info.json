@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x01C0987E88F778DF6640787226bc96354E1a9766",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UAT is a non-refundable functional utility token which will be used as the payment medium of service exchange between participants on the UAT platform.",
+      "verified": true
+    }
+  ],
+  "id": "000ce0d3-ffe2-4805-af94-c2617a4614b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x01C0987E88F778DF6640787226bc96354E1a9766",
+    "research": null,
+    "website": "https://ultralpha.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01c0987e88f778df6640787226bc96354e1a9766/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UltrAlpha token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

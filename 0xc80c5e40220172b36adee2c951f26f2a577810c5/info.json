@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC80c5E40220172B36aDee2c951f26F2a577810C5",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bankera is an operational fork of SpectroCoin. As SpectroCoin to be competitive has developed bank-like infrastructure, but was not intended to become a proper bank, it is releasing Bankera to leverage its regulatory and IT infrastructure to develop a bank for the blockchain era. Bankera as a proper bank will offer payments, investments, and loan and deposit solutions. Later on, it is planing to develop new types of money, such as inflation linked baskets.",
+      "verified": true
+    }
+  ],
+  "id": "9ebbb877-a4b8-46ac-8111-f89b45d81e45",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC80c5E40220172B36aDee2c951f26F2a577810C5",
+    "research": null,
+    "website": "https://bankera.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc80c5e40220172b36adee2c951f26f2a577810c5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Banker Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

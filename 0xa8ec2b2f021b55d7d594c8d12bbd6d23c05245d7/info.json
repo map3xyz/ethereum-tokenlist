@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA8eC2B2F021B55d7d594c8d12Bbd6d23C05245D7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cashback E-commerce Exchange was born from new ideas based on great start-up technologies and has had certain achievements in the market.",
+      "verified": true
+    }
+  ],
+  "id": "b8a5fdf1-bad1-4931-97e3-871bd2bce20f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA8eC2B2F021B55d7d594c8d12Bbd6d23C05245D7",
+    "research": null,
+    "website": "https://cashback.so"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8ec2b2f021b55d7d594c8d12bbd6d23c05245d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CASHBACK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CASHBACK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

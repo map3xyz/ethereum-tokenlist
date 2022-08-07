@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.",
+      "verified": true
+    }
+  ],
+  "id": "23ab0424-e094-41f0-ae41-eb5f198ab7de",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+    "research": null,
+    "website": "https://poseidon.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2822f6d1b2f41f93f33d937bc7d84a8dfa4f4c21/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QQQ Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QQQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

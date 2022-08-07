@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "440d3a79-87f3-494b-8680-8bf2e7177c5c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+    "research": null,
+    "website": "https://www.ucot.world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4bea627039f0b7e7d21e34bb9c9fe962977518/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UCOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

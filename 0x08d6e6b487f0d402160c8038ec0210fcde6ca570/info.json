@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08d6E6B487f0d402160C8038eC0210FCdE6CA570",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The DFG token will be the centerpiece of this new platform. Through behavioural mining, innovative token economy design, and other incentive mechanisms, developers will be given the power to build the best DApps possible, and players will be enabled to become platform stakeholders as the platform continues on its path of providing best decentralized gaming experiences on the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "42eca111-cd0b-48c0-aca6-ff6cb1f3f3aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08d6E6B487f0d402160C8038eC0210FCdE6CA570",
+    "research": null,
+    "website": "https://defigamble.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08d6e6b487f0d402160c8038ec0210fcde6ca570/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Defi Gamble",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

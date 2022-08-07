@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OxyCoin (OXY) is an ERC20 Token that supplied 244,140,625,000,000,000,000 coins",
+      "verified": true
+    }
+  ],
+  "id": "69f35688-b9db-44d0-b0bf-dac462d6abeb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD83A162d4808c370A1445646e64CC4861eB60b92",
+    "research": null,
+    "website": "https://oxy-coin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd83a162d4808c370a1445646e64cc4861eb60b92/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OxyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OXY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

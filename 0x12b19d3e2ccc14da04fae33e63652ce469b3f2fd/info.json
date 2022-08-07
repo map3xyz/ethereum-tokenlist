@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+  "color": null,
+  "decimals": 12,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
+      "verified": true
+    }
+  ],
+  "id": "5a844970-1ed7-4156-9aab-e88a267e7acf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+    "research": null,
+    "website": "https://gridplus.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GRID",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

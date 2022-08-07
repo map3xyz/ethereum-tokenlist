@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DREP is committed to building connectors and toolboxes based on blockchain technology, and aims to provide solutions that combine ease of use, flexibility, and frictionless integration.",
+      "verified": true
+    }
+  ],
+  "id": "991bc245-82d5-45af-8005-56d5832ba56c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
+    "research": null,
+    "website": "https://www.drep.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DREP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DREP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

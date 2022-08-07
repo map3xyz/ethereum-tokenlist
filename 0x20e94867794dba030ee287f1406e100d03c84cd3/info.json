@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x20E94867794dBA030Ee287F1406E100d03C84Cd3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DEW is a Decentralized Exchange and also a gateway to the global blockchain securities market, through an almighty account, you can trade Blockchain Assets, Stocks, Futures, Forex, ETF, Bet Contract etc.",
+      "verified": true
+    }
+  ],
+  "id": "5c125833-e985-4698-aab5-d81fa7563225",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20E94867794dBA030Ee287F1406E100d03C84Cd3",
+    "research": null,
+    "website": "https://www.dew.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20e94867794dba030ee287f1406e100d03c84cd3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

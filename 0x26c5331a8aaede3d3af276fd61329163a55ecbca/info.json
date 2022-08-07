@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Abyss protocol is a governance-controlled burn address (DAE) which mints NFTs from token lockups. Uses the overlaying CHARON DAO, ABY holders are able to influence almost all parts of the protocol, from deciding on fee structures, adding new pools, rebalancing, and even disabling parts of the Abyss ecosystem. The holdings of the Abyss itself, are the only thing beyond the touch of mortals.",
+      "verified": true
+    }
+  ],
+  "id": "9899b2ea-b9dd-4689-84d3-d07b632da434",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26c5331a8aaede3d3af276fd61329163a55ecbca",
+    "research": null,
+    "website": "https://theabyss.Fund"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26c5331a8aaede3d3af276fd61329163a55ecbca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ABYSS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABY*",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

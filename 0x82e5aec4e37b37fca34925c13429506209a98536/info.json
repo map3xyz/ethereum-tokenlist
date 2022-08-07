@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x82E5aeC4e37b37FCA34925C13429506209A98536",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SALSA is the liquidity pool token for the Taconomics platform and the TACO token. Taconomics claims to be an NFT plaform for aspiring latino artists creating Taco related art.",
+      "verified": true
+    }
+  ],
+  "id": "5e5147e7-c993-47b7-b50e-981687c73934",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x82E5aeC4e37b37FCA34925C13429506209A98536",
+    "research": null,
+    "website": "https://www.taconomics.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82E5aeC4e37b37FCA34925C13429506209A98536/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Taconomics Liquidity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SALSA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

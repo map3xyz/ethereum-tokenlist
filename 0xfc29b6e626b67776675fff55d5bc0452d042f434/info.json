@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFC29B6e626B67776675FfF55d5BC0452d042F434",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BHT is the token issued by the BHEX trading platform ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "c6db9846-7d37-4eeb-ba85-9049f6034f7b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFC29B6e626B67776675FfF55d5BC0452d042F434",
+    "research": null,
+    "website": "https://bhex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc29b6e626b67776675fff55d5bc0452d042f434/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BHEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BHT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tools to help you analyze the crypto market and find data-driven investing opportunities.",
+      "verified": true
+    }
+  ],
+  "id": "f0bbdfcd-11fa-49c4-a84d-be178c2c6c5a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+    "research": null,
+    "website": "https://santiment.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SANtiment network token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Finance tech and Hazard Games.",
+      "verified": true
+    }
+  ],
+  "id": "f6d2e6dc-bdb0-4073-b6fc-02e9cc44ca90",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+    "research": null,
+    "website": "https://oysterprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1844b21593262668b7248d0f57a220caaba46ab9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Oyster Pearl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OPUS let’s musicians keep close to 100% of their profits for themselves, a truly revolutionary move in the music industry.",
+      "verified": true
+    }
+  ],
+  "id": "c54ce479-ba62-45bb-9516-4bc566bc49fc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+    "research": null,
+    "website": "http://opus-foundation.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Opus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

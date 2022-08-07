@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4fd11514-56d9-41e8-a03c-53d51183da8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2",
+    "research": null,
+    "website": "https://prospectors.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Prospectors Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PGL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

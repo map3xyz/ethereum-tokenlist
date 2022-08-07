@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Genesis Vision (GVT) is the platform for the private trust management market, built on Blockchain technology and Smart Contracts.",
+      "verified": true
+    }
+  ],
+  "id": "c013aad1-9ab7-47ed-94f4-21c3bdf3bfa2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+    "research": null,
+    "website": "https://genesis.vision/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x103c3a209da59d3e7c4a89307e66521e081cfdf0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Genesis Vision Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

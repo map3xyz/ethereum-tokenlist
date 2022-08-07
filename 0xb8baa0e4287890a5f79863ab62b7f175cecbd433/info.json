@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A fork that's 100% community owned and governed.",
+      "verified": true
+    }
+  ],
+  "id": "cb117725-8c84-40ac-84d9-0285a9ee3e45",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+    "research": "https://research.binance.com/en/projects/swerve",
+    "website": "https://swerve.fi/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8baa0e4287890a5f79863ab62b7f175cecbd433/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Swerve",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWRV",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

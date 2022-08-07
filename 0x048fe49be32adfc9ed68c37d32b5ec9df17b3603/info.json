@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Communication-Centric Blockchain Infrastructure and DeFi Ecosystem",
+      "verified": true
+    }
+  ],
+  "id": "33be98d6-07ab-4b90-b457-7b69aec8d9a5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+    "research": null,
+    "website": "https://skrumble.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Skrumble Network V2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

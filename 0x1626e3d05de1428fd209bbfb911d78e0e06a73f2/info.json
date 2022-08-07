@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1626e3d05De1428FD209BBfb911d78E0E06a73F2",
+  "color": null,
+  "decimals": 3,
+  "description": [],
+  "id": "f9267ca7-431e-4669-990a-4d739d38f55d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1626e3d05De1428FD209BBfb911d78E0E06a73F2",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1626e3d05de1428fd209bbfb911d78e0e06a73f2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NCSVToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NCSV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

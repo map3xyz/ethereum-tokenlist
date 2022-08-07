@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0xC146B7CdBaff065090077151d391f4c96Aa09e0C",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "You buy $MCC on Ethereum and Binance Smart Chain, we farm on multiple chains and return the profits to holders.",
+      "verified": true
+    }
+  ],
+  "id": "fa282deb-d76d-4e24-bd53-b47a1f054067",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc146b7cdbaff065090077151d391f4c96aa09e0c",
+    "research": null,
+    "website": "https://mchain.capital/",
+    "twitter": "https://twitter.com/MulChainCapital",
+    "github": "https://github.com/mchaindev",
+    "telegram": "https://t.me/MultiChainCapital",
+    "blog": "https://multichaincapital.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/multi-chain-capital",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/multi-chain-capital-new",
+    "discord": "https://discord.com/invite/4GwbcQNa7P"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc146b7cdbaff065090077151d391f4c96aa09e0c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Multi-Chain Capital",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCC",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

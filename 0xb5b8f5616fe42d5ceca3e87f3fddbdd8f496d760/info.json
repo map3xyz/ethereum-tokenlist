@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Ecosystem for P2P Finance.",
+      "verified": true
+    }
+  ],
+  "id": "4c0479a6-e334-4200-af8e-f4d7678b3d77",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760",
+    "research": null,
+    "website": "https://zper.io/#"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZperToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZPR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

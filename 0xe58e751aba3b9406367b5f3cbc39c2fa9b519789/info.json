@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE58E751abA3B9406367B5F3CbC39c2Fa9B519789",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EXOLOVER (EXO) is a utility token for services within EXOLOVER platform.",
+      "verified": true
+    }
+  ],
+  "id": "17bc3ab2-3fee-423d-a912-223374963882",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE58E751abA3B9406367B5F3CbC39c2Fa9B519789",
+    "research": null,
+    "website": "https://exolover.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe58e751aba3b9406367b5f3cbc39c2fa9b519789/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EXOLOVER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

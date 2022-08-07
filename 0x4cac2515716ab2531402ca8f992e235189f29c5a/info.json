@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4CAc2515716Ab2531402cA8F992e235189F29C5a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A seamlessly integrated cryptocurrency exchange that meets your specific trading and investing needs.",
+      "verified": true
+    }
+  ],
+  "id": "d4d86e27-79e8-4f72-8a1f-875582f87a74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4CAc2515716Ab2531402cA8F992e235189F29C5a",
+    "research": null,
+    "website": "https://winstex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4cac2515716ab2531402ca8f992e235189f29c5a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WINSTEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

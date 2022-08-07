@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x07bf5F95851Ef2b2996F192569e406A6FeA2a95a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Financial public chain designed specifically for blockchain asset transactions, aims to create a payment layer using blockchain technology and reshape the global financial payment system.",
+      "verified": true
+    }
+  ],
+  "id": "cbac9ba6-6dd2-4804-8af9-696bfe70958e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x07bf5F95851Ef2b2996F192569e406A6FeA2a95a",
+    "research": null,
+    "website": "https://sealchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07bf5f95851ef2b2996f192569e406a6fea2a95a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SEALToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

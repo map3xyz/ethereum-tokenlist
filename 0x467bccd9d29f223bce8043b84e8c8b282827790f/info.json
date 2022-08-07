@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Telcoin (TEL) is an Ethereum-based decentralized crypto established.",
+      "verified": true
+    }
+  ],
+  "id": "db31d6c0-7410-4ce5-875a-5cdee5aa55b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+    "research": null,
+    "website": "http://www.telco.in",
+    "github": "https://github.com/telcoin",
+    "twitter": "https://twitter.com/telcoin_team",
+    "blog": "https://medium.com/@telcoin",
+    "facebook": "https://facebook.com/telcoin/",
+    "telegram": "https://t.me/telcoincommunity",
+    "whitepaper": "https://telco.in/docs/whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/telcoin/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x467bccd9d29f223bce8043b84e8c8b282827790f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

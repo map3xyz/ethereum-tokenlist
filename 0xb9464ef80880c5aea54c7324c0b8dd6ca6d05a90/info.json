@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sherlock is a decentralized security service offering dapp launchpad, liquidity and team token escrow, and dapp incubator.",
+      "verified": true
+    }
+  ],
+  "id": "44edb02a-3861-43d2-9acd-7e6aa96194b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90",
+    "research": "https://etherscan.io/address/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90",
+    "website": "https://sherlocksecurity.io",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "whitepaper": "https://sherlocksecurity.io/SherlockWhitepaperV1.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LOCK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

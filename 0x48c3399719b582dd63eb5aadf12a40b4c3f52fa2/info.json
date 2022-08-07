@@ -1,0 +1,50 @@
+{
+  "active": true,
+  "address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SWISE is the StakeWise governance token.",
+      "verified": true
+    }
+  ],
+  "id": "b2e630b0-5880-4056-a7c8-ad970e5c9742",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+    "research": null,
+    "website": "https://stakewise.io",
+    "twitter": "https://twitter.com/stakewise_io",
+    "github": "https://github.com/stakewise",
+    "telegram": "https://t.me/stakewise_io",
+    "telegramNews": "https://t.me/stakewise_io",
+    "blog": "https://stakewise.medium.com/",
+    "docs": "https://docs.stakewise.io/",
+    "forum": "https://forum.stakewise.io/",
+    "discord": "https://discord.com/invite/8Zf7tKyXeZ",
+    "reddit": "https://reddit.com/r/stakewise",
+    "medium": "https://stakewise.medium.com/",
+    "youtube": "https://youtube.com/channel/UCQ2cX28XNW-S-66quNYxzRA",
+    "coingecko": "https://coingecko.com/en/coins/stakewise",
+    "sourceCode": "https://github.com/stakewise/contracts/blob/master/contracts/tokens/StakeWiseToken.sol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stakewise/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StakeWise SWISE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWISE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

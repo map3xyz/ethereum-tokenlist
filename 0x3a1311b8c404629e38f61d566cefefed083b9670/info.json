@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PINU is a custom and unique NFT Marketplace DAPP, which will allow users to mint, sell, buy and trade their NFT's. In addition to the gaming platform, where they will be able to trade / play with their cards, they'll be able to show them to other users.",
+      "verified": true
+    }
+  ],
+  "id": "b236e06f-8137-4933-9e66-a7d68c1b8f4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3a1311B8C404629E38f61D566cefEFed083B9670",
+    "research": null,
+    "website": "https://www.piccoloinu.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/piccolo-inu/",
+    "coingecko": "https://coingecko.com/en/coins/piccolo-inu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a1311b8c404629e38f61d566cefefed083b9670/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Piccolo Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PINU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

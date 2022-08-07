@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x171664573e3969874DBa31c35082151Ea4f181F3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Ciaone Token allows you to access to many services and benefits offered by the Ciao.one Association. Earn some CIAO participating and enjoy the freedom to really own your Italian style experiences and adventures.",
+      "verified": true
+    }
+  ],
+  "id": "97fc5062-45b2-4de3-a8e2-dd0600fc5acc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x171664573e3969874DBa31c35082151Ea4f181F3",
+    "research": null,
+    "website": "https://ciao.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x171664573e3969874dba31c35082151ea4f181f3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ciaone Token (Ciao.one)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIAO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

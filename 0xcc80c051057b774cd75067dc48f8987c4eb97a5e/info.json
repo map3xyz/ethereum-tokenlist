@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nectar serves as the native utility and governance token of decentralised exchange DeversiFi.",
+      "verified": true
+    }
+  ],
+  "id": "047a879c-be0c-4874-8763-9d30681ea4b6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+    "research": null,
+    "website": "https://nectar.community"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcc80c051057b774cd75067dc48f8987c4eb97a5e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nectar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

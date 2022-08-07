@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "a8802d1b-8720-44f6-8071-15057c1b06a8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
+    "research": null,
+    "website": "https://polygon.technology/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c9f4c87d911613fe9ca58b579f737911aad2d43/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MATIC (Portal from Polygon)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MATICpo",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

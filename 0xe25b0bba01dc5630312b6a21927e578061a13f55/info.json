@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ShipChain (SHIP) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b254aa2c-4891-4cc1-b3cd-b8f4d1391c74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
+    "research": null,
+    "website": "https://www.shipchain.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe25b0bba01dc5630312b6a21927e578061a13f55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShipChain SHIP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6b4c6bd0-5cf5-4550-8b2e-a70fd58a723d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf8d8f1242b95dfbae532af6b0f4463905415cc1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Edex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

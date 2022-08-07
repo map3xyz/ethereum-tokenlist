@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We are a community run crypto currency that thrives on your involvement. We look forward to talking with you and having you join us on this adventure.",
+      "verified": true
+    }
+  ],
+  "id": "4c1bc5a3-6394-4a17-a1e4-5a5eef558ada",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x916c5de09cf63f6602d1e1793fb41f6437814a62",
+    "research": null,
+    "website": "https://jacytoken.io",
+    "twitter": "https://twitter.com/JacyToken",
+    "telegram": "https://t.me/JACYWAYA",
+    "reddit": "https://reddit.com/r/JacyToken/",
+    "youtube": "https://youtube.com/channel/UCpD42f4Z29c4KD6gUgfJt0A",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/jacy/",
+    "coingecko": "https://coingecko.com/en/coins/jacy",
+    "whitepaper": "https://jacytoken.io/Jacy-Token-WP.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x916c5de09cf63f6602d1e1793fb41f6437814a62/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "JACY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JACY",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

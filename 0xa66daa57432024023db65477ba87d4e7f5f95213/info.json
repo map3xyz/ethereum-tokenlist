@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa66Daa57432024023DB65477BA87D4E7F5f95213",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Huobi Pool Token (HPT) is an ecological sub-token based on Huobi Token (HT).",
+      "verified": true
+    }
+  ],
+  "id": "08c661b3-d9dd-4115-a8a0-032de9c1e7e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa66Daa57432024023DB65477BA87D4E7F5f95213",
+    "research": null,
+    "website": "https://huobipool.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa66daa57432024023db65477ba87d4e7f5f95213/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Huobi Pool Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

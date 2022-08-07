@@ -1,0 +1,42 @@
+{
+  "active": false,
+  "address": "0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gather is a platform that allows publishers to monetize without ads and provides businesses & developers access to cheap and reliable processing power.",
+      "verified": true
+    }
+  ],
+  "id": "0a1581ad-fa47-42d3-a1e7-4b472a4e2bcc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+    "research": null,
+    "website": "https://gather.network",
+    "twitter": "https://twitter.com/Gather_Network",
+    "reddit": "https://reddit.com/r/GatherNetwork",
+    "medium": "https://medium.com/@GatherNetwork",
+    "whitepaper": "https://gather.network/whitepaper.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gather",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTH",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

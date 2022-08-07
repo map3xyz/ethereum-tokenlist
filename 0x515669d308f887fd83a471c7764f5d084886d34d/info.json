@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x515669d308f887Fd83a471C7764F5d084886D34D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MUXE The Innovative Platform For all your needs. MUXE is the innovative platform that uses Blockchain technology to allow users to LIST, SEARCH, SECURE and SETTLE all your needs.",
+      "verified": true
+    }
+  ],
+  "id": "682c3b84-2b05-4d11-9984-f6ee42af54ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x515669d308f887Fd83a471C7764F5d084886D34D",
+    "research": null,
+    "website": "https://www.muxe.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x515669d308f887fd83a471c7764f5d084886d34d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MUXE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUXE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "POW digital asset trading platform.",
+      "verified": true
+    }
+  ],
+  "id": "831c71bb-679f-4676-8134-4e50aca740e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E",
+    "research": null,
+    "website": "https://www.citex.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CitexToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x00380143129167395e8B4F0a35EDc1bC60E7cE65",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "f26919ec-dbcd-4e54-9536-68a326d1ce8f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00380143129167395e8B4F0a35EDc1bC60E7cE65",
+    "research": null,
+    "website": "https://www.ciorigin.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00380143129167395e8b4f0a35edc1bc60e7ce65/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CIorigin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NEEO Messenger immediately translates text messages from more than a hundred foreign languages into your native language. NEEO Play application is a gaming platform where you can earn NEEO tokens. Inside you can find seven different exciting games designed especially for the project NEEO Play.",
+      "verified": true
+    }
+  ],
+  "id": "a17cea30-0be5-461f-9078-508d78b136dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d",
+    "research": null,
+    "website": "http://neeoico.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8446236fa95b9b5f9fd0f8e7df1a944823c683d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NEEO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEEO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

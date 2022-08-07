@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ODEM, short for 'On-Demand Education Marketplace', is a blockchain-based distributed network that allows university students to interact with their professors and academic partners without intermediaries.",
+      "verified": true
+    }
+  ],
+  "id": "c11d2834-a89f-4af6-b497-1aa0d9522bd6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
+    "research": null,
+    "website": "https://odem.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ODEM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODEM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

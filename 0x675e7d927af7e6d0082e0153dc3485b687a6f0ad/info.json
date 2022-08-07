@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Every time you stake and unstake LP tokens, the contract will automatically harvest CREED rewards for you",
+      "verified": true
+    }
+  ],
+  "id": "bf8f63e3-0e1d-411e-8082-9c0d4afa61aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+    "research": null,
+    "website": "https://creed.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x675e7d927af7e6d0082e0153dc3485b687a6f0ad/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CREED",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

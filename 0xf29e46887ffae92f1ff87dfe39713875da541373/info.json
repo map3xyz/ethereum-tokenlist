@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UNC was the initial token of the UniCrypt platform. Please swap it to UNCX (the new token) on the website.",
+      "verified": true
+    }
+  ],
+  "id": "fd6bb9d1-61ab-4f67-b4de-1ad6a992dd7b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+    "research": null,
+    "website": "https://unicrypt.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf29e46887ffae92f1ff87dfe39713875da541373/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

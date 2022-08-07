@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "09e12ce8-e257-4f14-9c1e-9b3cc6f8a33e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+    "research": null,
+    "website": "https://mytoken.io/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

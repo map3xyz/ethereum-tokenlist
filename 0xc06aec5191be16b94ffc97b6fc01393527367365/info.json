@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d9c721a7-413c-435c-8867-9123266265ce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+    "research": null,
+    "website": "https://www.tokensets.com/set/btceth5050"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc06aec5191be16b94ffc97b6fc01393527367365/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTC ETH Equal Weight Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCETH5050",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xC275865a6Cce78398e94CB2Af29fa0d787b7F7Eb",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "45ee2f43-1c49-48c6-b937-863c9fbe2060",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC275865a6Cce78398e94CB2Af29fa0d787b7F7Eb",
+    "research": null,
+    "website": "https://rise-coin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc275865a6cce78398e94cb2af29fa0d787b7f7eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RiseCoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

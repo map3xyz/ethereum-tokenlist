@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "mToken wrapper for USDK",
+      "verified": true
+    }
+  ],
+  "id": "53f2612a-90e1-48cf-baaf-ebae581fa0c8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
+    "research": null,
+    "website": "https://defimoneymarket.com",
+    "twitter": "https://twitter.com/DMMDAO",
+    "reddit": "https://reddit.com/r/DMMDAO",
+    "medium": "https://medium.com/dmm-dao"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd1670cb7c01987a8ddd6976c4894463460eeb8a2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DMM: USDK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSDK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "87906829-f8b0-4735-bef4-921e76009bad",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+    "research": null,
+    "website": "https://curadai.curadao.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a4b2d4b48a63088e0897a3f147ba37f81a27722/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CuraDAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CURA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

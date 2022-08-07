@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Minereum Official",
+      "verified": true
+    }
+  ],
+  "id": "f6417277-d09f-4a72-ab1e-bd8dea74fed0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
+    "research": null,
+    "website": "https://minereum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x426ca1ea2406c07d75db9585f22781c096e3d0e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Minereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

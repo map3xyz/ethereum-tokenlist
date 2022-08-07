@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "sakeswap DAO token",
+      "verified": true
+    }
+  ],
+  "id": "ffa8ae4a-30b5-490b-8f0b-a94144fa663b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+    "research": null,
+    "website": "https://sakeswap.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x066798d9ef0833ccc719076dab77199ecbd178b0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SAKE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAKE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

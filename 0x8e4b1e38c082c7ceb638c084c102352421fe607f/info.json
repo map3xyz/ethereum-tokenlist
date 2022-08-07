@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8E4B1E38c082C7cEb638c084C102352421FE607F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FEG Wrapped SHIB",
+      "verified": true
+    }
+  ],
+  "id": "6e7edfdf-a212-47fc-9a4d-59205f1e118e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8e4b1e38c082c7ceb638c084c102352421fe607f",
+    "research": null,
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e4b1e38c082c7ceb638c084c102352421fe607f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FEG Wrapped SHIB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fSHIB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

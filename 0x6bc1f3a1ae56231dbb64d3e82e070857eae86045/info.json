@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b665eff7-ff4c-41bb-b1e3-87bbc38a6744",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
+    "research": null,
+    "website": "http://xensor.cc/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6bc1f3a1ae56231dbb64d3e82e070857eae86045/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "xensor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

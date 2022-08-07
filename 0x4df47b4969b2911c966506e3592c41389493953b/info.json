@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4DF47B4969B2911C966506E3592c41389493953b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c976fc89-a46c-4d4f-8cdb-64db5189e490",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4DF47B4969B2911C966506E3592c41389493953b",
+    "research": null,
+    "website": "https://fundrequest.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4df47b4969b2911c966506e3592c41389493953b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FundRequest",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

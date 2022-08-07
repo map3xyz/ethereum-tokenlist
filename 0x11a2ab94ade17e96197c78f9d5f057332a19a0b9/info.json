@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Orbicular is a cryptocurrency with a supply that cyclically increases and decreases through rebases.",
+      "verified": true
+    }
+  ],
+  "id": "50891888-c1c9-4ff2-a195-464f01e4b2fd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+    "research": null,
+    "website": "https://hypeforhotdogs.com/orbicular"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11a2ab94ade17e96197c78f9d5f057332a19a0b9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Orbicular",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORBI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

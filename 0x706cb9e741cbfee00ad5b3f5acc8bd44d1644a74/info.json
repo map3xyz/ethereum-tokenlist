@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Y FOX is an open-source Decentralized protocol which enables you to easily access FOX DUAL STAKING, FARMING, GOVERNANCE VOTE, LENDING and BORROWING DeFi Services from a simple dashboard.",
+      "verified": true
+    }
+  ],
+  "id": "b8828a0b-7393-4d79-8c11-be301489c7c2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
+    "research": null,
+    "website": "https://yfox.finance",
+    "twitter": "https://twitter.com/yfoxfinance",
+    "telegram": "https://t.me/YFOX_Announcement"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFOX.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFOX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

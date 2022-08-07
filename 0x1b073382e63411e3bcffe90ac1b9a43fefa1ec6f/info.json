@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BEST offers you a wide range of rewards, perks and benefits, applicable to the whole growing Bitpanda ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "5356e376-77a6-44db-942c-7bf0a97c5f64",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
+    "research": null,
+    "website": "https://www.bitpanda.com/best"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitpanda Ecosystem Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

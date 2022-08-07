@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x70debcDAB2Ef20bE3d1dBFf6a845E9cCb6E46930",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BIKI is a token issued by the BiKi trading platform, and represents the rights and interests of the exchange.",
+      "verified": true
+    }
+  ],
+  "id": "e0863436-501c-474c-addd-7dafcbbd08ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x70debcDAB2Ef20bE3d1dBFf6a845E9cCb6E46930",
+    "research": null,
+    "website": "https://www.biki.cc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BIKICOIN TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIKI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x8A732BC91c33c167F868E0af7e6f31e0776d0f71",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Litecoin Token (LTC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "5416a036-be61-4366-843b-8ce47978bbb6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8A732BC91c33c167F868E0af7e6f31e0776d0f71",
+    "research": null,
+    "website": "https://ltk.community"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a732bc91c33c167f868e0af7e6f31e0776d0f71/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Litecoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

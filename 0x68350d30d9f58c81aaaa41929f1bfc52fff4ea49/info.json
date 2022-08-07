@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RAPIDZ - reimagines the digital finance & payment experience and propels the crypto ecosystem to a broader audience.",
+      "verified": true
+    }
+  ],
+  "id": "a46fb31a-9555-4e2a-b517-52740806ef05",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+    "research": null,
+    "website": "https://www.rapidz.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rapidz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPZX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x73e4A6B80F8De0aA3f95331c5a93e7f8431B6d95",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FM is a basic setting for building a commercial blockchain. Both companies and individuals can use FM to realize payment, which is easy to operate. FM is a transaction medium between merchants, merchants and individuals, and individuals. FM as a digital currency will fully become a circulation demand and emerge..",
+      "verified": true
+    }
+  ],
+  "id": "8e50dc2b-24a8-4b66-b48c-2913a5c63f92",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x73e4A6B80F8De0aA3f95331c5a93e7f8431B6d95",
+    "research": null,
+    "website": "https://famacoins.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73e4a6b80f8de0aa3f95331c5a93e7f8431b6d95/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fama",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

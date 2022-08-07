@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VOLT is a platform that allows centralized platforms such as Uber, to be developed in a decentralized manner and enables direct delivery through P2P.",
+      "verified": true
+    }
+  ],
+  "id": "5daf2035-e6c7-498e-b18b-5ff297bb7c6d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04",
+    "research": null,
+    "website": "https://volttech.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc44ec51c80e35a87bc2140299b1636ec83dfb04/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VOLT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

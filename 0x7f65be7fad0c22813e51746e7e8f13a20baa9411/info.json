@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x7f65BE7FAd0c22813e51746E7e8f13a20bAa9411",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "REBITCOIN",
+      "verified": true
+    }
+  ],
+  "id": "5a647364-45d0-42d7-ac53-8de27b7f6be9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7f65BE7FAd0c22813e51746E7e8f13a20bAa9411",
+    "research": null,
+    "website": "https://rebitcoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f65be7fad0c22813e51746e7e8f13a20baa9411/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "REBITCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "carVertical is building a decentralized vehicle registry.",
+      "verified": true
+    }
+  ],
+  "id": "a6f7b25e-116a-4ed7-9635-7731a6f56b91",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
+    "research": null,
+    "website": "https://www.carvertical.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50bc2ecc0bfdf5666640048038c1aba7b7525683/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "carVertical",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

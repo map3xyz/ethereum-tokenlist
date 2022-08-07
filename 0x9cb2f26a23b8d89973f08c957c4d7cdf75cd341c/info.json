@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "d4d200c6-8adc-4bcd-8869-8632f108e587",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+    "research": null,
+    "website": "https://digitalrand.co.za/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Digital Rand",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DZAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

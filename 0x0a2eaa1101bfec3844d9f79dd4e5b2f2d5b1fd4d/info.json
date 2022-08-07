@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Charity token is created for donation purposes only. Charity token is a simple ERC-20 token designed for contributions to your favorite charities and disaster relief services.",
+      "verified": true
+    }
+  ],
+  "id": "0395ef89-f478-4385-99fa-10e400e5186e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D",
+    "research": null,
+    "website": "https://charitytokenonline.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a2eaa1101bfec3844d9f79dd4e5b2f2d5b1fd4d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Charity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

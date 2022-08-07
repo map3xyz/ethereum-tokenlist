@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x56b6431F45d08eED55f34371386326c739eACbcC",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e1cae592-bad0-4c5b-8a6c-27d2c24f7d99",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56b6431F45d08eED55f34371386326c739eACbcC",
+    "research": null,
+    "website": "https://ethermeta.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56b6431f45d08eed55f34371386326c739eacbcc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Meta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

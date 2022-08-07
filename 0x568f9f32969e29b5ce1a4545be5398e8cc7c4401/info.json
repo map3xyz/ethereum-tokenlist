@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x568F9F32969E29B5cE1a4545bE5398e8Cc7C4401",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "f5f73842-64a2-4e3b-9d91-bf621adfba00",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x568F9F32969E29B5cE1a4545bE5398e8Cc7C4401",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x568F9F32969E29B5cE1a4545bE5398e8Cc7C4401/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FiveBalance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FBN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

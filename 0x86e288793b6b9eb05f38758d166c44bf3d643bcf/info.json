@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x86E288793B6B9eb05f38758D166c44bF3d643Bcf",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Collection of digital currency services Pay, exchange, collect, send, earn and receive money. Superfast and easy",
+      "verified": true
+    }
+  ],
+  "id": "3d2933e4-434f-47b3-89e1-d2fa547c4277",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x86E288793B6B9eb05f38758D166c44bF3d643Bcf",
+    "research": null,
+    "website": "https://creditdefi.org/",
+    "github": "https://github.com/Creditdefi/CRD",
+    "twitter": "https://twitter.com/credit_defi",
+    "facebook": "https://facebook.com/CreditDefi-100459715148303",
+    "medium": "https://medium.com/@Creditdefi6",
+    "whitepaper": "https://office.creditdefi.org/docs/crd-whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86e288793b6b9eb05f38758d166c44bf3d643bcf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CreditDefi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

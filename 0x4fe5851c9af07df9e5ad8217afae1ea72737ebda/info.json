@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OpenPredict is the first DeFi protocol to turn live predictions into liquid assets.",
+      "verified": true
+    }
+  ],
+  "id": "a9827ccc-87bf-4654-a423-06819d8970c5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+    "research": "https://daomaker.com/sho/openpredict",
+    "website": "https://openpredict.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4fe5851c9af07df9e5ad8217afae1ea72737ebda/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OpenPredict",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

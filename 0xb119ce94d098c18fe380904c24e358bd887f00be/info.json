@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB119Ce94D098C18fe380904c24e358bd887F00BE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MACH aims to create a P2P asset trading platform. Users will be able to trade their assets such as online/offline goods and crypto-currencies. It is reportedly supported by an escrow system and AI-Chatbot.",
+      "verified": true
+    }
+  ],
+  "id": "c9fdc758-09dc-463e-9e9a-25cdffac700d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB119Ce94D098C18fe380904c24e358bd887F00BE",
+    "research": null,
+    "website": "https://mymach.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb119ce94d098c18fe380904c24e358bd887f00be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MACH Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MACH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

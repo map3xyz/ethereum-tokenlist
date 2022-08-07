@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ECOSCU (ECU) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "8c00d56a-eb71-4389-bcf1-136f1ebbd024",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5",
+    "research": null,
+    "website": "https://www.ecosc.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fc9b6354e839ab1c8b31f4afa53607092b8c2e5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ECOSCU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

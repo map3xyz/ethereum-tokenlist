@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x058Ef0Ba85E053e55d357C8A95BC6Ea7458Def8a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TradeKax is a platform that encompasses all features of a digital economic system based on cryptocurrency.TheTradeKax platform is made up of core elements, such as a new wallet and a cryptocurrency exchange.",
+      "verified": true
+    }
+  ],
+  "id": "2521dff7-e431-44ba-9bdc-f9f68f602db0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x058Ef0Ba85E053e55d357C8A95BC6Ea7458Def8a",
+    "research": null,
+    "website": "https://www.tradekax.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x058ef0ba85e053e55d357c8a95bc6ea7458def8a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TradeKax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

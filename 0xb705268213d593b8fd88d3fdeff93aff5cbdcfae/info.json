@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The IDEX token is the primary token of IDEX, enabling users to directly contribute to and benefit from the project.",
+      "verified": true
+    }
+  ],
+  "id": "f64a6bac-b912-42a7-a0bf-04e0c09a9631",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+    "research": "https://research.binance.com/en/projects/idex",
+    "website": "https://idex.market"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

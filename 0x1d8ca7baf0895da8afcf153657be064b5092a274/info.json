@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "df5de248-a6e8-48cc-8a9d-0b5e4ad4c21d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+    "research": null,
+    "website": "https://ethlyte.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d8ca7baf0895da8afcf153657be064b5092a274/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EthLyteToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EtLyteT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

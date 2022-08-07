@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Vesta Is The Next Generation Liquidity Generator.",
+      "verified": true
+    }
+  ],
+  "id": "0a026eba-f04f-4f5f-a398-4a59ba83840e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+    "research": null,
+    "website": "https://vtp.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3aef8e803bd9be47e69b9f36487748d30d940b96/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vesta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vesta",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

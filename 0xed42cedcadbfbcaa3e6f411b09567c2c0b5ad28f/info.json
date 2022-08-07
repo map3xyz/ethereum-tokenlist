@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeD42CeDcADbFbCAA3E6F411B09567C2C0b5AD28F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "9336 Patton Street is a single-family home located in the Franklin Park neighborhood of the greater Detroit area. Patton is a mid-century 3 bed, 1 bath, single floor property.",
+      "verified": true
+    }
+  ],
+  "id": "eaedf9a8-a517-4e6f-9c18-c77d016eb76e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeD42CeDcADbFbCAA3E6F411B09567C2C0b5AD28F",
+    "research": null,
+    "website": "https://realt.co/product/9336-patton-st-detroit-mi-48228/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed42cedcadbfbcaa3e6f411b09567c2c0b5ad28f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RealToken 9336 Patton Street Detroit MI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REALTOKEN-9336-PATTON-ST-DETROIT-MI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

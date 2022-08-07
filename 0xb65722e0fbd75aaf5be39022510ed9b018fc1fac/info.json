@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nifty Hearts is the first NFT collection of original artworks energized with artist social tokens on Charged Particles.",
+      "verified": true
+    }
+  ],
+  "id": "089dfbb1-d445-41b8-9e30-9e1248828bf3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC",
+    "research": null,
+    "website": "https://app.tryroll.com/token/HRTS"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb65722e0fbd75aaf5be39022510ed9b018fc1fac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hearts",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HRTS",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

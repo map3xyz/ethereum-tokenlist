@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.",
+      "verified": true
+    }
+  ],
+  "id": "953eba1e-3210-4fff-b12f-930fd1231d52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "research": null,
+    "website": "https://yieldguild.io/",
+    "whitepaper": "https://yieldguild.io/YGG-Whitepaper-English.pdf",
+    "medium": "https://medium.com/yield-guild-games",
+    "youtube": "https://youtube.com/yieldguildgames",
+    "twitter": "https://twitter.com/YieldGuild",
+    "facebook": "https://facebook.com/yieldguildgames/",
+    "telegram": "https://t.me/yieldguildgames",
+    "discord": "https://discord.com/invite/ygg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yield-guild-games/",
+    "coingecko": "https://coingecko.com/en/coins/yield-guild-games"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25f8087ead173b73d6e8b84329989a8eea16cf73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yield Guild Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YGG",
+  "tags": [
+    "governance",
+    "gamefi",
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

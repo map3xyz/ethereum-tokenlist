@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE17f017475a709De58E976081eB916081ff4c9d5",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RMPL is a decentralized cryptocurrency with an elastic supply model. ",
+      "verified": true
+    }
+  ],
+  "id": "05c41dea-a9a2-4327-b9ab-1d70be78a662",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE17f017475a709De58E976081eB916081ff4c9d5",
+    "research": null,
+    "website": "https://www.rmpl.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe17f017475a709de58e976081eb916081ff4c9d5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RMPL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RMPL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

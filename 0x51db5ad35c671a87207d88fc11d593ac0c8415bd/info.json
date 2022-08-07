@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "From anywhere in the world, secure and transparent contributions can be made in ventures and projects selected by our technical network that promote the enhancement and development of local communities",
+      "verified": true
+    }
+  ],
+  "id": "3cbb409a-2536-4c87-b0d4-ef4f7d6f05e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+    "research": null,
+    "website": "https://moedaseeds.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51db5ad35c671a87207d88fc11d593ac0c8415bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Moeda Loyalty Points",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

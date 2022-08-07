@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first community-owned, Metaverse casino",
+      "verified": true
+    }
+  ],
+  "id": "009462d6-978c-4b4d-b468-4a5c9e2c49b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+    "research": null,
+    "website": "https://decentral.games"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee06a81a695750e71a662b51066f2c74cf4478a0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$DG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

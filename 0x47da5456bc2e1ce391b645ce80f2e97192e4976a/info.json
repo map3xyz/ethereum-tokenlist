@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PL^Gnet is a Multi Chain Synthetic Assets Network. PL^Gnet enables asset custodians to leverage any asset from any network in its synthetic form in DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "9467d6fd-e8a1-482a-942f-732733c91e48",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
+    "research": null,
+    "website": "https://plugdefi.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47da5456bc2e1ce391b645ce80f2e97192e4976a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pl^g Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLUG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

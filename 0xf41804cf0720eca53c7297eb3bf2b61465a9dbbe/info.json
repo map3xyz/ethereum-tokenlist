@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xF41804cf0720eca53c7297Eb3BF2B61465a9DBbe",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BROCoin is a friend token.",
+      "verified": true
+    }
+  ],
+  "id": "d0da6e9c-0e32-47ad-a62d-726727f00fa2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF41804cf0720eca53c7297Eb3BF2B61465a9DBbe",
+    "research": null,
+    "website": "-"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf41804cf0720eca53c7297eb3bf2b61465a9dbbe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BRO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

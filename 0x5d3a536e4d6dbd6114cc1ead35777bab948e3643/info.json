@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Compound is an open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.",
+      "verified": true
+    }
+  ],
+  "id": "90cae882-bf53-4e9b-90dd-ebe1c077020c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound Dai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

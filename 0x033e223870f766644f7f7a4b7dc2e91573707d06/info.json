@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x033e223870f766644f7f7a4B7dc2E91573707d06",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A DeFi Investment platform which will combine the investment tools of crypto and traditional stocks. Zin will be a 100% deflationary token. Zin tokens will have a burn mechanism.",
+      "verified": true
+    }
+  ],
+  "id": "fa115d94-5a56-4f31-955d-5c3e7597ef31",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x033e223870f766644f7f7a4B7dc2E91573707d06",
+    "research": null,
+    "website": "https://zin.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x033e223870f766644f7f7a4b7dc2e91573707d06/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZinFinance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Zin",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

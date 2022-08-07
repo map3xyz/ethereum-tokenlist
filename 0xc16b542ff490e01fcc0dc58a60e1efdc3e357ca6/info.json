@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Commercial Bitcoin Mining.",
+      "verified": true
+    }
+  ],
+  "id": "4a87dc3c-5790-4db6-8c4a-e1956c058c7a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
+    "research": null,
+    "website": "https://icerockmining.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ICE ROCK MINING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROCK2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

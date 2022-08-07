@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A blockchain powered trading platform that integrates crypto assets from multiple exchanges.",
+      "verified": true
+    }
+  ],
+  "id": "58562540-da79-4abe-9ca4-c0be66d12c10",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
+    "research": null,
+    "website": "https://www.arbidex.uk.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ABX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

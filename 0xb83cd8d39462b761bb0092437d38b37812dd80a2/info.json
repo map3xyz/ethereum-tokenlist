@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GoldenRatio Token (GRT) project is an experiment which has no funding, to prove the importance of a quality community in a crypto related project.",
+      "verified": true
+    }
+  ],
+  "id": "b4fdc8c8-45d1-49ce-8ecd-e909bda76ba5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
+    "research": null,
+    "website": "https://goldenratiotoken.site/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb83cd8d39462b761bb0092437d38b37812dd80a2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoldenRatio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

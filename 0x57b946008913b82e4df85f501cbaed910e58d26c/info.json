@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0",
+      "verified": true
+    }
+  ],
+  "id": "826f7356-a40b-4b6d-8a92-38e0e8b03629",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x57b946008913b82e4df85f501cbaed910e58d26c",
+    "research": null,
+    "website": "https://www.marlin.pro/",
+    "twitter": "https://twitter.com/marlinprotocol",
+    "coingecko": "https://coingecko.com/en/coins/marlin/",
+    "telegram": "https://t.me/marlinprotocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/marlin/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57b946008913b82e4df85f501cbaed910e58d26c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Marlin POND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

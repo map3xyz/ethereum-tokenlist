@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAbC430136A4dE71c9998242de8c1b4B97D2b9045",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VEROS Fundraising Platform is a optimized platform aimed at fundraising for direct charity, eco-high-tech projects and revolutionary innovation.",
+      "verified": true
+    }
+  ],
+  "id": "ea8764ff-64d2-4ae3-97f6-4569ff14e571",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAbC430136A4dE71c9998242de8c1b4B97D2b9045",
+    "research": null,
+    "website": "https://vedh.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xabc430136a4de71c9998242de8c1b4b97d2b9045/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Veros",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VRS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

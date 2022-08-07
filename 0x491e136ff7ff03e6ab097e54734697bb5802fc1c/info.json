@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Trade crypto on DEXs and CEXs with a full suite of trading tools previously only available in CeFi",
+      "verified": true
+    }
+  ],
+  "id": "c5f896b9-b079-4aa0-b1ec-03e508cabcd5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+    "research": null,
+    "website": "https://kattana.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x491e136ff7ff03e6ab097e54734697bb5802fc1c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kattana",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KTN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9F599410D207f3D2828a8712e5e543AC2E040382",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tapcoin (TTT) is a revolutionary token that decentralizes the gaming industry by providing gamers and developers with in-game virtual currencies.",
+      "verified": true
+    }
+  ],
+  "id": "4498907c-df6e-4009-a820-22d24cc7b8e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9F599410D207f3D2828a8712e5e543AC2E040382",
+    "research": null,
+    "website": "https://tapproject.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f599410d207f3d2828a8712e5e543ac2e040382/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tapcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

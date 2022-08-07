@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token to for NFT dApp",
+      "verified": true
+    }
+  ],
+  "id": "870829d3-0fa6-4b2d-9940-c6d0a849b9b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
+    "research": null,
+    "website": "https://sergsave.link"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sergey Save Link",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

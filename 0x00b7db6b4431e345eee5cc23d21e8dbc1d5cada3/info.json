@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cybertronchain is an oracle of connecting payment system with the blockchain network for kiosk and payment terminals. It bridging kiosks and payment terminals with cryptocurrencies such Ethereum, bitcoin, ripple, litecoin, and many more others",
+      "verified": true
+    }
+  ],
+  "id": "ab0df9d5-007f-4aea-8edf-aaad6cf61948",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3",
+    "research": null,
+    "website": "https://cybertronchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CyberTronChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

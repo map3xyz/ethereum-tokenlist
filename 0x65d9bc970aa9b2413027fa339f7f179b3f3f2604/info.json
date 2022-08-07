@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x65d9bC970aA9B2413027fA339F7f179B3F3f2604",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KUN is the governance token of the QIAN stablecoin protocol. It is used to vote on QIAN governance and to maintain QUSD price stability.",
+      "verified": true
+    }
+  ],
+  "id": "d6fe8cad-8490-483d-b2cd-d13a074a4f8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x65d9bC970aA9B2413027fA339F7f179B3F3f2604",
+    "research": null,
+    "website": "https://qian.finance/mining",
+    "whitepaper": "https://qian.finance/qian_whitepaper_zh.pdf",
+    "github": "https://github.com/QIAN-Protocol/QIAN"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x65d9bc970aa9b2413027fa339f7f179b3f3f2604/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KUN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x6C16119B20fa52600230F074b349dA3cb861a7e3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Alkemi Network is bridging CeFi to DeFi, building an institution-grade liquidity network for financial institutions and individuals to access professional DeFi and earn yields on their Ethereum-based digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "0e0ce49a-f8dc-4bc8-9872-f48062bdc8f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6C16119B20fa52600230F074b349dA3cb861a7e3",
+    "research": null,
+    "website": "https://alkemi.network",
+    "coingecko": "https://coingecko.com/en/coins/alkemi-network-dao-token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/alkemi-network-dao-token/",
+    "twitter": "https://twitter.com/AlkemiNetwork",
+    "telegram": "https://t.me/AlkemiNetwork",
+    "discord": "https://discord.com/invite/4pThZqCJrj",
+    "medium": "https://medium.com/alkemi",
+    "github": "https://github.com/AlkemiNetwork",
+    "docs": "https://docs.alkemi.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c16119b20fa52600230f074b349da3cb861a7e3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alkemi Network DAO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

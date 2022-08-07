@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "3X Short Tezos Token (XTZBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Tezos.",
+      "verified": true
+    }
+  ],
+  "id": "51515377-e5a0-487f-bdd5-9e67af680544",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d",
+    "research": null,
+    "website": "https://ftx.com/tokens/XTZBEAR"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc41d05287498dec58129560de6bd1b8d4e3ac1d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Short Tezos Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTZBEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

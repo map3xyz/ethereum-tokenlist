@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Jetcoin (JET) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "afe6f1ef-8afd-498e-bdcb-efded68a9a2d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+    "research": null,
+    "website": "http://www.jetcoininstitute.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8727c112c712c4a03371ac87a74dd6ab104af768/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jetcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

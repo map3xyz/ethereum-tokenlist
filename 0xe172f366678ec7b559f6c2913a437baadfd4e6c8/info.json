@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kauri token is main utility medium within British Asset Investment Ecosystem built, on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "64799350-bb6f-4914-a4dc-c3bec103bc9b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe172f366678ec7b559f6c2913a437baadfd4e6c8",
+    "research": null,
+    "website": "https://kauricrypto.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe172f366678ec7b559f6c2913a437baadfd4e6c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kauri",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

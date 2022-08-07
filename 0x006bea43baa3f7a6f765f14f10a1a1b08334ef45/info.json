@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a1e7fb1b-540e-4d6a-81c5-a8b0baedd973",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+    "research": null,
+    "website": "https://www.stox.com/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

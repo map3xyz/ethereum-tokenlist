@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GOM2 restructures the DeFi narrative to reward token holders. In addition, GOM2 tokens can be used to swap with other ERC-20 tokens.",
+      "verified": true
+    }
+  ],
+  "id": "84310f07-951f-4f34-93cf-e6ba5193163a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
+    "research": null,
+    "website": "https://animalgo.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoMoney2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOM2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

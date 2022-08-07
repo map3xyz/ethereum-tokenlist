@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Standard Crypto Fund QQQF is a tokenised exchange-tradable fund (ETF) with DAO implementation.",
+      "verified": true
+    }
+  ],
+  "id": "0de69143-cd7f-453b-91c1-8401348c9353",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4",
+    "research": null,
+    "website": "http://qqqfindex.com",
+    "github": "https://github.com/standardcryptofund",
+    "whitepaper": "https://qqqfindex.com/qqqf_whitepaper_v1.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22eeab2f980e8ed7824f8ea548c9595564a0f0e4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Standard Crypto Fund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QQQF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

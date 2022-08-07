@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Professional Karate Sports Organization.",
+      "verified": true
+    }
+  ],
+  "id": "9c36d7ae-6804-416f-a6ea-8b22db4bd740",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+    "research": null,
+    "website": "https://www.bouts.pro/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BoutsPro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOUTS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xd8950fDeaa10304B7A7Fd03a2FC66BC39f3c711a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3ff5a499-a88f-4fc2-9eab-454f98c12861",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd8950fDeaa10304B7A7Fd03a2FC66BC39f3c711a",
+    "research": null,
+    "website": "https://wystoken.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "wys Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WYS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8c142e96-d849-4e6f-af3e-62b3ee21fdf8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
+    "research": null,
+    "website": "https://goldx.dforce.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x355c665e101b9da58704a8fddb5feef210ef20c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dForce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLDx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

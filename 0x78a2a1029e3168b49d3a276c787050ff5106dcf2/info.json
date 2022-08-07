@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x78a2a1029E3168b49d3A276C787050fF5106dCF2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "2f73e361-533a-41e8-8d62-26d193c6559e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x78a2a1029E3168b49d3A276C787050fF5106dCF2",
+    "research": null,
+    "website": "https://www.ezoow.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78a2a1029e3168b49d3a276c787050ff5106dcf2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EZOOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EZW",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

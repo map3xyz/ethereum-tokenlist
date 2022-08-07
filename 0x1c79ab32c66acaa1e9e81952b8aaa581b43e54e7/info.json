@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TEAM is a utility token for TokenStars - the talent management platform, that connects sports & entertainment stars with fans and advertisers, bringing interaction between them to a new level.",
+      "verified": true
+    }
+  ],
+  "id": "2d43a784-3438-49cb-bf29-d8eeb6ae2310",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7",
+    "research": null,
+    "website": "https://tokenstars.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c79ab32c66acaa1e9e81952b8aaa581b43e54e7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TEAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEAM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

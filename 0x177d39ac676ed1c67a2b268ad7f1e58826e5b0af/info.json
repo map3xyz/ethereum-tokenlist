@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. Their goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized.",
+      "verified": true
+    }
+  ],
+  "id": "19ea003e-e401-4a7a-9943-d1da7fb299f1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
+    "research": null,
+    "website": "http://bloxstaking.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USD++ is a weighed allocation between the different representations of USD on Ethereum. USD, for DeFi, diversified.",
+      "verified": true
+    }
+  ],
+  "id": "f3714600-1771-48d3-a942-fba10b4fc05e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
+    "research": null,
+    "website": "https://usd.piedao.org",
+    "github": "https://github.com/pie-dao/pie-smart-pools",
+    "twitter": "https://twitter.com/PieDAO_DeFi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PieDAO USD++",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USD++",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC7ac23AA559e975548ac959e4D1c926830093554",
+  "color": null,
+  "decimals": 1,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stella's LIMO is an ethereum based Asset.",
+      "verified": true
+    }
+  ],
+  "id": "88344489-db85-4b91-acbf-79c428b31700",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC7ac23AA559e975548ac959e4D1c926830093554",
+    "research": null,
+    "website": "http://limo.free.bg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7ac23aa559e975548ac959e4d1c926830093554/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stella's LIMO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIMO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

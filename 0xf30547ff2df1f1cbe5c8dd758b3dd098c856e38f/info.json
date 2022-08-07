@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RAI Finance is a protocol designed to provide DeFi with a wider range of assets, a higher amount of liquidity, and a diverse set of financial use cases. When this feature set is combined with the cross-chain compatibility of the Polkadot ecosystem, it eliminates fragmentation across the existing DeFi ecosystem by bringing a complement of new assets and a higher amount of liquidity to decentralized finance.",
+      "verified": true
+    }
+  ],
+  "id": "b55e2210-1dd9-4ac1-890e-a7856ff46160",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f",
+    "research": null,
+    "website": "https://rai.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rai Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Rai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

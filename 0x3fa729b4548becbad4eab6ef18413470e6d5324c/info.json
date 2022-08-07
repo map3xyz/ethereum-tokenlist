@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mover -- financial service for a digital generation.",
+      "verified": true
+    }
+  ],
+  "id": "3c23c944-7bd8-43c5-8a8e-6b9e169956ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+    "research": null,
+    "website": "https://viamover.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3fa729b4548becbad4eab6ef18413470e6d5324c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mover",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

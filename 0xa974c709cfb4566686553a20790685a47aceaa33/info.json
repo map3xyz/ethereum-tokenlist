@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA974c709cFb4566686553a20790685A47acEAA33",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A TEE powered BFT-DAG network, Mixin connects all existing blockchains with unlimited throughput.",
+      "verified": true
+    }
+  ],
+  "id": "05cba0a5-9b5f-4a5a-8bd3-014b2a80d94e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA974c709cFb4566686553a20790685A47acEAA33",
+    "research": null,
+    "website": "https://mixin.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa974c709cfb4566686553a20790685a47aceaa33/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mixin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3C2cf21b9d4b543B93A9BcFe637F673d8BD944D8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OD is the Dsdaq ecosystem utility token",
+      "verified": true
+    }
+  ],
+  "id": "13c0b60a-03fd-4f93-aee6-cac716f50c76",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C2cf21b9d4b543B93A9BcFe637F673d8BD944D8",
+    "research": null,
+    "website": "https://dsdaq.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c2cf21b9d4b543b93a9bcfe637f673d8bd944d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Origin D",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

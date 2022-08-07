@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Axie Infinity Shards are Axie Infinity's governance token.",
+      "verified": true
+    }
+  ],
+  "id": "363e9562-baae-4e19-b79e-56313d426446",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf5d669627376ebd411e34b98f19c868c8aba5ada",
+    "research": "https://research.binance.com/en/projects/axie-infinity",
+    "website": "https://axieinfinity.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5d669627376ebd411e34b98f19c868c8aba5ada/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Axie Infinity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "megaBONK is a community defi project focused on creating & minting NFTs with a one-click NFT minter.",
+      "verified": true
+    }
+  ],
+  "id": "c5a499eb-5217-45de-bb5e-413bb4b7f5fe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf",
+    "research": "https://bonktoken.medium.com/",
+    "website": "https://www.megabonk.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "megaBONK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mBONK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

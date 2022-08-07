@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x64f64A26873ffbD11188679fB85FE00b6a2DdE27",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LOM is a collaborative and decentralised solution for the globalsourcing and problems.I",
+      "verified": true
+    }
+  ],
+  "id": "4a4124bd-4775-4bba-b596-f9fe0ead2784",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x64f64A26873ffbD11188679fB85FE00b6a2DdE27",
+    "research": null,
+    "website": "https://ltconlinemarkets.com/Token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64f64a26873ffbd11188679fb85fe00b6a2dde27/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ltconlinemarkets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

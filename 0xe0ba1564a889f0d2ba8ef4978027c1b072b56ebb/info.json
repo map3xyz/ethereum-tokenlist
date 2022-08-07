@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE0bA1564A889f0d2Ba8eF4978027C1b072b56EbB",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NFTs for watches, fashion & jewelry",
+      "verified": true
+    }
+  ],
+  "id": "1a8d028d-dbe6-4c52-9227-fd60b1148702",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE0bA1564A889f0d2Ba8eF4978027C1b072b56EbB",
+    "research": null,
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0ba1564a889f0d2ba8ef4978027c1b072b56ebb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VIDTC Luxury goods",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

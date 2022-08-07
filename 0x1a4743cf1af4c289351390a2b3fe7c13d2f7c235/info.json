@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Castweet is a live-streaming platform with blockchain incentives that rewards everyone. Both Viewers and Content creators can be rewarded for their participation on the platform.",
+      "verified": true
+    }
+  ],
+  "id": "357c4b37-d9ed-4298-a731-2719d6d198c9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235",
+    "research": null,
+    "website": "https://www.castweet.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CASTWEET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

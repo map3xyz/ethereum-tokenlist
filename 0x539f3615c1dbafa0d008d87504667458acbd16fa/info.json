@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FERA provides trading strategies for crypto traders and investors, focusing on low-cap projects. The full service includes a trading plan that covers funds management and short-term predictions.",
+      "verified": true
+    }
+  ],
+  "id": "383f523d-18b7-4e42-9b78-b5a20ec53b4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+    "research": null,
+    "website": "https://ferastrategies.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x539f3615c1dbafa0d008d87504667458acbd16fa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FERA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FERA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

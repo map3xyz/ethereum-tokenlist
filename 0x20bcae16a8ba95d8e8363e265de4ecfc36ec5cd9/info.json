@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HYBN is a blockchain wallet made to simplify sending and receiving digital payments with the world.",
+      "verified": true
+    }
+  ],
+  "id": "451efd14-f5b1-4caf-83f9-9322da8e5e7b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
+    "research": null,
+    "website": "https://www.heybitcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20bcae16a8ba95d8e8363e265de4ecfc36ec5cd9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HEY BITCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYBN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

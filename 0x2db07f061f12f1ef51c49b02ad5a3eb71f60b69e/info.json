@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This is the token sgt_slaughtermelon uses for bonus NFTs, discord access, hypervibes seeding, and other things yet to be devised. For all things sgt_slaughtermelon related, this is the $MELON for fun!",
+      "verified": true
+    }
+  ],
+  "id": "1534ee28-1c6f-4d00-96f3-469aecf475dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e",
+    "research": null,
+    "website": "https://sgtslaughtermelon.com/art/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2db07f061f12f1ef51c49b02ad5a3eb71f60b69e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Melon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MELON",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

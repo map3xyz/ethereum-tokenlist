@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZAP is a cryptocurrency and operates on the Ethereum platform. ",
+      "verified": true
+    }
+  ],
+  "id": "2a822677-b6c4-49c3-92d4-efead0cf10f1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+    "research": null,
+    "website": "https://zap.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZAP TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

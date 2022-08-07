@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x36D10c6800D569bb8C4fE284a05fFE3B752F972c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WeShow Token (WET) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "cda1513f-d1f2-4764-8438-0309c4488208",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x36D10c6800D569bb8C4fE284a05fFE3B752F972c",
+    "research": null,
+    "website": "https://www.we.show/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36d10c6800d569bb8c4fe284a05ffe3b752f972c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "We Show Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

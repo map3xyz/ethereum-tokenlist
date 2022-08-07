@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "One-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more.",
+      "verified": true
+    }
+  ],
+  "id": "168d2a11-1de2-44ba-8a50-e938a9b1f31d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F",
+    "research": null,
+    "website": "https://coss.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "COS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

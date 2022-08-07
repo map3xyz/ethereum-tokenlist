@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Micromoney is an Open Source Credit & Big Data Bureau.",
+      "verified": true
+    }
+  ],
+  "id": "4b135410-c612-417c-8b7c-d7c97601e371",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
+    "research": null,
+    "website": "https://www.micromoney.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b1f49491477e0fb46a29fef53f1ea320d13c349/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MicroMoney",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

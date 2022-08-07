@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror MSFT Token.",
+      "verified": true
+    }
+  ],
+  "id": "a8f1d1e3-f8a8-46ef-8911-53e57d062179",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41bbedd7286daab5910a1f15d12cbda839852bd7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mMSFT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mMSFT",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

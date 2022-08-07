@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC9a2C4868F0f96fAaa739b59934Dc9cB304112ec",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Binance GBP (BGBP) is a token issued by Binance with a price pegged at a 1:1 rate to British Pound (GBP).",
+      "verified": true
+    }
+  ],
+  "id": "b4da1cc1-da07-4466-bb66-1932f727a111",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC9a2C4868F0f96fAaa739b59934Dc9cB304112ec",
+    "research": "https://research.binance.com/en/projects/binance-gbp",
+    "website": "https://binance.com/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc9a2c4868f0f96faaa739b59934dc9cb304112ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance GBP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGBP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

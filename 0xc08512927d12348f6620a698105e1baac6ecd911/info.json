@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments",
+      "verified": true
+    }
+  ],
+  "id": "acbdcdf9-a85e-43d6-bc81-ac67be5c00bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911",
+    "research": null,
+    "website": "https://stablecoin.z.com/gyen/",
+    "github": "https://github.com/trust-zcom/",
+    "twitter": "https://twitter.com/GMOTrust",
+    "medium": "https://gmotrust.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gyen/",
+    "coingecko": "https://coingecko.com/coins/gyen",
+    "youtube": "https://youtube.com/channel/UCO7CNhdHYiJoBICgbo-yyiw/featured"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc08512927d12348f6620a698105e1baac6ecd911/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GYEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GYEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

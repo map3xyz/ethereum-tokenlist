@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8716Fc5Da009D3A208f0178b637a50F4ef42400F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UltrainGas (UGAS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "32172615-5cf6-496a-9554-7aa6d5c25b11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8716Fc5Da009D3A208f0178b637a50F4ef42400F",
+    "research": null,
+    "website": "https://www.ultrain.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8716fc5da009d3a208f0178b637a50f4ef42400f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UltrainGas",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UGAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DigixDAO (DGD) is building a decentralized autonomous organization (DAO) that specializes in the tokenization of physical assets.",
+      "verified": true
+    }
+  ],
+  "id": "5440ef75-21b9-48bc-a747-a57b60ff8e3b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+    "research": null,
+    "website": "https://digix.global/dgd"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DigixDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

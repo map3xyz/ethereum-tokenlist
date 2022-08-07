@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": " is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "4d3821b6-d972-4e95-9872-a86df10d0a4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+    "research": null,
+    "website": "http://www.goldfund.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x919d3a363776b1ceec9352610c82dfaf80edc32d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoldFund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFUN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

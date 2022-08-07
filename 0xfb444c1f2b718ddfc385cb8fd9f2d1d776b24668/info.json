@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ELAMACHAIN is an enterprise blockchain supplier. ELAMACHAIN provides a blockchain computing environment for businesses and provides blockchain services, chatbot services, and crypto-currency payment systems for retail and e-commerce.",
+      "verified": true
+    }
+  ],
+  "id": "695675d7-d675-4010-b47c-263466020279",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
+    "research": null,
+    "website": "https://www.elamachain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ELA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELAMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

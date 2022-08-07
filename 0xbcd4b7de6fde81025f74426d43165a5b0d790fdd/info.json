@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SpiderDAO is about protecting your internet privacy while browsing the internet. With our innovative Hardware DAO concept we introduce a dual-governance model which bundles together hardware and software tools with on-chain elements, providing a “whale-resistant” governance solution.",
+      "verified": true
+    }
+  ],
+  "id": "732f8bec-2be0-445f-b5f2-c1ca749100a1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+    "research": null,
+    "website": "https://spiderdao.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SpiderDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPDR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

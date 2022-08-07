@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The World's First 100% Decentralized Investment Fund (DIF)",
+      "verified": true
+    }
+  ],
+  "id": "ec32e233-55af-4ab0-b1e8-5ea997934c59",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+    "research": null,
+    "website": "https://civfund.com",
+    "github": "https://github.com/sator-settler/civ-token",
+    "twitter": "https://twitter.com/token_civ",
+    "telegram": "https://t.me/civsettlers",
+    "medium": "https://medium.com/@sator-settler",
+    "coingecko": "https://coingecko.com/en/coins/civilization/",
+    "facebook": "https://facebook.com/Civilization-CIV-140053864869064",
+    "reddit": "https://reddit.com/r/civfund/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/civilization/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37fe0f067fa808ffbdd12891c0858532cfe7361d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Civilization",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

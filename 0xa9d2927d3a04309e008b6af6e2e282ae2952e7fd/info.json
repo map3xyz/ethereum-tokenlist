@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zipper is a decentralized value transfer network that enables point to point Message communication, Transaction Transfer and Transaction Settlement across multiple blockchain networks among different financial institutions. Zipper enables and empowers rich and comprehensive blockchain-based services for global financial institutions.",
+      "verified": true
+    }
+  ],
+  "id": "5d4e63bb-c8d1-4604-902c-33a5236c4b8a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
+    "research": null,
+    "website": "http://zipper.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zipper",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZIP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

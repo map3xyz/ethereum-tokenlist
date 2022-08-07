@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Solve.Care is a healthcare IT company that builds blockchain platforms which the team believes may improve the way healthcare is delivered and managed.",
+      "verified": true
+    }
+  ],
+  "id": "a2aab89d-4369-49b1-9f30-61eb82087fbf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+    "research": null,
+    "website": "https://solve.care"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x446c9033e7516d820cc9a2ce2d0b7328b579406f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOLVE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOLVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

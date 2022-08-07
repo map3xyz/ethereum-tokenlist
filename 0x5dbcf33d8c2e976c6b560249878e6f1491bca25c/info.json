@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "yUSD makes DeFi simple by automatically maximizing yield and minimizing risk for our depositors. On the backend, the yCRV Vault implements modular, autonomous, yield-aware strategies. These are created and regularly updated by the best minds in DeFi, all under the control of Yearn governance.",
+      "verified": true
+    }
+  ],
+  "id": "9823983c-d4fb-47c1-adf5-2c7f26d7a1ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+    "research": "https://research.binance.com/en/projects/yearnfinance",
+    "website": "https://yearn.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "yUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

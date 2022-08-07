@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FXP is a gateway solution which will unify the Ecosystem and Forex industry based on the blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "c3c175df-4216-4faa-9b8c-cd85ed11324c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+    "research": null,
+    "website": "https://fxpay.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14ddda446688b73161aa1382f4e4343353af6fc8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FXPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

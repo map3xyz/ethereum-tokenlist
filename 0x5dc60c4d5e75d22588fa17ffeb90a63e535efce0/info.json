@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A decentralized and cooperative protocol for next generation logistics .",
+      "verified": true
+    }
+  ],
+  "id": "b06856b8-5f07-4c31-a2a0-daed114d4b51",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+    "research": null,
+    "website": "https://dkargo.io/main_en.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dKargo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DKA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

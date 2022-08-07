@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FNX is the token of FinNexus, the project building a network of multi-chain protocol clusters to power innovative cross-chain DeFi products.",
+      "verified": true
+    }
+  ],
+  "id": "7539b201-c7f6-4785-9670-91eb30f0589e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+    "research": null,
+    "website": "https://finnexus.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef9cd7882c067686691b6ff49e650b43afbbcc6b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FNX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

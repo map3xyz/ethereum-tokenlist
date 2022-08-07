@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "8419e21b-9fe5-400a-a15a-fb8261b8ed1f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90f08cc8ddc43f5c01224f67fdf4640995139e8f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

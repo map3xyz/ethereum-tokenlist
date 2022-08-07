@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2f5e2c9002C058c063d21A06B6cabb50950130c8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "271a512b-ab83-4ab1-af7a-512e374f9dab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2f5e2c9002C058c063d21A06B6cabb50950130c8",
+    "research": null,
+    "website": "https://ftx.com/tokens/ETHBEAR"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2f5e2c9002c058c063d21a06b6cabb50950130c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": " 3X Short Ethereum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHBEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

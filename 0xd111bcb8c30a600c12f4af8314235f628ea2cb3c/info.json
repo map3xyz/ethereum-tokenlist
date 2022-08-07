@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd111BCb8C30a600c12F4AF8314235F628EA2Cb3C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Webflix describes itself as a blockchain-based broadcasting platform that connects broadcasters with users.",
+      "verified": true
+    }
+  ],
+  "id": "bc235190-b2f5-4e9c-8360-ad3709ddca5c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd111BCb8C30a600c12F4AF8314235F628EA2Cb3C",
+    "research": null,
+    "website": "http://www.webflix.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd111bcb8c30a600c12f4af8314235f628ea2cb3c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Webflix Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WFX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

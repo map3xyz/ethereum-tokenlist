@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "3X Long TRX Token (TRXBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of TRON.",
+      "verified": true
+    }
+  ],
+  "id": "78763b70-ce62-49a2-b3bb-b0970616aaa3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+    "research": null,
+    "website": "https://ftx.com/tokens/TRXBULL"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc175e77b04f2341517334ea3ed0b198a01a97383/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Long TRX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRXBULL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

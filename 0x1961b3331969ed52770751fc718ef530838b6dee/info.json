@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4cef9b59-eca6-4ecf-b143-252cb09cb9b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1961B3331969eD52770751fC718ef530838b6dEE",
+    "research": null,
+    "website": "https://www.bitdegree.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1961b3331969ed52770751fc718ef530838b6dee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitDegree Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

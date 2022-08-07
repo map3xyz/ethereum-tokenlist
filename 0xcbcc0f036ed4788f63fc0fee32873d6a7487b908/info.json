@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Humaniq (HMQ) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "1f3aca02-0dd8-4d00-a595-9d4f6f3c6d9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+    "research": null,
+    "website": "https://humaniq.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Humaniq",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HMQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "605bc9e4-05e6-4706-b4ca-555dc0267de5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75",
+    "research": null,
+    "website": "https://www.cusd.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c406d99e04b8494dc253fcc52943ef82bca7d75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "cUSD Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x796E47B85A0d759F300f1de96A3583004235D4D8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f0f92ff2-7ca9-4995-991e-be3681018df0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x796E47B85A0d759F300f1de96A3583004235D4D8",
+    "research": null,
+    "website": "https://electrumdark.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x796e47b85a0d759f300f1de96a3583004235d4d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "electrumdark",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

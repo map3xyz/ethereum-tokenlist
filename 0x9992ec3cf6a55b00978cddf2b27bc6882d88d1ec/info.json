@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Polymath is creating a global platform for issuing and investing in securities tokens.",
+      "verified": true
+    }
+  ],
+  "id": "b007935c-c913-42fd-902a-e18a8d8d9d6c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+    "research": null,
+    "website": "https://polymath.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Polymath",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

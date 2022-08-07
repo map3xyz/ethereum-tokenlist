@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcF7d119BCb6822283003adc7c1a40E9ae7097B75",
+  "color": null,
+  "decimals": 1,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Star Pacific Coin is an ERC20 Token design to make crypto mining and crypto trading easier for everyone, using our genetic algorithm trained machine learning technology computer with even low configure are capable of mining crypto too.",
+      "verified": true
+    }
+  ],
+  "id": "78ce2823-c362-4c9f-9aa3-34edc90e04af",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcF7d119BCb6822283003adc7c1a40E9ae7097B75",
+    "research": null,
+    "website": "https://www.starpacific.trade/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf7d119bcb6822283003adc7c1a40e9ae7097b75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Star Pacific Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "💲PC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

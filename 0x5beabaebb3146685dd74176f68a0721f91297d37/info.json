@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x5bEaBAEBB3146685Dd74176f68a0721F91297D37",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized auctions including fixed swap, sealed-bid, Dutch auction, NFT auctions.",
+      "verified": true
+    }
+  ],
+  "id": "f1e116fc-b18f-40b2-b77a-b7e61ac84ce2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5bEaBAEBB3146685Dd74176f68a0721F91297D37",
+    "research": "https://research.binance.com/en/projects/bounce",
+    "website": "https://bounce.finance",
+    "github": "https://github.com/bouncefinance",
+    "twitter": "https://twitter.com/bounce_finance",
+    "telegram": "https://t.me/bounce_finance",
+    "medium": "https://bouncefinance.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5beabaebb3146685dd74176f68a0721f91297d37/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bounce Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

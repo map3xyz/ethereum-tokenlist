@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x118b552725e1892137740cB4d29390D952709639",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nyx has an 8% tax taken from every purchase and sale, 4% is split to help MS and Veterans through charitble donations.2 is sent back to the holders,1 each is burned and project marketing wallet for future growth.",
+      "verified": true
+    }
+  ],
+  "id": "6a3fb55d-77fc-425a-87db-1038eeb2baf1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x118b552725e1892137740cB4d29390D952709639",
+    "research": null,
+    "website": "https://nyxtoken.org",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nyx-token/",
+    "telegram": "https://t.me/NyxGeneral",
+    "twitter": "https://twitter.com/NyxToken",
+    "facebook": "https://facebook.com/NYXToken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x118b552725e1892137740cb4d29390d952709639/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nyx Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NYXT",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

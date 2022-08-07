@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Evedo is a blockchain based platform, consisting of B2B & B2C Marketplaces. It unifies all businesses and participants involved in organizing events.",
+      "verified": true
+    }
+  ],
+  "id": "675f6d8d-a31a-4a14-9314-f371375c0ab8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+    "research": null,
+    "website": "https://www.evedo.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Evedo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

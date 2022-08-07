@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Token Real Estate Asset Ledger.",
+      "verified": true
+    }
+  ],
+  "id": "38495adb-9ddd-4d7c-a586-58b88dbba79c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10",
+    "research": null,
+    "website": "https://www.real.markets"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9214ec02cb71cba0ada6896b8da260736a67ab10/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Real Estate Asset Ledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

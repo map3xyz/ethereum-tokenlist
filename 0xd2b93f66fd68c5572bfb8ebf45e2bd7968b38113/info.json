@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD2B93f66FD68c5572BFB8EBf45E2Bd7968B38113",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Catnip($NIP) is a reward token for staking $NYAN and the main source of investment funds.",
+      "verified": true
+    }
+  ],
+  "id": "1f2fcd8f-adb6-4c64-bbb0-7e43cae01824",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD2B93f66FD68c5572BFB8EBf45E2Bd7968B38113",
+    "research": null,
+    "website": "https://nyan.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2b93f66fd68c5572bfb8ebf45e2bd7968b38113/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Catnip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NIP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

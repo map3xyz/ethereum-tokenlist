@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6b4689E4514957699eDeB2Ee91C947F18E439806",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "55d4cbf7-6b52-4d89-874a-4a99a33ef805",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6b4689E4514957699eDeB2Ee91C947F18E439806",
+    "research": null,
+    "website": "https://www.zeux.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b4689e4514957699edeb2ee91c947f18e439806/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZeuxCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZUC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

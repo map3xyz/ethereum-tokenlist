@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x04bA6FC674D8B7f00C96d5d0a6872e7eb270Bd7C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.",
+      "verified": true
+    }
+  ],
+  "id": "3a6895ba-f38d-49e4-8ef5-833ce94b1bd2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x04bA6FC674D8B7f00C96d5d0a6872e7eb270Bd7C",
+    "research": null,
+    "website": "https://crocryptocoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04ba6fc674d8b7f00c96d5d0a6872e7eb270bd7c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRO Decentralized Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

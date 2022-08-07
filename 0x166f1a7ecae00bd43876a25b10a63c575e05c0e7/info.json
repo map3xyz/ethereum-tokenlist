@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "422bd3b0-0ced-4dc4-9ea6-9a5f50f62916",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7",
+    "research": null,
+    "website": "https://www.veraexchange.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x166f1a7ecae00bd43876a25b10a63c575e05c0e7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vera",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Vera",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xb3Bd49E28f8F832b8d1E246106991e546c323502",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d9d5e09e-b233-497a-8231-d0b22a6fa9be",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb3Bd49E28f8F832b8d1E246106991e546c323502",
+    "research": null,
+    "website": "https://www.mercuryprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb3bd49e28f8f832b8d1e246106991e546c323502/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Global Messaging Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

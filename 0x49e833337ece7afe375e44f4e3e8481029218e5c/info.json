@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Value DeFi: Bringing True Value to DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "e0585d06-e151-4a85-be65-c0769fac24c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+    "research": null,
+    "website": "https://valuedefi.io/",
+    "github": "https://github.com/valuedefi",
+    "twitter": "https://twitter.com/value_defi",
+    "telegram": "https://t.me/ValueDeFi",
+    "discord": "https://discord.com/invite/Dpvd7tp",
+    "medium": "https://medium.com/@valuedefi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49e833337ece7afe375e44f4e3e8481029218e5c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Value Liquidity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VALUE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

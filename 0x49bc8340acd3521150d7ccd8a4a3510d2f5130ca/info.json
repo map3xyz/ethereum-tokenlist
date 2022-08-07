@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UKAN token is the first of its kind token, driven by the community that empowers a nation during an immense humanitarian crisis. Nicknamed the SAVIOR, because we utilize blockchain technology for the better good, and bring a transparent project to the world that will help bootstrap the economy of Ukraine during and especially in the aftermath of the war.",
+      "verified": true
+    }
+  ],
+  "id": "56f4cf8d-569a-4577-8d28-c2c4bbbd0d5d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca",
+    "research": null,
+    "website": "https://ukan.io",
+    "twitter": "https://twitter.com/Ukantoken",
+    "github": "https://github.com/Ukangit",
+    "telegram": "https://t.me/Ukantoken",
+    "medium": "https://medium.com/@Ukantoken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49bc8340acd3521150d7ccd8a4a3510d2f5130ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ukan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UKAN",
+  "tags": [
+    "memes"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

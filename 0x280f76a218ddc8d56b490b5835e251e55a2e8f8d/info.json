@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x280f76a218DDC8d56B490B5835e251E55a2e8F8d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "790c0b84-4a09-4f2a-9652-59f0b45a473f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x280f76a218DDC8d56B490B5835e251E55a2e8F8d",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x280f76a218ddc8d56b490b5835e251e55a2e8f8d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sUNI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

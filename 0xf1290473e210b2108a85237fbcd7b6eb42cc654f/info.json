@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HedgeTrade aims to become a platform where the world’s best traders share their knowledge.",
+      "verified": true
+    }
+  ],
+  "id": "73f605b9-c622-4af0-8435-637b7a898559",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+    "research": null,
+    "website": "https://hedgetrade.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1290473e210b2108a85237fbcd7b6eb42cc654f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HedgeTrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEDG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

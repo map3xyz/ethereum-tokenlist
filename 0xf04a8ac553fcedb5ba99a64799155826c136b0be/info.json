@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FLIXX is an ERC20 token issued by Flixxo, a video distribution platform.",
+      "verified": true
+    }
+  ],
+  "id": "9f00e12d-3106-4422-9730-060a36d41f4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
+    "research": null,
+    "website": "https://www.flixxo.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf04a8ac553fcedb5ba99a64799155826c136b0be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flixx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLIXX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

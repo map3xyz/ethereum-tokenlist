@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x86807Da5B92d31F67E128771CAcb85F3579646eA",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "610a626c-7d36-4020-9070-b657697dc083",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x86807Da5B92d31F67E128771CAcb85F3579646eA",
+    "research": null,
+    "website": "https://ftx.com/tokens/TRXBEAR"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86807da5b92d31f67e128771cacb85f3579646ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Short TRX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRXBEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

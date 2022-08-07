@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b2f9d67e-08bb-4ea1-b9f2-58be90db0408",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31",
+    "research": null,
+    "website": "http://gdctoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x301c755ba0fca00b1923768fffb3df7f4e63af31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Global Digital Content",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

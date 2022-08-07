@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x452f6DE535f613B92443F5446AE4e7C1c4Ad01f2",
+  "color": null,
+  "decimals": 3,
+  "description": [],
+  "id": "10a6134a-6fa8-4bca-8fe2-ffe0dd4d2883",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x452f6DE535f613B92443F5446AE4e7C1c4Ad01f2",
+    "research": null,
+    "website": "https://uspay.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x452f6de535f613b92443f5446ae4e7c1c4ad01f2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UsPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USPAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Palmes: An innovative concept to generate new assets with security and blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "474367c4-9bf1-4b94-bd93-42f0d6435201",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f",
+    "research": null,
+    "website": "https://palmestoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80d211718f9b9ba31959a14328acd8d8c9d5382f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Palmes",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

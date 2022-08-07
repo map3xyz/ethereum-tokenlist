@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Distributed Shared Cloud Computing Network.",
+      "verified": true
+    }
+  ],
+  "id": "87289153-981c-424a-9b97-b43fded5430e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+    "research": null,
+    "website": "http://snetwork.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff19138b039d938db46bdda0067dc4ba132ec71c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Snetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

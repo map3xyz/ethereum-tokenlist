@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+      "verified": true
+    }
+  ],
+  "id": "13daddfc-1918-4794-95c1-2a5d358c8be0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf8C3527CC04340b208C854E985240c02F7B7793f",
+    "research": null,
+    "website": "https://frontier.xyz/",
+    "github": "https://github.com/frontierwallet",
+    "twitter": "https://twitter.com/FrontierDotXYZ",
+    "telegram": "https://t.me/FrontierDotXYZ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frontier/",
+    "coingecko": "https://coingecko.com/en/coins/frontier-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8c3527cc04340b208c854e985240c02f7b7793f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Frontier",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRONT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

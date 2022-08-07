@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2b915b505c017ABb1547aA5Ab355FbE69865cC6D",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
+      "verified": true
+    }
+  ],
+  "id": "6cfb31cf-9082-4991-82ae-c3759931ada4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+    "research": null,
+    "website": "https://maps.me"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b915b505c017abb1547aa5ab355fbe69865cc6d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Maps.me",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAPS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

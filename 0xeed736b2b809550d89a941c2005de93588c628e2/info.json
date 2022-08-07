@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEED736b2b809550D89A941C2005dE93588c628e2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We aimed to answer a need in the crypto community for a coin to deliver superior security features as being safe and transparent. ETHPlus is about fair play, provides an element of choice to the user, between ultra-security and speed.",
+      "verified": true
+    }
+  ],
+  "id": "3c54df99-968b-4a7a-a65f-2de992f98221",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEED736b2b809550D89A941C2005dE93588c628e2",
+    "research": null,
+    "website": "https://ethplus.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeed736b2b809550d89a941c2005de93588c628e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETHPlus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5ABaFf0B83F81DC061C590AAdcbA013C69237fd7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Jade Currency aims to change the world the world by allowing the public to pay for Jade with our token safely and easily.",
+      "verified": true
+    }
+  ],
+  "id": "4ee5d33d-0663-408d-b517-ee93d6465451",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5ABaFf0B83F81DC061C590AAdcbA013C69237fd7",
+    "research": null,
+    "website": "https://www.jadecurrency.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5abaff0b83f81dc061c590aadcba013c69237fd7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jade Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JADE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

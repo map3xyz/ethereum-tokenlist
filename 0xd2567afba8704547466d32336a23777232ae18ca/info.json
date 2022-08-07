@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd2567afbA8704547466d32336A23777232AE18cA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TelFx is a commission-free futures exchange with its own native cryptocurrency, the TelFx token.",
+      "verified": true
+    }
+  ],
+  "id": "9fa1ac67-af12-4ecb-af81-017fc00adb09",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd2567afbA8704547466d32336A23777232AE18cA",
+    "research": null,
+    "website": "https://telfx.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2567afba8704547466d32336a23777232ae18ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TelFx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TelFx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Data Economy Index is an ecosystem of data-based products and services.",
+      "verified": true
+    }
+  ],
+  "id": "a439500d-1d29-4a14-8ff0-88f78eb6b8f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+    "research": null,
+    "website": "https://www.indexcoop.com/data",
+    "blog": "https://gov.indexcoop.com",
+    "twitter": "https://twitter.com/indexcoop",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/data-economy-index/",
+    "coingecko": "https://coingecko.com/en/coins/data-economy-index",
+    "discord": "https://discord.com/invite/RKZ4S3b"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Data Economy Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

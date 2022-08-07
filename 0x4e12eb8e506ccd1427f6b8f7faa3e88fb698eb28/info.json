@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "54a11e98-9cbc-43a5-b37f-0c29f8b14f03",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+    "research": null,
+    "website": "https://jackr.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e12eb8e506ccd1427f6b8f7faa3e88fb698eb28/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jack Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JACK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

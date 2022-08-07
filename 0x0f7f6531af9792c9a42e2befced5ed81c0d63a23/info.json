@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 version of the e-Money SEK stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "4d4decd9-266c-4c06-a0f4-0bfdb811598f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23",
+    "research": null,
+    "website": "https://e-money.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f7f6531af9792c9a42e2befced5ed81c0d63a23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "e-Money SEK stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESEK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

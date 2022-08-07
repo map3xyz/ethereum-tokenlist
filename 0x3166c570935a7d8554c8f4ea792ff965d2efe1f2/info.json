@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "65e5e7a5-91bd-478e-8948-7e4e41ddd4b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
+    "research": null,
+    "website": "https://qdefi.io/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Q DAO Governance token v1.0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QDAO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

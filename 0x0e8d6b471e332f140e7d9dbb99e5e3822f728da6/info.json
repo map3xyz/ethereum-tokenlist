@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Abyss (ABYSS) is the ERC20 token native to the Abyss.Finance ecosystem. Within the Abyss.Finance Ecosystem, Abyss is currently used in the Gaming platform (theabyss.com), the Non-Fungible Token (NFT) Marketplace, and allows members to earn rewards through Staking and setting up Masternodes.",
+      "verified": true
+    }
+  ],
+  "id": "b097aa15-ab03-4c5b-8da0-129048fcfa62",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+    "research": null,
+    "website": "https://abyss.finance/",
+    "github": "https://github.com/abyssfinance",
+    "twitter": "https://twitter.com/AbyssFinance",
+    "telegram": "https://t.me/abyssfinance",
+    "facebook": "https://facebook.com/abyssfinance/",
+    "reddit": "https://reddit.com/r/abyssfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Abyss",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABYSS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

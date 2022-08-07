@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x1aa1e61369874bae3444A8Ef6528d6b13D6952EF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The ALLY token is a token the enables ICHI vesting over a 3 year period.",
+      "verified": true
+    }
+  ],
+  "id": "a81e5ee3-208f-4b94-8776-985e3acb79b5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1aa1e61369874bae3444a8ef6528d6b13d6952ef",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm",
+    "twitter": "https://twitter.com/ichifoundation",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aa1e61369874bae3444a8ef6528d6b13d6952ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ICHI ALLY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALLY",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

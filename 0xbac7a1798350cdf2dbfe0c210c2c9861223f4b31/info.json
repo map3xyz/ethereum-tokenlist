@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e0770c2b-559e-4f8e-ae9c-e207ab398c23",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+    "research": null,
+    "website": "https://moneynet.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Moneynet Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2b5cA2F9510cf1e3595Ff219f24D75D4244585EA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An ERC-20 compatible token built on the ERC-1363 Protocol built specifically for payments",
+      "verified": true
+    }
+  ],
+  "id": "234f9284-fb0b-4e44-be1c-f28cd15dbdf2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2b5cA2F9510cf1e3595Ff219f24D75D4244585EA",
+    "research": null,
+    "website": "https://ethereumpay.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b5ca2f9510cf1e3595ff219f24d75d4244585ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EthereumPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

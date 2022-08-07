@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "At Cryptobuyer we offer multiple financial services in the same place, with the security, privacy and speed you deserve.",
+      "verified": true
+    }
+  ],
+  "id": "bf8282bf-cc4c-454d-9d71-539f1afd9c13",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
+    "research": null,
+    "website": "https://cryptobuyer.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08aa0ed0040736dd28d4c8b16ab453b368248d19/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cryptobuyer Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

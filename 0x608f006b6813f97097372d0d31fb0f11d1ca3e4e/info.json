@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CryptoAds Marketplace, a Decentralized advertisement ecosystem built on blockchain (based on CFC.io app,7M+ users). CryptoAds is a focus to disrupt the advertising market, launched.",
+      "verified": true
+    }
+  ],
+  "id": "2ef4967b-a71d-4f1f-b44b-59cb8d1f3356",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
+    "research": null,
+    "website": "https://cfc.io/",
+    "github": "https://github.com/ixc-software",
+    "twitter": "https://twitter.com/CryptoAds Marketplace",
+    "telegram": "https://t.me/cryptoads_marketplace_en",
+    "facebook": "https://facebook.com/CryptoAdsMarketplace",
+    "reddit": "https://reddit.com/r/CRAD/",
+    "medium": "https://medium.com/@AlexVinogradov4",
+    "whitepaper": "https://cryptoads.exchange"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRAD CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRAD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9F452E458B024e82d6e3fF50A07b8DE74c988523",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fa54e19c-716a-432b-bb85-208ad7b51c77",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9F452E458B024e82d6e3fF50A07b8DE74c988523",
+    "research": null,
+    "website": "https://goat.cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f452e458b024e82d6e3ff50a07b8de74c988523/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GoatCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

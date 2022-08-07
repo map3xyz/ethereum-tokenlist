@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rook enables users, protocols, and smart contracts to earn from the MEV their orders create.",
+      "verified": true
+    }
+  ],
+  "id": "9c3c0af6-9fcf-4821-8cc5-c169e3af999f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+    "research": null,
+    "website": "https://rook.fi",
+    "twitter": "https://twitter.com/rook",
+    "discord": "https://discord.com/invite/rook",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/keeperdao/",
+    "coingecko": "https://coingecko.com/coins/rook"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rook",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROOK",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

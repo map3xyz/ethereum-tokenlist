@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nsure is an open insurance platform for Open Finance. The project borrows the idea of Lloyd’s London, a market place to trade insurance risks, where premiums are determined by a Dynamic Pricing Model. Capital mining will be implemented to secure capital required to back the risks at any point of time. A 3-phase crowd voting mechanism is used to ensure every claim is handled professionally.",
+      "verified": true
+    }
+  ],
+  "id": "09f2da75-559d-4113-940b-902cedab8e45",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20945ca1df56d237fd40036d47e866c7dccd2114",
+    "research": null,
+    "website": "https://nsure.network",
+    "github": "https://github.com/nsure-tech",
+    "twitter": "https://twitter.com/Nsure",
+    "telegram": "https://t.me/nsurenet",
+    "medium": "https://medium.com/@nsure_network",
+    "whitepaper": "https://nsure.network/Nsure_WP_0.7.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20945ca1df56d237fd40036d47e866c7dccd2114/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nsure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Nsure",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

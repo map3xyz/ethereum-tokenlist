@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Primas is a platform for high-quality content centred in Distributed Trusted Content Protocol or DTCP.",
+      "verified": true
+    }
+  ],
+  "id": "55fc010f-19f9-4b89-9d21-b8e805a71569",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc",
+    "research": null,
+    "website": "https://primas.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Primas Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

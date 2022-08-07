@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The project aims to connect multiple Defi projects in a single app.",
+      "verified": true
+    }
+  ],
+  "id": "14b65f5d-da58-46f3-a2b1-ed10931252b5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+    "research": null,
+    "website": "https://defigold.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEFI GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFGL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

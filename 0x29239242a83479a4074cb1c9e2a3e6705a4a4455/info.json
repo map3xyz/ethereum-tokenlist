@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x29239242A83479a4074Cb1c9e2A3e6705A4A4455",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tozex Tokenizaton platform",
+      "verified": true
+    }
+  ],
+  "id": "5843acdc-bfc6-44c0-acfe-d837482db9c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455",
+    "research": null,
+    "website": "https://tozex.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29239242a83479a4074cb1c9e2a3e6705a4a4455/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TOZEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

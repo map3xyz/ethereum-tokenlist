@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Locus Chain believes that it has established the basis for anyone to freely participate in the network through nodes by implementing the technology called Verifiable Pruning, which allows for the validation of previous data with the least amount of hash values, and also dynamic sharding, which decreases the network load by dividing the network into shard units.",
+      "verified": true
+    }
+  ],
+  "id": "362818ff-ce8f-409a-a9a2-d3351ce15162",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+    "research": null,
+    "website": "https://www.locuschain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc64500dd7b0f1794807e67802f8abbf5f8ffb054/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Locus Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

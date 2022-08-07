@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x4b520c812E8430659FC9f12f6d0c39026C83588D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "925deeff-19bf-4a5a-be03-2cac55117728",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4b520c812e8430659fc9f12f6d0c39026c83588d",
+    "research": null,
+    "website": "https://decentral.games",
+    "twitter": "https://twitter.com/decentralgames",
+    "github": "https://github.com/decentralgames",
+    "telegram": "https://t.me/decentralgames",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/decentral-games-new/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b520c812e8430659fc9f12f6d0c39026c83588d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DG",
+  "tags": [
+    "gamefi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

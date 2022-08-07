@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bloody is a deflationary farming token that also periodically rebases like Ampleforth.",
+      "verified": true
+    }
+  ],
+  "id": "b12abddc-18fe-4a51-b310-04f0ae3a127f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664",
+    "research": null,
+    "website": "https://bloodyfi.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x892f5a0b08bb7b1eecccc63ef3916ff201c93664/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bloody",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLOODY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

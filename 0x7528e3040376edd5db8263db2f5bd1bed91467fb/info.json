@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7528E3040376EdD5DB8263Db2F5bd1beD91467FB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f9a1571f-6191-48f4-ac14-33eaa9a895e0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7528E3040376EdD5DB8263Db2F5bd1beD91467FB",
+    "research": null,
+    "website": "http://token.simmitri.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7528e3040376edd5db8263db2f5bd1bed91467fb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Simmitri",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

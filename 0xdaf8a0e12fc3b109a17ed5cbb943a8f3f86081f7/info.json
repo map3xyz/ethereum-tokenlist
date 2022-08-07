@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xDaF8a0E12fc3b109A17ED5CbB943A8f3f86081f7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized marketplace for sports consultants and sports bettors. SBX token used for betting, 10% cashback on losses. Staking Dapp live at Uniswap launch.",
+      "verified": true
+    }
+  ],
+  "id": "60298585-a4a1-4135-a079-a104d5e304a7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDaF8a0E12fc3b109A17ED5CbB943A8f3f86081f7",
+    "research": null,
+    "website": "https://sbxtoken.io",
+    "twitter": "https://twitter.com/SBXtoken",
+    "discord": "https://discord.com/invite/6n49BTy"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdaf8a0e12fc3b109a17ed5cbb943a8f3f86081f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SBX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

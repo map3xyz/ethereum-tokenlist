@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "b0e9697e-ab38-45d5-bab1-d99d2e64d144",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C",
+    "research": null,
+    "website": "https://ethplode.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0c6ce3e73029f201e5c0bedb97f67572a93711c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETHplode",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHPLO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0B4BdC478791897274652DC15eF5C135cae61E60",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DAEX (DAX) is a cryptocurrency and operates on the Ethereum platform",
+      "verified": true
+    }
+  ],
+  "id": "47ebea01-ce38-4292-9e32-166382c9cd46",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0B4BdC478791897274652DC15eF5C135cae61E60",
+    "research": null,
+    "website": "https://www.daex.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b4bdc478791897274652dc15ef5c135cae61e60/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

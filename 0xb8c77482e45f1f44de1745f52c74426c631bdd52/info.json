@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d3340237-56a0-413d-8755-e82d81684620",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "research": null,
+    "website": "https://www.binance.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8c77482e45f1f44de1745f52c74426c631bdd52/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BNB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

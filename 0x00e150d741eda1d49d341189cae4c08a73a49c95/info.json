@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Infinitus describes itself as a blockchain-based decentralised mobile app (dApp). Users can reportedly safekeep encrypted digital data such as private keys, passwords, recovery seeds, pincodes or any alphanumeric data on a decentralised network.",
+      "verified": true
+    }
+  ],
+  "id": "454f0144-d838-4505-ba15-4a8a6a7e77ee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
+    "research": null,
+    "website": "https://inftech.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00e150d741eda1d49d341189cae4c08a73a49c95/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InfinitusTokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

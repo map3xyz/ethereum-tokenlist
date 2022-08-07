@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xb7ba8461664dE526A3ae44189727DFC768625902",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YMPL is a probabilistic DeFi protocol that rebases the token supply in a set of intervals based on probabilistic model. YMPL s not a stablecoin, no price target of $1. Its price discovery is purely based on the demands and supply of the market and chances.",
+      "verified": true
+    }
+  ],
+  "id": "c80e10b7-275a-4b41-9def-4bf28427e043",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb7ba8461664dE526A3ae44189727DFC768625902",
+    "research": null,
+    "website": "https://ymplprotocol.com",
+    "github": "https://github.com/ympl-protocol",
+    "twitter": "https://twitter.com/ymplofficial",
+    "medium": "https://medium.com/ympl"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7ba8461664de526a3ae44189727dfc768625902/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YMPL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YMPL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

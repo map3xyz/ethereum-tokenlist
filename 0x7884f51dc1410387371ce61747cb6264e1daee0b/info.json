@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7884F51dC1410387371ce61747CB6264E1dAeE0B",
+  "color": null,
+  "decimals": 10,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BDOT tokens are ERC20 tokens on the Ethereum network created via the Binance Token Canal program, where the price is pegged to DOT at a rate of 1 BDOT = 1 DOT.",
+      "verified": true
+    }
+  ],
+  "id": "ecfee4ae-8866-4ed9-aef3-a0739a3131aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7884f51dc1410387371ce61747cb6264e1daee0b",
+    "research": "https://research.binance.com/en/projects/polkadot",
+    "website": "https://binance.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7884f51dc1410387371ce61747cb6264e1daee0b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance Wrapped DOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

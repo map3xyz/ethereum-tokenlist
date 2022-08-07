@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0198f46f520F33cd4329bd4bE380a25a90536CD5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PlayChip’s vision is to become the Universal Gaming Token. PlayChip is an ERC20 token at the centre of an existing online gaming ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "2e946cb8-d470-4f8b-b5e5-acda95508ccf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0198f46f520F33cd4329bd4bE380a25a90536CD5",
+    "research": null,
+    "website": "https://www.playchip.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0198f46f520f33cd4329bd4be380a25a90536cd5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlayChip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

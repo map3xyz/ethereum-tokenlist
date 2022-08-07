@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PPAY: DeFi liquidity aggregator and Plasma.Finance portfolio dashboard.",
+      "verified": true
+    }
+  ],
+  "id": "5515b364-4cf2-497d-8936-5fe66b356232",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+    "research": null,
+    "website": "https://plasma.finance",
+    "github": "https://github.com/plasmadlt/PPAY-Governance",
+    "whitepaper": "https://docs.plasmapay.com/about/ppay-token"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPAY",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

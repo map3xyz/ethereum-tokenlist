@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "New Submission for logo",
+      "verified": true
+    }
+  ],
+  "id": "71230013-da1b-4033-a235-e7a951478e71",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
+    "research": null,
+    "website": "https://kelpie.tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kelpie Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KELPIE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

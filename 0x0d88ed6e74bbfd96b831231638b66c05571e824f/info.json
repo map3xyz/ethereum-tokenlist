@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aventus is a layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.",
+      "verified": true
+    }
+  ],
+  "id": "d583bbd1-5c90-407c-81fe-e874fcd2ebe1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+    "research": null,
+    "website": "https://aventus.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d88ed6e74bbfd96b831231638b66c05571e824f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Avt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Liquidity Dividends Protocol uses new technology that provides solutions for depositing liquidity into Uniswap while also offering a social rewards based staking system.",
+      "verified": true
+    }
+  ],
+  "id": "80544c18-3b42-4cbb-86f9-345beebe5c7a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0417912b3a7AF768051765040A55BB0925D4DDcF",
+    "research": null,
+    "website": "https://www.lid.sh"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0417912b3a7af768051765040a55bb0925d4ddcf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Liquidity Dividends Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

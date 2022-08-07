@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "iYieldFarm (IYF) is a community-driven yieldfarming project with decentralized arbitrage tools provided.",
+      "verified": true
+    }
+  ],
+  "id": "1436b5a3-4647-4e81-8ece-a49fc7fbf46d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c",
+    "research": null,
+    "website": "https://iyf.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d762f76b9e91f71cc4f94391bdfe6333db8519c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IYF.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IYF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

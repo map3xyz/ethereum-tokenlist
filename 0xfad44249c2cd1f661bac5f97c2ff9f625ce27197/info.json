@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$GREY is the cryptocurrency for members of The Grey Area. The Grey Area is a crypto community including designers, founders, thinkers and creatives of all kinds.",
+      "verified": true
+    }
+  ],
+  "id": "569b077e-ce4b-4209-b628-2d0a15bf9db0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197",
+    "research": null,
+    "website": "https://grey.supply/",
+    "twitter": "https://twitter.com/GREY_____SUPPLY",
+    "discord": "https://discord.com/invite/HuG98Kw8T5"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfad44249c2cd1f661bac5f97c2ff9f625ce27197/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GREY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GREY",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

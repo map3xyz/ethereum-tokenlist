@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xba7b2C094C1A4757f9534a37d296a3BeD7f544DC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "World Best Crypto DeFi Yield Farming",
+      "verified": true
+    }
+  ],
+  "id": "5982505a-f04a-40c2-91c8-2b40f1b6091b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xba7b2C094C1A4757f9534a37d296a3BeD7f544DC",
+    "research": null,
+    "website": "https://htw.land/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba7b2c094c1a4757f9534a37d296a3bed7f544dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HLAND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLAND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

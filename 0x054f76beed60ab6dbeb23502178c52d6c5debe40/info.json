@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Earn interest and access instant loans through DeFiner’s noncustodial platform. Truly peer-to-peer. Secure. No middlemen.",
+      "verified": true
+    }
+  ],
+  "id": "837d0282-ebbc-4103-86ce-8b59d621770d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
+    "research": null,
+    "website": "https://definer.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x054f76beed60ab6dbeb23502178c52d6c5debe40/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EZDex development team united with community development forces to deeply cultivate the underlying technology, and through the value transfer protocol, proposed and implemented a series of technological upgrades and innovative solutions. Build a sustainable public blockchain blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "dff0164d-9346-40b9-b29c-7194d6139ced",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c",
+    "research": null,
+    "website": "https://ezdex.market",
+    "github": "https://github.com/ezdex-service",
+    "twitter": "https://twitter.com/ExchangeEzdex",
+    "facebook": "https://facebook.com/EZDexExchange/",
+    "reddit": "https://reddit.com/user/EZDexExchage",
+    "medium": "https://medium.com/@EZDex",
+    "telegram": "https://t.me/EZX_Exchange",
+    "whitepaper": "https://mp.weixin.qq.com/s/NkrME0YfeiaPcsYReWZn7A"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EZDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EZX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

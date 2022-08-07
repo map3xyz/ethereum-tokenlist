@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "sETH2 is a token that represents staked ether in StakeWise.",
+      "verified": true
+    }
+  ],
+  "id": "29d37c7a-d512-4daf-929f-72ef6f5e879d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFe2e637202056d30016725477c5da089Ab0A043A",
+    "research": null,
+    "website": "https://stakewise.io",
+    "twitter": "https://twitter.com/stakewise_io",
+    "github": "https://github.com/stakewise",
+    "telegram": "https://t.me/stakewise_io",
+    "telegramNews": "https://t.me/stakewise_io",
+    "blog": "https://stakewise.medium.com/",
+    "docs": "https://docs.stakewise.io/",
+    "forum": "https://forum.stakewise.io/",
+    "discord": "https://discord.com/invite/8Zf7tKyXeZ",
+    "reddit": "https://reddit.com/r/stakewise",
+    "medium": "https://stakewise.medium.com/",
+    "youtube": "https://youtube.com/channel/UCQ2cX28XNW-S-66quNYxzRA",
+    "coingecko": "https://coingecko.com/en/coins/seth2",
+    "sourceCode": "https://github.com/stakewise/contracts/blob/master/contracts/tokens/StakedEthToken.sol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfe2e637202056d30016725477c5da089ab0a043a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StakeWise sETH2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sETH2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

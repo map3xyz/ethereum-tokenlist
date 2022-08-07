@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4b7DfAe2567181E54776337C840e142ACb42AA1F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "yield farming token with a halving function",
+      "verified": true
+    }
+  ],
+  "id": "af4f2811-32aa-4fc8-8d5a-8af374cdf3d3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4b7DfAe2567181E54776337C840e142ACb42AA1F",
+    "research": null,
+    "website": "https://kimchi.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b7dfae2567181e54776337c840e142acb42aa1f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GOD KIMCHI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "gKIMCHI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

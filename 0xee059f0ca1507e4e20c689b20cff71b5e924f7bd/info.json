@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Litecoin SV is the largest global Digital Currency Based on Crypto Network. It Everyone can Send low cost private, secure, borderless payments to anyone, anytime, anywhere.",
+      "verified": true
+    }
+  ],
+  "id": "214d17e8-4594-48a0-b598-51188b860724",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd",
+    "research": null,
+    "website": "https://litecoin-sv.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee059f0ca1507e4e20c689b20cff71b5e924f7bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Litecoin SV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LSV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

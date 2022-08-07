@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeFiPIE allows everyone to create lending pools for any assets on Ethereum and Binance Smart Chain networks. Users can supply their assets and borrow other assets.",
+      "verified": true
+    }
+  ],
+  "id": "ceb26f40-a4fa-42dd-9566-dae98978fdd2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+    "research": null,
+    "website": "https://defipie.com",
+    "github": "https://github.com/DefiPie",
+    "twitter": "https://twitter.com/defipiepie",
+    "telegram": "https://t.me/defipie",
+    "medium": "https://medium.com/defipie"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x607c794cda77efb21f8848b7910ecf27451ae842/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeFiPIE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

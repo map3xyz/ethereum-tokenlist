@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pibble is a Blockchain based image Cryptocurrency! It is a monetized Image Ecosystem that brings image creators and consumers together, so as to compensate them for the work they create, use and enjoy.",
+      "verified": true
+    }
+  ],
+  "id": "275bbf26-353d-4cb8-9607-d869bbfd55bb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
+    "research": null,
+    "website": "http://pibble.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1864ce27e9f7517047933caae530674e8c70b8a7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pibble Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

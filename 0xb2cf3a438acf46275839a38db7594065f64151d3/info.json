@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The $WRLD Token was created with the cryptocurrency social media platform community in mind. The $WRLD token project aims to allow users to be a part of a project by merely being a part of the token creator’s social network(s).",
+      "verified": true
+    }
+  ],
+  "id": "f3af25ba-b7c9-4aaa-8c7a-767a5a03945a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+    "research": null,
+    "website": "https://themine.me"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2cf3a438acf46275839a38db7594065f64151d3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TheWorldsAMine",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WRLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

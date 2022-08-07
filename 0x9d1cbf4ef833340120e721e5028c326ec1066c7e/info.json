@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9D1cBF4eF833340120e721E5028C326Ec1066c7e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0a75f25b-d31c-4f15-be3c-c6e0accec2e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9D1cBF4eF833340120e721E5028C326Ec1066c7e",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d1cbf4ef833340120e721e5028c326ec1066c7e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Double Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

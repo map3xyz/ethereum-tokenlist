@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gems (GEM) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "0a68a040-49e3-4945-906a-fef7d1171a4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
+    "research": null,
+    "website": "https://gems.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gems Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

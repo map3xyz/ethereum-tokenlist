@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Devery (EVE) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "e2998ab4-ac0b-4db3-b91b-2d346db6dc95",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c",
+    "research": null,
+    "website": "https://devery.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Devery.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

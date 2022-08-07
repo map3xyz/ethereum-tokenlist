@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ff6f7279-44b1-41fb-8cb7-1ffab676b39a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+    "research": null,
+    "website": "https://www.blazenetwork.info"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70efdc485a10210b056ef8e0a32993bc6529995e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blaze Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLZN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

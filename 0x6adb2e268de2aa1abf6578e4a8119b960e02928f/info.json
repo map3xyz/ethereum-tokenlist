@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first community driven token created by Shiba & Dogecoin whales coming together for the greater good of both communities",
+      "verified": true
+    }
+  ],
+  "id": "0b90277e-92de-4d0b-9153-e1f0c93a02ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+    "research": null,
+    "website": "https://realshibadoge.com",
+    "twitter": "https://twitter.com/realshibadoge",
+    "telegram": "https://t.me/ShibaDoge_Portal",
+    "whitepaper": "https://whitepaper.realshibadoge.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibadoge/",
+    "github": "https://github.com/RealShibaDogeDev",
+    "discord": "https://discord.com/invite/realshibadoge",
+    "medium": "https://realshibadoge.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/shibadoge"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6adb2e268de2aa1abf6578e4a8119b960e02928f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShibaDoge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIBDOGE",
+  "tags": [
+    "memes",
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

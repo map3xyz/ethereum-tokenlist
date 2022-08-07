@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Freedom Reeserve is a Project to build a Store of Value and unit of exchange suitable for the people of the British Isles",
+      "verified": true
+    }
+  ],
+  "id": "1171afe3-1562-467b-b38e-104dd1ded181",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+    "research": "https://research.binance.com/",
+    "website": "https://freedomreserv.eth.link/",
+    "github": "https://github.com/Freedom-Reserve",
+    "twitter": "https://twitter.com/@freedomreserve1",
+    "telegram": "https://t.me/freedomreserve1",
+    "whitepaper": "https://freedomreserv.eth.link/img/FreedomReserveWhitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Freedom Reserve",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

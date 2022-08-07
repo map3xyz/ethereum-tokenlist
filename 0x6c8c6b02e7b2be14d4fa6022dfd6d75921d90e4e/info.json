@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "fd194107-1c3b-400d-8ffd-b1d743662780",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound Basic Attention Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cBAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

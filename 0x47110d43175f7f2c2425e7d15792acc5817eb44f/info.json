@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Bankless DeFi Innovation Index is a simple composite index which will be built on Set Protocol. The index screens for promising early stage DeFi projects which are not yet considered blue chip. GMI attempts to produce an optimal weighting via the use of a combination of square-root market cap, relative secondary market liquidity, and relative token dilution/emission scoring.",
+      "verified": true
+    }
+  ],
+  "id": "ddbd530f-90a9-4325-b40d-28e5da8992ae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+    "research": "https://banklesshq.com/",
+    "website": "https://indexcoop.com/",
+    "discord": "https://discord.com/invite/indexcoop",
+    "twitter": "https://twitter.com/indexcoop"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47110d43175f7f2c2425e7d15792acc5817eb44f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bankless DeFi Innovation Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMI",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

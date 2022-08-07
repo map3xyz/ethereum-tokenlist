@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x46D886887B6908183032c75dee1b731B26D653c6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GreenCoin is a decentralized web3 protocol that combines sustainable health data with blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "07f289c6-24dd-44a4-9c6e-05b21fbab104",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x46d886887b6908183032c75dee1b731b26d653c6",
+    "research": null,
+    "website": "https://greenflows.com/",
+    "whitepaper": "https://greenflows.gitbook.io/litepaper/",
+    "twitter": "https://twitter.com/greenflowstech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46d886887b6908183032c75dee1b731b26d653c6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GreenCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

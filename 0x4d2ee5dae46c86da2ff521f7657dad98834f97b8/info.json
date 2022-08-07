@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pepemon PPBLZ is the origin token in the Pepemon economy. It's used to farm PPDEX.",
+      "verified": true
+    }
+  ],
+  "id": "12b805c4-2b26-43e9-a752-04f36a705a5e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4d2ee5dae46c86da2ff521f7657dad98834f97b8",
+    "research": "https://pepemonfinance.medium.com/gotta-farm-%C3%A9m-all-6a08fef5865",
+    "website": "https://pepemon.world",
+    "github": "https://github.com/pepem00n",
+    "whitepaper": "https://pepemonfinance.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d2ee5dae46c86da2ff521f7657dad98834f97b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pepemon Pepeballs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPBLZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

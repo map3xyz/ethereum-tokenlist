@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5c64031C62061865E5FD0F53d3CDaeF80f72E99D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OLXA Coin aims to connect the crypto market to the real world through services such as Letter of Crypto Credit, i-Advertising Platform, and Crowd-Projects.",
+      "verified": true
+    }
+  ],
+  "id": "500efa50-06f3-4869-9ad6-0ef1c4d9f7ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5c64031C62061865E5FD0F53d3CDaeF80f72E99D",
+    "research": null,
+    "website": "https://www.hashgard.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c64031c62061865e5fd0f53d3cdaef80f72e99d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HASHGARD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GARD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

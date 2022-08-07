@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Developing and promoting a sustainable digital asset ecosystem for the future.",
+      "verified": true
+    }
+  ],
+  "id": "5af2e9d2-f7c7-4f28-bb25-7623d10b204e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x701C244b988a513c945973dEFA05de933b23Fe1D",
+    "research": null,
+    "website": "https://www.oax.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x701c244b988a513c945973defa05de933b23fe1d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "openANX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OAX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

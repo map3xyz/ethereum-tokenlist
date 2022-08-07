@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AICHAIN (AIT) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "9e1973a2-8c99-4f13-8652-b96d3398f977",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+    "research": null,
+    "website": "https://www.aichain.me"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

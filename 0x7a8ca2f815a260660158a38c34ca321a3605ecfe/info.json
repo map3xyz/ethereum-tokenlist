@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "4e50d82c-d824-44ee-b7d9-9ee6dab2e848",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
+    "research": null,
+    "website": "https://bizzcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a8ca2f815a260660158a38c34ca321a3605ecfe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BizzCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIZZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

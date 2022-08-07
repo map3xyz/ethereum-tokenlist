@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "d06e83a6-c045-480d-933f-19c440c29328",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
+    "research": null,
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xde60adfddaabaaac3dafa57b26acc91cb63728c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDTbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

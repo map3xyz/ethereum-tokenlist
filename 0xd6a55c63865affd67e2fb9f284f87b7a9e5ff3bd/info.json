@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9d4de9c6-959a-4bfd-8a9c-ca1eb05a17a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+    "research": null,
+    "website": "https://switch.ag"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Switch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

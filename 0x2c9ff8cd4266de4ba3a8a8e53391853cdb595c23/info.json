@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x2c9Ff8Cd4266De4ba3a8a8e53391853cDb595c23",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Buy, sell, store, learn, and build your crypto wealth with Dacxi.",
+      "verified": true
+    }
+  ],
+  "id": "ee72e919-a60d-4c3f-b9fa-c99d700c5986",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2c9Ff8Cd4266De4ba3a8a8e53391853cDb595c23",
+    "research": null,
+    "website": "https://dacxi.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c9ff8cd4266de4ba3a8a8e53391853cdb595c23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

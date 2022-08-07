@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ArdCoin (ARDX) - is an innovative blockchain-based loyalty token that has been integrated into a mobile super wallet which is backed by an existing financial infrastructure which includes banking services, insurance provider, stock brokerage, investment banking and a pension fund.",
+      "verified": true
+    }
+  ],
+  "id": "63f7fab3-2615-4771-8d8c-6fe1ea4d4ac0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
+    "research": null,
+    "website": "https://ardcoin.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ardcoin/",
+    "twitter": "https://twitter.com/ard_coin",
+    "github": "https://github.com/ArdCoin",
+    "whitepaper": "https://ardcoin.com/wp-content/themes/ardcoin/file/whitepaper.pdf",
+    "telegram": "https://t.me/ardcoin",
+    "medium": "https://ardcoin.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/ardcoin",
+    "facebook": "https://facebook.com/ArdFinancialGroup/",
+    "reddit": "https://reddit.com/r/ArdCoin/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8e2e2101ed11e9138803cd3e06e16dd19910647/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArdCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

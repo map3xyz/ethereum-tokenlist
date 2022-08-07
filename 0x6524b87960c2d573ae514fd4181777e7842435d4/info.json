@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6524B87960c2d573AE514fd4181777E7842435d4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "War Riders is the MMO game of earning cryptocurrency and blowing up cars. Use your vehicles to mine and attack enemies for Benzene.",
+      "verified": true
+    }
+  ],
+  "id": "4538823c-70d2-44d4-8389-bffe4cbecf36",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6524B87960c2d573AE514fd4181777E7842435d4",
+    "research": null,
+    "website": "https://warriders.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6524b87960c2d573ae514fd4181777e7842435d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Benzene 2.1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

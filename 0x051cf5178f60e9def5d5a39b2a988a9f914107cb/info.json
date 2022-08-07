@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Epstein didn't kill himself...he's hiding on the moon, and we’re going to find him and raise awareness on the way.",
+      "verified": true
+    }
+  ],
+  "id": "faf9e0ca-d1d7-4ef2-b58f-51168ce27d64",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB",
+    "research": null,
+    "website": "https://epsteintoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x051cf5178f60e9def5d5a39b2a988a9f914107cb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Epstein Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPSTEIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

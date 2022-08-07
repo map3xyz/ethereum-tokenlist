@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "2ba7a97c-19f3-4fd5-9f5c-8c2ebd7988f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc669928185dbce49d2230cc9b0979be6dc797957",
+    "research": null,
+    "website": "https://bt.io/",
+    "twitter": "https://twitter.com/BitTorrent",
+    "github": "https://github.com/bttcprotocol/bttc",
+    "telegram": "https://t.me/BitTorrentChain",
+    "whitepaper": "https://tron.network/static/doc/BitTorrent-ChainWhitepaper_EN.pdf",
+    "medium": "https://medium.com/@BitTorrent"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc669928185dbce49d2230cc9b0979be6dc797957/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitTorrent",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTT",
+  "tags": [
+    "governance",
+    "staking",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

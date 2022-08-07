@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x182A603541a4483c308475147D621bbB4E2587c6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zerobank is a legal ecosystem utilizing blockchain and smart contract.",
+      "verified": true
+    }
+  ],
+  "id": "02645690-09a4-42a8-b56d-ea86383cdbd8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x182A603541a4483c308475147D621bbB4E2587c6",
+    "research": null,
+    "website": "https://zerobank.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x182a603541a4483c308475147d621bbb4e2587c6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZBToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

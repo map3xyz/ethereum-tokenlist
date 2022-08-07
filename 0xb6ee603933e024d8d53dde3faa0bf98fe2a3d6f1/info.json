@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeFiat is the first gateway to decentralized financial services with fully-embedded governance, loyalty discounts, and deflationary mechanisms at its core.",
+      "verified": true
+    }
+  ],
+  "id": "a403a1d3-f680-4168-840b-54462b213d09",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+    "research": null,
+    "website": "https://defiat.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeFiat",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFT",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+  "color": null,
+  "decimals": 7,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.",
+      "verified": true
+    }
+  ],
+  "id": "2346ddc3-9f3c-4a71-b847-81b41fc32326",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+    "research": null,
+    "website": "https://www.digitalbits.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9eefc4b0d472a44be93970254df4f4016569d27/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "digitalbits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

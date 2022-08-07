@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd2946be786F35c3Cc402C29b323647aBda799071",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VikkyToken (VIKKY) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "6dafdd0a-4bbb-4c86-90bb-25049f258491",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd2946be786F35c3Cc402C29b323647aBda799071",
+    "research": null,
+    "website": "https://ico.vikky.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2946be786f35c3cc402c29b323647abda799071/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vikky Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIKKY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

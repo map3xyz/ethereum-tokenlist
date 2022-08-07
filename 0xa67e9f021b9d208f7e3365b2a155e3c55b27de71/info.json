@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This token sports a Play-2-Earn Cryptocurrency game namely called KleeRun. This game is an addictive, fast paced running game and fun for all ages! Available on Google Play, PC & Apple IOS devices.",
+      "verified": true
+    }
+  ],
+  "id": "05ab78e9-3482-4a74-b011-13859e1b0699",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+    "research": null,
+    "website": "https://kleerun.game",
+    "twitter": "https://twitter.com/KleeKaiETH",
+    "telegram": "https://t.me/kleeentryportal",
+    "discord": "https://discord.com/invite/kleekai",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kleekai/",
+    "coingecko": "https://coingecko.com/coins/kleekai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa67e9f021b9d208f7e3365b2a155e3c55b27de71/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KleeKai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLEE",
+  "tags": [
+    "gamefi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

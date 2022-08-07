@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ELD is an encryption currency and smart contract that will be created with full compatibility with the ERC20 standard. This complete ETH.Limited is implemented as a dAPP, a smart contract within the Ethereum network.",
+      "verified": true
+    }
+  ],
+  "id": "3b9df699-def8-495e-9c0a-aa2ecc4639f6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA",
+    "research": null,
+    "website": "https://eth.limited/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETH.limiteD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

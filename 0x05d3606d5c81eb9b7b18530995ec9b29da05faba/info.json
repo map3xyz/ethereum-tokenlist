@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TomoChain cross-chain token",
+      "verified": true
+    }
+  ],
+  "id": "cacc7263-75f4-4545-a247-de6086cdac39",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+    "research": null,
+    "website": "https://tomochain.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05d3606d5c81eb9b7b18530995ec9b29da05faba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TomoChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOMOE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unido is a technology ecosystem that addresses the governance, security and accessibility challenges of decentralized applications - enabling enterprises to manage crypto assets and capitalize on DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "f1af0523-5ac6-489d-9e67-259bbc4629b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06",
+    "research": null,
+    "website": "https://www.unido.us"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea3983fc6d0fbbc41fb6f6091f68f3e08894dc06/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unido",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UDO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

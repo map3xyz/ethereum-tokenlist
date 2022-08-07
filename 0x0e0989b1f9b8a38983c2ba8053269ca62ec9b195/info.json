@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "1b81a9f9-27eb-422b-90f4-2f95ff949f3a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+    "research": null,
+    "website": "https://po.et/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Po.et",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

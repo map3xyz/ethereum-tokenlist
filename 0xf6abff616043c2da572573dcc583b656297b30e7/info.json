@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xf6ABff616043C2dA572573dCC583B656297b30e7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "08b335c0-847c-44ce-b9ec-82b2c48b3c03",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf6ABff616043C2dA572573dCC583B656297b30e7",
+    "research": null,
+    "website": "https://www.xtock.io/custody"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6abff616043c2da572573dcc583b656297b30e7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Custody Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

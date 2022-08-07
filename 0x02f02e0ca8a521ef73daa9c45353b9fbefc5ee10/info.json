@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x02f02e0cA8a521EF73daA9C45353b9fBEFc5Ee10",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RenrenBit is a safe, transparent lending platform. Borrow or lend money with crypto as collateral.",
+      "verified": true
+    }
+  ],
+  "id": "12bf41de-1432-439d-9985-7eee6439d735",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x02f02e0cA8a521EF73daA9C45353b9fBEFc5Ee10",
+    "research": null,
+    "website": "https://renrenbit.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02f02e0ca8a521ef73daa9c45353b9fbefc5ee10/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RenrenBit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RRB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "COV is a utility token designed to be used by members within the Covesting ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "482ff2d2-aa32-4f8e-9e14-8f199ed32902",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
+    "research": null,
+    "website": "https://covesting.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Covesting Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

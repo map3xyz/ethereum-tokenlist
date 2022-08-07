@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb5fDe360d9d6D4Dddf6093a39F725081F9C601ae",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The INITIA Project will solve onboarding into the Metaverse/Crypto space by providing unique and novel event concepts.",
+      "verified": true
+    }
+  ],
+  "id": "b2a6afee-d21b-4444-9add-2a3c60501e33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb5fDe360d9d6D4Dddf6093a39F725081F9C601ae",
+    "research": null,
+    "website": "https://app.tryroll.com/token/INI"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5fde360d9d6d4dddf6093a39f725081f9c601ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Initia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INI",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

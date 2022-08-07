@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Dentacoin is a blockchain solution for the global dental industry.",
+      "verified": true
+    }
+  ],
+  "id": "c19f783b-c8f0-4641-9624-8ce6b39074f1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+    "research": null,
+    "website": "http://dentacoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dentacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Dentacoin",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

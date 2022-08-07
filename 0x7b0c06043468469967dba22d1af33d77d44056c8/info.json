@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7B0C06043468469967DBA22d1AF33d77d44056c8",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Launched in 2017 by a global team based in Canada, Taiwan and India. Morpheus.Network aims to digitally Integrate and automated global supply chains.",
+      "verified": true
+    }
+  ],
+  "id": "f9767b21-f219-4533-a611-3fe4db1e49d8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7B0C06043468469967DBA22d1AF33d77d44056c8",
+    "research": null,
+    "website": "https://morpheus.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b0c06043468469967dba22d1af33d77d44056c8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Morpheus.Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRPH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

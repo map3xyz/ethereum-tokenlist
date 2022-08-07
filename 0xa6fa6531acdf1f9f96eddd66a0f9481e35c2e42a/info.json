@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The CryptoBRL is a stablecoin pegged one for one to the Brazilian Real. It's supported and adopted by a consortium with several companies from Brazilian cryptocurrency market. Every token is backed by traditional currency, the reserve holdings are published and subject to 'distributed audits', from the companies in the consortium and other important players from the crypto-market.",
+      "verified": true
+    }
+  ],
+  "id": "10d952ae-09a8-4cd5-a8aa-53088fe8d0cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A",
+    "research": null,
+    "website": "https://cryptobrl.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6fa6531acdf1f9f96eddd66a0f9481e35c2e42a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CryptoBRL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBRL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

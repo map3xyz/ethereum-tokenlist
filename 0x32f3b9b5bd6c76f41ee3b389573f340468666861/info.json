@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x32F3b9B5Bd6C76F41ee3B389573f340468666861",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFII SILVER is the world's first and only YFI pludges elastic token supply defi-protocol.",
+      "verified": true
+    }
+  ],
+  "id": "8505ec4c-d43a-4f76-8b2d-28c43f282f8a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x32f3b9b5bd6c76f41ee3b389573f340468666861",
+    "research": null,
+    "website": "https://yfiigold.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32f3b9b5bd6c76f41ee3b389573f340468666861/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFII SILVER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

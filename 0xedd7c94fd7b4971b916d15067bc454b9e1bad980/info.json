@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zippie makes storing and sending digital currencies, such as ether, easier than ever. Using your Zippie Card, it takes just a single tap to your phone to confirm large payments. NFC technology ensures that only you can move your funds.",
+      "verified": true
+    }
+  ],
+  "id": "8ff4f8eb-1849-4b4f-b1ab-025f24958d67",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+    "research": null,
+    "website": "https://zippie.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xedd7c94fd7b4971b916d15067bc454b9e1bad980/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zippie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZIPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

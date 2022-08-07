@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xc56b13ebbCFfa67cFb7979b900b736b3fb480D78",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "06101e08-cfc7-4fa8-bbdd-7fce64f315bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc56b13ebbCFfa67cFb7979b900b736b3fb480D78",
+    "research": null,
+    "website": "https://sphere.social/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc56b13ebbcffa67cfb7979b900b736b3fb480d78/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Social Activity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

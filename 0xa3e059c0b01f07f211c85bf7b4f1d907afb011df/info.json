@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Deprecated, do not use! See 0x15874d65e649880c2614e7a480cb7c9A55787FF6 instead.",
+      "verified": true
+    }
+  ],
+  "id": "f23ff6ad-6ac8-45f3-9cc8-1e1ba4669942",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df",
+    "research": null,
+    "website": "https://www.ethereummax.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa3e059c0b01f07f211c85bf7b4f1d907afb011df/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EthereumMax (Deprecated)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMax",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

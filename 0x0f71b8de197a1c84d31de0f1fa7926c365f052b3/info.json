@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "288a28d0-8ffc-4ec2-92e0-aad2ab0f711c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+    "research": null,
+    "website": "https://www.arcona.io/index.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f71b8de197a1c84d31de0f1fa7926c365f052b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Arcona Distribution Contract",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCONA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

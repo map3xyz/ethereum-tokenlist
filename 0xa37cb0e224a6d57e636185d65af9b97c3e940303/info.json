@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa37cb0e224A6D57e636185D65AF9b97c3E940303",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped version of Wrapped Bitcoin (WBTC)",
+      "verified": true
+    }
+  ],
+  "id": "45850ede-52bf-4544-82fa-b255e5705436",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa37cb0e224A6D57e636185D65AF9b97c3E940303",
+    "research": null,
+    "website": "https://ecocelium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa37cb0e224a6d57e636185d65af9b97c3e940303/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WrapWBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eWBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Posscoin (POSS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "f4243295-cf13-43aa-838e-8ae193aefe6f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+    "research": null,
+    "website": "https://www.posscoin.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b193e107a773967bd821bcf8218f3548cfa2503/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Posscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POSS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

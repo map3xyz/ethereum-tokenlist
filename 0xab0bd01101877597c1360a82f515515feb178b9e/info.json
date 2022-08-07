@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xab0bd01101877597C1360a82f515515FEb178B9E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FF is a digital asset produced in the CryptoTree crypto collectible game.",
+      "verified": true
+    }
+  ],
+  "id": "96ace04f-4ba9-4cba-b212-67c92545c3d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xab0bd01101877597C1360a82f515515FEb178B9E",
+    "research": null,
+    "website": "https://babaoshu.com",
+    "github": "https://github.com/fudeshu",
+    "whitepaper": "https://www.babaoshu.com/whitepaper"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab0bd01101877597c1360a82f515515feb178b9e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

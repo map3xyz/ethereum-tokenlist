@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Libra Credit is a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. Libra Credit is a global initiative with a mission to provide financial inclusion and lower the cost of financial services.",
+      "verified": true
+    }
+  ],
+  "id": "cb5d712a-67a9-4768-9f52-3152da124cf1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+    "research": null,
+    "website": "https://www.mycred.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfe5f141bf94fe84bc28ded0ab966c16b17490657/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LibraToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

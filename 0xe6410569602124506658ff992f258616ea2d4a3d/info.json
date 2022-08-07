@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Katana is a DeFi Yield Farming platform that helps users to have profit as much as possible from their crypto assets.",
+      "verified": true
+    }
+  ],
+  "id": "bf3ad52b-5609-4291-8471-bd0ff94781a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe6410569602124506658Ff992F258616Ea2D4A3D",
+    "research": null,
+    "website": "https://katana.finance/",
+    "github": "https://github.com/katanafinance",
+    "twitter": "https://twitter.com/katanafinance",
+    "telegram": "https://t.me/katanafinance",
+    "medium": "https://medium.com/katanafinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6410569602124506658ff992f258616ea2d4a3d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KatanaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KATANA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

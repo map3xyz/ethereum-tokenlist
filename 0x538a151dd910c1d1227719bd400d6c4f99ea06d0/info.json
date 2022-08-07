@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x538a151Dd910C1D1227719bd400D6C4f99ea06d0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Liquidity Mining & Staking of ERC-20 tokens.",
+      "verified": true
+    }
+  ],
+  "id": "5140b51d-9230-4f52-b119-3514ea0b2426",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x538a151Dd910C1D1227719bd400D6C4f99ea06d0",
+    "research": null,
+    "website": "https://cryptochrome.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x538a151dd910c1d1227719bd400d6c4f99ea06d0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cryptochrome",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
