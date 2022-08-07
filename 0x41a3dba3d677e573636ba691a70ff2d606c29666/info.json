@@ -3,13 +3,9 @@
   "address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Blank is the most private, non-custodial Ethereum browser wallet.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Blank is the most private, non-custodial Ethereum browser wallet."
+  },
   "id": "7d4dac6d-5fa2-4d97-ae14-39749998dd8f",
   "links": {
     "explorer": "https://etherscan.io/token/0x41a3dba3d677e573636ba691a70ff2d606c29666",

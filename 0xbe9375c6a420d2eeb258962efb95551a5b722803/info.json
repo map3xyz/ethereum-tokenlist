@@ -3,13 +3,9 @@
   "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Earn crypto when you shop online.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Earn crypto when you shop online."
+  },
   "id": "11e9f307-5539-49a8-8080-fcb9bbc080cf",
   "links": {
     "explorer": "https://etherscan.io/token/0xbe9375c6a420d2eeb258962efb95551a5b722803",

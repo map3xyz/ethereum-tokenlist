@@ -3,13 +3,9 @@
   "address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "GYSR is an open platform for on-chain incentives.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "GYSR is an open platform for on-chain incentives."
+  },
   "id": "26fcf650-1eb7-4f84-957b-04c6e64eb21d",
   "links": {
     "explorer": "https://etherscan.io/token/0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",

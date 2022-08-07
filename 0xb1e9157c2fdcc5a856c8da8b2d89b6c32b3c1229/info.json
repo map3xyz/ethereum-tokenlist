@@ -3,13 +3,9 @@
   "address": "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers."
+  },
   "id": "ea688aaa-f248-434f-8066-536e5975f5ee",
   "links": {
     "explorer": "https://etherscan.io/token/0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",

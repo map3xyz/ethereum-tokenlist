@@ -3,13 +3,9 @@
   "address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more."
+  },
   "id": "7b93cf0b-2576-43af-ba32-9fe5266e436a",
   "links": {
     "explorer": "https://etherscan.io/token/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",

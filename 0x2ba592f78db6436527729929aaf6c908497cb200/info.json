@@ -3,13 +3,9 @@
   "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Cream - Crypto Rules Everything Around Me",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Cream - Crypto Rules Everything Around Me"
+  },
   "id": "9db8bccd-f049-4fc2-af68-5f6bcd5d7799",
   "links": {
     "explorer": "https://etherscan.io/token/0x2ba592F78dB6436527729929AAf6c908497cB200",

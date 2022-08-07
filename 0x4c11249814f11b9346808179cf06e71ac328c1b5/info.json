@@ -3,13 +3,9 @@
   "address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data oracle has arrived.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data oracle has arrived."
+  },
   "id": "19525f90-1a42-4871-b94e-bd0826ebc8db",
   "links": {
     "explorer": "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",

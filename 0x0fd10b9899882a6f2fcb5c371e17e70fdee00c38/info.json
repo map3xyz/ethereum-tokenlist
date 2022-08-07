@@ -3,13 +3,9 @@
   "address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike."
+  },
   "id": "4ba19968-4e2d-403a-b234-c40408338e30",
   "links": {
     "explorer": "https://etherscan.io/token/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",

@@ -3,13 +3,9 @@
   "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "COTI a fixed-supply DAG-based cryptocurrency.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "COTI a fixed-supply DAG-based cryptocurrency."
+  },
   "id": "53a2068f-d2d5-4743-a4c8-d931ac06c95d",
   "links": {
     "explorer": "https://etherscan.io/token/0xDDB3422497E61e13543BeA06989C0789117555c5",

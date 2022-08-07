@@ -3,13 +3,9 @@
   "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
   "color": null,
   "decimals": 0,
-  "description": [
-    {
-      "locale": "en",
-      "value": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry."
+  },
   "id": "f0f04307-a957-47dc-9036-12cfee09aa21",
   "links": {
     "explorer": "https://etherscan.io/token/0xdacD69347dE42baBfAEcD09dC88958378780FB62",

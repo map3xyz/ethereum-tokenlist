@@ -3,13 +3,9 @@
   "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "WAX Economic Token",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "WAX Economic Token"
+  },
   "id": "efae865c-de19-4811-a741-bacce80c47db",
   "links": {
     "explorer": "https://etherscan.io/token/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",

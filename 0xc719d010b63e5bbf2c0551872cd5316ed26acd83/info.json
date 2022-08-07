@@ -3,13 +3,9 @@
   "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Etherisc claims to be building a platform for decentralized insurance applications.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Etherisc claims to be building a platform for decentralized insurance applications."
+  },
   "id": "4a195615-20f8-4a29-afe5-6d55f70e6fe8",
   "links": {
     "explorer": "https://etherscan.io/token/0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",

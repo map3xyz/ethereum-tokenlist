@@ -3,13 +3,9 @@
   "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network."
+  },
   "id": "74535f1c-a4f4-4863-86d7-8757cf1c10ef",
   "links": {
     "explorer": "https://etherscan.io/token/0x6Bba316c48b49BD1eAc44573c5c871ff02958469",

@@ -3,13 +3,9 @@
   "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The DEXTF token is an ERC20 token built on the Ethereum blockchain designed to be used as a governance and incentive mechanism for usage, upgrades and potential changes to the protocol.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The DEXTF token is an ERC20 token built on the Ethereum blockchain designed to be used as a governance and incentive mechanism for usage, upgrades and potential changes to the protocol."
+  },
   "id": "cf5ffd68-5221-4081-9eb1-a87b039fe58f",
   "links": {
     "explorer": "https://etherscan.io/token/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",

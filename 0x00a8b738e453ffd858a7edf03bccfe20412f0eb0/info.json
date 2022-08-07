@@ -3,13 +3,9 @@
   "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock’s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock’s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent."
+  },
   "id": "b3264844-119b-4776-9fe1-856798d3e9b1",
   "links": {
     "explorer": "https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",

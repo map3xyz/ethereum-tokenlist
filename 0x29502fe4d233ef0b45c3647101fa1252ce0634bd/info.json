@@ -3,13 +3,9 @@
   "address": "0x29502fE4d233EF0b45C3647101Fa1252cE0634BD",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "FROGE, THE WORLDS FIRST ECO-DEFI",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "FROGE, THE WORLDS FIRST ECO-DEFI"
+  },
   "id": "b7df84fe-ca85-4d00-80fd-29d01d2ee8ec",
   "links": {
     "explorer": "https://etherscan.io/token/0x29502fE4d233EF0b45C3647101Fa1252cE0634BD",

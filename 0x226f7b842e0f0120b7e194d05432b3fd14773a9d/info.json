@@ -3,13 +3,9 @@
   "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "UNION's cornerstone of full stack protection reduces the risks and costs of DeFi",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "UNION's cornerstone of full stack protection reduces the risks and costs of DeFi"
+  },
   "id": "d34ac50c-3b16-425e-9899-34f464bc74b7",
   "links": {
     "explorer": "https://etherscan.io/token/0x226f7b842E0F0120b7E194D05432b3fd14773a9D",

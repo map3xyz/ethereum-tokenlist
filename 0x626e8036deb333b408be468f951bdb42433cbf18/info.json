@@ -3,13 +3,9 @@
   "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media."
+  },
   "id": "e6509663-c372-400e-a5bb-41cbcc91757f",
   "links": {
     "explorer": "https://etherscan.io/token/0x626E8036dEB333b408Be468F951bdB42433cBF18",

@@ -3,13 +3,9 @@
   "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Hegic is an on-chain, non-custodial peer-to-pool options trading protocol built on Ethereum. Currently Hegic supports options trading in for Bitcoin (wBTC) and Ether (ETH).",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Hegic is an on-chain, non-custodial peer-to-pool options trading protocol built on Ethereum. Currently Hegic supports options trading in for Bitcoin (wBTC) and Ether (ETH)."
+  },
   "id": "0961efb8-9993-4372-ad38-e7724ee1fbc2",
   "links": {
     "explorer": "https://etherscan.io/token/0x584bC13c7D411c00c01A62e8019472dE68768430",

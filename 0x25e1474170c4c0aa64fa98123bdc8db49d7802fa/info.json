@@ -3,13 +3,9 @@
   "address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Bidao® is building a chain agnostic trustless stablecoin and decentralized finance ecosystem. Moreover the Bidao® Token can be staked to earn extra rewards.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Bidao® is building a chain agnostic trustless stablecoin and decentralized finance ecosystem. Moreover the Bidao® Token can be staked to earn extra rewards."
+  },
   "id": "72481aa6-153b-46b6-b89a-51b74bb25051",
   "links": {
     "explorer": "https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",

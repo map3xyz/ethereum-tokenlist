@@ -3,13 +3,9 @@
   "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts."
+  },
   "id": "08a80308-3ff7-4714-928b-7a44ee865145",
   "links": {
     "explorer": "https://etherscan.io/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",

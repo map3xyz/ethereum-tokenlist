@@ -3,13 +3,9 @@
   "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into."
+  },
   "id": "9c7af4f6-8da2-4ea1-ac63-03e8b67f5221",
   "links": {
     "explorer": "https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf",

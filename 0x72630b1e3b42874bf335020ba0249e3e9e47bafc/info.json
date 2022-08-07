@@ -3,13 +3,9 @@
   "address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "PayPolitan offers mobile payments for fiat and cryptocurrencies with yield farming.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "PayPolitan offers mobile payments for fiat and cryptocurrencies with yield farming."
+  },
   "id": "dec6ba26-36e3-4d75-a64c-ca7ed90c773b",
   "links": {
     "explorer": "https://etherscan.io/token/0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",

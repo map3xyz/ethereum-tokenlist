@@ -3,13 +3,9 @@
   "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "An experiment in bringing stablecoins closer to their pegs using farming incentives, jars, and governance",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "An experiment in bringing stablecoins closer to their pegs using farming incentives, jars, and governance"
+  },
   "id": "cb1b3378-1a7e-47c6-ae85-4ff48930f0ad",
   "links": {
     "explorer": "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",

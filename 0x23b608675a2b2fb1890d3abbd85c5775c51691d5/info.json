@@ -3,13 +3,9 @@
   "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange."
+  },
   "id": "a37500b6-9073-425d-a237-912db893bbc4",
   "links": {
     "explorer": "https://etherscan.io/token/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",

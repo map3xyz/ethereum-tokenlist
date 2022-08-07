@@ -3,13 +3,9 @@
   "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses."
+  },
   "id": "9ae6a03e-8287-425f-8a33-fe136a6dc07b",
   "links": {
     "explorer": "https://etherscan.io/token/0x0000000000095413afc295d19edeb1ad7b71c952",

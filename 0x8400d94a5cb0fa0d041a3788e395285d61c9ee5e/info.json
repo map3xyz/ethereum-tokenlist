@@ -3,13 +3,9 @@
   "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Unibright offers a unified framework that aims to bring blockchain technology and smart contracts to mainstream usage.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Unibright offers a unified framework that aims to bring blockchain technology and smart contracts to mainstream usage."
+  },
   "id": "abdb94ee-bcd1-43c9-88ea-6feae446c321",
   "links": {
     "explorer": "https://etherscan.io/token/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",

@@ -3,13 +3,9 @@
   "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "is the Voting Token of DFOhub, the first programmable equity. DFOhub is an On-Chain Github to deploy and manage Decentralised Flexible Organizations. DFOs are Microservices-Driven On-Chain organisations to build Independent Decentralised Applications, in where Token Holders are the real owners and nobody hold the pk.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "is the Voting Token of DFOhub, the first programmable equity. DFOhub is an On-Chain Github to deploy and manage Decentralised Flexible Organizations. DFOs are Microservices-Driven On-Chain organisations to build Independent Decentralised Applications, in where Token Holders are the real owners and nobody hold the pk."
+  },
   "id": "fcccaa83-f7fc-4936-8c04-0d3e9baa29a7",
   "links": {
     "explorer": "https://etherscan.io/token/0x7b123f53421b1bF8533339BFBdc7C98aA94163db",

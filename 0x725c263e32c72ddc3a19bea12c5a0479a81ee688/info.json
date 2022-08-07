@@ -3,13 +3,9 @@
   "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Bridge Mutual is a decentralized, discretionary p2p/p2b platform that provides coverage for stablecoins, centralized exchanges, and smart contracts. Its allows users to provide coverage, decide on payouts, and get compensated for taking part in the ecosystem.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Bridge Mutual is a decentralized, discretionary p2p/p2b platform that provides coverage for stablecoins, centralized exchanges, and smart contracts. Its allows users to provide coverage, decide on payouts, and get compensated for taking part in the ecosystem."
+  },
   "id": "147d6dbb-8843-488f-833a-5118ef97a0d5",
   "links": {
     "explorer": "https://etherscan.io/token/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",

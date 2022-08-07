@@ -3,13 +3,9 @@
   "address": "0x26E43759551333e57F073bb0772F50329A957b30",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Building a degen community incentivised by DGVC tokens to provide liquidity for Uniswap or other AMM project launches.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Building a degen community incentivised by DGVC tokens to provide liquidity for Uniswap or other AMM project launches."
+  },
   "id": "9525e1ee-e56c-4eec-a960-1fd9e26187df",
   "links": {
     "explorer": "https://etherscan.io/token/0x26E43759551333e57F073bb0772F50329A957b30",

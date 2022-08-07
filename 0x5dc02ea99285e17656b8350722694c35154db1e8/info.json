@@ -3,13 +3,9 @@
   "address": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance."
+  },
   "id": "962bedf8-b0b9-40b7-911e-4525c80bf215",
   "links": {
     "explorer": "https://etherscan.io/token/0x5Dc02Ea99285E17656b8350722694c35154DB1E8",

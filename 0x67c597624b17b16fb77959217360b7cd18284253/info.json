@@ -3,13 +3,9 @@
   "address": "0x67c597624B17b16fb77959217360B7cD18284253",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Benchmark Protocol mitigates liquidation events and hedges risk with the MARK token; a supply elastic, stablecoin-alternative that connects traditional capital markets to DeFi.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Benchmark Protocol mitigates liquidation events and hedges risk with the MARK token; a supply elastic, stablecoin-alternative that connects traditional capital markets to DeFi."
+  },
   "id": "78be029a-84e2-48cc-8f83-9a9dfbeb0c67",
   "links": {
     "explorer": "https://etherscan.io/token/0x67c597624B17b16fb77959217360B7cD18284253",

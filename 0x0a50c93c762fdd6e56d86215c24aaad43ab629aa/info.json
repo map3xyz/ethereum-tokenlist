@@ -3,13 +3,9 @@
   "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "LGO provides a wide range of financial services on digital assets to an international and professional client base.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "LGO provides a wide range of financial services on digital assets to an international and professional client base."
+  },
   "id": "95ba6fb4-3a4e-4828-9f66-b73fd47359ac",
   "links": {
     "explorer": "https://etherscan.io/token/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",

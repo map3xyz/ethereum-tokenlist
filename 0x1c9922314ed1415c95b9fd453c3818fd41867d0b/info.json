@@ -3,13 +3,9 @@
   "address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Utility token to the blockchain game of Crazy Kings franchise.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Utility token to the blockchain game of Crazy Kings franchise."
+  },
   "id": "5f8caf55-d6d1-45c5-80df-ce198c372f83",
   "links": {
     "explorer": "https://etherscan.io/token/0x1C9922314ED1415c95b9FD453c3818fd41867d0B",

@@ -3,13 +3,9 @@
   "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives."
+  },
   "id": "59023f72-cb07-4ac8-9fb1-a373310824b6",
   "links": {
     "explorer": "https://etherscan.io/token/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",

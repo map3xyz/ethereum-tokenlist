@@ -3,13 +3,9 @@
   "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "RAI is a non pegged, ETH backed stable asset built by Reflexer. It is the first asset of its kind that, instead of being pegged to a specific target such as the USD, it freely floats while it’s being influenced by market forces.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "RAI is a non pegged, ETH backed stable asset built by Reflexer. It is the first asset of its kind that, instead of being pegged to a specific target such as the USD, it freely floats while it’s being influenced by market forces."
+  },
   "id": "68961e27-7968-466e-87f5-bac120999eeb",
   "links": {
     "explorer": "https://etherscan.io/token/0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",

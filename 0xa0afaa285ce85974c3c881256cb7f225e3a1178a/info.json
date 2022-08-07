@@ -3,13 +3,9 @@
   "address": "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns. Incorporated and regulated in Switzerland.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns. Incorporated and regulated in Switzerland."
+  },
   "id": "c4c31953-e2b1-407a-849b-f634dd67fdf9",
   "links": {
     "explorer": "https://etherscan.io/token/0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",

@@ -3,13 +3,9 @@
   "address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Verasity",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Verasity"
+  },
   "id": "12d351c0-de07-424c-a00c-479866924186",
   "links": {
     "explorer": "https://etherscan.io/token/0xF411903cbC70a74d22900a5DE66A2dda66507255",

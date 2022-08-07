@@ -3,13 +3,9 @@
   "address": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Lead Wallet is a simple decentralized multi-crypto wallet application that allow users to spend, store, swap, stake and exchange cryptocurrencies.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Lead Wallet is a simple decentralized multi-crypto wallet application that allow users to spend, store, swap, stake and exchange cryptocurrencies."
+  },
   "id": "39a7ef21-7df0-415a-bc17-9dc150c31f73",
   "links": {
     "explorer": "https://etherscan.io/token/0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",

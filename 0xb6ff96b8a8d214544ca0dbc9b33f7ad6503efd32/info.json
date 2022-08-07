@@ -3,13 +3,9 @@
   "address": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "SYNC is the underlying reward token for the NFT CryptoBond DeFi protocol.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "SYNC is the underlying reward token for the NFT CryptoBond DeFi protocol."
+  },
   "id": "36de3a34-ecdb-44be-926a-33e9f52d9a06",
   "links": {
     "explorer": "https://etherscan.io/token/0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",

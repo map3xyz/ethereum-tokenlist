@@ -3,13 +3,9 @@
   "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms."
+  },
   "id": "c49acd9a-74d6-4182-a994-e51fb9501fd0",
   "links": {
     "explorer": "https://etherscan.io/token/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",

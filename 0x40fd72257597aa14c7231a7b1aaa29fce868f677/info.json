@@ -3,13 +3,9 @@
   "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Sora is a decentralized autonomous economic system, where users vote on how to mint new units of the XOR token through a democratic referendum process. The goal is to create a decentralized, yet rational world economic system.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Sora is a decentralized autonomous economic system, where users vote on how to mint new units of the XOR token through a democratic referendum process. The goal is to create a decentralized, yet rational world economic system."
+  },
   "id": "a0bdb4c6-0203-4be1-bbdb-0ea1f7b6f48e",
   "links": {
     "explorer": "https://etherscan.io/token/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",

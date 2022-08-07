@@ -3,13 +3,9 @@
   "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Chain Games is a blockchain integrated gaming platform that incorporates non-custodial decentralized smart contract based wagering on games of skill.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Chain Games is a blockchain integrated gaming platform that incorporates non-custodial decentralized smart contract based wagering on games of skill."
+  },
   "id": "93eb9252-d426-49a3-a993-ac391f2b806d",
   "links": {
     "explorer": "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",

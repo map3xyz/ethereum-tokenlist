@@ -3,13 +3,9 @@
   "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Blockzero Labs - Blockchain development studio.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Blockzero Labs - Blockchain development studio."
+  },
   "id": "dcb65586-cd55-43d3-bc74-e3657affc341",
   "links": {
     "explorer": "https://etherscan.io/token/0x0f7f961648ae6db43c75663ac7e5414eb79b5704",

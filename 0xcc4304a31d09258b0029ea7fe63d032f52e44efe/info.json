@@ -3,13 +3,9 @@
   "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A Full-Service Digital Asset Ecosystem.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A Full-Service Digital Asset Ecosystem."
+  },
   "id": "67890097-afb9-4efd-8122-f7bf22f33bf7",
   "links": {
     "explorer": "https://etherscan.io/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",

@@ -3,13 +3,9 @@
   "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Luna is the native staking token recognized by the Terra protocol.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Luna is the native staking token recognized by the Terra protocol."
+  },
   "id": "7360fa92-793c-474a-85da-b779d5df7a42",
   "links": {
     "explorer": "https://etherscan.io/token/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",

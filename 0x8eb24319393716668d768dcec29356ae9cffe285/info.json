@@ -3,13 +3,9 @@
   "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace."
+  },
   "id": "3a7a7beb-a7c3-4ff9-b984-3c52eed29e67",
   "links": {
     "explorer": "https://etherscan.io/token/0x8eB24319393716668D768dCEC29356ae9CfFe285",

@@ -3,13 +3,9 @@
   "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
   "color": null,
   "decimals": 4,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community."
+  },
   "id": "62d936ef-5211-4994-a545-b65aeb106202",
   "links": {
     "explorer": "https://etherscan.io/token/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",

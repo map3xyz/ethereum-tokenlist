@@ -3,13 +3,9 @@
   "address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP)."
+  },
   "id": "97c9544b-c6c0-49b6-a469-df420af19bab",
   "links": {
     "explorer": "https://etherscan.io/token/0xa393473d64d2F9F026B60b6Df7859A689715d092",

@@ -3,13 +3,9 @@
   "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": " dForce Lending is a decentralized lending protocol.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": " dForce Lending is a decentralized lending protocol."
+  },
   "id": "18df1a53-dc6d-4092-a191-1555bd9b273d",
   "links": {
     "explorer": "https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",

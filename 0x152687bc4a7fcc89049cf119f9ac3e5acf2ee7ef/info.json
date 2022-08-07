@@ -3,13 +3,9 @@
   "address": "0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "First Community Governed Economic Model (C-GEM) for Crypto Community.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "First Community Governed Economic Model (C-GEM) for Crypto Community."
+  },
   "id": "6d646798-071c-416d-a0e6-f369cfbc388f",
   "links": {
     "explorer": "https://etherscan.io/token/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",

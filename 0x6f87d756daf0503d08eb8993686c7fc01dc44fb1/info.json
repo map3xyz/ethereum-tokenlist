@@ -3,13 +3,9 @@
   "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "UniTrade is a completely decentralized trading platform in the DeFi space that is built on top of UniSwap liquidity pools and requires no KYC, no accounts, and has no trading limits.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "UniTrade is a completely decentralized trading platform in the DeFi space that is built on top of UniSwap liquidity pools and requires no KYC, no accounts, and has no trading limits."
+  },
   "id": "edd87a40-5ef1-498d-8400-bf01903897e9",
   "links": {
     "explorer": "https://etherscan.io/token/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",

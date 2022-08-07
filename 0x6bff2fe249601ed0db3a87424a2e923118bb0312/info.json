@@ -3,13 +3,9 @@
   "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "When decentralized finance meets pop culture. Fyooz empowers users to invest in anything you love. It can be a artist, brand or influencer. Fyooz combines the power of Social Media with state-of-the-art Fintech solutions – in a decentralized way.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "When decentralized finance meets pop culture. Fyooz empowers users to invest in anything you love. It can be a artist, brand or influencer. Fyooz combines the power of Social Media with state-of-the-art Fintech solutions – in a decentralized way."
+  },
   "id": "f5faf9ab-5c19-4fff-b7d6-23b25743e2a1",
   "links": {
     "explorer": "https://etherscan.io/token/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",

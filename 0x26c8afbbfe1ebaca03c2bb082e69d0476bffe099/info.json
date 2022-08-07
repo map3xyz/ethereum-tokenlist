@@ -3,13 +3,9 @@
   "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "CELL is a token of the Cellframe Network.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "CELL is a token of the Cellframe Network."
+  },
   "id": "06feed53-23bb-42df-ac84-677f4ce1c125",
   "links": {
     "explorer": "https://etherscan.io/token/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",

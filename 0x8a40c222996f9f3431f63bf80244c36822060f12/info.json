@@ -3,13 +3,9 @@
   "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Finxflo is the world's first hybrid liquidity aggregator designed to offer the best rates and prices from the world’s leading CeFi and DeFi protocols through one connection, one account and one KYC process.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Finxflo is the world's first hybrid liquidity aggregator designed to offer the best rates and prices from the world’s leading CeFi and DeFi protocols through one connection, one account and one KYC process."
+  },
   "id": "a09816b8-46a5-4819-a79f-16e87e663f84",
   "links": {
     "explorer": "https://etherscan.io/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",

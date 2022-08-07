@@ -3,13 +3,9 @@
   "address": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "New Revenue Streams for Gamers",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "New Revenue Streams for Gamers"
+  },
   "id": "dfef6e6c-ce44-431d-9e3b-92fd0a1fbe5e",
   "links": {
     "explorer": "https://etherscan.io/token/0xee573a945B01B788B9287CE062A0CFC15bE9fd86",

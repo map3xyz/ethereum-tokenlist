@@ -3,13 +3,9 @@
   "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Rootkit (ROOT) is a highly deflationary, yield-farmable token that uses permanently locked liquidity pools to unlock new possibilities.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Rootkit (ROOT) is a highly deflationary, yield-farmable token that uses permanently locked liquidity pools to unlock new possibilities."
+  },
   "id": "2047d2b7-a673-4401-a439-3516ec115083",
   "links": {
     "explorer": "https://etherscan.io/token/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",

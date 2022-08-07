@@ -3,13 +3,9 @@
   "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "POA Network has launched the first-ever blockchain where the native currency of the chain is USD-stable.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "POA Network has launched the first-ever blockchain where the native currency of the chain is USD-stable."
+  },
   "id": "8799c4dd-5b5b-4c72-96a3-42fdcb50d5a6",
   "links": {
     "explorer": "https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6",

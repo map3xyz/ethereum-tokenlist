@@ -3,13 +3,9 @@
   "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A Code-as-a-Service protocol providing technology and support for blockchain-based applications",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A Code-as-a-Service protocol providing technology and support for blockchain-based applications"
+  },
   "id": "b64bd89c-311a-4dda-ba9a-a45b31ac2348",
   "links": {
     "explorer": "https://etherscan.io/token/0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",

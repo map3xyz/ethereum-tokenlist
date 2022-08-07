@@ -3,13 +3,9 @@
   "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "CORE is the first ever deflationary farming token.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "CORE is the first ever deflationary farming token."
+  },
   "id": "9188a8b1-0c46-416b-8198-662b5369b4de",
   "links": {
     "explorer": "https://etherscan.io/token/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",

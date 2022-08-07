@@ -3,13 +3,9 @@
   "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Operation of a decentralized network for the maintenance of Smart Cities and Industry 4.0",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Operation of a decentralized network for the maintenance of Smart Cities and Industry 4.0"
+  },
   "id": "c83a984e-c6bf-4e01-9b47-e2cd12640c0b",
   "links": {
     "explorer": "https://etherscan.io/token/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",

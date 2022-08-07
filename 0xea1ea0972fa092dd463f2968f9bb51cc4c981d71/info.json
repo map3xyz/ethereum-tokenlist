@@ -3,13 +3,9 @@
   "address": "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Decentralized Oracle Solutions. Building the foundation for real world adoption of Oracles and DeFi",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Decentralized Oracle Solutions. Building the foundation for real world adoption of Oracles and DeFi"
+  },
   "id": "210bb13d-958f-4242-810f-58ca79db7d9e",
   "links": {
     "explorer": "https://etherscan.io/token/0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",

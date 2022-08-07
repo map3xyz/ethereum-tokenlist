@@ -3,13 +3,9 @@
   "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
   "color": null,
   "decimals": 4,
-  "description": [
-    {
-      "locale": "en",
-      "value": "WHALE claims to be the first social token backed by the best NFT collection around.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "WHALE claims to be the first social token backed by the best NFT collection around."
+  },
   "id": "3ce2a52e-412e-4a97-af6c-2605b7f2f534",
   "links": {
     "explorer": "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",

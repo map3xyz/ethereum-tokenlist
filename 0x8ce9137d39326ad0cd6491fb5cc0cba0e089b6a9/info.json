@@ -3,13 +3,9 @@
   "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card."
+  },
   "id": "19c60cd4-b9ea-4db4-837e-58e21582c330",
   "links": {
     "explorer": "https://etherscan.io/token/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",

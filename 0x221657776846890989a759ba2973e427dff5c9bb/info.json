@@ -3,13 +3,9 @@
   "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Augur (REPv2) is meant to harness the wisdom of the crowd through prediction markets on a protocol owned and operated by holders of the Ethereum-based Reputation token.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Augur (REPv2) is meant to harness the wisdom of the crowd through prediction markets on a protocol owned and operated by holders of the Ethereum-based Reputation token."
+  },
   "id": "78b151c6-2767-408d-8b6e-4a8cb5bfa8d7",
   "links": {
     "explorer": "https://etherscan.io/token/0x221657776846890989a759BA2973e427DfF5C9bB",

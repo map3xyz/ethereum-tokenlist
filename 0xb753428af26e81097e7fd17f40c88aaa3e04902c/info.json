@@ -3,13 +3,9 @@
   "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Asset collateralization and risk customization protocol",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Asset collateralization and risk customization protocol"
+  },
   "id": "3169b937-ede1-4935-8a42-5899cc9ccd6c",
   "links": {
     "explorer": "https://etherscan.io/token/0xb753428af26E81097e7fD17f40c88aaA3E04902c",

@@ -3,13 +3,9 @@
   "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Mahadao introduces non-depreciating currency ARTH coin, a new kind of money that maintains it's buying power irrespective of which direction the market moves.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Mahadao introduces non-depreciating currency ARTH coin, a new kind of money that maintains it's buying power irrespective of which direction the market moves."
+  },
   "id": "de31e07c-fbc8-48ae-b284-e1643d184115",
   "links": {
     "explorer": "https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365",

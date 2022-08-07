@@ -3,13 +3,9 @@
   "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "OriginTrail provides a helpful protocol solution to the problem of maintaining trust among all players involved in bringing a product to market by making the “chain” in “supply chain” more literal. Using blockchain technology, OriginTrail can append immutable data to products as they take each step along the supply route.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "OriginTrail provides a helpful protocol solution to the problem of maintaining trust among all players involved in bringing a product to market by making the “chain” in “supply chain” more literal. Using blockchain technology, OriginTrail can append immutable data to products as they take each step along the supply route."
+  },
   "id": "08aac8cb-db83-4575-a771-dd1a7f0f3163",
   "links": {
     "explorer": "https://etherscan.io/token/0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",

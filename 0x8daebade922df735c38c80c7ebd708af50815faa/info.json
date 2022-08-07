@@ -3,13 +3,9 @@
   "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "tBTC is a trustlessly Bitcoin-backed ERC-20 token.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "tBTC is a trustlessly Bitcoin-backed ERC-20 token."
+  },
   "id": "0b6279d5-e492-49f8-ad1a-83281fdf36ae",
   "links": {
     "explorer": "https://etherscan.io/token/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",

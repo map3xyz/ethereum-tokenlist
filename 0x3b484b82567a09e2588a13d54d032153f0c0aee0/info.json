@@ -3,13 +3,9 @@
   "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem."
+  },
   "id": "5b36b982-a0d7-4687-a165-e7aadb097cdd",
   "links": {
     "explorer": "https://etherscan.io/token/0x3b484b82567a09e2588A13D54D032153f0c0aEe0",

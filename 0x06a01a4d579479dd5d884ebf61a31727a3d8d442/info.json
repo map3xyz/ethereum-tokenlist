@@ -3,13 +3,9 @@
   "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Smartkey is a bridge, the lacking puzzle that connects the decentralized finance (DeFI) world with the physical objects world",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Smartkey is a bridge, the lacking puzzle that connects the decentralized finance (DeFI) world with the physical objects world"
+  },
   "id": "65eeff3b-effb-4ec0-b657-3be54fbc0fad",
   "links": {
     "explorer": "https://etherscan.io/token/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",

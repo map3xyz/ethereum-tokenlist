@@ -3,13 +3,9 @@
   "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Stabilize Token (STBZ) is a reward token of the Stabilize Protocol",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Stabilize Token (STBZ) is a reward token of the Stabilize Protocol"
+  },
   "id": "39a95bff-2b53-481d-9841-ceb67e1bc8d2",
   "links": {
     "explorer": "https://etherscan.io/token/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",

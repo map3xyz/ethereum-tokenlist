@@ -3,13 +3,9 @@
   "address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Kine is a decentralized protocol which establishes general purpose liquidity pools backed by a customizable portfolio of digital assets. The liquidity pool allows traders to open and close derivatives positions according to trusted price feeds, avoiding the need of counterparties.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Kine is a decentralized protocol which establishes general purpose liquidity pools backed by a customizable portfolio of digital assets. The liquidity pool allows traders to open and close derivatives positions according to trusted price feeds, avoiding the need of counterparties."
+  },
   "id": "98413d9b-4ed5-4d68-9a24-6d03429adc97",
   "links": {
     "explorer": "https://etherscan.io/token/0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",

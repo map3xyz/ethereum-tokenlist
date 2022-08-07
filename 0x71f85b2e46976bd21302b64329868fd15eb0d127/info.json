@@ -3,13 +3,9 @@
   "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Using a high-interest time-locked savings account, Axion is a global currency, built to serve the people.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Using a high-interest time-locked savings account, Axion is a global currency, built to serve the people."
+  },
   "id": "210980b7-0b0f-4a7f-bf21-f13301ecdaf6",
   "links": {
     "explorer": "https://etherscan.io/token/0x71F85B2E46976bD21302B64329868fd15eb0D127",

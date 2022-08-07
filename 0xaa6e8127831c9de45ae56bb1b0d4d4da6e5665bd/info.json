@@ -3,13 +3,9 @@
   "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Flexible Leverage token on ETH targeting 2x",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Flexible Leverage token on ETH targeting 2x"
+  },
   "id": "2addc7a8-b276-40e3-820b-bb2b4fc00983",
   "links": {
     "explorer": "https://etherscan.io/token/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",

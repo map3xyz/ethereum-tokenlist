@@ -3,13 +3,9 @@
   "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The Metaverse Index captures the trend of entertainment, sports, and businesses shifting to virtual environments, with activity in this environment taking place on Ethereum.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The Metaverse Index captures the trend of entertainment, sports, and businesses shifting to virtual environments, with activity in this environment taking place on Ethereum."
+  },
   "id": "519bf76e-a568-41c5-b1e7-0158c867dd1e",
   "links": {
     "explorer": "https://etherscan.io/token/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",

@@ -3,13 +3,9 @@
   "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Reward token for the Anatha ecosystem.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Reward token for the Anatha ecosystem."
+  },
   "id": "6e62e001-1c69-44e5-a13e-bd3d5218e2de",
   "links": {
     "explorer": "https://etherscan.io/token/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",

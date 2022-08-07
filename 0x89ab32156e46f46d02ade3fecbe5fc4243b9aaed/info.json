@@ -3,13 +3,9 @@
   "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The heartbeat of cross-chain composability.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The heartbeat of cross-chain composability."
+  },
   "id": "09779fac-74ef-43d2-af77-da004f261893",
   "links": {
     "explorer": "https://etherscan.io/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",

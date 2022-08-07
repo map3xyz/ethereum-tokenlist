@@ -3,13 +3,9 @@
   "address": "0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "CC10 is a passively managed, capitalization-weighted index that tracks the top 10 tokens by market cap from the Cryptocurrency market sector defined by NDX governance..",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "CC10 is a passively managed, capitalization-weighted index that tracks the top 10 tokens by market cap from the Cryptocurrency market sector defined by NDX governance.."
+  },
   "id": "2831f300-e880-4059-bc51-1ea666897e90",
   "links": {
     "explorer": "https://etherscan.io/token/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",

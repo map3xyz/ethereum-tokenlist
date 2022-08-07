@@ -3,13 +3,9 @@
   "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Unlocking Liquid Capital From Staked Assets",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Unlocking Liquid Capital From Staked Assets"
+  },
   "id": "f828e68c-860a-40e4-90be-594ac2cfd283",
   "links": {
     "explorer": "https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",

@@ -3,13 +3,9 @@
   "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO).",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO)."
+  },
   "id": "1ff7052d-72c3-4907-9e29-6a637cb33994",
   "links": {
     "explorer": "https://etherscan.io/token/0xa117000000f279D81A1D3cc75430fAA017FA5A2e",

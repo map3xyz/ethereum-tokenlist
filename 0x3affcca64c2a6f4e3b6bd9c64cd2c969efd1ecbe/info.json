@@ -3,13 +3,9 @@
   "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators."
+  },
   "id": "27bc37fb-5722-499f-b5a9-c3d9079042fd",
   "links": {
     "explorer": "https://etherscan.io/token/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",

@@ -3,13 +3,9 @@
   "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Decentralized Perpetual Contract for Every Assets",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Decentralized Perpetual Contract for Every Assets"
+  },
   "id": "3c55aae5-56bc-4a35-895c-bd4f8cfcfd59",
   "links": {
     "explorer": "https://etherscan.io/token/0xbC396689893D065F41bc2C6EcbeE5e0085233447",

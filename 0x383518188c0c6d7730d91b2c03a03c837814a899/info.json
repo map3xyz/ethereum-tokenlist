@@ -3,13 +3,9 @@
   "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Olympus (OHM) aims to become a decentralized reserve currency that is community owned, governed by a DAO, and backed by decentralized assets.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Olympus (OHM) aims to become a decentralized reserve currency that is community owned, governed by a DAO, and backed by decentralized assets."
+  },
   "id": "543c9ea5-d752-4d51-8757-18480c38db0c",
   "links": {
     "explorer": "https://etherscan.io/token/0x383518188C0C6d7730D91b2c03a03C837814a899",

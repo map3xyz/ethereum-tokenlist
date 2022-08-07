@@ -3,13 +3,9 @@
   "address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!"
+  },
   "id": "b0dcd5d9-f8c8-4b01-9c13-c3f35656e07c",
   "links": {
     "explorer": "https://etherscan.io/token/0xf418588522d5dd018b425e472991e52ebbeeeeee",

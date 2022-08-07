@@ -3,13 +3,9 @@
   "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Developers can combine the best protocols to develop substantially more scalable and flexible DApps.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Developers can combine the best protocols to develop substantially more scalable and flexible DApps."
+  },
   "id": "e808b678-0f24-446d-a8a3-cdf7e74152b7",
   "links": {
     "explorer": "https://etherscan.io/token/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",

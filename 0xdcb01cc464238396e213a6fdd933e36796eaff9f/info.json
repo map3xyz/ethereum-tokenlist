@@ -3,13 +3,9 @@
   "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan"
+  },
   "id": "7b72aa27-c96b-4f4f-a9bd-00ba32753c95",
   "links": {
     "explorer": "https://etherscan.io/token/0xdcb01cc464238396e213a6fdd933e36796eaff9f",

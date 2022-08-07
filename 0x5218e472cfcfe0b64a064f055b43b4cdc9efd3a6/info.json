@@ -3,13 +3,9 @@
   "address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "unFederalReserve is a banking SaaS company built on blockchain technology. Our banking products are designed for smaller U.S. Treasury chartered banks and non-bank lenders in need of greater liquidity without sacrificing security or compliance.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "unFederalReserve is a banking SaaS company built on blockchain technology. Our banking products are designed for smaller U.S. Treasury chartered banks and non-bank lenders in need of greater liquidity without sacrificing security or compliance."
+  },
   "id": "ec08dbf9-f6be-45b7-b890-1e379534ae97",
   "links": {
     "explorer": "https://etherscan.io/token/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",

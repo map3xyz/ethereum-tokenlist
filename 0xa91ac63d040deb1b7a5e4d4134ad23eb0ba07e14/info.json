@@ -3,13 +3,9 @@
   "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking."
+  },
   "id": "e70a10e6-480a-44db-b710-324d66be7761",
   "links": {
     "explorer": "https://etherscan.io/token/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",

@@ -3,13 +3,9 @@
   "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design."
+  },
   "id": "e6149935-cb7c-4697-af65-20e8978a897d",
   "links": {
     "explorer": "https://etherscan.io/token/0x853d955aCEf822Db058eb8505911ED77F175b99e",

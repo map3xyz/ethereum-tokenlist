@@ -3,13 +3,9 @@
   "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "DeFi Yield Farming with Automated Vaults, combined with Ethereum Mining Pool",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "DeFi Yield Farming with Automated Vaults, combined with Ethereum Mining Pool"
+  },
   "id": "5f1a472f-0a07-410f-bd6d-0002cb1869cb",
   "links": {
     "explorer": "https://etherscan.io/token/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",

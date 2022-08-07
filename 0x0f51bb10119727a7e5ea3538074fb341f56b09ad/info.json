@@ -3,13 +3,9 @@
   "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors."
+  },
   "id": "5242b4cb-6d09-40fa-9080-e500f500dd81",
   "links": {
     "explorer": "https://etherscan.io/token/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",

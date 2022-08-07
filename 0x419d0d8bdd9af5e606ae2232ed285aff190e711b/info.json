@@ -3,13 +3,9 @@
   "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Envisioning the decentralization of the concept behind casinos, FunFair harnesses peer-to-peer technology in combination with cryptography.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Envisioning the decentralization of the concept behind casinos, FunFair harnesses peer-to-peer technology in combination with cryptography."
+  },
   "id": "4b03b3d1-bd87-4d5c-8df4-ac75d9280226",
   "links": {
     "explorer": "https://etherscan.io/token/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",

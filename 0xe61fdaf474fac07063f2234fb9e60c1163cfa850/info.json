@@ -3,13 +3,9 @@
   "address": "0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Coin is a global online digital decentralized network comprised of protocols, smart contracts, dApps, and services that help facilitate the transfer of value across the Internet. It seeks to create an open financial system composed of decentralized solutions that empower consumers to execute financial transactions with freedom and simplicity.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Coin is a global online digital decentralized network comprised of protocols, smart contracts, dApps, and services that help facilitate the transfer of value across the Internet. It seeks to create an open financial system composed of decentralized solutions that empower consumers to execute financial transactions with freedom and simplicity."
+  },
   "id": "081435f6-6e1d-4ed5-a007-6d02aa33426b",
   "links": {
     "explorer": "https://etherscan.io/token/0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850",

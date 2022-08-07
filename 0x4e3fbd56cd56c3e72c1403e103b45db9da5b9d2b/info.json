@@ -3,13 +3,9 @@
   "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A platform built to boost rewards for CRV stakers and liquidity providers alike, all in a simple and easy to use interface. Convex aims to simplify staking on Curve, as well as the CRV-locking system with the help of its native fee-earning token: CVX.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A platform built to boost rewards for CRV stakers and liquidity providers alike, all in a simple and easy to use interface. Convex aims to simplify staking on Curve, as well as the CRV-locking system with the help of its native fee-earning token: CVX."
+  },
   "id": "43cbe0e0-f077-428e-9387-49f8182536d7",
   "links": {
     "explorer": "https://etherscan.io/token/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",

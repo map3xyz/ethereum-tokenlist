@@ -3,13 +3,9 @@
   "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain."
+  },
   "id": "17543f8e-7d37-4cf9-8b10-15750f332f82",
   "links": {
     "explorer": "https://etherscan.io/token/0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",

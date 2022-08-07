@@ -3,13 +3,9 @@
   "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio."
+  },
   "id": "3ad5f3d4-b4dd-4de9-87a6-3a18b9c63241",
   "links": {
     "explorer": "https://etherscan.io/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",

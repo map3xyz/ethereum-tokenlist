@@ -3,13 +3,9 @@
   "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Decentr is a publicly accessible, open-source blockchain protocol that targets the consumer crypto loans market, securing user data, and returning data value to the user.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Decentr is a publicly accessible, open-source blockchain protocol that targets the consumer crypto loans market, securing user data, and returning data value to the user."
+  },
   "id": "37d334d8-13e9-460f-b11d-44f70f5aaf5d",
   "links": {
     "explorer": "https://etherscan.io/token/0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",

@@ -3,13 +3,9 @@
   "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "A fully decentralized protocol for private transactions on Ethereum.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "A fully decentralized protocol for private transactions on Ethereum."
+  },
   "id": "25637f71-b12d-4b9b-8289-3469bd31c9c2",
   "links": {
     "explorer": "https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c",

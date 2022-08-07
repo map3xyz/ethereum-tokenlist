@@ -3,13 +3,9 @@
   "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Kylin Network aims to Build a Cross-chain Platform Powering the Data Economy on Polkadot. It will be the Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Kylin Network aims to Build a Cross-chain Platform Powering the Data Economy on Polkadot. It will be the Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot."
+  },
   "id": "ccee232a-cc2c-4de4-8461-81d0123be09d",
   "links": {
     "explorer": "https://etherscan.io/token/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",

@@ -3,13 +3,9 @@
   "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Goverance token of Mirror Protocol.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Goverance token of Mirror Protocol."
+  },
   "id": "a2a5d287-b291-497c-bc3e-3379b32a518d",
   "links": {
     "explorer": "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608",

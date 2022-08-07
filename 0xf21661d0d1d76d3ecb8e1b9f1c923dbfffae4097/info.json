@@ -3,13 +3,9 @@
   "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "End-to-end platform for compliant issuance, p2p trading and life-cycle management of digital assets.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "End-to-end platform for compliant issuance, p2p trading and life-cycle management of digital assets."
+  },
   "id": "b9a5f9a6-0a6b-42c7-986c-464ea6c80f10",
   "links": {
     "explorer": "https://etherscan.io/token/0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",

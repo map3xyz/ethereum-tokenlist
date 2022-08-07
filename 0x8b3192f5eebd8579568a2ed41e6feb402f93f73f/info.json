@@ -3,13 +3,9 @@
   "address": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Community Owned Decentralised Token",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Community Owned Decentralised Token"
+  },
   "id": "86f03c3c-6441-4e8b-a63c-011dcd4eb739",
   "links": {
     "explorer": "https://etherscan.io/token/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",

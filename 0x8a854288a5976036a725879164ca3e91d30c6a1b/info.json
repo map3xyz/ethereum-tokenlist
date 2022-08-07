@@ -3,13 +3,9 @@
   "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way."
+  },
   "id": "6074ab3d-0da6-4730-893d-b7e0e7dcb08b",
   "links": {
     "explorer": "https://etherscan.io/token/0x8a854288a5976036A725879164Ca3e91d30c6A1B",

@@ -3,13 +3,9 @@
   "address": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "UniMex is a Uniswap based borrowing platform which facilitates the margin trading of native Uniswap assets",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "UniMex is a Uniswap based borrowing platform which facilitates the margin trading of native Uniswap assets"
+  },
   "id": "537eaf9f-2ab8-46c2-be33-1738b9fb2561",
   "links": {
     "explorer": "https://etherscan.io/token/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",

@@ -3,13 +3,9 @@
   "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
   "color": null,
   "decimals": 9,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets."
+  },
   "id": "93159571-81f8-4737-92b4-4b5227433356",
   "links": {
     "explorer": "https://etherscan.io/token/0xD46bA6D942050d489DBd938a2C909A5d5039A161",

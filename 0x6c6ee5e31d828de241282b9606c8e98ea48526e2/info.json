@@ -3,13 +3,9 @@
   "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users."
+  },
   "id": "cef32dc8-82ea-443b-884c-e734af503a57",
   "links": {
     "explorer": "https://etherscan.io/token/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",

@@ -3,13 +3,9 @@
   "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
   "color": null,
   "decimals": 6,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Ferrum Network aims to empower individuals with decentralized financial technology.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Ferrum Network aims to empower individuals with decentralized financial technology."
+  },
   "id": "7a1dd0d7-28c6-4170-897e-a88cd49006d3",
   "links": {
     "explorer": "https://etherscan.io/token/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",

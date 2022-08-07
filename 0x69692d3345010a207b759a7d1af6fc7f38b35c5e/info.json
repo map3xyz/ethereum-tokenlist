@@ -3,13 +3,9 @@
   "address": "0x69692D3345010a207b759a7D1af6fc7F38b35c5E",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "CHADS is a deflationary token utilizing a novel burn curve mechanism to create a supply-and-demand equilibrium. CHADS tokens are the centerpoint of the non-fungible-token (NFT) marketplace and Chadswap, a Polkadot cross-parachain exchange.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "CHADS is a deflationary token utilizing a novel burn curve mechanism to create a supply-and-demand equilibrium. CHADS tokens are the centerpoint of the non-fungible-token (NFT) marketplace and Chadswap, a Polkadot cross-parachain exchange."
+  },
   "id": "c4798061-5e89-4e4b-b0e5-bef9fe0c9f00",
   "links": {
     "explorer": "https://etherscan.io/token/0x69692D3345010a207b759a7D1af6fc7F38b35c5E",

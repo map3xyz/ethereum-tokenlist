@@ -3,13 +3,9 @@
   "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Wrapped Celo is a 1:1 equivalent of Celo on the Ethereum network",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Wrapped Celo is a 1:1 equivalent of Celo on the Ethereum network"
+  },
   "id": "7440e536-1717-494e-98b1-bb49bb9250f1",
   "links": {
     "explorer": "https://etherscan.io/token/0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",

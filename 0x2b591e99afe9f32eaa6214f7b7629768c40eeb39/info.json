@@ -3,13 +3,9 @@
   "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
   "color": null,
   "decimals": 8,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,"
+  },
   "id": "b163d530-2723-44ff-90cf-f0288b68b5ba",
   "links": {
     "explorer": "https://etherscan.io/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",

@@ -3,13 +3,9 @@
   "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Polkastarter is a DEX built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized, permissionless and interoperable environment based on Polkadot.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Polkastarter is a DEX built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized, permissionless and interoperable environment based on Polkadot."
+  },
   "id": "56e61a13-e061-485b-9643-077ee0c7ab76",
   "links": {
     "explorer": "https://etherscan.io/token/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",

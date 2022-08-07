@@ -3,13 +3,9 @@
   "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Connect blockchain activity to off-chain apps and devices. Monitor and secure DeFi applications. Build custom event triggers and power real-time automations.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Connect blockchain activity to off-chain apps and devices. Monitor and secure DeFi applications. Build custom event triggers and power real-time automations."
+  },
   "id": "d40a768b-3c2b-49cd-93a3-01a7907ddde5",
   "links": {
     "explorer": "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",

@@ -3,13 +3,9 @@
   "address": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem."
+  },
   "id": "e0a67ed0-bd69-4d29-8496-9b2b98caca6e",
   "links": {
     "explorer": "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",

@@ -3,13 +3,9 @@
   "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "The automation of decentralized DeFi data monitorization and external executions over multi-chain applications.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "The automation of decentralized DeFi data monitorization and external executions over multi-chain applications."
+  },
   "id": "9358d08f-1e46-4bb1-8fc6-cd920e4e91a0",
   "links": {
     "explorer": "https://etherscan.io/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",

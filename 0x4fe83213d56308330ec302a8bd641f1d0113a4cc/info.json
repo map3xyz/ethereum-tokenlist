@@ -3,13 +3,9 @@
   "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "NuCypher is a decentralized threshold cryptography network.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "NuCypher is a decentralized threshold cryptography network."
+  },
   "id": "6b8772a8-44f7-44c3-b842-4c407f810744",
   "links": {
     "explorer": "https://etherscan.io/token/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",

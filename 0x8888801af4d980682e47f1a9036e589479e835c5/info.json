@@ -3,13 +3,9 @@
   "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "MPH is a cryptocurrency and operates on the Ethereum platform.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "MPH is a cryptocurrency and operates on the Ethereum platform."
+  },
   "id": "6517919d-8c1e-4f69-aecf-d4d37435a949",
   "links": {
     "explorer": "https://etherscan.io/token/0x8888801aF4d980682e47f1A9036e589479e835C5",

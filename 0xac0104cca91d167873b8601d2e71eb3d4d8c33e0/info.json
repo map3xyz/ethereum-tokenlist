@@ -3,13 +3,9 @@
   "address": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Crowns are the official token of the Seascape Network. They are designed to reward all key stakeholders within the network. The Seascape Network is an incentivized ecosystem consisting of gamers, developers, and influencers with the purpose of bringing DeFi gaming to a broader userbase.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Crowns are the official token of the Seascape Network. They are designed to reward all key stakeholders within the network. The Seascape Network is an incentivized ecosystem consisting of gamers, developers, and influencers with the purpose of bringing DeFi gaming to a broader userbase."
+  },
   "id": "18f32e85-297b-4229-842f-29eb40580d0e",
   "links": {
     "explorer": "https://etherscan.io/token/0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",

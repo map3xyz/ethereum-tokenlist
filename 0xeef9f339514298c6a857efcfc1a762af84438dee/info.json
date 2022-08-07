@@ -3,13 +3,9 @@
   "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
   "color": null,
   "decimals": 18,
-  "description": [
-    {
-      "locale": "en",
-      "value": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
-      "verified": true
-    }
-  ],
+  "description": {
+    "en": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum."
+  },
   "id": "0eb4e301-15a5-401e-9bdb-9b640202b19d",
   "links": {
     "explorer": "https://etherscan.io/token/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
