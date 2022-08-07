@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x001Fc4a7f2f586596308091c7B296D4535A25a90",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hubscop is a peer to peer networking system for delivering and marketing contents in a fair and ethical manner.",
+      "verified": true
+    }
+  ],
+  "id": "ec064b08-7bbe-489d-98dc-f7e56b6b15b6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x001Fc4a7f2f586596308091c7B296D4535A25a90",
+    "research": null,
+    "website": "https://hubscop.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x001fc4a7f2f586596308091c7b296d4535a25a90/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hubscop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUBS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

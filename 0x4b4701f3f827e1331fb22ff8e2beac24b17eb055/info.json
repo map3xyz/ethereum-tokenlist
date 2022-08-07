@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DISTX is an automated private sale platform, allowing token creators and token users to come together in a safe, decentralized and automated sale.",
+      "verified": true
+    }
+  ],
+  "id": "92619255-b814-4633-b995-2fb8675178f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+    "research": null,
+    "website": "https://distx.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DISTX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DISTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

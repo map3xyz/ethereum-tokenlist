@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAFFCDd96531bCd66faED95FC61e443D08F79eFEf",
+  "color": null,
+  "decimals": 5,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PMGT allows blockchain users to conveniently trade and hold gold stored at The Perth Mint.",
+      "verified": true
+    }
+  ],
+  "id": "1a14bcce-f7b4-4d42-b9a3-0a954ac980cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAFFCDd96531bCd66faED95FC61e443D08F79eFEf",
+    "research": null,
+    "website": "https://pmgt.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaffcdd96531bcd66faed95fc61e443d08f79efef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Perth Mint Gold Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PMGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

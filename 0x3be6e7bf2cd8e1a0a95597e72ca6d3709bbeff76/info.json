@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "2379771c-ba71-4856-82db-3b1ce9c55c14",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+    "research": null,
+    "website": "https://dmtc.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DMTC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DMTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

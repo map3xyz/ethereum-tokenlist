@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "6dac51dd-3f15-4c68-bed3-5d8dd39d535d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
+    "research": null,
+    "website": "https://solana.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd31a59c85ae9d8edefec411d448f90841571b89c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOL (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

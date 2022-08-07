@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xf0A0F3A6FA6bED75345171a5EA18AbcadF6453BA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yearn Finance Bit is a decentralized token under ERC-20 protocol, allows users to stake YFBT, borrow assets, and vote for improvements within the community.",
+      "verified": true
+    }
+  ],
+  "id": "b2060eda-6fd7-4330-bb40-2b5ae5ea2fbe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf0A0F3A6FA6bED75345171a5EA18AbcadF6453BA",
+    "research": null,
+    "website": "https://yfbit.finance/",
+    "github": "https://github.com/yfbit",
+    "whitepaper": "https://yfbit.finance/assets/white/YearnFinanceBit_WP_v_1.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yearn Finance Bit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

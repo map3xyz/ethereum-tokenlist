@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Volt Inu ($VOLT) is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins. This investment diversity allows to mitigate the risk while taking advantage of the possible non-correlated growth of the trending assets.",
+      "verified": true
+    }
+  ],
+  "id": "de6f82f8-bb10-423a-bc71-6557a9a8f766",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+    "research": null,
+    "website": "https://voltinu.in",
+    "twitter": "https://twitter.com/VoltInuOfficial",
+    "telegram": "https://t.me/VoltInuOfficial",
+    "reddit": "https://reddit.com/r/Volt_Inu/",
+    "whitepaper": "https://voltinu.in/Whitepaper_v1.pdf",
+    "youtube": "https://youtube.com/channel/UCDLlAleEEmhc7pVdB5pZWFg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/volt-inu-v2/",
+    "coingecko": "https://coingecko.com/en/coins/volt-inu",
+    "medium": "https://medium.com/@VoltInu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Volt Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOLT",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

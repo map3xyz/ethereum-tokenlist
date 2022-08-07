@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6f022E991ea21d26F85f6716c088e2864101dfEC",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our Seller Transfer Only Protocol Initiates Tax (STOP IT) actively taxes sellers while rewarding holders.",
+      "verified": true
+    }
+  ],
+  "id": "60855753-7067-4a7f-be1a-09ebf6f1eaf3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6f022E991ea21d26F85f6716c088e2864101dfEC",
+    "research": null,
+    "website": "https://handsofsteel.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f022e991ea21d26f85f6716c088e2864101dfec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hands Of Steel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STEEL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Soft Yearn is a unique cryptocurrency that is soft-pegged to Yearn Finance with adaptive properties taken from Ampleforth.",
+      "verified": true
+    }
+  ],
+  "id": "e339ffc1-4288-45aa-91f7-095be170efe5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
+    "research": null,
+    "website": "https://syfi.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x322124122df407b0d0d902cb713b3714fb2e2e1f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Soft Yearn Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SYFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

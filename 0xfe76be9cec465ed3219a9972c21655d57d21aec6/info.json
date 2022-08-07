@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f1921055-fb32-446c-9198-1ba7f6c71897",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+    "research": null,
+    "website": "https://pallet.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfe76be9cec465ed3219a9972c21655d57d21aec6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PalletOneToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

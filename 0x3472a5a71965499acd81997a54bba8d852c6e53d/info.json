@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "d065252d-8bf9-40a5-9cb1-dbc06904a0d7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "research": null,
+    "website": "https://badger.finance/",
+    "twitter": "https://twitter.com/$BADGER",
+    "discord": "https://discord.com/invite/xSPFHHS",
+    "medium": "https://badgerdao.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3472a5a71965499acd81997a54bba8d852c6e53d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Badger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BADGER",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.",
+      "verified": true
+    }
+  ],
+  "id": "795e1d2a-deb8-47ce-8fa9-75eb38b2fa26",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+    "research": null,
+    "website": "https://fuse.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fuse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUSE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x8167D3B1024cB51A2DD1B4d889ddf7023420796a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.",
+      "verified": true
+    }
+  ],
+  "id": "69c8d8ef-ab2c-4adc-a5d9-05afd437c4b1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8167d3b1024cb51a2dd1b4d889ddf7023420796a",
+    "research": null,
+    "website": "https://www.noku.io/",
+    "twitter": "https://twitter.com/nokuofficial",
+    "github": "https://github.com/noku-team",
+    "telegram": "https://t.me/nokuofficial",
+    "telegramNews": "https://t.me/nokunews",
+    "facebook": "https://facebook.com/Noku-317917408638309",
+    "youtube": "https://youtube.com/channel/UC2Ru2OagHzkuETQLDvy4FuA",
+    "medium": "https://nokuteam.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/noku/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8167d3b1024cb51a2dd1b4d889ddf7023420796a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NOKU v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOKU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

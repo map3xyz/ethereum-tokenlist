@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7debee55-94af-4f09-8172-6cee62b9e864",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
+    "research": null,
+    "website": "https://accelerator.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Accelerator",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

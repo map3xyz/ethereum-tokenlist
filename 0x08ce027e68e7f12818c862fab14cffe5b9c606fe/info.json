@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08cE027e68e7F12818C862faB14CFFE5B9C606FE",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped version of Ormeus Coin (ORMEUS)",
+      "verified": true
+    }
+  ],
+  "id": "c93ae481-0f03-4697-a2a8-bb569cc3088e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08cE027e68e7F12818C862faB14CFFE5B9C606FE",
+    "research": null,
+    "website": "https://ecocelium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08ce027e68e7f12818c862fab14cffe5b9c606fe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WrapORME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eORME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

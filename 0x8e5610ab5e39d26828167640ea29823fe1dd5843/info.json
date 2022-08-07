@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8E5610ab5E39d26828167640EA29823fe1dD5843",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KanadeCoin (KNDC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "7763f85f-a55d-498c-958c-af53f9acf770",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8E5610ab5E39d26828167640EA29823fe1dD5843",
+    "research": null,
+    "website": "https://kanadecoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e5610ab5e39d26828167640ea29823fe1dd5843/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KanadeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

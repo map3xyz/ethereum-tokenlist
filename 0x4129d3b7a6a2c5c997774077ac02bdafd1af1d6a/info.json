@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4129D3b7a6A2c5C997774077aC02bDafd1AF1d6a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c2e7d805-d783-48d5-9b76-8af44ac55e0e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4129D3b7a6A2c5C997774077aC02bDafd1AF1d6a",
+    "research": null,
+    "website": "http://laddernetwork.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ladder Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "COVER Protocol features shield-mining and SAFE2 token will be converted to COVER token.",
+      "verified": true
+    }
+  ],
+  "id": "81f693ff-8e0a-4a96-b686-f5fa3eb19910",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+    "research": null,
+    "website": "https://www.coverprotocol.com/",
+    "github": "https://github.com/CoverProtocol",
+    "twitter": "https://twitter.com/COVERProtocol",
+    "coingecko": "https://coingecko.com/en/coins/cover-protocol/",
+    "medium": "https://coverprotocol.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cover-protocol/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d8d9f5b96f4438195be9b99eee6118ed4304286/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Old Cover Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COVER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

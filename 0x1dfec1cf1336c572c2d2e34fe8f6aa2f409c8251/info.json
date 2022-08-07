@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1dFEc1Cf1336c572c2D2E34fe8F6Aa2F409C8251",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "17078f5d-e97b-4ffc-ae9d-58cacea0dfda",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1dFEc1Cf1336c572c2D2E34fe8F6Aa2F409C8251",
+    "research": null,
+    "website": "https://metalblock.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1dfec1cf1336c572c2d2e34fe8f6aa2f409c8251/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "metalblock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTBK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

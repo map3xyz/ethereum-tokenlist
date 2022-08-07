@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1A0B4b959cF9c5853f701ca1484e57CA69ff9515",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EasyPocket is the most advanced Ethereum wallet with the built-in mixer.",
+      "verified": true
+    }
+  ],
+  "id": "7fc1b2e8-9717-42f6-8cd5-94ff0b5d9d7e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1A0B4b959cF9c5853f701ca1484e57CA69ff9515",
+    "research": null,
+    "website": "https://easypocket.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a0b4b959cf9c5853f701ca1484e57ca69ff9515/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EasyPocket Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EASY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

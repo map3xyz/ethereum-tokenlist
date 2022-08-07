@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "2key.network empowers “Social Sourcing” - incentivising formation of ad-hoc social networks that allow customers, fans and supporters to be compensated for helping businesses grow - finding target audiences that achieve business results.",
+      "verified": true
+    }
+  ],
+  "id": "7ae931e5-187a-47d4-a98f-ba817a7fe616",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+    "research": null,
+    "website": "https://2key.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe48972fcd82a274411c01834e2f031d4377fa2c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TwoKeyEconomy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "2KEY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

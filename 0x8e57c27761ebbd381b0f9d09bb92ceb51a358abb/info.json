@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Adaptive Social Media System.",
+      "verified": true
+    }
+  ],
+  "id": "30c647e4-4491-40fc-8d67-9262b7fe90bd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+    "research": null,
+    "website": "https://xhumanity.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "extraDNA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xDNA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

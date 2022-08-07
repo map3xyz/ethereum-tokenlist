@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5c7499CF00E8278AA232982fF178ee9735024091",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "r.Pepe Token is a deflationary cypto-currency with a 2.5% burn implemented for each transaction.",
+      "verified": true
+    }
+  ],
+  "id": "a0c1554b-0b15-43cb-a592-3947a9d64d02",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5c7499CF00E8278AA232982fF178ee9735024091",
+    "research": null,
+    "website": "https://rarepepe.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c7499cf00e8278aa232982ff178ee9735024091/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "r.Pepe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "r.Pepe",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

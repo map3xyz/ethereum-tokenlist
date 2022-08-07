@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x90D46A9636B973f18186541d1B04ed3621a49Cb0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6e648187-d988-46b9-9b0c-dca88bdde919",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x90D46A9636B973f18186541d1B04ed3621a49Cb0",
+    "research": null,
+    "website": "https://www.natmin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90d46a9636b973f18186541d1b04ed3621a49cb0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Natmin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

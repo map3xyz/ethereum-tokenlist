@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6758B7d441a9739b98552B373703d8d3d14f9e62",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "ff445a0f-8476-4adb-889e-e9b2031a4c64",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6758B7d441a9739b98552B373703d8d3d14f9e62",
+    "research": null,
+    "website": "https://poa.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6758b7d441a9739b98552b373703d8d3d14f9e62/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "POA ERC20 on Foundation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POA20",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

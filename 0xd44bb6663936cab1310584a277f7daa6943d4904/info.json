@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd44bb6663936CAb1310584A277f7DAa6943d4904",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Winco (WCO) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "7871842b-88e0-49a2-8249-c2f9b3c1a418",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd44bb6663936CAb1310584A277f7DAa6943d4904",
+    "research": null,
+    "website": "https://winco.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd44bb6663936cab1310584a277f7daa6943d4904/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Winco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

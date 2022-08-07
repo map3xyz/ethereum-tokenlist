@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BabyDoge is fully decentralized and on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project.",
+      "verified": true
+    }
+  ],
+  "id": "62f6f075-2d5e-4fa3-a4d1-98be0db86bb8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5",
+    "research": null,
+    "website": "https://babydogecoin.gg",
+    "twitter": "https://twitter.com/king_bdoge",
+    "github": "https://github.com/babydogecoingg",
+    "telegram": "https://t.me/babydogecoingg",
+    "whitepaper": "https://babydogecoin.gg/assets/BabyDoge_WhitePaper.pdf",
+    "medium": "https://medium.com/@babydogecoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babydoge-coin/",
+    "coingecko": "https://coingecko.com/en/coins/babydoge-eth",
+    "sourceCode": "https://etherscan.io/address/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5#code"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BabyDoge ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BABYDOGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

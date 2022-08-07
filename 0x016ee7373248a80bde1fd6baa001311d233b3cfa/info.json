@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "3X Short Bitcoin Token (BEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Bitcoin.",
+      "verified": true
+    }
+  ],
+  "id": "304b4f34-1d28-4cc1-9e43-1738786fbd5a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
+    "research": null,
+    "website": "https://ftx.com/tokens/BEAR"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x016ee7373248a80bde1fd6baa001311d233b3cfa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": " 3X Short Bitcoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

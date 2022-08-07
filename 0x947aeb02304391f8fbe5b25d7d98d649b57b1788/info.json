@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mandala Exchange users can unlock platform enhancements and receive trading fee rebates by locking MDX on the platform.",
+      "verified": true
+    }
+  ],
+  "id": "9338d0db-bf51-4cec-b03b-ebd4508d367f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+    "research": null,
+    "website": "https://www.mandala.exchange"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x947aeb02304391f8fbe5b25d7d98d649b57b1788/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mandala Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

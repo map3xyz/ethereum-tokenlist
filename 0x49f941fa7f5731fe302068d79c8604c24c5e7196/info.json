@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x49f941FA7f5731fe302068d79c8604C24C5E7196",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ha ha money printer go brr",
+      "verified": true
+    }
+  ],
+  "id": "b6d76bb2-faf8-4b4a-b431-c6c215bc87e3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49f941FA7f5731fe302068d79c8604C24C5E7196",
+    "research": null,
+    "website": "https://brr.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49f941fa7f5731fe302068d79c8604c24c5e7196/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BRR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

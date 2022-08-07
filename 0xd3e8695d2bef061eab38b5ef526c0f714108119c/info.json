@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFIVE is a community driven DeFi-project by the people and for the people, the decisions and actions of YFIVE are made by its community through voting to assure equity and fairness for all.",
+      "verified": true
+    }
+  ],
+  "id": "090cce8e-6fa8-477d-9de0-3b6d64264145",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
+    "research": null,
+    "website": "https://yfive.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd3e8695d2bef061eab38b5ef526c0f714108119c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFIVE.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

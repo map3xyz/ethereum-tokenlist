@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Interoperable Smart Contracts & dApps Network",
+      "verified": true
+    }
+  ],
+  "id": "2d7e87ea-31f0-4d54-a9c4-fe510034f205",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+    "research": null,
+    "website": "https://tixl.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tixl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TXL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

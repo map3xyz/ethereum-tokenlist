@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ShowHand is an advanced blockchain platform created to bring a fast, secure and trustless structure for the global gaming ecosystem. Our goal is to make gaming more inclusive, fair and decentralized.",
+      "verified": true
+    }
+  ],
+  "id": "fa49582b-55b7-42cf-90eb-9e687ec96e77",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7",
+    "research": null,
+    "website": "https://www.showhand.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShowHand",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

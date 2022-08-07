@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HXN is a Ethereum-based token that introduces a new concept proof of fun (POF). Have fun and your efforts will be rewarded with HXN.",
+      "verified": true
+    }
+  ],
+  "id": "479c1375-afc6-40ea-b6e4-48e0b8d7768d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b",
+    "research": null,
+    "website": "https://havensnook.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e1fe60bc4ac0e3102343752ae7e49d01d444c0b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Havens Nook",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

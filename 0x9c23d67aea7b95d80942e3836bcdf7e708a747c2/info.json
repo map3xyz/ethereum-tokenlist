@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f764262b-b384-4b83-a362-11e8e4d5289b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+    "research": null,
+    "website": "http://www.loci.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LOCIcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

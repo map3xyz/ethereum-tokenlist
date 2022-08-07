@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NICE is a farming token that inflates when the supply is between 69 and 420 coins. Once it reaches 420 coins, it deflates by burning 20% of every transaction until it reaches 69 again, and then the cycle repeats.",
+      "verified": true
+    }
+  ],
+  "id": "31d709e1-82bf-46b0-b727-4584222d9cfa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88",
+    "research": null,
+    "website": "https://niceee.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53f64be99da00fec224eaf9f8ce2012149d2fc88/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NICE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NICE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

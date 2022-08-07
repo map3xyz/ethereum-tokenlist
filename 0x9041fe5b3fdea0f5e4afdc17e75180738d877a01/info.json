@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4fc4f6a7-f8b9-4d39-a157-ad36a0a75c40",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+    "research": null,
+    "website": "https://chain.pro/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ProToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

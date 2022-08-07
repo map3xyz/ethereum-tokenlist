@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9043d4d51C9d2e31e3F169de4551E416970c27Ef",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pDAI is a stable assets for OMGSwap & O-DEX",
+      "verified": true
+    }
+  ],
+  "id": "5e44d1fa-38a5-4828-9745-c6a21eba8d16",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9043d4d51C9d2e31e3F169de4551E416970c27Ef",
+    "research": null,
+    "website": "https://omgswap.in/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9043d4d51c9d2e31e3f169de4551e416970c27ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Prime DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "pDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

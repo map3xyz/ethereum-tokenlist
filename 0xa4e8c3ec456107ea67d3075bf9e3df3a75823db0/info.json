@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
+      "verified": true
+    }
+  ],
+  "id": "62a613a4-4d2b-4009-b18e-c932edbae317",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+    "research": null,
+    "website": "https://loomx.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Loom Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOOM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

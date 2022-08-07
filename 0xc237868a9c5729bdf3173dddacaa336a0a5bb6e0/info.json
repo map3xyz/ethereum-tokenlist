@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokenized version of the Wagerr",
+      "verified": true
+    }
+  ],
+  "id": "4c8b65b7-f9fc-4dc4-99a3-ea64670c12ec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
+    "research": null,
+    "website": "https://www.wagerr.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wagerr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WWGR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

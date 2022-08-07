@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Parachute aims to make it easy for people and businesses to use cryptocurrencies in their daily lives.",
+      "verified": true
+    }
+  ],
+  "id": "227d5035-c27f-4ff7-81fb-476fa5a046af",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
+    "research": null,
+    "website": "https://www.parachutetoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Parachute",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

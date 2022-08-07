@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Propy is a decentralized real-estate market place backed by superior blockchain infrastructure to facilitate real-time unified transaction in order to reduce fraud and redundancy. Propy is the world’s first international real-estate marketplace.",
+      "verified": true
+    }
+  ],
+  "id": "e427989f-fa00-412b-a739-e853a487dc26",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x226bb599a12C826476e3A771454697EA52E9E220",
+    "research": null,
+    "website": "https://propy.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x226bb599a12c826476e3a771454697ea52e9e220/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Propy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

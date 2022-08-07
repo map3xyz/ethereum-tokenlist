@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x47da42696A866CDC61A4C809A515500a242909C1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c62c92ca-73ee-4152-962f-c3060c0152bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47da42696A866CDC61A4C809A515500a242909C1",
+    "research": null,
+    "website": "https://bitrewards.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47da42696a866cdc61a4c809a515500a242909c1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitRewards Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pTokens are priced relative to the positions they represent. The exchange rate of a pToken initially corresponds one to one thousand (1:1,000) with the loan asset.",
+      "verified": true
+    }
+  ],
+  "id": "dfc76450-f2cd-42d0-9bfe-21c697184a25",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d",
+    "research": null,
+    "website": "https://bzx.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x123f2b75b9a7a9da8dc483976bfd81eff9f0ea8d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Long KNC-DAI 2x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLKNC2x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hydro empowers DeFi developers to create dynamic marketplaces for decentralized assets.",
+      "verified": true
+    }
+  ],
+  "id": "9336e194-5fdb-4011-a51a-498e33cc7480",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+    "research": null,
+    "website": "https://hydroprotocol.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9af839687f6c94542ac5ece2e317daae355493a1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hydro Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

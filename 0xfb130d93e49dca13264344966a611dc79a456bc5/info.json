@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DogeGF is a peer-to-peer community governed by reciprocity.",
+      "verified": true
+    }
+  ],
+  "id": "af4b3765-0bd1-46e4-8ab0-9ef33acbadd0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+    "research": null,
+    "website": "https://www.dogegf.com/",
+    "medium": "https://dogegf.medium.com/",
+    "reddit": "https://reddit.com/r/dogegf/",
+    "twitter": "https://twitter.com/dogegftoken",
+    "telegram": "https://t.me/DogeGF_Official",
+    "discord": "https://discord.com/invite/Tjr8AvFBTP"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb130d93e49dca13264344966a611dc79a456bc5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DogeGF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGEGF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

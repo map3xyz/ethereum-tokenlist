@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "afb8960d-7a3c-4fb7-a8d4-5cdfc006b2b2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D",
+    "research": null,
+    "website": "https://www.acdx.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AC eXchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

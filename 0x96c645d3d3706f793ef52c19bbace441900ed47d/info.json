@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mt Pelerin company shares issued on blockchain and recognized as shares providing the same level of protection conferred by Swiss law",
+      "verified": true
+    }
+  ],
+  "id": "aa6462d7-9858-493a-9194-e8ea31fff242",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
+    "research": null,
+    "website": "https://mtpelerin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96c645d3d3706f793ef52c19bbace441900ed47d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mt Pelerin Shares",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

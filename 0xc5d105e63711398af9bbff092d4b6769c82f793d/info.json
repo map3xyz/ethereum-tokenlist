@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xC5d105E63711398aF9bbff092d4B6769C82F793D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b22e5bbf-2e17-4ed6-8797-4b5017e27bbd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC5d105E63711398aF9bbff092d4B6769C82F793D",
+    "research": null,
+    "website": "http://www.beauty.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5d105e63711398af9bbff092d4b6769c82f793d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BeautyChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

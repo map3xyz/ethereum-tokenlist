@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2E2E0a28f6585e895DD646a363BAE29B77B88a31",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8b756a20-5803-4ea3-91f9-0375e4143de8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2E2E0a28f6585e895DD646a363BAE29B77B88a31",
+    "research": null,
+    "website": "https://volumenetwork.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e2e0a28f6585e895dd646a363bae29b77b88a31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Volume Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

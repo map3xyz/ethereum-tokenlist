@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0CDE550b066Ff98dA123377eeB0A149607C9ca17",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our EUR36 tokens are used to connect banking network with ethereum,to send (and receive) EUR and CHF directly with your Smart Contracts. End-users do not need a wallet, because wire-transfers trigger mint/burn at the moment the transfer happens.",
+      "verified": true
+    }
+  ],
+  "id": "6176cee7-2085-47c2-9778-581d496deed3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0CDE550b066Ff98dA123377eeB0A149607C9ca17",
+    "research": null,
+    "website": "https://element36.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0cde550b066ff98da123377eeb0a149607c9ca17/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EUR36",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUR36",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

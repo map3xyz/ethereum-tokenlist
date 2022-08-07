@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Create design on a whole new level in just minutes. Download the Typerium APP free now.",
+      "verified": true
+    }
+  ],
+  "id": "e6977490-fea0-40d0-a7de-83970e23ef0b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
+    "research": null,
+    "website": "https://www.typerium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Typerium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TYPE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

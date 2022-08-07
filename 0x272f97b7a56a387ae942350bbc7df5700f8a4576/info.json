@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aave BAL is an interest bearing token pegged 1:1 to the underlying BAL deposited in Aave. aBAL accrue interest in real time in your wallet.",
+      "verified": true
+    }
+  ],
+  "id": "fa284a09-80ed-423a-9601-58a2d593174d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+    "research": null,
+    "website": "https://aave.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x272f97b7a56a387ae942350bbc7df5700f8a4576/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave BAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aBAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

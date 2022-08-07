@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "47533377-6255-4e6b-b176-640a6049edfc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
+    "research": null,
+    "website": "https://tokenbox.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tokenbox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BTFA is a collection of 10,000 Task Force Apes with over 150 unique traits. What makes BTFA special is that NFT holders have a shared stake in our company and revenue generated from Blip Studios! ",
+      "verified": true
+    }
+  ],
+  "id": "bfd1149b-9888-47bf-9d2e-dcc082ade959",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133",
+    "research": null,
+    "website": "https://bananataskforceape.com",
+    "twitter": "https://twitter.com/BananaTFA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/banana-task-force-ape/",
+    "coingecko": "https://coingecko.com/coins/banana-task-force-ape",
+    "telegram": "https://t.me/BananaTFApe",
+    "discord": "https://discord.com/BananaTFA"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc631be100f6cf9a7012c23de5a6ccb990eafc133/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Banana Task Force Ape",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTFA",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x466912bAA9430a4a460b141ee8C580D817441449",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockmax (OCB) claims to be a Startup project with the goal of retail payment mobilizing capital and developing services in the Crypto field and payment in life.",
+      "verified": true
+    }
+  ],
+  "id": "201b55ff-ae08-412d-b9b6-fd3d06f93a61",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x466912bAA9430a4a460b141ee8C580D817441449",
+    "research": null,
+    "website": "https://blockmax.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x466912baa9430a4a460b141ee8c580d817441449/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ocbtoken - Blockmax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

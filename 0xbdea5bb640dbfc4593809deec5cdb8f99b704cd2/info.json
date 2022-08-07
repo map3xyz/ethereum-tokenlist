@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Direwolf is a deflationary community token with a large focus on community transparency.",
+      "verified": true
+    }
+  ],
+  "id": "aada6cee-39a6-416e-8a75-fdc69d923cf5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbdea5bb640dbfc4593809deec5cdb8f99b704cd2",
+    "research": null,
+    "website": "https://direwolftoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdea5bb640dbfc4593809deec5cdb8f99b704cd2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Direwolf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIREWOLF",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

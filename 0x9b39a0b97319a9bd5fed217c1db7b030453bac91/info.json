@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Trustable One-Stop Crypto-Currency Trading Platform.",
+      "verified": true
+    }
+  ],
+  "id": "82d5b06c-4fcb-4d3f-aa1e-36815103c8b4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+    "research": null,
+    "website": "https://www.cointiger.com/en-us/#/index"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b39a0b97319a9bd5fed217c1db7b030453bac91/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TigerCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

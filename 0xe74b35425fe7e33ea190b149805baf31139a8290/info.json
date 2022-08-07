@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE74B35425fE7E33EA190b149805baF31139a8290",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QuickCash stable currency system.",
+      "verified": true
+    }
+  ],
+  "id": "220ae82b-5040-4db5-99ca-2bb5680646ae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE74B35425fE7E33EA190b149805baF31139a8290",
+    "research": null,
+    "website": "https://quickcash.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe74b35425fe7e33ea190b149805baf31139a8290/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QuickCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "77297a2c-212c-4536-a2f3-7acc8270ba0e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
+    "research": null,
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDCbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

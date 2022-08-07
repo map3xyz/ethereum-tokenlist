@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8B9b98feeC18b390cb82c33A55A78e81151Cc6eD",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e5b4281b-7ce3-4ac8-8456-85faf3531ab8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8B9b98feeC18b390cb82c33A55A78e81151Cc6eD",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b9b98feec18b390cb82c33a55a78e81151cc6ed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Short ZRX-DAI 2x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsZRX2x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

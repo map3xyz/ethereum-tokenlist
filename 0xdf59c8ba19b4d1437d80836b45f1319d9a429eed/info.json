@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDf59C8BA19B4d1437d80836b45F1319D9A429EED",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IZIChain aims to provide bespoke blockchain solutions for financial markets. IZIChain reportedly allows users to interact with smart contracts and operate financial dApps (e.g. asset digitization, digital asset trading, loan offers).",
+      "verified": true
+    }
+  ],
+  "id": "46fed41b-f9a7-4719-aa71-c0d766618de0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDf59C8BA19B4d1437d80836b45F1319D9A429EED",
+    "research": null,
+    "website": "https://izichain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf59c8ba19b4d1437d80836b45f1319d9a429eed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IZIChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IZI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a4d32de8-8f6b-4eae-be8d-9191f52dfbd2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+    "research": null,
+    "website": "https://otcbtc.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa86a0da9d05d0771955df05b44ca120661af16de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OTCBTC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OTB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

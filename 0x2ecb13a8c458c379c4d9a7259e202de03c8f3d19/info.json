@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b1fbcafb-426d-4890-ba9d-b8be3d00b543",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+    "research": null,
+    "website": "https://block-chain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Block-Chain.com Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

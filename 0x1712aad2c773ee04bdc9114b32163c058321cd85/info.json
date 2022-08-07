@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1712Aad2C773ee04bdC9114b32163c058321CD85",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LimitSwap is a Dex trading bot written in Python that allows users to trade using Limit Orders",
+      "verified": true
+    }
+  ],
+  "id": "b232763f-9847-4ce4-87bc-db96b628d91d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1712Aad2C773ee04bdC9114b32163c058321CD85",
+    "research": null,
+    "website": "https://limitswap.com"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LimitSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIMIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5A1A29DBb6Ad6153DB764568C1289076bC876df6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nework is an incentive platform based on block-chain technology to connect human work skills.",
+      "verified": true
+    }
+  ],
+  "id": "8a0ac6dd-22e5-4619-874e-f0b5b95884cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5A1A29DBb6Ad6153DB764568C1289076bC876df6",
+    "research": null,
+    "website": "http://nework.pro/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a1a29dbb6ad6153db764568c1289076bc876df6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NeworkCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NKC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

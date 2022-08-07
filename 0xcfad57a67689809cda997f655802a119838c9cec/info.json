@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcfAD57a67689809CdA997f655802a119838c9ceC",
+  "color": null,
+  "decimals": 7,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Benscoin Crypto are made by Mr. Bens the businessman from Aceh, Indonesia, this Cryptoken are made for Investment for Economics in Aceh.",
+      "verified": true
+    }
+  ],
+  "id": "324477e3-44cf-46be-9eb1-c6b180c7a04b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcfAD57a67689809CdA997f655802a119838c9ceC",
+    "research": null,
+    "website": "https://benscoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcfad57a67689809cda997f655802a119838c9cec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Benscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

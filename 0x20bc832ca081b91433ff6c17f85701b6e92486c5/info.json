@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0x20BC832ca081b91433ff6c17f85701B6e92486c5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "rETH2 is a token that represents reward ether in StakeWise.",
+      "verified": true
+    }
+  ],
+  "id": "efa2c7e1-5c6d-4980-88fd-6e32d2bb769a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20BC832ca081b91433ff6c17f85701B6e92486c5",
+    "research": null,
+    "website": "https://stakewise.io",
+    "twitter": "https://twitter.com/stakewise_io",
+    "github": "https://github.com/stakewise",
+    "telegram": "https://t.me/stakewise_io",
+    "telegramNews": "https://t.me/stakewise_io",
+    "blog": "https://stakewise.medium.com/",
+    "docs": "https://docs.stakewise.io/",
+    "forum": "https://forum.stakewise.io/",
+    "discord": "https://discord.com/invite/8Zf7tKyXeZ",
+    "reddit": "https://reddit.com/r/stakewise",
+    "medium": "https://stakewise.medium.com/",
+    "youtube": "https://youtube.com/channel/UCQ2cX28XNW-S-66quNYxzRA",
+    "coingecko": "https://coingecko.com/en/coins/reth2",
+    "sourceCode": "https://github.com/stakewise/contracts/blob/master/contracts/tokens/RewardEthToken.sol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20bc832ca081b91433ff6c17f85701b6e92486c5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StakeWise rETH2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "rETH2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xca00bC15f67Ebea4b20DfaAa847CAcE113cc5501",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fb501fc0-e2f6-4484-95b7-229525523082",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xca00bC15f67Ebea4b20DfaAa847CAcE113cc5501",
+    "research": null,
+    "website": "https://www.capdax.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca00bc15f67ebea4b20dfaaa847cace113cc5501/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CapdaxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WeTrust is a collaborative saving and insurance platform. It is autonomous, frictionless, and decentralized. WeTrust utilizes the Ethereum blockchain to create a full-stack financial system that leverages existing social capital and trust networks, eliminating the need of a 'trusted third party', which allows for lower fees, improved incentive structures, decentralized risks, and a greater amount of capital to reside among the participants.",
+      "verified": true
+    }
+  ],
+  "id": "4b24ebc1-6afc-4935-8145-4bf4289234f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
+    "research": null,
+    "website": "https://www.wetrust.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trustcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

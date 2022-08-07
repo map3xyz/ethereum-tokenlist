@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitsdaq aims to be the pioneer that’s leading the blockchain industry to the next generation with their well-rounded crypto service platform by combining its unique partnerships and cutting-edge technologies.",
+      "verified": true
+    }
+  ],
+  "id": "901818b4-d2c6-4225-8118-37eb6e31307d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+    "research": null,
+    "website": "https://bitsdaq.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b80eeeadcc590f305945bcc258cfa770bbe1890/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BITSDAQ TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQQQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

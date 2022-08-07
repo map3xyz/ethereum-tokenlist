@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SuperBid is an innovative social-auction app that connects influencers with their fans.",
+      "verified": true
+    }
+  ],
+  "id": "6fa44135-fed0-41e0-92b3-d2a603323b3c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+    "research": null,
+    "website": "https://www.superbid.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0563dce613d559a47877ffd1593549fb9d3510d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SuperBid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUPERBID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

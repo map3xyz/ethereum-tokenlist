@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x10086399DD8c1e3De736724AF52587a2044c9fA2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Midas Touch Gold (TMTG) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "9ac0c0a5-ebc3-4a26-b69b-c1d639d2cad9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x10086399DD8c1e3De736724AF52587a2044c9fA2",
+    "research": null,
+    "website": "https://dgex.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10086399dd8c1e3de736724af52587a2044c9fa2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Midas Touch Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMTG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

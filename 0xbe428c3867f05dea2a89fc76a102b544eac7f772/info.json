@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token to increase adoption of cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "257523e2-0b69-4c95-947b-aeeffb46965b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
+    "research": null,
+    "website": "https://cybervein.org",
+    "twitter": "https://twitter.com/CyberVeinGroup",
+    "telegram": "https://t.me/CyberVeinCommunity",
+    "facebook": "https://facebook.com/cyberveinteam",
+    "youtube": "https://youtube.com/channel/UCpIgOnNTu4FPFsa9LBdQjCw?view_as=subscriber",
+    "reddit": "https://reddit.com/r/CyberVeinOfficial/",
+    "medium": "https://medium.com/cybervein"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbe428c3867f05dea2a89fc76a102b544eac7f772/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CyberVeinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

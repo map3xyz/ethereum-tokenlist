@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KeyFi is an all-in-one platform for tracking, swapping, and staking your tokens, and more.",
+      "verified": true
+    }
+  ],
+  "id": "2b9c612c-3b41-48a3-9e9c-225505bf2eea",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
+    "research": null,
+    "website": "https://keyfi.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8647e90c0645152fccf4d9abb6b59eb4aa99052/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KEYFI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEYFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6400B5522f8D448C0803e6245436DD1c81dF09ce",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "89403e51-7ea1-461b-9550-3e7b001bda51",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6400B5522f8D448C0803e6245436DD1c81dF09ce",
+    "research": null,
+    "website": "http://cvn.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6400b5522f8d448c0803e6245436dd1c81df09ce/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CVNToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

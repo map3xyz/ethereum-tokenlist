@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Lympo is a sports and health ecosystem powered by priceless user-generated and user-controlled data which can help generate exponential returns for industry stakeholders and users alike.",
+      "verified": true
+    }
+  ],
+  "id": "9e9be90d-f14f-4f07-836c-7c90d742750b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+    "research": null,
+    "website": "https://lympo.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lympo tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

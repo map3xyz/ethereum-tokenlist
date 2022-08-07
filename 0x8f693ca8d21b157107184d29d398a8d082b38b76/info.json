@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+      "verified": true
+    }
+  ],
+  "id": "8c095390-26ea-4741-83f4-71af0f296fe0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8f693ca8D21b157107184d29D398A8D082b38b76",
+    "research": null,
+    "website": "https://streamr.network",
+    "twitter": "https://twitter.com/streamr",
+    "github": "https://github.com/streamr-dev",
+    "whitepaper": "https://streamr.network/network-whitepaper",
+    "docs": "https://streamr.network/docs",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/streamr",
+    "coingecko": "https://coingecko.com/en/coins/streamr",
+    "blog": "https://blog.streamr.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f693ca8d21b157107184d29d398a8d082b38b76/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Streamr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

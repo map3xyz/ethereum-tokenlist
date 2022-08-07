@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The DGTX Token is a protocol token which value derives from its utility as a vehicle for commission-free trading of futures contracts on the price of Bitcoin, Ethereum and Litecoin against the US Dollar.",
+      "verified": true
+    }
+  ],
+  "id": "5fed1e7d-00ae-4376-87f5-c89caa319539",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+    "research": null,
+    "website": "https://digitexfutures.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc666081073e8dff8d3d1c2292a29ae1a2153ec09/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DigitexFutures",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

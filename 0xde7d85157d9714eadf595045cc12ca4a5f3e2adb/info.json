@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Standard Tokenization Protocol describes itself as an open-source standard defining how tokenized assets are issued and transferred while complying with the necessary regulations.",
+      "verified": true
+    }
+  ],
+  "id": "f12def01-0619-4f39-bc17-b0877b8661d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+    "research": null,
+    "website": "https://stp.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Standard Tokenization Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

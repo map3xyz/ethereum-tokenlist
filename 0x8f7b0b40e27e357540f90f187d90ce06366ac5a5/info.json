@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8f7b0B40E27E357540F90f187d90CE06366aC5A5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f85fee13-b246-492c-92e2-08e1d3aff1db",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8f7b0B40E27E357540F90f187d90CE06366aC5A5",
+    "research": null,
+    "website": "http://valuechain.biz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f7b0b40e27e357540f90f187d90ce06366ac5a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Value Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

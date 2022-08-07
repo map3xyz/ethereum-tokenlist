@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Oddz is the World’s first multi-chain options and derivatives trading protocol to be deployed on the Binance Smart Chain, Polkadot, and Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "6dc7a4d7-1486-4ebf-a737-9532278c4065",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+    "research": null,
+    "website": "https://oddz.fi/",
+    "telegram": "https://t.me/oddz_fi_announcements",
+    "twitter": "https://twitter.com/oddz_finance",
+    "facebook": "https://facebook.com/Oddz.fi",
+    "whitepaper": "https://docsend.com/view/mefxr8h3ymzuhwqk",
+    "github": "https://github.com/oddz-finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/oddz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OddzToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

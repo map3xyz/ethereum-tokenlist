@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Formation Fi revolutionizes portfolio construction by introducing risk-adjusted portfolio of decentralized open financial crypto assets in the form of algorithmically rebasing indexes, with a high degree of composability, across the major blockchain networks.",
+      "verified": true
+    }
+  ],
+  "id": "dfdb0f4a-0547-46b0-b8d8-c5e1f2f562df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+    "research": null,
+    "website": "https://formation.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21381e026ad6d8266244f2a583b35f9e4413fa2a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Formation Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FORM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

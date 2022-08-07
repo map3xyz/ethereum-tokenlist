@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AnRKey X™ combines DeFi and Esports gaming for users to compete, purchase and stake unique NFTs and win valuable rewards. We are the first to attach a proprietary and underlying economic mathematical logic model to NFTs in order to derive a true and accurate monetary base value ($) in real time – which we call Derived Base Value",
+      "verified": true
+    }
+  ],
+  "id": "915b8542-6bb4-4cbd-8942-96f3d9567702",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+    "research": null,
+    "website": "https://anrkeyx.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AnRKey X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$ANRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

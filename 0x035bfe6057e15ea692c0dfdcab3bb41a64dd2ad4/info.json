@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Universal Liquidity Union (ULU) is the bridge to every coin. ULU aims to combine the best features of Uniswap and Balancer and route everything via the ULU token as medium of liquidity exchange.",
+      "verified": true
+    }
+  ],
+  "id": "5478d830-59db-45d9-9536-349c6f5ae6d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+    "research": null,
+    "website": "https://ulu.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Universal Liquidity Union",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

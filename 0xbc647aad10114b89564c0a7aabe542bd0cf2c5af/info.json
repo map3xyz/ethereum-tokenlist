@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1a246a93-f61b-4786-b1ad-81e7cc82c1b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
+    "research": null,
+    "website": "https://www.ionchain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc647aad10114b89564c0a7aabe542bd0cf2c5af/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IONChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IONC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x73a052500105205d34Daf004eAb301916DA8190f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Simple auto interest rate switching tokens for Compound, Fulcrum, Aave, and dYdX.",
+      "verified": true
+    }
+  ],
+  "id": "71851f25-9faa-4198-bd1b-b5104c13be95",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x73a052500105205d34Daf004eAb301916DA8190f",
+    "research": null,
+    "website": "https://docs.yearn.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73a052500105205d34daf004eab301916da8190f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "iearn TUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yTUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

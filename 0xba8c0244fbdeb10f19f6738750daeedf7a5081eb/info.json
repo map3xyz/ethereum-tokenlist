@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4fddb364-3cdf-4c42-8671-b4b0d13856f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
+    "research": null,
+    "website": "https://www.suterusu.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba8c0244fbdeb10f19f6738750daeedf7a5081eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Suterusu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Suter",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

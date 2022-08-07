@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Vether is designed to be a store-of-value with properties of strict scarcity, unforgeable costliness and a fixed emission schedule.",
+      "verified": true
+    }
+  ],
+  "id": "06c11f64-65dd-4047-804c-6468943fc446",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+    "research": null,
+    "website": "https://vetherasset.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ba6ddd7b89ed838fed25d208d4f644106e34279/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

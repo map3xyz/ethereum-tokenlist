@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc4d586ef7Be9EBe80bD5eE4FBd228fe2Db5F2C4e",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Add PHIBA- Papa Shiba logo and info",
+      "verified": true
+    }
+  ],
+  "id": "1d698ba7-d448-4480-b91d-327354073d9b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc4d586ef7be9ebe80bd5ee4fbd228fe2db5f2c4e",
+    "research": null,
+    "website": "https://papashiba.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc4d586ef7be9ebe80bd5ee4fbd228fe2db5f2c4e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Papa Shiba",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHIBA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

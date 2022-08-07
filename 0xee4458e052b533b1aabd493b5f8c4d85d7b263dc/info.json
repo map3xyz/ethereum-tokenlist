@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockpass, the pioneer of On-chain KYC(TM), is a fast, fully comprehensive KYC & AML screening software-as-a-service for blockchains, Crypto, Defi and other regulated industries. With Blockpass, you get compliance functionality that includes pay-as-you-go, no setup cost, no integration necessary, free testing, immediate launch and at the lowest cost.",
+      "verified": true
+    }
+  ],
+  "id": "03c36dcc-e4d3-4bcd-8ac3-4cacd9a35b38",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
+    "research": null,
+    "website": "https://blockpass.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blockpass",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PASS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

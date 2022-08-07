@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x41ad4093349C8A60DE591A3C37dcd184558EaAe3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e239dd5e-6fdb-4abc-9643-116b4c185dda",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x41ad4093349C8A60DE591A3C37dcd184558EaAe3",
+    "research": null,
+    "website": "https://www.bitcoincompany.it/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41ad4093349c8a60de591a3c37dcd184558eaae3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin&Company Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

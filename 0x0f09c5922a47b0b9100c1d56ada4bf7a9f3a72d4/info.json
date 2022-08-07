@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Research, Development, Testing, Manufacturing, Production, Marketing, & Distribution of Advanced, One-of-a-kind Technologies to Utopia Citizens.",
+      "verified": true
+    }
+  ],
+  "id": "8604c962-0bcb-4544-850d-485be10f587c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+    "research": null,
+    "website": "https://selfpreservationtechnology.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f09c5922a47b0b9100c1d56ada4bf7a9f3a72d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UTOPIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

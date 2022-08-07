@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x0D24e4A32B174ff6777059D4fD6bF8CFE031014b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitphantom Pro is the utility token of Bitphantom Exchange, Token holder enjoy certain benefits for holding.",
+      "verified": true
+    }
+  ],
+  "id": "312a03fb-9492-498b-aa8f-a35db493a4ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0D24e4A32B174ff6777059D4fD6bF8CFE031014b",
+    "research": null,
+    "website": "https://pro.bitphantom.io",
+    "github": "https://github.com/bitphantom-ops",
+    "twitter": "https://twitter.com/BitphantomPro",
+    "telegram": "https://t.me/bitphantompro",
+    "whitepaper": "https://github.com/bitphantom-ops/whitepaper"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d24e4a32b174ff6777059d4fd6bf8cfe031014b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitPhantom Pro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

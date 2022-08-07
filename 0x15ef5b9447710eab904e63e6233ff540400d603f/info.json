@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitcoin2x is Faster, safer and cheaper transactions than Bitcoin.",
+      "verified": true
+    }
+  ],
+  "id": "192ac8c1-3ae9-4a84-8f46-cf913cdf0633",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+    "research": null,
+    "website": "http://bitcoin-2x.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15ef5b9447710eab904e63e6233ff540400d603f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin2X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTC2X",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

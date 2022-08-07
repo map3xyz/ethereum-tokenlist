@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6F6d15e2DAbD182c7C0830dB1bDfF1f920b57ffA",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ODE is a digital currency of the new financial ecosystem designed for branchless banking and financial institutions. ODE offers individual retirement account (dIRA), which is the first time in the world savings with cryptocurrency. This is a decentralized finance (DeFi) product.",
+      "verified": true
+    }
+  ],
+  "id": "46746f19-cf4b-4077-aae3-8fa1eb38d0f1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6F6d15e2DAbD182c7C0830dB1bDfF1f920b57ffA",
+    "research": null,
+    "website": "https://ode.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f6d15e2dabd182c7c0830db1bdff1f920b57ffa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ODE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

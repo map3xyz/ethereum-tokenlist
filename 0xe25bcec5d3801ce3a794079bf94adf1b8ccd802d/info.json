@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "15b67955-3d3c-428d-a300-3538970aada2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+    "research": null,
+    "website": "https://www.matrix.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MATRIX AI Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

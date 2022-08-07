@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x19060094373C32E7f7d95eb4d1231f0779C91c23",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "4b5ed027-21ba-4ae0-b56b-0316afbf4e9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19060094373C32E7f7d95eb4d1231f0779C91c23",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19060094373c32e7f7d95eb4d1231f0779c91c23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RelayNode",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RELAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

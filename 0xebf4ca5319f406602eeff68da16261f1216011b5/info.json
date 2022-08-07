@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeBF4CA5319F406602EEFf68da16261f1216011B5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yobit Token (YO) is the native asset of Yobit Exchange.",
+      "verified": true
+    }
+  ],
+  "id": "af0deade-6835-43f0-a522-1dd2ab02cd0f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeBF4CA5319F406602EEFf68da16261f1216011B5",
+    "research": null,
+    "website": "https://yobit.net/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xebf4ca5319f406602eeff68da16261f1216011b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

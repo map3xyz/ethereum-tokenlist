@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ruletka (RTK) is an incentive-based deflationary game currency. its 1 in 6 chance burn mechanism simulates the Russian Roulette and is used in games by reward-seeking players.",
+      "verified": true
+    }
+  ],
+  "id": "431ef3cb-57cd-46b8-96f0-3627e9739af5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211",
+    "research": null,
+    "website": "https://ruletka.fun"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f6deadcb526c4710cf941872b86dcdfbbbd9211/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ruletka",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

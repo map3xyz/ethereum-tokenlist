@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x283669123bd83dA2536bB534e20512101c18E5D8",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitpayer is a decentralized trading platform that lets you trade Ethereum and Ethereum-based tokens directly with other users. It is the first digital assets decentralised exchange that shares profits with all users.",
+      "verified": true
+    }
+  ],
+  "id": "c40ba552-eaf0-4bfe-9434-d9e8930fe24f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x283669123bd83dA2536bB534e20512101c18E5D8",
+    "research": null,
+    "website": "https://bitpayer.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x283669123bd83da2536bb534e20512101c18e5d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitpayer Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

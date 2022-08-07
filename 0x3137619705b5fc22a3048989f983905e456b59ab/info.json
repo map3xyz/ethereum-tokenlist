@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3137619705b5fc22a3048989F983905e456b59Ab",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "ced51fc5-fa7c-4709-9d30-73946c4d36d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3137619705b5fc22a3048989F983905e456b59Ab",
+    "research": null,
+    "website": "https://everus.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3137619705b5fc22a3048989f983905e456b59ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Everus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

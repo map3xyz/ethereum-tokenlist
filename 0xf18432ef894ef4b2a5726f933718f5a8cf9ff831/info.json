@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BioCrypt uses RFID and NFC technology to make everyday tasks easier and more convenient. These include authentication and verification, essentially allowing keys to become obsolete; supply chain management and item tracking through destination scans; and many more.",
+      "verified": true
+    }
+  ],
+  "id": "0525b5b0-9e6b-43f7-8e9b-f132b473342c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
+    "research": null,
+    "website": "https://BioCrypt.Tech"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf18432ef894ef4b2a5726f933718f5a8cf9ff831/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BioCrypt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

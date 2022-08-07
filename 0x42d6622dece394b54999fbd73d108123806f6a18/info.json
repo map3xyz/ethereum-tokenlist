@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A cryptoeconomic powered adult entertainment ecosystem built on the Ethereum network.",
+      "verified": true
+    }
+  ],
+  "id": "71096abf-1a10-4f2f-af00-d7133fdc137e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x42d6622deCe394b54999Fbd73D108123806f6a18",
+    "research": null,
+    "website": "https://spankchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42d6622dece394b54999fbd73d108123806f6a18/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SPANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPANK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

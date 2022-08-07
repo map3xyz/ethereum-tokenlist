@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeca82185adCE47f39c684352B0439f030f860318",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PerlinX — democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
+      "verified": true
+    }
+  ],
+  "id": "4b055140-ddef-4ac3-8365-90186e7bc1d4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeca82185adCE47f39c684352B0439f030f860318",
+    "research": null,
+    "website": "https://perlinx.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeca82185adce47f39c684352b0439f030f860318/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Perlin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PERL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

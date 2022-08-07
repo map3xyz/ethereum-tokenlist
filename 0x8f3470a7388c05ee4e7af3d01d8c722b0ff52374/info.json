@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Veritaseum is a smart contracts-based, peer-to-peer wallet interface (in beta) that currently interacts with Bitcoin blockchain (to be ported to Ethereum).",
+      "verified": true
+    }
+  ],
+  "id": "3132f653-862e-4ea2-96a1-152ccb022c9e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+    "research": null,
+    "website": "https://singularitynet.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Veritaseum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VERI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Team insurance is a form of insurance in which a group of people insures themselves at the same time, as a team.",
+      "verified": true
+    }
+  ],
+  "id": "59d0fe9d-5de2-46ca-9c8e-72d039a7304e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+    "research": null,
+    "website": "https://insurepal.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InsurePal token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

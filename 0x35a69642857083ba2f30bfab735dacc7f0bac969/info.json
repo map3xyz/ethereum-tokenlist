@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x35a69642857083BA2F30bfaB735dacC7F0bac969",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Banyan Network is a fusion of big data network based on blockchain technology called Data Fusion Value Chain Network (DVN).",
+      "verified": true
+    }
+  ],
+  "id": "ac3118dc-dce0-4d44-9f13-44dbd903ed80",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x35a69642857083BA2F30bfaB735dacC7F0bac969",
+    "research": null,
+    "website": "https://www.banyanbbt.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35a69642857083ba2f30bfab735dacc7f0bac969/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BBNToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YF Link is a community DeFi project built around the decentralized exchange Linkswap as a hub and bridge for community DeFi projects.",
+      "verified": true
+    }
+  ],
+  "id": "04c67e6c-3ac4-4912-9943-88d33e91badb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+    "research": null,
+    "website": "https://yflink.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28cb7e841ee97947a86b06fa4090c8451f64c0be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFLink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFL",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

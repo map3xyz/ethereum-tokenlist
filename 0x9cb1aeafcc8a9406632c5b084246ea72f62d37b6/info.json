@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LBank releases its own exchange token 'LBK'. LBK will benefit from the blockchain technology and digital financial operation capabilities of LBank, and combined with the community-self-governance concept.",
+      "verified": true
+    }
+  ],
+  "id": "c01b6944-0541-4a5b-a8bd-f6ee204c003a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+    "research": null,
+    "website": "https://www.lbank.info/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LBK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

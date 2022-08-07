@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Bitcoin 2x Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.",
+      "verified": true
+    }
+  ],
+  "id": "0714fdba-d624-4b27-be87-80739a28f3c7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+    "research": null,
+    "website": "https://www.indexcoop.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b498ff89709d3838a063f1dfa463091f9801c2b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin 2x Flexible Leverage Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTC2x-FLI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

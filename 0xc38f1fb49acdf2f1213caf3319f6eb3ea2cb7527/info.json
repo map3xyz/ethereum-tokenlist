@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitcoinus (BITS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "87f29360-6bc1-49c0-8dcd-608ffe8cea1f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527",
+    "research": null,
+    "website": "https://www.bitcoinus.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc38f1fb49acdf2f1213caf3319f6eb3ea2cb7527/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoinus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

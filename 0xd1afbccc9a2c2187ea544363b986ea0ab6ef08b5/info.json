@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ETHY describes itself as Ethereum's powerful yield farming coin. ETHY's vault smart-contract executes strategies to maximize APY, reward holders, and punish weak-hands.",
+      "verified": true
+    }
+  ],
+  "id": "6ef5fe66-5d3a-4b0c-a755-9d00ea4ddd4b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+    "research": null,
+    "website": "https://ethereumyield.farm"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Yield",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

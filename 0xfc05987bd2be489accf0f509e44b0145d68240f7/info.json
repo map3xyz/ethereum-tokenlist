@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Essentia is a masternoded multi-chained set of protocols connecting centralized and decentralized resources to create new powerful interactions and experiences.",
+      "verified": true
+    }
+  ],
+  "id": "32ccf647-c22d-4013-ac64-86f06b32723b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+    "research": null,
+    "website": "https://essentia.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc05987bd2be489accf0f509e44b0145d68240f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ESSENTIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

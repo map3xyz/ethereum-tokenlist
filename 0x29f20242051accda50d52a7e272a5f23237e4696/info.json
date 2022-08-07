@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x29F20242051AccDA50D52a7E272A5F23237e4696",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3bcb3fe5-dfae-425f-b604-a64ca93d20ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x29F20242051AccDA50D52a7E272A5F23237e4696",
+    "research": null,
+    "website": "http://www.idhub.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29f20242051accda50d52a7e272a5f23237e4696/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Identity Hub Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDHUB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

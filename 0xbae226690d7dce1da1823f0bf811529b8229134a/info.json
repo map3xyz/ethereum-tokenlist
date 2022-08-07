@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IMO Token is the platform token of IMO ecosystem, which enables the project to obtain investment in stages through continuous limited private sales.",
+      "verified": true
+    }
+  ],
+  "id": "b344e9e3-8e67-4502-97d8-1dccdd465be3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+    "research": null,
+    "website": "https://imoex.top"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbae226690d7dce1da1823f0bf811529b8229134a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IMO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

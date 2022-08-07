@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x31f3D9D1BeCE0c033fF78fA6DA60a6048F3E13c5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EBCoin (EBC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "1feca0bc-e385-40fb-b42b-66a25b54ff38",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x31f3D9D1BeCE0c033fF78fA6DA60a6048F3E13c5",
+    "research": null,
+    "website": "https://www.ebcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31f3d9d1bece0c033ff78fa6da60a6048f3e13c5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EBCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

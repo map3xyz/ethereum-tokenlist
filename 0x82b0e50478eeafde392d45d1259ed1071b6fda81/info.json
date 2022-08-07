@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This token has been deprecated and replaced with contract address 0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+      "verified": true
+    }
+  ],
+  "id": "28d37118-24fd-4402-889f-3fc2bd7aeeaa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
+    "research": null,
+    "website": "https://encrypgen.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82b0e50478eeafde392d45d1259ed1071b6fda81/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EncrypGen (old)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNA2017",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

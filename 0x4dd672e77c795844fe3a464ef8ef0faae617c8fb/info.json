@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A service platform that enables high-performance computing resources to be handled by sharing idle resources between participants' personal computers and smartphones. ",
+      "verified": true
+    }
+  ],
+  "id": "28c0d803-3075-429a-908c-b672c9e216f5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
+    "research": null,
+    "website": "https://conun.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4dd672e77c795844fe3a464ef8ef0faae617c8fb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CONUN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

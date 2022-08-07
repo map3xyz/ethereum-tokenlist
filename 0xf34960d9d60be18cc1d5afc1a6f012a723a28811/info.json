@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin’s decentralized financial services as well as the governance token of KuCoin Community.",
+      "verified": true
+    }
+  ],
+  "id": "493a52a0-f9b3-4688-b091-b3b5380882a7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
+    "research": null,
+    "website": "https://kucoin.com",
+    "github": "https://github.com/Kucoin",
+    "twitter": "https://twitter.com/KuCoinCom",
+    "facebook": "https://facebook.com/KuCoinOfficial/",
+    "blog": "https://medium.com/kucoinexchange",
+    "telegram": "https://t.me/Kucoin_Exchange",
+    "coingecko": "https://coingecko.com/en/coins/kucoin-shares/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf34960d9d60be18cc1d5afc1a6f012a723a28811/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KuCoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KCS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

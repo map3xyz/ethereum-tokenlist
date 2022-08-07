@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ProBit Exchange is built to be the most professional, global and secure marketplace for digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "4a343805-18f8-4df2-b07d-edd7be7547ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
+    "research": null,
+    "website": "https://www.probit.com/en-us/token"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ProBit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PROB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

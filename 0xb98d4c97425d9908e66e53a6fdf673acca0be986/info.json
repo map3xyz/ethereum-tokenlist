@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.",
+      "verified": true
+    }
+  ],
+  "id": "96774ac9-d71b-4e55-a0da-8fe518c8b808",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+    "research": null,
+    "website": "https://www.arcblock.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb98d4c97425d9908e66e53a6fdf673acca0be986/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArcBlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

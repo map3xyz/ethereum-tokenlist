@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EasySwap makes trading seamless and protects your portfolio from the high volatility of crypto markets, shielding it from turbulences and ensuring you remain profitable on the long run.",
+      "verified": true
+    }
+  ],
+  "id": "3b37f4d2-9679-4d73-91bc-a06d978bf644",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
+    "research": null,
+    "website": "https://easyswap.trade"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EasySwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESWA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

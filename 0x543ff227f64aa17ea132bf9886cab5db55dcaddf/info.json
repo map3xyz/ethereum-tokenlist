@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "64100d29-398f-4b06-834b-be952f42c7cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+    "research": null,
+    "website": "https://daostack.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x543ff227f64aa17ea132bf9886cab5db55dcaddf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAOstack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tantan is all about making honest connections online and in real life.",
+      "verified": true
+    }
+  ],
+  "id": "d1526149-1d5d-4df2-885a-d0479f40fb24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51",
+    "research": null,
+    "website": "https://tantantoken.com/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2121a1b68e9c2cc8ff4bfd8bcd0f891ece331c51/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tantan Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TANTAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

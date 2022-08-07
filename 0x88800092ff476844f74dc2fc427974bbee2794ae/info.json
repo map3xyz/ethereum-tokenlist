@@ -1,0 +1,50 @@
+{
+  "active": true,
+  "address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WALLET is the governance token of Ambire Wallet. It is also used as a user acquisition tool for marketing activities (referral program, rewards, etc.).",
+      "verified": true
+    }
+  ],
+  "id": "0991e6c7-00f5-4860-9c03-0c4bc67fd055",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x88800092fF476844f74dC2FC427974BBee2794Ae",
+    "research": null,
+    "website": "https://ambire.com",
+    "github": "https://github.com/AmbireTech/wallet",
+    "twitter": "https://twitter.com/AmbireWallet",
+    "reddit": "https://reddit.com/r/AdEx",
+    "blog": "https://ambire.medium.com",
+    "telegram": "https://t.me/AmbireOfficial",
+    "discord": "https://discord.com/invite/nMBGJsb",
+    "facebook": "https://facebook.com/AmbireAdEx",
+    "whitepaper": "https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ambire-wallet",
+    "coingecko": "https://coingecko.com/coins/ambire-wallet"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88800092ff476844f74dc2fc427974bbee2794ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ambire Wallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WALLET",
+  "tags": [
+    "defi",
+    "governance",
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

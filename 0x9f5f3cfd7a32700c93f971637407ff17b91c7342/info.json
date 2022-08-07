@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SCRY.INFO is an open source blockchain data protocol layer, oracle of the blockchain world, cornerstone of data smart contract applications.",
+      "verified": true
+    }
+  ],
+  "id": "9959c68a-821f-4c21-b7ac-1f293edf365c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+    "research": null,
+    "website": "https://home.scry.info"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f5f3cfd7a32700c93f971637407ff17b91c7342/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ScryDddToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHOPX is an NFT-as-a-Service (NaaS) that allows businesses to create branded e-commerce NFTs, driving sales and customer engagement in Web3.",
+      "verified": true
+    }
+  ],
+  "id": "d8110a8e-8c85-4860-878d-3a3a8a7f2a51",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+    "research": null,
+    "website": "https://shopx.co/",
+    "twitter": "https://twitter.com/shopxlabs",
+    "github": "https://github.com/shopxlabs",
+    "telegram": "https://t.me/shopxlabs",
+    "discord": "https://discord.com/invite/XNn9shER62",
+    "facebook": "https://facebook.com/shopxlabs/",
+    "coingecko": "https://coingecko.com/en/coins/splyt",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/splyt/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bef710a5759d197ec0bf621c3df802c2d60d848/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SHOPX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHOPX",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

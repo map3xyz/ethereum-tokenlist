@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gomics aims to provide a blockchain entertainment platform to facilitate the process of producing and consuming content.",
+      "verified": true
+    }
+  ],
+  "id": "b9a63353-60f1-4c9c-aed3-da4f26d4ce6b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58",
+    "research": null,
+    "website": "http://gomics.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8c6ad2586bb71d518c2aaf510efe91f82022f58/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gomics",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

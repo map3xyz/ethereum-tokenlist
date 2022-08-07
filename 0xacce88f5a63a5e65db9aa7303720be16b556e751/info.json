@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Coineal aims to build an industry-leading crypto asset trading platform and provide users with a secure, professional, and convenient cryptocurrency wallet service. Coineal issued the NEAL token, NEAL's use cases include transaction fee reduction, participation in NEAL, and special rights.",
+      "verified": true
+    }
+  ],
+  "id": "87523f25-2483-4886-a858-2c266466b2aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751",
+    "research": null,
+    "website": "https://www.coineal.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacce88f5a63a5e65db9aa7303720be16b556e751/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coineal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

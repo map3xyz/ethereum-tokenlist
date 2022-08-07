@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0C91B015AbA6f7B4738dcD36E7410138b29ADC29",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Token on blockchain for Oil & energy field.",
+      "verified": true
+    }
+  ],
+  "id": "408d6e03-e857-4480-835b-f8dd4880515c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0C91B015AbA6f7B4738dcD36E7410138b29ADC29",
+    "research": null,
+    "website": "https://coinoil.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c91b015aba6f7b4738dcd36e7410138b29adc29/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinOil",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

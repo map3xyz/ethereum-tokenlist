@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A social simulation Blockchain game owned by players.",
+      "verified": true
+    }
+  ],
+  "id": "bef713f3-7c2e-4d1f-9df6-a014f28aa47a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xac51066d7bec65dc4589368da368b212745d63e8",
+    "research": null,
+    "website": "https://www.myneighboralice.com",
+    "telegram": "https://t.me/MyNeighborAlice",
+    "twitter": "https://twitter.com/MyNeighborAlice/",
+    "reddit": "https://reddit.com/r/MyNeighborAlice/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/myneighboralice/",
+    "coingecko": "https://coingecko.com/en/coins/my-neighbor-alice/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac51066d7bec65dc4589368da368b212745d63e8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "My Neighbor Alice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALICE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

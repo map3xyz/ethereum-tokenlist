@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xCF8335727B776d190f9D15a54E6B9B9348439eEE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "John McAfee's Hyper-deflationary Social Experiment Token",
+      "verified": true
+    }
+  ],
+  "id": "bf2ee971-606a-44b9-9260-62626f0cc0cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCF8335727B776d190f9D15a54E6B9B9348439eEE",
+    "research": null,
+    "website": "https://getwhackd.org/",
+    "telegram": "https://t.me/WHACKDByMcAfeeBasedChat",
+    "github": "https://github.com/WHACKD-Token/WHACKD-ERC-20",
+    "discord": "https://discord.com/invite/gsVE7NNK",
+    "reddit": "https://reddit.com/r/WHACKDMcAfee/",
+    "forum": "https://bitcointalk.org/index.php?topic=5351640",
+    "twitter": "https://twitter.com/TokenWhackd"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf8335727b776d190f9d15a54e6b9b9348439eee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Whackd",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WHACKD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

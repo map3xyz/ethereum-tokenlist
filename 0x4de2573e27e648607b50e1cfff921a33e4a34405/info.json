@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "43028e4b-99c3-4e40-aeb3-4c2f4103ce5b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+    "research": null,
+    "website": "https://www.lendroid.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4de2573e27e648607b50e1cfff921a33e4a34405/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lendroid Support Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

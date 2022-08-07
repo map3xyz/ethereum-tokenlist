@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.",
+      "verified": true
+    }
+  ],
+  "id": "26d5b49a-233b-4379-9d53-255dd99c9651",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+    "research": null,
+    "website": "https://ost.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Simple Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

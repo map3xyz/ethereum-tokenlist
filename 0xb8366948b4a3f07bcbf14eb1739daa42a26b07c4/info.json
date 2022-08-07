@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Valobit Technology is described to be an advanced cybersecurity solution that will proactively identify hackers and distribute their profile information to the protected community over blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "0a1c8d09-4cb6-4181-9639-45a6f8ff7b8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
+    "research": null,
+    "website": "https://valobit.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VALOBIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VBIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

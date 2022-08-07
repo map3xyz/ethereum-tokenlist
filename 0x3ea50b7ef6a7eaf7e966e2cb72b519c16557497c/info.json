@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rocket Bunny combines the most sought after tokenomics across DeFi: automatic liquidity adds, compounding yield, deflationary supply, liquidity rewards, and price shock protection.",
+      "verified": true
+    }
+  ],
+  "id": "b586ddd4-533a-4856-928b-75fbb3bcc1e9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
+    "research": "https://rocketbunny.medium.com/welcome-to-rocket-bunny-f21b79f2715f",
+    "website": "https://rocketbunny.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rocket Bunny",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUNNY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

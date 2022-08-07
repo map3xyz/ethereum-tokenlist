@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ETGP is the update of ETG project with new roadmap , our vision is to facilitate & decentralize payment of companies & communities.",
+      "verified": true
+    }
+  ],
+  "id": "af02c492-c051-49d5-9407-31e33b406d3f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
+    "research": null,
+    "website": "https://www.etgproject.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa96f31f1c187c28980176c3a27ba7069f48abde4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Gold Project",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETGP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

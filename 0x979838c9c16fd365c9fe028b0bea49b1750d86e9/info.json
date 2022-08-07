@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x979838c9C16FD365C9fE028B0bEa49B1750d86e9",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FEG Wrapped USDT",
+      "verified": true
+    }
+  ],
+  "id": "95cf87f2-4fcd-499c-be20-40e87a835917",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x979838c9c16fd365c9fe028b0bea49b1750d86e9",
+    "research": null,
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x979838c9c16fd365c9fe028b0bea49b1750d86e9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FEG Wrapped USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fUSDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

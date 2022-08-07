@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FVT is a utility token that powers the finance.vote dApp Suite.",
+      "verified": true
+    }
+  ],
+  "id": "a1aae9b5-8373-4d30-ab5b-41069c7df146",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x45080a6531d671ddff20db42f93792a489685e32",
+    "research": null,
+    "website": "https://finance.vote",
+    "twitter": "https://twitter.com/financedotvote",
+    "telegram": "https://t.me/financevote",
+    "docs": "https://financevote.readthedocs.io/",
+    "discord": "https://discord.com/invite/QJ9cCQ7Cwy",
+    "whitepaper": "https://f646e629-e6ab-436e-b4b5-ad62237799a8.filesusr.com/ugd/2f63aa_acbd8518e6cb4b20ae956ef661f85335.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/finance-vote/",
+    "coingecko": "https://coingecko.com/en/coins/finance-vote",
+    "blog": "https://financedotvote.medium.com/",
+    "medium": "https://financedotvote.medium.com/",
+    "github": "https://gitlab.com/finance.vote"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45080a6531d671ddff20db42f93792a489685e32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "finance.vote",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

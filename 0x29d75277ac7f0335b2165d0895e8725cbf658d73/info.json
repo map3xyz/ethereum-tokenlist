@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x29D75277aC7F0335b2165D0895E8725cbF658d73",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitdice Casino.",
+      "verified": true
+    }
+  ],
+  "id": "11e146f5-cdb9-4b46-a70e-7be68c5298f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x29D75277aC7F0335b2165D0895E8725cbF658d73",
+    "research": null,
+    "website": "https://www.bitdice.me/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29d75277ac7f0335b2165d0895e8725cbf658d73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitDice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSNO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

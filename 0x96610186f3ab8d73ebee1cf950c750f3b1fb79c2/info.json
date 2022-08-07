@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Next-Generation Launchpad for Blockchain Games and the Metaverse",
+      "verified": true
+    }
+  ],
+  "id": "9b2ca80c-5218-442c-b8b1-6d83687a3d7a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2",
+    "research": null,
+    "website": "https://enjinstarter.com/",
+    "github": "https://github.com/enjinstarter/enjinstarter-tge-contracts",
+    "twitter": "https://twitter.com/enjinstarter",
+    "telegram": "https://t.me/ENJINSTARTER",
+    "facebook": "https://facebook.com/enjinstarter",
+    "medium": "https://medium.com/enjinstarter",
+    "youtube": "https://youtube.com/channel/UCWzOp5iZ8B3vONrxlarIXbg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96610186f3ab8d73ebee1cf950c750f3b1fb79c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Enjinstarter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EJS",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

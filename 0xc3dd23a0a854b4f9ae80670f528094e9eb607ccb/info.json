@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Trendering uses realtime Ethereum blockchain analysis to predict market movements of ERC20 tokens & more.",
+      "verified": true
+    }
+  ],
+  "id": "338fb173-76b1-4906-87a5-2e2dab169442",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
+    "research": null,
+    "website": "https://trendering.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trendering",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

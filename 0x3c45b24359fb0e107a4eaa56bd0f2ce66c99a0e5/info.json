@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Apple Network is an investment / asset management platform where central authority is removed and more people can enjoy the investment or manage their assets equally.",
+      "verified": true
+    }
+  ],
+  "id": "f875f17e-5662-4952-97e3-fbe871ca37f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
+    "research": null,
+    "website": "http://applenetwork.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Apple Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

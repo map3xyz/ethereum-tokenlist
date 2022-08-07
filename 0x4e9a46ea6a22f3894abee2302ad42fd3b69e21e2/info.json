@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4E9A46EA6A22f3894aBEE2302Ad42fd3b69E21E2",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This token is It is a token that cross-chains BEP20 BSC GIRL of the following URL to ERC20 token. https://bscscan.com/token/0x5c6fb802f173dba15e2caada433032b1368af59f",
+      "verified": true
+    }
+  ],
+  "id": "d440d0b7-411b-435f-93ab-c0e21afc0740",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2",
+    "research": null,
+    "website": "https://bscgirl.site/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance Smart Chain Girl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSCGIRL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

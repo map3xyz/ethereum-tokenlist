@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Eost is introduced as a platform for easy, fast, affordable and efficient use of Eos. The solution is centered around giving people (EOST community) the ability to comfortably use EOS through a more scalable alias – EOST.",
+      "verified": true
+    }
+  ],
+  "id": "8c71db6f-3136-40f5-9d5b-4fb5fe212394",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
+    "research": null,
+    "website": "https://eostrustlink.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87210f1d3422ba75b6c40c63c78d79324dabcd55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EOS TRUST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EOST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

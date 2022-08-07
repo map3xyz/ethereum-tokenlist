@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BCDT is the fuel of the EvidenZ ecosystem, an unique framework designed to certify informations using the blockchain technology. BCdiploma is its first use case, dedicated to the certification of academic documents.",
+      "verified": true
+    }
+  ],
+  "id": "7e5d7f39-cf84-4bd4-b7e1-5e4a33d7fc60",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+    "research": null,
+    "website": "https://EvidenZ.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blockchain Certfied Data Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

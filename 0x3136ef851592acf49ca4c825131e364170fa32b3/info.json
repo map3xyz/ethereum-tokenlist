@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoinFi offers crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give cryptocurrency traders the real-time market intelligence needed to gain an edge.",
+      "verified": true
+    }
+  ],
+  "id": "37bbd5a4-9fdc-4cd1-b1be-6d9a3c5dc08d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3136eF851592aCf49CA4C825131E364170FA32b3",
+    "research": null,
+    "website": "http://www.coinfi.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3136ef851592acf49ca4c825131e364170fa32b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

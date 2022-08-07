@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f95bc34b-e6c9-487b-804a-b711ee0974cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+    "research": null,
+    "website": "http://www.cryptocricketclub.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f56221252d117f35e2f6ab937a3f77cad38934d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CryptoCricketClub",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "3Cs",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

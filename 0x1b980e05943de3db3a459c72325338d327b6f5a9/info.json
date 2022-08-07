@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitgear aims to create a bridge and aggregate decentralized and centralized exchanges all in one platform.",
+      "verified": true
+    }
+  ],
+  "id": "0b91e74c-5a31-409c-bda9-fb011f0a6803",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+    "research": null,
+    "website": "https://bitgear.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b980e05943de3db3a459c72325338d327b6f5a9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitgear",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

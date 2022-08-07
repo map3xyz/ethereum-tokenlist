@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x6378930da9be7C90d824d7f113974741644d62dA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cetacean Pool (CTC) will continue to be used to increase liquidity and borrow needs for BMJ-DAO as the First Distributed Storage Project BMJ's DeFi Governance Certificate. Participate in the ecological management of BMJ by pledgeing the proceeds of the DeFi project under the Cetacean Pool agreement.",
+      "verified": true
+    }
+  ],
+  "id": "fe18bd31-0cd0-44ee-b6d3-b192a19e7236",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6378930da9be7C90d824d7f113974741644d62dA",
+    "research": null,
+    "website": "https://dapp.bmjcoin.com",
+    "twitter": "https://twitter.com/BMJ67466085",
+    "telegram": "https://t.me/CTCcommunity01",
+    "github": "https://github.com/BMJ20200716"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6378930da9be7c90d824d7f113974741644d62da/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

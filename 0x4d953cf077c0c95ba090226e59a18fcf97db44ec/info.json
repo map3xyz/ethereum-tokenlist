@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MiniSwap enable to have a connected network of DeFi ecosystems. MiniSwap provides a decentralised platform for exercising financial products.",
+      "verified": true
+    }
+  ],
+  "id": "26b02afc-32b8-4455-a019-b8f7a9241d52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
+    "research": null,
+    "website": "https://miniswap.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d953cf077c0c95ba090226e59a18fcf97db44ec/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MINI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

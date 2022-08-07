@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x36B4B58DE030E93775E151a78D796039a11a2548",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "69caca9b-d7a9-4048-81e1-0ecb95fc7d4f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x36B4B58DE030E93775E151a78D796039a11a2548",
+    "research": null,
+    "website": "http://vsport.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36b4b58de030e93775e151a78d796039a11a2548/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "vSport Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

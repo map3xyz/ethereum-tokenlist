@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeE0f286776639cD363Da810DAF3e0623F82576b0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Lung protocol is a platform created for buyers and sellers all over the world.With an easy-to-use online store builder Platform, any seller is able to create their own storefront to sell their things, while making use of the Lung protocol platform’s wide range of features for a minimal fee.",
+      "verified": true
+    }
+  ],
+  "id": "22f63f26-5c09-4d8d-82a2-b6ac75ade1da",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeE0f286776639cD363Da810DAF3e0623F82576b0",
+    "research": null,
+    "website": "https://lungprotocol.info/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee0f286776639cd363da810daf3e0623f82576b0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lung Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "L2P",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

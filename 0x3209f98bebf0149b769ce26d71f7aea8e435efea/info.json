@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3209f98BeBF0149B769ce26D71F7aEA8E435EfEa",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4536b5d3-ccb2-4652-87bf-1099c86939df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3209f98BeBF0149B769ce26D71F7aEA8E435EfEa",
+    "research": null,
+    "website": "https://www.traxia.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3209f98bebf0149b769ce26d71f7aea8e435efea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Traxia Membership Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

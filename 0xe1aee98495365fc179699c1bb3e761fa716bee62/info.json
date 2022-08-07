@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE1Aee98495365fc179699C1bB3E761FA716beE62",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bezant is a decentralized payment protocol that allows content creators and online merchants to setup stores and send/receive payments internationally. The BZNT ERC-20 token enables users to make purchases on the Jehmi platform and access global content. Its purported benefits include the elimination of costly store fees and the provision of instant P2P payments to merchants.",
+      "verified": true
+    }
+  ],
+  "id": "8208e747-a2d1-4c20-9e13-7679235af432",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE1Aee98495365fc179699C1bB3E761FA716beE62",
+    "research": null,
+    "website": "https://bezant.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1aee98495365fc179699c1bb3e761fa716bee62/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BezantToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

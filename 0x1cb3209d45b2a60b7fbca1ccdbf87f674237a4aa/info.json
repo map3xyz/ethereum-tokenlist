@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "THR represents a basket of top-traded high-demand coins Simply put, it’s a Basket of Multiple cryptocurrencies in which you can invest by buying tokens.",
+      "verified": true
+    }
+  ],
+  "id": "7fd45b86-e914-4d18-b2be-f1b72f452556",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa",
+    "research": null,
+    "website": "http://www.thorecoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ThoreCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

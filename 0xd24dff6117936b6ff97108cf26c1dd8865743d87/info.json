@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xd24DFf6117936B6ff97108CF26c1dD8865743d87",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c761adb2-12a1-4b6a-9559-5224f082f80a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd24DFf6117936B6ff97108CF26c1dD8865743d87",
+    "research": null,
+    "website": "http://themedium.io/en/index.do"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd24dff6117936b6ff97108cf26c1dd8865743d87/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Medium Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

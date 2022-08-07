@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sapien is an Ethereum-based social network that puts Humans First.",
+      "verified": true
+    }
+  ],
+  "id": "bf44ef78-7dc7-4d4f-a776-e256dd2b8d1d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a",
+    "research": null,
+    "website": "https://sapien.network/",
+    "github": "https://github.com/sapiennetwork",
+    "whitepaper": "https://common.sapien.network/static/pdf/SPNv1_4.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sapien Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

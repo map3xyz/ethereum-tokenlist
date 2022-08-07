@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HitChain is a decentralized and collaborative community built to value developers’ works with a transparent credit system using blockchain technology. It is a community of the developers, by the developers, for the developers.",
+      "verified": true
+    }
+  ],
+  "id": "da33a91b-0d8d-4528-97ab-c4436d71e47d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
+    "research": null,
+    "website": "http://hitchain.org/index.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7995ab36bb307afa6a683c24a25d90dc1ea83566/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HitchainCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

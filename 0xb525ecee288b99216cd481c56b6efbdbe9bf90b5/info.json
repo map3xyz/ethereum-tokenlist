@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized Meme Tokens that grew into a vibrant ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "ba69c8c5-c0f0-4f56-ac65-df6f243fe7b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+    "research": null,
+    "website": "https://kumatoken.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb525ecee288b99216cd481c56b6efbdbe9bf90b5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kuma Inu Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

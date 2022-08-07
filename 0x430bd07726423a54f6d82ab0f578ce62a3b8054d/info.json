@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x430bd07726423A54f6d82Ab0F578CE62A3b8054D",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "e58278cc-fb48-4176-8e86-7341bab39289",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x430bd07726423A54f6d82Ab0F578CE62A3b8054D",
+    "research": null,
+    "website": "https://uos.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x430bd07726423a54f6d82ab0f578ce62a3b8054d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UOSToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

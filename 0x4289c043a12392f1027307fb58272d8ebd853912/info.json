@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4289c043A12392F1027307fB58272D8EBd853912",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AiLink Token (ALI) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "a6b18995-7f04-41cf-8548-50925d58c1ce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4289c043A12392F1027307fB58272D8EBd853912",
+    "research": null,
+    "website": "http://ailink.in/pc.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4289c043a12392f1027307fb58272d8ebd853912/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AiLink Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

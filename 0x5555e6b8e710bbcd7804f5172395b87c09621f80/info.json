@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5555e6B8e710BBCd7804f5172395b87c09621f80",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Dolphin Token (DHT) is an open-source, decentralized lottery token or stake chip, on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "45c14dbb-a4a8-4829-9e48-76bf11e1b9cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5555e6B8e710BBCd7804f5172395b87c09621f80",
+    "research": null,
+    "website": "revi.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5555e6b8e710bbcd7804f5172395b87c09621f80/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dolphin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

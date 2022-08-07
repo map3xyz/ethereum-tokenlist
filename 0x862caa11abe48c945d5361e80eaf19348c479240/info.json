@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x862caA11AbE48c945D5361E80EaF19348C479240",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The official token of all things in The Bad Crypto Podcast universe, including the show itself, Blockchain Heroes digital trading cards, The Nifty Show, The Nifty Box and more!",
+      "verified": true
+    }
+  ],
+  "id": "1da29405-3af7-4caa-9682-cd80c1184d3e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x862caA11AbE48c945D5361E80EaF19348C479240",
+    "research": null,
+    "website": "https://bcheroes.com/",
+    "telegram": "https://t.me/bcheroes",
+    "twitter": "https://twitter.com/badcrypto",
+    "discord": "https://discord.com/invite/NAWZfZBPm7",
+    "youtube": "https://youtube.com/badcryptopodcast"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x862caa11abe48c945d5361e80eaf19348c479240/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hero",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

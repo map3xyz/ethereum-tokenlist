@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Social project to promote cryptocurrency usage and increase global wealth.",
+      "verified": true
+    }
+  ],
+  "id": "3f739fbf-bddd-4432-85ea-142fafc77695",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+    "research": null,
+    "website": "https://www.FREEcoin.technology"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Free Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FREE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

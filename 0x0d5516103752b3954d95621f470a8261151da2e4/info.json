@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0D5516103752b3954D95621f470A8261151Da2e4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bloomzed is a global financial network that connects people and business.",
+      "verified": true
+    }
+  ],
+  "id": "944499f5-a075-455b-841a-0b0132aa996f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0D5516103752b3954D95621f470A8261151Da2e4",
+    "research": null,
+    "website": "https://bloomzed.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d5516103752b3954d95621f470a8261151da2e4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bloomzed Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

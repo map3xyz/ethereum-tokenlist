@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Liquidity Network is set to launch a new scalable off-chain payment system which allows Ethereum users to make payments without costly transaction fees. By utilising payment hubs, Liquidity.Network allows multiple users to send cost efficient Ethereum micropayments for the very first time.",
+      "verified": true
+    }
+  ],
+  "id": "5da50355-2337-4ecc-bc27-63e0d583702c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+    "research": null,
+    "website": "https://liquidity.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Liquidity.Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LQD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

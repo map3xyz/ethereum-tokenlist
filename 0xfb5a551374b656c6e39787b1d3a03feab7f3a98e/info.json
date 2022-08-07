@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TOS is a decentralized hierarchical block network technology based on SDAG for the Internet of Things (IoT) industry.",
+      "verified": true
+    }
+  ],
+  "id": "836126e3-1567-488d-ad7a-cc1ada48fcf7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E",
+    "research": null,
+    "website": "http://www.toschain.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ThingsOpreatingSystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

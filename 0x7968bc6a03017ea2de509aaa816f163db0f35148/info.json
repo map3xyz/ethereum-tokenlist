@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hedget is a decentralised protocol for options trading.",
+      "verified": true
+    }
+  ],
+  "id": "9f3df578-8275-40a1-bc95-dc85746ef2d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+    "research": null,
+    "website": "https://www.hedget.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7968bc6a03017ea2de509aaa816f163db0f35148/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hedget",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HGET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

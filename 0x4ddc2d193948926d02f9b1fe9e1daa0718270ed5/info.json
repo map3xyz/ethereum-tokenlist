@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+      "verified": true
+    }
+  ],
+  "id": "85df8a39-0e81-4cf9-94f7-09374bd681cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+    "research": null,
+    "website": "https://compound.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Compound Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

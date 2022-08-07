@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1600C5502E7e94CaCf73C124331cfa3e20ADd40e",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A moeda do futuro. Venha transformar sua relação com o dinheiro, na maior plataforma de Ricoins do mundo.",
+      "verified": true
+    }
+  ],
+  "id": "5a9ec35d-3fd7-4591-b9fc-5678bef23554",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1600C5502E7e94CaCf73C124331cfa3e20ADd40e",
+    "research": null,
+    "website": "https://www.ricoin.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1600c5502e7e94cacf73c124331cfa3e20add40e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ricoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

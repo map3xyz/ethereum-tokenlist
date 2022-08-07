@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "b2735906-5538-4dbe-93b1-fa22c0bb5a1e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69702cfd7dad8bccaa24d6b440159404aaa140f5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sUSDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

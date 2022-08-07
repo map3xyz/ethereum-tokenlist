@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Myōbu was designed to reward holders and discourage dumping. Learning from the mistakes of past so-called \"anti-whale\" tokens with fixed transaction and wallet limits that become useless as the number of pooled tokens decrease over time, we have introduced a dynamic sell limit that's based on price impact.",
+      "verified": true
+    }
+  ],
+  "id": "e3b58f30-0019-48ec-bf42-4aa5302cd038",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x75d12e4f91df721fafcae4c6cd1d5280381370ac",
+    "research": null,
+    "website": "https://myobu.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75d12e4f91df721fafcae4c6cd1d5280381370ac/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Myōbu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYOBU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

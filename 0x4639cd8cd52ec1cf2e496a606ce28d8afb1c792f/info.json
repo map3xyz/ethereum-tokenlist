@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CBDAO serves as a sandbox to research and proof test various decentralized consensus protocols on DAOs.",
+      "verified": true
+    }
+  ],
+  "id": "ae0ab4ef-ef97-4851-aa3d-463bc8f86470",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+    "research": null,
+    "website": "https://coinbreeder.com",
+    "github": "https://github.com/coinbreeder/coinbreederDAO/",
+    "whitepaper": "https://drive.google.com/file/d/1wdVdS1QMcmDLL2IwaXD4p3TD__YeVY7b/view"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CBDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BREE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

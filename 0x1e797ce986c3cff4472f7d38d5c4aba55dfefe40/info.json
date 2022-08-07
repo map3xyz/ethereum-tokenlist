@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+  "color": null,
+  "decimals": 15,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BLOCKCDN is an intelligent CDN node deployment software based on open source Squid and combined with SDK and P2P technology.",
+      "verified": true
+    }
+  ],
+  "id": "9e033de8-a8fb-4d6e-a749-aadbb4e6b158",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+    "research": null,
+    "website": "http://www.blockcdn.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BCDN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

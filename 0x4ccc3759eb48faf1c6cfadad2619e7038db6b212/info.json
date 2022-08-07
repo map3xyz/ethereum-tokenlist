@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "bc619d0a-948d-40e5-8eeb-5fd870d75a95",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212",
+    "research": null,
+    "website": "https://superedge.info/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ccc3759eb48faf1c6cfadad2619e7038db6b212/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SuperEdge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

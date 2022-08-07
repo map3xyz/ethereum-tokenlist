@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Rari Governance Token is the native token behind Rari Capital.",
+      "verified": true
+    }
+  ],
+  "id": "1a1d601c-6de9-44e2-8330-c4716380ebf0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
+    "research": null,
+    "website": "https://rari.capital"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd291e7a03283640fdc51b121ac401383a46cc623/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rari Governance Token (RGT)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RGT",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

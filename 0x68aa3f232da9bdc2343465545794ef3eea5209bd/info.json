@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptocurrency exchange built from the ground up to support cryptocurrency traders with fiat pairs.",
+      "verified": true
+    }
+  ],
+  "id": "aa5b603f-cd59-48f7-b977-8fe3ce4d2d74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+    "research": null,
+    "website": "https://mothership.cx/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68aa3f232da9bdc2343465545794ef3eea5209bd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mothership Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MSP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9e2754c2410620d8148E382E8feb7EF30dFa5b4C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d89c2742-5ed3-4c9d-a629-3372a1c445dc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9e2754c2410620d8148E382E8feb7EF30dFa5b4C",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e2754c2410620d8148e382e8feb7ef30dfa5b4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OKStamp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

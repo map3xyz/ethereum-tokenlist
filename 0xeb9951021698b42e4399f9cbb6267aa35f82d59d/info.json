@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEB9951021698B42e4399f9cBb6267Aa35F82D59D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Líf is an ERC-20 Ethereum token. Líf is used on the Winding Tree decentralized travel marketplace as a staking mechanism for the business verification process.",
+      "verified": true
+    }
+  ],
+  "id": "6aaf4259-32b5-4170-b533-eb88edeae28c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEB9951021698B42e4399f9cBb6267Aa35F82D59D",
+    "research": null,
+    "website": "https://windingtree.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb9951021698b42e4399f9cbb6267aa35f82d59d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Líf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

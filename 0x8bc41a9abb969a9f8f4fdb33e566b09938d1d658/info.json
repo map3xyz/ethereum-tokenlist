@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8bc41a9ABb969a9F8F4fdb33e566B09938d1D658",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "96380fe7-6e1e-4d3c-8c8b-c02ae47e98d3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8bc41a9ABb969a9F8F4fdb33e566B09938d1D658",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8bc41a9abb969a9f8f4fdb33e566b09938d1d658/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArcadiumToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

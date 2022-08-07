@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ORS GROUP is connecting A.I. and Blockchain through Hypersmart Contracts, to provide access to more than 1,000 proprietary algorithms and hundreds of software solutions entrepreneurs worldwide.",
+      "verified": true
+    }
+  ],
+  "id": "eb148235-c5ed-48ac-9e7a-4386a2ed268b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
+    "research": null,
+    "website": "https://www.orsgroup.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ORS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0e511Aa1a137AaD267dfe3a6bFCa0b856C1a3682",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f83c32ef-a568-4861-9734-f064ffa3c0bd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0e511Aa1a137AaD267dfe3a6bFCa0b856C1a3682",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e511aa1a137aad267dfe3a6bfca0b856c1a3682/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Balancer Pool Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

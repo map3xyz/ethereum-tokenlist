@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RigoBlock exists to reinvent the asset management industry, making it possible for anyone, anywhere, to set up and manage decentralized token pools which combine the powers of transparency, control, flexibility and governance.",
+      "verified": true
+    }
+  ],
+  "id": "6ce7f85a-3e74-406f-a639-fc27d2f3da13",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
+    "research": null,
+    "website": "https://rigoblock.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4fbb350052bca5417566f188eb2ebce5b19bc964/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rigo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

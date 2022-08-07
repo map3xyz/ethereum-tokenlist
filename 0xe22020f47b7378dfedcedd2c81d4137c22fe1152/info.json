@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xE22020F47B7378dfedcedd2C81d4137c22fE1152",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "My Liquidity Partner is a rewards token based on the ethereum blockchain built to help onboard people into a stable growth liquidity pool program.",
+      "verified": true
+    }
+  ],
+  "id": "5a427273-7e62-48ad-8c1c-134a505fe2a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE22020F47B7378dfedcedd2C81d4137c22fE1152",
+    "research": null,
+    "website": "https://myliquiditypartner.com",
+    "twitter": "https://twitter.com/MyLiquidity_MLP",
+    "medium": "https://medium.com/@My_liquidity_partner",
+    "telegram": "https://t.me/MyLiquidityPartner",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/my-liquidity-partner/",
+    "coingecko": "https://coingecko.com/en/coins/my-liquidity-partner",
+    "facebook": "https://facebook.com/mysmartcontract.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe22020f47b7378dfedcedd2c81d4137c22fe1152/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "My Liquidity Partner (MLP)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLP",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

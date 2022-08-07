@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x19B58d95929586Ad750893CAad43E77aa6e8Ce9E",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "6a426d86-eb8d-4ac3-aedb-5b07b96be279",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19B58d95929586Ad750893CAad43E77aa6e8Ce9E",
+    "research": null,
+    "website": "http://celcoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19b58d95929586ad750893caad43e77aa6e8ce9e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CelCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CELC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

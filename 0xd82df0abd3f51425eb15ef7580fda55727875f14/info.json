@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Enabling a Decentralized, Peer-to-Peer, Global Transportation Network",
+      "verified": true
+    }
+  ],
+  "id": "91d2c363-c058-4ec2-9888-fb646c8ec8ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
+    "research": null,
+    "website": "https://dav.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd82df0abd3f51425eb15ef7580fda55727875f14/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DAV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

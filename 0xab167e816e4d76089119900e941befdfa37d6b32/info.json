@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xab167E816E4d76089119900e941BEfdfA37d6b32",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.",
+      "verified": true
+    }
+  ],
+  "id": "f9e4ea33-533e-4d2e-a405-fe6cc92ce8ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xab167e816e4d76089119900e941befdfa37d6b32",
+    "research": null,
+    "website": "https://shibnobi.com",
+    "twitter": "https://twitter.com/Shib_nobi",
+    "telegram": "https://t.me/ShibnobiCommunity",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibnobi/",
+    "facebook": "https://facebook.com/Shibnobi",
+    "medium": "https://medium.com/@Shibnobi",
+    "reddit": "https://reddit.com/r/Shibnobi/",
+    "coingecko": "https://coingecko.com/en/coins/shibnobi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab167e816e4d76089119900e941befdfa37d6b32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shibnobi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHINJA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

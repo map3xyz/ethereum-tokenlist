@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "0xBitcoin (0xBTC) is a mineable ERC20 token that operates on the Ethereum platform. Users are able to generate 0xBitcoin's through the process of mining. 0xBitcoin aims to be the main cryptocurrency and store of value on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "600d9b39-e18b-46fc-b81b-b80caddf1a57",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+    "research": null,
+    "website": "https://0xbitcoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "0xBitcoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "0xBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c2cbdb8d-e294-40ec-aaac-f1539554287e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea",
+    "research": null,
+    "website": "http://www.youlive.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf84df2db2c87dd650641f8904af71ebfc3dde0ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YouLive Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

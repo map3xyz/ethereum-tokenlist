@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Change is a rapidly growing FinTech providing everyone in Europe access to exciting investments. Tens of thousands of people from 31 EU countries trust Change to build their financial future and have traded over 170 million euros with us.",
+      "verified": true
+    }
+  ],
+  "id": "d6664b6c-67a0-46e5-8d92-72a9f4329a1b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+    "research": null,
+    "website": "https://www.changeinvest.com",
+    "github": "https://github.com/ChangeFinance",
+    "twitter": "https://twitter.com/changefinance",
+    "telegram": "https://t.me/ChangeBank",
+    "facebook": "https://facebook.com/changeinvest",
+    "youtube": "https://youtube.com/c/changeinvest",
+    "reddit": "https://reddit.com/r/ChangeInvest",
+    "whitepaper": "https://www.changeinvest.com/investor"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d4b8cce0591c9044a22ee543533b72e976e36c3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Change",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

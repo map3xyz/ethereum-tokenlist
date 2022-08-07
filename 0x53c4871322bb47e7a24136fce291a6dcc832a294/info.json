@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x53c4871322Bb47e7A24136fce291a6dcC832a294",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Litecoin is a 1:1 equivalent of Litecoin on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "9727eb31-92f8-4485-be4b-d1fe25f89ff5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x53c4871322Bb47e7A24136fce291a6dcC832a294",
+    "research": null,
+    "website": "https://www.wrapped.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53c4871322bb47e7a24136fce291a6dcc832a294/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WLTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WLTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

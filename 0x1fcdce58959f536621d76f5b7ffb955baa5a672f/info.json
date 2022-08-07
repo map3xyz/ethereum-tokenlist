@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Force Token (FOR) is a utility token, it is the governance token of ForTube system.",
+      "verified": true
+    }
+  ],
+  "id": "d29bfaf1-ac4d-450c-a6aa-bfd79edbda9e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+    "research": null,
+    "website": "https://theforceprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1fcdce58959f536621d76f5b7ffb955baa5a672f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FOR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOR",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

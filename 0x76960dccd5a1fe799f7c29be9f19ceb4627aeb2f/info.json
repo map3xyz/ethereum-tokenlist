@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Red community is building the world's first fullstack and blockchain language.",
+      "verified": true
+    }
+  ],
+  "id": "bd7e2f7d-2fc1-4dad-a40c-3e778abfdbc5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
+    "research": null,
+    "website": "https://ico.red-lang.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Red Community Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Levolution platform aims to help entrepreneurs leverage the value of token offerings, by allowing them to build, develop, market, launch and optimize their project on a single platform.",
+      "verified": true
+    }
+  ],
+  "id": "02709399-0460-4b0c-a336-e9c8a186d6cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
+    "research": null,
+    "website": "https://ito.levolution.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09970aec766b6f3223aca9111555e99dc50ff13a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Levolution.io Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEVL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

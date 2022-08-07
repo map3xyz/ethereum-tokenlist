@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Secure & Easy to invest in your future by helping digital startups.",
+      "verified": true
+    }
+  ],
+  "id": "e0704f39-7548-4e81-8162-ed2e671bd5fa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F",
+    "research": null,
+    "website": "https://inocoin.eu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ino Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "48e15d0f-9ed2-4306-adee-0c6beedd6002",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26B80FBfC01b71495f477d5237071242e0d959d7",
+    "research": null,
+    "website": "https://oasisprotocol.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26b80fbfc01b71495f477d5237071242e0d959d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ROSE (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROSE",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Libertas is a decentralized audio and podcast streaming service built on the Ethereum Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "f64a1bdd-7fd3-4ab2-a87f-af9ce79e33e1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
+    "research": null,
+    "website": "https://libertas.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LIBERTAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIBERTAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

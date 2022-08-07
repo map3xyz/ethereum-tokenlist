@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Managed Trading Funds on Uniswap",
+      "verified": true
+    }
+  ],
+  "id": "637d886f-28e9-4948-80ac-2724a4651f50",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
+    "research": null,
+    "website": "https://unifund.global"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNIFUND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iFUND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

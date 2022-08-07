@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Green is the utility token powering the Green ecosystem. Green is a paradigm shift in blockchain technology. The revolutionary Green Smart Node can be operated on any device enabling users around the globe to mine digital rewards by converting and sharing electricity using software capable of running on any connected device.",
+      "verified": true
+    }
+  ],
+  "id": "6f77686c-cd8b-4d25-ad82-33effa620494",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531",
+    "research": null,
+    "website": "https://share.green/",
+    "twitter": "https://twitter.com/setpowerfree",
+    "github": "https://github.com/green-blockchain",
+    "facebook": "https://facebook.com/setpowerfree"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2089a7069861c8d90c8da3aacab8e9188c0c531/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Green",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GREEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

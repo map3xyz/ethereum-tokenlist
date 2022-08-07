@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x00000000441378008EA67F4284A57932B1c000a5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokenized version of the GBP",
+      "verified": true
+    }
+  ],
+  "id": "b2352356-1847-4799-844c-835b6cea2ae7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00000000441378008EA67F4284A57932B1c000a5",
+    "research": null,
+    "website": "https://www.trusttoken.com/truegbp/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00000000441378008ea67f4284a57932b1c000a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueGBP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TGBP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BOOM project is a social experiment, which aims to explore the market influence of an extremely deflationary cryptocurrency, and it will validate the effect of BOOM token as a hedge against the rapid inflation in token ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "1239400a-3a29-4e11-942f-34aea04efc01",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd",
+    "research": null,
+    "website": "https://www.boomtoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOOM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOOM",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": false,
+  "address": "0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "eMTR is the ERC-20 equivalent of MTR, the low-volatility coin of the Meter network.",
+      "verified": true
+    }
+  ],
+  "id": "6b7493ed-38e6-4b9d-80b1-fe1b5ade3dc3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32",
+    "research": null,
+    "website": "https://meter.io/",
+    "github": "https://github.com/meterio",
+    "twitter": "https://twitter.com/Meter_IO",
+    "telegram": "https://t.me/Meter_IO",
+    "discord": "https://discord.com/invite/XZgZsCn",
+    "facebook": "https://facebook.com/MeterFoundation/",
+    "reddit": "https://reddit.com/r/Meter_io/"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Meter Stable mapped by Meter.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

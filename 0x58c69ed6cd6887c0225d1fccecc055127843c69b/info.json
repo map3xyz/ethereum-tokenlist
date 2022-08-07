@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x58c69ed6cd6887c0225D1FcCEcC055127843c69b",
+  "color": null,
+  "decimals": 9,
+  "description": [],
+  "id": "c16a59c4-cfb4-46fd-afa5-3e8a5cd839e2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x58c69ed6cd6887c0225D1FcCEcC055127843c69b",
+    "research": null,
+    "website": "http://www.hlc.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58c69ed6cd6887c0225d1fccecc055127843c69b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HalalChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

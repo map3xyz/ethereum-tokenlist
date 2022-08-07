@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0f8794f66C7170c4f9163a8498371A747114f6C4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Flama is one of the first deflationary tokens in the market with enhanced futures like staking.",
+      "verified": true
+    }
+  ],
+  "id": "2ff20134-e779-48a6-a264-417273e4bf0d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0f8794f66C7170c4f9163a8498371A747114f6C4",
+    "research": null,
+    "website": "https://flamanet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f8794f66c7170c4f9163a8498371a747114f6c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flama",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

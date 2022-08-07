@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa83aF809975619477Af73B179e05e04A1CcEA953",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LC4 is an established digital currency that allows individuals to make fast and secure transactions through a decentralized peer-to-peer network.",
+      "verified": true
+    }
+  ],
+  "id": "e0129f8d-db92-4728-9918-621dcedfa47a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa83aF809975619477Af73B179e05e04A1CcEA953",
+    "research": null,
+    "website": "https://www.lc4foundation.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa83af809975619477af73b179e05e04a1ccea953/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LEOcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LC4",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

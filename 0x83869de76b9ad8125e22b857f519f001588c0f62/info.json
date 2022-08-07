@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EXMO Coin is a utility token for the EXMO exchange's internal ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "c062dc78-88c6-4c23-8aff-caf02f955016",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x83869DE76B9Ad8125e22b857f519F001588c0f62",
+    "research": null,
+    "website": "https://exmo.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83869de76b9ad8125e22b857f519f001588c0f62/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EXMOCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

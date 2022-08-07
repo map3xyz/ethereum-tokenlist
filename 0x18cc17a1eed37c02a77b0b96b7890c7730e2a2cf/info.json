@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneLINK is the stablecoin created for the Chainlink community. Backed by both a treasury of LINK and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the LINK treasury.",
+      "verified": true
+    }
+  ],
+  "id": "f487856e-cc4d-4669-89e8-f3e6ea2a082a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF",
+    "research": null,
+    "website": "https://ichi.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18cc17a1eed37c02a77b0b96b7890c7730e2a2cf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "oneLINK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneLINK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

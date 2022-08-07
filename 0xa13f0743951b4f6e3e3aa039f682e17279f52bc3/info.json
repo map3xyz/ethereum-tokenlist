@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sentinel Chain (SENC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "306e1364-65e6-4a97-87a7-ca2c7377f210",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
+    "research": null,
+    "website": "https://sentinel-chain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sentinel Chain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SENC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

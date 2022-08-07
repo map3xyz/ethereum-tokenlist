@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2eC95B8edA549B79a1248335A39d299d00Ed314C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fatcoin (FAT) is an ERC20 token issued by the FatBTC exchange for use within its ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "1907206e-8542-4d64-b1a5-9d38c30a0768",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2eC95B8edA549B79a1248335A39d299d00Ed314C",
+    "research": null,
+    "website": "https://www.fatbtc.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ec95b8eda549b79a1248335a39d299d00ed314c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fatcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

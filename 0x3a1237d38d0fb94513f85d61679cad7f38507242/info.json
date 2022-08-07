@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3A1237D38D0Fb94513f85D61679cAd7F38507242",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9c10463c-28ee-4293-b34a-c4423cc69075",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A1237D38D0Fb94513f85D61679cAd7F38507242",
+    "research": null,
+    "website": "https://mindexcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a1237d38d0fb94513f85d61679cad7f38507242/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mindexcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

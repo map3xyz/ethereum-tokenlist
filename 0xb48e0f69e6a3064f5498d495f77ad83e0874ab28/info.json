@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CXN Network is a research-and-deploy start-up, which aims to build products around centralized and decentralized finance",
+      "verified": true
+    }
+  ],
+  "id": "feef2a1d-7ab5-41c1-b57a-989b4844cf3e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
+    "research": null,
+    "website": "https://cxn.network",
+    "whitepaper": "https://cxn.network/files/Whitepaper-CXN.pdf",
+    "github": "https://gitlab.com/beejay141/cxnsol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb48e0f69e6a3064f5498d495f77ad83e0874ab28/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CXN Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

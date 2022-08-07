@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBaC6874fFf7aC02C06907D0e340AF9f1832E7908",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3cfb3dff-2e98-43d7-bf51-b3ef5a41109e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBaC6874fFf7aC02C06907D0e340AF9f1832E7908",
+    "research": null,
+    "website": "https://a1coin.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbac6874fff7ac02c06907d0e340af9f1832e7908/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "A1 Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "A1",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

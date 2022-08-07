@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first copytrade platform with blockchain technology",
+      "verified": true
+    }
+  ],
+  "id": "baa20fe9-9bfe-47cd-a266-35c42506db5b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+    "research": null,
+    "website": "http://botxcoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "botXcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

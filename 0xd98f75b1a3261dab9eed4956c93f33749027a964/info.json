@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ShareRing is the first global sharing ecosystem that makes services and goods more accessible for everyone.",
+      "verified": true
+    }
+  ],
+  "id": "53a2be6e-038f-45e5-9a4a-840f40f7982f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd98f75b1a3261dab9eed4956c93f33749027a964",
+    "research": null,
+    "website": "https://sharering.network",
+    "github": "https://github.com/ShareRing",
+    "twitter": "https://twitter.com/shareringglobal",
+    "telegram": "https://t.me/sharering",
+    "reddit": "https://reddit.com/r/ShareRing/",
+    "whitepaper": "https://sharering.network/public/sharetoken-whitepaper-en-web-v1.2.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd98f75b1a3261dab9eed4956c93f33749027a964/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ShareToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+  "color": null,
+  "decimals": 3,
+  "description": [],
+  "id": "e8ff7e33-81ae-442f-a945-c56673d7c8e9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+    "research": null,
+    "website": "https://nulink.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x493c8d6a973246a7b26aa8ef4b1494867a825de5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NuLink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NLINK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0x2a3bFF78B79A009976EeA096a51A948a3dC00e34",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wilder World is an immersive 5D metaverse powered entirely by NFTs.",
+      "verified": true
+    }
+  ],
+  "id": "0ed7804e-cbc9-4fc0-b08c-86c9277124bc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2a3bFF78B79A009976EeA096a51A948a3dC00e34",
+    "research": null,
+    "website": "https://www.wilderworld.com/",
+    "twitter": "https://twitter.com/WilderWorld",
+    "medium": "https://wilderworld.medium.com/",
+    "discord": "https://discord.com/invite/wilderworld",
+    "whitepaper": "https://info.wilderworld.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wilder-world/",
+    "blog": "https://zine.wilderworld.com/",
+    "docs": "https://wiki.wilderworld.com/",
+    "telegram": "https://t.me/wilder_world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a3bff78b79a009976eea096a51a948a3dc00e34/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wilder World",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WILD",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

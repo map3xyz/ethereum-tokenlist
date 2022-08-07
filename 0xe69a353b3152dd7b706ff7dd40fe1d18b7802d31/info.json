@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE69a353b3152Dd7b706ff7dD40fe1d18b7802d31",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AdHive is the World's first AI-controlled Influencer Marketing platform.",
+      "verified": true
+    }
+  ],
+  "id": "ae0dd661-9277-4bc8-8ab5-b2770611709f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE69a353b3152Dd7b706ff7dD40fe1d18b7802d31",
+    "research": null,
+    "website": "https://adhive.tv"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AdHive Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

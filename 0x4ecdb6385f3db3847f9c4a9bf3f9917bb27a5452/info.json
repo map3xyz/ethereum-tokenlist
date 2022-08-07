@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4EcDB6385f3Db3847F9C4A9bf3F9917bb27A5452",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EKT is an online education community that creating a model that equitably rewards both the content providers, referrals and the end consumer. It will serve to increase transparency, trust and collaboration.",
+      "verified": true
+    }
+  ],
+  "id": "f9c10d44-c6c0-4f75-8940-d15d36ddc367",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4EcDB6385f3Db3847F9C4A9bf3F9917bb27A5452",
+    "research": null,
+    "website": "http://ekt8.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EKT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EKT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

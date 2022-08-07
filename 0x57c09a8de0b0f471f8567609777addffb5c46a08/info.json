@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EZBitex is the currency exchange and banking infrastructure with a decentralized, distributed and immutable ledger.",
+      "verified": true
+    }
+  ],
+  "id": "ab21af86-b757-4127-96d4-0ce33be70d14",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
+    "research": null,
+    "website": "https://bitex.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57c09a8de0b0f471f8567609777addffb5c46a08/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitex Global XBX Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

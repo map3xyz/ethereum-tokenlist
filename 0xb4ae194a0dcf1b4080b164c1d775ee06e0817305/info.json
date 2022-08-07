@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB4ae194a0DCF1B4080b164C1d775ee06E0817305",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first ever existed -Item Token-. An experimental token acting both as ERC 20 and both as ERC 1155, also governance token of the buidlers Sandbox.",
+      "verified": true
+    }
+  ],
+  "id": "881358e6-88c8-41e1-b3cb-01be86ed2f9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB4ae194a0DCF1B4080b164C1d775ee06E0817305",
+    "research": null,
+    "website": "https://dapp.dfohub.com/?addr=0xd5F8E370130ebBF6dF7bF742866ff056331Fd73C"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb4ae194a0dcf1b4080b164c1d775ee06e0817305/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Super Saiya-jin token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSJ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

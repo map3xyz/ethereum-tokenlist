@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token.",
+      "verified": true
+    }
+  ],
+  "id": "8afa5bad-8266-45ff-8412-e21072856552",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+    "research": null,
+    "website": "https://zedxion.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZEDXION",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEDXION",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

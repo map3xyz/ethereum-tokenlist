@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "f1c1c12e-1341-4834-9ff8-3de734ccdbfc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+    "research": null,
+    "website": "https://wormholebridge.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa693b19d2931d498c5b318df961919bb4aee87a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UST (Wormhole)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

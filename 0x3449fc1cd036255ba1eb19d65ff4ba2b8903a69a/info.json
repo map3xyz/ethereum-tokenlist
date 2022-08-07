@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Basis Cash is an open source, permissionless stablecoin pegged to USD. The protocol is designed to expand and contract supply similarly to the way central banks buy and sell fiscal debt to stabilze purchasing power, without any REBASES or risking colletrals.",
+      "verified": true
+    }
+  ],
+  "id": "fe00ba58-bbe2-48d7-b9eb-d157b50286c7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+    "research": null,
+    "website": "https://basis.cash/",
+    "github": "https://github.com/Basis-Cash",
+    "twitter": "https://twitter.com/Basis Cash",
+    "telegram": "https://t.me/basiscash",
+    "discord": "https://discord.com/invite/UEZq3HF5Eu",
+    "medium": "https://medium.com/basis-cash"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Basis Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BitJob is an ambitious and social project, based on Blockchain technology. Aimed at revolutionizing the way students make a living and gain occupational experience while still studying.",
+      "verified": true
+    }
+  ],
+  "id": "a8b7eb57-15e2-47f4-8150-a8b51383e71e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372",
+    "research": null,
+    "website": "https://bitjob.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Student Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

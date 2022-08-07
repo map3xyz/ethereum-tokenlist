@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin’s matching algorithm then analyzes and matches leads to buyers.",
+      "verified": true
+    }
+  ],
+  "id": "db78a79f-4c7f-4a3b-b16e-a85f350b0b21",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+    "research": null,
+    "website": "https://www.leadcoin.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5102791ca02fc3595398400bfe0e33d7b6c82267/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LEADCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

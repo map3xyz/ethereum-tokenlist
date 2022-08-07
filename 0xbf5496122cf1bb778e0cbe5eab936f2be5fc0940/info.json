@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b39d0f9d-d5d5-4838-b3ed-0d1f12188d64",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FundToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUNDZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

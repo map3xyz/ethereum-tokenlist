@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 version of the e-Money NOK stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "e31e3336-901b-4e44-917b-6e3ba1cf9c11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5",
+    "research": null,
+    "website": "https://e-money.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9ec749faa086bb604b96bfe02bd49c53cef47ea5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "e-Money NOK stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENOK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

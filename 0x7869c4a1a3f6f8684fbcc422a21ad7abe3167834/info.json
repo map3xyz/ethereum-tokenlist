@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pivot is the world's largest investment and communication platform for blockchains, dedicated to providing users with real-time comprehensive cryptocurrency market, information, trading one-stop service.",
+      "verified": true
+    }
+  ],
+  "id": "4c66abd9-4c1a-49a3-96bf-952ba4765882",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
+    "research": null,
+    "website": "https://www.pivot.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7869c4a1a3f6f8684fbcc422a21ad7abe3167834/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pivot Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

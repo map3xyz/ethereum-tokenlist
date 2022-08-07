@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.",
+      "verified": true
+    }
+  ],
+  "id": "f47d0cc8-b7a8-4c92-8f59-b89f8958871d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+    "research": null,
+    "website": "https://pundix.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pundi X (Old)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPXS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

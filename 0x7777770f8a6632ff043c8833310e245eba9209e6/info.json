@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7777770f8A6632ff043c8833310e245EBa9209E6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokens of Babel, Price is God. A new trading game that tests the limits of DeFi",
+      "verified": true
+    }
+  ],
+  "id": "c792b5ff-1921-49e2-b043-39cd1b1f17ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7777770f8A6632ff043c8833310e245EBa9209E6",
+    "research": null,
+    "website": "https://antiample.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7777770f8a6632ff043c8833310e245eba9209e6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tokens of Babel, Price is God",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

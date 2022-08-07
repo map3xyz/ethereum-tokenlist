@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PECULIUM revolutionises savings management by deploying immutable Smart-Contracts over the Ethereum blockchain. These smart contracts provide a trust-less way of achieving transparent, decentralised, and infallible contractual agreements.",
+      "verified": true
+    }
+  ],
+  "id": "20d1d870-d8c3-468a-a3e6-ac951dd1de69",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+    "research": null,
+    "website": "http://peculium.io/",
+    "github": "https://github.com/Peculium-Dev/peculiumContracts",
+    "twitter": "https://twitter.com/peculium",
+    "facebook": "https://facebook.com/PeculiumICO",
+    "reddit": "https://reddit.com/r/Peculium/",
+    "whitepaper": "https://peculium.io/white-paper"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f02e27745e3b6e9e1310d19469e2b5d7b5ec99a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Peculium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

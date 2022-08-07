@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaD22f63404f7305e4713CcBd4F296f34770513f4",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Atomic describes itself as a non-custodial decentralized wallet to manage, exchange, and buy 300+ cryptocurrencies in a single interface. AWC token holders receive benefits such as staking, discounts on exchange services, extra features for trading desks, affiliate and bounty rewards, and dedicated support. It claims to be the first wallet to have implemented cross chain Atomic Swaps.",
+      "verified": true
+    }
+  ],
+  "id": "cd0cd7d5-6132-4746-b9a6-d3c3c21e87c8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaD22f63404f7305e4713CcBd4F296f34770513f4",
+    "research": null,
+    "website": "https://atomicwallet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xad22f63404f7305e4713ccbd4f296f34770513f4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Atomic Wallet Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AWC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

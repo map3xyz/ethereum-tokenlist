@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
+      "verified": true
+    }
+  ],
+  "id": "4972828f-fc2f-4724-8db1-34740d3a74cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+    "research": null,
+    "website": "https://dollarprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07f89875b1f142abcba60ff1d7fcfb7fe404d4ed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chinese Yuan Renminbi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNYx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

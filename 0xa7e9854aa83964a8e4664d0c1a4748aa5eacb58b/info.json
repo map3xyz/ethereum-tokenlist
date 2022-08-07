@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA7E9854AA83964A8E4664D0C1A4748aa5eAcB58b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "48bade5e-a475-45c0-a40c-05a82f7a5fcb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA7E9854AA83964A8E4664D0C1A4748aa5eAcB58b",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7e9854aa83964a8e4664d0c1a4748aa5eacb58b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CandyToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

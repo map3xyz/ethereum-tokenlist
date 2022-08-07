@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wixlar is a Global Decentralized Digital Currency based on the BlockChain Technology which is instant, secure, private and with low fee transactions.",
+      "verified": true
+    }
+  ],
+  "id": "666179d2-8442-482d-b001-bb0ab6177dee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e",
+    "research": null,
+    "website": "https://wixlar.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wixlar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

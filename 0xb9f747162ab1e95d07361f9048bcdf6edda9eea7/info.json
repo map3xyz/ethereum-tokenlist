@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "de502419-0453-4512-937e-82d8ee2139ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+    "research": null,
+    "website": "https://staratlas.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9f747162ab1e95d07361f9048bcdf6edda9eea7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Star Atlas (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATLAS",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

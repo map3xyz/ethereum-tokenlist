@@ -1,0 +1,48 @@
+{
+  "active": true,
+  "address": "0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.",
+      "verified": true
+    }
+  ],
+  "id": "78e3cac1-9ab7-44a4-b351-08c3cce89b89",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+    "research": null,
+    "website": "https://www.ltonetwork.com/",
+    "twitter": "https://twitter.com/TheLTONetwork",
+    "github": "https://github.com/ltonetwork/",
+    "telegram": "https://t.me/LTOnetwork",
+    "telegramNews": "https://t.me/ltoinfo",
+    "blog": "https://blog.ltonetwork.com/",
+    "docs": "https://docs.ltonetwork.com/",
+    "reddit": "https://reddit.com/r/LTONetwork/",
+    "facebook": "https://facebook.com/TheLTONetwork",
+    "youtube": "https://youtube.com/channel/UCaHcF-xterKYTKSpY4xgKiw",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lto-network/",
+    "coingecko": "https://coingecko.com/en/coins/lto-network",
+    "whitepaper": "https://ltonetwork.com/documents/LTO%20Network%20-%20Identities%20Paper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd01409314acb3b245cea9500ece3f6fd4d70ea30/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LTO Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

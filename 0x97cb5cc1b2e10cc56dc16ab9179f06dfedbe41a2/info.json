@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x97Cb5Cc1b2e10cC56DC16ab9179f06dfEDBe41A2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "61c7a509-75d4-4b49-83f8-9e13aa379267",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x97Cb5Cc1b2e10cC56DC16ab9179f06dfEDBe41A2",
+    "research": null,
+    "website": "https://mobilink.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MobilinkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOLK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

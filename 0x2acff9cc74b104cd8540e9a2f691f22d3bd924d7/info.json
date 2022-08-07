@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2ACFf9cc74B104CD8540E9a2F691f22d3BD924d7",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped version of Tether (USDT)",
+      "verified": true
+    }
+  ],
+  "id": "cd563c1a-5228-43df-af07-9f04daaadf2b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2ACFf9cc74B104CD8540E9a2F691f22d3BD924d7",
+    "research": null,
+    "website": "https://ecocelium.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2acff9cc74b104cd8540e9a2f691f22d3bd924d7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WrapUSDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eUSDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YSTAR is a product aggregator for the world of DeFi 3.0. with the goal to quickly aggregate and structurally classify the latest and hottest digital asset technologies and products.",
+      "verified": true
+    }
+  ],
+  "id": "193eef0c-3589-4b46-9cb6-396c3e646d48",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
+    "research": null,
+    "website": "https://ystar.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9a947789974bad9be77e45c2b327174a9c59d71/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ystar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YSR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

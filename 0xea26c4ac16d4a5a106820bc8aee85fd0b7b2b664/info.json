@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QuarkChain is a flexible, scalable, and user-oriented blockchain infrastructure by applying blockchain sharding technology.",
+      "verified": true
+    }
+  ],
+  "id": "13cd4d00-4148-41a5-918a-4e5d21a4f295",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+    "research": null,
+    "website": "https://quarkchain.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QuarkChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QKC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

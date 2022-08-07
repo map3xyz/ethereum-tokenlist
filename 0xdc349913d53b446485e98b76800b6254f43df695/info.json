@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDC349913d53b446485E98b76800b6254f43Df695",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BEZOGE is developed to follow the footsteps of some of the best performing experimental coins and amalgamate their features into one coin.",
+      "verified": true
+    }
+  ],
+  "id": "eb744939-9fef-4300-9b2f-28b6c6bedaf1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDC349913d53b446485E98b76800b6254f43Df695",
+    "research": null,
+    "website": "http://www.bezoge.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdc349913d53b446485e98b76800b6254f43df695/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bezoge Earth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEZOGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

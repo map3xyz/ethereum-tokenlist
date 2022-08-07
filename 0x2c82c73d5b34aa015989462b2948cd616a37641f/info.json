@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2C82c73d5B34AA015989462b2948cd616a37641F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Broker-less financial trading platform.",
+      "verified": true
+    }
+  ],
+  "id": "671bf861-8818-4e4c-b047-60430dfcdda0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C82c73d5B34AA015989462b2948cd616a37641F",
+    "research": null,
+    "website": "http://www.spectre.ai/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c82c73d5b34aa015989462b2948cd616a37641f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Spectre.ai U-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SXUT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

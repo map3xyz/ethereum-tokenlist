@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "b03cce71-9b2f-496a-8492-069450721910",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF",
+    "research": null,
+    "website": "https://www.tronipaycard.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tronipay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x01bcd148c54cA43Dad8C195100998DED48FaD39c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "aceCoin is designed to be a precious possession in the growing cryptocurrency market. We give RaceCoin owners control over their money without compromising on convenience.",
+      "verified": true
+    }
+  ],
+  "id": "0f43881c-19e2-4e01-a8c9-0362fb655f71",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x01bcd148c54cA43Dad8C195100998DED48FaD39c",
+    "research": null,
+    "website": "https://racecoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01bcd148c54ca43dad8c195100998ded48fad39c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RACECOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

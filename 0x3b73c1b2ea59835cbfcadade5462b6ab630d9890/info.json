@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ChainSwap is a cross-chain asset bridge & application hub for smart chains.",
+      "verified": true
+    }
+  ],
+  "id": "483a7702-a0b2-4f21-b97d-d1861fba5320",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+    "research": null,
+    "website": "https://chainswap.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ChainSwap.com Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOKEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

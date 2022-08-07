@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Provide programmable interest payments to everyone.",
+      "verified": true
+    }
+  ],
+  "id": "dff19778-4a59-43ba-9d45-e05dfff021df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0",
+    "research": null,
+    "website": "https://rdai.money/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x261b45d85ccfeabb11f022eba346ee8d1cd488c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Redeemable DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "rDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

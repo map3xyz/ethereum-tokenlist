@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Creating next generation NFTs and developing new standards for gaming on the blockchain. Built for users & developers on the layer 2 solution VIBENet. Powered by the VIBE token.",
+      "verified": true
+    }
+  ],
+  "id": "17152c46-3c80-4b2f-a2e5-e3038a1a60cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+    "research": null,
+    "website": "https://www.vibehub.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8ff5c9c75deb346acac493c463c8950be03dfba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vibe Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIBE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

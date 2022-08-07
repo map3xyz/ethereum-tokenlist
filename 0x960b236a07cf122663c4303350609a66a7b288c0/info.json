@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO).",
+      "verified": true
+    }
+  ],
+  "id": "099bd1df-77aa-4a4c-9df0-936d24753b55",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0",
+    "research": "https://research.binance.com/en/projects/aragon",
+    "website": "https://aragon.org",
+    "twitter": "https://twitter.com/aragonproject?lang=es",
+    "telegram": "https://t.me/AragonProject",
+    "github": "https://github.com/aragon"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x960b236a07cf122663c4303350609a66a7b288c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aragon (old)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

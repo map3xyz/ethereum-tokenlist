@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Democratizing the creation of credit through permanently recorded debts and obligations.",
+      "verified": true
+    }
+  ],
+  "id": "b09f8d0a-8fa5-4180-b1a3-a0c753ffaff3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+    "research": null,
+    "website": "https://blockmason.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c4481750daa5ff521a2a7490d9981ed46465dbd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8fa1a491f55D93bD40ff023956261f2fB5047297",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "489a1066-1723-46dc-9046-703e148d149c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8fa1a491f55D93bD40ff023956261f2fB5047297",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fa1a491f55d93bd40ff023956261f2fb5047297/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Short ETH-DAI 2x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsETH2x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A smart, secure, user-friendly, multi-coin wallet for all essential crypto needs, from safekeeping, intelligent trading, portfolio management, easy conversion to fiat and spending of cryptocurrencies - MidasProtocol.io",
+      "verified": true
+    }
+  ],
+  "id": "60f07dac-61b8-48cb-85c0-a00710f80e15",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x23Ccc43365D9dD3882eab88F43d515208f832430",
+    "research": null,
+    "website": "https://midasprotocol.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23ccc43365d9dd3882eab88f43d515208f832430/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MidasProtocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

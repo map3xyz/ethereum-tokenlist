@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xae746520FfDB15d0505e32f1d6e9a2b4ab866572",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MorCrypto Coin 2 (MOR) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "cbf2aafa-be0b-48b8-a268-124beff8996c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xae746520FfDB15d0505e32f1d6e9a2b4ab866572",
+    "research": null,
+    "website": "https://morcrypto-exchange.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xae746520ffdb15d0505e32f1d6e9a2b4ab866572/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MorCrypto Coin 2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

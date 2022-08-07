@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A new platform where you can easily invest your spare change from everyday purchases into Bitcoin and other cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "15fd46a8-9c29-4aef-828d-ddea43668664",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+    "research": null,
+    "website": "https://skraps.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Skraps",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKRP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

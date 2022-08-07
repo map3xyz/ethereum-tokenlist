@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9746953F5b1324a78132895cfD263F417B0faAE3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "800b14f3-333a-486b-9d03-5305db7dbed6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9746953F5b1324a78132895cfD263F417B0faAE3",
+    "research": null,
+    "website": "http://www.valuecyber.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9746953f5b1324a78132895cfd263f417b0faae3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ValueCyberToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

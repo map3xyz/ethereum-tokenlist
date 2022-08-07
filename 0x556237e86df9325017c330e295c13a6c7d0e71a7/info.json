@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x556237E86Df9325017c330E295c13A6c7d0E71a7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Real crowdfunding for you and non-profits",
+      "verified": true
+    }
+  ],
+  "id": "e117b969-9a8c-461a-9e35-9b3507595d28",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x556237E86Df9325017c330E295c13A6c7d0E71a7",
+    "research": null,
+    "website": "https://go9tro.io/en/basic",
+    "telegram": "https://t.me/joinchat/GVUMOljY3IFZpd5XnRKonw",
+    "youtube": "https://youtube.com/channel/UCo_xEbK6rImcbERDp4G4dGQ"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x556237e86df9325017c330e295c13a6c7d0e71a7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Go9tro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Go9tro",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

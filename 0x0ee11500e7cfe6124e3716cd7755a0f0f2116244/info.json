@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0ee11500E7CfE6124e3716cD7755A0F0f2116244",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WX-Coin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of WX-Coin is carried out collectively by the network.",
+      "verified": true
+    }
+  ],
+  "id": "6785b9fc-eca6-43f5-b482-6beb9bbbf200",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0ee11500E7CfE6124e3716cD7755A0F0f2116244",
+    "research": null,
+    "website": "https://wxcoins.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ee11500e7cfe6124e3716cd7755a0f0f2116244/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WXCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WXC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

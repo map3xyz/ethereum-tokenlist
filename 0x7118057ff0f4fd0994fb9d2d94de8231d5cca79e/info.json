@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SOURCE is the utility token that powers the ReSource protocol—a DeFi protocol enabling the world’s first on-chain mutual credit economic system.",
+      "verified": true
+    }
+  ],
+  "id": "c00ffd37-fe28-4a89-85ec-a4fbc8377753",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+    "research": null,
+    "website": "https://resource.finance",
+    "twitter": "https://twitter.com/ReSource_Fi",
+    "telegram": "https://t.me/theresourcenetwork",
+    "github": "https://github.com/ReSource-Network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOURCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOURCE",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

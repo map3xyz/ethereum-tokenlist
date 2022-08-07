@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
+      "verified": true
+    }
+  ],
+  "id": "ef8ea0e6-08ce-4897-af1f-2ab86b9cbe6c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+    "research": null,
+    "website": "https://dollarprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dollars",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

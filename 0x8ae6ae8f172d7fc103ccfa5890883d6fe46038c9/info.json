@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8Ae6AE8F172d7fc103CCfa5890883d6fE46038C9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "When people help each other, the system in uinswap donates tokens from the pool to the helper; this means that when we help each other, the value of the EOG token increases. The EOG token is only minted when the pool inventory in uinswap reaches less than one token.",
+      "verified": true
+    }
+  ],
+  "id": "2c34cd3e-7be8-4e89-81e5-00c28e35d1e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8Ae6AE8F172d7fc103CCfa5890883d6fE46038C9",
+    "research": null,
+    "website": "https://helixnebula.help"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8ae6ae8f172d7fc103ccfa5890883d6fe46038c9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EOG Eye of God",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EOG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

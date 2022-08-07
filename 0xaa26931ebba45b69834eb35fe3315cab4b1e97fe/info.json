@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaa26931EBbA45B69834Eb35fe3315caB4b1e97fe",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AWARE is a decentralized token investment-management community (TIC) aiming to make innovative assets more liquid and to serve blockchain entrepreneurs and investors across the globe.",
+      "verified": true
+    }
+  ],
+  "id": "2e38a6e3-4861-4a59-b2e2-bd78ae664707",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaa26931EBbA45B69834Eb35fe3315caB4b1e97fe",
+    "research": null,
+    "website": "https://at.top/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaa26931ebba45b69834eb35fe3315cab4b1e97fe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AWARE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

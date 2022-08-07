@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x076a93a40Bf9E0D21d3F75dd1E0584DdbE0f9D1a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Qurito is a platform for people to discover, gain and share their ideas and knowledge.",
+      "verified": true
+    }
+  ],
+  "id": "c955b814-ee47-4aba-a891-2e5f786eb1c8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x076a93a40Bf9E0D21d3F75dd1E0584DdbE0f9D1a",
+    "research": null,
+    "website": "https://qurito.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x076a93a40bf9e0d21d3f75dd1e0584ddbe0f9d1a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Qurito",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QURO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

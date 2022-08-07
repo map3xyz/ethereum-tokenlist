@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
+  "color": null,
+  "decimals": 16,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Molecular Future is an innovative financial investment service company. The platform includes but not limited to digital currency management, hedge funds, crowd funding, ETF index funds, and mortgage transaction products.",
+      "verified": true
+    }
+  ],
+  "id": "66639502-7f14-499f-8ff0-7083506d8229",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
+    "research": null,
+    "website": "http://molecular.cc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x653430560be843c4a3d143d0110e896c2ab8ac0d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Molecular Future",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdb0aCC14396D108b3C5574483aCB817855C9dc8d",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Overline is a protocol designed to foster innovation by connecting blockchain technologies with liquidity and interoperability. Overline is built on top of a unique proof-of-work algorithm called “Proof-of-Distance” and uses mining hash power from it’s network to build a \"blockchain of blockchains”, or multichain, by weaving together the states of all connected blockchain networks and recording this information into a single immutable ledger.",
+      "verified": true
+    }
+  ],
+  "id": "fab24a4c-e41a-495e-b839-c8cf4580d4ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdb0acc14396d108b3c5574483acb817855c9dc8d",
+    "research": null,
+    "website": "https://overline.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb0acc14396d108b3c5574483acb817855c9dc8d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Emblem (EMB)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

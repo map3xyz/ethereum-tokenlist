@@ -1,0 +1,51 @@
+{
+  "active": true,
+  "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.",
+      "verified": true
+    }
+  ],
+  "id": "1a418b70-6117-478f-b7d2-70adc85d648b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+    "research": null,
+    "website": "https://dhedge.org",
+    "twitter": "https://twitter.com/dHedgeOrg",
+    "github": "https://github.com/dhedge",
+    "telegram": "https://t.me/dhedge",
+    "telegramNews": "https://t.me/dhedge",
+    "blog": "https://dhedge.ghost.io/",
+    "docs": "https://docs.dhedge.org/",
+    "forum": "https://forum.dhedge.org/",
+    "discord": "https://discord.com/invite/BAWTbRA",
+    "medium": "https://medium.com/dhedge-org",
+    "youtube": "https://youtube.com/watch?v=OODm7tJspqk",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dhedge-dao/",
+    "coingecko": "https://coingecko.com/en/coins/dhedge-dao"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca1207647ff814039530d7d35df0e1dd2e91fa84/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dHEDGE DAO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [
+    "governance",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

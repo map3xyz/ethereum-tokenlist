@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c82ba4a3-c74c-4b6a-8925-ef1a7859b3f6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+    "research": null,
+    "website": "https://www.intimefoundation.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x293b0cd0991db07c8529febb01bc7d052315c5ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InTime",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Crypto Payment Gateway",
+      "verified": true
+    }
+  ],
+  "id": "992d29b8-0f0c-4978-a927-f16828bfe09e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
+    "research": null,
+    "website": "https://satopay.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SatoPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STOP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

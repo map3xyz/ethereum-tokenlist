@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4e73edc8-e985-4b71-a57f-05eb0a5e9b13",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NerveNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "9e63aa92-d345-4c83-83c6-afe73c8fc627",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+    "research": null,
+    "website": "https://www.taas.fund/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Token-as-a-Service",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

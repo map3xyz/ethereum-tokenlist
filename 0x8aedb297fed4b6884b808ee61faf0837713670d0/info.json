@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8AedB297FED4b6884b808ee61fAf0837713670d0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "382305a1-b8c1-4c3d-a4aa-ff5126faa4c9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8AedB297FED4b6884b808ee61fAf0837713670d0",
+    "research": null,
+    "website": "https://wrappedmarble.cards"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aedb297fed4b6884b808ee61faf0837713670d0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped MarbleCards",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WMC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

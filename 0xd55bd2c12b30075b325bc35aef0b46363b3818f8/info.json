@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Zombie is an decentralized experiment to see how people will react having power over one another.",
+      "verified": true
+    }
+  ],
+  "id": "8dbe617f-1684-43c6-8050-e8fac35af34f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
+    "research": null,
+    "website": "https://zombie.finance/",
+    "github": "https://github.com/zombie-finance/zombie-protocol",
+    "twitter": "https://twitter.com/Zombie.Finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd55bd2c12b30075b325bc35aef0b46363b3818f8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zombie.Finance(ZOMBIE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZOMBIE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

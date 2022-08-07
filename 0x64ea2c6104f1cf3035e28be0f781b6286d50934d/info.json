@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x64EA2c6104F1CF3035E28Be0f781B6286d50934D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b16f9c0e-ed7a-4fc8-ad08-8ff7e73d7243",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x64EA2c6104F1CF3035E28Be0f781B6286d50934D",
+    "research": null,
+    "website": "https://satoshivisioncoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64ea2c6104f1cf3035e28be0f781b6286d50934d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Satoshivisioncoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SVC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

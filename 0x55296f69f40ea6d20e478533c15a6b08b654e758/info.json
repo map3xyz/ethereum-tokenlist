@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d23e1820-bead-4242-b3ef-d93a755e0075",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+    "research": null,
+    "website": "https://xyo.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x55296f69f40ea6d20e478533c15a6b08b654e758/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XY Oracle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XYO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

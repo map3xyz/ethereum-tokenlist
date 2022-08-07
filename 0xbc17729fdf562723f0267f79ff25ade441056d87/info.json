@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xBc17729fDf562723f0267F79FF25aDE441056d87",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KSM Starter is the primary launchpad on Kusama that supports upcoming projects that wish to build on the Kusama network and the greater Substrate ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "1cc4730e-2be4-47ce-8555-712ba6e90390",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBc17729fDf562723f0267F79FF25aDE441056d87",
+    "research": null,
+    "website": "https://ksmstarter.com",
+    "whitepaper": "https://ksmstarter.com/wp-content/uploads/2021/09/ksm_starter.pdf",
+    "twitter": "https://twitter.com/KSMStarter",
+    "telegram": "https://t.me/KSM_starter"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc17729fdf562723f0267f79ff25ade441056d87/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KSM Starter Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

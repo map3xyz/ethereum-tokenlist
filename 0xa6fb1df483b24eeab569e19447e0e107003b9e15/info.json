@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa6FB1DF483b24EEAB569e19447E0e107003B9E15",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Earnbase is an all-in-one, user-friendly DeFi protocol to earn, save and swap tokens.",
+      "verified": true
+    }
+  ],
+  "id": "90c69499-39f0-4d10-af5d-adf8cc6000a2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa6fb1df483b24eeab569e19447e0e107003b9e15",
+    "research": null,
+    "website": "https://earnbase.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6fb1df483b24eeab569e19447e0e107003b9e15/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ENB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

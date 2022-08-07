@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x971d048E737619884f2df75e31c7Eb6412392328",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sparkster aims to become the world's most powerful decentralized cloud. It aims to enable users to build software without any knowledge of programming or blockchain architecture.",
+      "verified": true
+    }
+  ],
+  "id": "4a388840-4c35-402d-9f92-1bb1cf3e1e81",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x971d048E737619884f2df75e31c7Eb6412392328",
+    "research": null,
+    "website": "https://sparkster.me/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x971d048e737619884f2df75e31c7eb6412392328/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sparkster",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPRK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

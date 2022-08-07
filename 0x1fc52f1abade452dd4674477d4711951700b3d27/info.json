@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x1fC52f1ABade452Dd4674477D4711951700b3d27",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Noku Chain an Ethereum sidechain dedicated to NFT tokens and DeFi",
+      "verified": true
+    }
+  ],
+  "id": "a4786400-e4e3-4e89-8f98-7214607a01bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1fC52f1ABade452Dd4674477D4711951700b3d27",
+    "research": null,
+    "website": "https://www.noku.io/"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NOKU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Old NOKU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

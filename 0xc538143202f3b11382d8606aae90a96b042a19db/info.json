@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC538143202f3b11382D8606aae90a96b042a19DB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CNB Coin is a service token of the Coinsbit exchange. The token was designed with the goal of optimizing the user experience and providing access to enhanced features on the exchange.",
+      "verified": true
+    }
+  ],
+  "id": "3a63bf23-ceca-4d0e-b6d8-60feb1447a17",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC538143202f3b11382D8606aae90a96b042a19DB",
+    "research": null,
+    "website": "https://coinsbit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc538143202f3b11382d8606aae90a96b042a19db/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coinsbit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

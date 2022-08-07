@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Swapcoinz The #1 Blockchain Innovative Playground Solution For African Kids With our sole Mission to be a bridge between Families and Businesses.",
+      "verified": true
+    }
+  ],
+  "id": "e6a27ee0-c6a0-4490-ae2b-dc5f91f4674d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+    "research": null,
+    "website": "https://swapcoinz.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x810908b285f85af668f6348cd8b26d76b3ec12e1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Swapcoinz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPAZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

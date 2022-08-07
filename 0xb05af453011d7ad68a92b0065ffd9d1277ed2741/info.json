@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Founder token vesting and liquidity token locking solution.",
+      "verified": true
+    }
+  ],
+  "id": "c0961e04-750d-429d-89d7-f0f22d6c173a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+    "research": null,
+    "website": "https://team.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb05af453011d7ad68a92b0065ffd9d1277ed2741/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Team Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEAM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

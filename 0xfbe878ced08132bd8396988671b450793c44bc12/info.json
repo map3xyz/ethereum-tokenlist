@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFbe878CED08132bd8396988671b450793C44bC12",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fox Trading platform is a multi-device platform that provides high accuracy signals and auto-trade services for Forex and Cryptocurrency trading.",
+      "verified": true
+    }
+  ],
+  "id": "cd4f2115-aa22-4a56-be45-98ee483347fe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFbe878CED08132bd8396988671b450793C44bC12",
+    "research": null,
+    "website": "https://foxtrading.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfbe878ced08132bd8396988671b450793c44bc12/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fox Trading",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

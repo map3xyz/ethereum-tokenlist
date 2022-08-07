@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SKULL is social money circulated by Skeenee and supported by the Roll contract. Created back in October 2019, it was one of the first social money tokens issued by Roll. Over the years, SKULL has created a passionate and loyal community of artists, collectors, and crypto enthusiasts who are interested in growing the pie and bringing new forms of value and artistic expression.",
+      "verified": true
+    }
+  ],
+  "id": "7effa351-8153-435c-8482-4fa921b69906",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
+    "research": null,
+    "website": "https://linktr.ee/skeenee",
+    "twitter": "https://twitter.com/skeenee_art",
+    "discord": "https://discord.com/invite/DZm9tY3",
+    "youtube": "https://youtube.com/skeenee"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Skull",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKULL",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

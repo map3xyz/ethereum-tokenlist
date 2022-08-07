@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xdB52a87cda28EdA00f8aDd1C79c9DB4a50a70457",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "74aefa03-fa60-4c8b-abda-192329cd56a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdB52a87cda28EdA00f8aDd1C79c9DB4a50a70457",
+    "research": null,
+    "website": "https://tradercash.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb52a87cda28eda00f8add1c79c9db4a50a70457/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trader Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

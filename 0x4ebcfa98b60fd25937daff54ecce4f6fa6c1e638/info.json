@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4EBCfA98b60fD25937DAFF54eccE4f6Fa6C1E638",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "28c79654-67c3-480b-8aa9-66a918f6a7d6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4EBCfA98b60fD25937DAFF54eccE4f6Fa6C1E638",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ebcfa98b60fd25937daff54ecce4f6fa6c1e638/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Staking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESTA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

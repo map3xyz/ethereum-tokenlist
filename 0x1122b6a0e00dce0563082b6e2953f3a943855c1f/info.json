@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Centrality is a Kiwi company formed by like-minded individuals that are interested in cutting edge technology and creating something purposeful.",
+      "verified": true
+    }
+  ],
+  "id": "b933e535-af89-4f18-bd73-1922a2122bd5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+    "research": null,
+    "website": "https://centrality.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1122b6a0e00dce0563082b6e2953f3a943855c1f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Centrality",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CENNZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

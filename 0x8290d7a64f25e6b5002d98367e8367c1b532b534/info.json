@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x8290D7a64F25e6b5002d98367E8367c1b532b534",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneUNI is an ICHI-created stablecoin for Uniswap.",
+      "verified": true
+    }
+  ],
+  "id": "b92f75f7-72ad-419a-8084-dff09908162f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8290d7a64f25e6b5002d98367e8367c1b532b534",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8",
+    "coingecko": "https://coingecko.com/en/coins/stable-uni"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8290d7a64f25e6b5002d98367e8367c1b532b534/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneUNI",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

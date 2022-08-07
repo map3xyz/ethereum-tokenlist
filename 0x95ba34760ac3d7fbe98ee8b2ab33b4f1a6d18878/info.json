@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x95bA34760ac3D7fBE98ee8b2AB33b4F1a6D18878",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decash is the first and only cryptocurrency to capture the performance of multiple financial assets simultaneously by means of a mechanism known as HedgeTech.",
+      "verified": true
+    }
+  ],
+  "id": "6b7c78f9-1999-4031-8d26-d2d1cefd8863",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x95bA34760ac3D7fBE98ee8b2AB33b4F1a6D18878",
+    "research": null,
+    "website": "https://www.decash.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DESH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

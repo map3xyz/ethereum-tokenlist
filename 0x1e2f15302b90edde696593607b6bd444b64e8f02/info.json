@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x1E2F15302B90EddE696593607b6bD444B64e8F02",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Shiryo-Inu is a P2E card game built on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "c39b7987-b193-4b7f-ac4f-4e42c00ac82f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1E2F15302B90EddE696593607b6bD444B64e8F02",
+    "research": null,
+    "website": "https://shiryoinu.com",
+    "twitter": "https://twitter.com/ShiryoInu",
+    "telegram": "https://t.me/shiryoinu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e2f15302b90edde696593607b6bd444b64e8f02/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shiryo-Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Shiryo-Inu",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

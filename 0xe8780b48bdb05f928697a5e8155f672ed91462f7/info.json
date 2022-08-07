@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cashaa is a global banking solution for the crypto industry. It’s the world’s first banking platform that enables the seamless transaction of both fiat and crypto from the one account dashboard.",
+      "verified": true
+    }
+  ],
+  "id": "38f140a1-1349-453f-a6a2-ad745dde53ef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+    "research": null,
+    "website": "https://cashaa.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8780b48bdb05f928697a5e8155f672ed91462f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cashaa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

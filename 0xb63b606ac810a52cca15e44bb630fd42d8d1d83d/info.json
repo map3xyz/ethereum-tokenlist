@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Crypto.com provides a powerful alternative to traditional financial services, turning its vision of ”cryptocurrency in every wallet” into reality, one customer at a time.",
+      "verified": true
+    }
+  ],
+  "id": "97f0017c-d299-4c1d-b965-b43ff29cc3a0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+    "research": null,
+    "website": "https://crypto.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Monaco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

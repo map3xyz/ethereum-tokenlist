@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The $ART Token is a platform-independent Token for the art community. $ART is a Governance Token and backed by digital artworks.",
+      "verified": true
+    }
+  ],
+  "id": "046617de-4060-4570-91b6-bf9810326f21",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+    "research": null,
+    "website": "https://arttoken.io/",
+    "twitter": "https://twitter.com/$ART",
+    "discord": "https://discord.com/invite/Drg4y5j"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe51f24b251430a6e615f66e0d3c3a97c442ab38c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ART Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ART",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

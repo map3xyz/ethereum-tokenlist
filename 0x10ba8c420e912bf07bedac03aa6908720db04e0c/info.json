@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dc9d92de-f448-4600-96d1-9b5b4d72b108",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
+    "research": null,
+    "website": "https://raise.it/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10ba8c420e912bf07bedac03aa6908720db04e0c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Raise",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAISE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

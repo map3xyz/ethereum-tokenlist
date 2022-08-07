@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized identity authentication and user activity data management Infrastructure.",
+      "verified": true
+    }
+  ],
+  "id": "0a826f91-415c-4a25-9190-75fd702bd574",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+    "research": null,
+    "website": "https://www.litentry.com",
+    "twitter": "https://twitter.com/litentry",
+    "github": "https://github.com/litentry/",
+    "telegram": "https://t.me/litentry",
+    "coingecko": "https://coingecko.com/en/coins/litentry/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb59490ab09a0f526cc7305822ac65f2ab12f9723/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Litentry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

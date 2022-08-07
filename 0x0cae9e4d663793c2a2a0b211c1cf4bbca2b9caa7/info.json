@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror AMZN Token.",
+      "verified": true
+    }
+  ],
+  "id": "05f14e87-0b7d-4e8d-ad58-9156e66c417f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mAMZN Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mAMZN",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

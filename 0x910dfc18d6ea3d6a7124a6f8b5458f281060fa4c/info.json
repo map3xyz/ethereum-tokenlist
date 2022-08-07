@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "X8Currency is the only digital currency that offers an alternative to value preservation assets. An AI trades 8 currencies in its basket to fight inflation whilst remaining fully liquid and cash backed.",
+      "verified": true
+    }
+  ],
+  "id": "16bab3e1-7657-47af-b857-9ebf49ab9e59",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+    "research": null,
+    "website": "https://x8currency.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "X8XToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "X8X",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

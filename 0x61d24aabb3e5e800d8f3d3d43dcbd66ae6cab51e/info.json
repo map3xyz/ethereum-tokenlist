@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x61D24Aabb3e5E800D8f3d3D43dcBD66AE6caB51E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6d8c38c8-8b8b-4fe4-8b5a-37703a98c1b2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x61D24Aabb3e5E800D8f3d3D43dcBD66AE6caB51E",
+    "research": null,
+    "website": "https://bitrabbit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitRabbit Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

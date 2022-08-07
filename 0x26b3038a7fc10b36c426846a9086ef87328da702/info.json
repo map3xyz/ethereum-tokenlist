@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yield Farming Token (YFT). A most profitable way to farm with next generation yield farming and high yield rewards.",
+      "verified": true
+    }
+  ],
+  "id": "040db09f-53d0-46ec-af50-2665bb2b99df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+    "research": null,
+    "website": "https://yft.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26b3038a7fc10b36c426846a9086ef87328da702/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

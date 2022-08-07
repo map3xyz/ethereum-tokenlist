@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PayAccept is revolutionizing the way you manage payments. We combine traditional and Decentralized Finance (DeFi) to offer access to fiat, cryptocurrency, lending, card issuance, payment solutions, and risk management services.",
+      "verified": true
+    }
+  ],
+  "id": "ba14aad5-9656-4b0a-a220-ada178b75f22",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
+    "research": null,
+    "website": "https://payaccept.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PayAccept",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAYT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Terawatt is a patent-pending, renewable energy blockchain startup, with a strong focus on monetization and driving global L.E.D. adoption",
+      "verified": true
+    }
+  ],
+  "id": "88e7c6dc-a662-4404-97af-52ae79326796",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC",
+    "research": null,
+    "website": "https://terawattled.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27c891c210aec85267c2eb5fd3ad2e7c5758a1dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Terawatt LED Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

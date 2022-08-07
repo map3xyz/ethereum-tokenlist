@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+  "color": null,
+  "decimals": 0,
+  "description": [],
+  "id": "aa1e4f1d-4d29-403f-8b48-8d952a54e53d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+    "research": null,
+    "website": "https://www.thorecash.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ThoreCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

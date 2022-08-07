@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf5cB350b40726B5BcF170d12e162B6193b291B41",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "wBIS is a ERC-20 Ethereum Token with 1:1 native BIS counterpart.",
+      "verified": true
+    }
+  ],
+  "id": "5727231a-5b0f-4fe3-9cee-78e61b1d5808",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf5cB350b40726B5BcF170d12e162B6193b291B41",
+    "research": "https://bismuth.finance/wbis/",
+    "website": "https://bismuth.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5cb350b40726b5bcf170d12e162b6193b291b41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped BIS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wBIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

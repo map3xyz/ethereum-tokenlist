@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bispex is a prediction market platform that focuses on cryptocurrency price changes. Predict and win cryptocurrency for making accurate forecasts today.",
+      "verified": true
+    }
+  ],
+  "id": "c31910d1-8387-4020-9793-c61ac8b245f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
+    "research": null,
+    "website": "https://bispex.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2aa4a3e8bb72be68a31c9c3c98ca7bec723c6222/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BispexToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+      "verified": true
+    }
+  ],
+  "id": "abb0ebb5-1a57-4f7f-85a7-9bcbdc3b154c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+    "research": null,
+    "website": "https://frax.finance/",
+    "github": "https://github.com/FraxFinance",
+    "twitter": "https://twitter.com/Frax Finance",
+    "telegram": "https://t.me/fraxfinance",
+    "discord": "https://discord.com/invite/Xwe8kAwZ4a"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Frax Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXS",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

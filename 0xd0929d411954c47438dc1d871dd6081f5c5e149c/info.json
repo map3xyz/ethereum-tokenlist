@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Refereum uses the blockchain to directly connect developers and influencers, resulting in lower marketing costs and increased profits for everyone. In addition to more effective growth, Refereum strengthens engagement by offering cash prizes — enabling rewards for anything from an in-game high score to an eSports grand prize.",
+      "verified": true
+    }
+  ],
+  "id": "bb900673-028b-4fd7-8627-7d2a191193f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+    "research": null,
+    "website": "https://refereum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0929d411954c47438dc1d871dd6081f5c5e149c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Refereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

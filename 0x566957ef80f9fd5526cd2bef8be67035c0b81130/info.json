@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "1d603376-d94d-4a58-86c4-a4e65f5af79f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
+    "research": null,
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x566957ef80f9fd5526cd2bef8be67035c0b81130/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (PoS) (Portal from Polygon)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDCpo",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "4840ae44-85e9-4b87-b8a9-a47282df9d3d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+    "research": null,
+    "website": "https://www.icocalendar.today"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d71983e810b9e95258966b9c164c4d61a829ba9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ICOCalendar.Today",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

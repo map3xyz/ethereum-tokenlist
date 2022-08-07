@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1367D4a67C1719B58C7e05dF8768226Fa768279a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OOOBTC is a gateway and exchange for crypto-currency and crypto-ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "da8cb1b7-05b8-4772-ba53-4a3b0b3176eb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1367D4a67C1719B58C7e05dF8768226Fa768279a",
+    "research": null,
+    "website": "https://www.ooobtc.com/OBX"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1367d4a67c1719b58c7e05df8768226fa768279a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OOOBTCTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

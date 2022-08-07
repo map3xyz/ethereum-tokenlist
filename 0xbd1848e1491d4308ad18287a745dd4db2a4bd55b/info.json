@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The multi-chain decentralized exchange ecosystem for non-fungible tokens",
+      "verified": true
+    }
+  ],
+  "id": "9d51c061-1ada-4d2f-8b1c-46e555ce537b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+    "research": null,
+    "website": "https://mochi.market"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd1848e1491d4308ad18287a745dd4db2a4bd55b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MOchi MArket",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOMA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

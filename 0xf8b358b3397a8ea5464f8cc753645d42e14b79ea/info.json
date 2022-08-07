@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79EA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AIRBLOC is a decentralized personal data protocol where individuals would be able to monetize their data, and advertisers would be able to buy these data to conduct targeted marketing campaigns for higher ROIs.",
+      "verified": true
+    }
+  ],
+  "id": "3710c7bc-aa83-4634-aa2f-09e5d49f0dfa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79EA",
+    "research": null,
+    "website": "https://www.airbloc.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Airbloc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

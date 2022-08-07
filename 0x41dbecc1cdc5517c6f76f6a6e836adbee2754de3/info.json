@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Medicalchain uses blockchain technology to securely manage health records for a collaborative, smart approach to healthcare.",
+      "verified": true
+    }
+  ],
+  "id": "4cc6d40d-28f6-4ac2-aa60-8a3aad98d078",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+    "research": null,
+    "website": "https://medicalchain.com/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MedToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x82bdfb4C6F488fC47700ceF12C448a2F13F8fF4F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "62fbbcae-21d7-403d-82b9-80102f5ff251",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x82bdfb4C6F488fC47700ceF12C448a2F13F8fF4F",
+    "research": null,
+    "website": "https://sealblock.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82bdfb4c6f488fc47700cef12c448a2f13f8ff4f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SealBlock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x94F31aC896c9823D81cf9C2C93feCEeD4923218f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFTether aims to expand the utilization of blockchain from elementary value transfer to further complex financial use cases.",
+      "verified": true
+    }
+  ],
+  "id": "5de37f8d-c945-4b51-ad89-c8a75eec8913",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x94f31ac896c9823d81cf9c2c93feceed4923218f",
+    "research": null,
+    "website": "https://yftether.io",
+    "github": "https://github.com/yftether",
+    "twitter": "https://twitter.com/yftether",
+    "telegram": "https://t.me/YfTether",
+    "coingecko": "https://coingecko.com/en/coins/yftether/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yftether/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94f31ac896c9823d81cf9c2c93feceed4923218f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yftether.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

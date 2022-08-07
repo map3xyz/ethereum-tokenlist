@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7f1F2D3dFa99678675ECE1C243d3f7bC3746db5D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Take back control of your data, store it on our encrypted wallet, license it to earn from your data",
+      "verified": true
+    }
+  ],
+  "id": "cbff22a5-7e59-4094-bd1a-2995c9b9fcaa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
+    "research": null,
+    "website": "https://www.tapmydata.com",
+    "twitter": "https://twitter.com/tapmydata",
+    "telegram": "https://t.me/tapmydataofficial"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tapmydata",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Autonomous Car Future Mobility Platform",
+      "verified": true
+    }
+  ],
+  "id": "2053b279-cf58-45cb-b3e9-3b44950e4b0d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+    "research": null,
+    "website": "https://cubeint.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x622dffcc4e83c64ba959530a5a5580687a57581b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CUBE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

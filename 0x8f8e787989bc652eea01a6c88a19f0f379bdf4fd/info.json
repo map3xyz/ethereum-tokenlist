@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
+  "color": null,
+  "decimals": 5,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HELEX (HLX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "ce194edb-bfb4-4afe-aa77-a36ddf6949dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
+    "research": null,
+    "website": "https://helex.world"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f8e787989bc652eea01a6c88a19f0f379bdf4fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HELEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

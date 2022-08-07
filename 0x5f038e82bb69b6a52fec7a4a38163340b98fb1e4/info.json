@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC-20 token for Bitpaid ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "3f73de6f-04c1-4bbc-a6f7-42277bba1199",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4",
+    "research": null,
+    "website": "https://bitpaid.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f038e82bb69b6a52fec7a4a38163340b98fb1e4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitpaid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

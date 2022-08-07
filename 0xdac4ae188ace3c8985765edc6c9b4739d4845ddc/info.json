@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "65c18225-1ecf-4c14-9074-811c36a81a3a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+    "research": null,
+    "website": "http://www.inve.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdac4ae188ace3c8985765edc6c9b4739d4845ddc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "InterValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INVE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

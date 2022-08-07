@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our vision is creating a future where people don't have to work and machines pay humans.",
+      "verified": true
+    }
+  ],
+  "id": "c16275f6-bf2f-4564-8955-5dfb5397901d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
+    "research": null,
+    "website": "https://mybit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MyBit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

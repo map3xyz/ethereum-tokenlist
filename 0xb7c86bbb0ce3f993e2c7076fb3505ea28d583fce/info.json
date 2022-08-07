@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xb7C86bBb0cE3F993E2C7076FB3505EA28D583FCE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0d2cfbb4-b15f-4cc2-975b-d55c17c4099f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb7C86bBb0cE3F993E2C7076FB3505EA28D583FCE",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7c86bbb0ce3f993e2c7076fb3505ea28d583fce/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BWCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

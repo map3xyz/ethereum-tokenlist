@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "StaFi is a DeFi protocol unlocking liquidity of staked assets. Users can stake PoS tokens through StaFi and receive rTokens in return, which are available for trading, while still earning staking rewards.",
+      "verified": true
+    }
+  ],
+  "id": "c0d5df1d-81bb-4ca0-83fa-6a3561ad809a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+    "research": null,
+    "website": "https://www.nucypher.com/",
+    "twitter": "https://twitter.com/StaFi_Protocol",
+    "medium": "https://medium.com/stafi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stafi/",
+    "github": "https://github.com/stafiprotocol/stafi-node",
+    "telegram": "https://t.me/stafi_protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StaFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

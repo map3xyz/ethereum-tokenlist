@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The MetaPortal Gaming Index ($GAME) is designed to provide exposure to the emergent crypto gaming space. Investing across games, virtual worlds and gaming platforms, $GAME is a simple and effective way to express the view that crypto games will capture a greater share of the burgeoning gaming market. ",
+      "verified": true
+    }
+  ],
+  "id": "4c805973-7ec4-4f29-9af4-fd2289f94dc2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c",
+    "research": null,
+    "website": "https://www.metaportal.wtf/",
+    "twitter": "https://twitter.com/MetaportaI",
+    "github": "https://github.com/",
+    "discord": "https://discord.com/7nqfvnF8y9",
+    "blog": "https://metaportal.substack.com/",
+    "docs": "https://metaportal.gitbook.io/welcome/the-basics/welcome"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1ea9aa32cbba8c203ddc510a144ad1f439d436c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MetaPortal Gaming Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAME",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

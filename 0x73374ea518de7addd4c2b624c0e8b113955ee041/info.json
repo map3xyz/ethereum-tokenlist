@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The World’s First Unstoppable DeFi Communication Network.",
+      "verified": true
+    }
+  ],
+  "id": "c3a3f4d5-f7ec-4de3-9c47-be014e17c614",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+    "research": null,
+    "website": "https://jgndefi.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73374ea518de7addd4c2b624c0e8b113955ee041/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "JGNDeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JGN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

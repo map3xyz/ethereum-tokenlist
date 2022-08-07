@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xc37E8a31BA2d110c12f09f0239954A68b00bC599",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "db594680-7ddc-4730-81c1-ac981f88ba98",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc37E8a31BA2d110c12f09f0239954A68b00bC599",
+    "research": null,
+    "website": "https://eubchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc37e8a31ba2d110c12f09f0239954a68b00bc599/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EUB Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

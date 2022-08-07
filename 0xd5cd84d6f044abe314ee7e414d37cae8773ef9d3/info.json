@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Harmony Bridged Token on Ethereum",
+      "verified": true
+    }
+  ],
+  "id": "266f281b-3b80-4d22-95e7-9d14610c164c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
+    "research": null,
+    "website": "https://www.harmony.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Harmony",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

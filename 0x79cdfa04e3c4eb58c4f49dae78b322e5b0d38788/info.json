@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x79cdFa04e3c4EB58C4f49DAE78b322E5b0D38788",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The participants of the platform can keep their anonymity while completing surveys and receive TFB tokens.",
+      "verified": true
+    }
+  ],
+  "id": "ff030a43-c7f5-4286-bdb8-84ccd9e981e6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x79cdFa04e3c4EB58C4f49DAE78b322E5b0D38788",
+    "research": null,
+    "website": "https://www.truefeedbackchain.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueFeedBack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

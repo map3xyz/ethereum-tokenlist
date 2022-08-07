@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AIDI is an ERC20 token, 100% decentralized, and the first token of the Aidiverse ecosystem. We are bringing together complete Decentralised Finance solutions and integrating them with Blockchain gaming and NFTs.",
+      "verified": true
+    }
+  ],
+  "id": "de519ead-70ed-4d26-ab67-c466995ea230",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
+    "research": null,
+    "website": "https://aidiverse.com",
+    "twitter": "https://twitter.com/AidiToken",
+    "github": "https://github.com/AidiFinance/Aidiverse-Contracts",
+    "telegram": "https://t.me/aidi_official",
+    "coingecko": "https://coingecko.com/en/coins/aidi-inu/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xda1e53e088023fe4d1dc5a418581748f52cbd1b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aidi Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIDI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

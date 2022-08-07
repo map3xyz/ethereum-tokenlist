@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$YFI2 is a community-centered DeFi-project, modeled to take the successful features of $YFI and $ZZZ. Value comes from simplization.",
+      "verified": true
+    }
+  ],
+  "id": "25abb9d0-c711-474b-bb5a-5704ee33c999",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
+    "research": null,
+    "website": "https://yearn2.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6c151ea50a4f1a50983eb98998a18be0a549ad5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yearn2.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFI2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

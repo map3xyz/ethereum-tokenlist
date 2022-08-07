@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x13f25cd52b21650caa8225C9942337d914C9B030",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "84e7d01e-4abe-432f-918e-e1887480bf32",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13f25cd52b21650caa8225C9942337d914C9B030",
+    "research": null,
+    "website": "http://rcfund.org/en-US"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13f25cd52b21650caa8225c9942337d914c9b030/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "realchain token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

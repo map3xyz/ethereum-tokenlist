@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x56e0B2C7694E6e10391E870774daA45cf6583486",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "36156c0a-af4b-4261-b603-998e4621fa3f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56e0B2C7694E6e10391E870774daA45cf6583486",
+    "research": null,
+    "website": "https://duo.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56e0b2c7694e6e10391e870774daa45cf6583486/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DUO Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

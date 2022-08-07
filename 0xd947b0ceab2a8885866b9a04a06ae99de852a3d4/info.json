@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Trade Token is a utility token that enables frictionless transactions of a wide range of assets on the trade.io exchange whilst also acting as a medium of exchange and a store of value that could become more valuable in line with the growth of users and increasing use of the trading platform.",
+      "verified": true
+    }
+  ],
+  "id": "94c2d8aa-6d88-4f25-a35f-ea1d4dadc01b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4",
+    "research": null,
+    "website": "https://trade.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd947b0ceab2a8885866b9a04a06ae99de852a3d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trade Token X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIOx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

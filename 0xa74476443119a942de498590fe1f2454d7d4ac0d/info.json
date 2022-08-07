@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Golem (GNT) is a peer-to-peer decentralized marketplace for computing power. The project aims to be an alternative to centralized cloud service providers with its lower price point and open-source community of developers.",
+      "verified": true
+    }
+  ],
+  "id": "b5a36d33-d30e-4374-b9db-fe5498eb6079",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+    "research": null,
+    "website": "https://golem.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa74476443119a942de498590fe1f2454d7d4ac0d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Golem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

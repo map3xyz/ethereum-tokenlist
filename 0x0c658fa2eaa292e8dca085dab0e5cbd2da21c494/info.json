@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0C658Fa2eAA292E8dcA085Dab0E5CBD2da21C494",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bolenum is a cryptocurrency and financial services provider targeting the African continent for a start and then expanding globally.",
+      "verified": true
+    }
+  ],
+  "id": "0243c847-6d12-43d2-a493-022d27f420ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0C658Fa2eAA292E8dcA085Dab0E5CBD2da21C494",
+    "research": null,
+    "website": "http://bolenum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c658fa2eaa292e8dca085dab0e5cbd2da21c494/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bolenum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

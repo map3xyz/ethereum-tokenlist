@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kardiachain is a public blockchain platform focused on Interoperability and providing hybrid blockchain solutions for enterprises and governments in Vietnam and other countries in South & East Asia.",
+      "verified": true
+    }
+  ],
+  "id": "31c86d03-7b60-4800-ba71-b5506f03b587",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
+    "research": null,
+    "website": "https://kardiachain.io/",
+    "github": "https://github.com/kardiachain",
+    "twitter": "https://twitter.com/KardiaChain",
+    "medium": "https://medium.com/@KardiaChain",
+    "whitepaper": "https://dl.kardiachain.io/KardiaChain-WhitePaper-English.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kardiachain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
