@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE2dc070524A6e305ddB64d8513DC444B6a1ec845",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the non-custodial Nash Exchange to receive a revenue share.",
+      "verified": true
+    }
+  ],
+  "id": "10890de3-c4b1-4ffa-8a56-201c41731610",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE2dc070524A6e305ddB64d8513DC444B6a1ec845",
+    "research": null,
+    "website": "https://nash.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE2dc070524A6e305ddB64d8513DC444B6a1ec845/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

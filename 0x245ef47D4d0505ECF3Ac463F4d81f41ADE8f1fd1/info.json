@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nuggets is a decentralized, self-sovereign ID and payments platform",
+      "verified": true
+    }
+  ],
+  "id": "2ada3f16-02ae-4554-980d-3d028f6f1b32",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+    "research": null,
+    "website": "https://nuggets.life/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nuggets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

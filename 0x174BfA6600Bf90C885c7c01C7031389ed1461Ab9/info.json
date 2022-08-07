@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "be8e0dfe-1d3e-4d2a-a2e4-c373715f33c9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+    "research": null,
+    "website": "http://www.mgctoken.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "More Gold Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x444997b7e7fC830E20089afea3078cd518fCF2A2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EWO lets you earn from properties you don’t own while helping people you don’t know. Real estate-based interest accounts for crypto that pays weekly.",
+      "verified": true
+    }
+  ],
+  "id": "cb4c9133-ca38-4b3e-9a5f-a3b2df22b067",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x444997b7e7fC830E20089afea3078cd518fCF2A2",
+    "research": null,
+    "website": "https://www.ewoplace.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x444997b7e7fC830E20089afea3078cd518fCF2A2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EWO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EWO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

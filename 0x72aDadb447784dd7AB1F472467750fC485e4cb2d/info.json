@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Worldcore (WRC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b3b42fd5-dbb3-4528-b568-754cb51f4b38",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+    "research": null,
+    "website": "https://worldcore.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72aDadb447784dd7AB1F472467750fC485e4cb2d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Worldcore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

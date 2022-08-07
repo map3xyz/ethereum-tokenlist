@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rug is a deflationary ERC-20 token that incentivizes staking and viral marketing, ensuring that risktakers are rewarded through dividends and access to the pool's liquidity.",
+      "verified": true
+    }
+  ],
+  "id": "f76a6e8f-640a-4878-a6c1-fb8ee9ce7efc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+    "research": null,
+    "website": "http://rug.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rug",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

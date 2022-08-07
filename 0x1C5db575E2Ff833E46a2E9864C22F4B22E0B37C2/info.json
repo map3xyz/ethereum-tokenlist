@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "160e2c0f-bd3c-4474-8d1e-6c8bff05cff0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "research": null,
+    "website": "https://renproject.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "renZEC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "renZEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

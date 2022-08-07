@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xC27C95350eCD634C80dF89db0f10cd5c24B7B11f",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "4590caa0-61f6-4b25-a51f-6234686642f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC27C95350eCD634C80dF89db0f10cd5c24B7B11f",
+    "research": null,
+    "website": "http://pixiecoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC27C95350eCD634C80dF89db0f10cd5c24B7B11f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PixieCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

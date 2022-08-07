@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8aD6739649f1fbF079882C14D27862d5c2206660",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5d57d37d-9da3-424e-b234-85c24e2a4532",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8aD6739649f1fbF079882C14D27862d5c2206660",
+    "research": null,
+    "website": "https://iou.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aD6739649f1fbF079882C14D27862d5c2206660/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IOU Loyalty Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOUX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

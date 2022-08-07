@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Becaz (BCZ) created to offer easy methods of buying and selling courses on Becaz’s e-learning platform using Ethereum blockchain. Becaz aims to eliminate the middleman between a student and tutor providing tutor with 100% of payment received from a student.",
+      "verified": true
+    }
+  ],
+  "id": "56b0efff-a180-4104-a969-449f22009d7e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb",
+    "research": null,
+    "website": "https://becaz.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Becaz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

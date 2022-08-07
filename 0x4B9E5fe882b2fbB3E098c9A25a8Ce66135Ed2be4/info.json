@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gaia is the algorithmic reserve asset in Dollar Protocol's f-series",
+      "verified": true
+    }
+  ],
+  "id": "b2f171b4-8af5-489d-9b38-78386abf178f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4",
+    "research": null,
+    "website": "https://dollarprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gaia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Gaia",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

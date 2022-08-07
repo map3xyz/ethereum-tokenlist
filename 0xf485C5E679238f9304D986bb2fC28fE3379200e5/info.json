@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xf485C5E679238f9304D986bb2fC28fE3379200e5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "80a28d12-9d2d-4624-b3c5-d85e5f16c5ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf485C5E679238f9304D986bb2fC28fE3379200e5",
+    "research": null,
+    "website": "http://www.ugchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf485C5E679238f9304D986bb2fC28fE3379200e5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UG Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UGC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

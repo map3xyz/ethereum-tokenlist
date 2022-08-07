@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DNA is the currency of EncrypGen's genomic marketplace, which allows individuals to share, control, and monetize their DNA data while contributing to scientific research and advancing public health.",
+      "verified": true
+    }
+  ],
+  "id": "a9dcde7c-5099-4204-affd-8ef3dbd41a77",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+    "research": null,
+    "website": "https://encrypgen.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EncrypGen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GateChain is a public blockchain dedicated to blockchain asset safety even after private keys are compromised.",
+      "verified": true
+    }
+  ],
+  "id": "b45a1e75-aa57-43e1-966f-9fad118fdc5b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+    "research": null,
+    "website": "https://gatechain.io",
+    "github": "https://github.com/gatechain",
+    "twitter": "https://twitter.com/gatechain_io/photo",
+    "blog": "https://medium.com/@gatechain",
+    "coingecko": "https://coingecko.com/en/coins/gatechain-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE66747a101bFF2dBA3697199DCcE5b743b454759/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gatechain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

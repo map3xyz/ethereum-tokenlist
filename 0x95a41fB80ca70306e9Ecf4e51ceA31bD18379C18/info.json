@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "2e951393-b052-4a0c-9bb3-430918c3ed1e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18",
+    "research": null,
+    "website": "https://adncoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aladdin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

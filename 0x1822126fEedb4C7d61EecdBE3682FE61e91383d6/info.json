@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1822126fEedb4C7d61EecdBE3682FE61e91383d6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dbc34639-0ed8-46ee-966e-00f1f08bd921",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1822126fEedb4C7d61EecdBE3682FE61e91383d6",
+    "research": null,
+    "website": "https://xtock.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1822126fEedb4C7d61EecdBE3682FE61e91383d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XtockToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Genesis Shards transforms NFTs into a liquidity vehicle for Pre-IDO tokens and a whole new suite of DeFi products across multiple blockchains.",
+      "verified": true
+    }
+  ],
+  "id": "eab30fa0-a9bb-46d2-830c-155180a970ef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
+    "research": null,
+    "website": "https://genshards.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GenShards",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

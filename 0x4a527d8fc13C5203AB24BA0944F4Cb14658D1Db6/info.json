@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We empower you to develop, deploy, and integrate applications on blockchain technology to solve real-life problems.",
+      "verified": true
+    }
+  ],
+  "id": "160508ae-2328-45f2-9492-2537df038ddf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+    "research": null,
+    "website": "https://morpheuslabs.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Morpheus Infrastructure Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MITx",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

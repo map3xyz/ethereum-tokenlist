@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x17E6616c45d267bC20A9892b58A01621c592B72d",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ethereum Message Search Application (EMSA) - a service based on the Ethereum blockchain that allows transmitting any information, from texts and images to encrypted files and HTML pages.",
+      "verified": true
+    }
+  ],
+  "id": "e5c7546c-7630-483d-b821-eb4b8acd1701",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x17E6616c45d267bC20A9892b58A01621c592B72d",
+    "research": null,
+    "website": "https://ethereum.ms/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17E6616c45d267bC20A9892b58A01621c592B72d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Message Search",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

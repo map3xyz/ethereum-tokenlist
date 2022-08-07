@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "rUSD is a USD pegged stablecoin, backed 1-to-1 with U.S. dollars held in an account with PrimeTrust, an institutional quality custodian and trust company based in the U.S.",
+      "verified": true
+    }
+  ],
+  "id": "d601bae4-943f-4309-b7fa-8515537bd8a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6",
+    "research": null,
+    "website": "https://realio.fund"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Realio Network USD Stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "rUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

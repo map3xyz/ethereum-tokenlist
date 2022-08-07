@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4bdf8333-6199-41c8-9fd4-cc1675691f81",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9",
+    "research": null,
+    "website": "http://www.xov.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XOVBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

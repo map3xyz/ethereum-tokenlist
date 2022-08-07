@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x06147110022B768BA8F99A8f385df11a151A9cc8",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TokenStars is the talent management platform (tennis), that connects stars, fans and advertisers.",
+      "verified": true
+    }
+  ],
+  "id": "765ba80f-e94e-40e4-842f-3498bfb43070",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x06147110022B768BA8F99A8f385df11a151A9cc8",
+    "research": null,
+    "website": "https://tokenstars.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06147110022B768BA8F99A8f385df11a151A9cc8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ACE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

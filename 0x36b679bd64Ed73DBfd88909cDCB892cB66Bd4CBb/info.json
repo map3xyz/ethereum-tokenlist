@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Benchmark Protocol mitigates liquidation events and hedges risk with the MARK token; a supply elastic, stablecoin-alternative. The protocol dynamically adjusts supply based on the CBOE volatility index (VIX) and deviations from 1 Special Drawing Rights (SDR) unit. xMARK represents a share of MARK that is deposited in a token pool affected by rebasements, while xMARK itself is unaffected.",
+      "verified": true
+    }
+  ],
+  "id": "ee657468-df2e-4a89-9348-87469e654202",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb",
+    "research": null,
+    "website": "https://benchmarkprotocol.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Standard",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xMARK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

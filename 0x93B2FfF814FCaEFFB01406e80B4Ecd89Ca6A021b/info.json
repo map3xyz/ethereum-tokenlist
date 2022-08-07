@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Official $GRUMPY, a community focused Defi project with the aim to help animals in need. Donations are funded by our community.",
+      "verified": true
+    }
+  ],
+  "id": "7012c12b-0e4b-48f5-bc97-e2a8d07e4437",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+    "research": null,
+    "website": "https://grumpy.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Grumpy Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRUMPY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

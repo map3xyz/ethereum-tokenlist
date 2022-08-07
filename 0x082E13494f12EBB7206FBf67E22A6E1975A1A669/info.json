@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x082E13494f12EBB7206FBf67E22A6E1975A1A669",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Artis Turba is an intuitive cryptocurrency exchange built for individuals, traders and investors. The platform allows its community to buy and sell popular digital currencies with the local South African fiat currency, the South African Rand (ZAR).",
+      "verified": true
+    }
+  ],
+  "id": "c2dbf1ac-64ee-4668-a709-d80e987f2509",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x082E13494f12EBB7206FBf67E22A6E1975A1A669",
+    "research": null,
+    "website": "https://www.artisturba.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x082E13494f12EBB7206FBf67E22A6E1975A1A669/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArtisTurba",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARTIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

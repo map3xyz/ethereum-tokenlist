@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Basic is a crypto finance platform where businesses and consumers can access finance services for crypto assets like bitcoin and ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "e6353fb7-e7ea-4eb2-b299-f5accf9ea309",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7",
+    "research": null,
+    "website": "https://basic.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BASIC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BASIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

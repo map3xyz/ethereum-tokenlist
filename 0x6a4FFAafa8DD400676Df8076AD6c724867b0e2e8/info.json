@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "10253e94-84eb-42ce-8a3c-d0e3efe81160",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
+    "research": null,
+    "website": "https://btu-protocol.com/bdai/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTU Incentivized DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "bDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DogeYield is Yield Farming Paltform with dogecoin rewards for DOGY holders and Stakers. Dogeyield provides the users with hold system without making deposits to join the yield farming.",
+      "verified": true
+    }
+  ],
+  "id": "13aa1d51-70c2-4603-9000-eabd454cd0c5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+    "research": null,
+    "website": "https://dogeyield.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c405acf8688AfB61B3197421cDeeC1A266c6839/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DogeYield",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

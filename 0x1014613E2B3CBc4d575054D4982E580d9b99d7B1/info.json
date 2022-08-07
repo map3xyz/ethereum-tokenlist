@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain digital asset management.",
+      "verified": true
+    }
+  ],
+  "id": "689eb177-6d1e-4f1f-97ad-db6408382e04",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+    "research": null,
+    "website": "https://www.bitcv.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1014613E2B3CBc4d575054D4982E580d9b99d7B1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitCapitalVendorToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

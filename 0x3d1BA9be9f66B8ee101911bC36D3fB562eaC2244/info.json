@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Decentralized & Mobile Cyber Security Token.",
+      "verified": true
+    }
+  ],
+  "id": "cc9236e4-a43b-4e0b-9dcd-269e10b8df66",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+    "research": null,
+    "website": "https://rivetz.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RvT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RVT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": false,
+  "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d69f5073-6255-4947-8125-db4fe5292002",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+    "research": null,
+    "website": "https://iotex.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IoTeX ERC20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IoTeX ERC20",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

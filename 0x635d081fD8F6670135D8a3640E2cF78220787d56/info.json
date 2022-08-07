@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ADD.xyz is a full-stack DeFi aggregator, plugging in multiple products and DeFi applications into one single platform, focusing on User Experience, Design, Privacy and Anonymity.",
+      "verified": true
+    }
+  ],
+  "id": "d4aca090-80a2-4a60-be8c-e0dd2df2a2b5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x635d081fd8f6670135d8a3640e2cf78220787d56",
+    "research": null,
+    "website": "https://ADD.xyz"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x635d081fD8F6670135D8a3640E2cF78220787d56/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ADD.xyz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

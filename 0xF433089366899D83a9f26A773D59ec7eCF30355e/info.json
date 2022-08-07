@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Metal Pay makes it simple to keep track of where your money goes.",
+      "verified": true
+    }
+  ],
+  "id": "d29eb634-f993-4c68-a1f2-e2f72638f776",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e",
+    "research": null,
+    "website": "https://metalpay.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF433089366899D83a9f26A773D59ec7eCF30355e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Metal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

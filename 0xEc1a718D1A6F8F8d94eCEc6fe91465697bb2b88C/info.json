@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEc1a718D1A6F8F8d94eCEc6fe91465697bb2b88C",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An online advertising platform and a wireless advertising network, known as ENTONE where users are rewarded by watching ads, entertainment, Instagram followers and subscribing to YouTube pages.",
+      "verified": true
+    }
+  ],
+  "id": "08d3fb36-5a5f-4b1a-b3f4-f2e15f8167ea",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEc1a718D1A6F8F8d94eCEc6fe91465697bb2b88C",
+    "research": null,
+    "website": "https://entone.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEc1a718D1A6F8F8d94eCEc6fe91465697bb2b88C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ENTONE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENTONE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

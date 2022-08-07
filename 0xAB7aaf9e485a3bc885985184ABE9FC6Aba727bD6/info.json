@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MANY is a community born and operated project combining YF and NFT.",
+      "verified": true
+    }
+  ],
+  "id": "8daf4fb2-b93c-4114-b99c-2f3ecd63618e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+    "research": null,
+    "website": "https://many.global"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MANY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MANY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

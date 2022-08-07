@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Allbit has embraced APOT's philosophy to enable Allbit users to build collective intelligence and grow the cryptographic market in the right direction, incorporating the APOT Token into Allbit.",
+      "verified": true
+    }
+  ],
+  "id": "cd206c05-ac59-4c3b-9ebc-2e7b9282d0c7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc",
+    "research": null,
+    "website": "https://apot.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "APOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

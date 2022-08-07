@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BTU Protocol is a peer-to-peer booking protocol.",
+      "verified": true
+    }
+  ],
+  "id": "7e9ee049-ef7a-4a71-920e-16da92632888",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
+    "research": null,
+    "website": "https://www.btu-protocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTU Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x175D9Dfd6850AA96460E29bC0cEad05756965E91",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 version of the IOV token",
+      "verified": true
+    }
+  ],
+  "id": "99f46ca7-9d75-4026-8c9b-dd1308d34938",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x175D9Dfd6850AA96460E29bC0cEad05756965E91",
+    "research": null,
+    "website": "https://starname.me/",
+    "github": "https://github.com/iov-one",
+    "twitter": "https://twitter.com/starname_me",
+    "telegram": "https://t.me/internetofvalues",
+    "medium": "https://medium.com/iov-internet-of-values"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x175D9Dfd6850AA96460E29bC0cEad05756965E91/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Starname (WIOV)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

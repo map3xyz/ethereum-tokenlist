@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "75cf8a97-0070-40c2-b820-ebb912fc06bc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+    "research": null,
+    "website": "https://www.drep.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DREP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DREP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

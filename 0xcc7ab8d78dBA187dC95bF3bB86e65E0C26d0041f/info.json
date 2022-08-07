@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Spacelens is a decentralized eCommerce platform that allows anyone to buy and sell physical products, digital goods, and services around the world.",
+      "verified": true
+    }
+  ],
+  "id": "1574d161-6b5f-44cb-919a-29c2f8887b66",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f",
+    "research": null,
+    "website": "https://spacetoken.spacelens.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Spacelens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPACE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

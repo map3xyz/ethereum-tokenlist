@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1a9c54fb-08c0-43a8-a682-5def04d1adae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+    "research": null,
+    "website": "https://www.saga.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Saga",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

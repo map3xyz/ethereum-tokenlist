@@ -1,0 +1,32 @@
+{
+  "active": false,
+  "address": "0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "34c0fad2-5011-4d40-943a-29a86c7926d5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38",
+    "research": null,
+    "website": "https://www.tut.credit/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Trust Union",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TUT",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

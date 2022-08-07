@@ -1,0 +1,50 @@
+{
+  "active": true,
+  "address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NvirWorld is a new concept blockchain which aims to create a new digital world where everything users enjoy becomes profitable.",
+      "verified": true
+    }
+  ],
+  "id": "327d038b-7978-4335-8bb5-dc82aec5e3df",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+    "research": null,
+    "website": "https://nvirworld-nft.com/",
+    "github": "https://github.com/nvirworld/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nvirworld/",
+    "coingecko": "https://coingecko.com/en/coins/nvirworld",
+    "whitepaper": "https://nvirworld.io/",
+    "twitter": "https://twitter.com/NvirWorld",
+    "telegram": "https://t.me/NvirWorldEN",
+    "discord": "https://discord.com/invite/nvirworld",
+    "reddit": "https://reddit.com/r/nvirworld/",
+    "youtube": "https://youtube.com/c/nvirworld",
+    "facebook": "https://facebook.com/NvirworldOfficial"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NVIR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NVIR",
+  "tags": [
+    "governance",
+    "nft",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

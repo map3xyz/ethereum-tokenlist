@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Adult Entertainment Platform.",
+      "verified": true
+    }
+  ],
+  "id": "c4ccab02-c167-4613-a831-e7d392fc1553",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+    "research": null,
+    "website": "https://www.visionindustry.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

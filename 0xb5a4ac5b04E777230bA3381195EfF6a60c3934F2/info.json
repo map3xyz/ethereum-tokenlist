@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "inSure (SURE) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "c22685b5-4cb7-415c-9dd1-2fd6ffcb3686",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2",
+    "research": null,
+    "website": "https://insuretoken.net"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "inSure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The CRD network is taking a multipronged approach to building out its network and enabling Cryptocurrency and Defi adoption.",
+      "verified": true
+    }
+  ],
+  "id": "d37deedc-92b1-4347-821f-114eeefc71a1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+    "research": null,
+    "website": "https://www.cryptaldash.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CryptalDash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

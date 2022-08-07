@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA35Fc5019C4dc509394Bd4d74591a0bF8852c195",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c9bb2cf1-d9a9-4096-94be-47a685f1491d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA35Fc5019C4dc509394Bd4d74591a0bF8852c195",
+    "research": null,
+    "website": "https://www.tokensets.com/set/btceth7525"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA35Fc5019C4dc509394Bd4d74591a0bF8852c195/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitEth7525RebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCETH7525",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

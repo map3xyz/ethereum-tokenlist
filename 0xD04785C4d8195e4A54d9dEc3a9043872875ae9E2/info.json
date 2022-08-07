@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Earn RottenTokens by staking Uniswap liquidity. In addition, 2.5% of every RottenToken transfer is burned and turned into MaggotTokens.",
+      "verified": true
+    }
+  ],
+  "id": "f808bf67-e5f3-41bc-8f77-c7cf01ffe842",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+    "research": null,
+    "website": "https://rottenswap.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RottenToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

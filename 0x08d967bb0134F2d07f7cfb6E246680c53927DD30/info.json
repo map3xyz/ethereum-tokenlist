@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "65+ Popular public chains supported",
+      "verified": true
+    }
+  ],
+  "id": "96241081-f3b7-4334-a871-f57e59098153",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "research": null,
+    "website": "https://mathwallet.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08d967bb0134F2d07f7cfb6E246680c53927DD30/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MATH Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MATH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

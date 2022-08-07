@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x19810559dF63f19cfE88923313250550eDADB743",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HOUSE is a fixed-supply token in the Toast.finance ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "b396c5c5-b97b-4748-95aa-1d4069c2f407",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19810559dF63f19cfE88923313250550eDADB743",
+    "research": null,
+    "website": "https://toast.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19810559dF63f19cfE88923313250550eDADB743/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Toast.finance (HOUSE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOUSE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

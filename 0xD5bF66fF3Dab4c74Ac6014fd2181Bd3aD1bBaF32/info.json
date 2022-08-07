@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD5bF66fF3Dab4c74Ac6014fd2181Bd3aD1bBaF32",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ECC Coin is a crypto-currency that can be used within ECA Loyalty Rewards Network and ECA Marketplace.",
+      "verified": true
+    }
+  ],
+  "id": "ab6ab935-918d-4f96-8c05-bba3d8324fe6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD5bF66fF3Dab4c74Ac6014fd2181Bd3aD1bBaF32",
+    "research": null,
+    "website": "https://ec-algorithm.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD5bF66fF3Dab4c74Ac6014fd2181Bd3aD1bBaF32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ECC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

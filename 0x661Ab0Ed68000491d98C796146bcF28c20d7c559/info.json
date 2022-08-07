@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Shadows is a hub for issuing, trading, lending and borrowing synthetic assets.",
+      "verified": true
+    }
+  ],
+  "id": "08bb6172-d07b-48d1-adb9-5954b1e8bae8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x661ab0ed68000491d98c796146bcf28c20d7c559",
+    "research": null,
+    "website": "http://shadows.link/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x661Ab0Ed68000491d98C796146bcF28c20d7c559/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shadows",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOWS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

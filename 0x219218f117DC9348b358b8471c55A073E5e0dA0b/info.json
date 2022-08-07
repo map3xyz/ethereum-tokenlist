@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x219218f117DC9348b358b8471c55A073E5e0dA0b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "44686be3-8439-489c-a095-0b936d4c3224",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x219218f117DC9348b358b8471c55A073E5e0dA0b",
+    "research": null,
+    "website": "https://goldreward.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x219218f117DC9348b358b8471c55A073E5e0dA0b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gold Reward Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

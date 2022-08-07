@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZUM TOKEN aims to become a currency used in special tournaments for Telegram games.",
+      "verified": true
+    }
+  ],
+  "id": "eb0bc7db-e4e8-43b0-a158-87a9d8b73428",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+    "research": null,
+    "website": "https://zum-token.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZUM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

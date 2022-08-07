@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "5eb0ad93-dc52-4d8a-8095-d65a726bf5a5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b",
+    "research": null,
+    "website": "http://shivers.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shivers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHVR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

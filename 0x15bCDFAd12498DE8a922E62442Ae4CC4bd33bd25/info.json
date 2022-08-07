@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WALT is the utility token of walletreum platform that rewards it's users for using the platform.",
+      "verified": true
+    }
+  ],
+  "id": "31f830f4-1109-49c8-a099-ed0f31eb34bc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
+    "research": null,
+    "website": "https://walletreum.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Walletreum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WALT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

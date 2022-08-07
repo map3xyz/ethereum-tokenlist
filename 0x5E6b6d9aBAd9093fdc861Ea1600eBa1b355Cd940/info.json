@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A secure IoT light operating system driven by blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "46fa573d-c492-4d42-92d6-818427588e50",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940",
+    "research": null,
+    "website": "https://iotchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IOT on Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

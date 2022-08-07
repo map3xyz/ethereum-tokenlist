@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "44f7c23f-c552-48dc-95bf-3c3672625e8d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A",
+    "research": null,
+    "website": "https://margix.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MargiX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

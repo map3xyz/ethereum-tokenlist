@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PAR is introduced to the market as the first stable token algorithmically pegged to the Euro (€), offering investors for the first time the possibility to acquire a token in the native currency of the European Community countries. PAR token holders will be able to place their tokens in liquidity pools to obtain attractive returns within the MIMO Decentralized Finance Platform.",
+      "verified": true
+    }
+  ],
+  "id": "82eb246a-7f7e-4964-92b0-67d5f22af08f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+    "research": null,
+    "website": "https://mimo.capital"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68037790A0229e9Ce6EaA8A99ea92964106C4703/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PAR Stablecoin (PAR)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SwapHub aims to build a new DeFi ecosystem. The first stage is to support users to stake LP. Then we will extend the functions.",
+      "verified": true
+    }
+  ],
+  "id": "a0490e61-d5ad-466d-88be-a0c9f0c9ff6d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4790f605cbdba5fce4f209868b5a05b3bff7272c",
+    "research": null,
+    "website": "https://swaphub.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HUB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USDf is a fractionally backed algorithmic stablecoin that is backed by collateral such as USDC and Gaia, the protocol's reserve asset.",
+      "verified": true
+    }
+  ],
+  "id": "769e6a55-e600-40fe-a204-bf043656ff06",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9",
+    "research": null,
+    "website": "https://dollarprotocol.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USDf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDf",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

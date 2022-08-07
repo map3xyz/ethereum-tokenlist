@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ec84acd8-60ff-400e-b77f-08fbff8ae301",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+    "research": null,
+    "website": "https://mith.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mithril Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MITH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

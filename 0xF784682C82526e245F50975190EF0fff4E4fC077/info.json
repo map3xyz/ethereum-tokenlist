@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF784682C82526e245F50975190EF0fff4E4fC077",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Inlock is a crypto-backed lending platform and savings platform.",
+      "verified": true
+    }
+  ],
+  "id": "d170cadb-da6c-4ed3-9779-005c6a418c8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF784682C82526e245F50975190EF0fff4E4fC077",
+    "research": null,
+    "website": "https://inlock.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF784682C82526e245F50975190EF0fff4E4fC077/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Inlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

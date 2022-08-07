@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x76A034e76Aa835363056dd418611E4f81870f16e",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Value DeFi: Bringing True Value to DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "d438d900-618f-4754-a6ce-6b3ae3902cd8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x76A034e76Aa835363056dd418611E4f81870f16e",
+    "research": null,
+    "website": "https://valuedefi.io/",
+    "github": "https://github.com/valuedefi",
+    "twitter": "https://twitter.com/value_defi",
+    "telegram": "https://t.me/ValueDeFi",
+    "discord": "https://discord.com/invite/Dpvd7tp",
+    "medium": "https://medium.com/@valuedefi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76A034e76Aa835363056dd418611E4f81870f16e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Value ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3E1d5A855aD9D948373aE68e4fe1f094612b1322",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bc6b54d1-5b08-4158-b8b2-4734953b6e4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3E1d5A855aD9D948373aE68e4fe1f094612b1322",
+    "research": null,
+    "website": "https://hyperquant.net/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3E1d5A855aD9D948373aE68e4fe1f094612b1322/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HyperQuant Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HQT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

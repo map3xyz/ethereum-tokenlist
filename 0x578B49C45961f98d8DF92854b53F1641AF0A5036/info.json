@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Enrich your everyday life with. Fintech on Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "f1d9c7b4-965f-4940-a77c-9a6eb8269241",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+    "research": null,
+    "website": "https://www.linka.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x578B49C45961f98d8DF92854b53F1641AF0A5036/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LinkaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LINKA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

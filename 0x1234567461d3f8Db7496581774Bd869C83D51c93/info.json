@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "95b50564-ab70-4ed4-8079-1fc7c7ee2287",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1234567461d3f8Db7496581774Bd869C83D51c93",
+    "research": null,
+    "website": "http://www.bitclave.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitClave",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

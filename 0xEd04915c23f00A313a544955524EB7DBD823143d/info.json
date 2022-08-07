@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Alchemy is a leading cryptocurrency payment solution and technology provider that powers online and offline merchants with fast, secure and convenient hybrid crypto-fiat payment systems and solutions.",
+      "verified": true
+    }
+  ],
+  "id": "7f574010-938e-4e8c-9d84-aa426cc82e97",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEd04915c23f00A313a544955524EB7DBD823143d",
+    "research": null,
+    "website": "https://alchemytech.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alchemy (ACH)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

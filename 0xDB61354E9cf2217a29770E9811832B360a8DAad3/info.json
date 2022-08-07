@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "418d8ed7-cc25-411e-a3cd-64c867f3cfb7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+    "research": null,
+    "website": "https://ftx.com/tokens/LTCBULL"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB61354E9cf2217a29770E9811832B360a8DAad3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Long Litecoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTCBULL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

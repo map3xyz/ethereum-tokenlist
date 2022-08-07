@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x56C438eE032224D93a5E9F182cBF4608cDfc928e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "32f11f3a-fb2b-42d8-a449-42a78cfb9b05",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56C438eE032224D93a5E9F182cBF4608cDfc928e",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56C438eE032224D93a5E9F182cBF4608cDfc928e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETH Player Key",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "EPK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

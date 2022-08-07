@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+      "verified": true
+    }
+  ],
+  "id": "956161c9-0ef0-4222-afdb-3f8c5c1cb7d6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+    "research": null,
+    "website": "https://token.gamee.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GAMEE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMEE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

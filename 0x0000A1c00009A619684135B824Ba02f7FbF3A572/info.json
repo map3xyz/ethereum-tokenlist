@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0000A1c00009A619684135B824Ba02f7FbF3A572",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Alchemy allows users to create a tokenized DAO for any NFT. Turn your NFTs into liquid, community controlled assets that can be traded, vote and control all your NFTs. Create funds, communities, split collections between friends and all with no coding or technical experience.",
+      "verified": true
+    }
+  ],
+  "id": "d3b2d561-78d6-44e6-b50e-2324725b6cd3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0000A1c00009A619684135B824Ba02f7FbF3A572",
+    "research": null,
+    "website": "https://alchemydao.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0000A1c00009A619684135B824Ba02f7FbF3A572/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Alchemy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

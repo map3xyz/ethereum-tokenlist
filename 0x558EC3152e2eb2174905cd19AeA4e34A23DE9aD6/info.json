@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BRD bills itself as 'the simple and secure onramp to bitcoin, ethereum, and other digital currencies'.",
+      "verified": true
+    }
+  ],
+  "id": "e6644475-5e84-41f3-ac17-4320f4c23377",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+    "research": null,
+    "website": "https://brd.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bread",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

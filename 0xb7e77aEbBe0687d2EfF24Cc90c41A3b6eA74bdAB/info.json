@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ProjectWITH (WIKEN) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "25cab28d-0509-46d8-a215-604517953067",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
+    "research": null,
+    "website": "https://projectwith.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ProjectWITH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIKEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

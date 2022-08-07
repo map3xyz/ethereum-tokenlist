@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5F33d158CA7275848F70A3f149b421190DF85B32",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7bfbf61d-ee96-4553-98cf-ed30deb3c4d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5F33d158CA7275848F70A3f149b421190DF85B32",
+    "research": null,
+    "website": "http://pdx.link"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F33d158CA7275848F70A3f149b421190DF85B32/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PdxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PDX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

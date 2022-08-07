@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6f81cb54-9417-4825-b6c1-7b2a9fbd8c6b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ARTIDToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARTID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

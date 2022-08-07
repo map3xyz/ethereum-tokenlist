@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x87026F792D09960232CA406E80C89BD35BAfE566",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4e292464-2020-4e54-93c4-afb3f1c44fa1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87026F792D09960232CA406E80C89BD35BAfE566",
+    "research": null,
+    "website": "http://www.cdc.tech/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87026F792D09960232CA406E80C89BD35BAfE566/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CDCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

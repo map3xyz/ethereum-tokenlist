@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7DE2d123042994737105802D2abD0A10a7BdE276",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MEXC describes itself as a utility token for the Emergency Medical Services (EMS) industry.",
+      "verified": true
+    }
+  ],
+  "id": "fec571a9-bacc-4f45-a43b-969e55011cac",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7DE2d123042994737105802D2abD0A10a7BdE276",
+    "research": null,
+    "website": "https://mexc.life"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7DE2d123042994737105802D2abD0A10a7BdE276/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MEXC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEXC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

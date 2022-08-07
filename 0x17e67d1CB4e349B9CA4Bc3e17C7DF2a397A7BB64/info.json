@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0de39234-7158-4048-a7d3-8702323434dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+    "research": null,
+    "website": "http://www.freyrchain.org/index.html"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Freyr Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FREC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

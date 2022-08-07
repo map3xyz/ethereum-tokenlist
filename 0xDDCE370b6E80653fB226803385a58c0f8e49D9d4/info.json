@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDDCE370b6E80653fB226803385a58c0f8e49D9d4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EcoFinances Token is a internal token payment in ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "beb5b1e2-c235-4949-b0dc-462ffdce93b4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDDCE370b6E80653fB226803385a58c0f8e49D9d4",
+    "research": null,
+    "website": "https://ecofinances.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDDCE370b6E80653fB226803385a58c0f8e49D9d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Eco Finances",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EFC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

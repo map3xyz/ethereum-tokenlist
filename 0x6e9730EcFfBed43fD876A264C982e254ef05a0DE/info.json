@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nord Finance, a blockchain agnostic platform, is an advanced decentralized financial ecosystem focusing on simplifying decentralized finance products.",
+      "verified": true
+    }
+  ],
+  "id": "40780e93-605c-4675-995a-4251461d2c2d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+    "research": null,
+    "website": "https://nordfinance.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e9730EcFfBed43fD876A264C982e254ef05a0DE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Nord Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NORD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

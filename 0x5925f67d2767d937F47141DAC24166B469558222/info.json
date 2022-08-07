@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5925f67d2767d937F47141DAC24166B469558222",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OLXA is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "4b48b1c9-0b7f-4cad-a564-cffa9cba9325",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5925f67d2767d937F47141DAC24166B469558222",
+    "research": null,
+    "website": "https://www.olxacoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5925f67d2767d937F47141DAC24166B469558222/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OLXA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OLXA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

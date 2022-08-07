@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token to increase adoption of cryptocurrency.",
+      "verified": true
+    }
+  ],
+  "id": "5b242835-ff58-4488-93f7-f83dbe9e830b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9B9087756eCa997C5D595C840263001c9a26646D",
+    "research": null,
+    "website": "https://dogefi.army"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B9087756eCa997C5D595C840263001c9a26646D/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DOGEFI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGEFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

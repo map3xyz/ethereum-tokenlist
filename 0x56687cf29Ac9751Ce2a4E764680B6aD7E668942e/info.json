@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x56687cf29Ac9751Ce2a4E764680B6aD7E668942e",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A social token for crypto-natives who are experimenting with tokenized community tools to pave the way for new creator economies.",
+      "verified": true
+    }
+  ],
+  "id": "21a0bd1e-fc33-4a4b-9f4e-e4fceed88589",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56687cf29Ac9751Ce2a4E764680B6aD7E668942e",
+    "research": null,
+    "website": "https://outpost-protocol.com/jamm"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56687cf29Ac9751Ce2a4E764680B6aD7E668942e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FlynJamm",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JAMM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

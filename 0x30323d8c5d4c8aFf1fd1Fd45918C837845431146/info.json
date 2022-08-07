@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3815d4f8-f573-441c-99eb-f220db7b85d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+    "research": null,
+    "website": "https://www.filepays.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30323d8c5d4c8aFf1fd1Fd45918C837845431146/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Filepays",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLPY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror IAU Token.",
+      "verified": true
+    }
+  ],
+  "id": "c3a30364-534a-46b0-a4d5-c8fb655b6f17",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d350417d9787E000cc1b95d70E9536DcD91F373/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mIAU Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mIAU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

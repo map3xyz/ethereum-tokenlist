@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xac5470280C680956b1851F4ef9330F32E6fd243F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "23b849d3-b774-40a8-ba0c-609e3f044c35",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xac5470280C680956b1851F4ef9330F32E6fd243F",
+    "research": null,
+    "website": "http://kngcoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac5470280C680956b1851F4ef9330F32E6fd243F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KingCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

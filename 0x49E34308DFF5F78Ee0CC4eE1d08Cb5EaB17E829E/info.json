@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "00e2e34f-63f1-4178-9784-951aca5bb27e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SmogToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

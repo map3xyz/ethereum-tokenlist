@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Newtonium is an ERC-20 token intended to make DeFi more simple and fun. People can harvest $DAI, $USDT & $USDC on newtonium platform. Simple and easy.",
+      "verified": true
+    }
+  ],
+  "id": "eb2e32c8-2f0b-45cb-b120-662187764d71",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4",
+    "research": null,
+    "website": "https://newtonium.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Newtonium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEWTON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

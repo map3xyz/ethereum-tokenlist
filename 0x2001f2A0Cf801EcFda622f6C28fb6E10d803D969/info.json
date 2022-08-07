@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The CoinLoan Token (CLT) is a part of the CoinLoan crypto lending platform.",
+      "verified": true
+    }
+  ],
+  "id": "184ed6f6-68c6-4d3b-867f-09a63b05635c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969",
+    "research": null,
+    "website": "https://coinloan.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinLoan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

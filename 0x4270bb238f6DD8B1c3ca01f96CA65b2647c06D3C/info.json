@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FORTUNA is a global OTC derivatives market disciplined by algorithms while supporting transparent, real time, and full dose trading data supervision.",
+      "verified": true
+    }
+  ],
+  "id": "f04b4819-6eb9-413b-9c8b-128df696783b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+    "research": null,
+    "website": "https://www.fota.top/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FOTA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOTA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

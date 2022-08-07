@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology.",
+      "verified": true
+    }
+  ],
+  "id": "c430802b-8587-4d98-a62d-e0ebe3e2f647",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
+    "research": null,
+    "website": "https://platonfinance.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlatonCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x016396044709EB3edc69C44f4d5Fa6996917E4e8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "86e4efc8-005a-4bf1-a00a-8a72780cd8d8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x016396044709EB3edc69C44f4d5Fa6996917E4e8",
+    "research": null,
+    "website": "https://kingxchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x016396044709EB3edc69C44f4d5Fa6996917E4e8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KingXChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KXC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x7e794eD35788b698AE60cefC98eE48015C4876dA",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Shintama, a DeFi project launched after the success of Shinja and Saitama in the DeFi space has grand plans to build a bridge between everyday internet users and the Defi world in a safe and simple way.",
+      "verified": true
+    }
+  ],
+  "id": "0f28900c-6ff9-4003-a695-adba68e8a8f5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7e794ed35788b698ae60cefc98ee48015c4876da",
+    "research": null,
+    "website": "https://www.shintamatoken.com",
+    "twitter": "https://twitter.com/SHINTAMAToken",
+    "telegram": "https://t.me/SHINTAMA_Join",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shintama/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7e794eD35788b698AE60cefC98eE48015C4876dA/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shintama",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHINTAMA",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

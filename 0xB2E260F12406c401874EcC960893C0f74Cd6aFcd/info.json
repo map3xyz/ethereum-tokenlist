@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB2E260F12406c401874EcC960893C0f74Cd6aFcd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BitUP Ltd, a professional digital asset management and investment platform.",
+      "verified": true
+    }
+  ],
+  "id": "0804d73d-087b-4179-ac2e-ae5f069bb77b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB2E260F12406c401874EcC960893C0f74Cd6aFcd",
+    "research": null,
+    "website": "https://bitup.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2E260F12406c401874EcC960893C0f74Cd6aFcd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitUP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Solar powered high speed internet for West Africa.",
+      "verified": true
+    }
+  ],
+  "id": "34a1337e-e603-4ba5-a05a-6f354045d0c6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+    "research": null,
+    "website": "https://cajutel.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cajutel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAJ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

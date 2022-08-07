@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xF45091f25d374BbE956c0bb64bB85e02D07Aa741",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "563815d3-88e5-46b9-8597-820227bab2e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF45091f25d374BbE956c0bb64bB85e02D07Aa741",
+    "research": null,
+    "website": "http://www.mnmcoin.info"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF45091f25d374BbE956c0bb64bB85e02D07Aa741/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MNMCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNMC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

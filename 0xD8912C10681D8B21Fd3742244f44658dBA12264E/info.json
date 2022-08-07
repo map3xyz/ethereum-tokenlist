@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Plutus is an incredibly secure crypto-friendly finance app.",
+      "verified": true
+    }
+  ],
+  "id": "9f731501-04fc-405a-87cf-c20a56fdfb0a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+    "research": null,
+    "website": "https://plutus.it"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD8912C10681D8B21Fd3742244f44658dBA12264E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pluton",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e18191d2-b42e-4a06-8a02-47ee9328dd32",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+    "research": null,
+    "website": "https://www.aston.company/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A0F2aB46EC630F9FD638029027b552aFA64b94c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aston X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

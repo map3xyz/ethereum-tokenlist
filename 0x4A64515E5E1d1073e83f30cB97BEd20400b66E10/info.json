@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped ZEC is a 1:1 equivalent of Zcash on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "65de8c15-829a-4a24-a432-5f97ae6fbb3e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+    "research": null,
+    "website": "https://www.wrapped.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WZEC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WZEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

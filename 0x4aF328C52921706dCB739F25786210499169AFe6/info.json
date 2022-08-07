@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4aF328C52921706dCB739F25786210499169AFe6",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This is a cryptocurrency given to customers over Internet SNS sites and event attendees in the real world as a present. SKB is a token used for various services, including Bitcoin exchange, direct cash exchange, making purchases, etc.",
+      "verified": true
+    }
+  ],
+  "id": "b5942fba-86b7-484e-a1a7-785fa979114e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4aF328C52921706dCB739F25786210499169AFe6",
+    "research": null,
+    "website": "https://www.skb-coin.jp/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4aF328C52921706dCB739F25786210499169AFe6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sakura Bloom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

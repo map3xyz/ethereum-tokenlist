@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BETCHIPS (BETC) is a utility token based on ERC 20 for iGaming platform. The token is in use on www.betclotto.com as a transaction protocol for the gaming world.",
+      "verified": true
+    }
+  ],
+  "id": "21c61a60-3cc5-4b47-845e-7f6461ebe688",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0",
+    "research": null,
+    "website": "https://betc.ltd/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bet Chips",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BetC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

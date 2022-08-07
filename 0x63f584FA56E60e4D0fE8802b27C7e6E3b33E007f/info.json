@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain Infrastructure For The Digital Content Industry. Empowering a decentralized digital content ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "c268efc3-59cd-43e8-9936-24c0fc675f41",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+    "research": null,
+    "website": "https://contentbox.one/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

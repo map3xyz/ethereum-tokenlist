@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4AFAdB32b8fdB334cF9f20AFb476A06c1F5b111A",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "90e33d55-f3a3-4d65-85bb-d38e9cbbe02a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4AFAdB32b8fdB334cF9f20AFb476A06c1F5b111A",
+    "research": null,
+    "website": "https://tlsgroup.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4AFAdB32b8fdB334cF9f20AFb476A06c1F5b111A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TLS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

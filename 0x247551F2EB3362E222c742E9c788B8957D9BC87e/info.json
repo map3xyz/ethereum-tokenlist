@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4a279d20-a17b-4eae-a7d6-3d1cda3cdaf8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+    "research": null,
+    "website": "http://www.gny.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x247551F2EB3362E222c742E9c788B8957D9BC87e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GNY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

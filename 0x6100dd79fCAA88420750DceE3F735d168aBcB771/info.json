@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x6100dd79fCAA88420750DceE3F735d168aBcB771",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Governance token of the EthOS (Ethereans Operating System) organization. The EthOS is a layer for building any kind of application on Ethereum, powered by extendable factories for DeFi, NFTs and on-chain governance.",
+      "verified": true
+    }
+  ],
+  "id": "11d3d698-70af-4079-9872-397961e9152c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6100dd79fCAA88420750DceE3F735d168aBcB771",
+    "research": null,
+    "website": "https://ethos.eth.link/",
+    "github": "https://github.com/ethereansos",
+    "twitter": "https://twitter.com/ethereansos",
+    "discord": "https://discord.com/nHZ2bUd",
+    "medium": "https://medium.com/ethereansos",
+    "youtube": "https://youtube.com/channel/UCeC1Qr2i-t4x4RGO0MwkIDQ"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6100dd79fCAA88420750DceE3F735d168aBcB771/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethereans",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

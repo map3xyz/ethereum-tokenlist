@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x87f5E8c3425218837f3CB67dB941aF0C01323E56",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d893f652-d294-4a4c-9b92-2d7b3f8b330d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87f5E8c3425218837f3CB67dB941aF0C01323E56",
+    "research": null,
+    "website": "https://www.bitcoinone.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87f5E8c3425218837f3CB67dB941aF0C01323E56/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitCoin ONE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCONE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

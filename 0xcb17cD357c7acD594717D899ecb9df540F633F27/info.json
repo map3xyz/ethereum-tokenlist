@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcb17cD357c7acD594717D899ecb9df540F633F27",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoinDeal presents one of the easiest options to earn money on the exchange.",
+      "verified": true
+    }
+  ],
+  "id": "2974675f-45ff-40df-859e-fcf892e2c9d7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcb17cD357c7acD594717D899ecb9df540F633F27",
+    "research": null,
+    "website": "https://token.coindeal.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb17cD357c7acD594717D899ecb9df540F633F27/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinDeal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

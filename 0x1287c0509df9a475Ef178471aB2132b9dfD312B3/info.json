@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x1287c0509df9a475Ef178471aB2132b9dfD312B3",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$LADZ is the social token of the Layer1 channel and network.",
+      "verified": true
+    }
+  ],
+  "id": "2fca8578-7027-47c0-bc61-04ee98534b61",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1287c0509df9a475Ef178471aB2132b9dfD312B3",
+    "research": null,
+    "website": "http://ladz.city/",
+    "twitter": "https://twitter.com/ladzcity",
+    "discord": "https://discord.com/invite/aX5bGCBkmR/",
+    "youtube": "https://youtube.com/LADZCity"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1287c0509df9a475Ef178471aB2132b9dfD312B3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ladz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LADZ",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

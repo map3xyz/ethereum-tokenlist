@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4b7aD3a56810032782Afce12d7d27122bDb96efF",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sparkle is a time-based rewards system designed to allow equal participation amongst all users within Sparkle's ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "653f0c84-64e3-4bae-a2c4-0acc23c87440",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4b7aD3a56810032782Afce12d7d27122bDb96efF",
+    "research": null,
+    "website": "https://sparkleloyalty.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b7aD3a56810032782Afce12d7d27122bDb96efF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sparkle Loyalty",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPRKL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

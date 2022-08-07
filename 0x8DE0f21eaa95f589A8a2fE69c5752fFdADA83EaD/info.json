@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cybitex is based on Ethereum Erc20 Network as a network that promotes the digital assets in settled markets.",
+      "verified": true
+    }
+  ],
+  "id": "07a30bd2-adeb-4a51-acab-4dd5ca046e5f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+    "research": null,
+    "website": "http://cybitex.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cybitex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

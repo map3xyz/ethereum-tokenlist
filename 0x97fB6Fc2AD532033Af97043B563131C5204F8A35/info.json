@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x97fB6Fc2AD532033Af97043B563131C5204F8A35",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PlusCoin has been developed to connect cryptocurrency and the real economy. PlusCoin also serves as exchange token of Korean exchange UpXide.",
+      "verified": true
+    }
+  ],
+  "id": "548061bc-89d8-4553-8245-3c04cb4deb86",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x97fB6Fc2AD532033Af97043B563131C5204F8A35",
+    "research": null,
+    "website": "http://plus-coin.com/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x97fB6Fc2AD532033Af97043B563131C5204F8A35/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlusCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPLC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

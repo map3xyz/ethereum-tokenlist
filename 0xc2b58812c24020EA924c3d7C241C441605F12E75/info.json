@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc2b58812c24020EA924c3d7C241C441605F12E75",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Entherfound is a startup that has the permits and concessions for the cultivation of Psychoactive and Non-Psychoactive cannabis.",
+      "verified": true
+    }
+  ],
+  "id": "0ad53c61-cdcb-48c9-96ca-8d300655a23f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc2b58812c24020EA924c3d7C241C441605F12E75",
+    "research": null,
+    "website": "https://entherfound.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc2b58812c24020EA924c3d7C241C441605F12E75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Entherfound",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and use crypto seamlessly.",
+      "verified": true
+    }
+  ],
+  "id": "0e8a18d9-058b-49d2-97b5-7588c2e9c3a6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+    "research": null,
+    "website": "https://protonchain.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD7EFB00d12C2c13131FD319336Fdf952525dA2af/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Proton",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPR",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

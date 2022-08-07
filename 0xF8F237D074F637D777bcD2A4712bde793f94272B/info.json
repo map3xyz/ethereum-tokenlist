@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xF8F237D074F637D777bcD2A4712bde793f94272B",
+  "color": null,
+  "decimals": 10,
+  "description": [],
+  "id": "ec5de863-b1d9-4ca3-97cd-50ab840a9c03",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF8F237D074F637D777bcD2A4712bde793f94272B",
+    "research": null,
+    "website": "https://erc223token.my.cam/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8F237D074F637D777bcD2A4712bde793f94272B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ERC223",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERC223",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

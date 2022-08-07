@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1416946162B1C2c871A73B07E932D2fB6C932069",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptocurrency for World Consciousness.",
+      "verified": true
+    }
+  ],
+  "id": "10411285-76a1-44b9-9553-4ae47af5957f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1416946162b1c2c871a73b07e932d2fb6c932069",
+    "research": null,
+    "website": "https://energi.world/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1416946162B1C2c871A73B07E932D2fB6C932069/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Energi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

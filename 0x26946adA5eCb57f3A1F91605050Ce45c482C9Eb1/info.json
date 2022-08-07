@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "49676e2e-cb20-4ddf-8cf5-f481cb9281f8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
+    "research": null,
+    "website": "https://www.btcsov.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitcoinSoV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSOV",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

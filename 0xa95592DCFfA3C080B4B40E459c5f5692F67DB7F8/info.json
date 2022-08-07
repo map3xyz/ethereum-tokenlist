@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A decentralized platform to build Ecommerce websites on the blockchain",
+      "verified": true
+    }
+  ],
+  "id": "b282a03c-d20c-4381-9361-63e14c16d43b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+    "research": null,
+    "website": "https://elycoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Elycoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

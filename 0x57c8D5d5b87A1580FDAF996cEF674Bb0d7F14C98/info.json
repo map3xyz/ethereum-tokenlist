@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x57c8D5d5b87A1580FDAF996cEF674Bb0d7F14C98",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4c7ab0e4-ba9f-4b60-9c28-78d16117fb8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x57c8D5d5b87A1580FDAF996cEF674Bb0d7F14C98",
+    "research": null,
+    "website": "https://www.odinlink.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57c8D5d5b87A1580FDAF996cEF674Bb0d7F14C98/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OdinBrowser",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

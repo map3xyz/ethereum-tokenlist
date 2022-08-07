@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xADF8B8050639b6236915f7516d69dE714672F0bF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5c4ecfa3-768a-4c49-a4f4-2ec1e2ebf621",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xADF8B8050639b6236915f7516d69dE714672F0bF",
+    "research": null,
+    "website": "https://www.scanetchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xADF8B8050639b6236915f7516d69dE714672F0bF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Scanetchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$TEND is the Next Generation Autonomous and Hyper Deflationary Coin",
+      "verified": true
+    }
+  ],
+  "id": "5de0a55b-00eb-49cd-9263-c091ad90fad7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
+    "research": null,
+    "website": "https://tendies.dev"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TENDIES Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

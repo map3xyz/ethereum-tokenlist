@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x69b148395Ce0015C13e36BFfBAd63f49EF874E03",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DATA (Decentralized AI-powered Trust Alliance) is a blockchain based digital data authentication protocol powered by AI & P2P mobile storage infrastructure.",
+      "verified": true
+    }
+  ],
+  "id": "66aceb6e-b0b3-4b8b-8d53-d2bbc28eb82d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x69b148395Ce0015C13e36BFfBAd63f49EF874E03",
+    "research": null,
+    "website": "http://data.eco/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69b148395Ce0015C13e36BFfBAd63f49EF874E03/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Data Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

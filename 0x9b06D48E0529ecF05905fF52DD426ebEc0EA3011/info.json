@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This is Fair Version, 100% distributed to the community, with No team shares, No Pre-mine.",
+      "verified": true
+    }
+  ],
+  "id": "064ee247-422d-424c-a1c5-8e6d1252593c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+    "research": null,
+    "website": "https://xswap.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XSwap Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

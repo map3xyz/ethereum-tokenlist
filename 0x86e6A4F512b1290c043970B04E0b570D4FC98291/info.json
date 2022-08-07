@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x86e6A4F512b1290c043970B04E0b570D4FC98291",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IntelliShare describes itself as a distributed network based on mesh technology. It reportedly customizes private networks for communities and provides network support for commercial uses.",
+      "verified": true
+    }
+  ],
+  "id": "878c3a9b-a7a2-477a-abcc-a02e20cdb39a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x86e6A4F512b1290c043970B04E0b570D4FC98291",
+    "research": null,
+    "website": "http://ine.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86e6A4F512b1290c043970B04E0b570D4FC98291/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IntelliShare Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

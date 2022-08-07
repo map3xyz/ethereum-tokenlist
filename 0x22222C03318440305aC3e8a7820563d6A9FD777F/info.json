@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.",
+      "verified": true
+    }
+  ],
+  "id": "375e4f16-d7ef-43af-9e30-c66c854fdc49",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F",
+    "research": null,
+    "website": "https://clv.surge.sh/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22222C03318440305aC3e8a7820563d6A9FD777F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Clover",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

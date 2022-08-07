@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa1069A93B0E44cc42bDceC90D010746d1b65a65C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BCDC is the investment platform that connects Ce-Fi and De-Fi.",
+      "verified": true
+    }
+  ],
+  "id": "ed13138a-0dc7-4dfa-9eab-0731c0610739",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1069a93b0e44cc42bdcec90d010746d1b65a65c",
+    "research": null,
+    "website": "https://bcdc.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1069A93B0E44cc42bDceC90D010746d1b65a65C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BCDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

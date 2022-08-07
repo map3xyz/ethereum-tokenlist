@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aluna Social - Multi-exchange Social Trading Terminal for Crypto Traders and Investors",
+      "verified": true
+    }
+  ],
+  "id": "495aa158-317c-4ad3-ba72-d03fc9c02dec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8185Bc4757572Da2a610f887561c32298f1A5748",
+    "research": null,
+    "website": "https://aluna.social"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8185Bc4757572Da2a610f887561c32298f1A5748/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aluna Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

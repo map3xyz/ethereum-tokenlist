@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 version of the e-Money NGM staking token",
+      "verified": true
+    }
+  ],
+  "id": "12a9fe16-15f6-46f4-b5f6-6308c1c8468b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
+    "research": null,
+    "website": "https://e-money.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed0d5747A9AB03a75fBfEC3228cd55848245B75d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "e-Money NGM staking token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

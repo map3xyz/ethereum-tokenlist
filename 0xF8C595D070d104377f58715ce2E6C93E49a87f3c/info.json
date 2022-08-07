@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xF8C595D070d104377f58715ce2E6C93E49a87f3c",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DACC – Decentralized Accessible Content – is the first public chain that revolutionize online content and media identity and access management (IAM) worldwide. As an interactive platform, DAC, through the innovative use of blockchain technology, allows creators to control and protect their content, while also giving them a secure and efficient way of selling it globally.",
+      "verified": true
+    }
+  ],
+  "id": "980a1ab4-05e1-44c0-a6a3-73b14e6d1088",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF8C595D070d104377f58715ce2E6C93E49a87f3c",
+    "research": null,
+    "website": "http://dacc.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8C595D070d104377f58715ce2E6C93E49a87f3c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentralized Accessible Content Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DACC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Social crypto exchange based on a hybrid-decentralized architecture.",
+      "verified": true
+    }
+  ],
+  "id": "671dbd11-644e-4fec-a1d7-be2b794489ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8",
+    "research": null,
+    "website": "https://getbux.com/bux-crypto"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blockport Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

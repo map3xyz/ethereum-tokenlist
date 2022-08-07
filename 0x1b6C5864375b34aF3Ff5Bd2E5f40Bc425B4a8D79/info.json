@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Topchain is the world’s leading brand in the gaming blockchain, reshaping the game industry structure with decentralized concept to create a global de-centralized gaming ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "6e02e341-5791-4886-ab03-7ca968c08a8d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79",
+    "research": null,
+    "website": "http://www.topc.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TopChainCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOPC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

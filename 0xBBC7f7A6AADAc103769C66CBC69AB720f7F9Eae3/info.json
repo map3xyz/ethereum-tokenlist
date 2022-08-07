@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "INX Limited is developing a single entry-point for our customers for the trading of cryptocurrencies, security tokens, and their derivatives. Investors in the INX token are entitled to receive pro rata distributions of 40% of the Company’s cumulative adjusted operating cash flow.",
+      "verified": true
+    }
+  ],
+  "id": "c84430f0-b1e3-4d52-8d12-a90eb45c9a99",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3",
+    "research": null,
+    "website": "https://token.inx.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "INX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

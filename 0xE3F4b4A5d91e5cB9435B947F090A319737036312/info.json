@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE3F4b4A5d91e5cB9435B947F090A319737036312",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "POPCHAIN (PCH) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "0ce6f357-fc1c-4a25-a035-ca507e732ab2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE3F4b4A5d91e5cB9435B947F090A319737036312",
+    "research": null,
+    "website": "http://www.popchain.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3F4b4A5d91e5cB9435B947F090A319737036312/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "POPCHAIN CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

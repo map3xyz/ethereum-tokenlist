@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9aad839f-9451-4fd9-99d1-f1cb241d50ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+    "research": null,
+    "website": "https://www.tap.global"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

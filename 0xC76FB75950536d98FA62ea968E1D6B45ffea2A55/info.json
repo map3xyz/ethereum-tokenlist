@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral.",
+      "verified": true
+    }
+  ],
+  "id": "3dab11a4-5756-44d6-9a2e-fdfb0bd561b0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+    "research": null,
+    "website": "https://unit.xyz",
+    "github": "https://github.com/unitprotocol",
+    "twitter": "https://twitter.com/unitprotocol",
+    "telegram": "https://t.me/unit_ann",
+    "medium": "https://medium.com/@unitprotocol",
+    "whitepaper": "https://github.com/unitprotocol/protocol_docs/blob/master/unit_wp.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Unit protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

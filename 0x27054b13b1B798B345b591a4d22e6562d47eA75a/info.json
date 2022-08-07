@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AirSwap powers peer-to-peer trading.",
+      "verified": true
+    }
+  ],
+  "id": "9b8c5a32-c7fe-419f-b408-217ce6b09f0b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+    "research": null,
+    "website": "https://www.airswap.io",
+    "twitter": "https://twitter.com/airswap",
+    "discord": "https://discord.com/invite/ecQbV7H",
+    "github": "https://github.com/airswap"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AirSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x34612903Db071e888a4dADcaA416d3EE263a87b9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The voting token of the on-chain organization ETHITEM",
+      "verified": true
+    }
+  ],
+  "id": "3b5f4dc3-c395-4f96-a662-52758193a599",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x34612903Db071e888a4dADcaA416d3EE263a87b9",
+    "research": null,
+    "website": "https://ethitem.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34612903Db071e888a4dADcaA416d3EE263a87b9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETHITEM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "arte",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

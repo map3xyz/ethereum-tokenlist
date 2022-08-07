@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A DeFi powerhouse at the center of the hottest trend in the crypto industry.",
+      "verified": true
+    }
+  ],
+  "id": "79cbbc02-223d-4d86-9325-811ace004fba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C",
+    "research": null,
+    "website": "https://yfibusiness.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFIBusiness.Finance (YFIB)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

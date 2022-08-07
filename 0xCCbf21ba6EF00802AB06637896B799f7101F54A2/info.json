@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Together, we pioneer the future of cannabis. Budbo is a suite of cannabis solutions powered by blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "37f4bd76-96c5-4489-b631-f21ebf52da8e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
+    "research": null,
+    "website": "https://budbo.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCCbf21ba6EF00802AB06637896B799f7101F54A2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Budbo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUBO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

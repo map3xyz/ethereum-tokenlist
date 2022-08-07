@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe61eECfDBa2aD1669cee138f1919D08cEd070B83",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VGTGToken Gold is a part of VGT Project. It is bringing the power of blockchain to the gaming industry.",
+      "verified": true
+    }
+  ],
+  "id": "8a84cb65-03d3-4c63-85f3-28e7e1480ed6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe61eECfDBa2aD1669cee138f1919D08cEd070B83",
+    "research": null,
+    "website": "http://vgtgtoken.com",
+    "twitter": "https://twitter.com/VideoGamesToken",
+    "telegram": "https://t.me/VideoGamesToken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe61eECfDBa2aD1669cee138f1919D08cEd070B83/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VGTGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGTG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

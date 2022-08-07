@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x23696914Ca9737466D8553a2d619948f548Ee424",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TrueFi is an on-chain uncollateralized lending protocol. stkTRU represents a users TRU deposited into the protocol's staking contract",
+      "verified": true
+    }
+  ],
+  "id": "0374f25a-63d6-4a07-90a7-5637a2ccdfe9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x23696914Ca9737466D8553a2d619948f548Ee424",
+    "research": null,
+    "website": "https://truefi.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23696914Ca9737466D8553a2d619948f548Ee424/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Staked TrueFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "stkTRU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

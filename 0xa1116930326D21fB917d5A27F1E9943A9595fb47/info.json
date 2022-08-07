@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "stkABPT is AAVE/ETH Balancer Liquidity that is staked in the Aave Protocol Safety Module. In case of a shortfall event, up to 30% of the stkABPT can be slashed to cover the deficit. stkABPT holders earn Safety Incentives, BAL rewards and trading fees as a reward for protecting the protocol and liquidity provided to Balancer.",
+      "verified": true
+    }
+  ],
+  "id": "70dda90c-8761-4660-9940-8aef97d36c20",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+    "research": null,
+    "website": "https://aave.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1116930326D21fB917d5A27F1E9943A9595fb47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Staked ABPT ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "stkABPT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

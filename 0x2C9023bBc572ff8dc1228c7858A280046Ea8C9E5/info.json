@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8af2a35a-9e24-4cf9-b6f0-2986ee7e845f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5",
+    "research": null,
+    "website": "https://videocoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VideoCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

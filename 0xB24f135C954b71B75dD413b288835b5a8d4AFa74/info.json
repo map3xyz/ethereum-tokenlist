@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB24f135C954b71B75dD413b288835b5a8d4AFa74",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "$ZEN is the ERC-20 token will be used for rewards and products in Yearn2.Finance Eco-system.",
+      "verified": true
+    }
+  ],
+  "id": "024499cc-ef55-4de4-87b1-ff263df6ccc4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB24f135C954b71B75dD413b288835b5a8d4AFa74",
+    "research": null,
+    "website": "http://www.yearn2.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB24f135C954b71B75dD413b288835b5a8d4AFa74/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZenFinance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

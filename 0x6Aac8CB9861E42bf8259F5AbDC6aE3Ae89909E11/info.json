@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "4e23876d-26a9-4d4f-b6d1-15aa767b6603",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11",
+    "research": null,
+    "website": "http://www.bitcoinred.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin Red",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

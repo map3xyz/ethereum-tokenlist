@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc34Ef872a751A10E2a80243eF826ec0942fE3F14",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitcoin Uniswap is based on the design of Bitcoin. It comes with a rarer amount, faster transfer speed, and lower fees.",
+      "verified": true
+    }
+  ],
+  "id": "2afd2b23-b2d4-4c72-a8d8-e3e96f53aa8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc34Ef872a751A10E2a80243eF826ec0942fE3F14",
+    "research": null,
+    "website": "https://bitcoinuniswap.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc34Ef872a751A10E2a80243eF826ec0942fE3F14/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bitcoin Uniswap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCu",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

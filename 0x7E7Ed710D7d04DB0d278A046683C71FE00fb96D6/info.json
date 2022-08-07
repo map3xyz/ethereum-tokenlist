@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7aa5e8d8-7e6a-474a-a6ac-0b2d007c0e82",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LianPaiToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

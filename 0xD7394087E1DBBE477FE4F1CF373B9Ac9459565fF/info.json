@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RealTract is born as a thorough solution to the disadvantages of blockchain and the current smart contract, adding and improving technologies.",
+      "verified": true
+    }
+  ],
+  "id": "2a2f3bab-5ab3-4090-bc04-f186ae3c57d0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
+    "research": null,
+    "website": "https://realtract.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RealTract",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

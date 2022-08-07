@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "yfBETA restructures the DeFi narrative to reward tokenholders. yfBETA uses yields generated from farming other protocols.",
+      "verified": true
+    }
+  ],
+  "id": "dd5c1722-07b6-47f0-b23c-96dde978ce5b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x89eE58Af4871b474c30001982c3D7439C933c838",
+    "research": null,
+    "website": "https://yfbeta.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89eE58Af4871b474c30001982c3D7439C933c838/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "yfBETA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFBETA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AceD’s mission is to provide online world class entertainment options while providing a secure and private platform. We aim to integrate cryptocurrency into practical decentralised blockchain applications that are fun, entertaining and competitive while protecting your privacy.",
+      "verified": true
+    }
+  ],
+  "id": "767cd7b9-00e9-4b23-9fde-bb69d69a00b0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
+    "research": null,
+    "website": "https://acedcoin.com",
+    "twitter": "https://twitter.com/AceDcoin",
+    "discord": "https://discord.com/invite/VExsPg6"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AceD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AceD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

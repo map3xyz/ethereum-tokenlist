@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "1c01c5df-a769-460b-8723-8d6b6612d91b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+    "research": null,
+    "website": "https://marinade.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Marinade staked SOL (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mSOL",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

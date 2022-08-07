@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0xB893A8049f250b57eFA8C62D51527a22404D7c9A",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "USHIBA is a community token built on the Ethereum blockchain. It has been adopted by a strong and active community who believes passionately in decentralization and charity causes. The core team consists of more than thirty dedicated members from diverse backgrounds, all working hard to build a strong and lasting community. As holders of the USHIBA token, you're part of a community that is at the center of the Decentralized Finance movement.",
+      "verified": true
+    }
+  ],
+  "id": "1ba06685-de65-4c89-afc8-ca05ad7c9287",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb893a8049f250b57efa8c62d51527a22404d7c9a",
+    "research": null,
+    "website": "https://americanshiba.info",
+    "twitter": "https://twitter.com/USHIBAEcosystem?s=09",
+    "telegram": "https://t.me/officialushiba",
+    "telegramNews": "https://t.me/ushibauni",
+    "discord": "https://discord.com/invite/xXWv8vtDTu",
+    "whitepaper": "https://americanshiba.info",
+    "reddit": "https://reddit.com/r/AmericanShiba/",
+    "youtube": "https://youtube.com/watch?v=qfAcoOZj2Ew",
+    "facebook": "https://facebook.com/groups/4024346514274988/?ref=share",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/american-shiba/",
+    "coingecko": "https://coingecko.com/en/coins/american-shiba"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "American Shiba (USHIBA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USHIBA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

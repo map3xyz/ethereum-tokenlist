@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": " $CLIFF is a highly deflationary token on the Ethereum Blockchain that never stops growing through TRUE deflationary techniques, Cliff's long Term vision is to dominate the metaverse ecosystem (Cliffverse).",
+      "verified": true
+    }
+  ],
+  "id": "7c770159-700c-49f7-bcad-e96cbec55d9a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669",
+    "research": null,
+    "website": "http://cliffordinu.io",
+    "twitter": "https://twitter.com/clifftoken",
+    "telegram": "https://t.me/Cliffordinuofficial",
+    "medium": "https://medium.com/@cliffordinuofficial",
+    "reddit": "https://reddit.com/r/cliffordinu_io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Clifford Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLIFF",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

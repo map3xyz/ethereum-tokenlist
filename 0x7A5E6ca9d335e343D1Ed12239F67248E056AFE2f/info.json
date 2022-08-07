@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "0b3e898f-86b5-4621-81e3-1ed5648134f5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f",
+    "research": null,
+    "website": "https://www.ethash.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethash Miner",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HETM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

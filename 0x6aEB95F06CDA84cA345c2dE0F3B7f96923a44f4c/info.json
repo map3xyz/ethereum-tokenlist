@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
+  "color": null,
+  "decimals": 14,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rentberry offers users a fully operational long-term rental platform. It leverages blockchain technology to ensure seamless rental experience.",
+      "verified": true
+    }
+  ],
+  "id": "b4c7ea9f-2ca9-47fa-a25a-112053e03c9a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
+    "research": null,
+    "website": "https://rentberry.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Berry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BERRY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

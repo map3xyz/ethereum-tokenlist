@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YOUChain is focused on carrying out large-scale commercial applications through its YPoS consensus mechanism and investment model.",
+      "verified": true
+    }
+  ],
+  "id": "e10f5632-6bc7-4e2c-89e2-9b4b9a74d3c8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
+    "research": null,
+    "website": "http://youchain.cc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34364BEe11607b1963d66BCA665FDE93fCA666a8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YOU COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

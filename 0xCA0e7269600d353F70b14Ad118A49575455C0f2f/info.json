@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCA0e7269600d353F70b14Ad118A49575455C0f2f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AMLT Oracle, DeFi's first smart contract-based solution for AML compliance.",
+      "verified": true
+    }
+  ],
+  "id": "b4b3f60a-6afa-4f35-910e-781f444b927f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCA0e7269600d353F70b14Ad118A49575455C0f2f",
+    "research": null,
+    "website": "https://amlt.coinfirm.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCA0e7269600d353F70b14Ad118A49575455C0f2f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AMLT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMLT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

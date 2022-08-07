@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.",
+      "verified": true
+    }
+  ],
+  "id": "a6453cd9-832a-4344-9667-fb842cac0279",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+    "research": null,
+    "website": "https://swissborg.com",
+    "github": "https://github.com/SwissBorg",
+    "twitter": "https://twitter.com/swissborg",
+    "blog": "https://medium.com/swissborg",
+    "facebook": "https://facebook.com/swissborg",
+    "telegram": "https://t.me/SwissBorgChat",
+    "whitepaper": "https://swissborg.com/en/documents.html",
+    "coingecko": "https://coingecko.com/en/coins/swissborg/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba9d4199faB4f26eFE3551D490E3821486f135Ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SwissBorg",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHSB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

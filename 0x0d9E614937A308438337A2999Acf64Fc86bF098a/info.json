@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0d9E614937A308438337A2999Acf64Fc86bF098a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Saturn.Black – liquidity provider for crypto markets. Cross-chain Exchange & OTC trading Platform.",
+      "verified": true
+    }
+  ],
+  "id": "79ffc252-9243-4c5b-bd9a-4eab8dfe83ed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0d9E614937A308438337A2999Acf64Fc86bF098a",
+    "research": null,
+    "website": "https://saturn.black/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d9E614937A308438337A2999Acf64Fc86bF098a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Saturn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

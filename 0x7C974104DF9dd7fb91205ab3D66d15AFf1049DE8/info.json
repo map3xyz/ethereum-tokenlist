@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "One stablecoin to pool them all in all the pools of DeFi. $WUSD is minted at the confluence of other stablecoins, which stream out and collateralize it in the pools of AMMs everywhere. Free from any oracle or issuer, it is the most resilient and decentralized stablecoin out there—and the first you can farm.",
+      "verified": true
+    }
+  ],
+  "id": "4f50db7b-f1dd-45e7-bffd-497af8763208",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8",
+    "research": null,
+    "website": "https://covenants.eth.link",
+    "github": "https://github.com/b-u-i-d-l/",
+    "whitepaper": "https://covenants.eth.link/#/grimoire"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

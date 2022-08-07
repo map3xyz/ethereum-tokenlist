@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
+      "verified": true
+    }
+  ],
+  "id": "e9adf22d-d7d1-4325-b567-70d6f4eccdf1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+    "research": null,
+    "website": "https://bitball-btb.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitBall Treasure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTRS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

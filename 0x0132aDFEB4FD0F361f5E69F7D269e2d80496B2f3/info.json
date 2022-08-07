@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0132aDFEB4FD0F361f5E69F7D269e2d80496B2f3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DAFCO token is a foreign-exchange securities investment fund company and owns AI Technology with DAF BOT AI. DAFC provides solutions and technologies of robot fintech & foreign currencies.",
+      "verified": true
+    }
+  ],
+  "id": "3a190993-ecec-4a85-9d05-3d3759862e95",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0132aDFEB4FD0F361f5E69F7D269e2d80496B2f3",
+    "research": null,
+    "website": "https://dafco.info/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0132aDFEB4FD0F361f5E69F7D269e2d80496B2f3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dafco Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAFCO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

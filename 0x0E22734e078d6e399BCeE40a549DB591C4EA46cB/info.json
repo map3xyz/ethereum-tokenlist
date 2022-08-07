@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3955e3a5-9c2e-41bf-b4c7-a6b8fef3230f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
+    "research": null,
+    "website": "http://www.streamity.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E22734e078d6e399BCeE40a549DB591C4EA46cB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Streamity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

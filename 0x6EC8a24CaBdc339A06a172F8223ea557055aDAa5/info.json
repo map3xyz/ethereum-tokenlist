@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Genaro Network is the first Turing-complete public blockchain combining peer-to-peer storage with a sustainable consensus mechanism. Genaro's mixed consensus uses SPoR and PoS, ensuring stronger performance and security.",
+      "verified": true
+    }
+  ],
+  "id": "0ae53fad-1b1d-4f0d-b758-74bfe8539d03",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+    "research": null,
+    "website": "https://genaro.network/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Genaro X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

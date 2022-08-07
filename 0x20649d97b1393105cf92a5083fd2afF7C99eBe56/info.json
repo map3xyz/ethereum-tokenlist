@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x20649d97b1393105cf92a5083fd2afF7C99eBe56",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8c978fe1-8406-46da-955c-f5ec8b1ccc73",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x20649d97b1393105cf92a5083fd2afF7C99eBe56",
+    "research": null,
+    "website": "https://www.tokensets.com/set/btclovol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20649d97b1393105cf92a5083fd2afF7C99eBe56/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "STBTCDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STBTCDai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

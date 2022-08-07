@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x80D09dA032F4293b1f1295274509Cb76C2A5DC42",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3d6ce075-0aec-431f-8ef9-1c1d01a8b26b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x80D09dA032F4293b1f1295274509Cb76C2A5DC42",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80D09dA032F4293b1f1295274509Cb76C2A5DC42/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Visa Application Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

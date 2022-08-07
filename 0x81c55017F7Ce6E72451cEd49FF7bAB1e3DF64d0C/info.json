@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e1a227eb-f53e-4bb7-ae25-5b1e4decf46b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C",
+    "research": null,
+    "website": "https://www.tokensets.com/set/btcminvol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTC Min Volatility Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCMINVOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DCTO Project Cryptocurrency Latest News",
+      "verified": true
+    }
+  ],
+  "id": "75eb4d74-7b72-4bb5-973e-a60fceb4aa74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769",
+    "research": null,
+    "website": "https://dctoproject.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentralized Crypto Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCTO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

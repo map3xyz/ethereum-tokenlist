@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Ambrosus network is a blockchain-based ecosystem for supply chains, ensuring the origin, quality, compliance, and proper handling of items tracked by the network.",
+      "verified": true
+    }
+  ],
+  "id": "7c599f08-f671-406f-9074-ade5f47b3dec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+    "research": "https://research.binance.com/en/projects/ambrosus",
+    "website": "http://ambrosus.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ambrosus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

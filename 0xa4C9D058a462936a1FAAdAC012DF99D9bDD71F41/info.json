@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "681ec60f-d141-4d8f-8e33-3a971b5f13e6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41",
+    "research": null,
+    "website": "https://neodiamond.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Diamond Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

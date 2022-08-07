@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x825130Aa1bEeF07BdF4f389705321816D05b0d0f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Unii.finance is a project whereby a group of Uniswap users are trying to unite the many small UNI token holders (to get 10M UNI staked in order to be eligible to vote on Uniswap's proposal) or deal with potential problems in the automated market maker's (AMM) governance.",
+      "verified": true
+    }
+  ],
+  "id": "51c07e64-155e-40a4-bc2c-8c421568e827",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x825130Aa1bEeF07BdF4f389705321816D05b0d0f",
+    "research": null,
+    "website": "https://unii.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x825130Aa1bEeF07BdF4f389705321816D05b0d0f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UNII",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNII",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

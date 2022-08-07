@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SOCIAL P2P CRYPTO EXCHANGE AND HEDGE TRADING PLATFORM. BQT Hedge Trade is a flexible method for Traders to acquire Crypto Assets for a short-term period leveraging their existing Crypto holdings.",
+      "verified": true
+    }
+  ],
+  "id": "5c6b5090-a2ff-4537-8ff1-7e521e9b8ff6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A",
+    "research": null,
+    "website": "https://bqt.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BqtX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

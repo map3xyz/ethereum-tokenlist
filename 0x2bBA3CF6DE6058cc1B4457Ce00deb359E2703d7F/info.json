@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e8fae07b-a95d-44b3-a82f-187d48aa778f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
+    "research": null,
+    "website": "https://www.hashfuture.io/#home"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HashCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HSC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x27f610BF36ecA0939093343ac28b1534a721DBB4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e9283d25-efdb-4fc6-8bc0-dac67afa062b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x27f610BF36ecA0939093343ac28b1534a721DBB4",
+    "research": null,
+    "website": "https://www.wandx.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27f610BF36ecA0939093343ac28b1534a721DBB4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wand Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

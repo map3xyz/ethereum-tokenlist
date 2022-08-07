@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "12bbc890-d401-4e9b-b064-c92621013c16",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FASToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

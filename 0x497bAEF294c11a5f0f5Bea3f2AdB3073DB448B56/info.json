@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DEX is issued by CoinBit's Mining Exchange.",
+      "verified": true
+    }
+  ],
+  "id": "8ef1f681-f26c-48ae-a983-f323219fbe4d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56",
+    "research": null,
+    "website": "https://www.coinbit.co.kr/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

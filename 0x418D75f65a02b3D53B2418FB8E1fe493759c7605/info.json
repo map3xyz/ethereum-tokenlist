@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "504ee30d-2c3d-425d-bf82-e737ce079a64",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+    "research": null,
+    "website": "https://www.binance.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x418D75f65a02b3D53B2418FB8E1fe493759c7605/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance Coin (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

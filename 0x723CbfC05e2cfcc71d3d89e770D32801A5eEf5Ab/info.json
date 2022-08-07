@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "d2c430cd-427a-4c52-861c-4be99d46c415",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+    "research": null,
+    "website": "https://bitcoinpro.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitcoinPro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

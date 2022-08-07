@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fair launched on June 1 2021, Cavapoo ($CAVA) is the new dog in town bridging the crypto space with real-world events. $CAVA is fully decentralized and is on a mission to bring awareness to actively promoting and encouraging the funding of charities and acknowledging what’s currently happening in the world.",
+      "verified": true
+    }
+  ],
+  "id": "081a7071-fbd8-4eac-88b5-3c0098b5b5e2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x456D8f0D25A4e787eE60c401F8B963a465148f70",
+    "research": null,
+    "website": "https://www.cava.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x456D8f0D25A4e787eE60c401F8B963a465148f70/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cavapoo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAVA",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

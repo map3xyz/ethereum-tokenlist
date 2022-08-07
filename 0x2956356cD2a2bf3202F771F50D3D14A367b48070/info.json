@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6a73eb2b-7d53-4323-8db3-a7dcb6a023ef",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2956356cD2a2bf3202F771F50D3D14A367b48070/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ether Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

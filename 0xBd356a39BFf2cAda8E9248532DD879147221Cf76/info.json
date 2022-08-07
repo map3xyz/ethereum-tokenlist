@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The WOM Protocol is a next-gen MarTech solution that enables brands to leverage word-of-mouth recommendations and reward creators without compromising authenticity.",
+      "verified": true
+    }
+  ],
+  "id": "7be37e08-17ef-41ec-9c71-e3d43b8444ce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+    "research": null,
+    "website": "https://womprotocol.io",
+    "github": "https://github.com/wom-protocol",
+    "twitter": "https://twitter.com/WOMProtocol",
+    "telegram": "https://t.me/WOMProtocolChat",
+    "whitepaper": "https://womprotocol.io/pdf/en/wom-whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd356a39BFf2cAda8E9248532DD879147221Cf76/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WOM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

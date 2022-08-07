@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FYZNFT is the token that grants access to NFTs directly from the world’s biggest artists and celebrities",
+      "verified": true
+    }
+  ],
+  "id": "2c324441-b019-4e08-8934-690e8d7622ba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643",
+    "research": null,
+    "website": "https://www.fyooz.io/fyznft/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fyooz NFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FYZNFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

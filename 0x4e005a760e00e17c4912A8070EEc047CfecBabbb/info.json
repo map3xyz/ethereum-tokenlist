@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A hybrid exchange registered as an N. V. (Public company) in the Netherlands and provides fiat pairs to all altcoins on its platform.",
+      "verified": true
+    }
+  ],
+  "id": "d7abd103-b1e8-495f-bdb4-5f41645dd2af",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
+    "research": null,
+    "website": "https://next.exchange/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e005a760e00e17c4912A8070EEc047CfecBabbb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NEXT.exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

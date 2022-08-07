@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance Governance Token",
+      "verified": true
+    }
+  ],
+  "id": "86665c4e-d696-4cf9-a9e6-e1c529e95a6d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x74232704659ef37c08995e386A2E26cc27a8d7B1",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74232704659ef37c08995e386A2E26cc27a8d7B1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

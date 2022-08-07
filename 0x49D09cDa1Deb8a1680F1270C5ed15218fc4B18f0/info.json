@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x49D09cDa1Deb8a1680F1270C5ed15218fc4B18f0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OVCODE is an award winning verification engine. OVCODE is a patented technology that verifies authenticity, reliability, and integrity of data using Blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "39fecdd0-17a7-4fec-8e52-cc69c62e3880",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x49D09cDa1Deb8a1680F1270C5ed15218fc4B18f0",
+    "research": null,
+    "website": "https://ovcode.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49D09cDa1Deb8a1680F1270C5ed15218fc4B18f0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OVCODE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OVC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

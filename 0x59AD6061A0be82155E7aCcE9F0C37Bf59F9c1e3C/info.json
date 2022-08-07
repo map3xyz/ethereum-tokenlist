@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token used as the main prize in the daily Liquid Lottery draws. Read This Contract (RTC)",
+      "verified": true
+    }
+  ],
+  "id": "cbc6fe1b-73da-4d8e-9ca6-0627710a3311",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C",
+    "research": null,
+    "website": "https://etherscan.io/address/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C#code"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Liquid Lottery RTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIQLO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

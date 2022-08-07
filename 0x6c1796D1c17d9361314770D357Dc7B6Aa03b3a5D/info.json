@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D",
+  "color": null,
+  "decimals": 10,
+  "description": [],
+  "id": "0ec1b9b6-8d2b-4ef0-99e3-f0b229ee30be",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EllisToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

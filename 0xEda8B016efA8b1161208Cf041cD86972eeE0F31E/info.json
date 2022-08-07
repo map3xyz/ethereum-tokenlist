@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IHT Real Estate Protocol Global Real Estate Blockchain Cloud Platform",
+      "verified": true
+    }
+  ],
+  "id": "acc72e5c-1c9c-43bd-9bc0-0ed45ad0ee33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+    "research": null,
+    "website": "https://ihtcoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "I HOUSE TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IHT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

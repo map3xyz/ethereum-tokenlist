@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xdf09a216Fac5ADC3e640Db418C0b956076509503",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pokmi is a social platform to share uncensored creativity with advanced user protection thanks to the Poken wallet",
+      "verified": true
+    }
+  ],
+  "id": "64607173-2107-4240-9e85-2045c3758b11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdf09a216Fac5ADC3e640Db418C0b956076509503",
+    "research": null,
+    "website": "https://pokmi.com/",
+    "twitter": "https://twitter.com/PokmiHQ",
+    "telegram": "https://t.me/RarePorn_Fr"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf09a216Fac5ADC3e640Db418C0b956076509503/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pokmi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

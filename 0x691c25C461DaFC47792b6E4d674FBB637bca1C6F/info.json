@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "452d97d2-53fe-43cd-b044-d3d188717a33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+    "research": null,
+    "website": "https://ibbt.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x691c25C461DaFC47792b6E4d674FBB637bca1C6F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "iBBT Utility Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iBBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

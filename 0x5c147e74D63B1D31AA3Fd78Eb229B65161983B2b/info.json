@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped FLOW (WFLOW) is an ERC-20 token backed 1:1 with FLOW, the native token of the Flow blockchain. All minted WFLOW will be backed 1:1 by FLOW held in Anchorage custody, an institutional-grade storage system.",
+      "verified": true
+    }
+  ],
+  "id": "74139f2e-533e-41f0-81ab-a4ac6945be73",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+    "research": null,
+    "website": "https://www.onflow.org/",
+    "twitter": "https://twitter.com/flow_blockchain",
+    "github": "https://github.com/onflow/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Flow",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WFLOW",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

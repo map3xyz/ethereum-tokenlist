@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UFO is an dual purpose token that powers the metaverse and helps govern it.",
+      "verified": true
+    }
+  ],
+  "id": "229dcb9b-85bf-498c-b936-e171ca0d2be2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+    "research": null,
+    "website": "https://www.ufotoken.io/",
+    "twitter": "https://twitter.com/theufotoken?s=21",
+    "telegram": "https://t.me/ufotokenofficial",
+    "medium": "https://medium.com/@UFOtruth",
+    "github": "https://github.com/UFOTOKENOFFICIAL/supergalactic"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Truth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UFO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

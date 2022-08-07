@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Schrodinger token is a community-driven project that hopes to provide the kind of purr-fectly amazing, enthusiastic joy that DOGE, SHIB and others have for crypto investors.",
+      "verified": true
+    }
+  ],
+  "id": "1519348a-b2cf-423e-b719-0d446b524067",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
+    "research": null,
+    "website": "https://www.schrodingertoken.com",
+    "github": "https://github.com/SchrodingerToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dinger-token/",
+    "coingecko": "https://coingecko.com/en/coins/dinger-token",
+    "twitter": "https://twitter.com/dingertoken",
+    "reddit": "https://reddit.com/r/schrodinger/",
+    "telegram": "https://t.me/dingertoken",
+    "whitepaper": "https://518c9b86-70e1-4684-a158-a6ac5cc28fdd.filesusr.com/ugd/4f7660_9c16e33add7a4e2f872af0e00ff2d848.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dinger Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DINGER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

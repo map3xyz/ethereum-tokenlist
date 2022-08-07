@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe7E4279b80D319EDe2889855135A22021baf0907",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptocurrency that allows people to raise crypto for events to challenging circumstances like accidents and illnesses or real world emergencies. 'The GoFundMe of Crypto'",
+      "verified": true
+    }
+  ],
+  "id": "d692a4ba-e4c1-4577-8047-40eee04c2ef2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe7E4279b80D319EDe2889855135A22021baf0907",
+    "research": null,
+    "website": "https://zeusfundme.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7E4279b80D319EDe2889855135A22021baf0907/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZeusNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "\"\"",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

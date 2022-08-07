@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses. It develops, governs, and grows DeFi protocols and products. Owned and operated by the community, the DXdao has the potential to significantly scale its membership.",
+      "verified": true
+    }
+  ],
+  "id": "c85581e9-7ade-4ecc-a898-fc44c2c2abc1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+    "research": null,
+    "website": "https://Dxdao.eth.link/",
+    "github": "https://github.com/levelkdev/BC-DAPP",
+    "twitter": "https://twitter.com/Dxdao_",
+    "telegram": "https://t.me/dxDAO"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DXD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DXD",
+  "tags": [
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

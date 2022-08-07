@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "18be1427-d4c8-42a2-8e21-ed32219c499f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+    "research": null,
+    "website": "https://www.bobsrepair.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bob Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

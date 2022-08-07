@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Databroker (DTX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "a30e3618-5749-45a9-a0ba-bf068b6ae5cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+    "research": null,
+    "website": "https://databrokerdao.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DaTa eXchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

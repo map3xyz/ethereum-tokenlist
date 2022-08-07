@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Jinbi Token merges gold with blockchain technology. A new horizon of wealth and security.",
+      "verified": true
+    }
+  ],
+  "id": "3a7787e9-3e82-4ceb-8aa3-8603ce96a26e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
+    "research": null,
+    "website": "https://jinbitoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Jinbi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

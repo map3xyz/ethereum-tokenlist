@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3313f41b-f035-4117-9c3d-51555ba87a3a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
+    "research": null,
+    "website": "https://verify.as/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Verify Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

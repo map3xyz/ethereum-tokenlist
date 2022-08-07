@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4290563C2D7c255B5EEC87f2D3bD10389f991d68",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UIP (short for UnlimitedIP ) is a recreational copyright intelligent trading platform created by Link Entertainments Technology based on EOS.",
+      "verified": true
+    }
+  ],
+  "id": "9c8b0ce5-7678-4f7c-a056-fcd5bec81d2f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4290563C2D7c255B5EEC87f2D3bD10389f991d68",
+    "research": null,
+    "website": "http://www.unlimitedip.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4290563C2D7c255B5EEC87f2D3bD10389f991d68/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UnlimitedIP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UIP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

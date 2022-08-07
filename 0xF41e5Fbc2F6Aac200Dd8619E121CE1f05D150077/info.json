@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CRYCASH is the first cryptocurrency that satisfies all needs of gamers and game developers with its Ecosystem of custom-tailored services. CRYCASH has already confirmed integration into the renowned bestsellers from Crytek, with more partners to come. Connect with tomorrow’s technology today!",
+      "verified": true
+    }
+  ],
+  "id": "a7d13980-0c58-404e-95f0-73d13c65ed2c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
+    "research": null,
+    "website": "https://crycash.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CryCash Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

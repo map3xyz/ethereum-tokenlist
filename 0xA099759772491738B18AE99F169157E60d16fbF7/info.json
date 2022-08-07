@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA099759772491738B18AE99F169157E60d16fbF7",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Americoin is one of the most transformative technologies since the invention of the Internet. Americoin stands firmly in support of financial freedom and the liberty that Americoin provides globally for anyone to voluntarily participate in a permissionless and decentralized network.",
+      "verified": true
+    }
+  ],
+  "id": "377a50e5-4c9f-4273-8715-5b2abdc1b98c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA099759772491738B18AE99F169157E60d16fbF7",
+    "research": null,
+    "website": "https://ameriethe.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA099759772491738B18AE99F169157E60d16fbF7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Americoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

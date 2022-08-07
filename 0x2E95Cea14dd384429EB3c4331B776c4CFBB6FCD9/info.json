@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Throne has developed an exciting and disruptive blockchain technology that will transform our relationship to content and empower content creators like never before.",
+      "verified": true
+    }
+  ],
+  "id": "1118457c-f2f9-45a1-ae10-4a8941324968",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
+    "research": null,
+    "website": "https://www.thr.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Throne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

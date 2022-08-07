@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+  "color": null,
+  "decimals": 15,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockparty is designed to solve major pain points in ticketing: ensuring attendee identity, solving ticket fraud, and enabling revenue share in secondary ticket markets.",
+      "verified": true
+    }
+  ],
+  "id": "c4e1f403-93c5-4d85-a636-c303974f19cd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+    "research": null,
+    "website": "https://www.goblockparty.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x780116D91E5592E58a3b3c76A351571b39abCEc6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Boxx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOXX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "8a9527e2-7aab-4698-901f-c04da7b20946",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CTether USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUSDT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

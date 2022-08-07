@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b64cc008-24dc-4d27-b693-681bb79cb804",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+    "research": null,
+    "website": "https://unibomb.it/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UniBombV3",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBOMB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

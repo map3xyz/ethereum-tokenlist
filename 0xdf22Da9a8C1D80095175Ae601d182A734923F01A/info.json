@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xdf22Da9a8C1D80095175Ae601d182A734923F01A",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "2a605ee2-049c-4f95-ad68-b335ff79a35c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdf22Da9a8C1D80095175Ae601d182A734923F01A",
+    "research": null,
+    "website": "https://www.bitpakcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf22Da9a8C1D80095175Ae601d182A734923F01A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitpakcoinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPAKC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

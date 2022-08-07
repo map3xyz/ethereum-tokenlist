@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ethereum Pro is a decentralized and deflationary token built on the secure Ethereum network.",
+      "verified": true
+    }
+  ],
+  "id": "e913e2bf-8f9e-41cb-895a-1eb9c2952d30",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xba630d3ba20502ba07975b15c719beecc8e4ebb0",
+    "research": null,
+    "website": "https://ethereum-pro.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EthereumPro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

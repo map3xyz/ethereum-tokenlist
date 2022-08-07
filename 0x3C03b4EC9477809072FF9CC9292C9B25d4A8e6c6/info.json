@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoverCompared is the First Decentralized aggregator for Traditional and Crypto insurance products.",
+      "verified": true
+    }
+  ],
+  "id": "e4319a2b-11f2-49fc-b551-bf5d202cf8ff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+    "research": null,
+    "website": "https://covercompared.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/polkacover/",
+    "coingecko": "https://coingecko.com/en/coins/polkacover"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoverCompared",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

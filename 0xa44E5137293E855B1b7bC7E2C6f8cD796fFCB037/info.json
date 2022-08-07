@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A modern VPN backed by blockchain anonymity and security.",
+      "verified": true
+    }
+  ],
+  "id": "39b78a1a-9a6a-43de-a590-5278acce222a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+    "research": null,
+    "website": "https://sentinel.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SENTinel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SENT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

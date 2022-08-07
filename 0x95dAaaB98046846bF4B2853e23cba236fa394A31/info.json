@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "c9d74cf1-2b22-4f4f-8b39-e6ad4763aa69",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+    "research": null,
+    "website": "https://ethermon.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95dAaaB98046846bF4B2853e23cba236fa394A31/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EtheremonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMONT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

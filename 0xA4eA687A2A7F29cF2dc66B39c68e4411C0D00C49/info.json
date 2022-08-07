@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b2235f4f-5ad0-4a47-9aa3-cf5111981f7a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49",
+    "research": null,
+    "website": "http://www.ivykoin.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IvyKoin Public Network Tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IVY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

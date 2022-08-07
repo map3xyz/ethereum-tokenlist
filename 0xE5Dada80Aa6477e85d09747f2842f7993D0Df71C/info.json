@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8ab3759f-4b26-4b31-92b4-827360f05a8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+    "research": null,
+    "website": "https://dock.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DockToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOCK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Machine Learning driven, personalised cryptocurrency trade automation to help you easily manage your assets.",
+      "verified": true
+    }
+  ],
+  "id": "f7e70f86-55d9-40b9-b528-5935b8fcb116",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+    "research": null,
+    "website": "https://terablock.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TeraBlock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

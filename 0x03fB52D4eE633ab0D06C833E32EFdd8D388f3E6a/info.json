@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HOLE is a hyperdeflationary cryptocurrency with massive 20% burn. Join us on the journey to the unknown parts of the universe.",
+      "verified": true
+    }
+  ],
+  "id": "d8f5d47a-a628-4f9c-80dd-9d3656b7ce3d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
+    "research": null,
+    "website": "https://superblackhole.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Black Hole",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

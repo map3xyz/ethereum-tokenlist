@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x09Ccd2DA5dCDd0510268d4979e792381337138b8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Bodhi project, decentralized prediction market.",
+      "verified": true
+    }
+  ],
+  "id": "6045ce9e-3cf6-4443-a6b9-c864404bf855",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x09Ccd2DA5dCDd0510268d4979e792381337138b8",
+    "research": null,
+    "website": "https://www.nakachain.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09Ccd2DA5dCDd0510268d4979e792381337138b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bodhi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

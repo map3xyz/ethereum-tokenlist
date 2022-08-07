@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Combine different blockchain tokens into a single token. Tradable DeFi Pools. Make any token a privacy token. Make Tradable Portfolios. ",
+      "verified": true
+    }
+  ],
+  "id": "3b8dd0ec-fa50-487f-b7e4-f15552dbfcf9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3D658390460295FB963f54dC0899cfb1c30776Df",
+    "research": null,
+    "website": "https://circuitsofvalue.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CircuitsOfValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Coval",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

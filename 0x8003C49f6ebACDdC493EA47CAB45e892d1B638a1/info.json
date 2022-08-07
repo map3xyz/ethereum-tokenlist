@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ample Gold ($AMPLG) is worlds first and only goldpegged elastic tokensupply defi-protocol. $AMPLG is a decentralized ERC20 token which reaches supply-price equilibrium by increasing and decreasing the totalsupply. This is done by Rebasing events which trigger at random time intervals.",
+      "verified": true
+    }
+  ],
+  "id": "7d1018a0-e946-4456-ac50-fb59c5e08735",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1",
+    "research": null,
+    "website": "https://amplegold.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AmpleGold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMPLG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

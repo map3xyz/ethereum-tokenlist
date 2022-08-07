@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yield Farming Known as Ash",
+      "verified": true
+    }
+  ],
+  "id": "da274983-da0e-4e7b-b9c0-ab875f8392cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4086692D53262b2Be0b13909D804F0491FF6Ec3e",
+    "research": null,
+    "website": "https://burnthestate.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4086692D53262b2Be0b13909D804F0491FF6Ec3e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFKA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFKA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror SLV Token.",
+      "verified": true
+    }
+  ],
+  "id": "a60236f4-9249-48e0-acbf-e33d19b4718b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mSLV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mSLV",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

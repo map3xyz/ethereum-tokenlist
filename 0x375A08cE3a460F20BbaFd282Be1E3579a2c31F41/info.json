@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x375A08cE3a460F20BbaFd282Be1E3579a2c31F41",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5e263f24-9487-4334-abcd-9481909902a9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x375A08cE3a460F20BbaFd282Be1E3579a2c31F41",
+    "research": null,
+    "website": "https://www.thalergroup.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x375A08cE3a460F20BbaFd282Be1E3579a2c31F41/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Thaler",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

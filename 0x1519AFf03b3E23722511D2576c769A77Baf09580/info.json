@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1519AFf03b3E23722511D2576c769A77Baf09580",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The B91 platform aims to create a blockchain ecosystem that integrates digital wealth management application and distribution.",
+      "verified": true
+    }
+  ],
+  "id": "5573b8d4-c800-4a6d-bca8-49a9bac5e404",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1519AFf03b3E23722511D2576c769A77Baf09580",
+    "research": null,
+    "website": "http://www.b91.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1519AFf03b3E23722511D2576c769A77Baf09580/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "B91Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B91",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xc54083e77F913a4f99E1232Ae80c318ff03c9D17",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bac560fa-7e71-4e19-95f5-38d0cd40405c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc54083e77F913a4f99E1232Ae80c318ff03c9D17",
+    "research": null,
+    "website": "http://www.carinet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc54083e77F913a4f99E1232Ae80c318ff03c9D17/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CariNet Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

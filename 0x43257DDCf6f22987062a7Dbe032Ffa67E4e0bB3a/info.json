@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HBTT Payment System",
+      "verified": true
+    }
+  ],
+  "id": "72a8b340-ed4e-48cf-b790-bb3a3fc3cf34",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+    "research": null,
+    "website": "https://hbttplus.space/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HBTT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBTT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

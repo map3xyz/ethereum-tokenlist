@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Increase value and liquidity of real estate properties in your portfolio.",
+      "verified": true
+    }
+  ],
+  "id": "ec82dd6a-b425-4a1d-ab5e-373774886674",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
+    "research": null,
+    "website": "https://blocksquare.io/",
+    "github": "https://github.com/blocksquare",
+    "twitter": "https://twitter.com/blocksquare_io",
+    "reddit": "https://reddit.com/r/Blocksquare_io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Blocksquare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

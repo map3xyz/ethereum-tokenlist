@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "At Sphynx we aim to provide an AIO(All-In-One) solution for trading, farming, staking and holding. The amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate. This creates a massive barrier to entry for those new to the world of crypto trading.",
+      "verified": true
+    }
+  ],
+  "id": "d119f6b9-fa5c-495e-bb7e-9b929a33006c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x94dfd4e2210fa5b752c3cd0f381edad9da6640f8",
+    "research": null,
+    "website": "https://sphynxlabs.co",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sphynx-eth/",
+    "coingecko": "https://coingecko.com/en/coins/sphynx-eth",
+    "telegram": "https://t.me/sphynxswapETH",
+    "medium": "https://medium.com/@sphynxeth",
+    "twitter": "https://twitter.com/sphynxeth",
+    "github": "https://github.com/sphynxeth/sphynx-eth"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Sphynx ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPHYNX",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

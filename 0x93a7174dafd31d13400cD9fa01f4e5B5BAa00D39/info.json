@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Shaka (HAK) is an ERC20 Token issued by FriendsFingers that will give holders rights to be active part of the platform like in a Decentralized Autonomous Organization (DAO).",
+      "verified": true
+    }
+  ],
+  "id": "a7852164-e111-4007-b905-42f1e5f31400",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39",
+    "research": null,
+    "website": "https://friendsfingers.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shaka",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

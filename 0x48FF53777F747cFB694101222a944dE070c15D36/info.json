@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x48FF53777F747cFB694101222a944dE070c15D36",
+  "color": null,
+  "decimals": 7,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ether Kingdoms is a new crypto-game with its own ERC20 token, IMP. Key features: up to 365% annual POS reward, ERC-721 items, no ICO, fair airdrop distribution only.",
+      "verified": true
+    }
+  ],
+  "id": "0046ce07-a043-4918-bbfe-ce07a2ba6d9c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x48FF53777F747cFB694101222a944dE070c15D36",
+    "research": null,
+    "website": "https://imps.me/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48FF53777F747cFB694101222a944dE070c15D36/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ether Kingdoms Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

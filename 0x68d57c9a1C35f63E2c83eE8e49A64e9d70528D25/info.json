@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain Smartphone.",
+      "verified": true
+    }
+  ],
+  "id": "afce7187-986c-4503-bf5c-72d7261f322f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
+    "research": null,
+    "website": "https://www.sirinlabs.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SIRIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

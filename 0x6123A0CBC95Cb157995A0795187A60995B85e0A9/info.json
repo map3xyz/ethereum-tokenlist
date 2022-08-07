@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6123A0CBC95Cb157995A0795187A60995B85e0A9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a8443c7b-1925-4aab-9568-36881fa9d921",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6123A0CBC95Cb157995A0795187A60995B85e0A9",
+    "research": null,
+    "website": "https://www.tokensets.com/set/btchivol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6123A0CBC95Cb157995A0795187A60995B85e0A9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BTCDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCDai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5E4334fD53B95dF63993c805066d693bb8CE5dFc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Crypto Exchange. Caytrex offers one of the most liquid order book in the world, allowing users to easily exchange Bitcoin, Ethereum, and many other.",
+      "verified": true
+    }
+  ],
+  "id": "803a80de-dd53-4dfc-9572-01ab9ef8aa7b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5E4334fD53B95dF63993c805066d693bb8CE5dFc",
+    "research": null,
+    "website": "https://www.caytrex.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E4334fD53B95dF63993c805066d693bb8CE5dFc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CayTreX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

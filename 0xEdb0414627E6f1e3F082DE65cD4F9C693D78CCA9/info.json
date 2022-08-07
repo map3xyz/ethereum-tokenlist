@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror TWTR Token.",
+      "verified": true
+    }
+  ],
+  "id": "6d671ee1-5871-4172-8190-ae662903397c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mTWTR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mTWTR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

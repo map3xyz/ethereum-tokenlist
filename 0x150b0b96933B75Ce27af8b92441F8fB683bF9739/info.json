@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x150b0b96933B75Ce27af8b92441F8fB683bF9739",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "79ad1667-09d3-4783-9b37-b4a69420fb74",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x150b0b96933B75Ce27af8b92441F8fB683bF9739",
+    "research": null,
+    "website": "http://dragonereum.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x150b0b96933B75Ce27af8b92441F8fB683bF9739/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dragonereum Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

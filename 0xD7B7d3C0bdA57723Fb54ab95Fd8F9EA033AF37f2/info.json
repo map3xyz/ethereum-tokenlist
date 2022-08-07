@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tethering real world GPU mining to crypto assets.",
+      "verified": true
+    }
+  ],
+  "id": "8346e85c-eeaf-4764-b139-686dcb132a60",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+    "research": null,
+    "website": "https://pylon.finance/",
+    "github": "https://github.com/pylonfinance/pylonfinance",
+    "whitepaper": "https://docs.google.com/document/d/1Ixec_ya46UR_LMlPzSCoosBSlNAxWC5ycnDV5LEw454/edit"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pylon Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYLON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

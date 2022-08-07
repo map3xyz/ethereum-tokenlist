@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x3071a55A0F7916d796B54A2d095Db85Df693d956",
+  "color": null,
+  "decimals": 13,
+  "description": [],
+  "id": "bb722246-88ac-46a5-95ee-dd5556aff0b0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3071a55A0F7916d796B54A2d095Db85Df693d956",
+    "research": null,
+    "website": "https://walleteum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3071a55A0F7916d796B54A2d095Db85Df693d956/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Walleteum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

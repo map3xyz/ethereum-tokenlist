@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2dAEE1AA61D60A252DC80564499A69802853583A",
+  "color": null,
+  "decimals": 4,
+  "description": [],
+  "id": "507337ca-78fc-47ec-9e61-f89e1fe2dfbf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2dAEE1AA61D60A252DC80564499A69802853583A",
+    "research": null,
+    "website": "http://authorship.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2dAEE1AA61D60A252DC80564499A69802853583A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Authorship Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

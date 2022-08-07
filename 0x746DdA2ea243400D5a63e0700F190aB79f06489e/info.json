@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x746DdA2ea243400D5a63e0700F190aB79f06489e",
+  "color": null,
+  "decimals": 7,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BOSAGORA aims to establish a decentralized, censorship-resistant blockchain platform where stakers (part of the congress) can decide on what projects to support through a democratic decision-making process.",
+      "verified": true
+    }
+  ],
+  "id": "f32cd5bb-de61-4c05-9ad4-d50e5166028b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x746DdA2ea243400D5a63e0700F190aB79f06489e",
+    "research": null,
+    "website": "https://bosagora.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x746DdA2ea243400D5a63e0700F190aB79f06489e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOSAGORA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

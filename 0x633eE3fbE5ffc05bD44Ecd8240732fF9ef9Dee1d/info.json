@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "ba0ccc8d-96aa-43fe-85b4-07bb6a5720d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
+    "research": null,
+    "website": "https://marketpeak.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MarketPeak",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEAK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An experiment in decentralized community building around a simple erc-20 token. ",
+      "verified": true
+    }
+  ],
+  "id": "5ac24e5a-638f-4ca8-96a0-be9122bb5a11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
+    "research": null,
+    "website": "https://dogeyinu.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dogey-Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DINU",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

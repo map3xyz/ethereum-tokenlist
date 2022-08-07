@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb140A429c342083E97Daf42d5D82634bd7Ade7d4",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WAX Governance Token",
+      "verified": true
+    }
+  ],
+  "id": "bb90d04d-0566-4d9c-84af-2525c52077bb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb140A429c342083E97Daf42d5D82634bd7Ade7d4",
+    "research": "https://wax.io/blog/tags/technical",
+    "website": "https://wax.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb140A429c342083E97Daf42d5D82634bd7Ade7d4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WAXG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAXG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

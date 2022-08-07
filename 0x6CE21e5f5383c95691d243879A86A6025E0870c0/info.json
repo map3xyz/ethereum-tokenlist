@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x6CE21e5f5383c95691d243879A86A6025E0870c0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "08b18d93-2f46-4069-8fda-d502fc0daecb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6CE21e5f5383c95691d243879A86A6025E0870c0",
+    "research": null,
+    "website": "http://hintchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6CE21e5f5383c95691d243879A86A6025E0870c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HINT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HINT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

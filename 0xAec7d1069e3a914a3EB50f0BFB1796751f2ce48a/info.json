@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "S4FE (S4F) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "4fe663c1-9c1e-4710-82a8-3b455f1961f4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
+    "research": null,
+    "website": "https://www.s4fe.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "S4FE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "S4F",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

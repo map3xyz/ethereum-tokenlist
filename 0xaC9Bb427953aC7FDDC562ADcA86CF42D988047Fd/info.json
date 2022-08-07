@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An experimental ERC-20 token designed to reach as many wallets as possible. Spread Scatter Token to earn STT with every token transaction. The more ETH addresses you infect with STT the more you can earn. A novel method of minting and token distribution.",
+      "verified": true
+    }
+  ],
+  "id": "44a466cb-1d5c-445f-af6f-7164ad0e6a5f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
+    "research": null,
+    "website": "https://scatter.cx/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Scatter.cx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

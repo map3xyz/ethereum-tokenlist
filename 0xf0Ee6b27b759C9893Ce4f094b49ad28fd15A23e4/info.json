@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Enigma builds and supports groundbreaking privacy-focused technologies and networks.",
+      "verified": true
+    }
+  ],
+  "id": "d2540f8e-b946-4d53-a946-cb97da2d0630",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+    "research": null,
+    "website": "https://enigma.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Enigma",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

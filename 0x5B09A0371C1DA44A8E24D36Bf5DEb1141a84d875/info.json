@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MadNetwork is a custom blockchain designed to authenticate and manage the identity of organizations, people, or assets in the digital world.",
+      "verified": true
+    }
+  ],
+  "id": "b8e3fa90-0dbf-4af5-9bbc-f2f8fa57c07a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+    "research": null,
+    "website": "http://madnetwork.com"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MadNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

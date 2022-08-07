@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa9241C6Bc2f536ddbedca8d95b83Af05988f6AFe",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We are a partner of QQQ, as our name suggests : PWQ = Partner With QQQ ",
+      "verified": true
+    }
+  ],
+  "id": "4d896862-7aee-45e5-963a-697ee8e6fcde",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa9241C6Bc2f536ddbedca8d95b83Af05988f6AFe",
+    "research": null,
+    "website": "http://pwq.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9241C6Bc2f536ddbedca8d95b83Af05988f6AFe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PWQ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PWQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

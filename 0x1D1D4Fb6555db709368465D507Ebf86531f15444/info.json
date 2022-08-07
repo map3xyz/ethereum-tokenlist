@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1D1D4Fb6555db709368465D507Ebf86531f15444",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Best Token (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "f33c1f62-b9c3-4539-bf7d-464b5224123f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1D1D4Fb6555db709368465D507Ebf86531f15444",
+    "research": null,
+    "website": "https://thebesttoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D1D4Fb6555db709368465D507Ebf86531f15444/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The Best Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

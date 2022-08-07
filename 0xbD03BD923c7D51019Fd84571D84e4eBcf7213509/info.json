@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xbD03BD923c7D51019Fd84571D84e4eBcf7213509",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rocket is a state of the art DeFi financial system that implements advanced token economics including token burn and staking into its fee structure.",
+      "verified": true
+    }
+  ],
+  "id": "6f15bd2c-10ca-429a-921d-637446626e4b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbD03BD923c7D51019Fd84571D84e4eBcf7213509",
+    "research": null,
+    "website": "https://rockettoken.net/",
+    "github": "https://github.com/XenoTrades/rockettoken",
+    "twitter": "https://twitter.com/RocketToken",
+    "telegram": "https://t.me/RocketToken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbD03BD923c7D51019Fd84571D84e4eBcf7213509/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rocket Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCKT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

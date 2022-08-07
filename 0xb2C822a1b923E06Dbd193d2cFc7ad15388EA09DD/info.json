@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "VAMP is native token for Vampire Protocol. VAMP gains value by rebasing and farming tokens & items. MANA Token - a token that grants a holder an enhanced rebase.",
+      "verified": true
+    }
+  ],
+  "id": "286da130-feb8-4b42-99c7-b77fca4f5fce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+    "research": null,
+    "website": "https://vampire.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vampire Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAMP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

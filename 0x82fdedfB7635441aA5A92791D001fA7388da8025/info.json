@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1bf77bb1-2663-45af-b4f5-05a0d152cc97",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x82fdedfB7635441aA5A92791D001fA7388da8025",
+    "research": null,
+    "website": "https://www.digitalticks.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82fdedfB7635441aA5A92791D001fA7388da8025/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DigitalTicks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

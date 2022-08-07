@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x56Af706584668690a500BC35C5499dD6104B96D1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "IQC Exchange. We are always making efforts to become the best and the most reliable trading broker in the world",
+      "verified": true
+    }
+  ],
+  "id": "b73aef8d-1cb9-4ea5-a8a8-385f15297692",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56Af706584668690a500BC35C5499dD6104B96D1",
+    "research": null,
+    "website": "https://iqcexchange.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56Af706584668690a500BC35C5499dD6104B96D1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IQC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IQC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

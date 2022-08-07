@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DAOventures.co DeFi robo-advisor and automated money manager.",
+      "verified": true
+    }
+  ],
+  "id": "85a87a67-8552-4f79-ac29-1f607ab8e768",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c",
+    "research": null,
+    "website": "https://www.daoventures.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DVGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DVG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

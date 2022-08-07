@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "eosDAC is being created and launched by BlockMaker Ltd. Once eosDAC is launched BlockMaker Ltd will not have any ownership or control over eosDAC, nor own any eosDAC tokens.",
+      "verified": true
+    }
+  ],
+  "id": "c6ddabd7-d797-4831-9192-8d848656357a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa",
+    "research": null,
+    "website": "https://eosdac.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "eosDAC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eosDAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F",
+  "color": null,
+  "decimals": 10,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Blockchain Mobile Network for decentralized application.",
+      "verified": true
+    }
+  ],
+  "id": "ad1ea65f-7391-4e07-94e6-25e116b01695",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F",
+    "research": null,
+    "website": "https://new.enecuum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Enecuum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

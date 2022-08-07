@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "254bbc76-f5df-414f-ad55-3166b8844c67",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
+    "research": null,
+    "website": "https://projectserum.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Serum (Portal from Solana)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRMso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

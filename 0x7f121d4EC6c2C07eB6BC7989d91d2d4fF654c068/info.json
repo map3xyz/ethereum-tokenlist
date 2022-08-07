@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoinMeet is a revolutionary multi-asset management social wallet. Based on cross-chain adaptor, COINMEET can fulfill deposit, transfer, payment and democratic listing a wide range of digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "cc37ef62-b724-4a97-bdfb-3f17d02b0b38",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
+    "research": null,
+    "website": "https://coinmeet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinMeet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

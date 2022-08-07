@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "59f58a3f-b38f-454d-a684-4c969d692bdf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5",
+    "research": null,
+    "website": "https://bgogo.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BGGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

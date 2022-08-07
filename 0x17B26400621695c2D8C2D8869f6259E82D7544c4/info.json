@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CCN is a company that provides smart contract development and auditing services to blockchain industries and individuals.",
+      "verified": true
+    }
+  ],
+  "id": "3aab03ac-816d-4ca8-bd5c-2de8e2e9ff24",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x17B26400621695c2D8C2D8869f6259E82D7544c4",
+    "research": null,
+    "website": "https://www.customcontract.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17B26400621695c2D8C2D8869f6259E82D7544c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CustomContractNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

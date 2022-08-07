@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1a76bfFD6D1FC1660e1d0E0552Fde51ddbB120CF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RST is a security token to represent ownership of the Realio.fund Ecosystem. Realio is an end-to-end platform for compliant issuance, p2p trading and life-cycle management of digital assets.",
+      "verified": true
+    }
+  ],
+  "id": "826fc63b-50f0-4ab6-af27-998fd5b050ca",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1a76bffd6d1fc1660e1d0e0552fde51ddbb120cf",
+    "research": null,
+    "website": "https://realio.fund"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a76bfFD6D1FC1660e1d0E0552Fde51ddbB120CF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Realio Security Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ultimate Hub and Defi App For Uniswap and DEX trading.",
+      "verified": true
+    }
+  ],
+  "id": "2fa511ff-9e43-49b8-a01b-29459e5eab75",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+    "research": null,
+    "website": "https://dextools.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfB7B4564402E5500dB5bB6d63Ae671302777C75a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEXTools",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

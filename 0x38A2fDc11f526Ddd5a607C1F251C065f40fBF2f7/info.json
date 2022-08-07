@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Digital identity and authentication protocols to power the next generation of DeFi apps.",
+      "verified": true
+    }
+  ],
+  "id": "dafe50af-7322-4a43-8b5d-a22cabb95673",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+    "research": null,
+    "website": "https://phoenixdao.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PhoenixDAO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

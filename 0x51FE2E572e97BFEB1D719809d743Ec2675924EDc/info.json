@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x51FE2E572e97BFEB1D719809d743Ec2675924EDc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "First Fully Influencer-Backed Multi-Chain Launchpad",
+      "verified": true
+    }
+  ],
+  "id": "a2d64d2b-aee7-4818-a545-c34ae64cc3d9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x51FE2E572e97BFEB1D719809d743Ec2675924EDc",
+    "research": null,
+    "website": "https://www.vlaunch.com",
+    "twitter": "https://twitter.com/vlaunchcom",
+    "telegram": "https://t.me/VLaunchCOMToken",
+    "telegramNews": "https://t.me/codenamevalerts",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vlaunch",
+    "coingecko": "https://coingecko.com/coins/vlaunch",
+    "whitepaper": "https://www.vlaunch.com/whitepaper",
+    "github": "https://github.com/vlaunchcom"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51FE2E572e97BFEB1D719809d743Ec2675924EDc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "VLaunch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VPAD",
+  "tags": [
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

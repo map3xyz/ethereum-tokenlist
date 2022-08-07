@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ed6f5992-55c2-477a-ae63-3a526e44882b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
+    "research": null,
+    "website": "https://ftx.com/tokens/BSVBEAR"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCe49c3c92b33a1653F34811a9d7e34502bF12B89/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Short Bitcoin SV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSVBEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

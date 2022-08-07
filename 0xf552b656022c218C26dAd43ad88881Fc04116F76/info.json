@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This is a social token listed on Roll.",
+      "verified": true
+    }
+  ],
+  "id": "5b03e7e0-eb84-47c6-a4af-bed3807cb3fc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf552b656022c218C26dAd43ad88881Fc04116F76",
+    "research": null,
+    "website": "https://app.tryroll.com/token/MORK"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf552b656022c218C26dAd43ad88881Fc04116F76/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Mork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

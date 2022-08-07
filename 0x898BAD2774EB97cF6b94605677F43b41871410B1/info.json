@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x898BAD2774EB97cF6b94605677F43b41871410B1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "vEth2 is the liquid representation of underlying staked Ether on SharedStake, which provides an additional yield on top traditional Eth2 staking.",
+      "verified": true
+    }
+  ],
+  "id": "cceab07c-7a5e-4934-a673-fa06de8120a5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x898BAD2774EB97cF6b94605677F43b41871410B1",
+    "research": null,
+    "website": "https://www.sharedstake.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x898BAD2774EB97cF6b94605677F43b41871410B1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "vEth2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vETH2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

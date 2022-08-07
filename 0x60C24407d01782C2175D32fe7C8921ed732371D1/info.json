@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LemoChain is a cross-application ecosystem for business data circulation, based on secure multi-party computation.",
+      "verified": true
+    }
+  ],
+  "id": "2871dd98-bfc6-44cd-af1f-caee3051a72a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x60C24407d01782C2175D32fe7C8921ed732371D1",
+    "research": null,
+    "website": "https://www.lemochain.com/#/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60C24407d01782C2175D32fe7C8921ed732371D1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lemo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEMO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

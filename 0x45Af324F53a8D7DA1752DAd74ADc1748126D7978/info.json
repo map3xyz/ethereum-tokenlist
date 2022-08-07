@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x45Af324F53a8D7DA1752DAd74ADc1748126D7978",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b0c690a6-fd29-48d4-a242-b143a66445a6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x45Af324F53a8D7DA1752DAd74ADc1748126D7978",
+    "research": null,
+    "website": "https://mytvchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45Af324F53a8D7DA1752DAd74ADc1748126D7978/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MyTV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYTV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

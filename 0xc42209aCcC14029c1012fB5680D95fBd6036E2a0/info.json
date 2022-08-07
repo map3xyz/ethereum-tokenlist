@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PayPie (PPP) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "84db42a2-34e9-4a3f-8c81-a34f0d033178",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+    "research": null,
+    "website": "https://www.paypie.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PayPie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

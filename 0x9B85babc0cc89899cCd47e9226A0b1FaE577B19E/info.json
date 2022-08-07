@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A stablecoin to bank the unbanked",
+      "verified": true
+    }
+  ],
+  "id": "395f2ebc-722c-4372-996b-ffdb91d72547",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E",
+    "research": null,
+    "website": "https://ppbank.eth.link",
+    "twitter": "https://twitter.com/PPBank_Official",
+    "telegram": "https://t.me/PPBcommunity",
+    "discord": "https://discord.com/invite/EwpWyGu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PPBToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

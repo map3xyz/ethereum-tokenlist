@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptopay is an online Bitcoin Wallet which offers greater functionality than simpler services for buying and selling bitcoins. You can use this page to learn more about Cryptopay’s features.",
+      "verified": true
+    }
+  ],
+  "id": "646850d9-6602-433b-9263-f4821b2c61a4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
+    "research": null,
+    "website": "https://cryptopay.me/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CPAY Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

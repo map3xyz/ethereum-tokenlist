@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x90D702f071d2af33032943137AD0aB4280705817",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFFS adopts a modular design. Modularity refers to the combination of various elements of the product to form a subsystem with specific functions. We combine these subsystem as a universal module with other modules to create a new system with multiple functions and performance.",
+      "verified": true
+    }
+  ],
+  "id": "d7ec1348-a40b-4bfc-a239-35cb8119c310",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x90D702f071d2af33032943137AD0aB4280705817",
+    "research": null,
+    "website": "https://yffs.finance/",
+    "github": "https://github.com/yffsfinance",
+    "twitter": "https://twitter.com/yffsfinance",
+    "telegram": "https://t.me/yffsfinance",
+    "medium": "https://medium.com/@yffs.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90D702f071d2af33032943137AD0aB4280705817/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "yffs.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFFS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

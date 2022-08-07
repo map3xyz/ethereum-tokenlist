@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Flame Token is the native currency of Sharesome, the first social discovery network for adult content creators and brands.",
+      "verified": true
+    }
+  ],
+  "id": "2e8b8584-7035-450b-b189-ecc84681b771",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f",
+    "research": null,
+    "website": "https://flametoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Flame Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

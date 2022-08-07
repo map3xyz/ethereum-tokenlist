@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0cbC9b02B8628AE08688b5cC8134dc09e36C443b",
+  "color": null,
+  "decimals": 5,
+  "description": [],
+  "id": "0b079580-d51e-4e54-a231-644e37d56f20",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0cbC9b02B8628AE08688b5cC8134dc09e36C443b",
+    "research": null,
+    "website": "http://tratok.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0cbC9b02B8628AE08688b5cC8134dc09e36C443b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tratok",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

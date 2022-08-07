@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "63b2d3be-2b98-4cee-b7a7-ac3834411993",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GiftToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

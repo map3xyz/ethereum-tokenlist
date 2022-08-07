@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cryptocurrency – Work on Modern Ideas.",
+      "verified": true
+    }
+  ],
+  "id": "78759c61-772f-486f-a6d2-18098e9e412f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6",
+    "research": null,
+    "website": "https://quratoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QURA GLOBAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QURA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "COIN is a social token created by Coin Artist, a collaborative governance token for the Coin Artist ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "f0359c02-0932-4694-b9b4-e9c8d9ba4b8b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+    "research": null,
+    "website": "https://medium.com/@coin_artist_17801"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coin Artist",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

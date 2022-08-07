@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Everything you always wanted to know, at one click: Make your own strategies, anticipate the market dumps, search for big spreads, follow and copy the biggest gainer wallets and much more...",
+      "verified": true
+    }
+  ],
+  "id": "b26b3256-2253-44c5-8c7a-1dcab818eb21",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E",
+    "research": null,
+    "website": "https://idextools.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IdexTools",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDXT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

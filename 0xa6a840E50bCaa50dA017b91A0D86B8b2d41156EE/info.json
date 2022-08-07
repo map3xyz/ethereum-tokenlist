@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EKO is a blockchain based system that provides verified education, skill, and work experience information.",
+      "verified": true
+    }
+  ],
+  "id": "ea4ea368-8b41-41ba-b197-85700459142c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
+    "research": null,
+    "website": "https://echolink.info"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EchoLink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EKO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

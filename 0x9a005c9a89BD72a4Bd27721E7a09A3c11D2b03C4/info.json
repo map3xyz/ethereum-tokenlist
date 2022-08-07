@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e4c8adf8-6703-49ee-84d2-c52b12982b6c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+    "research": null,
+    "website": "https://coinstarter.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StarterCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

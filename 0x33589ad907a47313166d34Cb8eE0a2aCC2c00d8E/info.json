@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x33589ad907a47313166d34Cb8eE0a2aCC2c00d8E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Defi And Banks Merge Together​",
+      "verified": true
+    }
+  ],
+  "id": "89dd4fe8-f8e2-4a54-bb8e-cc3be019fd48",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x33589ad907a47313166d34Cb8eE0a2aCC2c00d8E",
+    "research": null,
+    "website": "https://backero.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33589ad907a47313166d34Cb8eE0a2aCC2c00d8E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Backero",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BKO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "This has been migrated over to a new contract: 0xec0d77a58528a218cbf41fa6e1585c8d7a085868",
+      "verified": true
+    }
+  ],
+  "id": "999600eb-2747-4836-9619-0a6a8f163db3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1",
+    "research": null,
+    "website": "https://ichi.farm"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "oneETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

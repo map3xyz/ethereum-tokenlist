@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x179E31FB25E433441a2839389A7b8EC9c4654b7B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hybrid Digital Assets Trading Platform",
+      "verified": true
+    }
+  ],
+  "id": "d6cac3a6-5f58-495d-a1d6-35cdcac8c7e0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x179E31FB25E433441a2839389A7b8EC9c4654b7B",
+    "research": null,
+    "website": "https://synchrobit.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x179E31FB25E433441a2839389A7b8EC9c4654b7B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SynchroBitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

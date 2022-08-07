@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4eC2eFb9cBd374786A03261E46ffce1a67756f3B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fec48d10-ea8d-40b4-ab84-33ab0f039b89",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4eC2eFb9cBd374786A03261E46ffce1a67756f3B",
+    "research": null,
+    "website": "https://deflacoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4eC2eFb9cBd374786A03261E46ffce1a67756f3B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Deflacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEFL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

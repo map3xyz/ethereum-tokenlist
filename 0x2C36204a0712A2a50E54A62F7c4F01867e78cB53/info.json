@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2C36204a0712A2a50E54A62F7c4F01867e78cB53",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Taklimakan Network describes itself as an AI and blockchain-based social network platform for crypto-enthusiasts and ordinary users.",
+      "verified": true
+    }
+  ],
+  "id": "3784d5b5-a317-4a31-a9ab-7b700de1aa6f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53",
+    "research": null,
+    "website": "https://taklimakan.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Taklimakan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

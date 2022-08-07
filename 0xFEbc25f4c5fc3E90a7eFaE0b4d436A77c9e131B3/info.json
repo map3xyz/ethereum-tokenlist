@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CEZO is a decentralized OS infrastructure to enable full ecosystem required by complex computations of DApps.",
+      "verified": true
+    }
+  ],
+  "id": "ce1d6669-c0f6-4e25-8ed5-9efb909258cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3",
+    "research": null,
+    "website": "https://cezo.io/",
+    "github": "https://github.com/cezo-os",
+    "twitter": "https://twitter.com/cezo_io",
+    "telegram": "https://t.me/cezo_io",
+    "reddit": "https://reddit.com/r/cezo/",
+    "medium": "https://medium.com/@cezo_io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cezo OS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

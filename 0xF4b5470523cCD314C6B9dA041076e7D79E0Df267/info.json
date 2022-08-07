@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BlockBank is powered by our platform's utility token called BBANK. Users are able to gain access to our credit card rewards program, use our robo advisor, cefi and defi wallet, increase their APY % and earn interest on their tokens by staking BBANK in their BlockBank cryptocurrency wallet.",
+      "verified": true
+    }
+  ],
+  "id": "d66fc4f0-7855-4d9e-99ee-b18a8f19f50b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+    "research": null,
+    "website": "https://blockbank.ai",
+    "github": "https://github.com/BlockBank-team/",
+    "twitter": "https://twitter.com/BLOCKBANKapp?s=09",
+    "reddit": "https://reddit.com/u/BlockBankAi?utm_medium=android_app&utm_source=share"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BlockBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBANK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

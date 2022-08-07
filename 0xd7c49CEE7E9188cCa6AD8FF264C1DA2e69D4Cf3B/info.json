@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.",
+      "verified": true
+    }
+  ],
+  "id": "12af0818-8693-4d02-b6be-c0a323ef323f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+    "research": null,
+    "website": "https://nexusmutual.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NXM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NXM",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

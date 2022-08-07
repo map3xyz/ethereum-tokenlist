@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d86455f5-c8c5-45ed-9512-f6ff3c460607",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+    "research": null,
+    "website": "https://tiesdb.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TieToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

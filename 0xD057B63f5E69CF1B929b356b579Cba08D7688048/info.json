@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xD057B63f5E69CF1B929b356b579Cba08D7688048",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CoW Protocol lets you swap assets MEV protected at the best exchange rate by leveraging its batch settlement layer built on top of AMMs and DEX Aggregators.",
+      "verified": true
+    }
+  ],
+  "id": "6a3f2339-b5ea-460f-981e-60623d593906",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD057B63f5E69CF1B929b356b579Cba08D7688048",
+    "research": null,
+    "website": "https://cow.fi/",
+    "github": "https://github.com/gnosis/cowswap",
+    "twitter": "https://twitter.com/MEVprotection",
+    "blog": "https://cow.fi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD057B63f5E69CF1B929b356b579Cba08D7688048/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoW Protocol Virtual Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vCOW",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

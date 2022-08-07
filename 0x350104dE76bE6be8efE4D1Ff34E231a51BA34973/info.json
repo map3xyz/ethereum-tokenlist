@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x350104dE76bE6be8efE4D1Ff34E231a51BA34973",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8da1d35b-65fc-4320-a80c-ec53ce64e750",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x350104dE76bE6be8efE4D1Ff34E231a51BA34973",
+    "research": null,
+    "website": "theworldbank.group"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x350104dE76bE6be8efE4D1Ff34E231a51BA34973/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "World Bank token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WBT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

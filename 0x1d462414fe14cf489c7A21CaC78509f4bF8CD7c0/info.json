@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "3b718af7-ba06-4b44-b27d-c6b8f626aaa6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+    "research": null,
+    "website": "https://canya.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CanYaCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

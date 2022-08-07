@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Tezos is a 1:1 equivalent of Tezos on the Ethereum network",
+      "verified": true
+    }
+  ],
+  "id": "3e5350f8-80c9-4be3-98bb-c40d618ba185",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74",
+    "research": null,
+    "website": "https://www.wrapped.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WXTZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WXTZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

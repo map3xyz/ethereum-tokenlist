@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x595643D83B35df38E29058976C04000AcFA31570",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The official token of Order of the Black Rose",
+      "verified": true
+    }
+  ],
+  "id": "96b5d2ad-3ebd-489f-8b9d-0363429f97e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x595643D83B35df38E29058976C04000AcFA31570",
+    "research": null,
+    "website": "https://nftobr.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x595643D83B35df38E29058976C04000AcFA31570/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Order of the Black Rose",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6f20a2a1-f347-4425-a2b7-66b0229fabc0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
+    "research": null,
+    "website": "http://hms.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hms Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HMC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

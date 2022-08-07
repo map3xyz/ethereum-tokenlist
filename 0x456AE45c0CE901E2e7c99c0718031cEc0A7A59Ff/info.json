@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a2472b33-7150-484e-8f4a-afd790643ef3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+    "research": null,
+    "website": "https://www.vision-network.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vision Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

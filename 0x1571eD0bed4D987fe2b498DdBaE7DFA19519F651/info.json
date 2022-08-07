@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "iFARM automatically earns interest as Harvest Finance farms the newest DeFi protocols, optimizing yields using the latest farming techniques.",
+      "verified": true
+    }
+  ],
+  "id": "ce188341-1855-4cf8-aaf1-3055765e5607",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651",
+    "research": null,
+    "website": "https://harvest.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Harvest Interest Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iFARM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

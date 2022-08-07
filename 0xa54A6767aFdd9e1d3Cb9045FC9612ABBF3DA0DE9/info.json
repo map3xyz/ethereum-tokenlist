@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa54A6767aFdd9e1d3Cb9045FC9612ABBF3DA0DE9",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YOLK is a network of independent nodes that provide a decentralized encrypted databaser service.",
+      "verified": true
+    }
+  ],
+  "id": "f0a2d006-2cf1-401b-ba87-1e57a6b097da",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa54A6767aFdd9e1d3Cb9045FC9612ABBF3DA0DE9",
+    "research": null,
+    "website": "https://yolkfinance.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa54A6767aFdd9e1d3Cb9045FC9612ABBF3DA0DE9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yolk Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOLK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

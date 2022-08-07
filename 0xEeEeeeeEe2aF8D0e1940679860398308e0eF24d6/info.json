@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ethverse is an open, interactive, and decentralized virtual universe built using the Minecraft gaming engine and Ethereum blockchain. ",
+      "verified": true
+    }
+  ],
+  "id": "424d9f39-d1bd-46b4-92c6-1ec442943ab0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+    "research": null,
+    "website": "https://ethverse.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethverse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

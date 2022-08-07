@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "133b58b2-de5d-4762-bdde-572cfcc3aeae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+    "research": null,
+    "website": "https://qiibee.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "qiibeeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

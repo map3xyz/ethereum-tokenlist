@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Datamine Crypto uses smart contracts to redefine DeFi by creating on-chain Supply and Demand equilibrium. FLUX tokens are generated every 15 seconds to be burned by Datamine (DAM) token holders.",
+      "verified": true
+    }
+  ],
+  "id": "52f25c3f-9f64-436e-8803-55738a83d363",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+    "research": null,
+    "website": "https://datamine.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF80D589b3Dbe130c270a69F1a69D050f268786Df/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Datamine",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

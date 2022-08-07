@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x44E2ca91ceA1147f1B503e669f06CD11FB0C5490",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "edd48d97-3d52-4f59-aa04-4ac28d7a392b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x44E2ca91ceA1147f1B503e669f06CD11FB0C5490",
+    "research": null,
+    "website": "https://coinmetro.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44E2ca91ceA1147f1B503e669f06CD11FB0C5490/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinMetro Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

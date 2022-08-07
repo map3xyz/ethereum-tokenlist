@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7734fe70-79ee-487f-a1e6-3e6bcde13a34",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+    "research": null,
+    "website": "https://www.crystaltoken.co"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CrystalToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

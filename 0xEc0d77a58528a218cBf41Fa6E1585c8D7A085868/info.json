@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneETH is the stablecoin created for the wETH community. Backed by both a treasury of wETH and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the wETH treasury.",
+      "verified": true
+    }
+  ],
+  "id": "44c76d77-830c-4bf0-8b70-83d2c10275fd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868",
+    "research": null,
+    "website": "https://ichi.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "oneETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

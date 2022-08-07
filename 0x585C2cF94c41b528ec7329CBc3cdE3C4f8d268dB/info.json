@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x585C2cF94c41b528ec7329CBc3cdE3C4f8d268dB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "082776e6-7864-4789-a0dd-bf39df84c270",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x585C2cF94c41b528ec7329CBc3cdE3C4f8d268dB",
+    "research": null,
+    "website": "https://www.tokensets.com/set/ethlovol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x585C2cF94c41b528ec7329CBc3cdE3C4f8d268dB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "STETHDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STETHDai",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

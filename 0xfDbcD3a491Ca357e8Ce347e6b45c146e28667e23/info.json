@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ERC20 version of the e-Money CHF stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "706f1d00-7ebb-4d79-a663-d1698a13eb25",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23",
+    "research": null,
+    "website": "https://e-money.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "e-Money CHF stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECHF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

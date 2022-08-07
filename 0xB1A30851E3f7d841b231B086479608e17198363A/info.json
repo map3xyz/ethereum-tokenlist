@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB1A30851E3f7d841b231B086479608e17198363A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Homeros is a blockchain-based platform made exclusively for the gaming community.",
+      "verified": true
+    }
+  ],
+  "id": "a4fda357-72c8-472a-a83e-8798d75c78e3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB1A30851E3f7d841b231B086479608e17198363A",
+    "research": null,
+    "website": "https://homerosnet.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1A30851E3f7d841b231B086479608e17198363A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HOMEROS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HMR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

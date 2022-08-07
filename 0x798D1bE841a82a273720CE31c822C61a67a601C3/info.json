@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DIGG is the first elastic supply rebase token where its price is pegged to Bitcoin’s price. It is one of the products released by Badger DAO.",
+      "verified": true
+    }
+  ],
+  "id": "90ce551c-a246-40aa-b8a6-e5c982f9cda8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x798d1be841a82a273720ce31c822c61a67a601c3",
+    "research": null,
+    "website": "https://badger.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Digg (DIGG)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIGG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

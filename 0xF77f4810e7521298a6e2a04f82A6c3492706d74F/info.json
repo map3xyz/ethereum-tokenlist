@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xF77f4810e7521298a6e2a04f82A6c3492706d74F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a1040db1-9154-4120-98cd-41d7b7718446",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF77f4810e7521298a6e2a04f82A6c3492706d74F",
+    "research": null,
+    "website": "https://coinmeet.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF77f4810e7521298a6e2a04f82A6c3492706d74F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinMeet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

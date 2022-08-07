@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x02e3083a51E8632E571fBd6A62aC396C10c653Ba",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "e39a5d42-2c53-499a-8315-1b1deb2d9043",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x02e3083a51E8632E571fBd6A62aC396C10c653Ba",
+    "research": null,
+    "website": "http://www.ep-coin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02e3083a51E8632E571fBd6A62aC396C10c653Ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EplusCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPLUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

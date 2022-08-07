@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZooToken will be the hub for these Animal Coins key-values.",
+      "verified": true
+    }
+  ],
+  "id": "594555dd-f9d8-442d-8643-94f9ed90c044",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1341A2257fa7b770420Ef70616f888056f90926c",
+    "research": null,
+    "website": "https://zootoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1341A2257fa7b770420Ef70616f888056f90926c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Zoo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZOOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

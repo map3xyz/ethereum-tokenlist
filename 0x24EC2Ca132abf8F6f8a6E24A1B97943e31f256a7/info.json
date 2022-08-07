@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x24EC2Ca132abf8F6f8a6E24A1B97943e31f256a7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "dotmoovs is the first crypto mobile worldwide competitive environment. At dotmoovs you can compete with others around the world!",
+      "verified": true
+    }
+  ],
+  "id": "9fbba5cc-c445-4f98-ac46-9bac80bf4e3f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24EC2Ca132abf8F6f8a6E24A1B97943e31f256a7",
+    "research": null,
+    "website": "https://www.dotmoovs.com/",
+    "coingecko": "https://coingecko.com/en/coins/dotmoovs",
+    "twitter": "https://twitter.com/dotmoovs",
+    "telegram": "https://t.me/dotmoovs"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24EC2Ca132abf8F6f8a6E24A1B97943e31f256a7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dotmoovs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOOV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

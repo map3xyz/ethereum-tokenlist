@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NSRT token works in real sectors of the economy at the global level with the support of state and supranational BRICS structures.",
+      "verified": true
+    }
+  ],
+  "id": "4f960cb9-b6aa-4df8-a5bd-b8227d453089",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+    "research": null,
+    "website": "https://newsilkroadbrics.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfF340f03E226B669c873516755a6B88a45b0B2aC/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NSRT BRICS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NSRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

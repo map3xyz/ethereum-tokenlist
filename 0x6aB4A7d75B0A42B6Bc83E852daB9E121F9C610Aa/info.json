@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elitium provides a luxury lifestyle platform for its clientele using a sustainable cryptocurrency solution.",
+      "verified": true
+    }
+  ],
+  "id": "686fcab0-303e-41de-bbef-6dff3e54dd62",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+    "research": null,
+    "website": "https://www.elitium.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Elitium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

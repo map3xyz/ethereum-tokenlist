@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9D86b1B2554ec410ecCFfBf111A6994910111340",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Build using the most advanced ecosystem of developer tools for decentralized technologies.",
+      "verified": true
+    }
+  ],
+  "id": "432624d5-0ee6-462f-8239-9f59f6deb952",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9D86b1B2554ec410ecCFfBf111A6994910111340",
+    "research": null,
+    "website": "https://www.openfuture.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D86b1B2554ec410ecCFfBf111A6994910111340/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OPEN Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPENC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

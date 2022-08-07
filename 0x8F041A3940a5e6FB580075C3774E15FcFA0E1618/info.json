@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneWING is the stablecoin created for the Wing Finance community. Backed by both a treasury of WING and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the WING treasury.",
+      "verified": true
+    }
+  ],
+  "id": "a5872381-7f13-4817-8c6b-bfb4f0a620d6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+    "research": null,
+    "website": "https://ichi.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "oneWING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneWING",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

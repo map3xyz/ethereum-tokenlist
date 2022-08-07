@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Student Coin is the first crypto platform that allows users to easily design, create, and manage personal, start-up, NFT, and DeFi tokens.",
+      "verified": true
+    }
+  ],
+  "id": "b0866089-f4de-456c-92ae-e5592a6be9f2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x15b543e986b8c34074dfc9901136d9355a537e7e",
+    "research": null,
+    "website": "https://www.studentcoin.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15B543e986b8c34074DFc9901136d9355a537e7E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Student Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

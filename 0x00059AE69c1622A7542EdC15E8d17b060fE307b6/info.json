@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "afef4ba2-3044-4f78-9bd8-8d9db52e83ce",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
+    "research": null,
+    "website": "http://www.amond.cc/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00059AE69c1622A7542EdC15E8d17b060fE307b6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AmonD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

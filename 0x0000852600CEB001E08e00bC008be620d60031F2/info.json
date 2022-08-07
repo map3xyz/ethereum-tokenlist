@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0000852600CEB001E08e00bC008be620d60031F2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokenized version of the HKD",
+      "verified": true
+    }
+  ],
+  "id": "98b9d6f9-777a-4482-b11f-5406ff9eb9c3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0000852600CEB001E08e00bC008be620d60031F2",
+    "research": null,
+    "website": "https://www.trusttoken.com/truehkd"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0000852600CEB001E08e00bC008be620d60031F2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueHKD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THKD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

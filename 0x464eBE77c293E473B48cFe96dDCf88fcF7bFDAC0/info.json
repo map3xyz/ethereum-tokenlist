@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly",
+      "verified": true
+    }
+  ],
+  "id": "691a7c42-c52c-40f7-8dab-65487b264d34",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+    "research": null,
+    "website": "https://kryll.io/",
+    "github": "https://github.com/Cryptense/",
+    "twitter": "https://twitter.com/kryll_io",
+    "telegram": "https://t.me/kryll_io",
+    "facebook": "https://facebook.com/kryll.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kryll/",
+    "coingecko": "https://coingecko.com/en/coins/kryll/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kryll.io Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

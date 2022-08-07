@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Raiden Network Token (RDN) supports a host of use cases such as micropayments, M2M Markets, API Access, and Decentralized Exchanges.",
+      "verified": true
+    }
+  ],
+  "id": "76fa056b-919d-4025-9200-f073ee578bba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+    "research": null,
+    "website": "https://raiden.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Raiden Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

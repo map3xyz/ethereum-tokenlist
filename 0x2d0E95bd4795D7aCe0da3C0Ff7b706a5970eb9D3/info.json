@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "All Sports (SOC) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "c661c3dd-d6cc-4dfd-9a08-59233fa7fc29",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
+    "research": null,
+    "website": "https://www.allsportschain.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "All Sports Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

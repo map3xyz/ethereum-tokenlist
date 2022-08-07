@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HBTC is a Bitcoin ERC20 token on Ethereum blockchain launched by Huobi Global, ensuring that users can use HBTC and BTC for 1:1 exchange at Huobi Global at any time.",
+      "verified": true
+    }
+  ],
+  "id": "7c1f972c-dadc-4028-9afe-bfe7dfaf797b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0316EB71485b0Ab14103307bf65a021042c6d380",
+    "research": null,
+    "website": "https://hbtc.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0316EB71485b0Ab14103307bf65a021042c6d380/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Huobi BTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gimmer offers easy-to-use advanced algorithmic trading bots that require no programming skills, no previous trading experience and no in-depth knowledge of cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "1046d569-5566-41d2-92ba-380f57c016a1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
+    "research": null,
+    "website": "https://gimmer.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GimmerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

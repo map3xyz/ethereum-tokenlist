@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x18A908eD663823C908A900b934D6249d4befbE44",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Strike Finance collateral cryptocurrency",
+      "verified": true
+    }
+  ],
+  "id": "67301905-9a12-4e55-909e-bde3b1eb888e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x18A908eD663823C908A900b934D6249d4befbE44",
+    "research": null,
+    "website": "https://strike.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18A908eD663823C908A900b934D6249d4befbE44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Strike BUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

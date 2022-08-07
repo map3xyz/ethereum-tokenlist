@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Morpher rebuilds financial markets from the ground up on the Ethereum Blockchain. All in the pursuit of the perfect trading experience. With Zero Fees, Perfectly Liquid Markets, No Counterparties, Verifiable and Transparent Execution all Secured with Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "id": "1fe9197f-8a7c-4b6c-84d7-80edafc7a2eb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38",
+    "research": null,
+    "website": "https://morpher.com",
+    "twitter": "https://twitter.com/morpher_io",
+    "telegram": "https://t.me/morpher_io",
+    "medium": "https://medium.com/morpher",
+    "whitepaper": "https://www.morpher.com/docs/morpher_whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Morpher Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

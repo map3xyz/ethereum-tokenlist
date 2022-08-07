@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Powering real economy in the gaming world. Purchase virtual items and pool prize competition with cryptocurrencies.",
+      "verified": true
+    }
+  ],
+  "id": "a29560ed-8c46-4e2d-8568-0a326c7acad4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+    "research": null,
+    "website": "https://its.playgame.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlayGame",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

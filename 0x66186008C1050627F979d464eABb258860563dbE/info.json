@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x66186008C1050627F979d464eABb258860563dbE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Mutual DAO System is a Ethereum based, decentralized, open-source mutual insurance marketplace.",
+      "verified": true
+    }
+  ],
+  "id": "00147a40-2c91-4e24-86e3-c11c537b3a55",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE",
+    "research": null,
+    "website": "http://www.medishares.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66186008C1050627F979d464eABb258860563dbE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MediShares Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

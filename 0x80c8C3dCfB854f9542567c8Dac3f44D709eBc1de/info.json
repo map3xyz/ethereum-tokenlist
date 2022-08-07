@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The SpaceSwap project aims to become the first and only one-stop-station for major DeFi protocols. It will provide users with a fair and profitable earnings sharing system, topped by MilkyWay (MILK2) coin rewards and MilkShake (SHAKE), to boost your earnings.",
+      "verified": true
+    }
+  ],
+  "id": "3a775f87-e57d-46b4-bdd4-1555bca78950",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
+    "research": null,
+    "website": "https://spaceswap.app/",
+    "github": "https://github.com/spaceswap/spaceswap",
+    "twitter": "https://twitter.com/spaceswapdefi",
+    "telegram": "https://t.me/spaceswap",
+    "discord": "https://discord.com/invite/r6RymJj"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MilkyWayToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MILK2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

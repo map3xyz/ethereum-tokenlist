@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x7B68D272EDa2185ea2F9283F241b1c44C51e712A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OKSCHAIN - is a decentralized financial system for a wide range of consumers, with different interests and requests. The new technology will make handling money easier and more diverse, as well as open the prospects for safe investment to everyone.",
+      "verified": true
+    }
+  ],
+  "id": "245f4745-d8af-4e24-a6b8-576e5c6497cf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7B68D272EDa2185ea2F9283F241b1c44C51e712A",
+    "research": null,
+    "website": "https://okschain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7B68D272EDa2185ea2F9283F241b1c44C51e712A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Okschain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OKS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

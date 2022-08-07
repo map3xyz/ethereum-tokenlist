@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeFi Omega comprises an elite network of individuals in decentralized finance, with common goals, values, and objectives. DeFi Omega is a global network, a DeFi thinktank, and a group policymakers with the goal of shaping future policy in decentralized finance.",
+      "verified": true
+    }
+  ],
+  "id": "c3d0f3ce-189a-46a1-b216-6face314ae0f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff",
+    "research": null,
+    "website": "https://defiomega.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeFi Omega",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFIO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

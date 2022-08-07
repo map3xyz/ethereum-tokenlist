@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x8D8129963291740dDDd917ab01af18c7aed4BA58",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MineBee is developing a turnkey solution that will address the mining industries multi-faceted problems through MineBee solution, MineBee contract, and MineBee open market.",
+      "verified": true
+    }
+  ],
+  "id": "ca2525b4-d68d-4cac-ad88-8adc010da57d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8D8129963291740dDDd917ab01af18c7aed4BA58",
+    "research": null,
+    "website": "https://minebee.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8D8129963291740dDDd917ab01af18c7aed4BA58/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MineBee",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6768063279E2B185Dc0c972b97f11f231d0B45ad",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A trustable farming DeFi project",
+      "verified": true
+    }
+  ],
+  "id": "80150934-b9fd-46cc-8ba6-71666e7d6df7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6768063279E2B185Dc0c972b97f11f231d0B45ad",
+    "research": null,
+    "website": "https://yield-farming.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6768063279E2B185Dc0c972b97f11f231d0B45ad/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YIELD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YIELD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

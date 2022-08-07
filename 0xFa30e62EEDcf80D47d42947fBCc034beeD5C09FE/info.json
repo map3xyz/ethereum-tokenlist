@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LOVE EARTH Coin, is a charity token, aiming to build a new charity model in the age of Web 3.0",
+      "verified": true
+    }
+  ],
+  "id": "0d98d5ad-1f90-45cb-bcc2-f5c536735341",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE",
+    "research": null,
+    "website": "https://www.loveearth.info",
+    "telegram": "https://t.me/loveearthcoin",
+    "twitter": "https://twitter.com/LoveEarthCoin",
+    "whitepaper": "https://loveearth.info/#/whitepaper",
+    "docs": "https://bit.ly/3epGqdu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LOVEEARTH COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

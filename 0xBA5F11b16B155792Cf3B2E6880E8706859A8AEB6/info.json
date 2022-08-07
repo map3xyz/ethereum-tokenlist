@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "215f4f67-1746-4f46-8dd9-47799175fb54",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+    "research": null,
+    "website": "https://aeron.aero/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aeron",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

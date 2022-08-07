@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Obtain a smooth access to the full consistent chronology of your own votes and activities, as well as the votes and activities of other CrowdWiz-ers.",
+      "verified": true
+    }
+  ],
+  "id": "7cada112-af02-45be-a031-1bc2c88ef51b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+    "research": null,
+    "website": "https://crowdwiz.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CrowdWizToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Use the blockchain as a global platform to verify any data, file, or business process. Developer tools & API to anchor data in the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "3713a2df-8567-4d6f-b4ec-8f28eeb3656b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+    "research": null,
+    "website": "https://tierion.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tierion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

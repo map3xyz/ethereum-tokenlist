@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A full featured, decentralized futures exchange without compromise.",
+      "verified": true
+    }
+  ],
+  "id": "5037c7f4-3d3d-4441-b9c6-3b31852a304f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
+    "research": null,
+    "website": "https://www.leverj.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F4CA92660Efad97a9a70CB0fe969c755439772C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Leverj",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

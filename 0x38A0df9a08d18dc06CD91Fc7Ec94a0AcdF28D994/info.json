@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "HTX describes itself as a side-chain, relay matching node network for asset settlement and trading matching based on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "6884d18d-4d8c-4a8a-b598-74496f1fe80e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
+    "research": null,
+    "website": "https://huptex.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Huptex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

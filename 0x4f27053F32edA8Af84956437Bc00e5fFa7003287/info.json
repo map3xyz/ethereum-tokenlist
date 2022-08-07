@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4f27053F32edA8Af84956437Bc00e5fFa7003287",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "470745c5-d4cf-4b66-8894-22fc28417593",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4f27053F32edA8Af84956437Bc00e5fFa7003287",
+    "research": null,
+    "website": "https://ico.thrivelabs.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f27053F32edA8Af84956437Bc00e5fFa7003287/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ThriveToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THRT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

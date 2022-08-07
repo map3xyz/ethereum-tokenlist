@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross-chain liquidity mirror protocol",
+      "verified": true
+    }
+  ],
+  "id": "3e18fc37-3fc4-45c0-8e83-51ee317e7b33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "research": null,
+    "website": "https://pontoon.fi/",
+    "twitter": "https://twitter.com/pontoonfi/",
+    "telegram": "https://t.me/pontoon_fi",
+    "medium": "https://pontoonfi.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PontoonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

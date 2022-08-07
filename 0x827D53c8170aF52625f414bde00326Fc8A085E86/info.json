@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x827D53c8170aF52625f414bde00326Fc8A085E86",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BXY is an exchange utility token that powers the Beaxy Exchange platform. It can be used to increase user levels, reduce fees, and access new tools & features.",
+      "verified": true
+    }
+  ],
+  "id": "96b3a17d-699c-4cc7-b050-bbbe7e833549",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x827D53c8170aF52625f414bde00326Fc8A085E86",
+    "research": null,
+    "website": "https://beaxy.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x827D53c8170aF52625f414bde00326Fc8A085E86/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Beaxy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BXY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

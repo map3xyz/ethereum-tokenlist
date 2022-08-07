@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4F22310C27eF39FEAA4A756027896DC382F0b5E2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7e226bac-e072-4073-81fb-b22f2753d592",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4F22310C27eF39FEAA4A756027896DC382F0b5E2",
+    "research": null,
+    "website": "https://www.spinprotocol.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4F22310C27eF39FEAA4A756027896DC382F0b5E2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SPIN Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPIN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

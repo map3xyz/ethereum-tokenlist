@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bondly is an interoperable, transparent and portable swap protocol designed to revolutionize traditional escrow methods and make everyone into their own digital marketplace.",
+      "verified": true
+    }
+  ],
+  "id": "95985dea-99d2-40a3-86c5-853ab72cc504",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+    "research": null,
+    "website": "https://www.bondly.finance",
+    "twitter": "https://twitter.com/BondlyFinance",
+    "telegram": "https://t.me/bondlyfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bondly",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BONDLY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

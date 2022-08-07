@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x11Ded8aDdDa881F700FBDa2Fe2030656289322a3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AfterShock is a deflationary staking token with no technical knowledge needed for staking. Holding coins in an ERC-20 wallet is all that is required to participate in staking.",
+      "verified": true
+    }
+  ],
+  "id": "d7edeebf-e3ca-4934-9fd4-365fe41006f2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11Ded8aDdDa881F700FBDa2Fe2030656289322a3",
+    "research": null,
+    "website": "https://aftershock.vip/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11Ded8aDdDa881F700FBDa2Fe2030656289322a3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AfterShock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHOCK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

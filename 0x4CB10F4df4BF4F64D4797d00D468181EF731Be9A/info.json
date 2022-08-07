@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4CB10F4df4BF4F64D4797d00D468181EF731Be9A",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "d5119035-10f4-4940-bea9-6d884d48c416",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4CB10F4df4BF4F64D4797d00D468181EF731Be9A",
+    "research": null,
+    "website": "http://dimensionchain.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4CB10F4df4BF4F64D4797d00D468181EF731Be9A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DimensionToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

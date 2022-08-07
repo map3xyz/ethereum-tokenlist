@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x2e6539edc3b76f1E21B71d214527FAbA875F70F3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Yearn Finance Dot platform is powerful enough from a scalability, interoperability, developability and governance perspective to help make the vision of Web3 a reality that aims to get more value for an investment.",
+      "verified": true
+    }
+  ],
+  "id": "4a340d98-92fd-4c22-a4cb-486015062fa6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2e6539edc3b76f1E21B71d214527FAbA875F70F3",
+    "research": null,
+    "website": "https://yfdot.finance",
+    "github": "https://github.com/YFDOT",
+    "twitter": "https://twitter.com/Yfdotfinance",
+    "telegram": "https://t.me/YFDOT_Finance",
+    "medium": "https://medium.com/@YFdotFinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e6539edc3b76f1E21B71d214527FAbA875F70F3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yearn Finance Dot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFDOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

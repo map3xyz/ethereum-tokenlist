@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Tokoin's mission is to facilitate trustworthy data exchange in a specified platform so that SMEs will be able to meet their needs for financing and business services without intermediaries.",
+      "verified": true
+    }
+  ],
+  "id": "d04cd4a5-f514-42d9-865d-a43f50034fbe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
+    "research": null,
+    "website": "https://tokoin.io/",
+    "github": "https://github.com/tokoinofficial",
+    "twitter": "https://twitter.com/Tokoin",
+    "telegram": "https://t.me/tokoinglobal",
+    "facebook": "https://facebook.com/tokoinindonesia",
+    "whitepaper": "https://www.tokoin.io/whitepaper/Tokoin-Whitepaper.pdf?id=ebfd311b2b26bf1a6201"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TOKO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOKO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

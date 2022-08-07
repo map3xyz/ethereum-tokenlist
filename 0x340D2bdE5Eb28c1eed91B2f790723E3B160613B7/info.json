@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BLOCKv provides a platform enabling the creation of Vatoms, a digital asset class (NFT) that bridges the gap between physical & digital worlds, creating new levels of human engagement.",
+      "verified": true
+    }
+  ],
+  "id": "0a52fa1b-5dc7-406e-ab16-8c45e4891739",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+    "research": null,
+    "website": "https://blockv.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BLOCKv (VEE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

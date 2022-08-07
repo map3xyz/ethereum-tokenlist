@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The BlockMesh platform is a platform supporting mesh based devices focusing on communication and the loT.",
+      "verified": true
+    }
+  ],
+  "id": "5bdaf2a6-d582-423b-a5b7-d9f31f942aed",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F",
+    "research": null,
+    "website": "https://www.blockmesh.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BlockMesh",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MESH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

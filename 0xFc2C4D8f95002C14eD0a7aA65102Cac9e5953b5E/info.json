@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rublix is a software development company that is building blockchain powered tools to fuel the next generation of fintech projects.",
+      "verified": true
+    }
+  ],
+  "id": "099bee21-8dda-4029-8a94-1114261bcd56",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+    "research": null,
+    "website": "http://rublix.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rublix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBLX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

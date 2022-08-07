@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0xFdB29741F239a2406AE287913Ef12415160378d3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EMERGENCY: the OS contract is switched to 0x0574a1959E3b7C86791759E1f6e249bF31656012 Don't use or buy this token anymore. The EthOS Team is no longer supporting it.",
+      "verified": true
+    }
+  ],
+  "id": "af5e2482-e43a-49f4-9e35-ff02d408795e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfdb29741f239a2406ae287913ef12415160378d3",
+    "research": null,
+    "website": "https://os.ethos.eth.link/"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EthOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

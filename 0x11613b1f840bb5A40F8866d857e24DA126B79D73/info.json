@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x11613b1f840bb5A40F8866d857e24DA126B79D73",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cappasity is an easy, scalable platform for creating, embedding, and analyzing 3D and AR/VR content.",
+      "verified": true
+    }
+  ],
+  "id": "9bd1cce8-2bb9-4d4e-815f-9adc4f930650",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11613b1f840bb5A40F8866d857e24DA126B79D73",
+    "research": null,
+    "website": "https://cappasity.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11613b1f840bb5A40F8866d857e24DA126B79D73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cappasity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

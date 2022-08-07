@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Yfed Platform will feature two types of Staking. Regular Staking & Fixed Deposit Staking",
+      "verified": true
+    }
+  ],
+  "id": "67946052-ecaf-425f-b793-0889ea5639c1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+    "research": null,
+    "website": "https://yfed.finance/",
+    "github": "https://github.com/yfedfinance",
+    "twitter": "https://twitter.com/FinanceYfed",
+    "telegram": "https://t.me/YFEDGROUP"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFED.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

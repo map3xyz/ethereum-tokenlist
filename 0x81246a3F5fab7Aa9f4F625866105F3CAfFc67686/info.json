@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x81246a3F5fab7Aa9f4F625866105F3CAfFc67686",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "An open source project that provides both a decentralized instant messaging protocol and the system architecture that makes it work.",
+      "verified": true
+    }
+  ],
+  "id": "d36584d1-acd4-4e56-b098-1face852c503",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x81246a3F5fab7Aa9f4F625866105F3CAfFc67686",
+    "research": null,
+    "website": "https://dim.chat"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81246a3F5fab7Aa9f4F625866105F3CAfFc67686/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DIM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

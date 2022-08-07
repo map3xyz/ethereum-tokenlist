@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A BAAS platform serves for global blockchain financial market.",
+      "verified": true
+    }
+  ],
+  "id": "ea464a54-9fa5-44fc-90e2-a9ce1ef0e708",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
+    "research": null,
+    "website": "http://www.mvchain.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MaverickChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

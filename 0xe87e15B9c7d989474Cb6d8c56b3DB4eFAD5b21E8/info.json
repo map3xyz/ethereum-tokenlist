@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Leveraging community to build an inclusive financial ecosystem. We are Meme Utility",
+      "verified": true
+    }
+  ],
+  "id": "bd582837-c5ef-47f3-9b0b-aa157758c3f9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+    "research": null,
+    "website": "https://hokk.finance/",
+    "telegram": "https://t.me/HokkaidoInu",
+    "twitter": "https://twitter.com/hokkaiduinu"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hokkaidu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOKK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

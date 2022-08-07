@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd0c59798F986d333554688cD667033d469C2398e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YMEN token is deflationary, and it's used to farm Mutant token that is the governance token that can be sold into YMEN/MUTANT pool.",
+      "verified": true
+    }
+  ],
+  "id": "50257ac9-ce5d-4752-8d3a-4c443d4a313c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd0c59798F986d333554688cD667033d469C2398e",
+    "research": null,
+    "website": "https://ymen.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0c59798F986d333554688cD667033d469C2398e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YMEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YMEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

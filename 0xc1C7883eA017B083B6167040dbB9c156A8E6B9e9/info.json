@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e871378e-84fb-4055-883c-79d9a73532b6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9",
+    "research": null,
+    "website": "https://abbtoken.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArmBlockchainBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

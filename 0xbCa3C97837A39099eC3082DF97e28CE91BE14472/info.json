@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DUST is the official currency of the Mutant Universe. It can be earned by contributions to the Mutant cause and used for mining new mutants, as a payment method in NFT marketplaces or games.",
+      "verified": true
+    }
+  ],
+  "id": "3b80a6a1-99f0-496c-9eec-3ff0a07668b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
+    "research": null,
+    "website": "https://dust-token.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbCa3C97837A39099eC3082DF97e28CE91BE14472/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Distant Universe Stardust Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

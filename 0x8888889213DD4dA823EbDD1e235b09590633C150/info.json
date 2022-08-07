@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8ec40a15-9021-490d-9155-309bb439c134",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8888889213DD4dA823EbDD1e235b09590633C150",
+    "research": null,
+    "website": "https://marble.cards/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8888889213DD4dA823EbDD1e235b09590633C150/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Marblecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

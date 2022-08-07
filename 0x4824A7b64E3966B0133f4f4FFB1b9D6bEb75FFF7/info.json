@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community.",
+      "verified": true
+    }
+  ],
+  "id": "10a48c4f-b0bf-44e6-8e91-effc5363d698",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+    "research": "https://research.binance.com/en/projects/tokenclub",
+    "website": "http://www.tokenclub.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TokenClub",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

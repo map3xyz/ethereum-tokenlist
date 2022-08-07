@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "89b18ae7-69ae-4eb0-858f-be97fd31b2e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327",
+    "research": null,
+    "website": "https://truedeck.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueDeck",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

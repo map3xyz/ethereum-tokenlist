@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x00000100F2A2bd000715001920eB70D229700085",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The most traded stablecoin that’s backed by the Canadian dollar.",
+      "verified": true
+    }
+  ],
+  "id": "7aec1a7f-b747-426d-927c-d562de86160f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x00000100F2A2bd000715001920eB70D229700085",
+    "research": null,
+    "website": "https://www.trusttoken.com/truecad/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00000100F2A2bd000715001920eB70D229700085/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueCAD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCAD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

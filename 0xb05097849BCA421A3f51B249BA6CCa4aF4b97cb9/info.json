@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FLOAT - a non-pegged stabilised coin that defends purchasing power in the long-run.",
+      "verified": true
+    }
+  ],
+  "id": "6af9581c-4412-4b71-803e-b900b0d95f54",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+    "research": null,
+    "website": "https://floatprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Float Protocol: FLOAT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLOAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

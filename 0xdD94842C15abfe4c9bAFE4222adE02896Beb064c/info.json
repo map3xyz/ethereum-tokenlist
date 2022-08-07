@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdD94842C15abfe4c9bAFE4222adE02896Beb064c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "W-Foundation leverages blockchain to promote environmental sustainability through its HOOXI mobile application, which is a gamified mobile social network service that encourages the public to reduce greenhouse gas emissions.",
+      "verified": true
+    }
+  ],
+  "id": "5b89c6e6-89d5-4836-a309-12cf0e35bebb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdD94842C15abfe4c9bAFE4222adE02896Beb064c",
+    "research": null,
+    "website": "http://wpay.sg/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdD94842C15abfe4c9bAFE4222adE02896Beb064c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "W GREEN PAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WGP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

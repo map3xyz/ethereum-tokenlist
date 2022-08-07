@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "XMAX Token (XMX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "89f19150-cd76-4af6-af3e-ab732ecc5ade",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0f8c45B896784A1E408526B9300519ef8660209c",
+    "research": null,
+    "website": "http://www.xmx.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f8c45B896784A1E408526B9300519ef8660209c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XMAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XMX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

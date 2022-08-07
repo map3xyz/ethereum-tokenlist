@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8810C63470d38639954c6B41AaC545848C46484a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9e49369c-1198-47a4-b3fb-3a193dd38108",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8810C63470d38639954c6B41AaC545848C46484a",
+    "research": null,
+    "website": "http://www.aditus.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8810C63470d38639954c6B41AaC545848C46484a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aditus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

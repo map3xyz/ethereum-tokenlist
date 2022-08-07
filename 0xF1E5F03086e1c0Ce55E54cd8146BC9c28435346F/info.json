@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xF1E5F03086e1c0Ce55E54cd8146BC9c28435346F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "715ebaf0-b655-45ab-bb03-645d655eec5f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF1E5F03086e1c0Ce55E54cd8146BC9c28435346F",
+    "research": null,
+    "website": "https://www.tokensets.com/set/ethminvol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF1E5F03086e1c0Ce55E54cd8146BC9c28435346F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ETH Min Volatility Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHMINVOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

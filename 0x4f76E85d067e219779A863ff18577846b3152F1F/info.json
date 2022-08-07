@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4f76E85d067e219779A863ff18577846b3152F1F",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "abdecf70-227d-4f4c-8d0e-d2c341446b29",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4f76E85d067e219779A863ff18577846b3152F1F",
+    "research": null,
+    "website": "https://kubocoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f76E85d067e219779A863ff18577846b3152F1F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KUBO COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUBO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

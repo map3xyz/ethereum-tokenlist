@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x0428488582472A47d7a20be969FDFdfb3BA1f7cB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pTokens, which give you exposure to a desired short or leveraged position.",
+      "verified": true
+    }
+  ],
+  "id": "f649d37a-9b6c-4c2f-8e26-4cc548cb1ee4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0428488582472A47d7a20be969FDFdfb3BA1f7cB",
+    "research": null,
+    "website": "https://bzx.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0428488582472A47d7a20be969FDFdfb3BA1f7cB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Short ETH-DAI 3x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsETH3x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

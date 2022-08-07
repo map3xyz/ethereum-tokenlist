@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The World’s First Lightspeed DeFi Dedicated Interoperable Superchain",
+      "verified": true
+    }
+  ],
+  "id": "7e84ebdc-d4f8-4251-a2c5-acdd620c641e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xecC0F1F860a82aB3b442382D93853C02d6384389",
+    "research": null,
+    "website": "https://axisdefi.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xecC0F1F860a82aB3b442382D93853C02d6384389/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AXIS DeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXIS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

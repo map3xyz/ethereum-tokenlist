@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Vault12 platform safeguards your crypto assets by harnessing your very own network of trusted people.",
+      "verified": true
+    }
+  ],
+  "id": "f85fc891-d187-42c2-a9ce-a18c1f83bc03",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+    "research": null,
+    "website": "https://vault12.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc394f10545AeEf24483d2347B32A34a44F20E6F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vault Guardian Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

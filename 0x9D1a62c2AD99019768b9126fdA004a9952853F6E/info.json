@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x9D1a62c2AD99019768b9126fdA004a9952853F6E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7b162b9a-738a-408c-b49a-57261d64dce2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9D1a62c2AD99019768b9126fdA004a9952853F6E",
+    "research": null,
+    "website": "https://ftx.com/tokens/BNBBULL"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D1a62c2AD99019768b9126fdA004a9952853F6E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "3X Long BNB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNBBULL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

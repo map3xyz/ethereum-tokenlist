@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1F35a281036Be57E64e7E7A2A556b4f888A1b829",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Muzika aims to transform the music world through blockchain, by closing the gap between artists and fans : the true value creators in today's digital music industry.",
+      "verified": true
+    }
+  ],
+  "id": "f579f6ab-2b90-4241-96bc-1ed1086a758c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1F35a281036Be57E64e7E7A2A556b4f888A1b829",
+    "research": null,
+    "website": "https://www.muzika.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F35a281036Be57E64e7E7A2A556b4f888A1b829/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Muzika",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MZK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

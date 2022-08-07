@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DOOR connects consumers and advertisers to facilitate transactions that reward consumers for the authorized use of their data. Every time a consumer's data is used for commercial use they are rewarded with DOOR Tokens. Advertisers purchase DOOR Tokens to be used for licensing authorized data from Consumers. By eliminating the middleman, the consumer and business can benefit from a direct connection via DOOR.",
+      "verified": true
+    }
+  ],
+  "id": "634b1705-f15e-41dc-a04c-8104ff541751",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9",
+    "research": null,
+    "website": "https://doortoken.org/",
+    "coingecko": "https://coingecko.com/en/coins/door",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/door/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DOOR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOOR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

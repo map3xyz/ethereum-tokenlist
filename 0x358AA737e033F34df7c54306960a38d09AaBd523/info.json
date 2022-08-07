@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A chain-verified decentralized cross-chain oracle service protocol to provide secure and reliable data services for the interconnection of the chain and the digital economy.",
+      "verified": true
+    }
+  ],
+  "id": "1ec8863c-2c82-4e10-98e0-a381252aac46",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x358AA737e033F34df7c54306960a38d09AaBd523",
+    "research": null,
+    "website": "https://www.aresprotocol.io/",
+    "twitter": "https://twitter.com/AresProtocolLab",
+    "telegram": "https://t.me/aresprotocolLab",
+    "medium": "https://aresprotocollab.medium.com",
+    "discord": "https://discord.com/invite/MKE4yX4h"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x358AA737e033F34df7c54306960a38d09AaBd523/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ares Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARES",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

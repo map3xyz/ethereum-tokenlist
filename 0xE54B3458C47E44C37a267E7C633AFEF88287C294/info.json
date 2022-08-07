@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE54B3458C47E44C37a267E7C633AFEF88287C294",
+  "color": null,
+  "decimals": 5,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Artfinity describes itself as an art traceability and security monitoring system based on blockchain technology.",
+      "verified": true
+    }
+  ],
+  "id": "d85db0fd-eede-499d-be83-85339a11ae43",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE54B3458C47E44C37a267E7C633AFEF88287C294",
+    "research": null,
+    "website": "http://www.jueyi.art"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE54B3458C47E44C37a267E7C633AFEF88287C294/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ArtFinity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f480864f-f0f1-4d3c-a066-eca1a98221f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x14094949152EDDBFcd073717200DA82fEd8dC960",
+    "research": null,
+    "website": "https://bzx.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14094949152EDDBFcd073717200DA82fEd8dC960/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "bZx DAI iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iDAI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

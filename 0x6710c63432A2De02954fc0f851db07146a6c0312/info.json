@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralizing Manufacturing Supply Chains with Blockchain and the MFG Token",
+      "verified": true
+    }
+  ],
+  "id": "ebff6df4-8f4b-40d6-851b-92aee03496b3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6710c63432A2De02954fc0f851db07146a6c0312",
+    "research": null,
+    "website": "https://blockchain.syncfab.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6710c63432A2De02954fc0f851db07146a6c0312/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SyncFab Smart Manufacturing Blockchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MFG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

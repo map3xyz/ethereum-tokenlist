@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d5e8b9b9-caa4-413d-ad0d-8ffb32e10538",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+    "research": null,
+    "website": "https://xeonbit.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79c71D3436F39Ce382D0f58F1B011D88100B9D91/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Xeonbit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

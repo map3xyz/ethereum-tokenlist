@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DefiFarm empowers blockchain networks to have state of the art privacy protection over smart contracts, DeFi, transactions, data.",
+      "verified": true
+    }
+  ],
+  "id": "fad59189-b7d9-4327-b2b6-e9143106da65",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+    "research": null,
+    "website": "https://dff.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DefiFarm",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

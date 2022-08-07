@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x75A93C11dFF32A4312057714257758B113a0F512",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OTFUND is the first open-end fund plaform integrates BLOCKCHAIN on DAPP GAME, DIGITAL LOTTERY, DIGITAL TRADING, GAME ONLINE, BLOCKCHAIN ACADEMY, E-COMMERCE SHARING ECONOMY which is officially launched in October.",
+      "verified": true
+    }
+  ],
+  "id": "f601f776-03ee-4997-a47f-828ef0cac36c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x75A93C11dFF32A4312057714257758B113a0F512",
+    "research": null,
+    "website": "https://otfund.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75A93C11dFF32A4312057714257758B113a0F512/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OTFund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OTF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

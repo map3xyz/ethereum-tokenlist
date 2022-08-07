@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
+      "verified": true
+    }
+  ],
+  "id": "cab2b089-8c78-4131-b966-77251c982cc4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+    "research": null,
+    "website": "https://milliontoken.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Million",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

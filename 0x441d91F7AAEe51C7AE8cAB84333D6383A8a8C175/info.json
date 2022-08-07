@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Deflationary token with decreasing supply and a fair launch. Read This Contract (RTC).",
+      "verified": true
+    }
+  ],
+  "id": "caa6df14-d498-4d9c-9cd4-d8c9ef9260d1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175",
+    "research": null,
+    "website": "https://veravoss.github.io/rtc/#spectre"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Speculative Resistance RTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPECTRE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

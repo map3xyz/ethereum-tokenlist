@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped FreeTON native Crystal token",
+      "verified": true
+    }
+  ],
+  "id": "9eece41b-68d1-463e-99ef-18440b6971dd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F",
+    "research": null,
+    "website": "https://docs.tonbridge.io/wton/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped TON Crystal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

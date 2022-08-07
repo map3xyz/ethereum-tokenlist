@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c0829989-1c8b-4c0e-aa1d-bad5a96dcf42",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+    "research": null,
+    "website": "http://evencoin.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EvenCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

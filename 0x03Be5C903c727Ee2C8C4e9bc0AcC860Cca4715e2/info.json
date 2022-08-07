@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TERNOA is a blockchain designed to provide secured, decentralized, and long-term data transmission. TERNOA relies upon the use of NFTs as vehicles to store encrypted data across long periods of time, and built-in oracles to trigger data releases to third parties.",
+      "verified": true
+    }
+  ],
+  "id": "d4c55f7f-743f-4938-bb09-1de7c5f2ff6f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+    "research": null,
+    "website": "https://www.ternoa.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ternoa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAPS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

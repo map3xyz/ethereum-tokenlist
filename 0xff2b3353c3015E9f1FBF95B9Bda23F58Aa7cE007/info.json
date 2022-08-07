@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BITX works as the payment method for users to buy advanced data services and the incentive method for the value contributors of the BitScreener ecosystem.",
+      "verified": true
+    }
+  ],
+  "id": "aa4d4812-0073-4704-b4e6-f72d477fcae1",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
+    "research": null,
+    "website": "https://tokensale.bitscreener.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitScreenerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

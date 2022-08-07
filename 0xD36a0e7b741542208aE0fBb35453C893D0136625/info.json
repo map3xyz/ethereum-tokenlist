@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xD36a0e7b741542208aE0fBb35453C893D0136625",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The ITO Utility Token [IUT] is a vital component of the ITO Protocol crowdfunding model, giving participants instant liquidity on all tokenised pledges from ITOs.",
+      "verified": true
+    }
+  ],
+  "id": "4882566e-0f70-4414-8935-5d640856d75a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD36a0e7b741542208aE0fBb35453C893D0136625",
+    "research": null,
+    "website": "https://ito.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD36a0e7b741542208aE0fBb35453C893D0136625/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ITO Utility Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IUT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

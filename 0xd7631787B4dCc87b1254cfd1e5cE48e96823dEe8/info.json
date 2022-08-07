@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Sociall (SCL) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "5415bd5d-1874-452b-81e4-24d0806a85d6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
+    "research": null,
+    "website": "https://sociall.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOCIAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

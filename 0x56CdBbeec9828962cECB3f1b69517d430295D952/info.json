@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x56CdBbeec9828962cECB3f1b69517d430295D952",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "982fd605-8f62-458c-9f47-5e9a1e52bb8c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56CdBbeec9828962cECB3f1b69517d430295D952",
+    "research": null,
+    "website": "https://davecoin.cash/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56CdBbeec9828962cECB3f1b69517d430295D952/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Davecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDTG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

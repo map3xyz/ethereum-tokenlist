@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "36bbb050-0367-4081-89b5-162022cae6f7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+    "research": null,
+    "website": "https://www.bitfex.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB096cC19b8227E2115855c5B39Dcc247470013C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BITFEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

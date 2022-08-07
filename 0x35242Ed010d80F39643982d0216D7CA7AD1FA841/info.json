@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x35242Ed010d80F39643982d0216D7CA7AD1FA841",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Exchange skills while learning and teaching.",
+      "verified": true
+    }
+  ],
+  "id": "c9f0bc60-1d0f-4e98-b052-de91fa5dc203",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x35242Ed010d80F39643982d0216D7CA7AD1FA841",
+    "research": null,
+    "website": "https://www.slonigiraf.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35242Ed010d80F39643982d0216D7CA7AD1FA841/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Slonigiraf Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

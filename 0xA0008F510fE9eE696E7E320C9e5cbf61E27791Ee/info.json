@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GAMB is the decentralized marketplace of the future with no decision making unit other than the owners of the marketplace themselves.",
+      "verified": true
+    }
+  ],
+  "id": "82edcbef-5332-49be-8d15-bdc0651530bf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+    "research": null,
+    "website": "https://gamb.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GMB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

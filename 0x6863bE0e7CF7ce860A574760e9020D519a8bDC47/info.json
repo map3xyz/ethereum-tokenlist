@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "On.Live (ONL) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "5215beeb-9e5b-4d81-8914-c88ad6bf4e91",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+    "research": null,
+    "website": "https://on.live/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6863bE0e7CF7ce860A574760e9020D519a8bDC47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "On.Live",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

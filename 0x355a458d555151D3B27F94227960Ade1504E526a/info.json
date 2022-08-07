@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x355a458d555151D3B27F94227960Ade1504E526a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d62379be-fe33-4b0b-92e3-0d75cf858667",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x355a458d555151D3B27F94227960Ade1504E526a",
+    "research": null,
+    "website": "http://stockchain.co/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x355a458d555151D3B27F94227960Ade1504E526a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "StockChain Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

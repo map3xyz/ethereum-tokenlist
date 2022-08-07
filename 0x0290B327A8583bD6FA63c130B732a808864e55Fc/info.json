@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0290B327A8583bD6FA63c130B732a808864e55Fc",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Every time you stake and unstake tokens, the contract will automatically harvest MDS rewards for you",
+      "verified": true
+    }
+  ],
+  "id": "964edf6a-9d74-4bb1-87ad-d35669bfc780",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0290B327A8583bD6FA63c130B732a808864e55Fc",
+    "research": null,
+    "website": "https://midas-defi.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0290B327A8583bD6FA63c130B732a808864e55Fc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MIDAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

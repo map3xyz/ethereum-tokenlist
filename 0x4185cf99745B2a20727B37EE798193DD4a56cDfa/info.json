@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DEUS GOES COINBASE. From our next system update, you will be able to buy Coinbase Futures on DEUS Swap!",
+      "verified": true
+    }
+  ],
+  "id": "796cf5c8-2f59-4340-9b11-7c15cd4f8a96",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+    "research": null,
+    "website": "https://deus.finance/",
+    "github": "https://github.com/deusfinance",
+    "twitter": "https://twitter.com/DeusDao",
+    "telegram": "https://t.me/deusfinance",
+    "medium": "https://medium.com/@deusfinance",
+    "whitepaper": "https://lafayettetabor.medium.com/deus-goes-coinbase-1d69f51e1b55"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "wCOINBASE-IOU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCOINBASE-IOU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

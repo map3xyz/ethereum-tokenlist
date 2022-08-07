@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace where we're matching musicians with event organizers.",
+      "verified": true
+    }
+  ],
+  "id": "16e8f3a4-7f1d-4da1-9750-e5ba6c69cabf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+    "research": null,
+    "website": "https://www.viberate.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Viberate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a6ab1921-322f-4a02-8792-70ad38ed5ab6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+    "research": null,
+    "website": "https://matryx.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MatryxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

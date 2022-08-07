@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Kush Finance is a Decentralized Finance (DeFi) governance token abbreviated as kSeed(kush.SEED) that allow its holders stake their kSEED to attain Kush finances secondary token known as kKUSH(kush.KUSH).",
+      "verified": true
+    }
+  ],
+  "id": "2e3b69da-ea7f-4072-8dd0-435369a44925",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3F09400313e83d53366147e3ea0e4e2279D80850",
+    "research": null,
+    "website": "https://kush.finance/",
+    "github": "https://github.com/KushFinance/",
+    "twitter": "https://twitter.com/KushFinance",
+    "telegram": "https://t.me/kushfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F09400313e83d53366147e3ea0e4e2279D80850/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kush.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "kSEED",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

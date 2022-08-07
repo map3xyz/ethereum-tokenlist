@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Color Platform is devoted to bringing the opportunities of a decentralized platform for daily life.",
+      "verified": true
+    }
+  ],
+  "id": "bd396868-0660-4463-822f-efcd9eb05a22",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB",
+    "research": null,
+    "website": "https://color-platform.org/~colors/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Color Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

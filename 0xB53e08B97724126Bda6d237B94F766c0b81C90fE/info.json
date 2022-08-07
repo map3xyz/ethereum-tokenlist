@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Designed to reward longterm PIXBY holders.",
+      "verified": true
+    }
+  ],
+  "id": "e90ae812-f6a4-472f-8b02-645ccac22a60",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+    "research": null,
+    "website": "https://pixby.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB53e08B97724126Bda6d237B94F766c0b81C90fE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PIXBY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIXBY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

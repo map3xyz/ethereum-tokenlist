@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "56c3d1de-46e5-454b-82f6-5999e2d3847f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56",
+    "research": null,
+    "website": "https://www.smartup.global/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "smartup",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SmartUp",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

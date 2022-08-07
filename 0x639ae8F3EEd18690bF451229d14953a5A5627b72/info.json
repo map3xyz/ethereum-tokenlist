@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Nimbus - Creating Value Based on Real Use cases for Digital Assets.",
+      "verified": true
+    }
+  ],
+  "id": "cbd2294f-d26c-45a6-9671-4ed79b52c775",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+    "research": null,
+    "website": "https://nimbusplatform.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x639ae8F3EEd18690bF451229d14953a5A5627b72/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GNBU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNBU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

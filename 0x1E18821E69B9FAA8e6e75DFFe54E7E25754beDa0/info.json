@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KIMCHI is so hot",
+      "verified": true
+    }
+  ],
+  "id": "401e76cb-5e70-4d28-99b9-8ca829a9c1b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+    "research": null,
+    "website": "https://kimchi.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KIMCHI.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIMCHI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

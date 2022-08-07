@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f408fca1-fc52-47ad-885c-2593c458584f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+    "research": null,
+    "website": "https://www.equus.dev"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EQUUSMiningToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQMT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

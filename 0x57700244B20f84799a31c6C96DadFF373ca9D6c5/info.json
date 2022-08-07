@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3eef0623-47aa-46f7-bec2-c0c95980859e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+    "research": null,
+    "website": "https://www.trustdao.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57700244B20f84799a31c6C96DadFF373ca9D6c5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TRUST DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRUST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

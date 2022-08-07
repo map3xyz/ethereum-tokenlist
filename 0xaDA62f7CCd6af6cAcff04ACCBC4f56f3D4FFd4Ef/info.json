@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Our vision-focus is tailoring a breakthrough solutionsin the design and creation of blockchain games and NFT based assets.",
+      "verified": true
+    }
+  ],
+  "id": "e64447c5-64f4-42c1-b631-cf63da9b6600",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+    "research": null,
+    "website": "https://playfuel.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlayFuel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

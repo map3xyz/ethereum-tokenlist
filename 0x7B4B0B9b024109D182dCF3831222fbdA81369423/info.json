@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "f6b929b0-ed99-4b92-a3fb-dd4a91ea2622",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7B4B0B9b024109D182dCF3831222fbdA81369423",
+    "research": null,
+    "website": "https://www.paxos.com/busd/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7B4B0B9b024109D182dCF3831222fbdA81369423/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

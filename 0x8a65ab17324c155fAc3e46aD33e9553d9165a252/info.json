@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x8a65ab17324c155fAc3e46aD33e9553d9165a252",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "de9f781b-a0ae-48ed-bc23-ac4aac04cd89",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8a65ab17324c155fAc3e46aD33e9553d9165a252",
+    "research": null,
+    "website": "https://silvercoin.asia/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a65ab17324c155fAc3e46aD33e9553d9165a252/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Silver Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

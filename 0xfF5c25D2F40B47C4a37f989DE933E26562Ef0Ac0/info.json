@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0",
+  "color": null,
+  "decimals": 16,
+  "description": [],
+  "id": "ed7d8e37-21a3-4e98-adba-9b621de1e0d3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0",
+    "research": null,
+    "website": "https://kora.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kora Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Meet Stoic — Cindicator's newest crypto trading product.",
+      "verified": true
+    }
+  ],
+  "id": "c81f3ee9-85d5-439c-b535-3b629cfb1a04",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+    "research": null,
+    "website": "https://cindicator.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd4c435F5B09F855C3317c8524Cb1F586E42795fa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cindicator Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CND",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

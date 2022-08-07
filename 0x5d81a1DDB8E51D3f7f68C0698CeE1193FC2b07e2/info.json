@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5d81a1DDB8E51D3f7f68C0698CeE1193FC2b07e2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f873a349-e04e-474f-930e-623ce27dd14e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5d81a1DDB8E51D3f7f68C0698CeE1193FC2b07e2",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d81a1DDB8E51D3f7f68C0698CeE1193FC2b07e2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Asset",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

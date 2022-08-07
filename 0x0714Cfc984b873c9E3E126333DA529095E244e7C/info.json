@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x0714Cfc984b873c9E3E126333DA529095E244e7C",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6e2c1aae-da8b-40a2-86e7-53de43e5d74d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0714Cfc984b873c9E3E126333DA529095E244e7C",
+    "research": null,
+    "website": "http://dronecoin.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0714Cfc984b873c9E3E126333DA529095E244e7C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DRONECOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

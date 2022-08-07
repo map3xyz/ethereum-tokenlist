@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
+      "verified": true
+    }
+  ],
+  "id": "16e29cef-b2d1-44f1-817d-8a10d15cae4b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+    "research": null,
+    "website": "https://liquid.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QASH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

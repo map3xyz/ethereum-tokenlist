@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x92c4f18c851592B4a2AB9BcD22D308F0E1c94399",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "07ff75a7-b14a-4e6d-a69c-2bd0a9d0b91c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x92c4f18c851592B4a2AB9BcD22D308F0E1c94399",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92c4f18c851592B4a2AB9BcD22D308F0E1c94399/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CEXDollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEXD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

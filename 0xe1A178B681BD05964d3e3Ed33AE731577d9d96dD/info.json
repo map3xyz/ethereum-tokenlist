@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control and crypto-exchange platforms.",
+      "verified": true
+    }
+  ],
+  "id": "d2fc4fb9-9018-44cf-a7a2-d4615bf9deda",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+    "research": null,
+    "website": "https://box.la"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BOX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

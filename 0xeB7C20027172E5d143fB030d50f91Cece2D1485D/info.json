@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "eBitcoin is a tokenized version of Bitcoin on the Ethereum blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "b28a278b-7761-441c-b662-0d66edf1e5cf",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+    "research": null,
+    "website": "https://ebitcoin.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeB7C20027172E5d143fB030d50f91Cece2D1485D/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "eBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

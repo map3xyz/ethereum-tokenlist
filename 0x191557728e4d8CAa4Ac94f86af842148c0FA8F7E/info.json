@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The World’s First Business-Backed Blockchain Smart Economy",
+      "verified": true
+    }
+  ],
+  "id": "5650a07d-fda1-4c95-8346-aa2470d4853d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
+    "research": null,
+    "website": "https://eco-system.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ormeus Ecosystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

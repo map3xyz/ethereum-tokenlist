@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8f235af5-4ac3-400c-966f-4e14266fe98d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+    "research": null,
+    "website": "https://www.bonepayment.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "B One Payment",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B1P",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

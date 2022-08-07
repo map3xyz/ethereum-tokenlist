@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Satt is a token used in an Ethereum Dapp to rule fairly advertising payment between advertisers and content creators via social media oracles",
+      "verified": true
+    }
+  ],
+  "id": "34f6de1b-b84e-403f-987f-d6a877c3df3d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
+    "research": null,
+    "website": "https://satt-token.com/",
+    "github": "https://github.com/Atayen/satt",
+    "whitepaper": "https://satt-token.com/files/IcoSattEn.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDf49C9f599A0A9049D97CFF34D0C30E468987389/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Smart Advertising Transaction Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SATT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

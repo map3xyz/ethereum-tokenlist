@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5356b5e4-ed8e-4c44-9a5f-140278fd3852",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+    "research": null,
+    "website": "https://www.goldmint.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Goldmint MNT Prelaunch Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNTP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

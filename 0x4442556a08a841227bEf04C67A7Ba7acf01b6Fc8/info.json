@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "02f04525-ce80-4987-b662-a7e6d5bb2539",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8",
+    "research": null,
+    "website": "https://monarchwallet.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Monarch Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bitball Ecosystem All in one crypto Solution Peer to Peer digital currencies with Multiple utilities",
+      "verified": true
+    }
+  ],
+  "id": "32af7a91-c246-4c39-9b5a-503b366c31e2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+    "research": null,
+    "website": "https://www.bitball-btb.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitBall",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe6179bB571D2d69837bE731da88C76e377ec4738",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The first Trade to Farm DeFi coin on the Ethereum Blockchain",
+      "verified": true
+    }
+  ],
+  "id": "d17ec42d-a519-432d-a34d-cadae3cb782f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe6179bB571D2d69837bE731da88C76e377ec4738",
+    "research": null,
+    "website": "https://wormhole.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6179bB571D2d69837bE731da88C76e377ec4738/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wormhole.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WHOLE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

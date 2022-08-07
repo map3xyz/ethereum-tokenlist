@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x13E9EC660d872f55405d70e5C52D872136F0970c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ddce0e7d-b341-449a-94a4-f6c544534696",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x13E9EC660d872f55405d70e5C52D872136F0970c",
+    "research": null,
+    "website": "http://www.tkt-twinkle.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13E9EC660d872f55405d70e5C52D872136F0970c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TKT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

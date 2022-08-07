@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stocks on Ethereum",
+      "verified": true
+    }
+  ],
+  "id": "1de68779-0ddd-4429-a484-7ea2f5b08225",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+    "research": null,
+    "website": "https://stocksd.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "STOCKSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STOCKSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

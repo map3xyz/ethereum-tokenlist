@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x31c63146a635EB7465e5853020b39713AC356991",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Mirror USO Token.",
+      "verified": true
+    }
+  ],
+  "id": "1cf0d907-1de8-4420-8d52-57a17c5dac6d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x31c63146a635EB7465e5853020b39713AC356991",
+    "research": null,
+    "website": "https://mirror.finance",
+    "twitter": "https://twitter.com/MirrorProtocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/MirrorProtocol",
+    "medium": "https://medium.com/@mirror-protocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31c63146a635EB7465e5853020b39713AC356991/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mUSO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

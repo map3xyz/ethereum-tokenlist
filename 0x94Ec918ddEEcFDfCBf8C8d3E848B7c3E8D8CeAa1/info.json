@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x94Ec918ddEEcFDfCBf8C8d3E848B7c3E8D8CeAa1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Zynecoin is a Wrapped version of Zynecoin its purpose is to provide interoperability between the Wethio blockchain and Ethereum blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "3dd3a4a4-24a2-45b8-b74c-4cbb1a10e35d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1",
+    "research": null,
+    "website": "https://bridge.wethio.io/",
+    "telegram": "https://t.me/Zynecoin",
+    "facebook": "https://facebook.com/zynecoin/",
+    "youtube": "https://youtube.com/channel/UCiZ-xova4unF-3HI04ZFOIw"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94Ec918ddEEcFDfCBf8C8d3E848B7c3E8D8CeAa1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Zynecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WYZN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

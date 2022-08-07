@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "500eed39-75e6-4481-b1d0-b3bf75f307d7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+    "research": null,
+    "website": "https://pareto.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pareto Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PARETO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

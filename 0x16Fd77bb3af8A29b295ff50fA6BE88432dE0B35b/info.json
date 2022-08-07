@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x16Fd77bb3af8A29b295ff50fA6BE88432dE0B35b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Grano Protocol is digital money built for everyone as a unique reserve asset.",
+      "verified": true
+    }
+  ],
+  "id": "8717265e-8f42-4c3c-ab87-635dc7dc910a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x16Fd77bb3af8A29b295ff50fA6BE88432dE0B35b",
+    "research": null,
+    "website": "https://granoprotocol.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16Fd77bb3af8A29b295ff50fA6BE88432dE0B35b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Grano Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRANO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

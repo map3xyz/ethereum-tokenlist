@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x06A8F2BCc622ac55d596ea02CE5bb5f318F485e9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6cf2b7a2-0e25-40de-972c-060722eebf6c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x06A8F2BCc622ac55d596ea02CE5bb5f318F485e9",
+    "research": null,
+    "website": "https://mocotoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06A8F2BCc622ac55d596ea02CE5bb5f318F485e9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MoCo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MoCo",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

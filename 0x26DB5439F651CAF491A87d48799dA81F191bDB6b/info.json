@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Casino Betting Coin is an ERC-20 cryptocurrency designed to supercharge iGaming via the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "2590dd88-ec8b-4a4f-9afc-cfcc8a7df53e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+    "research": null,
+    "website": "https://cbc.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26DB5439F651CAF491A87d48799dA81F191bDB6b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Casino Betting Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

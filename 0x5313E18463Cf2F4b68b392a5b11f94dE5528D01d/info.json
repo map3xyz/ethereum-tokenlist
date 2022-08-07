@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "200d2e8b-36d6-4271-a714-2b8040d64ac2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d",
+    "research": null,
+    "website": "https://ullu.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ullu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULLU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

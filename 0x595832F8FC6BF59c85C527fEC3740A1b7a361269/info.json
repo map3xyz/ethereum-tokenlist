@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Power Ledger (POWR), based in Australia, encourages us to imagine a world in which electricity is dependable, affordable and clean for everyone.",
+      "verified": true
+    }
+  ],
+  "id": "df13708f-e684-47ba-be18-219e5260c8e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+    "research": null,
+    "website": "https://powerledger.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Power Ledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POWR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

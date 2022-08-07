@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Value DeFi: Bringing True Value to DeFi.",
+      "verified": true
+    }
+  ],
+  "id": "da49d664-4b5c-4c57-92a0-be96243052f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
+    "research": null,
+    "website": "https://valuedefi.io/",
+    "github": "https://github.com/valuedefi",
+    "twitter": "https://twitter.com/value_defi",
+    "telegram": "https://t.me/ValueDeFi",
+    "discord": "https://discord.com/invite/Dpvd7tp",
+    "medium": "https://medium.com/@valuedefi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45f24BaEef268BB6d63AEe5129015d69702BCDfa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

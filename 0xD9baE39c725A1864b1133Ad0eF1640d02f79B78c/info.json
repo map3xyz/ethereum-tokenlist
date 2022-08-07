@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b6275c82-3c81-4ea3-a5b5-fd661d888d75",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c",
+    "research": null,
+    "website": "https://touchsocial.xyz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Touch Smart Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TST",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

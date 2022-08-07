@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay.",
+      "verified": true
+    }
+  ],
+  "id": "bfa6997e-5548-4926-9e43-2e0278cfe8a6",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+    "research": null,
+    "website": "https://www.etherlegends.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Elementeum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELET",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

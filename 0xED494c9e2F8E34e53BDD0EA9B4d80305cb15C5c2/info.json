@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xED494c9e2F8E34e53BDD0EA9B4d80305cb15C5c2",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "CWV Chain (CWV) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "29f856e0-48a2-4d33-b8f4-ca642a6f6040",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xED494c9e2F8E34e53BDD0EA9B4d80305cb15C5c2",
+    "research": null,
+    "website": "https://cwv.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xED494c9e2F8E34e53BDD0EA9B4d80305cb15C5c2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CWV Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CWV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

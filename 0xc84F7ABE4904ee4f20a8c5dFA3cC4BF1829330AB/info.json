@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "YFN is Decentralized Wallet, Exchange, And Stake in one platform. In addition, to yield farming strategies via smart contract YFN provides security services for inexperienced users as a DeFi gateway and shows all on Blockchain to users for transparency purposes.",
+      "verified": true
+    }
+  ],
+  "id": "6704b448-a7ac-42d6-845d-2842180ad5cb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB",
+    "research": null,
+    "website": "https://yen.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "YFN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

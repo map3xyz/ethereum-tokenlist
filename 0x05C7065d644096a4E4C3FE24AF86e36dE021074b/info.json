@@ -1,0 +1,36 @@
+{
+  "active": false,
+  "address": "0x05C7065d644096a4E4C3FE24AF86e36dE021074b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "LendConnect ICO is another leading platform with a unique twist. LendConnect puts all the other lending platforms together in one unique place with one coin called LendConnect (LCT).",
+      "verified": true
+    }
+  ],
+  "id": "8a1a54fd-5b27-48d7-bc99-7332c42b3a5e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x05C7065d644096a4E4C3FE24AF86e36dE021074b",
+    "research": null,
+    "website": "https://lendconnect.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05C7065d644096a4E4C3FE24AF86e36dE021074b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LendConnect Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

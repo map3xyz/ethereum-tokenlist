@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Governance token for Float Protocol.",
+      "verified": true
+    }
+  ],
+  "id": "0b7341e5-718a-4c94-800b-5ff029c120ae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x24a6a37576377f63f194caa5f518a60f45b42921",
+    "research": null,
+    "website": "https://floatprotocol.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24A6A37576377F63f194Caa5F518a60f45b42921/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Float BANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BANK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Finswap is a DEX trading and aggregation suite which provides advanced trading features augmented with defi integrations under one roof.",
+      "verified": true
+    }
+  ],
+  "id": "03a85b9b-030e-4fd5-8b63-25a8653941c0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
+    "research": null,
+    "website": "https://finswap.app"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Finswap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNSP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

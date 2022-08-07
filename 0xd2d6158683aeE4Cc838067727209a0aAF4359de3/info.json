@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bounty0x (BNTY) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "cbd9ccd2-d032-415f-9d2f-8574958afdfc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
+    "research": null,
+    "website": "https://bounty0x.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2d6158683aeE4Cc838067727209a0aAF4359de3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bounty0x Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNTY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

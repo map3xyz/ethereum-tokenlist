@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x26fF6D16549A00BA8b36ce3159b5277E6e798d18",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+      "verified": true
+    }
+  ],
+  "id": "81fc1c28-3f30-4fdb-a135-ab9ffae97976",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x26fF6D16549A00BA8b36ce3159b5277E6e798d18",
+    "research": null,
+    "website": "https://www.chihuatoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26fF6D16549A00BA8b36ce3159b5277E6e798d18/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chihua Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHIHUA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

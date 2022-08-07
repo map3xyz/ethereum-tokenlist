@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x687174f8C49ceb7729D925C3A961507ea4Ac7b28",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a64ddfb1-894c-432e-8e04-36f45f19535a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x687174f8C49ceb7729D925C3A961507ea4Ac7b28",
+    "research": null,
+    "website": "https://www.gatcoin.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x687174f8C49ceb7729D925C3A961507ea4Ac7b28/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GAT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

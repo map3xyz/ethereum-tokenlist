@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bdbe613c-7182-41bb-97ea-242ae9b37679",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5",
+    "research": null,
+    "website": "https://www.uranus.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "URACToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "URAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

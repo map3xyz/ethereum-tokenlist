@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "beeg tings, smol package",
+      "verified": true
+    }
+  ],
+  "id": "0547c329-9bb2-4090-95de-1be4547e9ba3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C",
+    "research": null,
+    "website": "https://smol.finance",
+    "github": "https://github.com/smolfinance/",
+    "twitter": "https://twitter.com/SmolFinance",
+    "telegram": "https://t.me/smol_tok",
+    "reddit": "https://reddit.com/r/SmolFinance",
+    "medium": "https://medium.com/@smolfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "smol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMOL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

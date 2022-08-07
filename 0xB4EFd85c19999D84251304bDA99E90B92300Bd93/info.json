@@ -1,0 +1,38 @@
+{
+  "active": false,
+  "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Rocket Pool (RPL) is a cryptocurrency and operates on the Ethereum platform. Decentralised Proof of Stake Pool",
+      "verified": true
+    }
+  ],
+  "id": "6472a4b6-21a3-412a-b1ad-5d8f763acaab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+    "research": null,
+    "website": "https://www.rocketpool.net"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rocket Pool",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPL",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

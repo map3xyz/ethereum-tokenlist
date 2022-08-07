@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+  "color": null,
+  "decimals": 10,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Spiking Platform aims to allow its users to mirror the trading activity of any whale and control their own segregated trading accounts directly. SPIKE will be the token that fuels the Spiking Platform (gas). For new traders, Spiking will offer the assistance of RoboBull, a proprietary AI Robot that is able to create a portfolio of different whales based on the trader’s risk/reward ratio.",
+      "verified": true
+    }
+  ],
+  "id": "3126b5be-be91-4bee-b981-7ab8bb415f17",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+    "research": null,
+    "website": "https://spiking.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Spiking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPIKE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

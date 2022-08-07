@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "481afadc-487c-42d6-97d0-7f90b91192ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+    "research": null,
+    "website": "https://www.qubitica.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1602af2C782cC03F9241992E243290Fccf73Bb13/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Qubitica",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBIT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

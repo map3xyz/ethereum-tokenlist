@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Hexultra - the ultimate deflationary token",
+      "verified": true
+    }
+  ],
+  "id": "c4c90e64-6781-44dd-82c6-8fdd5968ad33",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C",
+    "research": null,
+    "website": "https://hexultra.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hexultra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEXULTRA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

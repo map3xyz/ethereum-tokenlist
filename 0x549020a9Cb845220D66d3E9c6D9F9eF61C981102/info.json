@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The financial system of the Sidus Heroes game includes two tokens: the SIDUS token and the SENATE token. The SIDUS token is used by players of SIDUS HEROES as in-game currency.",
+      "verified": true
+    }
+  ],
+  "id": "7747f7ef-1d6d-4f13-af32-97ff18554f82",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+    "research": null,
+    "website": "https://sidusheroes.com",
+    "github": "https://github.com/sidusHeroes",
+    "twitter": "https://twitter.com/galaxy_sidus",
+    "medium": "https://medium.com/sidus-nft-heroes",
+    "reddit": "https://reddit.com/sidus__heroes",
+    "whitepaper": "https://sidusheroes.com/docs/whitepaper.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x549020a9Cb845220D66d3E9c6D9F9eF61C981102/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SIDUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIDUS",
+  "tags": [
+    "gamefi",
+    "nft",
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

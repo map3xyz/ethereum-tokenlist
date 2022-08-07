@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5df94780f00140FE72d239D0D261f7797E3Fbd1B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "QChi Chain (QHC) is a cross industry application platform that brings blockchain technology to a wide range of industries.",
+      "verified": true
+    }
+  ],
+  "id": "6d757307-8526-4317-9ab9-b21da5332c48",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B",
+    "research": null,
+    "website": "https://qchichain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "QChi Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QHC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

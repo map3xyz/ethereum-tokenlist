@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Through our expertise in deep learning and with our development platform, we drive breakthrough AI products from concept to market.",
+      "verified": true
+    }
+  ],
+  "id": "d29058f2-8bda-41b8-8484-eda974c3ed0f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x69BEaB403438253f13b6e92Db91F7FB849258263",
+    "research": null,
+    "website": "https://neuromation.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69BEaB403438253f13b6e92Db91F7FB849258263/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NeuroToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

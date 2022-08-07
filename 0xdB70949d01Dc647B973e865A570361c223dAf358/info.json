@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xdB70949d01Dc647B973e865A570361c223dAf358",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "BigBingo is a leading AI platform and service provider dedicated to empowering business and people with AI.",
+      "verified": true
+    }
+  ],
+  "id": "e0296e4b-7644-487b-9a9a-8346b4d705ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdB70949d01Dc647B973e865A570361c223dAf358",
+    "research": null,
+    "website": "https://bigbingo.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB70949d01Dc647B973e865A570361c223dAf358/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BBG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

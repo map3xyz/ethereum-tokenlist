@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Connecting the blockchains using crosschain gateway built with smart contracts.",
+      "verified": true
+    }
+  ],
+  "id": "22f5389c-79b9-47a2-85ee-a18be691a119",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+    "research": null,
+    "website": "https://exrnchain.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe469c4473af82217B30CF17b10BcDb6C8c796e75/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EXRP Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXRN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

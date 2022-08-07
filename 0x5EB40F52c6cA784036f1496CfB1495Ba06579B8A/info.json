@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "04537a31-c1e5-47e2-bf22-990cff1aaba2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OwnerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OWN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

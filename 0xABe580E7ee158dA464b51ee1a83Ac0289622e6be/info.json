@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.",
+      "verified": true
+    }
+  ],
+  "id": "110190df-31ff-478f-b70a-f71aa5032c49",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+    "research": null,
+    "website": "https://offshift.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Offshift",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

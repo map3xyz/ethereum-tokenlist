@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x11003E410ca3FcD220765B3d2f343433A0b2bffd",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "FarmingBad is a yield farming project inspired by DeFi protpocols and drastically improved from a tokenomics point of view. We introduced the new concept of inflation called Berhane Model on our block reward and added a model of buybacks through BTC mining.",
+      "verified": true
+    }
+  ],
+  "id": "271bfa14-71fa-4fef-ba2b-127f5f2e0a8e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x11003E410ca3FcD220765B3d2f343433A0b2bffd",
+    "research": null,
+    "website": "https://farmingbad.finance",
+    "twitter": "https://twitter.com/FarmingBad",
+    "telegram": "https://t.me/FarmingBad",
+    "discord": "https://discord.com/invite/KvDDnVN2FP",
+    "medium": "https://medium.com/@FarmingBad"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11003E410ca3FcD220765B3d2f343433A0b2bffd/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "METH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "METH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

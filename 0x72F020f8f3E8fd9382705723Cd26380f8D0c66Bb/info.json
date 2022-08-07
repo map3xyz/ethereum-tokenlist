@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PlotX is a non-custodial prediction market protocol that enables users to earn rewards on high-yield prediction markets. Dubbed as the Uniswap of Prediction Markets, PlotX uses an Automated Market Making algorithm to settle markets and distribute rewards on the Ethereum Blockchain without any counterparty risk. Markets are focused on crypto-pairs like BTC-USD & ETH-USD and created in intervals of 4h, 1d and 1w.",
+      "verified": true
+    }
+  ],
+  "id": "dc7026f8-5a72-4cc5-94a3-d48c85e60a37",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+    "research": null,
+    "website": "https://plotx.io/",
+    "github": "https://github.com/plotx",
+    "twitter": "https://twitter.com/TryPlotX",
+    "telegram": "https://t.me/plotx_official",
+    "discord": "https://discord.com/invite/8CWNQnG",
+    "facebook": "https://facebook.com/TryPlotX",
+    "youtube": "https://youtube.com/channel/UCiUd_PC6uUdsavWk3vYbtgA",
+    "reddit": "https://reddit.com/r/Plotx",
+    "medium": "https://medium.com/plotx",
+    "whitepaper": "https://docsend.com/view/nnea7um4434u49uh"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PlotX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

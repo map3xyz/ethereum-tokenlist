@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "TenSpeed is the next generation of high yield deflationary farming, utilizing the TENS cryptocurrency which has been programmed to decrease in total supply the more active trading, yield farming and moving tokens becomes.",
+      "verified": true
+    }
+  ],
+  "id": "6f4ec400-75c7-42f3-9481-388f7f9c8d27",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796",
+    "research": null,
+    "website": "https://tenspeed.finance/",
+    "twitter": "https://twitter.com/TenSpeedFinance",
+    "telegram": "https://t.me/tenspeed_finance",
+    "discord": "https://discord.com/invite/uS9FhGH",
+    "medium": "https://medium.com/tenspeed/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TENS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TENS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

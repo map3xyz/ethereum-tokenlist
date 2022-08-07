@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "URQA is the token of the UREEQA platform.",
+      "verified": true
+    }
+  ],
+  "id": "0aa3a69b-c43d-4bab-b221-7d596ee845e5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+    "research": null,
+    "website": "https://ureeqa.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UREEQA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "URQA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

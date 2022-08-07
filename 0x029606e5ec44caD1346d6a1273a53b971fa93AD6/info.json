@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x029606e5ec44caD1346d6a1273a53b971fa93AD6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "empowr is a democratic social economy. It is uniquely enabling the sharing of everything ",
+      "verified": true
+    }
+  ],
+  "id": "dc2d643a-db1b-4522-b9cb-ea7fffc70a65",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x029606e5ec44caD1346d6a1273a53b971fa93AD6",
+    "research": null,
+    "website": "http://www.empowr.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x029606e5ec44caD1346d6a1273a53b971fa93AD6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "empowr orange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMPRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a9ae903e-0c7e-4c8a-8dcf-7b8161f0f52a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+    "research": null,
+    "website": "https://dether.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

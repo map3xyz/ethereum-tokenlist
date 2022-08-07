@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
+  "color": null,
+  "decimals": 2,
+  "description": [
+    {
+      "locale": "en",
+      "value": "NaPoleonX (NPX) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "9a15e7c6-85b0-4434-a0b5-4de4e647c40e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
+    "research": null,
+    "website": "http://www.napoleonx.ai"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "NapoleonX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

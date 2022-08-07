@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
+  "color": null,
+  "decimals": 4,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Distributed Public Key Infrastructure protocol and PKI-enabled apps for the modern web.",
+      "verified": true
+    }
+  ],
+  "id": "3986258b-2863-4c61-8768-74e665bcc9b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
+    "research": null,
+    "website": "https://remme.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83984d6142934bb535793A82ADB0a46EF0F66B6d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "REMME token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x068578338B146D64727428954cc348Cf92d9Ba88",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1cfc9d83-964f-4e13-97cd-0d3d4ebc4cf5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x068578338B146D64727428954cc348Cf92d9Ba88",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x068578338B146D64727428954cc348Cf92d9Ba88/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitcoinETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

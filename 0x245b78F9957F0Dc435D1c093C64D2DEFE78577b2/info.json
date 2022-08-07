@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ebd92a2b-91ee-46aa-8f56-b18fae6c6f12",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2",
+    "research": null,
+    "website": "https://halvingcoin.space/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Halving Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HALV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

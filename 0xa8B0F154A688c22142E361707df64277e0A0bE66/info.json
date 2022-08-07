@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa8B0F154A688c22142E361707df64277e0A0bE66",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "RAKE is a deflationary token that is designed to maximize yield farming, while the protocol builds a vault with locked liquidity forever, and 90% of all yields from liquidity mining will be used to buy back RAK on active Uniswap market, and pay the reward on RAK tokens.",
+      "verified": true
+    }
+  ],
+  "id": "1cc4b8be-115d-439d-93d0-e8bac8851401",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa8b0f154a688c22142e361707df64277e0a0be66",
+    "research": null,
+    "website": "https://rake.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8B0F154A688c22142E361707df64277e0A0bE66/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "RAK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

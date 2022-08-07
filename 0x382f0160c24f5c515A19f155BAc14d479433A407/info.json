@@ -1,0 +1,38 @@
+{
+  "active": false,
+  "address": "0x382f0160c24f5c515A19f155BAc14d479433A407",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KLEE Kai, the last of its kind, the forgotten doge of ETH.",
+      "verified": true
+    }
+  ],
+  "id": "8db0d407-09b0-4b24-8687-0b37ea80baa4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x382f0160c24f5c515A19f155BAc14d479433A407",
+    "research": null,
+    "website": "https://klee.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Klee Kai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLEE",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

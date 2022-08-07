@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x256845e721C0c46d54E6afBD4FA3B52CB72353EA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UniDollar is the first hybrid Proof of Liquidity and Proof of Stake ERC20 Token.",
+      "verified": true
+    }
+  ],
+  "id": "abdd64d6-c741-4a47-945a-78853b79ad52",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x256845e721C0c46d54E6afBD4FA3B52CB72353EA",
+    "research": null,
+    "website": "https://unidollar.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x256845e721C0c46d54E6afBD4FA3B52CB72353EA/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UniDollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNIUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

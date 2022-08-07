@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A new project seeking to change how tokens are generated utilizing Proof of Time. Only one new coin is minted every hour.",
+      "verified": true
+    }
+  ],
+  "id": "81be692f-db8f-45cc-9136-d3f8a6cfe7f0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
+    "research": null,
+    "website": "https://TimeMiner.site",
+    "twitter": "https://twitter.com/TimeMiner",
+    "telegram": "https://t.me/timeminer",
+    "whitepaper": "https://www.TimeMiner.site/TimeMiner.pdf"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TimeMiner",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

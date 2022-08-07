@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "79bc6acb-6e85-451c-a8f1-d0522456131d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f",
+    "research": null,
+    "website": "https://www.coinbene.com/#/coni"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CoinBene Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CONI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

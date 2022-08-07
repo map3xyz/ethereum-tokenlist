@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xb2F7EB1f2c37645bE61d73953035360e768D81E6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cobinhood (COB) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b41da4d8-3d3c-493f-8050-a48ecfebfeae",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb2F7EB1f2c37645bE61d73953035360e768D81E6",
+    "research": null,
+    "website": "https://www.cobinhood.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2F7EB1f2c37645bE61d73953035360e768D81E6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Cobinhood Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COB",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

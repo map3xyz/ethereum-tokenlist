@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DeltaChain inherits and develops the Ethereum technology platform, with open source P2P accelerates all transactions quickly, minimises risk, enhances high security, and does not involve any third parties.",
+      "verified": true
+    }
+  ],
+  "id": "a280671c-9f1f-4ebb-9ec0-cd2c3839321d",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c",
+    "research": null,
+    "website": "https://deltachain.tech/"
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DeltaChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DELTA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

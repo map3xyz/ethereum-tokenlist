@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "One tool to farm everything in Defi.",
+      "verified": true
+    }
+  ],
+  "id": "561b7bdd-be86-4875-9606-f947d6f11a12",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+    "research": null,
+    "website": "https://dracula.sucks/",
+    "github": "https://github.com/Dracula-Protocol/",
+    "whitepaper": "https://medium.com/@DraculaProtocol/the-dracula-protocol-919a80fcb09"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dracula Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

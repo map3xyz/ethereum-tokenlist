@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Farad Cryptoken is the first of it's kind among the cryptocurrencies that exist in the market. The main difference of Farad Cryptoken is that, it is backed by real economic activity which is the production of Ultra-capacitors within actual factory settings.",
+      "verified": true
+    }
+  ],
+  "id": "30799dac-6a06-4d6e-8203-484b23dadd76",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
+    "research": null,
+    "website": "https://farad.energy/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "FARAD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SPIDER FINANCE IS A FULLY DECENTRALIZED PROTOCOL FOR GAME ON ETHEREUM.",
+      "verified": true
+    }
+  ],
+  "id": "a0d9472b-b6e3-4f94-af5c-a1be5867fa44",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633",
+    "research": null,
+    "website": "https://spider.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Spider Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPID",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

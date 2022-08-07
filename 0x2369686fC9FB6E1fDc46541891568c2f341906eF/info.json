@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2369686fC9FB6E1fDc46541891568c2f341906eF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Drakons.IO is a strategy game and crypto collectibles site powered by blockchain",
+      "verified": true
+    }
+  ],
+  "id": "022391d0-d23c-4cdd-b359-b5b32761e76a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2369686fc9fb6e1fdc46541891568c2f341906ef",
+    "research": "https://www.drakons.io/faq",
+    "website": "https://drakoin.drakons.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2369686fC9FB6E1fDc46541891568c2f341906eF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Drakoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x7Ed172530F9822cd0573B895853E3f745f4108B4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1c744381-bc68-49a7-a13e-ed8cfe6819f4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x7Ed172530F9822cd0573B895853E3f745f4108B4",
+    "research": null,
+    "website": "http://hadescoin.net"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Ed172530F9822cd0573B895853E3f745f4108B4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "HadesCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

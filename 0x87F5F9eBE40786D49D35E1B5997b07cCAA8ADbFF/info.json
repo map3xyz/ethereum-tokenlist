@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Elastic supply | Publicly callable rebase mechanism every 12h.",
+      "verified": true
+    }
+  ],
+  "id": "0c6ffd78-98b8-4e95-921f-94faf6db164f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+    "research": null,
+    "website": "https://rebased.fi/",
+    "github": "https://github.com/RebasedToken/Rebased2",
+    "twitter": "https://twitter.com/Rebased_",
+    "telegram": "https://t.me/rebasedTG"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rebased",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REB2",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

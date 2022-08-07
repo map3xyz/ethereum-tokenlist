@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x70605a6457B0A8fBf1EEE896911895296eAB467E",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "xICHI is the staking coin of the ICHI community.",
+      "verified": true
+    }
+  ],
+  "id": "ba31ab8b-230f-48cc-83c4-48679fbe41e2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x70605a6457B0A8fBf1EEE896911895296eAB467E",
+    "research": null,
+    "website": "https://ichi.org"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70605a6457B0A8fBf1EEE896911895296eAB467E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IchiStake",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xICHI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

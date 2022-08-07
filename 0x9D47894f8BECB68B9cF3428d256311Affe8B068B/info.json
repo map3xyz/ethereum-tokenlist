@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Fair launch NFT and yield bearing asset platform.",
+      "verified": true
+    }
+  ],
+  "id": "b1f1347b-7e69-47a8-94bb-16d922932293",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9d47894f8becb68b9cf3428d256311affe8b068b",
+    "research": null,
+    "website": "https://rope.lol",
+    "github": "https://github.com/dontbuyrope/",
+    "twitter": "https://twitter.com/dontbuyrope",
+    "medium": "https://dontbuyrope.medium.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D47894f8BECB68B9cF3428d256311Affe8B068B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ROPE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$ROPE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

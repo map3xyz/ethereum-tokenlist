@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9fb6ac5a-a810-47dc-b69d-dd4d319d2495",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+    "research": null,
+    "website": "https://level01.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Level01 Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LVX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

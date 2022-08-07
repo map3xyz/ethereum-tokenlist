@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc6AbF3C09341741Ac6041B0B08195701bdFD460C",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Optimal Shelf Availability Token (OSA) is a decentralized, AI-driven blockchain platform that collects and analyzes data from retailers, manufacturers, consumers and open sources purportedly in real-time.",
+      "verified": true
+    }
+  ],
+  "id": "fd3b7c93-1e99-432b-8cf3-c9dd66080e17",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc6AbF3C09341741Ac6041B0B08195701bdFD460C",
+    "research": null,
+    "website": "https://token.osadc.io/en"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc6AbF3C09341741Ac6041B0B08195701bdFD460C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OSAToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OSA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

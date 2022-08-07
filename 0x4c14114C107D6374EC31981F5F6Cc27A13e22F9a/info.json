@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4c14114C107D6374EC31981F5F6Cc27A13e22F9a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SToken (STS) is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "b5b5507b-770e-406d-9edd-5e32b35f6e12",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4c14114C107D6374EC31981F5F6Cc27A13e22F9a",
+    "research": null,
+    "website": "https://www.sbankcapital.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c14114C107D6374EC31981F5F6Cc27A13e22F9a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

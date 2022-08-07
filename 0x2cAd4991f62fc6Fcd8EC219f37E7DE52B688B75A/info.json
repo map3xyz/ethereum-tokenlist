@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Schain Wallet is mobile defi wallet designed to help people staking and earn profit, storage, transfer coin & token with security and lower fees",
+      "verified": true
+    }
+  ],
+  "id": "3f87d7e4-2077-4f34-a000-c24493c2623c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+    "research": null,
+    "website": "https://schainwallet.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Schain Wallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCHA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

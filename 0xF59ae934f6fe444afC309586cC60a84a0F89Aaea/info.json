@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Utility token for Polkadex decentralized exchange",
+      "verified": true
+    }
+  ],
+  "id": "8636a499-faaf-45a7-8738-fed5046249f3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+    "research": "https://docs.polkadex.trade",
+    "website": "https://polkadex.trade"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Polkadex ERC-20 Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PDEX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

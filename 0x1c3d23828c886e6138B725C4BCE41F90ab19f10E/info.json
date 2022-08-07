@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1c3d23828c886e6138B725C4BCE41F90ab19f10E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6b677669-31a4-47ad-800d-47e79e228986",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1c3d23828c886e6138B725C4BCE41F90ab19f10E",
+    "research": null,
+    "website": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c3d23828c886e6138B725C4BCE41F90ab19f10E/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fulcrum Perpetual Short KNC-DAI 2x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsKNC2x",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

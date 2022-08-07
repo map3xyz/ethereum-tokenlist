@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "99da6444-737e-46c3-8839-c727867e6229",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d",
+    "research": null,
+    "website": "https://solareum.club"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Solareum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLRM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

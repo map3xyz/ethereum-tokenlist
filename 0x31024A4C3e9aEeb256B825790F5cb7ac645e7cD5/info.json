@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+  "color": null,
+  "decimals": 3,
+  "description": [
+    {
+      "locale": "en",
+      "value": "XIOT is the main token of the Xiotri platform, giving fair yields to everyone.",
+      "verified": true
+    }
+  ],
+  "id": "3f4e9a36-fd00-4e2b-b5fe-6c3e4da9f630",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+    "research": null,
+    "website": "https://xiotri.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "XIOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

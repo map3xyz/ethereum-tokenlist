@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "KOROMARU is a hybrid dog/anime/gaming meme token benefitting investors and expanding our reach into budding gaming ecosystems.",
+      "verified": true
+    }
+  ],
+  "id": "54797ccc-c472-4768-8cb2-d7109b9f33a7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd0d42005e7b3c0812b1268f0e5faf97ff2423651",
+    "research": null,
+    "website": "https://koromaruinu.net/",
+    "twitter": "https://twitter.com/KoromaruInu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/koromaru/",
+    "coingecko": "https://coingecko.com/en/coins/koromaru"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "KOROMARU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KOROMARU",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

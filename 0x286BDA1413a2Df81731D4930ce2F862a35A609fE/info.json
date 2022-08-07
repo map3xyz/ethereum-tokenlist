@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WABI enables fair value transfer between consumers and brands",
+      "verified": true
+    }
+  ],
+  "id": "02b50338-d11d-4260-adcc-74dd3ff2b387",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+    "research": null,
+    "website": "https://wabi.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x286BDA1413a2Df81731D4930ce2F862a35A609fE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tael",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WaBi",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

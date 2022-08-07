@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0442BC99441F55244131CC13A2E717C493DDbF01",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "V2.0 of REVO",
+      "verified": true
+    }
+  ],
+  "id": "e6cb7e6d-575f-4a27-b14a-9037ef9edd56",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0442BC99441F55244131CC13A2E717C493DDbF01",
+    "research": null,
+    "website": "http://revi.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0442BC99441F55244131CC13A2E717C493DDbF01/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "REVI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REVI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

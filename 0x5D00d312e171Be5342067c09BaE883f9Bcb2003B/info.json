@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5D00d312e171Be5342067c09BaE883f9Bcb2003B",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized World of Ether Monsters",
+      "verified": true
+    }
+  ],
+  "id": "20fa7893-396d-4785-92ba-cff53655a994",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5D00d312e171Be5342067c09BaE883f9Bcb2003B",
+    "research": null,
+    "website": "https://ethermon.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D00d312e171Be5342067c09BaE883f9Bcb2003B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ethermon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMONA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

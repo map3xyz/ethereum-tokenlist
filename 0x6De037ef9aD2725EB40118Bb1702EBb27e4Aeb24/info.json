@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Distributed GPU rendering on the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "f07c1476-86af-419b-a97e-2a5bf0d89f50",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+    "research": null,
+    "website": "https://rendertoken.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Render Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNDR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

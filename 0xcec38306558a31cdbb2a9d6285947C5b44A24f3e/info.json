@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xcec38306558a31cdbb2a9d6285947C5b44A24f3e",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DFS is a global payment option that is fully decentralized built on the Ethereum Blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "50b7f131-9486-493e-962f-9f1fa144183e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcec38306558a31cdbb2a9d6285947C5b44A24f3e",
+    "research": null,
+    "website": "https://www.digitalfantasysports.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcec38306558a31cdbb2a9d6285947C5b44A24f3e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fantasy Sports",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

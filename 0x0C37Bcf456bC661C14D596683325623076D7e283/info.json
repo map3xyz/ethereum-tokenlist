@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Aeron – blockchain solutions for aviation safety.",
+      "verified": true
+    }
+  ],
+  "id": "0b695dbb-f571-44a0-8058-ca62670b1c1f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0C37Bcf456bC661C14D596683325623076D7e283",
+    "research": "https://research.binance.com/en/projects/aeron",
+    "website": "https://aeron.aero"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aeron",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARNX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

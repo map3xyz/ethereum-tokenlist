@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x93d3296cac208422BF587c3597D116e809870f2b",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "pUSD is a USD-pegged stablecoin asset in the PegNet network.",
+      "verified": true
+    }
+  ],
+  "id": "6db3fe6a-edbc-45c9-9a1d-1383e9b9e544",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x93d3296cac208422BF587c3597D116e809870f2b",
+    "research": null,
+    "website": "https://pegnet.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93d3296cac208422BF587c3597D116e809870f2b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "pUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "pUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

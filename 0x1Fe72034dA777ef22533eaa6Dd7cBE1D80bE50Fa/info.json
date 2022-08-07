@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c6790758-b0eb-461c-80ad-5104a7840271",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+    "research": null,
+    "website": "https://www.payaccept.net/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PayAccept",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "05849497-9008-4d15-a45f-89f59b2011e7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+    "research": null,
+    "website": "https://ethorse.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Horse",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HORSE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

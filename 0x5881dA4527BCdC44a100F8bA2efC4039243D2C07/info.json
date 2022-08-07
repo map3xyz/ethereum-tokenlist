@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5881dA4527BCdC44a100F8bA2efC4039243D2C07",
+  "color": null,
+  "decimals": 1,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A project offering the opportunity to participate in the LGBTQ community and support for the LGBTQ community from around the world.",
+      "verified": true
+    }
+  ],
+  "id": "0a5759fc-472f-4778-9ffc-071dd813ff9e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5881dA4527BCdC44a100F8bA2efC4039243D2C07",
+    "research": null,
+    "website": "https://www.lgbtqnetwork.space/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5881dA4527BCdC44a100F8bA2efC4039243D2C07/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pride",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LGBTQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

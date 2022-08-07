@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Waifu Token claims to be a community-funded cryptocurrency that is an anime-centric ERC-20 token on the Ethereum network.",
+      "verified": true
+    }
+  ],
+  "id": "cd340a8e-66f0-475a-88a3-d6e10d4cebb4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+    "research": null,
+    "website": "https://waifutoken.io"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2279B6769CFBa691416F00609b16244c0cF4b20/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Waifu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAIF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

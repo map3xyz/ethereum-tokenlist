@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "df0fd0ba-d80f-44a5-b85a-18fc20b7a561",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+    "research": null,
+    "website": "https://www.korbot.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Korbot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KBOT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

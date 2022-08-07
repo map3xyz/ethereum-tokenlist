@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x904da022AbCF44EbA68d4255914141298a7F7307",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "A self-governing cryptocurrency evaluation platform achieved by utilising on-chain governance, peer reviews and voting.",
+      "verified": true
+    }
+  ],
+  "id": "b6cb5ce6-e0ac-48d5-9915-11f883fc33b9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x904da022AbCF44EbA68d4255914141298a7F7307",
+    "research": null,
+    "website": "https://vldy.org/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x904da022AbCF44EbA68d4255914141298a7F7307/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Validity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLDY",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

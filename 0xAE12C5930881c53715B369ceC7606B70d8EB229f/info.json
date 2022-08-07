@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
+      "verified": true
+    }
+  ],
+  "id": "7c500c69-f9b3-4570-aa3e-d7fa5412be36",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xae12c5930881c53715b369cec7606b70d8eb229f",
+    "research": null,
+    "website": "https://coin98.com/",
+    "twitter": "https://twitter.com/coin98_finance",
+    "coingecko": "https://coingecko.com/en/coins/coin98/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coin98/",
+    "github": "https://github.com/coin98",
+    "telegram": "https://t.me/StackerVentures"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coin98",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C98",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "aa03626a-b0ed-4e4e-b288-7fe6bd324b97",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+    "research": null,
+    "website": "http://www.playgroundz.io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IOGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOG",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

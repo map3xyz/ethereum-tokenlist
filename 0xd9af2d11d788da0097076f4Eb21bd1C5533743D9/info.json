@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd9af2d11d788da0097076f4Eb21bd1C5533743D9",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The LBK project is set out to address the blind spot in the legal market and seeks to provide online based legal services. Clients can receive legal advice related to contracts online, enter into contracts, and contracts that are signed online are stored on the Ethereum network as hash values to prevent forgery.",
+      "verified": true
+    }
+  ],
+  "id": "9242c290-d33f-4dc6-b711-df754d663389",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9af2d11d788da0097076f4Eb21bd1C5533743D9",
+    "research": null,
+    "website": "https://legal-block.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9af2d11d788da0097076f4Eb21bd1C5533743D9/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Legal Block Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

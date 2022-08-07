@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The JustLiquidity DeFi is not merely a better way to trade and earn on Uniswap with ETH, but also a DeFi which can execute a Liquidity Token Sale with a token. .",
+      "verified": true
+    }
+  ],
+  "id": "930b4a86-c038-4feb-a378-923cfa69c7b5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5580ab97F226C324c671746a1787524AEF42E415",
+    "research": null,
+    "website": "https://justliquidity.org",
+    "github": "https://github.com/JustLiquidity",
+    "whitepaper": "https://docdro.id/DyOuQZr"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5580ab97F226C324c671746a1787524AEF42E415/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "JustLiquidity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JUL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

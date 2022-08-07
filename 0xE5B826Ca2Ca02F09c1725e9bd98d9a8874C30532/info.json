@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ZEON Network bills itself as a decentralized platform for financial services.",
+      "verified": true
+    }
+  ],
+  "id": "c0fad58f-553a-49e1-bba7-9c6f5c73d8cc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+    "research": null,
+    "website": "https://zeon.network"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ZEON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

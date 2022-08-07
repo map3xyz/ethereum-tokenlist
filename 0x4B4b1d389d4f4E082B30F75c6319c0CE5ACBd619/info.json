@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AI Auto Trading Application",
+      "verified": true
+    }
+  ],
+  "id": "5344c312-5bb1-432f-8104-162a8fa8a018",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
+    "research": null,
+    "website": "https://heartnumber.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Heart Number",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

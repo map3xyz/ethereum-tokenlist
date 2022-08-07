@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x33fEfc811A86474A832d38926428a1DADE431F25",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ProNet Coin (PNC) is a project aimed at helping victims of abandoned(scam) ICO projects regain their stolen investments. This is done by swapping the valueless coins left in their wallets into PNC. PNC is available for swap on Pronetcoin.com",
+      "verified": true
+    }
+  ],
+  "id": "aedc3920-e504-4585-b859-b027e5c4744c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x33fEfc811A86474A832d38926428a1DADE431F25",
+    "research": null,
+    "website": "https://pronetcoin.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33fEfc811A86474A832d38926428a1DADE431F25/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ProNet Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

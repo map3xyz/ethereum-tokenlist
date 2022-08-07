@@ -1,0 +1,46 @@
+{
+  "active": true,
+  "address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stronger is a cryptocurrency and operates on the Ethereum platform.",
+      "verified": true
+    }
+  ],
+  "id": "99ea7a68-2f48-4528-a8fd-6dc0d4f84dda",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+    "research": null,
+    "website": "https://strongblock.com",
+    "twitter": "https://twitter.com/Strongblock_io",
+    "github": "https://github.com/StrongBlock/StrongChain",
+    "telegram": "https://t.me/strongblock_io",
+    "discord": "https://discord.com/channels/787870755340943360/787870755340943363",
+    "medium": "https://strongblockio.medium.com/",
+    "youtube": "https://youtube.com/channel/UCdK_PT2R-URzv1I20rzPKLQ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stronger/",
+    "coingecko": "https://coingecko.com/coins/stronger"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stronger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRNGR",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

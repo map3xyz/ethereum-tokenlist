@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GTC is the governance token we’re using to decentralize Gitcoin into a DAO (GitcoinDAO) ecosystem, collectively working to fund the next generation of public goods.",
+      "verified": true
+    }
+  ],
+  "id": "6ad3ae0c-24f0-4e53-8b79-0dac87202bbe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "research": null,
+    "website": "https://gitcoin.co/quadraticlands/",
+    "github": "https://github.com/gitcoinco",
+    "twitter": "https://twitter.com/gitcoin",
+    "reddit": "https://reddit.com/r/gitcoincommunity/",
+    "facebook": "https://facebook.com/GetGitcoin/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gitcoin/",
+    "coingecko": "https://coingecko.com/en/coins/gitcoin/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

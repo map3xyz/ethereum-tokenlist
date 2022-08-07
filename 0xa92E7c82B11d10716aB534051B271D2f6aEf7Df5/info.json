@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ara directly connects creators and fans, enabling distribution and payment without platform fees and limits.",
+      "verified": true
+    }
+  ],
+  "id": "a2d45a0b-af22-4304-9bfd-52e942c29e1e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa92e7c82b11d10716ab534051b271d2f6aef7df5",
+    "research": null,
+    "website": "https://ara.one"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ara Token (ARA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

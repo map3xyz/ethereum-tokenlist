@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "oneFUSE is an ICHI-created stablecoin for Fuse.",
+      "verified": true
+    }
+  ],
+  "id": "8ac0f2e5-270f-4686-ae39-31804018ecaa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
+    "research": null,
+    "website": "app.ichi.org",
+    "github": "https://github.com/ichifarm/ichi-oneToken",
+    "twitter": "https://twitter.com/ichifarm",
+    "telegram": "https://t.me/ichifarm",
+    "medium": "https://medium.com/ichifarm",
+    "discord": "https://discord.com/invite/DvsYCfK8",
+    "coingecko": "https://coingecko.com/en/coins/onefuse"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable FUSE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFUSE",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

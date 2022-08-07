@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pajama.Finance - $PJM is an Yield Farming Token! Farm $PJM and receive $PJM!",
+      "verified": true
+    }
+  ],
+  "id": "fd3c14a7-c471-4a1f-b9c6-fd9fe74913f5",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915",
+    "research": null,
+    "website": "https://pajama.finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pajama.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PJM",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

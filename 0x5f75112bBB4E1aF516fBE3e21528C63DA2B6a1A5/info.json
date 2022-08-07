@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fe5e774a-9704-47ee-b07e-51412a06933a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5",
+    "research": null,
+    "website": "https://brainiacchess.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chess Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHESS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
