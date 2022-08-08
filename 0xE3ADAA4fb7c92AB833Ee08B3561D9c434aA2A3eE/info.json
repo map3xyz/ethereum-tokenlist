@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d0635f2b-48cf-4038-9f67-e394c1151a32",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Serum (Portal from Solana)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "SRMso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

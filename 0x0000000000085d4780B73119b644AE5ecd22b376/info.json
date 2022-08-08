@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4526f1ed-35d8-436b-a061-232612bad5d1",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueUSD",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "TUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

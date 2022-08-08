@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3b23930-39ae-42b8-b620-d4449a01abec",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Yield Guild Games",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "YGG",
+  "tags": [
+    "governance",
+    "gamefi",
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

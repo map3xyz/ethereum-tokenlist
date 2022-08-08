@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c06a7e57-9258-493e-bc17-fd2292b135f9",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USDN",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "USDN",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

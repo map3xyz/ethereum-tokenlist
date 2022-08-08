@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8a609d9-625e-4328-bc2a-7dc932074667",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniDAI",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "aUniDAI",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

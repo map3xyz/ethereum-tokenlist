@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xb977ee318010A5252774171494a1bCB98E7fab65",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "935adce8-e266-4587-ace1-a0b50901748f",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniUSDT",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "aUniUSDT",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

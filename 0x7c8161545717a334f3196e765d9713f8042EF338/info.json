@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7c8161545717a334f3196e765d9713f8042EF338",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6875afe3-7973-42ed-a554-8f382320dfe2",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c8161545717a334f3196e765d9713f8042EF338/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PancakeSwap Token (Portal)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "CAKE",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7b9e2cc-2656-483a-8cf4-0757330c4bd0",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Badger",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "BADGER",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

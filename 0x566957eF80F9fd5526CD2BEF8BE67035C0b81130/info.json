@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1ae750de-63c7-47f9-b0c8-7487b50a5847",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x566957eF80F9fd5526CD2BEF8BE67035C0b81130/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (PoS) (Portal from Polygon)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "USDCpo",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

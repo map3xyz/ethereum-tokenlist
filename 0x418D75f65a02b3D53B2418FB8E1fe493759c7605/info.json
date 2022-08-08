@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "600befa9-02ed-43f2-9855-d979b94b45ae",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x418D75f65a02b3D53B2418FB8E1fe493759c7605/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance Coin (Portal)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "BNB",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

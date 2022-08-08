@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3613e699-bd98-4d6a-b832-270ef778f732",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "USDC",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fdc1116d-7e48-40cd-a181-e95b75094d19",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "mStable USD",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "mUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

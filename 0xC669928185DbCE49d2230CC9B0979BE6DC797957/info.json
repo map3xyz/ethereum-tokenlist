@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4df8eba1-afbc-4731-ad06-97c1951d97d1",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC669928185DbCE49d2230CC9B0979BE6DC797957/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BitTorrent",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "BTT",
+  "tags": [
+    "governance",
+    "staking",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

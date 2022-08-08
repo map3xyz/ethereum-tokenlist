@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32e09903-a259-4b7b-bfbe-ca1bb4eb7d20",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Flow",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "WFLOW",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

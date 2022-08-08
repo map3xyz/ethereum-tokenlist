@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3cf09de7-a4e3-4061-8bca-75edd639f3c9",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

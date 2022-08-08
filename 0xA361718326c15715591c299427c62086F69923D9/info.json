@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xA361718326c15715591c299427c62086F69923D9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbe554d0-25c9-4eac-8aac-97104cae4555",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA361718326c15715591c299427c62086F69923D9/logo.svg",
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aBUSD.svg"
+    }
+  },
+  "name": "Aave interest bearing BUSD",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "aBUSD",
+  "tags": [
+    "atokenv2",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

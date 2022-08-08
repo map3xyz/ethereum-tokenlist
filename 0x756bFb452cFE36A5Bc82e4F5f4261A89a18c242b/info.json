@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "bbeaa778-192c-4867-80aa-f691dea358f6",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Marinade staked SOL (Portal)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "mSOL",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

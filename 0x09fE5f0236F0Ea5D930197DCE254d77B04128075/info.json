@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4aaed17-54f4-4381-932f-09aa5164d94b",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped CryptoKitties",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "WCK",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

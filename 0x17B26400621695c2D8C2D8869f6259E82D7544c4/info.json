@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed35c52b-7c84-468c-9161-35586325e08f",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17B26400621695c2D8C2D8869f6259E82D7544c4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CustomContractNetwork",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "CCN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

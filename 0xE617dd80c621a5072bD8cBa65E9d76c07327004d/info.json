@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "123b1f75-126d-4a54-abe3-241643a699fa",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE617dd80c621a5072bD8cBa65E9d76c07327004d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Raydium (Portal)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "RAY",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

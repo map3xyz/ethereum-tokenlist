@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f6dd4a3-e407-4067-a20e-ac347558c69e",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7B4B0B9b024109D182dCF3831222fbdA81369423/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

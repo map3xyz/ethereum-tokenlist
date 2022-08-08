@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ab0c40d4-9401-4cab-aae1-c9bf66c47946",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ITL (Italian Lira)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "ITL",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

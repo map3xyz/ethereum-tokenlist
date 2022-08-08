@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d239b660-4537-4cbe-ab11-330c093b9b33",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dai Stablecoin",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "DAI",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

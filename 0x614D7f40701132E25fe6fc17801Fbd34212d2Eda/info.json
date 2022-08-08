@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x614D7f40701132E25fe6fc17801Fbd34212d2Eda",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "84abc49a-b72b-4c76-90bc-5ef936e42151",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x614D7f40701132E25fe6fc17801Fbd34212d2Eda/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SafeBLAST",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "BLAST",
+  "tags": [
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

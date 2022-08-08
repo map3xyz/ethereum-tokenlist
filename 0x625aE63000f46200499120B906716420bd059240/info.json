@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x625aE63000f46200499120B906716420bd059240",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6f5fed69-81fb-44ee-96cf-daafda64b3ee",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x625aE63000f46200499120B906716420bd059240/logo.svg",
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aSUSD.svg"
+    }
+  },
+  "name": "Aave Interest bearing SUSD",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "aSUSD",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "240160c8-20c2-4388-9033-17841ce16f68",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Ether",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "WETH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

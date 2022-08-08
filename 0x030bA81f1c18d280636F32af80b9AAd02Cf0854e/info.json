@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ab6eb9c-1854-4526-bc1c-85bdd2d72690",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing WETH",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "aWETH",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

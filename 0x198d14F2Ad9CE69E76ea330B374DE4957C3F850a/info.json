@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "0697f8a9-604d-42d5-9b5a-cfe4c9cb775e",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "APENFT",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "NFT",
+  "tags": [
+    "nft",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

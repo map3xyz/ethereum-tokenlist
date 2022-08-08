@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5fade02c-9eba-41e6-a02c-9deacb996f27",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD291E7a03283640FDc51b121aC401383A46cC623/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Rari Governance Token (RGT)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "RGT",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d39d8517-e9e9-40af-b5b1-d1999ba1331e",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped NXM",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "wNXM",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "73009474-dd4c-427b-8f95-a74be433fd23",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD31a59c85aE9D8edEFeC411D448f90841571b89c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOL (Portal)",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

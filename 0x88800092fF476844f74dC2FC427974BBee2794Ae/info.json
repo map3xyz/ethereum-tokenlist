@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ddf8677-560a-4f9a-9aa7-73b4556f9538",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88800092fF476844f74dC2FC427974BBee2794Ae/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ambire Wallet",
+  "networkId": "ethereum",
+  "spam": true,
+  "symbol": "WALLET",
+  "tags": [
+    "defi",
+    "governance",
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
