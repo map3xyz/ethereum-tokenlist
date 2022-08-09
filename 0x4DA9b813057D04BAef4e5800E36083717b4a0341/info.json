@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4DA9b813057D04BAef4e5800E36083717b4a0341",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9781d03f-8b49-4c71-8cc4-d8b2b6909d6c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4DA9b813057D04BAef4e5800E36083717b4a0341/logo.svg"
+  },
+  "name": "Aave Interest bearing TUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aTUSD",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
