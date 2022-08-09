@@ -6,7 +6,9 @@
   "description": null,
   "id": "57f5c072-b121-4536-b181-e7d40a20208f",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
   "name": "USD Coin",
   "networkId": "ethereum",
   "spam": false,

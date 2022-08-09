@@ -6,7 +6,9 @@
   "description": null,
   "id": "97842961-9e7e-4924-bd4a-f0a061f8eb7e",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB4272071eCAdd69d933AdcD19cA99fe80664fc08/logo.png"
+  },
   "name": "CryptoFranc",
   "networkId": "ethereum",
   "spam": false,

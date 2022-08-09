@@ -6,7 +6,9 @@
   "description": null,
   "id": "39757c0b-213d-42bb-8877-3b32c9ec3fd8",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57Ab1E02fEE23774580C119740129eAC7081e9D3/logo.png"
+  },
   "name": "sUSD",
   "networkId": "ethereum",
   "spam": false,

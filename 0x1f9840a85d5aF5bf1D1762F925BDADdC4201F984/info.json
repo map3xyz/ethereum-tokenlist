@@ -6,7 +6,9 @@
   "description": null,
   "id": "e7ca720b-6638-49f2-ad9d-bdf5526429fa",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+  },
   "name": "Uniswap",
   "networkId": "ethereum",
   "spam": false,

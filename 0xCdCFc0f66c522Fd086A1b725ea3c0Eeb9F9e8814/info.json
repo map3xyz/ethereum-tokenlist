@@ -6,7 +6,9 @@
   "description": null,
   "id": "b26be992-eb35-4236-bc5c-29e8d4c94125",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814/logo.png"
+  },
   "name": "Terra",
   "networkId": "ethereum",
   "spam": false,

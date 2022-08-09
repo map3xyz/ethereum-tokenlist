@@ -6,7 +6,9 @@
   "description": null,
   "id": "601dc937-e073-4f18-be9d-5278dcec2aef",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+  },
   "name": "TrueUSD",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,9 @@
   "description": null,
   "id": "716838db-c463-4ee2-9a39-c729e1356224",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
   "name": "Tether USD",
   "networkId": "ethereum",
   "spam": false,

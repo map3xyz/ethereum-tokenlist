@@ -6,7 +6,9 @@
   "description": null,
   "id": "0444ba9f-dd32-451d-8da0-e890ea2aaeef",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE/logo.png"
+  },
   "name": "xEURO",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,9 @@
   "description": null,
   "id": "8e14b128-1281-4cff-9158-cbca066afc48",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+  },
   "name": "yearn.finance",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,9 @@
   "description": null,
   "id": "528520b3-1428-48a3-92f3-17a8d8a06967",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c48f86ae57291F7686349F12601910BD8D470bb/logo.png"
+  },
   "name": "USDK",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,9 @@
   "description": null,
   "id": "5eea4d91-07fb-40a4-8bda-71299e0dce0a",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb977ee318010A5252774171494a1bCB98E7fab65/logo.png"
+  },
   "name": "Aave Interest bearing UniUSDT",
   "networkId": "ethereum",
   "spam": false,

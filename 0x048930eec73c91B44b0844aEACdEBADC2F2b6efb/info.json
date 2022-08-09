@@ -6,7 +6,9 @@
   "description": null,
   "id": "0488e4d9-c239-4ef1-9e46-2f78871e97fd",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x048930eec73c91B44b0844aEACdEBADC2F2b6efb/logo.png"
+  },
   "name": "Aave Interest bearing UniDAI",
   "networkId": "ethereum",
   "spam": false,

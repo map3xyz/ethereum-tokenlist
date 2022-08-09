@@ -6,7 +6,9 @@
   "description": null,
   "id": "3057ba77-efb9-4379-acf1-1cc5f8d8d4f4",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
+  },
   "name": "Single Collateral DAI",
   "networkId": "ethereum",
   "spam": false,

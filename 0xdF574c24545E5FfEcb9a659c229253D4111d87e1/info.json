@@ -6,7 +6,9 @@
   "description": null,
   "id": "deec057c-f807-4eb3-b6fe-bbfe46e2dee6",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF574c24545E5FfEcb9a659c229253D4111d87e1/logo.png"
+  },
   "name": "HUSD",
   "networkId": "ethereum",
   "spam": false,

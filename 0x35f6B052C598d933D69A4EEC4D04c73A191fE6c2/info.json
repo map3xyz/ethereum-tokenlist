@@ -6,7 +6,9 @@
   "description": null,
   "id": "d1d943e8-b488-4194-86fa-06b60b2913b0",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2/logo.png"
+  },
   "name": "Aave interest bearing SNX",
   "networkId": "ethereum",
   "spam": false,

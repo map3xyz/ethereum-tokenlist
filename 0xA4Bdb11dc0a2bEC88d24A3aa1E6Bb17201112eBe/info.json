@@ -6,7 +6,9 @@
   "description": null,
   "id": "2cb761cb-2827-40df-b371-0b5656f01033",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe/logo.png"
+  },
   "name": "StableUSD",
   "networkId": "ethereum",
   "spam": false,

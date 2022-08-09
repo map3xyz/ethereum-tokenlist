@@ -6,7 +6,9 @@
   "description": null,
   "id": "162ac7e1-58b0-4691-a85f-5db7d4828132",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+  },
   "name": "Decentraland MANA",
   "networkId": "ethereum",
   "spam": false,
