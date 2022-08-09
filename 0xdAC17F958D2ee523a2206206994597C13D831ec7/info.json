@@ -7,7 +7,15 @@
   "id": "60e0e011-303d-4e70-9a40-cd9f58e9c84a",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
   },
   "name": "Tether USD",
   "networkId": "ethereum",

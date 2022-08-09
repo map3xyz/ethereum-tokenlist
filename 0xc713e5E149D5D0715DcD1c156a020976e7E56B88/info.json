@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aMKR.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc713e5E149D5D0715DcD1c156a020976e7E56B88/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc713e5E149D5D0715DcD1c156a020976e7E56B88/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc713e5E149D5D0715DcD1c156a020976e7E56B88/logo.png"
     }
   },
   "name": "Aave interest bearing MKR",

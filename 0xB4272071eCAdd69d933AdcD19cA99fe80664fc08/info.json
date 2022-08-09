@@ -7,7 +7,15 @@
   "id": "4b73adec-6d33-42d2-bdfc-75b444f577f9",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4272071eCAdd69d933AdcD19cA99fe80664fc08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB4272071eCAdd69d933AdcD19cA99fe80664fc08/logo.png"
+    }
   },
   "name": "CryptoFranc",
   "networkId": "ethereum",

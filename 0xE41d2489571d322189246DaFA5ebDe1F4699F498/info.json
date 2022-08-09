@@ -7,7 +7,15 @@
   "id": "bb2a04f0-2b4d-4fd6-81e9-4d9c1864a43d",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    }
   },
   "name": "0x Protocol Token",
   "networkId": "ethereum",

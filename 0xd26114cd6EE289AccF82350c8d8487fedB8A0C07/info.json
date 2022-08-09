@@ -10,10 +10,12 @@
     "downloaded": true,
     "input": {
       "png": {
-        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets//logo.png"
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
       }
     },
-    "output": {}
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
+    }
   },
   "name": "OMG Network",
   "networkId": "ethereum",

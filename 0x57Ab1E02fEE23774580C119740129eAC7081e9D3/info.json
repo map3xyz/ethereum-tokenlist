@@ -7,7 +7,15 @@
   "id": "cb9c1ce3-a7f9-4877-8f3a-8a86a14ab019",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1E02fEE23774580C119740129eAC7081e9D3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57Ab1E02fEE23774580C119740129eAC7081e9D3/logo.png"
+    }
   },
   "name": "sUSD",
   "networkId": "ethereum",

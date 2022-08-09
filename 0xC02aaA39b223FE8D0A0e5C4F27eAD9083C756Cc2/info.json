@@ -7,7 +7,15 @@
   "id": "506d7f85-254a-42cc-b924-59c9475fd424",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
   },
   "name": "Wrapped Ether",
   "networkId": "ethereum",

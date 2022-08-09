@@ -7,7 +7,15 @@
   "id": "c2faceb3-c6ec-468a-9ffe-cc7c083d938a",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1/logo.png"
+    }
   },
   "name": "Aave interest bearing UNI",
   "networkId": "ethereum",

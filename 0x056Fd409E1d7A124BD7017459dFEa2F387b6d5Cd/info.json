@@ -7,7 +7,15 @@
   "id": "3c500bd9-6e27-4e20-b752-1f05718240f5",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png"
+    }
   },
   "name": "Gemini Dollar",
   "networkId": "ethereum",

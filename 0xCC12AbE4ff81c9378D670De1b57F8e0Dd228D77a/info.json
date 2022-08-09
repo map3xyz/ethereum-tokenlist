@@ -7,7 +7,15 @@
   "id": "44c5ca70-6136-412a-94b1-3811ba4051c3",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a/logo.png"
+    }
   },
   "name": "Aave interest bearing REN",
   "networkId": "ethereum",

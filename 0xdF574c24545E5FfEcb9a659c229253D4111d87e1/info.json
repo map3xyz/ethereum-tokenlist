@@ -7,7 +7,15 @@
   "id": "640503ed-f6bc-426f-b9d5-1fc5547e28cf",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF574c24545E5FfEcb9a659c229253D4111d87e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF574c24545E5FfEcb9a659c229253D4111d87e1/logo.png"
+    }
   },
   "name": "HUSD",
   "networkId": "ethereum",

@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUSDT.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8/logo.png"
     }
   },
   "name": "Aave Interest bearing USDT",

@@ -7,7 +7,15 @@
   "id": "39ee3550-d505-467c-a0ae-7a12093b1d42",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    }
   },
   "name": "yearn.finance",
   "networkId": "ethereum",

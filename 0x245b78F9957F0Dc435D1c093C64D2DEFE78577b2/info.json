@@ -13,7 +13,9 @@
         "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2/logo.png"
       }
     },
-    "output": {}
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2/logo.png"
+    }
   },
   "name": "Halving Coin",
   "networkId": "ethereum",

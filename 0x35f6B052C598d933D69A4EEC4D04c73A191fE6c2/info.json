@@ -7,7 +7,15 @@
   "id": "7c24e217-9ecf-4b53-b00c-4bcaa8cd9923",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2/logo.png"
+    }
   },
   "name": "Aave interest bearing SNX",
   "networkId": "ethereum",

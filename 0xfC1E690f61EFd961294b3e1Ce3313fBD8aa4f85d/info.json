@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aDAI.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
     }
   },
   "name": "Aave Interest bearing DAI",

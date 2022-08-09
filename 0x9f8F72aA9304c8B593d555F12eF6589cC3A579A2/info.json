@@ -7,7 +7,15 @@
   "id": "cce5361a-e93b-473a-bfc4-6fbee53ac650",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    }
   },
   "name": "MakerDAO",
   "networkId": "ethereum",

@@ -7,7 +7,15 @@
   "id": "91922dc0-2582-4160-91e0-0e5b2756b0a7",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    }
   },
   "name": "Republic Token",
   "networkId": "ethereum",

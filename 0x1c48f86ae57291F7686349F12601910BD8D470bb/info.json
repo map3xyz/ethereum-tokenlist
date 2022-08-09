@@ -7,7 +7,15 @@
   "id": "2525fe9e-9023-4cea-8abb-b8b32dc8f7ad",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c48f86ae57291F7686349F12601910BD8D470bb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c48f86ae57291F7686349F12601910BD8D470bb/logo.png"
+    }
   },
   "name": "USDK",
   "networkId": "ethereum",

@@ -7,7 +7,15 @@
   "id": "d324caca-e8b9-4cc2-9e1c-667a06ea7c0e",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4954Db6391F4feB5468b6B943D4935353596aEC9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4954Db6391F4feB5468b6B943D4935353596aEC9/logo.png"
+    }
   },
   "name": "USDQ",
   "networkId": "ethereum",

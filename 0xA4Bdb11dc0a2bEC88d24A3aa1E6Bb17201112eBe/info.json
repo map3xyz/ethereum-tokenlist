@@ -7,7 +7,15 @@
   "id": "0ba072fa-b293-4834-8d2b-15e13511b14b",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe/logo.png"
+    }
   },
   "name": "StableUSD",
   "networkId": "ethereum",

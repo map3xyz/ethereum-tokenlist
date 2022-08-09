@@ -13,7 +13,9 @@
         "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x241bA672574A78a3A604CDd0a94429A73a84a324/logo.png"
       }
     },
-    "output": {}
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x241bA672574A78a3A604CDd0a94429A73a84a324/logo.png"
+    }
   },
   "name": "4NEW",
   "networkId": "ethereum",

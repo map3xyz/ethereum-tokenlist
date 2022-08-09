@@ -13,7 +13,9 @@
         "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e/logo.png"
       }
     },
-    "output": {}
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e/logo.png"
+    }
   },
   "name": "EverRise NFT Stakes",
   "networkId": "ethereum",

@@ -7,7 +7,15 @@
   "id": "37b81ec4-2895-4ebe-923d-cc02ff4e711f",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
+    }
   },
   "name": "Synth sUSD",
   "networkId": "ethereum",

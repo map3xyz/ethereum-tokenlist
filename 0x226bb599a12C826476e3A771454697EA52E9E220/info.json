@@ -13,7 +13,9 @@
         "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x226bb599a12C826476e3A771454697EA52E9E220/logo.png"
       }
     },
-    "output": {}
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x226bb599a12C826476e3A771454697EA52E9E220/logo.png"
+    }
   },
   "name": "Propy",
   "networkId": "ethereum",

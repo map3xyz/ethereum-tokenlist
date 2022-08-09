@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aREP.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71010A9D003445aC60C4e6A7017c1E89A477B438/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71010A9D003445aC60C4e6A7017c1E89A477B438/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71010A9D003445aC60C4e6A7017c1E89A477B438/logo.png"
     }
   },
   "name": "Aave Interest bearing REP",

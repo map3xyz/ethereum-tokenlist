@@ -7,7 +7,15 @@
   "id": "9ca5f868-68a4-4d42-95f9-44fcf02b918a",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+    }
   },
   "name": "Decentraland MANA",
   "networkId": "ethereum",

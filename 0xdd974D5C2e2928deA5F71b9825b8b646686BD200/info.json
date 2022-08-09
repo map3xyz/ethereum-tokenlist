@@ -7,7 +7,15 @@
   "id": "113afad1-833c-415d-8002-124faf4f7f78",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    }
   },
   "name": "Kyber Network Crystal",
   "networkId": "ethereum",

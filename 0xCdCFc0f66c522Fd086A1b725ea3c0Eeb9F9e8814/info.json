@@ -7,7 +7,15 @@
   "id": "53d5b5c2-042a-4ef1-b99f-51bc5845dc32",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814/logo.png"
+    }
   },
   "name": "Terra",
   "networkId": "ethereum",

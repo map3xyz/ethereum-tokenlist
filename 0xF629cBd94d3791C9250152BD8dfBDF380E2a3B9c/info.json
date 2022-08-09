@@ -7,7 +7,15 @@
   "id": "fe0bb0fe-742d-4ee5-88ba-12348c192e64",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
+    }
   },
   "name": "Enjin Coin",
   "networkId": "ethereum",

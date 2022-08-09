@@ -7,7 +7,15 @@
   "id": "f76f5e7b-a966-4bf2-bed8-14c7a00cce45",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x048930eec73c91B44b0844aEACdEBADC2F2b6efb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x048930eec73c91B44b0844aEACdEBADC2F2b6efb/logo.png"
+    }
   },
   "name": "Aave Interest bearing UniDAI",
   "networkId": "ethereum",

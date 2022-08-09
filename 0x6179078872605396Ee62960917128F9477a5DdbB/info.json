@@ -7,7 +7,15 @@
   "id": "15a55eb4-fbd0-4b6c-a6f0-e65edf7a9c58",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6179078872605396Ee62960917128F9477a5DdbB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6179078872605396Ee62960917128F9477a5DdbB/logo.png"
+    }
   },
   "name": "Aave Interest bearing UniETH",
   "networkId": "ethereum",

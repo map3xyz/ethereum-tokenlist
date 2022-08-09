@@ -7,7 +7,15 @@
   "id": "0a59bd9b-b613-42e6-a0af-84feb208136f",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+    }
   },
   "name": "Synthetix Network Token",
   "networkId": "ethereum",

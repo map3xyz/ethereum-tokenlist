@@ -7,7 +7,15 @@
   "id": "bb929564-63e5-494b-97cc-cd8e0dc7cfb9",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
   },
   "name": "Dai Stablecoin",
   "networkId": "ethereum",

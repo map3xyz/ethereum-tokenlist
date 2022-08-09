@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aAAVE.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5/logo.png"
     }
   },
   "name": "Aave Interest bearing Aave Token",

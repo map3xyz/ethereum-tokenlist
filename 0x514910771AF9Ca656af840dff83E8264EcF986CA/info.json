@@ -7,7 +7,15 @@
   "id": "0d459713-baea-482f-915e-d7f66447fb6d",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    }
   },
   "name": "ChainLink Token",
   "networkId": "ethereum",

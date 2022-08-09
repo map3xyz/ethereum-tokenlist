@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aLINK.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84/logo.png"
     }
   },
   "name": "Aave Interest bearing LINK",

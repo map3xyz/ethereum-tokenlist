@@ -7,7 +7,15 @@
   "id": "4f40c7c8-8fa0-4c50-a631-6a8333f419c6",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5165d24277cD063F5ac44Efd447B27025e888f37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5165d24277cD063F5ac44Efd447B27025e888f37/logo.png"
+    }
   },
   "name": "Aave interest bearing YFI",
   "networkId": "ethereum",

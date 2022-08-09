@@ -7,7 +7,15 @@
   "id": "bd61a81c-0eeb-493c-8e2a-bbb21299ae32",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb977ee318010A5252774171494a1bCB98E7fab65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb977ee318010A5252774171494a1bCB98E7fab65/logo.png"
+    }
   },
   "name": "Aave Interest bearing UniUSDT",
   "networkId": "ethereum",

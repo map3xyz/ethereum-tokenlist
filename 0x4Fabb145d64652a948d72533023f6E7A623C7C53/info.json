@@ -7,7 +7,15 @@
   "id": "9a190aa4-7592-47eb-9b45-e28000fa5e1f",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+    }
   },
   "name": "Binance USD",
   "networkId": "ethereum",

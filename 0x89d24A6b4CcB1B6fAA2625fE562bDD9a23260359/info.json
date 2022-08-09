@@ -7,7 +7,15 @@
   "id": "32620b2e-bb1d-41fc-9cf1-8897520002d1",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
+    }
   },
   "name": "Single Collateral DAI",
   "networkId": "ethereum",

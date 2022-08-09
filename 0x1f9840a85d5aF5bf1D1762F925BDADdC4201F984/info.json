@@ -7,7 +7,15 @@
   "id": "d379d029-2af7-44dd-a957-962a605c8975",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    }
   },
   "name": "Uniswap",
   "networkId": "ethereum",

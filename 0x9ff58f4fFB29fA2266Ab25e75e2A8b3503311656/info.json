@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aWBTC.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656/logo.png"
     }
   },
   "name": "Aave interest bearing WBTC",

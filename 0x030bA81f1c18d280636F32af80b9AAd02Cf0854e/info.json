@@ -7,7 +7,15 @@
   "id": "902110b9-17e6-479c-ac30-0334c8b861b6",
   "links": null,
   "logo": {
-    "downloaded": false
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x030bA81f1c18d280636F32af80b9AAd02Cf0854e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x030bA81f1c18d280636F32af80b9AAd02Cf0854e/logo.png"
+    }
   },
   "name": "Aave interest bearing WETH",
   "networkId": "ethereum",

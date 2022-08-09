@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20USDC%20ETH.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5/logo.png"
     }
   },
   "name": "Aave Interest bearing UniUSDCETH",
