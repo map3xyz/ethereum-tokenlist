@@ -6,7 +6,11 @@
   "description": null,
   "id": "b740364c-7cd3-47a3-8f7e-902cf0f857a9",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF/logo.png"
+    }
+  },
   "name": "Digix Gold Token",
   "networkId": "ethereum",
   "spam": false,

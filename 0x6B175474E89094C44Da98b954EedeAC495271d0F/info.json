@@ -6,7 +6,11 @@
   "description": null,
   "id": "d1642b1d-1e25-4d4e-9e50-42546cdedf33",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  },
   "name": "Dai Stablecoin",
   "networkId": "ethereum",
   "spam": false,

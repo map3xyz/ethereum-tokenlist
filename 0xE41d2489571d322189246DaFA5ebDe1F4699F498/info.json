@@ -6,7 +6,11 @@
   "description": null,
   "id": "67e5760e-04c9-4df8-9365-4cc12dd545b3",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    }
+  },
   "name": "0x Protocol Token",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,11 @@
   "description": null,
   "id": "87763b15-adf4-42b5-bf11-80a670d4aab5",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1/logo.png"
+    }
+  },
   "name": "Aave interest bearing UNI",
   "networkId": "ethereum",
   "spam": false,

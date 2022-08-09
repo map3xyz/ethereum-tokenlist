@@ -6,7 +6,11 @@
   "description": null,
   "id": "197d0168-be3e-417e-84cc-bf0fb11cf52a",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+    }
+  },
   "name": "Aave Token",
   "networkId": "ethereum",
   "spam": false,

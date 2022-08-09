@@ -6,7 +6,11 @@
   "description": null,
   "id": "94c0b137-9376-49f6-b96d-8931736c4e32",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
+    }
+  },
   "name": "Enjin Coin",
   "networkId": "ethereum",
   "spam": false,

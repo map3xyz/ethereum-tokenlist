@@ -6,7 +6,11 @@
   "description": null,
   "id": "7a7f80f0-fd96-4086-afde-a2cafd160bf5",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x030bA81f1c18d280636F32af80b9AAd02Cf0854e/logo.png"
+    }
+  },
   "name": "Aave interest bearing WETH",
   "networkId": "ethereum",
   "spam": false,

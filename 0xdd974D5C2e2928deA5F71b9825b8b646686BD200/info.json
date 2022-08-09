@@ -6,7 +6,11 @@
   "description": null,
   "id": "5e77239b-d4de-4005-9b50-674aeba10516",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    }
+  },
   "name": "Kyber Network Crystal",
   "networkId": "ethereum",
   "spam": false,

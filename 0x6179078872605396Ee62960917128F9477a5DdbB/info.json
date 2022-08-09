@@ -6,7 +6,11 @@
   "description": null,
   "id": "f9619298-2b52-42ae-b118-7f0428c1dbac",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6179078872605396Ee62960917128F9477a5DdbB/logo.png"
+    }
+  },
   "name": "Aave Interest bearing UniETH",
   "networkId": "ethereum",
   "spam": false,

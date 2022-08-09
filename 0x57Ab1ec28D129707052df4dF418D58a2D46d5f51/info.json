@@ -6,7 +6,11 @@
   "description": null,
   "id": "f3b1a486-6269-4401-894f-d6781aaf21a0",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
+    }
+  },
   "name": "Synth sUSD",
   "networkId": "ethereum",
   "spam": false,

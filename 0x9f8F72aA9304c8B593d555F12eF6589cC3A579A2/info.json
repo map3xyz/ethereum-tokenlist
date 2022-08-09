@@ -6,7 +6,11 @@
   "description": null,
   "id": "5b33c9a4-0e4d-4de3-8fd7-bf2d6d275023",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    }
+  },
   "name": "MakerDAO",
   "networkId": "ethereum",
   "spam": false,

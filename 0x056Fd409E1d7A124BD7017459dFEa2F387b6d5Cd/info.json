@@ -6,7 +6,11 @@
   "description": null,
   "id": "9ed56ccf-d934-44d0-9117-5db304f57a67",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png"
+    }
+  },
   "name": "Gemini Dollar",
   "networkId": "ethereum",
   "spam": false,

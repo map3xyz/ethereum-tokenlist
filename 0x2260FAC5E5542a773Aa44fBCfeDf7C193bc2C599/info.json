@@ -6,7 +6,11 @@
   "description": null,
   "id": "bef143dd-5233-4ce6-ad5c-f9e0b9a71962",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    }
+  },
   "name": "Wrapped BTC",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,11 @@
   "description": null,
   "id": "26f4414c-b0fa-4888-9311-af446f1d01a4",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  },
   "name": "Wrapped Ether",
   "networkId": "ethereum",
   "spam": false,

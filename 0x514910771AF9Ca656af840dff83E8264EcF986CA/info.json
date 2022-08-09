@@ -6,7 +6,11 @@
   "description": null,
   "id": "4981d825-c439-43eb-9238-ddbe5f370026",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    }
+  },
   "name": "ChainLink Token",
   "networkId": "ethereum",
   "spam": false,

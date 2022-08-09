@@ -6,7 +6,11 @@
   "description": null,
   "id": "7ed78867-820c-49f3-b9a5-9f263ca18426",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    }
+  },
   "name": "Republic Token",
   "networkId": "ethereum",
   "spam": false,

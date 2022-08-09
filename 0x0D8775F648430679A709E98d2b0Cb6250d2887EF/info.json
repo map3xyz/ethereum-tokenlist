@@ -6,7 +6,11 @@
   "description": null,
   "id": "1c77395c-9015-47ed-84f6-9ceb3795c6bd",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+    }
+  },
   "name": "Basic Attention Token",
   "networkId": "ethereum",
   "spam": false,
