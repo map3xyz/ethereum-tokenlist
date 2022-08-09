@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7c72593-a41d-416c-bc33-305371c95a4f",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86/logo.png"
+    }
+  },
+  "name": "Origin Dollar (OUSD)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

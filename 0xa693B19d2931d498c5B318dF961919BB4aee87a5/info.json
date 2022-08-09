@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7c556395-adf3-4409-ae85-c37a6eb2af61",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa693B19d2931d498c5B318dF961919BB4aee87a5/logo.png"
+    }
+  },
+  "name": "UST (Wormhole)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

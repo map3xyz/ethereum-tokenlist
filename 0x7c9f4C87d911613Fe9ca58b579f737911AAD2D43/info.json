@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6db7ca54-f988-41f4-979f-799e8c5fde85",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43/logo.png"
+    }
+  },
+  "name": "MATIC (Portal from Polygon)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MATICpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

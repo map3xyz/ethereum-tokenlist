@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da99166a-128d-4659-a996-1496ebf2ba27",
+  "links": null,
+  "logo": {
+    "svg": {
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aKNC.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D91BE44C06d373a8a226E1f3b146956083803eB/logo.svg"
+    }
+  },
+  "name": "Aave Interest bearing KNC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aKNC",
+  "tags": [
+    "atokenv1"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

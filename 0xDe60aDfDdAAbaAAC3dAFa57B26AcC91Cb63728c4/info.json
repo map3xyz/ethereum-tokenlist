@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53a83662-f56b-4faf-901c-4d4e9e5131c9",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4/logo.png"
+    }
+  },
+  "name": "Tether USD (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDTbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
