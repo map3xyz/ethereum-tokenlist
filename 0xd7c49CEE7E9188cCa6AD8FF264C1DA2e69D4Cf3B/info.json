@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f736dcd9-fa8f-4d2a-8674-7aef9d8a701f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B/logo.png"
+    }
+  },
+  "name": "NXM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NXM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

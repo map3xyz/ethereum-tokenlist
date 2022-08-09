@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB4ae194a0DCF1B4080b164C1d775ee06E0817305",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ade6ab3-9dfe-438a-94a7-95521da9dc3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4ae194a0DCF1B4080b164C1d775ee06E0817305/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB4ae194a0DCF1B4080b164C1d775ee06E0817305/logo.png"
+    }
+  },
+  "name": "Super Saiya-jin token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

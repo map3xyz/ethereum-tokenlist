@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ffd2a5f3-44b4-4e3d-ae17-6781e19aaa67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png"
+    }
+  },
+  "name": "Crypto.com Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

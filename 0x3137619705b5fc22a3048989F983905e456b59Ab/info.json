@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3137619705b5fc22a3048989F983905e456b59Ab",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "119851f3-53f2-4b43-b63c-ee5cc5746983",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3137619705b5fc22a3048989F983905e456b59Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3137619705b5fc22a3048989F983905e456b59Ab/logo.png"
+    }
+  },
+  "name": "Everus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

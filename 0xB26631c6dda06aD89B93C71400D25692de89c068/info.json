@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db7730e9-fb42-4fbf-99ca-fc605df36247",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xB26631c6dda06aD89B93C71400D25692de89c068/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB26631c6dda06aD89B93C71400D25692de89c068/logo.png"
+    }
+  },
+  "name": "Minds",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

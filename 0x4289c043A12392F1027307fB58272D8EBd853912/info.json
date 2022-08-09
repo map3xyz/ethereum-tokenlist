@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4289c043A12392F1027307fB58272D8EBd853912",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1eb23a52-3c0b-4e5b-823b-f7b70ee2dd14",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4289c043A12392F1027307fB58272D8EBd853912/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4289c043A12392F1027307fB58272D8EBd853912/logo.png"
+    }
+  },
+  "name": "AiLink Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

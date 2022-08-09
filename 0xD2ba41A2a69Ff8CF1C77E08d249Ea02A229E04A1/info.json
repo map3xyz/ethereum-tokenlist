@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD2ba41A2a69Ff8CF1C77E08d249Ea02A229E04A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e65ce5ef-114a-4cac-9bba-ce0bddf6524b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD2ba41A2a69Ff8CF1C77E08d249Ea02A229E04A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD2ba41A2a69Ff8CF1C77E08d249Ea02A229E04A1/logo.png"
+    }
+  },
+  "name": "Planetagro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAGRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

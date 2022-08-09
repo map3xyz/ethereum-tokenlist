@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae5e8018-22d4-4356-a51c-c9a49d217720",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca/logo.png"
+    }
+  },
+  "name": "Ukan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UKAN",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

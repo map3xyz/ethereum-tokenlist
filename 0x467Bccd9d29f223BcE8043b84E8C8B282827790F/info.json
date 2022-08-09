@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5bf09139-73fd-4eaf-bbd8-f5bc754116f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x467Bccd9d29f223BcE8043b84E8C8B282827790F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x467Bccd9d29f223BcE8043b84E8C8B282827790F/logo.png"
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

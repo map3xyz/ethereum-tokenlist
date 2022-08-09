@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf8fB919A8bbF28e590852AeF2D284494eBC0657",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17a380e0-96f8-4460-9774-d3e2b8a52029",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf8fB919A8bbF28e590852AeF2D284494eBC0657/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf8fB919A8bbF28e590852AeF2D284494eBC0657/logo.png"
+    }
+  },
+  "name": "ABCC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

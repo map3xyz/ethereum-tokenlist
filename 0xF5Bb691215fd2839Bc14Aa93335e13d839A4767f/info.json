@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a8b95a2-04d9-40d0-accd-c682f485b5df",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f/logo.png"
+    }
+  },
+  "name": "Bitcollar Max",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BORX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

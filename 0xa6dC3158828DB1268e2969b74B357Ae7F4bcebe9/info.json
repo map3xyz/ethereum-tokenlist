@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa6dC3158828DB1268e2969b74B357Ae7F4bcebe9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "675f6de5-2dbc-4e91-aefa-5cafd74a52e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa6dC3158828DB1268e2969b74B357Ae7F4bcebe9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6dC3158828DB1268e2969b74B357Ae7F4bcebe9/logo.png"
+    }
+  },
+  "name": "Yustemcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YUC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

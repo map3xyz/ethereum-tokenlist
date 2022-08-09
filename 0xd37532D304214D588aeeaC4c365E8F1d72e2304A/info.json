@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd37532D304214D588aeeaC4c365E8F1d72e2304A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b89815ef-3083-4203-9f10-e6221ac28d40",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd37532D304214D588aeeaC4c365E8F1d72e2304A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd37532D304214D588aeeaC4c365E8F1d72e2304A/logo.png"
+    }
+  },
+  "name": "FCoin Token (Released)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

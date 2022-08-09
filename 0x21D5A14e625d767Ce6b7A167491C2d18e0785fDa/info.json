@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83e01bfa-ec59-4e6b-95e6-8418ab3be27a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa/logo.png"
+    }
+  },
+  "name": "Jinbi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

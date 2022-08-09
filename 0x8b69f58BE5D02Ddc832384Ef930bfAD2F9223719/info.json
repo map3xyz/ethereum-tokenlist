@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8b69f58BE5D02Ddc832384Ef930bfAD2F9223719",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8e1ef72f-68d2-44a0-b1d7-c917514d31f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8b69f58BE5D02Ddc832384Ef930bfAD2F9223719/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b69f58BE5D02Ddc832384Ef930bfAD2F9223719/logo.png"
+    }
+  },
+  "name": "N2Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "N2C",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

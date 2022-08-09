@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68393296-babe-4b69-8949-a60a93da1a81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D29A64504629172a429e64183D6673b9dAcbFCe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7D29A64504629172a429e64183D6673b9dAcbFCe/logo.png"
+    }
+  },
+  "name": "VectorspaceAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VXV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

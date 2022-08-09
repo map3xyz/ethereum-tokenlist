@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1e05F0A0f326bD08Ec816C6A63E88fdC4B519E5D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6f88390d-a001-4c0f-a38b-02097f8fe760",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1e05F0A0f326bD08Ec816C6A63E88fdC4B519E5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e05F0A0f326bD08Ec816C6A63E88fdC4B519E5D/logo.png"
+    }
+  },
+  "name": "DollarX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

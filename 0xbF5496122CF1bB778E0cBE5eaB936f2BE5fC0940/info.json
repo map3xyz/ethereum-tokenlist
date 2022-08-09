@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "920a51eb-fdfd-499a-b35b-77a6121fafba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940/logo.png"
+    }
+  },
+  "name": "FundToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUNDZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

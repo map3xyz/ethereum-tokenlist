@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e04bd00e-8ce1-47f8-8894-0d0a82a34398",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C/logo.png"
+    }
+  },
+  "name": "Kylin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KYL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

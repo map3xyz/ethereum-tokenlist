@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73145E8603c71FFfDC4E37E6957a6C55dB00ED23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "917856e1-8be4-4485-8dc0-13074da762de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73145E8603c71FFfDC4E37E6957a6C55dB00ED23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73145E8603c71FFfDC4E37E6957a6C55dB00ED23/logo.png"
+    }
+  },
+  "name": "NaGa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

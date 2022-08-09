@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1de5b499-45d6-451f-8cc3-9b8929056d8a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c/logo.png"
+    }
+  },
+  "name": "IYF.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IYF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

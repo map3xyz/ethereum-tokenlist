@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6FE2B5f6798C9D5D6aebE1335BbF03080aceE7Dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2d759814-e90a-4f44-99e9-94b3644022d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6FE2B5f6798C9D5D6aebE1335BbF03080aceE7Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6FE2B5f6798C9D5D6aebE1335BbF03080aceE7Dc/logo.png"
+    }
+  },
+  "name": "TokenMakerOrg",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

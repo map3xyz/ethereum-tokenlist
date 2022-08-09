@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdcd38c6-b95f-45b8-b805-2607ad54aba7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6/logo.png"
+    }
+  },
+  "name": "CRYPTORIYA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

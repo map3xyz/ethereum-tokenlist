@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0FFF95D5ab18c763c42C209F137C47354af104a8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "904ee0d9-2558-475e-aad1-65de3ac7cc61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0FFF95D5ab18c763c42C209F137C47354af104a8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0FFF95D5ab18c763c42C209F137C47354af104a8/logo.png"
+    }
+  },
+  "name": "HEX Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

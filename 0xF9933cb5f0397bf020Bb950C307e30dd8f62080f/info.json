@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF9933cb5f0397bf020Bb950C307e30dd8f62080f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "000fc9ef-cb07-4ecf-8aef-ba4e723e9909",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9933cb5f0397bf020Bb950C307e30dd8f62080f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF9933cb5f0397bf020Bb950C307e30dd8f62080f/logo.png"
+    }
+  },
+  "name": "ZXTH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZXTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

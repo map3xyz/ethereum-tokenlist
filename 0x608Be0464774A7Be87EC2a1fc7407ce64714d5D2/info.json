@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x608Be0464774A7Be87EC2a1fc7407ce64714d5D2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d4740e91-6eb6-49e8-87b0-509a68a05da2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x608Be0464774A7Be87EC2a1fc7407ce64714d5D2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x608Be0464774A7Be87EC2a1fc7407ce64714d5D2/logo.png"
+    }
+  },
+  "name": "GlobalCryptoGate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

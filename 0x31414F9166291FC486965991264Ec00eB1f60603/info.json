@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x31414F9166291FC486965991264Ec00eB1f60603",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea1bb331-f321-4b6c-bf94-8f20ae658455",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x31414F9166291FC486965991264Ec00eB1f60603/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31414F9166291FC486965991264Ec00eB1f60603/logo.png"
+    }
+  },
+  "name": "B2B Coin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B2BC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

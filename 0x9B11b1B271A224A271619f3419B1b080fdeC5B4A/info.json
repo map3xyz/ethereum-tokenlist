@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B11b1B271A224A271619f3419B1b080fdeC5B4A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e5c87a78-284f-447d-a299-8c7f59d5649d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B11b1B271A224A271619f3419B1b080fdeC5B4A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B11b1B271A224A271619f3419B1b080fdeC5B4A/logo.png"
+    }
+  },
+  "name": "Bilibit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

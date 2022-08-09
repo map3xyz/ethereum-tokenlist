@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c45d115-109a-4ce1-88e4-7f5a134ee1a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935/logo.png"
+    }
+  },
+  "name": "VANTA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

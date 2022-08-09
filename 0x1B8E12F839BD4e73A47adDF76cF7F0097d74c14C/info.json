@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ad0a0ebf-e3c7-446e-bec6-3d567b6a821d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C/logo.png"
+    }
+  },
+  "name": "Value USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

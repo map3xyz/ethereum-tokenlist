@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47F32f9eBFc49a1434eB6190d5D8a80A2Dc36af5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da94e96d-58e1-4302-b8ee-02ac43795e27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47F32f9eBFc49a1434eB6190d5D8a80A2Dc36af5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47F32f9eBFc49a1434eB6190d5D8a80A2Dc36af5/logo.png"
+    }
+  },
+  "name": "Happy Park Chip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

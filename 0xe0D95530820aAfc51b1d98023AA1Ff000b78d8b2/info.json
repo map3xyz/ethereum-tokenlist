@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5dacee01-987f-483f-a549-83d2959e568e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2/logo.png"
+    }
+  },
+  "name": "PressOne Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

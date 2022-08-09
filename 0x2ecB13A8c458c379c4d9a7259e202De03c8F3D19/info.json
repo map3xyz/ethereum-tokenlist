@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8a0b4cc-998f-4adc-b10c-d27288d279a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19/logo.png"
+    }
+  },
+  "name": "Block-Chain.com Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

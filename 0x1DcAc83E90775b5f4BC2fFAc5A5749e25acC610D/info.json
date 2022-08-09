@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1DcAc83E90775b5f4BC2fFAc5A5749e25acC610D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d586960b-7826-48ad-b9bb-2f99830a3df6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1DcAc83E90775b5f4BC2fFAc5A5749e25acC610D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1DcAc83E90775b5f4BC2fFAc5A5749e25acC610D/logo.png"
+    }
+  },
+  "name": "Reserve",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

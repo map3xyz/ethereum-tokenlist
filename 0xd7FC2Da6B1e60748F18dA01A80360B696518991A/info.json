@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7FC2Da6B1e60748F18dA01A80360B696518991A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c73864d1-96cc-4142-8982-889058f93205",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7FC2Da6B1e60748F18dA01A80360B696518991A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7FC2Da6B1e60748F18dA01A80360B696518991A/logo.png"
+    }
+  },
+  "name": "UOM MITU F564-JH89",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x556237E86Df9325017c330E295c13A6c7d0E71a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21fde996-8726-4e42-b4d4-693718d29a69",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x556237E86Df9325017c330E295c13A6c7d0E71a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x556237E86Df9325017c330E295c13A6c7d0E71a7/logo.png"
+    }
+  },
+  "name": "Go9tro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Go9tro",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

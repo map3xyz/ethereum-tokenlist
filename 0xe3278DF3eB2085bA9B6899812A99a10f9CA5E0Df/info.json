@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe3278DF3eB2085bA9B6899812A99a10f9CA5E0Df",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9bba63c3-87b1-4360-a51b-0cf778403337",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe3278DF3eB2085bA9B6899812A99a10f9CA5E0Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe3278DF3eB2085bA9B6899812A99a10f9CA5E0Df/logo.png"
+    }
+  },
+  "name": "TouristToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

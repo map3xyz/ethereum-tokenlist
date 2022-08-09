@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2fb5ea49-0808-47b2-b4e9-4acd9ea3b609",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a/logo.png"
+    }
+  },
+  "name": "FRUITS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

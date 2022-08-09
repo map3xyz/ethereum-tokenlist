@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4215a4b1-42bf-47e7-ba63-aff8c88bbb2c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd/logo.png"
+    }
+  },
+  "name": "All World Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

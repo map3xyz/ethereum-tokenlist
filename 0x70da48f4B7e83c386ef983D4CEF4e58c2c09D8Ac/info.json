@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a2d0ff28-061f-4de8-930d-0c8027929359",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac/logo.png"
+    }
+  },
+  "name": "Quras Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XQC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

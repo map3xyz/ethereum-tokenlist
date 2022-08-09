@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4c81bbaf-b521-4e4d-84ec-3ccaa8130e9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514/logo.png"
+    }
+  },
+  "name": "IZEROIUM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IZER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

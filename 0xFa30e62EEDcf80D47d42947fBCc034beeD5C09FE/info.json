@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eead51ac-8422-4062-948f-82b296b03a88",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE/logo.png"
+    }
+  },
+  "name": "LOVEEARTH COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

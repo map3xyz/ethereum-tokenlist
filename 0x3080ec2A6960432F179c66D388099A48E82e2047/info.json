@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3080ec2A6960432F179c66D388099A48E82e2047",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d46b43f6-47fd-42fa-bd39-446077f47899",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3080ec2A6960432F179c66D388099A48E82e2047/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3080ec2A6960432F179c66D388099A48E82e2047/logo.png"
+    }
+  },
+  "name": "popcorn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

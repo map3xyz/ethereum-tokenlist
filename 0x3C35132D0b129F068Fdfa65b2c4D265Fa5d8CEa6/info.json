@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C35132D0b129F068Fdfa65b2c4D265Fa5d8CEa6",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a2832b1a-8249-492d-8273-e3772c7d9e61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C35132D0b129F068Fdfa65b2c4D265Fa5d8CEa6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C35132D0b129F068Fdfa65b2c4D265Fa5d8CEa6/logo.png"
+    }
+  },
+  "name": "Jonathan Joseph",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JJJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

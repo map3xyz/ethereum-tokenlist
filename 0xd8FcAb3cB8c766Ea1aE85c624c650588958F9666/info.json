@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd8FcAb3cB8c766Ea1aE85c624c650588958F9666",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "405874b1-76e6-4d70-9ad0-8075b98850d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd8FcAb3cB8c766Ea1aE85c624c650588958F9666/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8FcAb3cB8c766Ea1aE85c624c650588958F9666/logo.png"
+    }
+  },
+  "name": "Midas Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

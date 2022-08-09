@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4fcf219-90fa-4600-96fe-801ab7cd1a58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0/logo.png"
+    }
+  },
+  "name": "EOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe1030B48b2033314979143766d7dC1F40ef8CE11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4871563-ecfe-4121-a370-2939bc941d08",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe1030B48b2033314979143766d7dC1F40ef8CE11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1030B48b2033314979143766d7dC1F40ef8CE11/logo.png"
+    }
+  },
+  "name": "The People's Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEEPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

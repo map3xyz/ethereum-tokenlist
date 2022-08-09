@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x378903a03FB2C3AC76BB52773e3CE11340377A32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f58043ab-9dca-4b74-b011-4ce03344a974",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x378903a03FB2C3AC76BB52773e3CE11340377A32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x378903a03FB2C3AC76BB52773e3CE11340377A32/logo.png"
+    }
+  },
+  "name": "Clipper Coin Capital",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

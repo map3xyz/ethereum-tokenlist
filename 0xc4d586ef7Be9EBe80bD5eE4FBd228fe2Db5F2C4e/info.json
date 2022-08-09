@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc4d586ef7Be9EBe80bD5eE4FBd228fe2Db5F2C4e",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "e8567a63-5e1d-4eeb-b836-1e8cb3cec6b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc4d586ef7Be9EBe80bD5eE4FBd228fe2Db5F2C4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc4d586ef7Be9EBe80bD5eE4FBd228fe2Db5F2C4e/logo.png"
+    }
+  },
+  "name": "Papa Shiba",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f8c6aea2-2df8-459e-b14a-fa335f865142",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF/logo.png"
+    }
+  },
+  "name": "Tronipay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

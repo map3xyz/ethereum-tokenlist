@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC83e0B5110f94C45739FB4995566f57c2542eAF8",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "1cc7e965-5d6d-476a-aa44-ec52db22d071",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC83e0B5110f94C45739FB4995566f57c2542eAF8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC83e0B5110f94C45739FB4995566f57c2542eAF8/logo.png"
+    }
+  },
+  "name": "Black Dollar Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

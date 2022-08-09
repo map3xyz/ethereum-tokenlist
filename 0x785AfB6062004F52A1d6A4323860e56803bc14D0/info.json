@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x785AfB6062004F52A1d6A4323860e56803bc14D0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "776ce3e8-8cdb-430b-b46b-4f9ee6d32b9a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x785AfB6062004F52A1d6A4323860e56803bc14D0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x785AfB6062004F52A1d6A4323860e56803bc14D0/logo.png"
+    }
+  },
+  "name": "Kangdom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KANGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

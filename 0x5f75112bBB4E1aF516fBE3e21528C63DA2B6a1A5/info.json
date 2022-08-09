@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9204811d-91d9-4f11-beed-d617bddd30aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5/logo.png"
+    }
+  },
+  "name": "Chess Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

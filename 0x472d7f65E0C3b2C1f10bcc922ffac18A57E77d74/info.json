@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x472d7f65E0C3b2C1f10bcc922ffac18A57E77d74",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d488f99-6e2c-4894-ae22-1bb82beab1e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x472d7f65E0C3b2C1f10bcc922ffac18A57E77d74/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x472d7f65E0C3b2C1f10bcc922ffac18A57E77d74/logo.png"
+    }
+  },
+  "name": "Alternate SX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASXIH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

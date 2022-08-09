@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d4a293de-74d2-4c1d-81e0-67763ff1460e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8/logo.png"
+    }
+  },
+  "name": "KIRA Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

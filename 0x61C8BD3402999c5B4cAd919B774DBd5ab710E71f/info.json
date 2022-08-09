@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61C8BD3402999c5B4cAd919B774DBd5ab710E71f",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "1808b897-3fb5-4385-bd92-44a517f1b498",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61C8BD3402999c5B4cAd919B774DBd5ab710E71f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61C8BD3402999c5B4cAd919B774DBd5ab710E71f/logo.png"
+    }
+  },
+  "name": "CESIO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

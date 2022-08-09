@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB1cfB2421F6F12EBdA4F9b8d0336518c82e63b2c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1c61fd76-6d65-47a4-8ce7-43be0afde2ee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1cfB2421F6F12EBdA4F9b8d0336518c82e63b2c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1cfB2421F6F12EBdA4F9b8d0336518c82e63b2c/logo.png"
+    }
+  },
+  "name": "Vocal Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

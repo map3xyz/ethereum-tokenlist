@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa7AB17FE18fe2EF1b211b95BE0D3B3a121823758",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d19af7ef-2465-48c9-a3ea-3f4e1709ba8a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa7AB17FE18fe2EF1b211b95BE0D3B3a121823758/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7AB17FE18fe2EF1b211b95BE0D3B3a121823758/logo.png"
+    }
+  },
+  "name": "Defiance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x776c5DebB8759e25ba7Ac1A2950F7158816E2705",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7618856b-1f6e-4636-9990-94454a3739bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x776c5DebB8759e25ba7Ac1A2950F7158816E2705/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x776c5DebB8759e25ba7Ac1A2950F7158816E2705/logo.png"
+    }
+  },
+  "name": "Bests Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

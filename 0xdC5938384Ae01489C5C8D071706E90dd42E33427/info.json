@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdC5938384Ae01489C5C8D071706E90dd42E33427",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "56101e20-e82c-4aeb-b400-4a690d8026d3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdC5938384Ae01489C5C8D071706E90dd42E33427/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdC5938384Ae01489C5C8D071706E90dd42E33427/logo.png"
+    }
+  },
+  "name": "Luna",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

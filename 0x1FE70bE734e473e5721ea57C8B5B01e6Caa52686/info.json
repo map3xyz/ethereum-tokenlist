@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4ab024d-c934-4301-b41d-59c708219bc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686/logo.png"
+    }
+  },
+  "name": "RNTB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

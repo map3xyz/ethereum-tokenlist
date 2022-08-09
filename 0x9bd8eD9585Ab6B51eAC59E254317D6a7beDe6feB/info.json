@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9bd8eD9585Ab6B51eAC59E254317D6a7beDe6feB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b5cd69e0-0019-44bb-81df-03c57b8c3e9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9bd8eD9585Ab6B51eAC59E254317D6a7beDe6feB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9bd8eD9585Ab6B51eAC59E254317D6a7beDe6feB/logo.png"
+    }
+  },
+  "name": "IRCMTOKEN.COM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IRCM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

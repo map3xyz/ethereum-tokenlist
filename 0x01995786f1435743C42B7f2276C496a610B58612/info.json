@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01995786f1435743C42B7f2276C496a610B58612",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c568b0c5-fbe8-44c7-8188-3cb763956c22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01995786f1435743C42B7f2276C496a610B58612/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01995786f1435743C42B7f2276C496a610B58612/logo.png"
+    }
+  },
+  "name": "SanDianZhong",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SDZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

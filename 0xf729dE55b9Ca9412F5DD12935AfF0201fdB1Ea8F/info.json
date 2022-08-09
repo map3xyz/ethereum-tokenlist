@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf729dE55b9Ca9412F5DD12935AfF0201fdB1Ea8F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a395e45-b6c6-47f1-b84c-7b74366c5aee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf729dE55b9Ca9412F5DD12935AfF0201fdB1Ea8F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf729dE55b9Ca9412F5DD12935AfF0201fdB1Ea8F/logo.png"
+    }
+  },
+  "name": "Starr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

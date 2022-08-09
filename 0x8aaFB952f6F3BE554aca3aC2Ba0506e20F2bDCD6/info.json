@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "944c1923-2cf2-4843-8c9a-f925d1d83961",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6/logo.png"
+    }
+  },
+  "name": "cgturbo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

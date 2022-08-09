@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42b1baf0-995f-4302-895b-adc096d62702",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7f9A00E03c2E53A3aF6031C17A150DBeDaAab3dC/logo.png"
+    }
+  },
+  "name": "Read This Contract",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

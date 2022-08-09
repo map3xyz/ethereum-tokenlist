@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e211a8d0-0900-455b-9d6e-5003c96c1164",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba9d4199faB4f26eFE3551D490E3821486f135Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba9d4199faB4f26eFE3551D490E3821486f135Ba/logo.png"
+    }
+  },
+  "name": "SwissBorg",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHSB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

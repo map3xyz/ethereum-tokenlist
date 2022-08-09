@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a497beae-16e6-455a-9193-9e5ed20c2c2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf/logo.png"
+    }
+  },
+  "name": "币胜币",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

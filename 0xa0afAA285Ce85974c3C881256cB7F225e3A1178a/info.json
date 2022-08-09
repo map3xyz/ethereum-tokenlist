@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1593152b-9d29-4dc4-a8d7-b7e792e39d26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xa0afAA285Ce85974c3C881256cB7F225e3A1178a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0afAA285Ce85974c3C881256cB7F225e3A1178a/logo.png"
+    }
+  },
+  "name": "Wrapped CrescoFin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCRES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "89ce552a-1d51-486b-9399-ce223a50c774",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5/logo.png"
+    }
+  },
+  "name": "Compound Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

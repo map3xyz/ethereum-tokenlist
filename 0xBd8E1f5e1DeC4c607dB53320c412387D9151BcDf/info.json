@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBd8E1f5e1DeC4c607dB53320c412387D9151BcDf",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a98db5cf-f235-4de6-be99-1b0b47c8fc81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBd8E1f5e1DeC4c607dB53320c412387D9151BcDf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd8E1f5e1DeC4c607dB53320c412387D9151BcDf/logo.png"
+    }
+  },
+  "name": "DogeMax.org",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DogeMax",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

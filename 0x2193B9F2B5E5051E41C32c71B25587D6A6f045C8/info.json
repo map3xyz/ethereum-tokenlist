@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2193B9F2B5E5051E41C32c71B25587D6A6f045C8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65e0d8f3-c14e-4a7c-9b3a-31f597ea3af1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2193B9F2B5E5051E41C32c71B25587D6A6f045C8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2193B9F2B5E5051E41C32c71B25587D6A6f045C8/logo.png"
+    }
+  },
+  "name": "Status Security",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

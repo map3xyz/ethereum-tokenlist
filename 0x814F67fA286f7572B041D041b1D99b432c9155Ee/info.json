@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x814F67fA286f7572B041D041b1D99b432c9155Ee",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "87913980-89f1-4ad4-b464-7ae047f92c03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x814F67fA286f7572B041D041b1D99b432c9155Ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x814F67fA286f7572B041D041b1D99b432c9155Ee/logo.png"
+    }
+  },
+  "name": "Dragon Coins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

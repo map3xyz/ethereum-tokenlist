@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f06f7c7f-4631-4b3c-9c49-f973a08a8ce7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7/logo.png"
+    }
+  },
+  "name": "Magnolia Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

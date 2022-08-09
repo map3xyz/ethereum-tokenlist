@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C36204a0712A2a50E54A62F7c4F01867e78cB53",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a8e257a-5c56-4681-80d7-b595e79ba00a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53/logo.png"
+    }
+  },
+  "name": "Taklimakan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

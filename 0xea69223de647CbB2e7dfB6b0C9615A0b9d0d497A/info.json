@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea69223de647CbB2e7dfB6b0C9615A0b9d0d497A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d1678eb1-e75c-4598-aef0-32f587b009e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea69223de647CbB2e7dfB6b0C9615A0b9d0d497A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea69223de647CbB2e7dfB6b0C9615A0b9d0d497A/logo.png"
+    }
+  },
+  "name": "GC2019",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GC2019",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

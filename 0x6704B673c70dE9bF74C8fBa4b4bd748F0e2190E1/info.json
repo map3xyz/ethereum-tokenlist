@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6704B673c70dE9bF74C8fBa4b4bd748F0e2190E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "963c5874-3c40-451d-83cc-ed95f1401c0f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6704B673c70dE9bF74C8fBa4b4bd748F0e2190E1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6704B673c70dE9bF74C8fBa4b4bd748F0e2190E1/logo.png"
+    }
+  },
+  "name": "UBEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

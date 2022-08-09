@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E6Dd064B32EFA783d5745f2f3a994004956b67E",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "2eddfdb1-6fbc-4862-9240-f89d0dfa7f1a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5E6Dd064B32EFA783d5745f2f3a994004956b67E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E6Dd064B32EFA783d5745f2f3a994004956b67E/logo.png"
+    }
+  },
+  "name": "Accommodation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

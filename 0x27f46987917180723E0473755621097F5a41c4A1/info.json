@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27f46987917180723E0473755621097F5a41c4A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f78fd955-0f36-4a8e-9831-0996278097c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27f46987917180723E0473755621097F5a41c4A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27f46987917180723E0473755621097F5a41c4A1/logo.png"
+    }
+  },
+  "name": "EV Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

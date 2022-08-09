@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDcd77408e9b16252025637020228f3965938dda5",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "130ea967-165a-4aee-ae8e-f814a1f28f58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDcd77408e9b16252025637020228f3965938dda5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDcd77408e9b16252025637020228f3965938dda5/logo.png"
+    }
+  },
+  "name": "Velox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

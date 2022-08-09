@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7bd1bb1e-190f-4bfb-901d-8f89c359bbef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D/logo.png"
+    }
+  },
+  "name": "Nexxo Tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEXXO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

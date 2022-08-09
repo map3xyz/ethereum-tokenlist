@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD47774F8C580c3ebB7c81323F62A1D5c1eEcb232",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da984765-f5f3-409b-9d76-229d4c4600e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD47774F8C580c3ebB7c81323F62A1D5c1eEcb232/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD47774F8C580c3ebB7c81323F62A1D5c1eEcb232/logo.png"
+    }
+  },
+  "name": "BlackBiT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

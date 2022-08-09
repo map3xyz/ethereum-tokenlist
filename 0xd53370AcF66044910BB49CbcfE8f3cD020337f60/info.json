@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd53370AcF66044910BB49CbcfE8f3cD020337f60",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7afe6bda-3828-494d-8e29-537042c67ac9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd53370AcF66044910BB49CbcfE8f3cD020337f60/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd53370AcF66044910BB49CbcfE8f3cD020337f60/logo.png"
+    }
+  },
+  "name": "Consensus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

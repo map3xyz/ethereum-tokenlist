@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ddee6e61-0b3d-47bc-8b1c-97d542a8eb7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE/logo.png"
+    }
+  },
+  "name": "Poseidon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PSDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

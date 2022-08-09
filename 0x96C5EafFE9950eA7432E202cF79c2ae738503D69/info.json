@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x96C5EafFE9950eA7432E202cF79c2ae738503D69",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "110c7df1-3023-433c-b58e-cfdd100f24a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96C5EafFE9950eA7432E202cF79c2ae738503D69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96C5EafFE9950eA7432E202cF79c2ae738503D69/logo.png"
+    }
+  },
+  "name": "Nitrogen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NITRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

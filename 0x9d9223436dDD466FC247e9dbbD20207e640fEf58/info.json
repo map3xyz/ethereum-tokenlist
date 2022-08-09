@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9d9223436dDD466FC247e9dbbD20207e640fEf58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e667ce4-dd6b-47ca-b520-91b1f3587620",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d9223436dDD466FC247e9dbbD20207e640fEf58/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d9223436dDD466FC247e9dbbD20207e640fEf58/logo.png"
+    }
+  },
+  "name": "Olive",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

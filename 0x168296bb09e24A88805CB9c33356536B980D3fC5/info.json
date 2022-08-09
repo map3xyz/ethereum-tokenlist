@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7ffab680-50ab-47f3-8b2e-52e541c98d96",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x168296bb09e24A88805CB9c33356536B980D3fC5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x168296bb09e24A88805CB9c33356536B980D3fC5/logo.png"
+    }
+  },
+  "name": "RHOC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RHOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

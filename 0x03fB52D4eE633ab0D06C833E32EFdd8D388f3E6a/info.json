@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d2e806d-b87d-42af-af18-f132df35f504",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a/logo.png"
+    }
+  },
+  "name": "Black Hole",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

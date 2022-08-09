@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93B99A13B81dfd5Fa9B2D875acF8C600047b193A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cf988c12-a590-4870-b4e4-be4fcd3f8f1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93B99A13B81dfd5Fa9B2D875acF8C600047b193A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93B99A13B81dfd5Fa9B2D875acF8C600047b193A/logo.png"
+    }
+  },
+  "name": "Forta Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

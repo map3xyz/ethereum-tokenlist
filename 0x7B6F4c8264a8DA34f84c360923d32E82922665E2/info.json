@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7B6F4c8264a8DA34f84c360923d32E82922665E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe63abdd-efd0-444b-ba83-b8bbc9f6da4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7B6F4c8264a8DA34f84c360923d32E82922665E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7B6F4c8264a8DA34f84c360923d32E82922665E2/logo.png"
+    }
+  },
+  "name": "EFILUM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

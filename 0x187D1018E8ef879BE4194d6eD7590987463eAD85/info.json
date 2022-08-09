@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe83123f-1b25-4e44-a4a7-101e6dcf2d1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x187D1018E8ef879BE4194d6eD7590987463eAD85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x187D1018E8ef879BE4194d6eD7590987463eAD85/logo.png"
+    }
+  },
+  "name": "FUZE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUZE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

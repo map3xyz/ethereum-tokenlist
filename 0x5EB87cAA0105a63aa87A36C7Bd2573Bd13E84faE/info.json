@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d580e97e-4fe7-4134-8376-910b27b2c6e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE/logo.png"
+    }
+  },
+  "name": "BQT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

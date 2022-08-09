@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcF6A236226DDE0C1eD87BbF933F75f44A8B6FA38",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "9dca77f4-8ebf-4431-ad07-079f8205c6cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcF6A236226DDE0C1eD87BbF933F75f44A8B6FA38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcF6A236226DDE0C1eD87BbF933F75f44A8B6FA38/logo.png"
+    }
+  },
+  "name": "Unity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNITY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8a19de1-0a15-46ee-8515-baa83aceb4b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4EFd85c19999D84251304bDA99E90B92300Bd93/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Rocket Pool",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

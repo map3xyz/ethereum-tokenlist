@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfCE9c2DF151745E77150B9f35ab23cC81D3E8004",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9624d69f-fa05-47ac-b170-0877751b611e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfCE9c2DF151745E77150B9f35ab23cC81D3E8004/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfCE9c2DF151745E77150B9f35ab23cC81D3E8004/logo.png"
+    }
+  },
+  "name": "Hong Kong Republic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HKR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x973e52691176d36453868D9d86572788d27041A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "775b6c18-eace-424b-9f43-9c9d315ef319",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x973e52691176d36453868D9d86572788d27041A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x973e52691176d36453868D9d86572788d27041A9/logo.png"
+    }
+  },
+  "name": "DxChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

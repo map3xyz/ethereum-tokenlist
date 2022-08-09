@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x98F6b2C5BCc88629cF10F2effaa2Df0Ebc16E92D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4310185c-27a1-4ef0-ae4e-ab6f009f93ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x98F6b2C5BCc88629cF10F2effaa2Df0Ebc16E92D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x98F6b2C5BCc88629cF10F2effaa2Df0Ebc16E92D/logo.png"
+    }
+  },
+  "name": "Saiful",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

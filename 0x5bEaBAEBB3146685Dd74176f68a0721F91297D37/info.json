@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5bEaBAEBB3146685Dd74176f68a0721F91297D37",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74fae3af-9b50-4370-a5fe-88f0d0ba5661",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5bEaBAEBB3146685Dd74176f68a0721F91297D37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5bEaBAEBB3146685Dd74176f68a0721F91297D37/logo.png"
+    }
+  },
+  "name": "Bounce Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13C2fab6354d3790D8ece4f0f1a3280b4A25aD96",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f9c0163-0453-405c-9d02-02445026ee48",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13C2fab6354d3790D8ece4f0f1a3280b4A25aD96/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13C2fab6354d3790D8ece4f0f1a3280b4A25aD96/logo.png"
+    }
+  },
+  "name": "PHI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

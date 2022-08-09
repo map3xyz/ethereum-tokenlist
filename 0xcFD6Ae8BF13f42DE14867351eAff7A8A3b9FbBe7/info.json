@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a56650b5-4c42-4821-a319-d499f629918a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7/logo.png"
+    }
+  },
+  "name": "SINERGIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

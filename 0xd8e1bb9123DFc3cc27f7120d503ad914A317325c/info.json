@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd8e1bb9123DFc3cc27f7120d503ad914A317325c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ae40f19-e38f-4323-a6b5-9b6598876b2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd8e1bb9123DFc3cc27f7120d503ad914A317325c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8e1bb9123DFc3cc27f7120d503ad914A317325c/logo.png"
+    }
+  },
+  "name": "XE Currency Converter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

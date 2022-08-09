@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD049499E86f5ED97924Eb90fd5B15b9691bBC009",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74d585e2-5221-487a-b51b-787005f36a5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD049499E86f5ED97924Eb90fd5B15b9691bBC009/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD049499E86f5ED97924Eb90fd5B15b9691bBC009/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Short ETH-WBTC v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sETHwBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9A8cfe21C232D485065cb62a96866799d4645f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5e1ee39-fb22-439b-bf3a-cd810ce22d6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9A8cfe21C232D485065cb62a96866799d4645f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9A8cfe21C232D485065cb62a96866799d4645f7/logo.png"
+    }
+  },
+  "name": "FingerPrint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9b12B29399e0797b48822F6857fA2CeccF5d9f2f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "46d8a499-922e-402b-a4bf-4d170397fd6b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b12B29399e0797b48822F6857fA2CeccF5d9f2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b12B29399e0797b48822F6857fA2CeccF5d9f2f/logo.png"
+    }
+  },
+  "name": "Tripxchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

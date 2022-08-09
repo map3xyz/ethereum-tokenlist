@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebdfe07b-faac-451b-996c-9832a456e249",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14/logo.png"
+    }
+  },
+  "name": "Bella Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

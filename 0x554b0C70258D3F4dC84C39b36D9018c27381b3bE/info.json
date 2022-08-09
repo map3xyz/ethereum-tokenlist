@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x554b0C70258D3F4dC84C39b36D9018c27381b3bE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4ff5e03-54a9-4cc5-88e3-2e59f95d8354",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x554b0C70258D3F4dC84C39b36D9018c27381b3bE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x554b0C70258D3F4dC84C39b36D9018c27381b3bE/logo.png"
+    }
+  },
+  "name": "IOT$",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOT$",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

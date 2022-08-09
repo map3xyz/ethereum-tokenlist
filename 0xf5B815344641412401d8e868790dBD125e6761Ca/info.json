@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf5B815344641412401d8e868790dBD125e6761Ca",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1f7dfb84-ee5d-4b49-8673-fa2b70242d0a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5B815344641412401d8e868790dBD125e6761Ca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5B815344641412401d8e868790dBD125e6761Ca/logo.png"
+    }
+  },
+  "name": "Pecunio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

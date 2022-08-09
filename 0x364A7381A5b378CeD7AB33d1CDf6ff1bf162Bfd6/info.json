@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x364A7381A5b378CeD7AB33d1CDf6ff1bf162Bfd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1836f84d-3dc6-45a1-8e64-651f9519a5ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x364A7381A5b378CeD7AB33d1CDf6ff1bf162Bfd6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x364A7381A5b378CeD7AB33d1CDf6ff1bf162Bfd6/logo.png"
+    }
+  },
+  "name": "DeFi-X Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TGX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

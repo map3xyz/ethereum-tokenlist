@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3F6f014849DEDB569628e3E1745120f308bb7699",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5af20f98-155c-4cd7-8f82-592dc0b7f4e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3F6f014849DEDB569628e3E1745120f308bb7699/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F6f014849DEDB569628e3E1745120f308bb7699/logo.png"
+    }
+  },
+  "name": "Planetagro-Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVOCADO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

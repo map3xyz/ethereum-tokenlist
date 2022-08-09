@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB92d0303640cc213C05b01E2Ad547eA1D9C3eF50",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "dd21866a-950f-44f9-8b4e-6f681512df1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB92d0303640cc213C05b01E2Ad547eA1D9C3eF50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB92d0303640cc213C05b01E2Ad547eA1D9C3eF50/logo.png"
+    }
+  },
+  "name": "SUREBANQA PEGGED EXCHANGE RATE TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNQA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

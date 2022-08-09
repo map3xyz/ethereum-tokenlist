@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x59D63c88aDa5A485A4Ea1cCEc1145619C59e5f39",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f004cd9e-301a-439f-abfb-7ada65622788",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59D63c88aDa5A485A4Ea1cCEc1145619C59e5f39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59D63c88aDa5A485A4Ea1cCEc1145619C59e5f39/logo.png"
+    }
+  },
+  "name": "ARESCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

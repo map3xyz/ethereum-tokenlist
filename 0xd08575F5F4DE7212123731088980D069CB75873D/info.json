@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd08575F5F4DE7212123731088980D069CB75873D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "141615d7-0fe1-4ca8-9c8b-49a45e442f97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd08575F5F4DE7212123731088980D069CB75873D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd08575F5F4DE7212123731088980D069CB75873D/logo.png"
+    }
+  },
+  "name": "BetSwap Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSWP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

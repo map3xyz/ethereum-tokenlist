@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x78a3B2f1e7eec1073088ea4a193618743F81cEf8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e38678b-cdff-4f55-bd90-08ba6b400f3b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78a3B2f1e7eec1073088ea4a193618743F81cEf8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78a3B2f1e7eec1073088ea4a193618743F81cEf8/logo.png"
+    }
+  },
+  "name": "Stable BOOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "bootusd",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

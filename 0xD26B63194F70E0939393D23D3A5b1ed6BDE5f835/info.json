@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19d01c05-e9ec-40f9-8551-4786eb908007",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835/logo.png"
+    }
+  },
+  "name": "SunPower",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

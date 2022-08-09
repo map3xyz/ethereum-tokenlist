@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7DE2d123042994737105802D2abD0A10a7BdE276",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "883107f4-6eb6-4383-b989-35e2b4168362",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7DE2d123042994737105802D2abD0A10a7BdE276/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7DE2d123042994737105802D2abD0A10a7BdE276/logo.png"
+    }
+  },
+  "name": "MEXC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xECbF566944250ddE88322581024E611419715f7A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d87fbd2d-411b-435e-b58d-6b5469431090",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xECbF566944250ddE88322581024E611419715f7A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xECbF566944250ddE88322581024E611419715f7A/logo.png"
+    }
+  },
+  "name": "xBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

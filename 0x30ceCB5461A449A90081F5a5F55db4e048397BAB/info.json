@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "185233cd-70a6-4c74-9582-cc0ef5900ce6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30ceCB5461A449A90081F5a5F55db4e048397BAB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30ceCB5461A449A90081F5a5F55db4e048397BAB/logo.png"
+    }
+  },
+  "name": "Tracto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "622872e7-bd05-47a3-acb1-5e14790ccbfc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb/logo.png"
+    }
+  },
+  "name": "GYSR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GYSR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

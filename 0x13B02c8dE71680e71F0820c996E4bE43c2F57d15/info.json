@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bce8b606-bd15-4c7b-a0b4-4c9b87dbe997",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15/logo.png"
+    }
+  },
+  "name": "mQQQ Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mQQQ",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

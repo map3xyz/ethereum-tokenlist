@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "747a0a55-3127-4fa0-bc28-505234c326f1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFf19138b039D938db46bDDA0067DC4BA132ec71C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFf19138b039D938db46bDDA0067DC4BA132ec71C/logo.png"
+    }
+  },
+  "name": "Snetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

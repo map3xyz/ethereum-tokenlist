@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE34e1944E776f39B9252790a0527eBDa647aE668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f54c1c9c-7618-4ff3-89ee-22c64e35d317",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE34e1944E776f39B9252790a0527eBDa647aE668/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE34e1944E776f39B9252790a0527eBDa647aE668/logo.png"
+    }
+  },
+  "name": "Helbiz Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

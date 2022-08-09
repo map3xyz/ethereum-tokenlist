@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeF1344bDf80BEf3Ff4428d8bECEC3eea4A2cF574",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bfa25bdd-2f7b-42fb-afbb-f1ab41037999",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeF1344bDf80BEf3Ff4428d8bECEC3eea4A2cF574/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeF1344bDf80BEf3Ff4428d8bECEC3eea4A2cF574/logo.png"
+    }
+  },
+  "name": "Era Swap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

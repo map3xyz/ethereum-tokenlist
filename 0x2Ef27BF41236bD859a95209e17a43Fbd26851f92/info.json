@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Ef27BF41236bD859a95209e17a43Fbd26851f92",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "54934f5b-c35d-40a2-a5cf-cf67f8bab452",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Ef27BF41236bD859a95209e17a43Fbd26851f92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Ef27BF41236bD859a95209e17a43Fbd26851f92/logo.png"
+    }
+  },
+  "name": "MORPH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

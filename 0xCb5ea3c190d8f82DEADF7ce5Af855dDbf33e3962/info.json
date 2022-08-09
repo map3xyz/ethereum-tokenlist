@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCb5ea3c190d8f82DEADF7ce5Af855dDbf33e3962",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "018a61be-568d-4ed2-96c9-457bd25d1b9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCb5ea3c190d8f82DEADF7ce5Af855dDbf33e3962/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCb5ea3c190d8f82DEADF7ce5Af855dDbf33e3962/logo.png"
+    }
+  },
+  "name": "Qubitica",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

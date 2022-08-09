@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x324230Bf92C3605C0601764E4e1d8761b76f8907",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d753285-53ed-46ab-b92c-9a90ae65995a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x324230Bf92C3605C0601764E4e1d8761b76f8907/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x324230Bf92C3605C0601764E4e1d8761b76f8907/logo.png"
+    }
+  },
+  "name": "OTChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

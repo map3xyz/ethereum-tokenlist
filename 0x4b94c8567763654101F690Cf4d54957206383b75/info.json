@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b94c8567763654101F690Cf4d54957206383b75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd7b5106-11d1-4051-a168-1bf166ba28bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b94c8567763654101F690Cf4d54957206383b75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b94c8567763654101F690Cf4d54957206383b75/logo.png"
+    }
+  },
+  "name": "NEOWORLD CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

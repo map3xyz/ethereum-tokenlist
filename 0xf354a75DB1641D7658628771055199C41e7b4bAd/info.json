@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf354a75DB1641D7658628771055199C41e7b4bAd",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6dbec42e-6eb2-4f41-b9f2-942dc49767d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf354a75DB1641D7658628771055199C41e7b4bAd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf354a75DB1641D7658628771055199C41e7b4bAd/logo.png"
+    }
+  },
+  "name": "JAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

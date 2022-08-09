@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "818ba4ca-ee91-48ac-ab02-13d374ea29bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
+    }
+  },
+  "name": "Rai Reflex Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

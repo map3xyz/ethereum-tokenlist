@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x180e5087935A94Fd5bbAb00fD2249C5bE0473381",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6333ea65-e427-4a65-af28-9531d53de85e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x180e5087935A94Fd5bbAb00fD2249C5bE0473381/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x180e5087935A94Fd5bbAb00fD2249C5bE0473381/logo.png"
+    }
+  },
+  "name": "ZCashGOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

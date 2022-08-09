@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "710bf253-bed3-43ad-b7f4-3a5f2818e829",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+    }
+  },
+  "name": "PAX Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAXG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

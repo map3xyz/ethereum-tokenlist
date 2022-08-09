@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3543638eD4a9006E4840B105944271Bcea15605D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0895e528-c783-428d-b8fc-1da9abd9c138",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3543638eD4a9006E4840B105944271Bcea15605D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3543638eD4a9006E4840B105944271Bcea15605D/logo.png"
+    }
+  },
+  "name": "UNetworkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UUU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

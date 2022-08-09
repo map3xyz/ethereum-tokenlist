@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7Cc4356b280f0b5d2DB47EA2755916F6De8DbB6e",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "d35467f9-e04f-4619-8292-335202e07b01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Cc4356b280f0b5d2DB47EA2755916F6De8DbB6e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Cc4356b280f0b5d2DB47EA2755916F6De8DbB6e/logo.png"
+    }
+  },
+  "name": "BankersCoins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

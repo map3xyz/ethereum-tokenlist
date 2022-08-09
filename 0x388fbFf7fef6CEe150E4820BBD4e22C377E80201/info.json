@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x388fbFf7fef6CEe150E4820BBD4e22C377E80201",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aaa2e45e-db90-4ca7-8389-66f11e9756c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x388fbFf7fef6CEe150E4820BBD4e22C377E80201/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x388fbFf7fef6CEe150E4820BBD4e22C377E80201/logo.png"
+    }
+  },
+  "name": "Techno Defi Solution",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

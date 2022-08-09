@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xED82730312babb41367E060911F798002FFA445F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8bf98b2e-fa50-4d16-885e-283e3ae13615",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xED82730312babb41367E060911F798002FFA445F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xED82730312babb41367E060911F798002FFA445F/logo.png"
+    }
+  },
+  "name": "The Crypto Tech",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

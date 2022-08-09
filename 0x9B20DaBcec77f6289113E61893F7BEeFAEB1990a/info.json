@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59b2ddab-4971-462f-a26f-0241f38ea8d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a/logo.png"
+    }
+  },
+  "name": "Fair Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

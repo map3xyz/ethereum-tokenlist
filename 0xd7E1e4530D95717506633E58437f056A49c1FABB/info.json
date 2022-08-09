@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7E1e4530D95717506633E58437f056A49c1FABB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef8c9c0c-c3e8-4a76-8c16-15f41ed50a67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7E1e4530D95717506633E58437f056A49c1FABB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7E1e4530D95717506633E58437f056A49c1FABB/logo.png"
+    }
+  },
+  "name": "AMA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1b3e740-326c-409d-9df2-5cc6dce94c74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png"
+    }
+  },
+  "name": "Bankless DeFi Innovation Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

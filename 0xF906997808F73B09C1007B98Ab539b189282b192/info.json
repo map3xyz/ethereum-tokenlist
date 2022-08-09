@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF906997808F73B09C1007B98Ab539b189282b192",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "bd3366f7-faec-46b1-843e-fef144cbda2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF906997808F73B09C1007B98Ab539b189282b192/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF906997808F73B09C1007B98Ab539b189282b192/logo.png"
+    }
+  },
+  "name": "USDG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

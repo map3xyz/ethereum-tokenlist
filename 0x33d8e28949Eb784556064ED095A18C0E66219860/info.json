@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33d8e28949Eb784556064ED095A18C0E66219860",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f2099ac-7fb5-4533-a34d-bdaa4b18ccc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33d8e28949Eb784556064ED095A18C0E66219860/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33d8e28949Eb784556064ED095A18C0E66219860/logo.png"
+    }
+  },
+  "name": "INNOVA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

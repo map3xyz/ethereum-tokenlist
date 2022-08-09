@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBa7DCBa2Ade319Bc772DB4df75A76BA00dFb31b0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bc888cc8-56e2-4615-bb24-e2db884580d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBa7DCBa2Ade319Bc772DB4df75A76BA00dFb31b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBa7DCBa2Ade319Bc772DB4df75A76BA00dFb31b0/logo.png"
+    }
+  },
+  "name": "Apollo18",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "A18",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

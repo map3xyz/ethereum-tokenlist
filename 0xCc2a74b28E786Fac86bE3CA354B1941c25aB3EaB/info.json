@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCc2a74b28E786Fac86bE3CA354B1941c25aB3EaB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b64de6ce-0039-46d0-ae71-d8589c09ff5a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc2a74b28E786Fac86bE3CA354B1941c25aB3EaB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc2a74b28E786Fac86bE3CA354B1941c25aB3EaB/logo.png"
+    }
+  },
+  "name": "GABO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

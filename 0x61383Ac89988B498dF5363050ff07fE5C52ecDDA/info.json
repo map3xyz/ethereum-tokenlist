@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61383Ac89988B498dF5363050ff07fE5C52ecDDA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dddf122e-86af-4e2c-89aa-5aa3b9ca7074",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61383Ac89988B498dF5363050ff07fE5C52ecDDA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61383Ac89988B498dF5363050ff07fE5C52ecDDA/logo.png"
+    }
+  },
+  "name": "REBGLO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

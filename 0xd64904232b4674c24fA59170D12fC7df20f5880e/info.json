@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd64904232b4674c24fA59170D12fC7df20f5880e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3537f6d-282f-4d72-afca-86759ed5922d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd64904232b4674c24fA59170D12fC7df20f5880e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd64904232b4674c24fA59170D12fC7df20f5880e/logo.png"
+    }
+  },
+  "name": "VEDX TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

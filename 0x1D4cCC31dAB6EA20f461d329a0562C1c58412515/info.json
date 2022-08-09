@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1D4cCC31dAB6EA20f461d329a0562C1c58412515",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91efdc13-7153-4a8b-b4b6-0756a6206d64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1D4cCC31dAB6EA20f461d329a0562C1c58412515/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D4cCC31dAB6EA20f461d329a0562C1c58412515/logo.png"
+    }
+  },
+  "name": "Talao",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TALAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

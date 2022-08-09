@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x296b3Fc8e3CC768F834152586e5Ad708BFE8F163",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b916975-1493-4248-af23-593f2c0225de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x296b3Fc8e3CC768F834152586e5Ad708BFE8F163/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x296b3Fc8e3CC768F834152586e5Ad708BFE8F163/logo.png"
+    }
+  },
+  "name": "FirstEnergy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

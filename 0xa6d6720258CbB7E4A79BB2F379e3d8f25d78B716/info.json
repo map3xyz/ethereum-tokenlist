@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa6d6720258CbB7E4A79BB2F379e3d8f25d78B716",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc215a3a-559e-4e26-9002-b1e605400519",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa6d6720258CbB7E4A79BB2F379e3d8f25d78B716/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6d6720258CbB7E4A79BB2F379e3d8f25d78B716/logo.png"
+    }
+  },
+  "name": "TOKELITE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

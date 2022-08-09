@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41c63BF8Fe81709aa6C4795EaB85E41fD067BF26",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "caa157f8-43f7-4b30-971a-3106f57819d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41c63BF8Fe81709aa6C4795EaB85E41fD067BF26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41c63BF8Fe81709aa6C4795EaB85E41fD067BF26/logo.png"
+    }
+  },
+  "name": "PGcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x31c63146a635EB7465e5853020b39713AC356991",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4abd54e2-5e4e-4840-ba82-c7b88a7cfb1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x31c63146a635EB7465e5853020b39713AC356991/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31c63146a635EB7465e5853020b39713AC356991/logo.png"
+    }
+  },
+  "name": "mUSO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

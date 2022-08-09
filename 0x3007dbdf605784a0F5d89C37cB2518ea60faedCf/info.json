@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3007dbdf605784a0F5d89C37cB2518ea60faedCf",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "39c048f4-0e12-4a95-81c9-61350071ef59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3007dbdf605784a0F5d89C37cB2518ea60faedCf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3007dbdf605784a0F5d89C37cB2518ea60faedCf/logo.png"
+    }
+  },
+  "name": "Cobalt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-CO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

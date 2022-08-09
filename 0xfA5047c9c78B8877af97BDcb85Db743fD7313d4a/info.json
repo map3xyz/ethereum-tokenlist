@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58ea28a0-d764-40c0-919a-7340a2d6df23",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png"
+    }
+  },
+  "name": "Rook",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROOK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

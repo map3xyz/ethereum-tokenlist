@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40aafc77-9e16-4e8d-937b-0ad1b6940853",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x946112efaB61C3636CBD52DE2E1392D7A75A6f01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x946112efaB61C3636CBD52DE2E1392D7A75A6f01/logo.png"
+    }
+  },
+  "name": "Hydro Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYDRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa753D16375229948C62e3b8b19326F845b6b9d8B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2796d182-c71f-4275-b870-bcefc777bdc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa753D16375229948C62e3b8b19326F845b6b9d8B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa753D16375229948C62e3b8b19326F845b6b9d8B/logo.png"
+    }
+  },
+  "name": "CRYPTOBANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

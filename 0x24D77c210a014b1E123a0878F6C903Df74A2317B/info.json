@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24D77c210a014b1E123a0878F6C903Df74A2317B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "73f854e6-e166-4d6d-a276-b131e92659f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24D77c210a014b1E123a0878F6C903Df74A2317B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24D77c210a014b1E123a0878F6C903Df74A2317B/logo.png"
+    }
+  },
+  "name": "BITFXT COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

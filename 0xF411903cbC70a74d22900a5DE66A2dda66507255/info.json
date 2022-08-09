@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04273e67-f1ae-4166-bf51-94a75cdc4614",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xF411903cbC70a74d22900a5DE66A2dda66507255/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF411903cbC70a74d22900a5DE66A2dda66507255/logo.png"
+    }
+  },
+  "name": "Verasity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

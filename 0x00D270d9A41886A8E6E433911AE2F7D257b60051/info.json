@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00D270d9A41886A8E6E433911AE2F7D257b60051",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0516add2-0237-480d-b081-20629c846c52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00D270d9A41886A8E6E433911AE2F7D257b60051/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00D270d9A41886A8E6E433911AE2F7D257b60051/logo.png"
+    }
+  },
+  "name": "BUZZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUZZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c70a767b-e0b3-4b69-9620-c89aac496911",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb/logo.png"
+    }
+  },
+  "name": "Becaz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

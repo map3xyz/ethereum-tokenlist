@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE74110fB5A1007b06282e0DE5d73A61bf41d9Cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4055624-8069-49c6-9aa6-7db0e3b67439",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE74110fB5A1007b06282e0DE5d73A61bf41d9Cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE74110fB5A1007b06282e0DE5d73A61bf41d9Cd/logo.png"
+    }
+  },
+  "name": "BHPCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BHPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4dB56A679DF2694c98793BdEB0a92f9C77C5ae64",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1417d042-4100-422e-9d8f-8ba50b45c0a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dB56A679DF2694c98793BdEB0a92f9C77C5ae64/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4dB56A679DF2694c98793BdEB0a92f9C77C5ae64/logo.png"
+    }
+  },
+  "name": "KNIGHT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNIGHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

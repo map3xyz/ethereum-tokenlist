@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3170d48f-860b-477e-b10e-50afaafcb025",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd/logo.png"
+    }
+  },
+  "name": "DODO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DODO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

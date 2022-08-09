@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3c961A0a2eC87247897A07e66d9d9967a317aBde",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a5e8ad2-06ed-4f2f-89b6-4f22503bd69c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3c961A0a2eC87247897A07e66d9d9967a317aBde/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c961A0a2eC87247897A07e66d9d9967a317aBde/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Short KNC-DAI 3x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsKNC3x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

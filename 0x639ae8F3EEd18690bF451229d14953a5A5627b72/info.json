@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74d05663-f932-420c-a17b-d70ebc327b27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x639ae8F3EEd18690bF451229d14953a5A5627b72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x639ae8F3EEd18690bF451229d14953a5A5627b72/logo.png"
+    }
+  },
+  "name": "GNBU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNBU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

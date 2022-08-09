@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4EcDB6385f3Db3847F9C4A9bf3F9917bb27A5452",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "24696bac-c179-4284-96a4-dd98c0d9e3be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4EcDB6385f3Db3847F9C4A9bf3F9917bb27A5452/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4EcDB6385f3Db3847F9C4A9bf3F9917bb27A5452/logo.png"
+    }
+  },
+  "name": "EKT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

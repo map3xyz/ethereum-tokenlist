@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6f5E77Cea0AbDdA40013a8eF53639C96972fb745",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83e00101-6a25-4cc8-afd2-47752d714f0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6f5E77Cea0AbDdA40013a8eF53639C96972fb745/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f5E77Cea0AbDdA40013a8eF53639C96972fb745/logo.png"
+    }
+  },
+  "name": "New York Exchange Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NYE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

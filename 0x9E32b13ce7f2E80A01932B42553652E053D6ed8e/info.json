@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff9af955-62ea-4bec-9c40-492392c24b13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
+    }
+  },
+  "name": "MetisDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Metis",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

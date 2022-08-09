@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAd14E61E0C450f525429861b1E482EeDf914A541",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9c4bd4c-0c0d-4f5f-b5b9-7b1143e34e84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAd14E61E0C450f525429861b1E482EeDf914A541/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAd14E61E0C450f525429861b1E482EeDf914A541/logo.png"
+    }
+  },
+  "name": "EthLinkerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

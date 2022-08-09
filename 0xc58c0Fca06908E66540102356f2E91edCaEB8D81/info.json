@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3746d985-79c8-4cbf-8fb6-e09c505ff01f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc58c0Fca06908E66540102356f2E91edCaEB8D81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc58c0Fca06908E66540102356f2E91edCaEB8D81/logo.png"
+    }
+  },
+  "name": "HalfLife",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

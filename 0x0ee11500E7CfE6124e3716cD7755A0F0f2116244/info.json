@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ee11500E7CfE6124e3716cD7755A0F0f2116244",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7e58da79-f757-4d93-916c-4b773938de19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ee11500E7CfE6124e3716cD7755A0F0f2116244/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ee11500E7CfE6124e3716cD7755A0F0f2116244/logo.png"
+    }
+  },
+  "name": "WXCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

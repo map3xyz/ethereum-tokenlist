@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d0acadd6-3de5-494b-9733-be769fcdf491",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
+    }
+  },
+  "name": "CACHE Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

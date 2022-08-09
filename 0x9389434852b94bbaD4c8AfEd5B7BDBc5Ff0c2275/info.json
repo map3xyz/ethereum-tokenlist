@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cad3db6a-9a61-43bb-b5bb-4323dd123d09",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275/logo.png"
+    }
+  },
+  "name": "TTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

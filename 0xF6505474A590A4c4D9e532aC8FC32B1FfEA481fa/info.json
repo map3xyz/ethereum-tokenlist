@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e5bdff9f-42ec-412e-8890-e4c76c7650f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa/logo.png"
+    }
+  },
+  "name": "LEU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

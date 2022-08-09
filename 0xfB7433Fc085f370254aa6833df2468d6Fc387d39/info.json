@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfB7433Fc085f370254aa6833df2468d6Fc387d39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8766fe89-b8db-4f0a-a6de-c82d735550af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfB7433Fc085f370254aa6833df2468d6Fc387d39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfB7433Fc085f370254aa6833df2468d6Fc387d39/logo.png"
+    }
+  },
+  "name": "NAZADAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03309d4f-a9f4-466e-9704-4a8450832c4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe/logo.png"
+    }
+  },
+  "name": "bZx ZRX iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iZRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

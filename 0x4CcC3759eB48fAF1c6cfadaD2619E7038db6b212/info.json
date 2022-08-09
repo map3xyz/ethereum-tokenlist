@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "20bcff0e-b2b6-4e88-9204-5db40506cc7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212/logo.png"
+    }
+  },
+  "name": "SuperEdge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

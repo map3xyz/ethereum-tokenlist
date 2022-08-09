@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6013ce9f-c959-42fe-b9d3-5acf2fa3d436",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb/logo.png"
+    }
+  },
+  "name": "Trendering",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

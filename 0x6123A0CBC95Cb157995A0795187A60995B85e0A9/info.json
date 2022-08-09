@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6123A0CBC95Cb157995A0795187A60995B85e0A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1680bda7-b4c9-4b97-adc5-cb40409087e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6123A0CBC95Cb157995A0795187A60995B85e0A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6123A0CBC95Cb157995A0795187A60995B85e0A9/logo.png"
+    }
+  },
+  "name": "BTCDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCDai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

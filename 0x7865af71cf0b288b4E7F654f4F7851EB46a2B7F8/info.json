@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e15e14a-9736-40a5-a978-127b8e97da9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8/logo.png"
+    }
+  },
+  "name": "Sentivate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNTVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

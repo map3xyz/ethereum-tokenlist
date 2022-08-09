@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEfbB3F1058fd8E0C9d7204f532E17d7572AFfc3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f372c4d7-3648-452f-88bf-6659c7f3d8f1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEfbB3F1058fd8E0C9d7204f532E17d7572AFfc3e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEfbB3F1058fd8E0C9d7204f532E17d7572AFfc3e/logo.png"
+    }
+  },
+  "name": "MBCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MBCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

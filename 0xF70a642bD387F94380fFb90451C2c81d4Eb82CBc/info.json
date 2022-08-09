@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6ccd3744-2c7a-4d4a-b2fe-226c17c151d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc/logo.png"
+    }
+  },
+  "name": "Starbase",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

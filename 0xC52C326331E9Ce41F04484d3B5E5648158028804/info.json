@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC52C326331E9Ce41F04484d3B5E5648158028804",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91831027-1a14-4f84-a0dd-c033e4799705",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC52C326331E9Ce41F04484d3B5E5648158028804/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC52C326331E9Ce41F04484d3B5E5648158028804/logo.png"
+    }
+  },
+  "name": "ZEN Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e04ddee-fc77-417b-8854-594e758ac57b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc/logo.png"
+    }
+  },
+  "name": "Paypolitan Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

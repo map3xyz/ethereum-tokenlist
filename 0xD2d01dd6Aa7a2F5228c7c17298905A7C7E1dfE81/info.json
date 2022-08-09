@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD2d01dd6Aa7a2F5228c7c17298905A7C7E1dfE81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25992d42-bb42-467b-b9bc-4d2a00951572",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD2d01dd6Aa7a2F5228c7c17298905A7C7E1dfE81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD2d01dd6Aa7a2F5228c7c17298905A7C7E1dfE81/logo.png"
+    }
+  },
+  "name": "Onyx USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

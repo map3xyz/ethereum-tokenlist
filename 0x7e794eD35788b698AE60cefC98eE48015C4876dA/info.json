@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7e794eD35788b698AE60cefC98eE48015C4876dA",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c01226e6-1186-4ced-ac2c-f9588cf91774",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7e794eD35788b698AE60cefC98eE48015C4876dA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7e794eD35788b698AE60cefC98eE48015C4876dA/logo.png"
+    }
+  },
+  "name": "Shintama",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHINTAMA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

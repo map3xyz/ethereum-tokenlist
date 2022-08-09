@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD3de2cFbD3F8B7d9364a02b5C103530Cae870D82",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "284592f0-6e7c-4620-a637-955eff38960a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD3de2cFbD3F8B7d9364a02b5C103530Cae870D82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD3de2cFbD3F8B7d9364a02b5C103530Cae870D82/logo.png"
+    }
+  },
+  "name": "Diaspora",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIASPORA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

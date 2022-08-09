@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa87DeAE3026Ae94900D69FFa39eb9a99E0bF9B08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1359bb5c-fe4c-44da-aaad-2877a76eb265",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa87DeAE3026Ae94900D69FFa39eb9a99E0bF9B08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa87DeAE3026Ae94900D69FFa39eb9a99E0bF9B08/logo.png"
+    }
+  },
+  "name": "TOR Cabala",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Torc",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c82fc9a0-8ae5-4ae0-90e6-40669eb33bd7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc/logo.png"
+    }
+  },
+  "name": "MIMO Parallel Governance Token (MIMO)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

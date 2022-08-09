@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c0987e79A6328374119Ed34df64881b3A40f5a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a43748b1-bdcd-4434-8be0-316478886ef3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c0987e79A6328374119Ed34df64881b3A40f5a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c0987e79A6328374119Ed34df64881b3A40f5a7/logo.png"
+    }
+  },
+  "name": "UPCHAINS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

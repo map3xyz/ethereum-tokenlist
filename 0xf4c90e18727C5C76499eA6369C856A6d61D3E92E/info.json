@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf4c90e18727C5C76499eA6369C856A6d61D3E92E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d25295c6-6265-4590-b2e2-b4bc856c205c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf4c90e18727C5C76499eA6369C856A6d61D3E92E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4c90e18727C5C76499eA6369C856A6d61D3E92E/logo.png"
+    }
+  },
+  "name": "INK token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

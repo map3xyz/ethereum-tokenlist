@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6f07de4e-597b-49a4-9233-5f52cd22f65e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079/logo.png"
+    }
+  },
+  "name": "Cryptonex (CNX) - Global Blockchain Acquiring",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

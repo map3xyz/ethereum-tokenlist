@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcc0eC876191558De23c8D122483F30382651674F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74223a9b-9f5a-4299-a300-06f75a4a74fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcc0eC876191558De23c8D122483F30382651674F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcc0eC876191558De23c8D122483F30382651674F/logo.png"
+    }
+  },
+  "name": "Exodo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

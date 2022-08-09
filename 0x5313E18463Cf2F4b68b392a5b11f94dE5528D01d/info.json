@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f096bb1c-6b0f-492a-9ab7-8b78772c18e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d/logo.png"
+    }
+  },
+  "name": "ullu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULLU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

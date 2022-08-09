@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C4d804E27Da8071e4f54A2323d9c6Fc14d7CC46",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aaeef72d-66bb-4fbe-94f1-e09ee20f81d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C4d804E27Da8071e4f54A2323d9c6Fc14d7CC46/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C4d804E27Da8071e4f54A2323d9c6Fc14d7CC46/logo.png"
+    }
+  },
+  "name": "NasToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12bc911b-f8d9-49a2-9df9-b7fec5e297a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xc719d010B63E5bbF2C0551872CD5316ED26AcD83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc719d010B63E5bbF2C0551872CD5316ED26AcD83/logo.png"
+    }
+  },
+  "name": "Decentralized Insurance Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

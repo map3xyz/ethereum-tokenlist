@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d43bf475-e3af-4d0b-af1e-f99196814704",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F/logo.png"
+    }
+  },
+  "name": "Centrality",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CENNZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

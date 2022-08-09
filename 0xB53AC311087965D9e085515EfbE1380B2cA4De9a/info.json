@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB53AC311087965D9e085515EfbE1380B2cA4De9a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4b2d28e-26f3-47df-b86e-d753a5757bdf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB53AC311087965D9e085515EfbE1380B2cA4De9a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB53AC311087965D9e085515EfbE1380B2cA4De9a/logo.png"
+    }
+  },
+  "name": "WITEE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

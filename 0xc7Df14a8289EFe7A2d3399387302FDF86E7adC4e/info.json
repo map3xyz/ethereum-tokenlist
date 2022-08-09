@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc7Df14a8289EFe7A2d3399387302FDF86E7adC4e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "00781580-b371-45bc-b468-9d4bd324559d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7Df14a8289EFe7A2d3399387302FDF86E7adC4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7Df14a8289EFe7A2d3399387302FDF86E7adC4e/logo.png"
+    }
+  },
+  "name": "IX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

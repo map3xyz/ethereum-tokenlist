@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eebb261c-f0c1-411d-8713-5d7c9bfb811c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE/logo.png"
+    }
+  },
+  "name": "Tars Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

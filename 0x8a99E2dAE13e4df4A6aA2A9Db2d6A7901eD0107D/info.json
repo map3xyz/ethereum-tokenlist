@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d09bbb19-bc47-4f86-9dd1-fbb9b096a15f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D/logo.png"
+    }
+  },
+  "name": "Vibrant Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ViFi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

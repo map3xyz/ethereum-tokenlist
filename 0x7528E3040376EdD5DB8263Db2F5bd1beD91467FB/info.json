@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7528E3040376EdD5DB8263Db2F5bd1beD91467FB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d52192f1-a1f6-4c1e-b71b-41efd2bc8d98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7528E3040376EdD5DB8263Db2F5bd1beD91467FB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7528E3040376EdD5DB8263Db2F5bd1beD91467FB/logo.png"
+    }
+  },
+  "name": "Simmitri",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

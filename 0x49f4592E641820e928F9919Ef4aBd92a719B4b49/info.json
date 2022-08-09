@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49f4592E641820e928F9919Ef4aBd92a719B4b49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f043258-5f18-46e6-b2d7-fc288967868f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49f4592E641820e928F9919Ef4aBd92a719B4b49/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49f4592E641820e928F9919Ef4aBd92a719B4b49/logo.png"
+    }
+  },
+  "name": "Fulcrum sUSD iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iSUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

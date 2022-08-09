@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46212d38-a402-4f11-986d-92fd51b92a65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057/logo.png"
+    }
+  },
+  "name": "Baby Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BABY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

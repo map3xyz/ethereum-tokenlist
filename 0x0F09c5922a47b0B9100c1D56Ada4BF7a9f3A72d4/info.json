@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0cd61969-aeeb-4f71-ab6a-591356c53e4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4/logo.png"
+    }
+  },
+  "name": "UTOPIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

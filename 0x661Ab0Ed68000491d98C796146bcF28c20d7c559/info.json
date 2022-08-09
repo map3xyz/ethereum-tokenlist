@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d268d5c1-235b-4bbf-8222-8def31d7b742",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x661Ab0Ed68000491d98C796146bcF28c20d7c559/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x661Ab0Ed68000491d98C796146bcF28c20d7c559/logo.png"
+    }
+  },
+  "name": "Shadows",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

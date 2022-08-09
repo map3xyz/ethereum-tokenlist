@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB422e605fBd765B80D2C4b5d8196C2f94144438B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eed2a991-d00a-4322-9cf1-310f46d449be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB422e605fBd765B80D2C4b5d8196C2f94144438B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB422e605fBd765B80D2C4b5d8196C2f94144438B/logo.png"
+    }
+  },
+  "name": "3X Short Litecoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTCBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

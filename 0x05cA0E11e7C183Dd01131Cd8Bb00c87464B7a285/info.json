@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05cA0E11e7C183Dd01131Cd8Bb00c87464B7a285",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75def0ab-7dc4-49d4-b059-3c355050970f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05cA0E11e7C183Dd01131Cd8Bb00c87464B7a285/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05cA0E11e7C183Dd01131Cd8Bb00c87464B7a285/logo.png"
+    }
+  },
+  "name": "Entercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

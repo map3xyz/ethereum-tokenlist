@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e24da38c-773b-4231-9acb-0b7933a0b4dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40/logo.png"
+    }
+  },
+  "name": "Fuel Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

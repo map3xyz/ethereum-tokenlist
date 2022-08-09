@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13d0bf45e5F319Fa0B58900807049f23caE7C40D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a07301d1-00f7-423b-a386-546a7b6e15e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13d0bf45e5F319Fa0B58900807049f23caE7C40D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13d0bf45e5F319Fa0B58900807049f23caE7C40D/logo.png"
+    }
+  },
+  "name": "阅读币",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "READ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

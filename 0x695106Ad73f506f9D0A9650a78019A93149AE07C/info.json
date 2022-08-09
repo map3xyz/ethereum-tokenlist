@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e94258dd-de26-4f52-9ed8-2d5157f500e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x695106Ad73f506f9D0A9650a78019A93149AE07C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x695106Ad73f506f9D0A9650a78019A93149AE07C/logo.png"
+    }
+  },
+  "name": "BNS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

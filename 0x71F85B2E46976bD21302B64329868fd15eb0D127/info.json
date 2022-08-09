@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33e759bc-c295-4a99-97ee-edb711463c7a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x71F85B2E46976bD21302B64329868fd15eb0D127/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71F85B2E46976bD21302B64329868fd15eb0D127/logo.png"
+    }
+  },
+  "name": "Axion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

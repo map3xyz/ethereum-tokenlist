@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "961b5d74-9c7a-43f5-a7a6-eae9fdba3f4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcCeD5B8288086BE8c38E23567e684C3740be4D48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcCeD5B8288086BE8c38E23567e684C3740be4D48/logo.png"
+    }
+  },
+  "name": "Roulette Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA44Fb3AA5c8465512B806145a8f9b60e74f3f851",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3e21235-1ffb-4009-beb6-a41feed3c0f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA44Fb3AA5c8465512B806145a8f9b60e74f3f851/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA44Fb3AA5c8465512B806145a8f9b60e74f3f851/logo.png"
+    }
+  },
+  "name": "PITSTOP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

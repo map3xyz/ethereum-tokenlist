@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2ac07844fbBA038412c210EFa28dbD764F5deF84",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bcbe5a9b-bbfc-41e7-a9f5-4f8c8611e65c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ac07844fbBA038412c210EFa28dbD764F5deF84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ac07844fbBA038412c210EFa28dbD764F5deF84/logo.png"
+    }
+  },
+  "name": "Smart Pharmaceutical Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

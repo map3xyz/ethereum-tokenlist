@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee73d62a-0557-49bd-8b18-164425a24a62",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc/logo.png"
+    }
+  },
+  "name": "Biffys Love",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

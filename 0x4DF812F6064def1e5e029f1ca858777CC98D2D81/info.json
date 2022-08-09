@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "48b505b8-6d5e-4279-a9b8-4fde12440bec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DF812F6064def1e5e029f1ca858777CC98D2D81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4DF812F6064def1e5e029f1ca858777CC98D2D81/logo.png"
+    }
+  },
+  "name": "Xaurum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XAUR",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "774dd6c6-d81f-4137-a128-3c12da29ae78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf/logo.png"
+    }
+  },
+  "name": "ELTCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELTCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

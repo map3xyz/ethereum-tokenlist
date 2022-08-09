@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20318404-a493-482a-8898-3bf0204b8646",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e/logo.png"
+    }
+  },
+  "name": "Keep4r",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KP4R",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

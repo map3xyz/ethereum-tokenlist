@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x688fF43c3c19e4714f0BeB76df8Ee394207Ab411",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e465cbe8-a345-4db8-9fd9-7760580e5ddc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x688fF43c3c19e4714f0BeB76df8Ee394207Ab411/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x688fF43c3c19e4714f0BeB76df8Ee394207Ab411/logo.png"
+    }
+  },
+  "name": "RoboAi Coin R2R",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "R2R",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

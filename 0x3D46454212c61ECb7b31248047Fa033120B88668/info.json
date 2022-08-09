@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3D46454212c61ECb7b31248047Fa033120B88668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b2cf7ae-e895-44cb-9d1f-af47dac6f6d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3D46454212c61ECb7b31248047Fa033120B88668/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3D46454212c61ECb7b31248047Fa033120B88668/logo.png"
+    }
+  },
+  "name": "The Movement",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

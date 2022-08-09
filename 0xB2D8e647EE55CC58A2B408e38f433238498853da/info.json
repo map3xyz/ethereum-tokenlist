@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB2D8e647EE55CC58A2B408e38f433238498853da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3568590f-a20e-42ac-9ee9-d5ed0d6150af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB2D8e647EE55CC58A2B408e38f433238498853da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2D8e647EE55CC58A2B408e38f433238498853da/logo.png"
+    }
+  },
+  "name": "VITA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VITA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f28d84cf-baa0-4bbd-9eca-fc34e38fd29e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB/logo.png"
+    }
+  },
+  "name": "COW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COW",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

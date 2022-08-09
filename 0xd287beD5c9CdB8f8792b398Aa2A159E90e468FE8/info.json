@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd287beD5c9CdB8f8792b398Aa2A159E90e468FE8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5f1bc5e3-4150-47db-95e3-1fd8ed5a83aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd287beD5c9CdB8f8792b398Aa2A159E90e468FE8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd287beD5c9CdB8f8792b398Aa2A159E90e468FE8/logo.png"
+    }
+  },
+  "name": "PYRAMIDOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

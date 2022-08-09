@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4161725D019690a3E0de50f6bE67b07a86A9fAe1",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7ea10d8c-355e-41e0-87f0-711042a0d542",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4161725D019690a3E0de50f6bE67b07a86A9fAe1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4161725D019690a3E0de50f6bE67b07a86A9fAe1/logo.png"
+    }
+  },
+  "name": "TokenPocket Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

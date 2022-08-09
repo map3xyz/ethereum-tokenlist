@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f2695d1-efec-4022-9e98-e7af1c85e64b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png"
+    }
+  },
+  "name": "Basis Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

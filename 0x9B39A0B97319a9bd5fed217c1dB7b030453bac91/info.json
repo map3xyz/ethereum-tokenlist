@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbf239d2-e18d-4bb5-92b2-3b7098da1c8d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B39A0B97319a9bd5fed217c1dB7b030453bac91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B39A0B97319a9bd5fed217c1dB7b030453bac91/logo.png"
+    }
+  },
+  "name": "TigerCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

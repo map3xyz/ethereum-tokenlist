@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc5Fdd3E4665b5d7bC4dc9102622D7cb0Fe510b65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49118847-aa7e-476b-a713-1c8e0fba7746",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc5Fdd3E4665b5d7bC4dc9102622D7cb0Fe510b65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5Fdd3E4665b5d7bC4dc9102622D7cb0Fe510b65/logo.png"
+    }
+  },
+  "name": "sanmaricoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37795a0a-a6e5-40f4-b96c-a60c044aa65a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24/logo.png"
+    }
+  },
+  "name": "Gourmet Galaxy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

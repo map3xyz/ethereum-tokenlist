@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDDCE370b6E80653fB226803385a58c0f8e49D9d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3918678b-3d83-4654-b56a-613a3eaf76b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDDCE370b6E80653fB226803385a58c0f8e49D9d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDDCE370b6E80653fB226803385a58c0f8e49D9d4/logo.png"
+    }
+  },
+  "name": "Eco Finances",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

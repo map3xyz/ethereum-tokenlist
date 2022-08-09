@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCD6d1a15F39E41F1154511601C905Faf469001bE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01206c92-517d-43e9-95f1-8840f2ef68d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCD6d1a15F39E41F1154511601C905Faf469001bE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCD6d1a15F39E41F1154511601C905Faf469001bE/logo.png"
+    }
+  },
+  "name": "Planetagro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOYALTY POINTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

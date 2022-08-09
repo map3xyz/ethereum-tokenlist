@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaff84e86d72EDb971341a6A66eb2dA209446FA14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f017187-9938-482e-9428-3914cea49b8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaff84e86d72EDb971341a6A66eb2dA209446FA14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaff84e86d72EDb971341a6A66eb2dA209446FA14/logo.png"
+    }
+  },
+  "name": "TheCurrencyAnalytics",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

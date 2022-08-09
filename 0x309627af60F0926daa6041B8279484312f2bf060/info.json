@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12234a85-36a5-45b6-af51-135ecda490a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x309627af60F0926daa6041B8279484312f2bf060/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x309627af60F0926daa6041B8279484312f2bf060/logo.png"
+    }
+  },
+  "name": "Bancor USD Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

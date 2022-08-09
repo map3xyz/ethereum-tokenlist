@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c95022a8-dcb2-48aa-82d2-230e3993268c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7/logo.png"
+    }
+  },
+  "name": "CrowdCoinage",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

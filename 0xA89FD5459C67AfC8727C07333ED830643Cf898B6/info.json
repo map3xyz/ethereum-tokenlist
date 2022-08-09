@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA89FD5459C67AfC8727C07333ED830643Cf898B6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0a9b13e1-b296-4747-aa7c-a651d62b81d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA89FD5459C67AfC8727C07333ED830643Cf898B6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA89FD5459C67AfC8727C07333ED830643Cf898B6/logo.png"
+    }
+  },
+  "name": "Dice Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DICO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

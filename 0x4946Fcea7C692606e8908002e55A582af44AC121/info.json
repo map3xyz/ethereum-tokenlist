@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a0f3b72-5c0b-4ff3-91d7-bcc91ae0dc42",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4946Fcea7C692606e8908002e55A582af44AC121/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4946Fcea7C692606e8908002e55A582af44AC121/logo.png"
+    }
+  },
+  "name": "FOAM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

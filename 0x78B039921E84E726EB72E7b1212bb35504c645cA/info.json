@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7924544-96f0-4fc1-9d53-ceda2f9fa524",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78B039921E84E726EB72E7b1212bb35504c645cA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78B039921E84E726EB72E7b1212bb35504c645cA/logo.png"
+    }
+  },
+  "name": "Sether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

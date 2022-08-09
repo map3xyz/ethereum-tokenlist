@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbe038A2FDfec62Cf1beD852f141A43005035edcC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45c426b1-3d85-48cb-942c-078da73f31c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbe038A2FDfec62Cf1beD852f141A43005035edcC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbe038A2FDfec62Cf1beD852f141A43005035edcC/logo.png"
+    }
+  },
+  "name": "Intchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

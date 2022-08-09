@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B62513c8a27290CF6A7A9e29386e600245EA819",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07342d1f-3f86-47b1-ab85-41f4eeb37c9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B62513c8a27290CF6A7A9e29386e600245EA819/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B62513c8a27290CF6A7A9e29386e600245EA819/logo.png"
+    }
+  },
+  "name": "Contents Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

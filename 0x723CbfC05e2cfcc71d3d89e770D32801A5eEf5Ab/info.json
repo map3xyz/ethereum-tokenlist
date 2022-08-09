@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "31bdf370-75b9-4f25-899a-341c68ea61ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab/logo.png"
+    }
+  },
+  "name": "BitcoinPro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

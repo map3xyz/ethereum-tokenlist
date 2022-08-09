@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7c8939a-6a0a-4f58-ad22-4b3bdd59ce44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F/logo.png"
+    }
+  },
+  "name": "SandBox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

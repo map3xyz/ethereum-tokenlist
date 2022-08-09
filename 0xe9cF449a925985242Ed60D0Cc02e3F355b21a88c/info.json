@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe9cF449a925985242Ed60D0Cc02e3F355b21a88c",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7d82fdf8-bebc-42ce-9105-926b714cf8e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe9cF449a925985242Ed60D0Cc02e3F355b21a88c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe9cF449a925985242Ed60D0Cc02e3F355b21a88c/logo.png"
+    }
+  },
+  "name": "Lethereum ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

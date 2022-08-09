@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8c022ef0-ce08-43c3-8337-6de8f2f8864a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908/logo.png"
+    }
+  },
+  "name": "Humaniq",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HMQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

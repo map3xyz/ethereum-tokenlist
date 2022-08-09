@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "268274ac-a2e3-4539-8ace-cf3e2873714e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11Bbad1c935b87CB83543B9288d1A2a73A90Bf1C/logo.png"
+    }
+  },
+  "name": "Hexultra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEXULTRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

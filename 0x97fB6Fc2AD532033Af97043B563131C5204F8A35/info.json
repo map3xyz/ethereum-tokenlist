@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x97fB6Fc2AD532033Af97043B563131C5204F8A35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8790f09-7f7e-4e04-985a-1d944515e5b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x97fB6Fc2AD532033Af97043B563131C5204F8A35/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x97fB6Fc2AD532033Af97043B563131C5204F8A35/logo.png"
+    }
+  },
+  "name": "PlusCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

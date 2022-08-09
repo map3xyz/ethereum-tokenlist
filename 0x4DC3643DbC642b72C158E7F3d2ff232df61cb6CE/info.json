@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb5671d0-805c-4924-8814-683ef1ab8d47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE/logo.png"
+    }
+  },
+  "name": "Ambrosus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

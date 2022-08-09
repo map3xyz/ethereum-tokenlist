@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe707d9D42ba282811c985085080aC103cF544043",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "44f4d27b-d3b0-4a9f-995a-ad8b2d03286f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe707d9D42ba282811c985085080aC103cF544043/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe707d9D42ba282811c985085080aC103cF544043/logo.png"
+    }
+  },
+  "name": "Tokenestate Equity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26f69ac4-b7ac-4e64-9821-b4b3f55e6d64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png"
+    }
+  },
+  "name": "Indexed Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

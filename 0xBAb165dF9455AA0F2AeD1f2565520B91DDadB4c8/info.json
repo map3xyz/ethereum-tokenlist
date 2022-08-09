@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6fc3d0ca-82e3-4206-abc5-21fb58bc4b56",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8/logo.png"
+    }
+  },
+  "name": "EDUCare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF0e6019c0F16d31294937b3334229909349e00f4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "efbfc3ca-bb96-4390-80d2-8c5125c3358f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF0e6019c0F16d31294937b3334229909349e00f4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF0e6019c0F16d31294937b3334229909349e00f4/logo.png"
+    }
+  },
+  "name": "IBStoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

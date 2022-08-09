@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xADD9c6c4375B5afa3c952ed517a0E532E6238815",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01a9cea5-da4f-4314-adf4-6e60c2e2ea97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xADD9c6c4375B5afa3c952ed517a0E532E6238815/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xADD9c6c4375B5afa3c952ed517a0E532E6238815/logo.png"
+    }
+  },
+  "name": "HCTCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

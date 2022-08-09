@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaFF7d8a6E42568062b97961d9361075E38658037",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33f5d38e-64e7-4538-9416-7e6804767f77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaFF7d8a6E42568062b97961d9361075E38658037/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaFF7d8a6E42568062b97961d9361075E38658037/logo.png"
+    }
+  },
+  "name": "ORIENTUM PLUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

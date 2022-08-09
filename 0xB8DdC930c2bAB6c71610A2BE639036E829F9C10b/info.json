@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB8DdC930c2bAB6c71610A2BE639036E829F9C10b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a04963ca-bb03-43fe-b98c-9598de64633d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8DdC930c2bAB6c71610A2BE639036E829F9C10b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8DdC930c2bAB6c71610A2BE639036E829F9C10b/logo.png"
+    }
+  },
+  "name": "KWHCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KWH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

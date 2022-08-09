@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f1078a4-1e6a-40d6-a1dd-d2cc6df1dff2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF/logo.png"
+    }
+  },
+  "name": "Vision Bitcoin Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

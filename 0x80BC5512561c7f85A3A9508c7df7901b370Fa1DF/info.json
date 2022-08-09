@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80BC5512561c7f85A3A9508c7df7901b370Fa1DF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd04e411-7eae-4ccc-ae57-60256230162f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80BC5512561c7f85A3A9508c7df7901b370Fa1DF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80BC5512561c7f85A3A9508c7df7901b370Fa1DF/logo.png"
+    }
+  },
+  "name": "TradeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

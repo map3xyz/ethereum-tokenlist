@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEC80Ef99990E15373d2E860f57422E4e22e61F27",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9e0bd009-be69-4ff7-be0e-67d96af78986",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEC80Ef99990E15373d2E860f57422E4e22e61F27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEC80Ef99990E15373d2E860f57422E4e22e61F27/logo.png"
+    }
+  },
+  "name": "M8TRX5",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M85",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

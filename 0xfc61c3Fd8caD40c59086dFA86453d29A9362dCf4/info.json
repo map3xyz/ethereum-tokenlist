@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfc61c3Fd8caD40c59086dFA86453d29A9362dCf4",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e3ae757a-f8ad-4172-bfe9-59e889a7e92e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfc61c3Fd8caD40c59086dFA86453d29A9362dCf4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc61c3Fd8caD40c59086dFA86453d29A9362dCf4/logo.png"
+    }
+  },
+  "name": "Casey",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CASEY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

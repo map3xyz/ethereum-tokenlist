@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE531642e9bb5d027E9C20E03284287B97919a9a5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "60638f3a-d9ac-48cc-9ae6-ab5b7bc8f033",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE531642e9bb5d027E9C20E03284287B97919a9a5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE531642e9bb5d027E9C20E03284287B97919a9a5/logo.png"
+    }
+  },
+  "name": "FaithCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAITH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

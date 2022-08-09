@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB2b834900EE97E487d521FC09243f19A1a4A3099",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "45f15c29-3e8d-46bf-98ad-7d147c71894c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB2b834900EE97E487d521FC09243f19A1a4A3099/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2b834900EE97E487d521FC09243f19A1a4A3099/logo.png"
+    }
+  },
+  "name": "ONE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

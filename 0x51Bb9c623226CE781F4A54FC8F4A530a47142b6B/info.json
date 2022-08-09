@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40d3d4c0-d737-4117-98ce-f958ff64a4f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B/logo.png"
+    }
+  },
+  "name": "Peet DeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

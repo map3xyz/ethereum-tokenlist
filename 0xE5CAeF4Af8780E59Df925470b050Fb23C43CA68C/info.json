@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "bfd26b09-412b-4461-804e-4895994e3395",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C/logo.png"
+    }
+  },
+  "name": "Ferrum Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

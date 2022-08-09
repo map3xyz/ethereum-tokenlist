@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "648b8b08-d573-44a6-9205-9f13affc7326",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2/logo.png"
+    }
+  },
+  "name": "Cannadrix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4470BB87d77b963A013DB939BE332f927f2b992e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "62ce1e47-dbb1-48f2-adbf-901e4b2321fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4470BB87d77b963A013DB939BE332f927f2b992e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4470BB87d77b963A013DB939BE332f927f2b992e/logo.png"
+    }
+  },
+  "name": "AdEx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9230f3d2-ddfc-498b-b925-3498adb44acd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA/logo.png"
+    }
+  },
+  "name": "ROOBEE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROOBEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

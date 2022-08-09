@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEb4E33dd1D97407ADD2aFcDcD5dd17851b1695d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d1e1e89-79e1-4280-a19a-a6bb8e36ca7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEb4E33dd1D97407ADD2aFcDcD5dd17851b1695d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEb4E33dd1D97407ADD2aFcDcD5dd17851b1695d0/logo.png"
+    }
+  },
+  "name": "RuzeFinance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUZE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

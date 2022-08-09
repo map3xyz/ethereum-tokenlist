@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa6b9c5b-cc65-4dd5-863d-b326a364d7c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2/logo.png"
+    }
+  },
+  "name": "Ariadne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

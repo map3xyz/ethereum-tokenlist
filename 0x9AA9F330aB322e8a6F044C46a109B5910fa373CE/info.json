@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9AA9F330aB322e8a6F044C46a109B5910fa373CE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aaa7200e-2d11-4d97-b7a6-0879b3225622",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9AA9F330aB322e8a6F044C46a109B5910fa373CE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9AA9F330aB322e8a6F044C46a109B5910fa373CE/logo.png"
+    }
+  },
+  "name": "IgnisLite",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IgnisLite",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

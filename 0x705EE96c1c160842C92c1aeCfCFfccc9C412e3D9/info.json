@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e3fba1c-286d-4e0d-972f-91cee7dcb545",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9/logo.png"
+    }
+  },
+  "name": "ClearPoll Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

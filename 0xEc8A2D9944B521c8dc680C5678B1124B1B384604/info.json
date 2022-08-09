@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEc8A2D9944B521c8dc680C5678B1124B1B384604",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c9bc0c4c-8af7-4585-9a2a-7c03cdef1088",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEc8A2D9944B521c8dc680C5678B1124B1B384604/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEc8A2D9944B521c8dc680C5678B1124B1B384604/logo.png"
+    }
+  },
+  "name": "IDIA Alliance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

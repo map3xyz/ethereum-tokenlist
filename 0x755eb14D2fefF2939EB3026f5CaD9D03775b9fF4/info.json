@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c455331d-76de-4d5b-af7e-1f308c666cb5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4/logo.png"
+    }
+  },
+  "name": "BunnyToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUNNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

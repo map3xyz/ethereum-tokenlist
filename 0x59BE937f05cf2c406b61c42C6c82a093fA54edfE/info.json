@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x59BE937f05cf2c406b61c42C6c82a093fA54edfE",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "7d4bb1f3-6ff5-49a7-b381-a42734cc3800",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59BE937f05cf2c406b61c42C6c82a093fA54edfE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59BE937f05cf2c406b61c42C6c82a093fA54edfE/logo.png"
+    }
+  },
+  "name": "PlayCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

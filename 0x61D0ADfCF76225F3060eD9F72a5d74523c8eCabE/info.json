@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61D0ADfCF76225F3060eD9F72a5d74523c8eCabE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5920bb2e-7c0d-433c-bed4-396e938965a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61D0ADfCF76225F3060eD9F72a5d74523c8eCabE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61D0ADfCF76225F3060eD9F72a5d74523c8eCabE/logo.png"
+    }
+  },
+  "name": "OBIDUA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

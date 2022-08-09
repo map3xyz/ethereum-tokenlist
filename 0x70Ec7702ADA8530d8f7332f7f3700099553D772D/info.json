@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70Ec7702ADA8530d8f7332f7f3700099553D772D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d09371ad-8d6f-495a-bcc2-916b640ec592",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70Ec7702ADA8530d8f7332f7f3700099553D772D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70Ec7702ADA8530d8f7332f7f3700099553D772D/logo.png"
+    }
+  },
+  "name": "Indonesian Project",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80eefbc9-8189-4a9a-bc74-7152d60627fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C/logo.png"
+    }
+  },
+  "name": "Kattana",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

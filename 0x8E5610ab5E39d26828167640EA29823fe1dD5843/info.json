@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8E5610ab5E39d26828167640EA29823fe1dD5843",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9b37932b-a367-46c6-960c-cfac736267f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E5610ab5E39d26828167640EA29823fe1dD5843/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8E5610ab5E39d26828167640EA29823fe1dD5843/logo.png"
+    }
+  },
+  "name": "KanadeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cdfb4ef-6f0c-4705-9fad-1ff3c38eeac8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png"
+    }
+  },
+  "name": "Million",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

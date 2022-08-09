@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x74CEDa77281b339142A36817Fa5F9E29412bAb85",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5487c347-3b84-4d92-a02a-67f9b2808280",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x74CEDa77281b339142A36817Fa5F9E29412bAb85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74CEDa77281b339142A36817Fa5F9E29412bAb85/logo.png"
+    }
+  },
+  "name": "EROSCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

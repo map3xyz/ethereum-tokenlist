@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcd8352A5D8033C724C496c76aA3DFeeaE2141d0f",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b2d0f57e-5898-496e-ad30-f50e18072580",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcd8352A5D8033C724C496c76aA3DFeeaE2141d0f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd8352A5D8033C724C496c76aA3DFeeaE2141d0f/logo.png"
+    }
+  },
+  "name": "goldfi.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

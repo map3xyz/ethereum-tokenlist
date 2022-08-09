@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44086035439E676c02D411880FcCb9837CE37c57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb9c08eb-4527-41cd-b3f8-a06986e6a483",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44086035439E676c02D411880FcCb9837CE37c57/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44086035439E676c02D411880FcCb9837CE37c57/logo.png"
+    }
+  },
+  "name": "unified Stable Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

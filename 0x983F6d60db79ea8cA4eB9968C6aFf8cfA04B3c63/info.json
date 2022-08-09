@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f6d4ef0-e0f7-48f0-b215-c98eda7c17a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63/logo.png"
+    }
+  },
+  "name": "SONM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

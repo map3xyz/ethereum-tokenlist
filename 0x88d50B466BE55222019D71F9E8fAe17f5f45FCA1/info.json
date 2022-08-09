@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "07858f66-c4d4-4719-ba30-d06cfe010e49",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1/logo.png"
+    }
+  },
+  "name": "Cryptaur",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

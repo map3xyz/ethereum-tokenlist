@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdeb0e7a-1801-4bb7-a59c-e578657b5f4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e/logo.png"
+    }
+  },
+  "name": "BITCOIN GAME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGAME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

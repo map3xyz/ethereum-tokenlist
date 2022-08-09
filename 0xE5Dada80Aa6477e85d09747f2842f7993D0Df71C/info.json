@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fa53f780-4e66-4301-a370-b797134682a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C/logo.png"
+    }
+  },
+  "name": "DockToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

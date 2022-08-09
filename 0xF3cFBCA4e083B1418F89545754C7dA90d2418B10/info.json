@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF3cFBCA4e083B1418F89545754C7dA90d2418B10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c918760a-87ac-4700-890b-5b917c850450",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF3cFBCA4e083B1418F89545754C7dA90d2418B10/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF3cFBCA4e083B1418F89545754C7dA90d2418B10/logo.png"
+    }
+  },
+  "name": "G-Mbel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMBEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa573661b5FB2063d7AB12336ee24589F7A79fdab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f48d511e-c5ce-4f9c-b752-4a112e1b7b11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa573661b5FB2063d7AB12336ee24589F7A79fdab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa573661b5FB2063d7AB12336ee24589F7A79fdab/logo.png"
+    }
+  },
+  "name": "IceChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICHX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

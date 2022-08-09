@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5757ece1-ba0a-41ce-828f-4e03dadba150",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71/logo.png"
+    }
+  },
+  "name": "JILT ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

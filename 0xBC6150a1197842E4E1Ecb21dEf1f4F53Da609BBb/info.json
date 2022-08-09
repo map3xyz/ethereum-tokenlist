@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBC6150a1197842E4E1Ecb21dEf1f4F53Da609BBb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c3dfd2d8-8464-4efd-96fb-7925342e97b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBC6150a1197842E4E1Ecb21dEf1f4F53Da609BBb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBC6150a1197842E4E1Ecb21dEf1f4F53Da609BBb/logo.png"
+    }
+  },
+  "name": "ZYJ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZYJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

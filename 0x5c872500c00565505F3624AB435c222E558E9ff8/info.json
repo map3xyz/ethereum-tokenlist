@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a14c3180-15b8-40e7-b4bd-9c14cae97890",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c872500c00565505F3624AB435c222E558E9ff8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c872500c00565505F3624AB435c222E558E9ff8/logo.png"
+    }
+  },
+  "name": "CoTrader",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

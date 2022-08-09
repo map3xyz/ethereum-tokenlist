@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e4d5ccc-3f22-486b-8318-22cc2caedd68",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa/logo.png"
+    }
+  },
+  "name": "InsurChain2.0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INSUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3eb3d7f1-8c58-4b48-b685-0c6580520041",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf67041758D3B6e56D6fDafA5B32038302C3634DA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf67041758D3B6e56D6fDafA5B32038302C3634DA/logo.png"
+    }
+  },
+  "name": "TBC Shopping Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbc03a49-13bc-4744-8230-e9ebfe2d2312",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8185Bc4757572Da2a610f887561c32298f1A5748/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8185Bc4757572Da2a610f887561c32298f1A5748/logo.png"
+    }
+  },
+  "name": "Aluna Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

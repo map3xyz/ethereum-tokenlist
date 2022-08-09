@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCA760655D162EE134E34A316aE8AD9a54a69B60f",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8fd341ad-2cbb-4eef-8a84-4766e2520695",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCA760655D162EE134E34A316aE8AD9a54a69B60f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCA760655D162EE134E34A316aE8AD9a54a69B60f/logo.png"
+    }
+  },
+  "name": "OON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a9b5b28d-11d6-4528-a537-921f7efc0816",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79c71D3436F39Ce382D0f58F1B011D88100B9D91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79c71D3436F39Ce382D0f58F1B011D88100B9D91/logo.png"
+    }
+  },
+  "name": "Xeonbit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

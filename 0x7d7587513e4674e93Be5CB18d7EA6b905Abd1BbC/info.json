@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7d7587513e4674e93Be5CB18d7EA6b905Abd1BbC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9506d15f-b92e-40af-b3bf-ef0f0c11af38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d7587513e4674e93Be5CB18d7EA6b905Abd1BbC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d7587513e4674e93Be5CB18d7EA6b905Abd1BbC/logo.png"
+    }
+  },
+  "name": "DARK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DARK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

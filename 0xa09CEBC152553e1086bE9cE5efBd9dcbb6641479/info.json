@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa09CEBC152553e1086bE9cE5efBd9dcbb6641479",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37048161-ebc3-487e-abc1-3c5af4fe4ecd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa09CEBC152553e1086bE9cE5efBd9dcbb6641479/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa09CEBC152553e1086bE9cE5efBd9dcbb6641479/logo.png"
+    }
+  },
+  "name": "Swissy Stable Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

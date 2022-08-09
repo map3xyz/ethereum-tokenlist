@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x658D79c02A4829B5efA49254F627287e92458ECD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "104766c5-8063-4d29-b2c1-ceb0b03032c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x658D79c02A4829B5efA49254F627287e92458ECD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x658D79c02A4829B5efA49254F627287e92458ECD/logo.png"
+    }
+  },
+  "name": "M2O coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M2O",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

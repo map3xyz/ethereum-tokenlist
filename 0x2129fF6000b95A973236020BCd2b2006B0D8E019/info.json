@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2129fF6000b95A973236020BCd2b2006B0D8E019",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "313a9d1a-c598-453b-be4e-c1fe844b97c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2129fF6000b95A973236020BCd2b2006B0D8E019/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2129fF6000b95A973236020BCd2b2006B0D8E019/logo.png"
+    }
+  },
+  "name": "MYX Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

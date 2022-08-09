@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3bc1c70d-7985-4e97-a748-21d63e44163d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670/logo.png"
+    }
+  },
+  "name": "Denarii",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

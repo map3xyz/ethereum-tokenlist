@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "457adeaa-c00d-4012-8603-aef7c7fbaa05",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f/logo.png"
+    }
+  },
+  "name": "ITL (Italian Lira)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITL",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

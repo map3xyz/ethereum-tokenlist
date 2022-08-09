@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9bBC245ccd40E046ccCADA849891B88c06b1626e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "75251e91-b6cb-4a31-9bd6-7b07291e069e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9bBC245ccd40E046ccCADA849891B88c06b1626e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9bBC245ccd40E046ccCADA849891B88c06b1626e/logo.png"
+    }
+  },
+  "name": "STAKEBIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

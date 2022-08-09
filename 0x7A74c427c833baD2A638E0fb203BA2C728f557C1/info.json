@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A74c427c833baD2A638E0fb203BA2C728f557C1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ddc4b65c-c4a1-412b-a238-18584a4df3b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A74c427c833baD2A638E0fb203BA2C728f557C1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A74c427c833baD2A638E0fb203BA2C728f557C1/logo.png"
+    }
+  },
+  "name": "OrdoCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3b16fB80Ab6Ac8562203F3913f58ee0c4DFc08B8",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c1f45d92-8529-4291-9474-f07f78e2aaa1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b16fB80Ab6Ac8562203F3913f58ee0c4DFc08B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b16fB80Ab6Ac8562203F3913f58ee0c4DFc08B8/logo.png"
+    }
+  },
+  "name": "Advertising Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

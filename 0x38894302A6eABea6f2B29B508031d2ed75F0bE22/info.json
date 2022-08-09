@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59897faf-8d42-4cf1-8813-8011d71bf2cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x38894302A6eABea6f2B29B508031d2ed75F0bE22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38894302A6eABea6f2B29B508031d2ed75F0bE22/logo.png"
+    }
+  },
+  "name": "Fearless",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

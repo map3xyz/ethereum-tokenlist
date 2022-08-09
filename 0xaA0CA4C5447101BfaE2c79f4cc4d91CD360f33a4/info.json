@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5909953f-168a-48cf-9773-8b19dc35ee11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4/logo.png"
+    }
+  },
+  "name": "ZTAR COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZTAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEcE83617Db208Ad255Ad4f45Daf81E25137535bb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b5de5e78-525f-47c5-bc30-46d8c4d0d8f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEcE83617Db208Ad255Ad4f45Daf81E25137535bb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEcE83617Db208Ad255Ad4f45Daf81E25137535bb/logo.png"
+    }
+  },
+  "name": "Invacio Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

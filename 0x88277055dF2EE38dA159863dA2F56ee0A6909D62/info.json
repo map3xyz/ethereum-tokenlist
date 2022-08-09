@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88277055dF2EE38dA159863dA2F56ee0A6909D62",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "917c979c-4ade-4765-b67f-271554ce0e17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88277055dF2EE38dA159863dA2F56ee0A6909D62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88277055dF2EE38dA159863dA2F56ee0A6909D62/logo.png"
+    }
+  },
+  "name": "ANALYSX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

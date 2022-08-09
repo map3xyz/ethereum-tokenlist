@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Dd1989e4B0E82f154b729FF47F8c9a4f4b2cC1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61c84037-b605-4bb9-972a-4b3d5374f080",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Dd1989e4B0E82f154b729FF47F8c9a4f4b2cC1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Dd1989e4B0E82f154b729FF47F8c9a4f4b2cC1C/logo.png"
+    }
+  },
+  "name": "Milf Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MILF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

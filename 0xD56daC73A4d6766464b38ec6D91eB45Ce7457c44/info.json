@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6279bf4b-65b7-4aff-946e-adcec86a9579",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44/logo.png"
+    }
+  },
+  "name": "Panvala pan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

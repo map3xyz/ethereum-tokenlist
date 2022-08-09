@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xab95E915c123fdEd5BDfB6325e35ef5515F1EA69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02f0cb8c-e9b1-4aa7-b6f9-1316ee42b9cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xab95E915c123fdEd5BDfB6325e35ef5515F1EA69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab95E915c123fdEd5BDfB6325e35ef5515F1EA69/logo.png"
+    }
+  },
+  "name": "XENON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

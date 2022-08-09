@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c1efa74-bebb-414d-97c9-62d521dcc2e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3/logo.png"
+    }
+  },
+  "name": "CAT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

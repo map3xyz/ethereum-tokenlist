@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df4fbffa-f922-4f2f-8f55-5390f339dc3b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198/logo.png"
+    }
+  },
+  "name": "Joint Alliance Co.",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

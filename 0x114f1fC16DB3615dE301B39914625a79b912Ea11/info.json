@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x114f1fC16DB3615dE301B39914625a79b912Ea11",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "77cf7305-6279-4dc4-bc54-cd789f09c4f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x114f1fC16DB3615dE301B39914625a79b912Ea11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x114f1fC16DB3615dE301B39914625a79b912Ea11/logo.png"
+    }
+  },
+  "name": "UFOHotelCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

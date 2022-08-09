@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x058ed4EDFD0Ca7147e34a30fa4Dd9907B0c9C4ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6979c8e-a047-46d6-ba2a-4cb694a89267",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x058ed4EDFD0Ca7147e34a30fa4Dd9907B0c9C4ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x058ed4EDFD0Ca7147e34a30fa4Dd9907B0c9C4ba/logo.png"
+    }
+  },
+  "name": "VipGo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIPG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

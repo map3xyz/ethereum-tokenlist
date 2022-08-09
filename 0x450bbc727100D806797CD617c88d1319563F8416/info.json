@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x450bbc727100D806797CD617c88d1319563F8416",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ec2fb063-9e4c-4988-ae6d-888eaa0465eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x450bbc727100D806797CD617c88d1319563F8416/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x450bbc727100D806797CD617c88d1319563F8416/logo.png"
+    }
+  },
+  "name": "Dochain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

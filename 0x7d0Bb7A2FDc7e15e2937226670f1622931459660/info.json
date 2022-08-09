@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7d0Bb7A2FDc7e15e2937226670f1622931459660",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6d4e6dd4-b34e-499f-989e-ec93bb6f0d74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d0Bb7A2FDc7e15e2937226670f1622931459660/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d0Bb7A2FDc7e15e2937226670f1622931459660/logo.png"
+    }
+  },
+  "name": "CacheAvatarToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CACHEA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

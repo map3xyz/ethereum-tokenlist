@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3B05c42667DE42cA4a4eA1e9682eb590b6A65D1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e8bbad-7c78-4201-80c4-3cf2c23f5dc8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE3B05c42667DE42cA4a4eA1e9682eb590b6A65D1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3B05c42667DE42cA4a4eA1e9682eb590b6A65D1/logo.png"
+    }
+  },
+  "name": "Orom Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OROM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5dbe6f5b-3a01-49ba-8f88-870a9e125b4e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39eAE99E685906fF1C11A962a743440d0a1A6e09/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39eAE99E685906fF1C11A962a743440d0a1A6e09/logo.png"
+    }
+  },
+  "name": "Holyheld",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

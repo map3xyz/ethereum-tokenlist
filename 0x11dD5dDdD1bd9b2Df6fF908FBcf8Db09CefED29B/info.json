@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "073f2bb2-f9a0-4ffc-9287-de319d5c6bb4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B/logo.png"
+    }
+  },
+  "name": "TRUSTED PROPERTY PROTOCOL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

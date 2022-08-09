@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f88c8820-2b4b-4638-a834-7141942e5708",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae/logo.png"
+    }
+  },
+  "name": "Eviff",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

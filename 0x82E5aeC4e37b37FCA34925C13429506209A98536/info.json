@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x82E5aeC4e37b37FCA34925C13429506209A98536",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c52a2f6e-e4a1-4c59-8911-a81d0378a0b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82E5aeC4e37b37FCA34925C13429506209A98536/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Taconomics Liquidity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SALSA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

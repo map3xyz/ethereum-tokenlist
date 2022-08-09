@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1a7b00404b755FF80126f1D66a90f5aEDdEd25da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a232c285-4558-41ec-8d5f-e0745c0e20eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1a7b00404b755FF80126f1D66a90f5aEDdEd25da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a7b00404b755FF80126f1D66a90f5aEDdEd25da/logo.png"
+    }
+  },
+  "name": "MulTra Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

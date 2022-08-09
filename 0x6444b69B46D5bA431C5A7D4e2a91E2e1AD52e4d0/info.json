@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6444b69B46D5bA431C5A7D4e2a91E2e1AD52e4d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdef8f81-3181-4fdf-a62e-3f7a203e0439",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6444b69B46D5bA431C5A7D4e2a91E2e1AD52e4d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6444b69B46D5bA431C5A7D4e2a91E2e1AD52e4d0/logo.png"
+    }
+  },
+  "name": "Chain Key",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CKY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

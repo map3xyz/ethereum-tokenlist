@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x175D9Dfd6850AA96460E29bC0cEad05756965E91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a10394a-0fac-449a-8cca-f1fca8085527",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x175D9Dfd6850AA96460E29bC0cEad05756965E91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x175D9Dfd6850AA96460E29bC0cEad05756965E91/logo.png"
+    }
+  },
+  "name": "Starname (WIOV)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIOV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

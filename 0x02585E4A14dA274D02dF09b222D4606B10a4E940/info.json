@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02585E4A14dA274D02dF09b222D4606B10a4E940",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c31b2b0a-69de-4ddf-90c7-6bf84f397900",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02585E4A14dA274D02dF09b222D4606B10a4E940/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02585E4A14dA274D02dF09b222D4606B10a4E940/logo.png"
+    }
+  },
+  "name": "Hero Origen Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAA34bF1fD22a8537eCF3dec57C8a63B1E7385e82",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "28873649-76c2-4bec-a1b1-8734e03e40f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAA34bF1fD22a8537eCF3dec57C8a63B1E7385e82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAA34bF1fD22a8537eCF3dec57C8a63B1E7385e82/logo.png"
+    }
+  },
+  "name": "Roganzola",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROGUE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

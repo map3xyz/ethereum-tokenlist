@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4234f63B1D202F6c016Ca3b6a0d41d7d85f17716",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4828ed33-4c7f-41c0-baa8-72392cd2882d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4234f63B1D202F6c016Ca3b6a0d41d7d85f17716/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4234f63B1D202F6c016Ca3b6a0d41d7d85f17716/logo.png"
+    }
+  },
+  "name": "QNTU Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QNTU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

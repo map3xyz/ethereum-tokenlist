@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "04d82155-a0d4-4d4c-be08-169b1255a09a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x949bEd886c739f1A3273629b3320db0C5024c719/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x949bEd886c739f1A3273629b3320db0C5024c719/logo.png"
+    }
+  },
+  "name": "AMIS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcD2d415835D4746f5498950F3Fc48e01e64F89f9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92658fb9-7441-4379-a693-53acae077490",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD2d415835D4746f5498950F3Fc48e01e64F89f9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcD2d415835D4746f5498950F3Fc48e01e64F89f9/logo.png"
+    }
+  },
+  "name": "Niuupeak",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "nuu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

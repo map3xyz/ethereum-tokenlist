@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1351409-2581-4e2c-9e9e-679afa2f185c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7E7Ed710D7d04DB0d278A046683C71FE00fb96D6/logo.png"
+    }
+  },
+  "name": "LianPaiToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe541b34f73a4789a033A962ad43655221B4E516e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "70b4f8ef-9582-42a8-83d7-9cad08fa8ca1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe541b34f73a4789a033A962ad43655221B4E516e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe541b34f73a4789a033A962ad43655221B4E516e/logo.png"
+    }
+  },
+  "name": "Creatanium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

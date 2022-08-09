@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0BE5E8f107279cC2D9c3A537eD4eA669b45E443D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5f2e793-1fe2-43ed-9b6a-b21d810e7775",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0BE5E8f107279cC2D9c3A537eD4eA669b45E443D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0BE5E8f107279cC2D9c3A537eD4eA669b45E443D/logo.png"
+    }
+  },
+  "name": "POMDA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POMDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6322f1d2-14d3-4434-8688-addb540262a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265/logo.png"
+    }
+  },
+  "name": "OnlyLoveChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

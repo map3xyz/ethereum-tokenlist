@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4589e5d-e210-494a-b9f8-5436aafaa6cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097/logo.png"
+    }
+  },
+  "name": "Realio Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

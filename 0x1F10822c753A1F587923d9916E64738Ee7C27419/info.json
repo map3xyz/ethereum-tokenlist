@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F10822c753A1F587923d9916E64738Ee7C27419",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37a5c656-8e9d-4756-bdb4-4d006cb6fc59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F10822c753A1F587923d9916E64738Ee7C27419/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F10822c753A1F587923d9916E64738Ee7C27419/logo.png"
+    }
+  },
+  "name": "Grapheneum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

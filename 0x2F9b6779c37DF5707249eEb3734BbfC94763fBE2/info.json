@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee9bd395-cdaf-49bb-835b-19ae938e9697",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2/logo.png"
+    }
+  },
+  "name": "CrowdWizToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9FbA684D77D2d6A1408C24b60A1f5534e71f5b75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60ed8aa0-46c6-4e48-b0e9-00be3cb5eeef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9FbA684D77D2d6A1408C24b60A1f5534e71f5b75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9FbA684D77D2d6A1408C24b60A1f5534e71f5b75/logo.png"
+    }
+  },
+  "name": "PATRIOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PATR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

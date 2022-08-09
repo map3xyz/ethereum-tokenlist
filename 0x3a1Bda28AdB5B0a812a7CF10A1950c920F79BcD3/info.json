@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43210c16-7965-40ef-baa0-a03080325fc8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3/logo.png"
+    }
+  },
+  "name": "FLIP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

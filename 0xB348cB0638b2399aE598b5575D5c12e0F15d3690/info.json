@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB348cB0638b2399aE598b5575D5c12e0F15d3690",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3009fb8-2174-42c5-9ed8-90ecb8fea8d5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB348cB0638b2399aE598b5575D5c12e0F15d3690/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB348cB0638b2399aE598b5575D5c12e0F15d3690/logo.png"
+    }
+  },
+  "name": "allbandex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

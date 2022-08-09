@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce7bfd25-9590-46fd-90ff-74ded7e6ca08",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d/logo.png"
+    }
+  },
+  "name": "Onyx S&P 500 Short",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OSPVS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

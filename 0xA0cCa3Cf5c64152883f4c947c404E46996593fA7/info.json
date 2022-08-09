@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0cCa3Cf5c64152883f4c947c404E46996593fA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7747fcc4-c44e-453a-b9e5-1bb43e406d90",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0cCa3Cf5c64152883f4c947c404E46996593fA7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0cCa3Cf5c64152883f4c947c404E46996593fA7/logo.png"
+    }
+  },
+  "name": "BRAPPER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

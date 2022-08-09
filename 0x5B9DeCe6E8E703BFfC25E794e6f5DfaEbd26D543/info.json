@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8ff47295-0c6c-4da1-ac4f-12ef3f660bc0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543/logo.png"
+    }
+  },
+  "name": "Gorn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

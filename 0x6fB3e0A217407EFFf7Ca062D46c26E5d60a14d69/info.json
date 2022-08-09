@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b47a27c0-a68c-4ae6-8776-dedcc6de8c5b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png"
+    }
+  },
+  "name": "IoTeX ERC20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IoTeX ERC20",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

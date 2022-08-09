@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC91b81df82534eA95C547abE86db455976ce70F8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e33e6b4d-01fa-412b-ac6e-2198dad6249b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC91b81df82534eA95C547abE86db455976ce70F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC91b81df82534eA95C547abE86db455976ce70F8/logo.png"
+    }
+  },
+  "name": "HDRR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDRR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

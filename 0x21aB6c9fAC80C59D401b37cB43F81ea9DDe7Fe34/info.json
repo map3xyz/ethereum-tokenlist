@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "74d90b4e-5a62-47c8-b195-eceeb1489f8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34/logo.png"
+    }
+  },
+  "name": "Baer Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

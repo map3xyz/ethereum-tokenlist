@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d6445f7-2310-4ff1-800f-a2f2236a0f44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x549020a9Cb845220D66d3E9c6D9F9eF61C981102/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x549020a9Cb845220D66d3E9c6D9F9eF61C981102/logo.png"
+    }
+  },
+  "name": "SIDUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIDUS",
+  "tags": [
+    "gamefi",
+    "nft",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF02DAB52205aFf6Bb3d47Cc7B21624a5064F9FBA",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "792a2974-4e71-40ef-a238-18deeae35dc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF02DAB52205aFf6Bb3d47Cc7B21624a5064F9FBA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF02DAB52205aFf6Bb3d47Cc7B21624a5064F9FBA/logo.png"
+    }
+  },
+  "name": "Pyrrhos Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PGOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

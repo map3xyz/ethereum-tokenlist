@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd83C569268930fadAd4cdE6D0cB64450fef32b65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a09b100-c41d-468e-968d-a547a001a00d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd83C569268930fadAd4cdE6D0cB64450fef32b65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd83C569268930fadAd4cdE6D0cB64450fef32b65/logo.png"
+    }
+  },
+  "name": "InvictusCapital.com Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

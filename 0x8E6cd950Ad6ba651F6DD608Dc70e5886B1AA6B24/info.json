@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7b738ab-fb41-4e96-a810-ab893ea1ef1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24/logo.png"
+    }
+  },
+  "name": "StarLink $STARL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STARL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

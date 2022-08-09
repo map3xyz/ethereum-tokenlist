@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "951f845a-87c4-4dd2-9c7d-ab37c16fc89c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6/logo.png"
+    }
+  },
+  "name": "QASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

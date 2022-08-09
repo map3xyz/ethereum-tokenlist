@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x382f0160c24f5c515A19f155BAc14d479433A407",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f2620e48-f595-488f-890b-6c33e0f18abb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x382f0160c24f5c515A19f155BAc14d479433A407/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Klee Kai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLEE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

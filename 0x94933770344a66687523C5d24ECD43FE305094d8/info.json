@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94933770344a66687523C5d24ECD43FE305094d8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9797bd47-45f7-439b-b51b-36277432cf98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94933770344a66687523C5d24ECD43FE305094d8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94933770344a66687523C5d24ECD43FE305094d8/logo.png"
+    }
+  },
+  "name": "Hydrogen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

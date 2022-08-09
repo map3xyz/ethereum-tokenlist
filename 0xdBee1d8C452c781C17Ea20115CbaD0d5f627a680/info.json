@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a1c342b-869e-495e-81d8-da0800036f2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680/logo.png"
+    }
+  },
+  "name": "Strike SXP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sSXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

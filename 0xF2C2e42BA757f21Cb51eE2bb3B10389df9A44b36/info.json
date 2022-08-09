@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF2C2e42BA757f21Cb51eE2bb3B10389df9A44b36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f8373d7-a1b7-4082-9926-e1668e2f4d0b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF2C2e42BA757f21Cb51eE2bb3B10389df9A44b36/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF2C2e42BA757f21Cb51eE2bb3B10389df9A44b36/logo.png"
+    }
+  },
+  "name": "SafT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

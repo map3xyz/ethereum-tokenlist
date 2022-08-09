@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb628919a5456fd746A6b7a9f1003040Ca63e6d45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2be04e5-1f44-472a-8fae-8639f45643a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb628919a5456fd746A6b7a9f1003040Ca63e6d45/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb628919a5456fd746A6b7a9f1003040Ca63e6d45/logo.png"
+    }
+  },
+  "name": "Produce Pay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

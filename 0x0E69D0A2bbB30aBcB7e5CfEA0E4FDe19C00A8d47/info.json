@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fe75c350-d4a4-4f8c-8cf4-63b9c704f5e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47/logo.png"
+    }
+  },
+  "name": "CarLive Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

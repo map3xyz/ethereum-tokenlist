@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ae509a7f-0188-47a2-954b-53eb65441341",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1/logo.png"
+    }
+  },
+  "name": "Thingschain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

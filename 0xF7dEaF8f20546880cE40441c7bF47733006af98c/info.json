@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF7dEaF8f20546880cE40441c7bF47733006af98c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2d8a3a8b-fa24-4063-ab30-030c89da90ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF7dEaF8f20546880cE40441c7bF47733006af98c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF7dEaF8f20546880cE40441c7bF47733006af98c/logo.png"
+    }
+  },
+  "name": "SWAG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

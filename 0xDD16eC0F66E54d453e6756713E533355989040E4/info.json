@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae7e3085-e517-4d86-8a7d-f92a7fc7845f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDD16eC0F66E54d453e6756713E533355989040E4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDD16eC0F66E54d453e6756713E533355989040E4/logo.png"
+    }
+  },
+  "name": "Tokenomy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

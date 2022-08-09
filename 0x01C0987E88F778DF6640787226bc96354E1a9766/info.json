@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01C0987E88F778DF6640787226bc96354E1a9766",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01162629-de53-4f56-b126-468b0a74f0d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01C0987E88F778DF6640787226bc96354E1a9766/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01C0987E88F778DF6640787226bc96354E1a9766/logo.png"
+    }
+  },
+  "name": "UltrAlpha token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

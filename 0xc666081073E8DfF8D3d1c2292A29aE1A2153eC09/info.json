@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6252f3b-9a31-4460-bf0e-5864b2a0b762",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09/logo.png"
+    }
+  },
+  "name": "DigitexFutures",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

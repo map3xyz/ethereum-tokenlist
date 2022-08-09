@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3BB72e05402C45198C0CeB76354205DeAA65542c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb0ee9a4-1795-4f31-8b2d-c5645f7889c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3BB72e05402C45198C0CeB76354205DeAA65542c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3BB72e05402C45198C0CeB76354205DeAA65542c/logo.png"
+    }
+  },
+  "name": "Kyber",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

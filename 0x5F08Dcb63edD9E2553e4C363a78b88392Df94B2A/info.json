@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F08Dcb63edD9E2553e4C363a78b88392Df94B2A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d64d8763-cc04-4e90-9712-10b9e2716881",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F08Dcb63edD9E2553e4C363a78b88392Df94B2A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F08Dcb63edD9E2553e4C363a78b88392Df94B2A/logo.png"
+    }
+  },
+  "name": "RPS Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

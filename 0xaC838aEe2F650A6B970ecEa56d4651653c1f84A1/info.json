@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaC838aEe2F650A6B970ecEa56d4651653c1f84A1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "49f0e48e-19d0-402d-ad41-2fafa9d99719",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaC838aEe2F650A6B970ecEa56d4651653c1f84A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaC838aEe2F650A6B970ecEa56d4651653c1f84A1/logo.png"
+    }
+  },
+  "name": "ClearCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

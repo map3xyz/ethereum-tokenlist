@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da683a3c-b53b-4331-8fd5-0ddaf66f6cad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png"
+    }
+  },
+  "name": "NKN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

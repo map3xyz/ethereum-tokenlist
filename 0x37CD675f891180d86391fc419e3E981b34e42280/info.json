@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37CD675f891180d86391fc419e3E981b34e42280",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2a289140-ccc2-4afb-b1d7-3fe8f54ae741",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37CD675f891180d86391fc419e3E981b34e42280/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37CD675f891180d86391fc419e3E981b34e42280/logo.png"
+    }
+  },
+  "name": "Extended STO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

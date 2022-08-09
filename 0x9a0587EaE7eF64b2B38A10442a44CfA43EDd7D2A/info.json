@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a0587EaE7eF64b2B38A10442a44CfA43EDd7D2A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6df79f1-43f6-4722-8c64-2ea873adcd88",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a0587EaE7eF64b2B38A10442a44CfA43EDd7D2A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a0587EaE7eF64b2B38A10442a44CfA43EDd7D2A/logo.png"
+    }
+  },
+  "name": "Welltrado token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

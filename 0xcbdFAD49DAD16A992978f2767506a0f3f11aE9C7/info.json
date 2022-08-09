@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d0d19c54-d4e0-4e95-beb2-00fb4e3e7e50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7/logo.png"
+    }
+  },
+  "name": "Game Magic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

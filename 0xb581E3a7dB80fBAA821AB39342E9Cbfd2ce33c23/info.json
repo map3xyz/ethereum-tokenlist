@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3777e91f-2c3e-45fc-a2d1-e5b1b9d04678",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23/logo.png"
+    }
+  },
+  "name": "Arcade Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

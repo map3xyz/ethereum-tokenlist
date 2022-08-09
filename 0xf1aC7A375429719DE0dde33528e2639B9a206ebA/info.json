@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf1aC7A375429719DE0dde33528e2639B9a206ebA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43de0100-0701-4bfe-bcb8-d1672ead1a6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf1aC7A375429719DE0dde33528e2639B9a206ebA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1aC7A375429719DE0dde33528e2639B9a206ebA/logo.png"
+    }
+  },
+  "name": "AMGO - Arena Match Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

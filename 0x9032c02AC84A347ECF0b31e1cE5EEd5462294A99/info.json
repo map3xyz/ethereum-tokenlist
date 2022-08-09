@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9032c02AC84A347ECF0b31e1cE5EEd5462294A99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb715cab-5b9d-4f8c-a26c-ffd21e9c5ebd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9032c02AC84A347ECF0b31e1cE5EEd5462294A99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9032c02AC84A347ECF0b31e1cE5EEd5462294A99/logo.png"
+    }
+  },
+  "name": "FMP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef832e76-0fae-46fe-a27d-b8b634d9eec4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45/logo.png"
+    }
+  },
+  "name": "DiFy.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIII",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

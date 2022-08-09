@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5EdC1a266E8b2c5E8086d373725dF0690af7e3Ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aac5943c-d520-4835-93c6-9dd38558d206",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5EdC1a266E8b2c5E8086d373725dF0690af7e3Ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5EdC1a266E8b2c5E8086d373725dF0690af7e3Ea/logo.png"
+    }
+  },
+  "name": "YottaCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

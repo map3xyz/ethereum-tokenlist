@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3CD7047117dbfD0DCB470514172aCe9f394c31e8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1952ea55-6d80-43d5-be93-314e4d91138c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3CD7047117dbfD0DCB470514172aCe9f394c31e8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3CD7047117dbfD0DCB470514172aCe9f394c31e8/logo.png"
+    }
+  },
+  "name": "DEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

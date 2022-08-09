@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "341d9d12-1c1b-49a6-aab3-d14c22da492f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45080a6531d671DDFf20DB42f93792a489685e32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45080a6531d671DDFf20DB42f93792a489685e32/logo.png"
+    }
+  },
+  "name": "finance.vote",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

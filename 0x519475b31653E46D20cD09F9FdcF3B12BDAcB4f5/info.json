@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6684bdb8-52f5-4c6f-a1d1-c643dea29c9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5/logo.png"
+    }
+  },
+  "name": "VIU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

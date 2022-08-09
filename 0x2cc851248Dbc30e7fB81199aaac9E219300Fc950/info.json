@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2cc851248Dbc30e7fB81199aaac9E219300Fc950",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9e8ccb7c-8f3e-477a-971e-196ec207b7cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2cc851248Dbc30e7fB81199aaac9E219300Fc950/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2cc851248Dbc30e7fB81199aaac9E219300Fc950/logo.png"
+    }
+  },
+  "name": "Mastermind",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

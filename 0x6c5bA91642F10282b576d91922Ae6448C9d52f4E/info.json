@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9711afa8-fde5-453a-b2ac-19df2615d777",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E/logo.png"
+    }
+  },
+  "name": "Phala",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

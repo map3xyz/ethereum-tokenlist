@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b969dacd-86db-42f7-a950-6a028a167295",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB/logo.png"
+    }
+  },
+  "name": "InvestDigital Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

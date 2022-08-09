@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF85AC1FDaBF3E8aFeFD1500120243a0B30F16a54",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1202df76-128c-4829-a329-0f3a7f6ff9e5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF85AC1FDaBF3E8aFeFD1500120243a0B30F16a54/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF85AC1FDaBF3E8aFeFD1500120243a0B30F16a54/logo.png"
+    }
+  },
+  "name": "AIPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

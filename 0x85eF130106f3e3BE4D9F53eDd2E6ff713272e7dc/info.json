@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85eF130106f3e3BE4D9F53eDd2E6ff713272e7dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a060bbd-bea4-47f2-9a3a-8c446aefb1d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85eF130106f3e3BE4D9F53eDd2E6ff713272e7dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85eF130106f3e3BE4D9F53eDd2E6ff713272e7dc/logo.png"
+    }
+  },
+  "name": "Coin: by Insomnia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

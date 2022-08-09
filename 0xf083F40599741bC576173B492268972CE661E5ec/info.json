@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf083F40599741bC576173B492268972CE661E5ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22805b93-b8ed-4ff8-a42d-af43d5390d6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf083F40599741bC576173B492268972CE661E5ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf083F40599741bC576173B492268972CE661E5ec/logo.png"
+    }
+  },
+  "name": "Bit Value Art Bank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BVB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

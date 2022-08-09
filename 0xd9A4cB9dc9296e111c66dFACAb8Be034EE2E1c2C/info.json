@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "805a2408-097a-4d72-95a2-5e6b7a6f0621",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C/logo.png"
+    }
+  },
+  "name": "AdEx Loyalty",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADX-LOYALTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

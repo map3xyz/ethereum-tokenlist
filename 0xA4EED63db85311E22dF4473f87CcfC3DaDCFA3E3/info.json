@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ded8fb1-90c8-4e55-a40f-7086a85da11d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3/logo.png"
+    }
+  },
+  "name": "Rubic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

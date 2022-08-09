@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91a7231b-a6ec-4dad-b1e3-f6a9a1aacfbd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215/logo.png"
+    }
+  },
+  "name": "Foresight",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FORS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

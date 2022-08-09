@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC650f5514AE1A3a27930922145ce49E8A91b91AB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de598b65-20e7-460c-8420-a219d71bf2a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC650f5514AE1A3a27930922145ce49E8A91b91AB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC650f5514AE1A3a27930922145ce49E8A91b91AB/logo.png"
+    }
+  },
+  "name": "VENOTY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VNTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

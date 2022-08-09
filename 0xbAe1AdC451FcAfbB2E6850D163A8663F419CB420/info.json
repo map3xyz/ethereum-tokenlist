@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbAe1AdC451FcAfbB2E6850D163A8663F419CB420",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac971cb2-24ab-4b30-bdb0-aa739d005c84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbAe1AdC451FcAfbB2E6850D163A8663F419CB420/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbAe1AdC451FcAfbB2E6850D163A8663F419CB420/logo.png"
+    }
+  },
+  "name": "PNGold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

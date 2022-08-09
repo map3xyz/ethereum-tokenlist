@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5e83C9A22FA75BA20aeBa4a4E734C91E8f1D356",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88d70439-d3bf-4cee-bbfb-a8029cc52ae8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5e83C9A22FA75BA20aeBa4a4E734C91E8f1D356/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5e83C9A22FA75BA20aeBa4a4E734C91E8f1D356/logo.png"
+    }
+  },
+  "name": "VisualFodderCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

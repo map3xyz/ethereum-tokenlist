@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6400B5522f8D448C0803e6245436DD1c81dF09ce",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e1cd4b63-8ae4-42f3-98cf-1e21d1284b89",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6400B5522f8D448C0803e6245436DD1c81dF09ce/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6400B5522f8D448C0803e6245436DD1c81dF09ce/logo.png"
+    }
+  },
+  "name": "CVNToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

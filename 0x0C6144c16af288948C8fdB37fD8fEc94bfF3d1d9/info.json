@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3fd2c14c-1949-417f-95a9-59c0f0faa937",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9/logo.png"
+    }
+  },
+  "name": "Neutral",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

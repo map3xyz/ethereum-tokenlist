@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F401A460FC931a7E6D4141188501F3B91ed1A95",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "0d0128c0-b831-4f43-aa41-e6ff6ced09e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F401A460FC931a7E6D4141188501F3B91ed1A95/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F401A460FC931a7E6D4141188501F3B91ed1A95/logo.png"
+    }
+  },
+  "name": "GRAND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "G",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

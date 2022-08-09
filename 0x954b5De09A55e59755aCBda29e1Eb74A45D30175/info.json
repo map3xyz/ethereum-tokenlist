@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x954b5De09A55e59755aCBda29e1Eb74A45D30175",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4160de2d-70dd-4d76-87d1-9578c5f0e4af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x954b5De09A55e59755aCBda29e1Eb74A45D30175/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x954b5De09A55e59755aCBda29e1Eb74A45D30175/logo.png"
+    }
+  },
+  "name": "FluzFluz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLUZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

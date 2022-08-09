@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x141044ccC363d6E8D92dD8983422775913e304eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07747192-4c84-4796-bf7e-f3dd37ab91ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x141044ccC363d6E8D92dD8983422775913e304eC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x141044ccC363d6E8D92dD8983422775913e304eC/logo.png"
+    }
+  },
+  "name": "MinerOne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

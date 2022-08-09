@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5403d3AC289322C482cD558014ea3888EF1B1d44",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "554bb75f-3c64-4187-9df9-312ec2fb9a1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5403d3AC289322C482cD558014ea3888EF1B1d44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5403d3AC289322C482cD558014ea3888EF1B1d44/logo.png"
+    }
+  },
+  "name": "Super Trip Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

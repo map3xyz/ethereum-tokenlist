@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "702ab00f-c1f0-4751-94f6-6e42b7a4752f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16/logo.png"
+    }
+  },
+  "name": "Zilla Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdfB410994b66778Bd6cC2C82E8ffe4f7B2870006",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2216076e-86ad-4d5f-854a-ce2f77519739",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdfB410994b66778Bd6cC2C82E8ffe4f7B2870006/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdfB410994b66778Bd6cC2C82E8ffe4f7B2870006/logo.png"
+    }
+  },
+  "name": "Kinguin Krowns",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

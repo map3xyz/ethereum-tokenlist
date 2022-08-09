@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "edfa3efd-68d5-4664-a9d1-e75dd5b691ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8B1F49491477e0fB46a29fef53F1EA320D13c349/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8B1F49491477e0fB46a29fef53F1EA320D13c349/logo.png"
+    }
+  },
+  "name": "MicroMoney",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

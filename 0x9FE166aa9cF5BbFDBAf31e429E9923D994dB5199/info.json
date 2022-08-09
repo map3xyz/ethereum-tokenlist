@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9FE166aa9cF5BbFDBAf31e429E9923D994dB5199",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "801e6b5c-c2b2-4278-9252-eb866a2fe5e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9FE166aa9cF5BbFDBAf31e429E9923D994dB5199/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9FE166aa9cF5BbFDBAf31e429E9923D994dB5199/logo.png"
+    }
+  },
+  "name": "BITARK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BARK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

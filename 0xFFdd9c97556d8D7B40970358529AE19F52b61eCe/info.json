@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFFdd9c97556d8D7B40970358529AE19F52b61eCe",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9d69527f-cfbd-402e-bbc0-ae74d03a20a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFFdd9c97556d8D7B40970358529AE19F52b61eCe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFFdd9c97556d8D7B40970358529AE19F52b61eCe/logo.png"
+    }
+  },
+  "name": "Trilite",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-TR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

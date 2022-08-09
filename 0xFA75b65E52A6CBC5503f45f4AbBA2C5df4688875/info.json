@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA75b65E52A6CBC5503f45f4AbBA2C5df4688875",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7312ec7d-8f1d-4c2e-b5f2-7c514fd211c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA75b65E52A6CBC5503f45f4AbBA2C5df4688875/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA75b65E52A6CBC5503f45f4AbBA2C5df4688875/logo.png"
+    }
+  },
+  "name": "Swytch Energy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "393a5aa0-81bc-4d0b-8d3e-e5b74d8f48ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCF67CEd76E8356366291246A9222169F4dBdBe64/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCF67CEd76E8356366291246A9222169F4dBdBe64/logo.png"
+    }
+  },
+  "name": "DICE.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

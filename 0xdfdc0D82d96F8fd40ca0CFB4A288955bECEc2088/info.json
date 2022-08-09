@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0bcec88-93c0-4205-adab-d1457a3760bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088/logo.png"
+    }
+  },
+  "name": "MTC Mesh Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

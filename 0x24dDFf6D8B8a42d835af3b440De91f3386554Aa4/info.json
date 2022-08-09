@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2299127a-715f-4ed0-875e-7f427d1b3d32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4/logo.png"
+    }
+  },
+  "name": "IUNGO token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

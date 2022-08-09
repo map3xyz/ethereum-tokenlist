@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe4f1bCaE296FF9385842Fc24cc7D18ab94121223",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "4c5a5adf-fb73-4802-b5ea-98c581f21938",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe4f1bCaE296FF9385842Fc24cc7D18ab94121223/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe4f1bCaE296FF9385842Fc24cc7D18ab94121223/logo.png"
+    }
+  },
+  "name": "BiTing",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

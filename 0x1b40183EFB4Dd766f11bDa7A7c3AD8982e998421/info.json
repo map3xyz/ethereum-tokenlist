@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a147cf6-b0ca-4f4a-9f4e-954502d8ac59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421/logo.png"
+    }
+  },
+  "name": "Vesper",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

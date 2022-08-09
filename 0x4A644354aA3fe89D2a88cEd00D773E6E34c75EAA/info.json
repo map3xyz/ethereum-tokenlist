@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4A644354aA3fe89D2a88cEd00D773E6E34c75EAA",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "bbdac0ca-a719-47f2-bb2c-e609a07002bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4A644354aA3fe89D2a88cEd00D773E6E34c75EAA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4A644354aA3fe89D2a88cEd00D773E6E34c75EAA/logo.png"
+    }
+  },
+  "name": "FrasierCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

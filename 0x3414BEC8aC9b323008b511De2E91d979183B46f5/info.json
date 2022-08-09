@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3414BEC8aC9b323008b511De2E91d979183B46f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7ee2dd0-8f55-4982-944d-fa8ef75402de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3414BEC8aC9b323008b511De2E91d979183B46f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3414BEC8aC9b323008b511De2E91d979183B46f5/logo.png"
+    }
+  },
+  "name": "AfroTeq Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AfT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

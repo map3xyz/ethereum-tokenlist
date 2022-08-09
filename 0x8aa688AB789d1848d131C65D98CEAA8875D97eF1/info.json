@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "297fd509-3a50-42d5-9830-bf83d0bc0bbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8aa688AB789d1848d131C65D98CEAA8875D97eF1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aa688AB789d1848d131C65D98CEAA8875D97eF1/logo.png"
+    }
+  },
+  "name": "MultiVAC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

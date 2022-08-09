@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05b8cb3F1f1F46cEAE3187c56AF5B223CF2D831A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8b84d018-1719-4a42-84d9-12e058a32834",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05b8cb3F1f1F46cEAE3187c56AF5B223CF2D831A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05b8cb3F1f1F46cEAE3187c56AF5B223CF2D831A/logo.png"
+    }
+  },
+  "name": "Bitcoin ATM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BATM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

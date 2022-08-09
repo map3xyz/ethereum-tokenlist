@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "93a55d6a-80d9-4e8f-a89c-71e39511768a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xb9EF770B6A5e12E45983C5D80545258aA38F3B78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9EF770B6A5e12E45983C5D80545258aA38F3B78/logo.png"
+    }
+  },
+  "name": "0chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

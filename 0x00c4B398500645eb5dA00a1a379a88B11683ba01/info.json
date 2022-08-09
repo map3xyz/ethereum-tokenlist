@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00c4B398500645eb5dA00a1a379a88B11683ba01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00285891-360a-478a-9059-e2b7c96e54f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c4B398500645eb5dA00a1a379a88B11683ba01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00c4B398500645eb5dA00a1a379a88B11683ba01/logo.png"
+    }
+  },
+  "name": "Eximchain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

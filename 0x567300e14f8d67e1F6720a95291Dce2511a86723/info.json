@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x567300e14f8d67e1F6720a95291Dce2511a86723",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a42ada4-95f1-497d-9281-ae84bd007541",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x567300e14f8d67e1F6720a95291Dce2511a86723/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x567300e14f8d67e1F6720a95291Dce2511a86723/logo.png"
+    }
+  },
+  "name": "Helper Search Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

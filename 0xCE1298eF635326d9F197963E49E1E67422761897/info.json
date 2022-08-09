@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCE1298eF635326d9F197963E49E1E67422761897",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f6a9288d-1252-449a-9787-500a98b9b6b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCE1298eF635326d9F197963E49E1E67422761897/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCE1298eF635326d9F197963E49E1E67422761897/logo.png"
+    }
+  },
+  "name": "PiSwap Token (PIS)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b77f166a-4ae3-421f-bfba-cd559d8fcdff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Short ETH-DAI 4x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsETH4x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

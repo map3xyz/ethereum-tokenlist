@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x39A26fd8f19244377ab6e1C6FcDC5F3e75df4bDa",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "03fb7fd5-7009-47ee-a41f-793729c8b960",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39A26fd8f19244377ab6e1C6FcDC5F3e75df4bDa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39A26fd8f19244377ab6e1C6FcDC5F3e75df4bDa/logo.png"
+    }
+  },
+  "name": "MKIMG1-25/30M55",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

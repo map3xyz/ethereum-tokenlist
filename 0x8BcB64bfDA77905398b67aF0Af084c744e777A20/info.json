@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8BcB64bfDA77905398b67aF0Af084c744e777A20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2050f96-aca5-47a8-8441-04ca33205899",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8BcB64bfDA77905398b67aF0Af084c744e777A20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8BcB64bfDA77905398b67aF0Af084c744e777A20/logo.png"
+    }
+  },
+  "name": "GameCell",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

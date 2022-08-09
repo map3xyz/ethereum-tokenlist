@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c25820cc-b20a-473b-af6d-1ba88a4b28be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9/logo.png"
+    }
+  },
+  "name": "FightBackCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

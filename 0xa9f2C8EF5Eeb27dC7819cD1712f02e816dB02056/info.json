@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9f2C8EF5Eeb27dC7819cD1712f02e816dB02056",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "19dbd374-ddf5-4393-a6b1-134408516afe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9f2C8EF5Eeb27dC7819cD1712f02e816dB02056/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9f2C8EF5Eeb27dC7819cD1712f02e816dB02056/logo.png"
+    }
+  },
+  "name": "Futbol Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

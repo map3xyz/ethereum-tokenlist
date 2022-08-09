@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1351c3431d32dB76543D245672A5BAA8143cF993",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb54dc6f-ccf8-4a42-80fb-c0a535b796ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1351c3431d32dB76543D245672A5BAA8143cF993/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1351c3431d32dB76543D245672A5BAA8143cF993/logo.png"
+    }
+  },
+  "name": "LMT COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

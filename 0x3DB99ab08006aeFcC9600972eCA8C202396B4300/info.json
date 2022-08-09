@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3DB99ab08006aeFcC9600972eCA8C202396B4300",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b23c27d-33ba-479a-a53c-7ea430b4d846",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3DB99ab08006aeFcC9600972eCA8C202396B4300/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3DB99ab08006aeFcC9600972eCA8C202396B4300/logo.png"
+    }
+  },
+  "name": "Vinci",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VINCI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

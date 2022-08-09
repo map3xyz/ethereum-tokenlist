@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "5a7fe0fb-54fc-45c1-881d-eea88ebcdf72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA3118B34522580c35Ae27F6cf52da1dBb756288/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA3118B34522580c35Ae27F6cf52da1dBb756288/logo.png"
+    }
+  },
+  "name": "LinkEye Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x033e223870f766644f7f7a4B7dc2E91573707d06",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5590472-5f3b-4f6e-95c3-b4248f9f6742",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x033e223870f766644f7f7a4B7dc2E91573707d06/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x033e223870f766644f7f7a4B7dc2E91573707d06/logo.png"
+    }
+  },
+  "name": "ZinFinance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Zin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

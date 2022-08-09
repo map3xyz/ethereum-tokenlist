@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6eC8C3a347f66a3d7C4F39D6DD68A422E69E81d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "771d7017-bdbc-4805-aa5a-8508d4eda40f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eC8C3a347f66a3d7C4F39D6DD68A422E69E81d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6eC8C3a347f66a3d7C4F39D6DD68A422E69E81d/logo.png"
+    }
+  },
+  "name": "Catholic Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

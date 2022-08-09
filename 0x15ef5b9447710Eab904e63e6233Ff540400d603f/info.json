@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "de6a4f20-661d-40bc-ab5a-58f373f8ce1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x15ef5b9447710Eab904e63e6233Ff540400d603f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15ef5b9447710Eab904e63e6233Ff540400d603f/logo.png"
+    }
+  },
+  "name": "Bitcoin2X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTC2X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd408Df4116248a737cEF94917Ab6C609B37280BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65d0a78e-172a-4a0a-afe3-3d3d2175404d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd408Df4116248a737cEF94917Ab6C609B37280BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd408Df4116248a737cEF94917Ab6C609B37280BC/logo.png"
+    }
+  },
+  "name": "CXMF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXMF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "aad371d9-f59c-4403-87da-68fd41477c35",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf/logo.png"
+    }
+  },
+  "name": "Sense",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SENSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

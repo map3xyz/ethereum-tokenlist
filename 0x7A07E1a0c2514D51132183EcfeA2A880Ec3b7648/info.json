@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A07E1a0c2514D51132183EcfeA2A880Ec3b7648",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53256307-7a9e-4cd3-b174-9bac1055e38c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A07E1a0c2514D51132183EcfeA2A880Ec3b7648/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A07E1a0c2514D51132183EcfeA2A880Ec3b7648/logo.png"
+    }
+  },
+  "name": "IXE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

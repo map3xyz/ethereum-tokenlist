@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD635903C1B9A3202027d4cC78EfBB6FA964a987A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5e19730f-18d4-46c9-9a55-3d52b32fab5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD635903C1B9A3202027d4cC78EfBB6FA964a987A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD635903C1B9A3202027d4cC78EfBB6FA964a987A/logo.png"
+    }
+  },
+  "name": "Bitsave",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

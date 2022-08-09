@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2130d031-5b23-49a8-815c-784e501ea54c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355/logo.png"
+    }
+  },
+  "name": "bXIOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "bXIOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

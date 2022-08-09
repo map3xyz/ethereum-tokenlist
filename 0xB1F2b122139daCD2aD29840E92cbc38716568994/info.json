@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB1F2b122139daCD2aD29840E92cbc38716568994",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99506629-b762-48a9-9333-70b5d5c5e75a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1F2b122139daCD2aD29840E92cbc38716568994/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1F2b122139daCD2aD29840E92cbc38716568994/logo.png"
+    }
+  },
+  "name": "LIBERTY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBRTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

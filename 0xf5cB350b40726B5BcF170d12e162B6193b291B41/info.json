@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf5cB350b40726B5BcF170d12e162B6193b291B41",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c26b8bb7-af00-4e4c-a33e-74aa27e91bf9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5cB350b40726B5BcF170d12e162B6193b291B41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5cB350b40726B5BcF170d12e162B6193b291B41/logo.png"
+    }
+  },
+  "name": "Wrapped BIS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wBIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

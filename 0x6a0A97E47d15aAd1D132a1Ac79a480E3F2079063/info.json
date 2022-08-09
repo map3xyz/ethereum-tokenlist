@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2649ebe-4bfc-4214-80b7-bb5ef46a09b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063/logo.png"
+    }
+  },
+  "name": "WePower Contribution Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

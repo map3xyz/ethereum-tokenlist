@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed49bf75-8e96-477a-a3b2-80910342f1a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308/logo.png"
+    }
+  },
+  "name": "MikeTangoBravo21",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTB21",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

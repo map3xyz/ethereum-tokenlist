@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x727443713e3fF01411Feaae52dae5d142A3c7b29",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "336e0229-f467-40e7-92c1-26e7e914c80c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x727443713e3fF01411Feaae52dae5d142A3c7b29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x727443713e3fF01411Feaae52dae5d142A3c7b29/logo.png"
+    }
+  },
+  "name": "GLOBALFOUNDATION",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

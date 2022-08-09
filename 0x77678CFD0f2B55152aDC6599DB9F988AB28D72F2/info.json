@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x77678CFD0f2B55152aDC6599DB9F988AB28D72F2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "272008dc-50d5-4d82-aae5-8b02a15ce92a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77678CFD0f2B55152aDC6599DB9F988AB28D72F2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77678CFD0f2B55152aDC6599DB9F988AB28D72F2/logo.png"
+    }
+  },
+  "name": "SwitchDex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SDEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86367c0e517622DAcdab379f2de389c3C9524345",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "23e7f999-b7be-40af-ac90-5b2d852ee787",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86367c0e517622DAcdab379f2de389c3C9524345/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86367c0e517622DAcdab379f2de389c3C9524345/logo.png"
+    }
+  },
+  "name": "Universal US Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UPUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

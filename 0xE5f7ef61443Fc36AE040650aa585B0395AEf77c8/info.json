@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c3917ca-7f44-455e-8c79-c69f373e5fb9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8/logo.png"
+    }
+  },
+  "name": "RealToken 9943 Marlowe Street Detroit MI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0c3ae89AF1fd1d855379C99a270De5675d009c4e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a9a7bd13-26dd-4476-8aff-a4820604d5e5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0c3ae89AF1fd1d855379C99a270De5675d009c4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c3ae89AF1fd1d855379C99a270De5675d009c4e/logo.png"
+    }
+  },
+  "name": "True Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

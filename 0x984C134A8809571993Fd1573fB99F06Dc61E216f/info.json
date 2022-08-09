@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "644baf41-6936-4140-8911-025e0cf47fe9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x984C134A8809571993Fd1573fB99F06Dc61E216f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x984C134A8809571993Fd1573fB99F06Dc61E216f/logo.png"
+    }
+  },
+  "name": "Artchain Global Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

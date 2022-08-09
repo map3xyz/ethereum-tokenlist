@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "147cc1f0-c77c-4946-9c23-bbfa10aca823",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6/logo.png"
+    }
+  },
+  "name": "Dentacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Dentacoin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

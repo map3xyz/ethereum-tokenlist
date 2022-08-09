@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x784561B89A160990F46DE6dB19571Ca1B5F14bCE",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9251537f-d66c-43f7-8e78-d263d1a2554c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x784561B89A160990F46DE6dB19571Ca1B5F14bCE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x784561B89A160990F46DE6dB19571Ca1B5F14bCE/logo.png"
+    }
+  },
+  "name": "MOST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20900587e569E3D0B2609BCa6Fb3469765ed0920",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6b60e70-6ac6-45b6-b613-f4644859e2c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20900587e569E3D0B2609BCa6Fb3469765ed0920/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20900587e569E3D0B2609BCa6Fb3469765ed0920/logo.png"
+    }
+  },
+  "name": "Bitpoint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

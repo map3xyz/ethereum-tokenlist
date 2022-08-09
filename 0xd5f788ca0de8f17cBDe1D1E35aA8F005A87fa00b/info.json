@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d7ce0e3d-998f-4c77-9375-c04703416ad7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b/logo.png"
+    }
+  },
+  "name": "Shivers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

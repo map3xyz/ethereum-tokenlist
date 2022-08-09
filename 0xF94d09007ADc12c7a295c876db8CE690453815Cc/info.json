@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF94d09007ADc12c7a295c876db8CE690453815Cc",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d60bc97f-d1ca-40e7-b06e-55e5a6c067e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF94d09007ADc12c7a295c876db8CE690453815Cc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF94d09007ADc12c7a295c876db8CE690453815Cc/logo.png"
+    }
+  },
+  "name": "Eye",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EYE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

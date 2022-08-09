@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x254bCa53A17A1C6E1AdA05C06aff042684E846c2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8b140b8e-8944-4bbb-b136-55cf7befa73e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x254bCa53A17A1C6E1AdA05C06aff042684E846c2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x254bCa53A17A1C6E1AdA05C06aff042684E846c2/logo.png"
+    }
+  },
+  "name": "Cygnity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

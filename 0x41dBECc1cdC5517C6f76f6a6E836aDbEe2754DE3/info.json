@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68b35768-f39e-4e03-8d01-bb66ad82fb66",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3/logo.png"
+    }
+  },
+  "name": "MedToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

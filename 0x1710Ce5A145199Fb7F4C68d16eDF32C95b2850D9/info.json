@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "da23c455-0be0-4cc1-8fa3-d787fbb89083",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9/logo.png"
+    }
+  },
+  "name": "Down",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

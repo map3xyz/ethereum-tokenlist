@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80aCB802869F7B825cdBdaCb504cF95b595BB930",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a68ca5db-c320-4aef-a8c4-6d417238c525",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80aCB802869F7B825cdBdaCb504cF95b595BB930/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80aCB802869F7B825cdBdaCb504cF95b595BB930/logo.png"
+    }
+  },
+  "name": "Core",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

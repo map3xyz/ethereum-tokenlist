@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61c0407487349E7C828d0C21D63BfD0Ac6640AB5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "96035fc7-0ac7-4d80-8680-1c6b9a3b6327",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61c0407487349E7C828d0C21D63BfD0Ac6640AB5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61c0407487349E7C828d0C21D63BfD0Ac6640AB5/logo.png"
+    }
+  },
+  "name": "Zebras Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

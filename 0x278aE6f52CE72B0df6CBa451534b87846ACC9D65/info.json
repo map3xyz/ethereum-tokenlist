@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x278aE6f52CE72B0df6CBa451534b87846ACC9D65",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "c0f9bf8e-a8e8-41d8-a74e-fbbefd8dd172",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x278aE6f52CE72B0df6CBa451534b87846ACC9D65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x278aE6f52CE72B0df6CBa451534b87846ACC9D65/logo.png"
+    }
+  },
+  "name": "BLACKPANTHER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

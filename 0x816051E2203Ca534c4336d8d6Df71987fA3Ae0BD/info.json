@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74297a1c-fdb7-45ab-b076-024fb713c57c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD/logo.png"
+    }
+  },
+  "name": "FunKoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

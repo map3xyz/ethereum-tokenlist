@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A0B4b959cF9c5853f701ca1484e57CA69ff9515",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82200219-ed15-4735-b7e8-4a786767529b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A0B4b959cF9c5853f701ca1484e57CA69ff9515/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A0B4b959cF9c5853f701ca1484e57CA69ff9515/logo.png"
+    }
+  },
+  "name": "EasyPocket Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EASY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

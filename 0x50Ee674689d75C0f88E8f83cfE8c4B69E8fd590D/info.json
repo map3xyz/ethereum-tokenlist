@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x50Ee674689d75C0f88E8f83cfE8c4B69E8fd590D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "32178e43-56a6-4b01-9e02-9176b8b8b068",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50Ee674689d75C0f88E8f83cfE8c4B69E8fd590D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50Ee674689d75C0f88E8f83cfE8c4B69E8fd590D/logo.png"
+    }
+  },
+  "name": "EmphyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b5a85ad0-4a7d-43dc-859f-727cbcbf072c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x916c5DE09cF63f6602d1e1793FB41F6437814A62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x916c5DE09cF63f6602d1e1793FB41F6437814A62/logo.png"
+    }
+  },
+  "name": "JACY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JACY",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

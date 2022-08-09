@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "786207d2-07a5-4bec-8245-01c01182e705",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a/logo.png"
+    }
+  },
+  "name": "ODEM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

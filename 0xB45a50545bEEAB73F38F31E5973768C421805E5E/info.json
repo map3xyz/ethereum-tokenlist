@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB45a50545bEEAB73F38F31E5973768C421805E5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5982e319-e8a1-47d8-88f0-0fbc58f9f7cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB45a50545bEEAB73F38F31E5973768C421805E5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB45a50545bEEAB73F38F31E5973768C421805E5E/logo.png"
+    }
+  },
+  "name": "TKRToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

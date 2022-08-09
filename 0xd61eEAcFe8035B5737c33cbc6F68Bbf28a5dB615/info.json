@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd61eEAcFe8035B5737c33cbc6F68Bbf28a5dB615",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f9667527-6f41-4e4a-ad81-42a5f61dd660",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd61eEAcFe8035B5737c33cbc6F68Bbf28a5dB615/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd61eEAcFe8035B5737c33cbc6F68Bbf28a5dB615/logo.png"
+    }
+  },
+  "name": "Premium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

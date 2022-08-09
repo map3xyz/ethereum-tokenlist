@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd30581895B8320c356aFc6f80B07dfB468a65b69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49b261a5-acd2-431b-aea0-aa2e2854bb7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd30581895B8320c356aFc6f80B07dfB468a65b69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd30581895B8320c356aFc6f80B07dfB468a65b69/logo.png"
+    }
+  },
+  "name": "Loonie Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

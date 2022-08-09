@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x677fB8474b6bf1496f7Ab633E63e25fE1132d042",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3757a7ed-9d28-4d49-933d-239cc044c73f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x677fB8474b6bf1496f7Ab633E63e25fE1132d042/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x677fB8474b6bf1496f7Ab633E63e25fE1132d042/logo.png"
+    }
+  },
+  "name": "bitecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

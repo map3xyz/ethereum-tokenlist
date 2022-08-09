@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9c197c4b58527fAAAb67CB35E3145166B23D242e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7c5ce3a-6a70-46d0-aa42-52442aded838",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9c197c4b58527fAAAb67CB35E3145166B23D242e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c197c4b58527fAAAb67CB35E3145166B23D242e/logo.png"
+    }
+  },
+  "name": "HashNet BitEco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

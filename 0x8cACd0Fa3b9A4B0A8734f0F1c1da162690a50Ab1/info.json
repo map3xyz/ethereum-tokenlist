@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0fe8ee3-8127-48f0-a8d4-26b46dd4e8d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1/logo.png"
+    }
+  },
+  "name": "Barthor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

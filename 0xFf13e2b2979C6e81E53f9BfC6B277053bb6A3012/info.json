@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "fad08b71-7d43-47bc-881b-2c15a1510c4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012/logo.png"
+    }
+  },
+  "name": "yamCRV.org",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yamCRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

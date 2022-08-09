@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC72ED4445B3fe9f0863106E344E241530d338906",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ea670e3-08fa-4e8b-9886-24206a3ef64f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC72ED4445B3fe9f0863106E344E241530d338906/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC72ED4445B3fe9f0863106E344E241530d338906/logo.png"
+    }
+  },
+  "name": "Mallcoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

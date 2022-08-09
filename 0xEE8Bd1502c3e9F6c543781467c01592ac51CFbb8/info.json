@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE8Bd1502c3e9F6c543781467c01592ac51CFbb8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bfe1b530-5a67-4774-8c85-9176dd4c1305",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE8Bd1502c3e9F6c543781467c01592ac51CFbb8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE8Bd1502c3e9F6c543781467c01592ac51CFbb8/logo.png"
+    }
+  },
+  "name": "Titanium BAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

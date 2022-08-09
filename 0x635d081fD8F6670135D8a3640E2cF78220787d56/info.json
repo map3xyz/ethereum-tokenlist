@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81cddc33-35c2-497f-bbd4-1c8df1adb885",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x635d081fD8F6670135D8a3640E2cF78220787d56/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x635d081fD8F6670135D8a3640E2cF78220787d56/logo.png"
+    }
+  },
+  "name": "ADD.xyz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

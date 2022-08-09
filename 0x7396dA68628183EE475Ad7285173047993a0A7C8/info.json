@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7396dA68628183EE475Ad7285173047993a0A7C8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8402bdec-b963-470f-8638-ed65ce7dc15f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7396dA68628183EE475Ad7285173047993a0A7C8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7396dA68628183EE475Ad7285173047993a0A7C8/logo.png"
+    }
+  },
+  "name": "NETTENCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

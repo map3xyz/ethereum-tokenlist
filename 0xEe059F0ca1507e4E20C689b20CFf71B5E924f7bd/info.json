@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ceaf1d76-4ac0-4e99-9faa-ebf702e637bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd/logo.png"
+    }
+  },
+  "name": "Litecoin SV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LSV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

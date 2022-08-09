@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4c33449e-8d5c-44d5-9a44-0f65372fbc61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5/logo.png"
+    }
+  },
+  "name": "CreditBIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

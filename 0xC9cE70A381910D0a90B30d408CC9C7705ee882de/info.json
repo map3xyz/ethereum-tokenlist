@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c74dded-4616-4c7f-ac94-c9700ab5a141",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC9cE70A381910D0a90B30d408CC9C7705ee882de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC9cE70A381910D0a90B30d408CC9C7705ee882de/logo.png"
+    }
+  },
+  "name": "NYAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NYAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

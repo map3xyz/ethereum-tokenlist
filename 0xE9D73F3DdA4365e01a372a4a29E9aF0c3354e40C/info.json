@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0e5ab72c-5e7c-4783-833e-fed7aaadd85d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C/logo.png"
+    }
+  },
+  "name": "Amadeo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

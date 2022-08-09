@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE42Ba5558b00d2E6109CC60412d5D4c9473FE998",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a7b78e3-cfa4-4887-abb8-b7aca90fb7c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE42Ba5558b00d2E6109CC60412d5D4c9473FE998/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE42Ba5558b00d2E6109CC60412d5D4c9473FE998/logo.png"
+    }
+  },
+  "name": "iMM Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Ae20b59138431597C09A4531CD3d3156940d596",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b3bf2455-27ac-42c8-96c1-e131a366eb5e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Ae20b59138431597C09A4531CD3d3156940d596/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Ae20b59138431597C09A4531CD3d3156940d596/logo.png"
+    }
+  },
+  "name": "Gatt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GATT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

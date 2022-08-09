@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF9dfbdC37bf41Fd78E9C8eF195F5F21a9a175401",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb3c2437-4348-4cf1-a0c9-db18a560abc7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9dfbdC37bf41Fd78E9C8eF195F5F21a9a175401/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF9dfbdC37bf41Fd78E9C8eF195F5F21a9a175401/logo.png"
+    }
+  },
+  "name": "istanbul",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

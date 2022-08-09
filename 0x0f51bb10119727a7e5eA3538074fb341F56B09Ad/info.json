@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6f75cd26-ad21-4170-b6da-660aaee9f331",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png"
+    }
+  },
+  "name": "DAO Maker",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

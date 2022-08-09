@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x297316B8215eEf7773c6Ffac56C9b85cE2213bDc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74fb2b7c-1611-461b-adef-6a0925da618f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x297316B8215eEf7773c6Ffac56C9b85cE2213bDc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x297316B8215eEf7773c6Ffac56C9b85cE2213bDc/logo.png"
+    }
+  },
+  "name": "StarLight",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

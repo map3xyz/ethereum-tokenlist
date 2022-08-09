@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x631Fc019888CcB5618fF6D8B95fc06D339fC7755",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c73cee56-fd6f-4f11-b7c3-1c77a3d2cff7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x631Fc019888CcB5618fF6D8B95fc06D339fC7755/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x631Fc019888CcB5618fF6D8B95fc06D339fC7755/logo.png"
+    }
+  },
+  "name": "Recycle Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RECH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

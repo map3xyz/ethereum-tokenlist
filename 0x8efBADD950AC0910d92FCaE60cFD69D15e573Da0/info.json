@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8efBADD950AC0910d92FCaE60cFD69D15e573Da0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b359e45-a65b-4920-be51-e2eb53a4de18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8efBADD950AC0910d92FCaE60cFD69D15e573Da0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8efBADD950AC0910d92FCaE60cFD69D15e573Da0/logo.png"
+    }
+  },
+  "name": "CICBanking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

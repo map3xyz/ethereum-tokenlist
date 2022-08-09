@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x034B0dd380b5f6f8123b8d0d0E42329b67772792",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0afbbef-7dd8-485f-896b-a3695a3bb4f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x034B0dd380b5f6f8123b8d0d0E42329b67772792/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x034B0dd380b5f6f8123b8d0d0E42329b67772792/logo.png"
+    }
+  },
+  "name": "ADAB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96820c54-7835-426e-af58-eb71d289ee0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4/logo.png"
+    }
+  },
+  "name": "PLANET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

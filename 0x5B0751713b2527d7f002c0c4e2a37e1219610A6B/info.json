@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76f9348c-f668-4da9-b29d-a1b2b6e78fe4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B/logo.png"
+    }
+  },
+  "name": "Horse",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HORSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x382117315856a533549eA621542Ccce13E54aE82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce920720-2601-4ba1-848f-deaced819da8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x382117315856a533549eA621542Ccce13E54aE82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x382117315856a533549eA621542Ccce13E54aE82/logo.png"
+    }
+  },
+  "name": "BitBall",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

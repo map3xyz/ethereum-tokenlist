@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x253C7dd074f4BaCb305387F922225A4f737C08bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59c7dbcd-253e-47a7-bd7a-883b9a599bbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x253C7dd074f4BaCb305387F922225A4f737C08bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x253C7dd074f4BaCb305387F922225A4f737C08bd/logo.png"
+    }
+  },
+  "name": "LookRev",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

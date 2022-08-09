@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9D1cBF4eF833340120e721E5028C326Ec1066c7e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d4ef809-116e-45b5-b95e-e8fce6f3cd56",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9D1cBF4eF833340120e721E5028C326Ec1066c7e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D1cBF4eF833340120e721E5028C326Ec1066c7e/logo.png"
+    }
+  },
+  "name": "Double Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

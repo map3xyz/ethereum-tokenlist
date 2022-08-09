@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2cf04048-e410-43df-8838-d7714667377d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x5Dc02Ea99285E17656b8350722694c35154DB1E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5Dc02Ea99285E17656b8350722694c35154DB1E8/logo.png"
+    }
+  },
+  "name": "BOND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

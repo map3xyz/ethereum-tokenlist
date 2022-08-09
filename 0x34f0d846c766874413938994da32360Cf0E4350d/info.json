@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x34f0d846c766874413938994da32360Cf0E4350d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22be2c09-bace-4f16-bf69-1ad3f8e2bd1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x34f0d846c766874413938994da32360Cf0E4350d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34f0d846c766874413938994da32360Cf0E4350d/logo.png"
+    }
+  },
+  "name": "Sophon Capital Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

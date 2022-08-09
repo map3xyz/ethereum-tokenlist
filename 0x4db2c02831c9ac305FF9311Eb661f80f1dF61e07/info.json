@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4db2c02831c9ac305FF9311Eb661f80f1dF61e07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1bd31279-b113-455c-ada6-99aa05528918",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4db2c02831c9ac305FF9311Eb661f80f1dF61e07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4db2c02831c9ac305FF9311Eb661f80f1dF61e07/logo.png"
+    }
+  },
+  "name": "Stable ICHI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneICHI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5afed368-ee25-4d1b-935c-5e9c498e81fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4086692D53262b2Be0b13909D804F0491FF6Ec3e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4086692D53262b2Be0b13909D804F0491FF6Ec3e/logo.png"
+    }
+  },
+  "name": "YFKA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

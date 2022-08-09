@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31cd2f4c-fff7-43b5-afbc-0fd2a58baeac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8888801aF4d980682e47f1A9036e589479e835C5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8888801aF4d980682e47f1A9036e589479e835C5/logo.png"
+    }
+  },
+  "name": "88mph.app",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

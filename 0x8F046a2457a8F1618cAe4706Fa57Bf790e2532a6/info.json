@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7d7d96a-5e03-4546-8c15-04cb9971785a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6/logo.png"
+    }
+  },
+  "name": "Restore Truth Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTT",
+  "tags": [
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d35a22c7-f2cc-4ca3-9aec-9a56cbf1f008",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c/logo.png"
+    }
+  },
+  "name": "Zum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

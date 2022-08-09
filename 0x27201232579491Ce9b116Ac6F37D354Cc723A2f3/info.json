@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27201232579491Ce9b116Ac6F37D354Cc723A2f3",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fd43f653-be68-43b2-a512-09e31c03a947",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27201232579491Ce9b116Ac6F37D354Cc723A2f3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27201232579491Ce9b116Ac6F37D354Cc723A2f3/logo.png"
+    }
+  },
+  "name": "MESEFA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEFA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

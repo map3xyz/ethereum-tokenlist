@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d27bc332-8ce1-4c4a-8d68-4f9be2638141",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26B80FBfC01b71495f477d5237071242e0d959d7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26B80FBfC01b71495f477d5237071242e0d959d7/logo.png"
+    }
+  },
+  "name": "ROSE (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROSE",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

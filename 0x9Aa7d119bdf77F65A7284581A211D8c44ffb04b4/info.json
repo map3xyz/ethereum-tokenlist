@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9Aa7d119bdf77F65A7284581A211D8c44ffb04b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "454a9feb-dc49-47c2-9900-9125a1bde36d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Aa7d119bdf77F65A7284581A211D8c44ffb04b4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9Aa7d119bdf77F65A7284581A211D8c44ffb04b4/logo.png"
+    }
+  },
+  "name": "Girl Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB8796542765747ed7F921FF12faff057b5D624D7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "168a895d-c982-4dd9-9fd2-57bfec3edf1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8796542765747ed7F921FF12faff057b5D624D7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8796542765747ed7F921FF12faff057b5D624D7/logo.png"
+    }
+  },
+  "name": "Void Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

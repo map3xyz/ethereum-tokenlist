@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "37a0236e-cc74-4efd-bf1a-fca099e0d289",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51/logo.png"
+    }
+  },
+  "name": "Tantan Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TANTAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

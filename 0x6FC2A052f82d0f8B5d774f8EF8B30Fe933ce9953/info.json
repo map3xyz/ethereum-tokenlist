@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a728cd2-da35-4827-988f-abc0572e567b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953/logo.png"
+    }
+  },
+  "name": "DMSCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

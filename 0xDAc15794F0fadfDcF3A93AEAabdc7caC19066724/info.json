@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "299abe71-91c8-42eb-bcfa-8058e5404cae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724/logo.png"
+    }
+  },
+  "name": "GREENX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

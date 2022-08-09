@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3071317-c045-4674-b3d8-d435533e6b0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
+    }
+  },
+  "name": "Swipe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

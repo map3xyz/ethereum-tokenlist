@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d9287dd-a3d5-486a-bcc4-fd830d3a2f72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f/logo.png"
+    }
+  },
+  "name": "CoronaCrypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NCOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

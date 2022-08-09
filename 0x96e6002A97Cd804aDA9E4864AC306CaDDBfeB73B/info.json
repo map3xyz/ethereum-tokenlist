@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f7745b52-11c7-4b77-a440-5f1ad0623349",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B/logo.png"
+    }
+  },
+  "name": "YokiCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

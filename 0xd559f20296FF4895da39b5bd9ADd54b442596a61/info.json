@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e856935-b31e-4130-a9f0-8bc82d2536c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd559f20296FF4895da39b5bd9ADd54b442596a61/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd559f20296FF4895da39b5bd9ADd54b442596a61/logo.png"
+    }
+  },
+  "name": "FintruX Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

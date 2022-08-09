@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf720E38F678B29B243F7D53B56Acbf5dE98F2385",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e56f689-d445-4dea-8bc3-d5289a53ab68",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf720E38F678B29B243F7D53B56Acbf5dE98F2385/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf720E38F678B29B243F7D53B56Acbf5dE98F2385/logo.png"
+    }
+  },
+  "name": "Upfire",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

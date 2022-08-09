@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCC55cf17d21c758E52b87113a7143116e4d9EB10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d671fb64-10ac-4ad8-bf08-0202c331076c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCC55cf17d21c758E52b87113a7143116e4d9EB10/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCC55cf17d21c758E52b87113a7143116e4d9EB10/logo.png"
+    }
+  },
+  "name": "Vending Machine Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a72acea-fc24-4998-97f8-06cdf4388ed6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c/logo.png"
+    }
+  },
+  "name": "Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

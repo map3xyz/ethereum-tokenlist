@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6f022E991ea21d26F85f6716c088e2864101dfEC",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7579dd1a-a831-4f15-8ea2-162ba75d4f66",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6f022E991ea21d26F85f6716c088e2864101dfEC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f022E991ea21d26F85f6716c088e2864101dfEC/logo.png"
+    }
+  },
+  "name": "Hands Of Steel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STEEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

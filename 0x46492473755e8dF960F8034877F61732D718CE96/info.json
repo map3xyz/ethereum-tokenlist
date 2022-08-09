@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46492473755e8dF960F8034877F61732D718CE96",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c27da197-5044-48a0-b223-04f0fa977991",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46492473755e8dF960F8034877F61732D718CE96/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46492473755e8dF960F8034877F61732D718CE96/logo.png"
+    }
+  },
+  "name": "StarCredits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

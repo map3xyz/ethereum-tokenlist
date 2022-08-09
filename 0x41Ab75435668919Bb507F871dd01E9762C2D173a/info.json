@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41Ab75435668919Bb507F871dd01E9762C2D173a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e125b21-7387-4ac1-9d3c-7a029a1b0f2c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41Ab75435668919Bb507F871dd01E9762C2D173a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41Ab75435668919Bb507F871dd01E9762C2D173a/logo.png"
+    }
+  },
+  "name": "XChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NXCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

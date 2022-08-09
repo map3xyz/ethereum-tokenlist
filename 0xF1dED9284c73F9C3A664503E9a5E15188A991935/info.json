@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF1dED9284c73F9C3A664503E9a5E15188A991935",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "13affcaf-a675-470e-a20f-646d919d0b91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF1dED9284c73F9C3A664503E9a5E15188A991935/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF1dED9284c73F9C3A664503E9a5E15188A991935/logo.png"
+    }
+  },
+  "name": "ZALXTHERIUM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZALX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

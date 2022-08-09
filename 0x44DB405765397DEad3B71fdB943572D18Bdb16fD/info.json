@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44DB405765397DEad3B71fdB943572D18Bdb16fD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd5e5ada-7869-4897-834a-a747d291bb44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44DB405765397DEad3B71fdB943572D18Bdb16fD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44DB405765397DEad3B71fdB943572D18Bdb16fD/logo.png"
+    }
+  },
+  "name": "ga-me.io token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

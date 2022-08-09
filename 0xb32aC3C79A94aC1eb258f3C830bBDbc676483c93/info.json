@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f90d8ed-2429-44a5-ae04-728ceeff62a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93/logo.png"
+    }
+  },
+  "name": "OpenSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OSWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

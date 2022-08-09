@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9356179c-2634-4dba-a160-e282fb5b8755",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171/logo.png"
+    }
+  },
+  "name": "LOLTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

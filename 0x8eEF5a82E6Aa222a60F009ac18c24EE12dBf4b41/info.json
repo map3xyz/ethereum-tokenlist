@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5169f4f7-d714-4d16-b21c-543ef9ac5f71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png"
+    }
+  },
+  "name": "Tixl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TXL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

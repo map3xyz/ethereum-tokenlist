@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad99439e-3c56-4124-bcd7-5192cd7829a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03042482d64577A7bdb282260e2eA4c8a89C064B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03042482d64577A7bdb282260e2eA4c8a89C064B/logo.png"
+    }
+  },
+  "name": "Centaur Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

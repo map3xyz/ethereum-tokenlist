@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe1b4edb-e665-456e-b1a1-35c96419d042",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20/logo.png"
+    }
+  },
+  "name": "Anatha",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wANATHA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

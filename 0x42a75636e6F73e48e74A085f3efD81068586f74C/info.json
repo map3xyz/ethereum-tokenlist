@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42a75636e6F73e48e74A085f3efD81068586f74C",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "7ac3d98c-2491-42e6-aa1b-de32eae1e7b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42a75636e6F73e48e74A085f3efD81068586f74C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42a75636e6F73e48e74A085f3efD81068586f74C/logo.png"
+    }
+  },
+  "name": "FUNY - TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

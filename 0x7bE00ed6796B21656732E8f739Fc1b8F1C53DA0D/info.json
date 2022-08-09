@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b7149a4-a8e2-45c2-bfd8-d305ca0f5f49",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D/logo.png"
+    }
+  },
+  "name": "AC eXchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

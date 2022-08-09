@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A69F675eA3886892a3bd15C1DD2A5a579b7f7dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb073642-7e8f-495d-a1b8-96af151470bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A69F675eA3886892a3bd15C1DD2A5a579b7f7dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A69F675eA3886892a3bd15C1DD2A5a579b7f7dc/logo.png"
+    }
+  },
+  "name": "DXM Solutions",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DXM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

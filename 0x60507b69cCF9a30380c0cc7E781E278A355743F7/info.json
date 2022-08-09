@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x60507b69cCF9a30380c0cc7E781E278A355743F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "89b034b2-cd66-488e-b91c-3f33881f53b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60507b69cCF9a30380c0cc7E781E278A355743F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60507b69cCF9a30380c0cc7E781E278A355743F7/logo.png"
+    }
+  },
+  "name": "BlockMed_Venture",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

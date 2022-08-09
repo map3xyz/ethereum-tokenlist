@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdaE1Baf249964bc4b6aC98c3122f0e3E785fd279",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d57e26ac-51e5-452d-9845-2b6fed92fae3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdaE1Baf249964bc4b6aC98c3122f0e3E785fd279/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdaE1Baf249964bc4b6aC98c3122f0e3E785fd279/logo.png"
+    }
+  },
+  "name": "TokiaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

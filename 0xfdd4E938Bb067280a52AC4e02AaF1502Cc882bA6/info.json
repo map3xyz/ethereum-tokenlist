@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfdd4E938Bb067280a52AC4e02AaF1502Cc882bA6",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7ccc80b3-a7bc-4e22-b215-d94ed44c2449",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfdd4E938Bb067280a52AC4e02AaF1502Cc882bA6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfdd4E938Bb067280a52AC4e02AaF1502Cc882bA6/logo.png"
+    }
+  },
+  "name": "BET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

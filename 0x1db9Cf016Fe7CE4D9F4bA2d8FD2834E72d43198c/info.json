@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c3b37c49-ded6-4b84-a356-0654fa49ad94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c/logo.png"
+    }
+  },
+  "name": "Luno COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUNO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7cdf9d9-3015-4e8d-bbc8-9a48f9b17e51",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
+    }
+  },
+  "name": "Amon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

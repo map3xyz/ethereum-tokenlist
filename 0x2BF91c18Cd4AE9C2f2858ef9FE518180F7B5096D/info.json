@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b20abb28-9ac2-4aa8-bc55-860ec0b949b3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D/logo.png"
+    }
+  },
+  "name": "KIWI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIWI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

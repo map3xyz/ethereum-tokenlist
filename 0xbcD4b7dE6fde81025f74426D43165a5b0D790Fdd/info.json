@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ba3acbe-ecd9-4a9f-9e7c-6071b3479561",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd/logo.png"
+    }
+  },
+  "name": "SpiderDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

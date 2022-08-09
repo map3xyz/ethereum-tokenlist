@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbbd227e805b90b8FE8f4c01A3f4E48bdAE0599af",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5a17144e-9105-426c-b9f2-6abff82f87ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbbd227e805b90b8FE8f4c01A3f4E48bdAE0599af/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbbd227e805b90b8FE8f4c01A3f4E48bdAE0599af/logo.png"
+    }
+  },
+  "name": "Phoneum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

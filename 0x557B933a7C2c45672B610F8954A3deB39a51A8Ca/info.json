@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f766aa2c-5933-4d4e-8962-e42be01638d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png"
+    }
+  },
+  "name": "REVV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REVV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

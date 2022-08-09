@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3ed0663-ff0b-4f31-b558-57531b88bcab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB/logo.png"
+    }
+  },
+  "name": "Mithril Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MITH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

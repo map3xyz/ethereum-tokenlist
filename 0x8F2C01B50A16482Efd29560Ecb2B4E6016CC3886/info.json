@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8F2C01B50A16482Efd29560Ecb2B4E6016CC3886",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "369dae20-c42f-4705-af1e-f994682df6c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F2C01B50A16482Efd29560Ecb2B4E6016CC3886/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F2C01B50A16482Efd29560Ecb2B4E6016CC3886/logo.png"
+    }
+  },
+  "name": "Ambazonia Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

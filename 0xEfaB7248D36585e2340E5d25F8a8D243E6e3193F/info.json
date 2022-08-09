@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3176cb3-bd73-44c6-a184-50bcfbbd4f3b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F/logo.png"
+    }
+  },
+  "name": "Dacxi Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DACXI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

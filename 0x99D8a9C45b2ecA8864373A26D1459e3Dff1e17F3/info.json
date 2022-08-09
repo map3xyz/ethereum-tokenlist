@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b53fb7be-8c1d-4913-8d00-786a5c92fadb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo.png"
+    }
+  },
+  "name": "Magic Internet Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

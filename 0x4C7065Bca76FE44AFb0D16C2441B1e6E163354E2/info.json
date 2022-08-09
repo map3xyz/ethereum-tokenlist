@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C7065Bca76FE44AFb0D16C2441B1e6E163354E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "001a77c4-cc6c-4a19-8f53-d66a03b6949e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4C7065Bca76FE44AFb0D16C2441B1e6E163354E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C7065Bca76FE44AFb0D16C2441B1e6E163354E2/logo.png"
+    }
+  },
+  "name": "Helysia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "3LY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

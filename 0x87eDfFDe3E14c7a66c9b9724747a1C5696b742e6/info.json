@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96f7cc07-6883-4ad2-9276-621968f6bd4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6/logo.png"
+    }
+  },
+  "name": "Swag Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

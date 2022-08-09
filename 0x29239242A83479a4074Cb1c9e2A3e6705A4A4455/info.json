@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29239242A83479a4074Cb1c9e2A3e6705A4A4455",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c53fa575-c909-4c3d-99d2-32e351505a18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455/logo.png"
+    }
+  },
+  "name": "TOZEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

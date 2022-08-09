@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x436F0F3a982074c4a05084485D421466a994FE53",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15e8e81e-a6c6-4eb5-b689-825193af8f77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x436F0F3a982074c4a05084485D421466a994FE53/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x436F0F3a982074c4a05084485D421466a994FE53/logo.png"
+    }
+  },
+  "name": "Rate3",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d681540d-1961-4110-b698-471063cde315",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4/logo.png"
+    }
+  },
+  "name": "Newtonium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEWTON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

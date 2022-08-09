@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "826a4aa4-36a1-4770-8f14-5e0b8d119455",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D/logo.png"
+    }
+  },
+  "name": "BTEApplication",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTEA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

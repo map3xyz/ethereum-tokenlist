@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07e68a24A7D84C9a34a4Bd05eF487cab6da15995",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2b3e20f-78c4-48fa-a1d8-ea03a0bbf0b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07e68a24A7D84C9a34a4Bd05eF487cab6da15995/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07e68a24A7D84C9a34a4Bd05eF487cab6da15995/logo.png"
+    }
+  },
+  "name": "Yizoot Utility Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YZU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x35156b404C3f9bdaf45ab65Ba315419bcDe3775c",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "575aeb72-10df-4f44-85a7-dd7fa5f18929",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35156b404C3f9bdaf45ab65Ba315419bcDe3775c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35156b404C3f9bdaf45ab65Ba315419bcDe3775c/logo.png"
+    }
+  },
+  "name": "Chihiro Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHIRO",
+  "tags": [
+    "gamefi",
+    "nft",
+    "deflationary",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

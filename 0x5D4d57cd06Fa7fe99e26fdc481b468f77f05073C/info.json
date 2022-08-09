@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d99f5507-45b5-4333-86dc-7cb400280b63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C/logo.png"
+    }
+  },
+  "name": "Netkoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

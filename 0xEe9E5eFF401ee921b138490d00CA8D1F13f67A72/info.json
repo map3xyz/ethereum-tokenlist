@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2b8146b9-a289-442a-9b2c-f8c072c4aed4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72/logo.png"
+    }
+  },
+  "name": "Asian Fintech",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Afin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

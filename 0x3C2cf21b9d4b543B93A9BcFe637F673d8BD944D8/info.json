@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C2cf21b9d4b543B93A9BcFe637F673d8BD944D8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f2f0d90-57bb-4749-bbe5-96ddacb3eff7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C2cf21b9d4b543B93A9BcFe637F673d8BD944D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C2cf21b9d4b543B93A9BcFe637F673d8BD944D8/logo.png"
+    }
+  },
+  "name": "Origin D",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

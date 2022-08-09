@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "821ec5fa-b8be-4b1a-ac02-d919d5db146f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d/logo.png"
+    }
+  },
+  "name": "BrilliantOilCorporationToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

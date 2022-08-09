@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x423FfB66AECC906361d79F87d85dB310897bDB6D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5979d580-0068-4a8f-bd2d-1c7a136bb303",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x423FfB66AECC906361d79F87d85dB310897bDB6D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x423FfB66AECC906361d79F87d85dB310897bDB6D/logo.png"
+    }
+  },
+  "name": "First Internet Football Association",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIFA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

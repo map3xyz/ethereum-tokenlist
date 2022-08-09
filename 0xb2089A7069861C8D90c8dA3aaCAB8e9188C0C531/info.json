@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ecf8ba62-5d64-4f91-9e73-84840c8b0dd3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531/logo.png"
+    }
+  },
+  "name": "Green",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GREEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

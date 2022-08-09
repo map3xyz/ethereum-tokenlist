@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1DD67adA5F4e3359F86F3e900242ee527A18042f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "97ee5600-6aa5-4d3e-ac89-bc0c38fd227b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1DD67adA5F4e3359F86F3e900242ee527A18042f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1DD67adA5F4e3359F86F3e900242ee527A18042f/logo.png"
+    }
+  },
+  "name": "X-Found World",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

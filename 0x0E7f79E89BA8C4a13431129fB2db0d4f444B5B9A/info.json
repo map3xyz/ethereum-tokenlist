@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "5b053846-97c0-43be-838b-b3b96c1a03d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A/logo.png"
+    }
+  },
+  "name": "Xank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d17a4a39-ca4c-48f0-b545-69e79561ed34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05462671C05aDc39A6521fA60D5e9443e9E9d2B9/logo.png"
+    }
+  },
+  "name": "USDf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDf",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

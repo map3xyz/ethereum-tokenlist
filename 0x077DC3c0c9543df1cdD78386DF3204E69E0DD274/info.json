@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x077DC3c0c9543df1cdD78386DF3204E69E0DD274",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "ae257f6e-818c-4a17-a161-3dfd2d9bb5f1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x077DC3c0c9543df1cdD78386DF3204E69E0DD274/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x077DC3c0c9543df1cdD78386DF3204E69E0DD274/logo.png"
+    }
+  },
+  "name": "POWERBANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PBK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

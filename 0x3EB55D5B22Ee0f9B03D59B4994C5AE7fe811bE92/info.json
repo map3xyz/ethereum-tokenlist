@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3EB55D5B22Ee0f9B03D59B4994C5AE7fe811bE92",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4927c0b4-843e-45a3-ac4d-3d4c8bc1ef67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3EB55D5B22Ee0f9B03D59B4994C5AE7fe811bE92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3EB55D5B22Ee0f9B03D59B4994C5AE7fe811bE92/logo.png"
+    }
+  },
+  "name": "Tratin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

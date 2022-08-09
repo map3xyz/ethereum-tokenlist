@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x92a06F3Ed11aF181D832bB474d017906AcB8c299",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6514bdef-a2e5-44f9-8936-c721e7f0d132",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92a06F3Ed11aF181D832bB474d017906AcB8c299/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92a06F3Ed11aF181D832bB474d017906AcB8c299/logo.png"
+    }
+  },
+  "name": "ZeePin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

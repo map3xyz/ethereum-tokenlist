@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc49451103d26EEAC37D94bf5d4c4EB5FA3184e28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0273e4a6-49b2-4598-82ee-749bba9548a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc49451103d26EEAC37D94bf5d4c4EB5FA3184e28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc49451103d26EEAC37D94bf5d4c4EB5FA3184e28/logo.png"
+    }
+  },
+  "name": "SPORTSCRYPTO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

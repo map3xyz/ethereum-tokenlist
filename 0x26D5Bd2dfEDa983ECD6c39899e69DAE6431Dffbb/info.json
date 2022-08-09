@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26D5Bd2dfEDa983ECD6c39899e69DAE6431Dffbb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00f5596f-08e4-4047-95ce-efefe8144f3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26D5Bd2dfEDa983ECD6c39899e69DAE6431Dffbb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26D5Bd2dfEDa983ECD6c39899e69DAE6431Dffbb/logo.png"
+    }
+  },
+  "name": "ERC20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

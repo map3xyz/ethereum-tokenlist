@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "980849c9-8a1e-42a9-8658-58f0c1aeaf27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92e52a1A235d9A103D970901066CE910AAceFD37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92e52a1A235d9A103D970901066CE910AAceFD37/logo.png"
+    }
+  },
+  "name": "UCASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

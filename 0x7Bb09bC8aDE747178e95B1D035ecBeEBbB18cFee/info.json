@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "243345ed-acf4-41d8-b08d-20440727c754",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee/logo.png"
+    }
+  },
+  "name": "Crypto Valley Alliance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35a69642857083BA2F30bfaB735dacC7F0bac969",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56b49adb-0bf3-499e-9144-b0f0e37d3869",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35a69642857083BA2F30bfaB735dacC7F0bac969/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35a69642857083BA2F30bfaB735dacC7F0bac969/logo.png"
+    }
+  },
+  "name": "BBNToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

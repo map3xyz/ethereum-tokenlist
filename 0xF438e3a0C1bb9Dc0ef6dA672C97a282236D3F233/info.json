@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF438e3a0C1bb9Dc0ef6dA672C97a282236D3F233",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee48f2ea-d724-4a2c-8eb0-a4f7bf0e209a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF438e3a0C1bb9Dc0ef6dA672C97a282236D3F233/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF438e3a0C1bb9Dc0ef6dA672C97a282236D3F233/logo.png"
+    }
+  },
+  "name": "Hyper Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

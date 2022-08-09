@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA70f08F058617A2f07B6A8cf568198f3ddc996fa",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "da29aeee-5062-426b-9d3b-c13f58c88e10",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA70f08F058617A2f07B6A8cf568198f3ddc996fa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA70f08F058617A2f07B6A8cf568198f3ddc996fa/logo.png"
+    }
+  },
+  "name": "HUGS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

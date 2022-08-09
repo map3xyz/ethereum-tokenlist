@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E42c9A733C12AD90cdfC0bC863D1D5Dca1FFBa2",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "dbd7494e-72bf-4ff9-a178-07257ca67776",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5E42c9A733C12AD90cdfC0bC863D1D5Dca1FFBa2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E42c9A733C12AD90cdfC0bC863D1D5Dca1FFBa2/logo.png"
+    }
+  },
+  "name": "XCBytes",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

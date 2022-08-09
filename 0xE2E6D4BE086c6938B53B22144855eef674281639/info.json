@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE2E6D4BE086c6938B53B22144855eef674281639",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5b28468-af84-486c-85bb-dcc46639fed2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE2E6D4BE086c6938B53B22144855eef674281639/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE2E6D4BE086c6938B53B22144855eef674281639/logo.png"
+    }
+  },
+  "name": "Link Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bc0693a-7285-4e0a-a133-aaedbac85470",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f/logo.png"
+    }
+  },
+  "name": "Purpose",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

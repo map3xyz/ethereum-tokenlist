@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x089fe6cd08AeFBF647A63d9F44715b254b47a51B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "fceda395-6b67-4478-bbfe-231fee2f8b0a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x089fe6cd08AeFBF647A63d9F44715b254b47a51B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x089fe6cd08AeFBF647A63d9F44715b254b47a51B/logo.png"
+    }
+  },
+  "name": "uKASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

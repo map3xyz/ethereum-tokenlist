@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x594120039687DDaAB50C4aB03bAda20Eb4b218F6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9c874228-260d-4515-bc0f-a916d8a18e2a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x594120039687DDaAB50C4aB03bAda20Eb4b218F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x594120039687DDaAB50C4aB03bAda20Eb4b218F6/logo.png"
+    }
+  },
+  "name": "Green Movement",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

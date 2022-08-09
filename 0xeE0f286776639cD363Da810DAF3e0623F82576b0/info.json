@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeE0f286776639cD363Da810DAF3e0623F82576b0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6f1db4b-fcd4-49d0-a732-c692191d8ab4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeE0f286776639cD363Da810DAF3e0623F82576b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeE0f286776639cD363Da810DAF3e0623F82576b0/logo.png"
+    }
+  },
+  "name": "Lung Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "L2P",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

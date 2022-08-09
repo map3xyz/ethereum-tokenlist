@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "af28b27a-f046-4ddd-854e-c53ae39aee58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a/logo.png"
+    }
+  },
+  "name": "APENFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NFT",
+  "tags": [
+    "nft",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

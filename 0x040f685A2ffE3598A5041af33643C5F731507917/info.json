@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x040f685A2ffE3598A5041af33643C5F731507917",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "357d1501-2f7a-456e-91ec-f2c7c658bfe7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x040f685A2ffE3598A5041af33643C5F731507917/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x040f685A2ffE3598A5041af33643C5F731507917/logo.png"
+    }
+  },
+  "name": "Lotbo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

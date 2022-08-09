@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2DCA432DCe9c67Bfa31B29A8af0c7852cFf4713",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9766a175-ba61-457f-91c6-2c6be657afc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2DCA432DCe9c67Bfa31B29A8af0c7852cFf4713/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2DCA432DCe9c67Bfa31B29A8af0c7852cFf4713/logo.png"
+    }
+  },
+  "name": "Trust Block",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

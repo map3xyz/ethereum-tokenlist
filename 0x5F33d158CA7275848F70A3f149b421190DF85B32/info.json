@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F33d158CA7275848F70A3f149b421190DF85B32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a97d1ba5-c004-4205-a6e7-2c6577d1cc01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F33d158CA7275848F70A3f149b421190DF85B32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F33d158CA7275848F70A3f149b421190DF85B32/logo.png"
+    }
+  },
+  "name": "PdxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28e410ab-158d-4651-bd75-fa5905913e55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9/logo.png"
+    }
+  },
+  "name": "FLUX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

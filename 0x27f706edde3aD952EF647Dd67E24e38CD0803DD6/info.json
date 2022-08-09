@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef0e9cc9-760e-4a88-a8e0-e4cd47caaee9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6/logo.png"
+    }
+  },
+  "name": "Useless Ethereum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

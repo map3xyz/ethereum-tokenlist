@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07Cc1d447619B46E198e15F3cB4DF7b47B340230",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "078afac4-680a-49d0-84ea-3041ebc2964b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07Cc1d447619B46E198e15F3cB4DF7b47B340230/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07Cc1d447619B46E198e15F3cB4DF7b47B340230/logo.png"
+    }
+  },
+  "name": "NESTFAME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NSF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

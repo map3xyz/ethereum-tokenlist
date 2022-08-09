@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc528c28FEC0A90C083328BC45f587eE215760A0F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9bfacd0b-4d30-4562-9801-466e4ffd57f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc528c28FEC0A90C083328BC45f587eE215760A0F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc528c28FEC0A90C083328BC45f587eE215760A0F/logo.png"
+    }
+  },
+  "name": "Endor Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

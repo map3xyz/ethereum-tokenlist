@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72413edBf399E0F4B981E799F37a1712b73Dd790",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "761e78b9-f738-4598-b454-dd66b208330a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72413edBf399E0F4B981E799F37a1712b73Dd790/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72413edBf399E0F4B981E799F37a1712b73Dd790/logo.png"
+    }
+  },
+  "name": "DKG Dark Pool Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

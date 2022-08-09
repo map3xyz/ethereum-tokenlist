@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f8fa80c4-b99a-4f30-a2d3-08e8d777da9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x14dDda446688b73161AA1382F4E4343353aF6FC8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14dDda446688b73161AA1382F4E4343353aF6FC8/logo.png"
+    }
+  },
+  "name": "FXPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

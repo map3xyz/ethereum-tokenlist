@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bdb66b8c-f4c3-4153-b01e-ec4c91d9fe39",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F/logo.png"
+    }
+  },
+  "name": "ENZO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NZO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

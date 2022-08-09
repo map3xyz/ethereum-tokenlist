@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7184dff1-fddf-4e28-a168-db1b392d56d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF/logo.png"
+    }
+  },
+  "name": "Dogs Of Elon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOE",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

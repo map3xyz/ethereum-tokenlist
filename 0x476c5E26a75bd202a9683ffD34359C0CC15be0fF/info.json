@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "79bcd2bd-3fd6-46df-ac6d-28701e1c9ed3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+    }
+  },
+  "name": "Serum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

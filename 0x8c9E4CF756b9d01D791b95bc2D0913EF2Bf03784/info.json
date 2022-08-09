@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96adac06-39d6-453a-b82f-bc6b4d0e1a5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784/logo.png"
+    }
+  },
+  "name": "AeroToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

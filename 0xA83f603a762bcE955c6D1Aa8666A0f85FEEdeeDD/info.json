@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA83f603a762bcE955c6D1Aa8666A0f85FEEdeeDD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9329df6e-916a-45a6-99f7-2c0eea70df42",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA83f603a762bcE955c6D1Aa8666A0f85FEEdeeDD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA83f603a762bcE955c6D1Aa8666A0f85FEEdeeDD/logo.png"
+    }
+  },
+  "name": "FIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

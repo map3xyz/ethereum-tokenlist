@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b456be8f-9baa-4bbe-8288-a60a89c29428",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50/logo.png"
+    }
+  },
+  "name": "DaangnCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

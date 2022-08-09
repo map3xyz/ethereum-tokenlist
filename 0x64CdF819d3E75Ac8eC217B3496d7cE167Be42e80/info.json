@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b4e0397-6f37-4745-80b2-ff998387dbba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80/logo.png"
+    }
+  },
+  "name": "InsurePal token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

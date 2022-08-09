@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a12c55bc-6a74-45b2-b033-d5fe33806e06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22/logo.png"
+    }
+  },
+  "name": "GrEARN's Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

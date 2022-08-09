@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x515669d308f887Fd83a471C7764F5d084886D34D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "804d4554-e5c5-4a30-b9ba-a1a1eecc81bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x515669d308f887Fd83a471C7764F5d084886D34D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x515669d308f887Fd83a471C7764F5d084886D34D/logo.png"
+    }
+  },
+  "name": "MUXE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

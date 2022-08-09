@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cedde4a-51b3-4ef2-8912-80b0abdddd6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb/logo.png"
+    }
+  },
+  "name": "Standard Tokenization Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

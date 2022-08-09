@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "08089aed-9d56-44b1-aa4f-75a9f66bd25f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a1311B8C404629E38f61D566cefEFed083B9670/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a1311B8C404629E38f61D566cefEFed083B9670/logo.png"
+    }
+  },
+  "name": "Piccolo Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

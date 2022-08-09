@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1da65B1868e2d36d06d7A44DBD2Be98e49E1f7f9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a70c0c57-5be0-470f-b38e-a2166e839c70",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1da65B1868e2d36d06d7A44DBD2Be98e49E1f7f9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1da65B1868e2d36d06d7A44DBD2Be98e49E1f7f9/logo.png"
+    }
+  },
+  "name": "Testa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TESTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf48ffa222A33E7C6Bed217acD27A68d3509B7E9d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "80ca5892-d67c-440e-aa8c-34ff1078c4da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf48ffa222A33E7C6Bed217acD27A68d3509B7E9d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf48ffa222A33E7C6Bed217acD27A68d3509B7E9d/logo.png"
+    }
+  },
+  "name": "Monero White",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XMRW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x742134547B314Adbf197aE10d53EFceBfc6ff1E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9da546f6-112c-4303-9927-69ca88bf974d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x742134547B314Adbf197aE10d53EFceBfc6ff1E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x742134547B314Adbf197aE10d53EFceBfc6ff1E8/logo.png"
+    }
+  },
+  "name": "IChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ISC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

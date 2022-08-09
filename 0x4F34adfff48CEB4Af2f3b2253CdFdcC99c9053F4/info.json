@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4F34adfff48CEB4Af2f3b2253CdFdcC99c9053F4",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6e907654-bce2-47eb-81f5-ba237e3abbbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F34adfff48CEB4Af2f3b2253CdFdcC99c9053F4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4F34adfff48CEB4Af2f3b2253CdFdcC99c9053F4/logo.png"
+    }
+  },
+  "name": "Global Funeral Care SaleToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

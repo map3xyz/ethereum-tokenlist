@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa7f85c3-f931-4055-99e2-62a4927f02a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5/logo.png"
+    }
+  },
+  "name": "Bitrue Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

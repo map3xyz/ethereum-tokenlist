@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0f570696-19db-47dc-a5d6-ed1c9039feb9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5/logo.png"
+    }
+  },
+  "name": " Binance Wrapped WRX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

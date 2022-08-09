@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D5caC36c1AE39f41d52393b7a425d0A610ad9f2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b1464d84-7cf3-4004-87fa-cb2a53d2c95a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6D5caC36c1AE39f41d52393b7a425d0A610ad9f2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6D5caC36c1AE39f41d52393b7a425d0A610ad9f2/logo.png"
+    }
+  },
+  "name": "LLToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

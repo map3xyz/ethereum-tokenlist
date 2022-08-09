@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72D84A0FD9Ca53FA302a0A1cE4be22B1072274Be",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d21201d6-baad-4a89-b0d5-6e8969b60b64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72D84A0FD9Ca53FA302a0A1cE4be22B1072274Be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72D84A0FD9Ca53FA302a0A1cE4be22B1072274Be/logo.png"
+    }
+  },
+  "name": "EthereumPlus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

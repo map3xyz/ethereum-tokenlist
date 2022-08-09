@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x598C9a4f069dC076984868873C01e78a905D50E6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "48e68dbe-02fb-4285-9e85-f44f302bf1f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x598C9a4f069dC076984868873C01e78a905D50E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x598C9a4f069dC076984868873C01e78a905D50E6/logo.png"
+    }
+  },
+  "name": "Ledgerium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XLG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

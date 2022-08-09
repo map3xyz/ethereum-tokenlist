@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69A3e8c6cF0Ff937a3F08607b6D6CB80DF8aE733",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d1673ce-c04c-4483-886e-54fedd916076",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x69A3e8c6cF0Ff937a3F08607b6D6CB80DF8aE733/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69A3e8c6cF0Ff937a3F08607b6D6CB80DF8aE733/logo.png"
+    }
+  },
+  "name": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDCash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

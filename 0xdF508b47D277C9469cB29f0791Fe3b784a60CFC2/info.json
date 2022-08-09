@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdF508b47D277C9469cB29f0791Fe3b784a60CFC2",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "42e5a9a5-57e3-459c-b83b-b859962f5e45",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF508b47D277C9469cB29f0791Fe3b784a60CFC2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF508b47D277C9469cB29f0791Fe3b784a60CFC2/logo.png"
+    }
+  },
+  "name": "BITDOLLAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

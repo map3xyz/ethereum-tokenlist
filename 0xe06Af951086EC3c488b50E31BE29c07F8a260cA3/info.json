@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe06Af951086EC3c488b50E31BE29c07F8a260cA3",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "a764d8fd-7211-4fac-9471-79beccb1b62a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe06Af951086EC3c488b50E31BE29c07F8a260cA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe06Af951086EC3c488b50E31BE29c07F8a260cA3/logo.png"
+    }
+  },
+  "name": "EXU Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

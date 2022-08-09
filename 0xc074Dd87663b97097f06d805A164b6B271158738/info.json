@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc074Dd87663b97097f06d805A164b6B271158738",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "089ee3c6-9aaf-4fad-9c19-bc60475c3692",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc074Dd87663b97097f06d805A164b6B271158738/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc074Dd87663b97097f06d805A164b6B271158738/logo.png"
+    }
+  },
+  "name": "SOON TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

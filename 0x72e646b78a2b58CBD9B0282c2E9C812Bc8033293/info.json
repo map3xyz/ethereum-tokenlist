@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9b0d264-a1dd-4417-9185-3fde15611148",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293/logo.png"
+    }
+  },
+  "name": "Lunox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

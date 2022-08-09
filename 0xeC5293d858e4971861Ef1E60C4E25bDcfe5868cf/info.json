@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeC5293d858e4971861Ef1E60C4E25bDcfe5868cf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "457876c4-806d-4e44-8795-f2e349dffe4e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeC5293d858e4971861Ef1E60C4E25bDcfe5868cf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeC5293d858e4971861Ef1E60C4E25bDcfe5868cf/logo.png"
+    }
+  },
+  "name": "TRE W  WIND TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRE W",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c32e3461-06ba-41bd-b442-13f1897ee417",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x037A54AaB062628C9Bbae1FDB1583c195585fe41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x037A54AaB062628C9Bbae1FDB1583c195585fe41/logo.png"
+    }
+  },
+  "name": "LCX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

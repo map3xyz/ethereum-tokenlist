@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3d2defe6-269d-4d4b-9a8a-11220ab736f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A/logo.png"
+    }
+  },
+  "name": "YFED.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

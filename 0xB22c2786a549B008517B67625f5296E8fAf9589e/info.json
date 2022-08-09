@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB22c2786a549B008517B67625f5296E8fAf9589e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c0badbe-7e8f-4824-a497-2c0e8a991b19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB22c2786a549B008517B67625f5296E8fAf9589e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB22c2786a549B008517B67625f5296E8fAf9589e/logo.png"
+    }
+  },
+  "name": "Rental Processor Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

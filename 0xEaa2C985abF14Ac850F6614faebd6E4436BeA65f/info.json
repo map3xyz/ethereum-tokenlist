@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEaa2C985abF14Ac850F6614faebd6E4436BeA65f",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "42368973-0571-4bc2-af53-5d18e4dc7837",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEaa2C985abF14Ac850F6614faebd6E4436BeA65f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEaa2C985abF14Ac850F6614faebd6E4436BeA65f/logo.png"
+    }
+  },
+  "name": "Shumo.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHUMO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

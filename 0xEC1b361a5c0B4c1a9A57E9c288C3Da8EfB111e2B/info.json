@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEC1b361a5c0B4c1a9A57E9c288C3Da8EfB111e2B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3d3d3e14-eeb1-4ad9-88a9-7ea6c71dba24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEC1b361a5c0B4c1a9A57E9c288C3Da8EfB111e2B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEC1b361a5c0B4c1a9A57E9c288C3Da8EfB111e2B/logo.png"
+    }
+  },
+  "name": "Lucinite",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-LU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF8F1B1c8a2F6D69D15002ED214C7f6cf38f15E20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8018fa78-971f-484a-8fc6-1db5566a348a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF8F1B1c8a2F6D69D15002ED214C7f6cf38f15E20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8F1B1c8a2F6D69D15002ED214C7f6cf38f15E20/logo.png"
+    }
+  },
+  "name": "777 TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "777",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

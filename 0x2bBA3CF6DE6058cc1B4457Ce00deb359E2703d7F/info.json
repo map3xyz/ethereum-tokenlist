@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "50f9cb4f-ccda-4934-b94d-12475c53729f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F/logo.png"
+    }
+  },
+  "name": "HashCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

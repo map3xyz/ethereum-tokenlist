@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x636ea377BaCbb41bF5A64400a2e5621407A898c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f74be2a-b5ff-4add-b10f-a52d015899d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x636ea377BaCbb41bF5A64400a2e5621407A898c4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x636ea377BaCbb41bF5A64400a2e5621407A898c4/logo.png"
+    }
+  },
+  "name": "Ten Billion Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

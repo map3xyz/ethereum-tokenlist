@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c5851c3a-323c-45df-9fec-e79ebe591906",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C/logo.png"
+    }
+  },
+  "name": "Cherry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHERRY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

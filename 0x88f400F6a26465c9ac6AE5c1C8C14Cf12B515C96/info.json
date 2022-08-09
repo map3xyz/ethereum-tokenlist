@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2953a3c6-7e21-4948-843a-c442daca970b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96/logo.png"
+    }
+  },
+  "name": "Virus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIRUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

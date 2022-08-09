@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa37cb0e224A6D57e636185D65AF9b97c3E940303",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f43cebd9-9b28-448c-a7e5-b3b571096994",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa37cb0e224A6D57e636185D65AF9b97c3E940303/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa37cb0e224A6D57e636185D65AF9b97c3E940303/logo.png"
+    }
+  },
+  "name": "WrapWBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eWBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

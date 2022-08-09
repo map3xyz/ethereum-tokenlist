@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD84E0a38b38bA686Cf98ce1b4eD278347e448b07",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ba1fda10-f020-48ab-8867-7048d93ef4ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD84E0a38b38bA686Cf98ce1b4eD278347e448b07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD84E0a38b38bA686Cf98ce1b4eD278347e448b07/logo.png"
+    }
+  },
+  "name": "EtherX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

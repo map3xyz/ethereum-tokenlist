@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af17f630-d6a8-4c22-ac91-978835efd901",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c/logo.png"
+    }
+  },
+  "name": "Saga",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

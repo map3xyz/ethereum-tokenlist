@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2562d0c1-4083-4acc-bb9b-8e491b29c2c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9/logo.png"
+    }
+  },
+  "name": "Revain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

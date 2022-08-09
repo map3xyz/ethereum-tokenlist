@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8AedB297FED4b6884b808ee61fAf0837713670d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2bef07c6-6c47-4494-b9ee-06460e8bb2a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8AedB297FED4b6884b808ee61fAf0837713670d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8AedB297FED4b6884b808ee61fAf0837713670d0/logo.png"
+    }
+  },
+  "name": "Wrapped MarbleCards",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

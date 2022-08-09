@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7E2a54ced53bcC12C6b537537da24c5a3C450844",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba6a2d3d-0302-4717-87f2-543aab752ebf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7E2a54ced53bcC12C6b537537da24c5a3C450844/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7E2a54ced53bcC12C6b537537da24c5a3C450844/logo.png"
+    }
+  },
+  "name": "IMGame",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

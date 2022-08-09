@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "60be63d5-36a7-476d-97bf-eaf2ec637d30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1/logo.png"
+    }
+  },
+  "name": "DogeFi.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DogeFi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

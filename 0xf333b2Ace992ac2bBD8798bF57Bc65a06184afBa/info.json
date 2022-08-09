@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "73a8e850-7d65-49f7-a44c-f1bf303629ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa/logo.png"
+    }
+  },
+  "name": "SND Token 1.0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

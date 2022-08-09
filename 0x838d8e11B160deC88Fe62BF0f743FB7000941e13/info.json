@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x838d8e11B160deC88Fe62BF0f743FB7000941e13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ddccd90-df97-4cf9-9ce2-3c9e569493f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x838d8e11B160deC88Fe62BF0f743FB7000941e13/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x838d8e11B160deC88Fe62BF0f743FB7000941e13/logo.png"
+    }
+  },
+  "name": "Krios/GIG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

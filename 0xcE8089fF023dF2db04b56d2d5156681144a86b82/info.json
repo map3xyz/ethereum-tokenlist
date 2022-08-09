@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcE8089fF023dF2db04b56d2d5156681144a86b82",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2aaa7726-edc7-4026-83c2-f98b9ae22f9d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcE8089fF023dF2db04b56d2d5156681144a86b82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcE8089fF023dF2db04b56d2d5156681144a86b82/logo.png"
+    }
+  },
+  "name": "Good Game Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

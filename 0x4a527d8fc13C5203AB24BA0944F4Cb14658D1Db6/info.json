@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c009a4d-67a6-4fd6-ae62-4d6e730a1e13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6/logo.png"
+    }
+  },
+  "name": "Morpheus Infrastructure Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MITx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

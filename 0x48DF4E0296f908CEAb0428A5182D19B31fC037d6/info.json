@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48DF4E0296f908CEAb0428A5182D19B31fC037d6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "59c6fc12-e29b-405f-8f92-568ef759eab0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48DF4E0296f908CEAb0428A5182D19B31fC037d6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48DF4E0296f908CEAb0428A5182D19B31fC037d6/logo.png"
+    }
+  },
+  "name": "Fitrova",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

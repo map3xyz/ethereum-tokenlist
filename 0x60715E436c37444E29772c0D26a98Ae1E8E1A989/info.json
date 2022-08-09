@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x60715E436c37444E29772c0D26a98Ae1E8E1A989",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0bc815d1-d112-451a-b63b-825a1b67f2cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60715E436c37444E29772c0D26a98Ae1E8E1A989/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60715E436c37444E29772c0D26a98Ae1E8E1A989/logo.png"
+    }
+  },
+  "name": "VOLTZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOLTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da63d348-aba3-426f-84b2-1e88722b2406",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688/logo.png"
+    }
+  },
+  "name": "Bridge Mutual",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

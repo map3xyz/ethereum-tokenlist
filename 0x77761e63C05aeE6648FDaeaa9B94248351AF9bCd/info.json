@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dda3f947-fb08-4d37-b807-c28fbd62e1a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd/logo.png"
+    }
+  },
+  "name": "PASS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PASS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

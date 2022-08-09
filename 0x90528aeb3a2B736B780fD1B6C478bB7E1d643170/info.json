@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90528aeb3a2B736B780fD1B6C478bB7E1d643170",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f0270a3-7c34-4afb-943e-4ae22166d21c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90528aeb3a2B736B780fD1B6C478bB7E1d643170/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90528aeb3a2B736B780fD1B6C478bB7E1d643170/logo.png"
+    }
+  },
+  "name": "XPlay Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

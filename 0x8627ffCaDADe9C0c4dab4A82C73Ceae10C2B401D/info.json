@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8627ffCaDADe9C0c4dab4A82C73Ceae10C2B401D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9dbc543a-19c4-4c9d-9bc8-1b1632136a72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8627ffCaDADe9C0c4dab4A82C73Ceae10C2B401D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8627ffCaDADe9C0c4dab4A82C73Ceae10C2B401D/logo.png"
+    }
+  },
+  "name": "FiberToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FBTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

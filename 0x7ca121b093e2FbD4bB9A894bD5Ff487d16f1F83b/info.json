@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aed522fd-d353-4070-a4a6-f8414dd19eba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b/logo.png"
+    }
+  },
+  "name": "LORDLESS TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

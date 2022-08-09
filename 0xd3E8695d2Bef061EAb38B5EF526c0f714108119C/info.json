@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "853be5c3-b095-48ea-9e58-75b567efc2cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd3E8695d2Bef061EAb38B5EF526c0f714108119C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd3E8695d2Bef061EAb38B5EF526c0f714108119C/logo.png"
+    }
+  },
+  "name": "YFIVE.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

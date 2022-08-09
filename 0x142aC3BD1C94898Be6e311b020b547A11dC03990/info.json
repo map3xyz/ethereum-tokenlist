@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x142aC3BD1C94898Be6e311b020b547A11dC03990",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e53d617-7857-46cc-9345-6ebfdda31f8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x142aC3BD1C94898Be6e311b020b547A11dC03990/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x142aC3BD1C94898Be6e311b020b547A11dC03990/logo.png"
+    }
+  },
+  "name": "Lambda Space Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAMBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

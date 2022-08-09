@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "86c1b9ef-3502-4a82-a44f-f905e05dc2dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df/logo.png"
+    }
+  },
+  "name": "United Traders Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

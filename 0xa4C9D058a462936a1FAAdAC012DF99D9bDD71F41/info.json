@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "726577eb-c1f1-4940-b592-ac0e872c8955",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4C9D058a462936a1FAAdAC012DF99D9bDD71F41/logo.png"
+    }
+  },
+  "name": "Diamond Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8cBD4D5FBeE7C99Cb2704e7c0031733A72834ff8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aee83deb-962a-46db-8b82-2354bc59a635",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8cBD4D5FBeE7C99Cb2704e7c0031733A72834ff8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8cBD4D5FBeE7C99Cb2704e7c0031733A72834ff8/logo.png"
+    }
+  },
+  "name": "UTOPIA CITIZEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

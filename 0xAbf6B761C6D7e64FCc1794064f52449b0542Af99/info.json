@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAbf6B761C6D7e64FCc1794064f52449b0542Af99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37bbb28d-8690-49b2-a03e-533122f879e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAbf6B761C6D7e64FCc1794064f52449b0542Af99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAbf6B761C6D7e64FCc1794064f52449b0542Af99/logo.png"
+    }
+  },
+  "name": "MeetOne Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

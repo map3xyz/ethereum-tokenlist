@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fca6309e-96f1-4832-bd68-2a066258a9f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5a84969bb663fb64F6d015DcF9F622Aedc796750/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a84969bb663fb64F6d015DcF9F622Aedc796750/logo.png"
+    }
+  },
+  "name": "IDICE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

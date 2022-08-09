@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "007087e6-8de2-4039-a459-dd3c77f4482f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb/logo.png"
+    }
+  },
+  "name": "CUBE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

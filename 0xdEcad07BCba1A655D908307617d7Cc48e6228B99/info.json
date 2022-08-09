@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdEcad07BCba1A655D908307617d7Cc48e6228B99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2fe27ef6-44ab-4c0c-9f50-d2e18f60564b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdEcad07BCba1A655D908307617d7Cc48e6228B99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdEcad07BCba1A655D908307617d7Cc48e6228B99/logo.png"
+    }
+  },
+  "name": "TPS+",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPS+",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

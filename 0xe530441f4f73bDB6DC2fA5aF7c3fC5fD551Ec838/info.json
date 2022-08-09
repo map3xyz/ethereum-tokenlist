@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6b280dd3-e70f-469d-839e-4109a8904fbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838/logo.png"
+    }
+  },
+  "name": "GSENetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

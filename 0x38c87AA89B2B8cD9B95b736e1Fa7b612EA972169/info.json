@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71c04d3d-18ea-46c3-8183-9379b84a6d65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169/logo.png"
+    }
+  },
+  "name": "AMO Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

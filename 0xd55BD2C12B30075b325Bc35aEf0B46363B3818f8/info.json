@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3971f3b-4d23-4f10-84f9-cafd04be7b6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8/logo.png"
+    }
+  },
+  "name": "Zombie.Finance(ZOMBIE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZOMBIE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

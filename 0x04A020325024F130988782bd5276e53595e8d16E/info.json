@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04A020325024F130988782bd5276e53595e8d16E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "64b1df7d-d2bf-42b6-b427-8c6e8e1e7b06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04A020325024F130988782bd5276e53595e8d16E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04A020325024F130988782bd5276e53595e8d16E/logo.png"
+    }
+  },
+  "name": "Herbalist Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HERB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

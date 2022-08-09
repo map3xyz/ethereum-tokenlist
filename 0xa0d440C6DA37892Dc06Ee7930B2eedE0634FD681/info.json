@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa0d440C6DA37892Dc06Ee7930B2eedE0634FD681",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f7a14a51-88e8-4295-93c4-2aa360edb781",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0d440C6DA37892Dc06Ee7930B2eedE0634FD681/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0d440C6DA37892Dc06Ee7930B2eedE0634FD681/logo.png"
+    }
+  },
+  "name": "MasterNet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

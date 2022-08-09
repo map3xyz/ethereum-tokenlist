@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeb05aa5d9AA6EA4858b8ea63926cB2ec4c94bD8D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c561cb7-8020-4b6d-814c-1d4bae0451cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeb05aa5d9AA6EA4858b8ea63926cB2ec4c94bD8D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb05aa5d9AA6EA4858b8ea63926cB2ec4c94bD8D/logo.png"
+    }
+  },
+  "name": "Epic Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

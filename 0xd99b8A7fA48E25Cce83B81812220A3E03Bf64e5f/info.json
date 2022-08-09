@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd99b8A7fA48E25Cce83B81812220A3E03Bf64e5f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7948f91f-a7a3-4361-b57a-36215f867333",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd99b8A7fA48E25Cce83B81812220A3E03Bf64e5f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd99b8A7fA48E25Cce83B81812220A3E03Bf64e5f/logo.png"
+    }
+  },
+  "name": "Skrumble Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

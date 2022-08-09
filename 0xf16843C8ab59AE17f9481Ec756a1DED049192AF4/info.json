@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf16843C8ab59AE17f9481Ec756a1DED049192AF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92cc7da4-5952-491e-ac6f-8dddb4801ea7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf16843C8ab59AE17f9481Ec756a1DED049192AF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf16843C8ab59AE17f9481Ec756a1DED049192AF4/logo.png"
+    }
+  },
+  "name": "比特链",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

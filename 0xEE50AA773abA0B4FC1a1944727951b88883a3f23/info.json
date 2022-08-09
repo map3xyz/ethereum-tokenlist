@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE50AA773abA0B4FC1a1944727951b88883a3f23",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "550e47d4-eb2a-4dd0-898f-6657bb5b4244",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE50AA773abA0B4FC1a1944727951b88883a3f23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE50AA773abA0B4FC1a1944727951b88883a3f23/logo.png"
+    }
+  },
+  "name": "Taurus Group SA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

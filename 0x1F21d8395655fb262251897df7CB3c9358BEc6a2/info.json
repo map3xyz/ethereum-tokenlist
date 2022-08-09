@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F21d8395655fb262251897df7CB3c9358BEc6a2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b61bb377-2e4e-4f79-a280-6f7ac9f38d25",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F21d8395655fb262251897df7CB3c9358BEc6a2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F21d8395655fb262251897df7CB3c9358BEc6a2/logo.png"
+    }
+  },
+  "name": "IRONCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33d97688-f2f3-4c43-b6ad-bfd22530587c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c/logo.png"
+    }
+  },
+  "name": "Touch Smart Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

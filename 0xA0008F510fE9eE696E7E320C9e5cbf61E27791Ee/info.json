@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4c83c3d-96fa-4eec-950d-98c96d9f587b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee/logo.png"
+    }
+  },
+  "name": "GMB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

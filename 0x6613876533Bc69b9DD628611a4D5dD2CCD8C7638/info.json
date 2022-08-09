@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "95625644-031e-4b51-9f02-fd89b8e58245",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638/logo.png"
+    }
+  },
+  "name": "Toqqn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TQN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

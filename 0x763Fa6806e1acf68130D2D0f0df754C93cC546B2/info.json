@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5c4bae5e-3386-4470-973d-37167941b2dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2/logo.png"
+    }
+  },
+  "name": "LITION",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

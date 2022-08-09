@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3159e6eb-2748-4830-9d4a-6c6cd910bc0d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png"
+    }
+  },
+  "name": "Power Ledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POWR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

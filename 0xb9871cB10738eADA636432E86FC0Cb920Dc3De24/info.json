@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb9871cB10738eADA636432E86FC0Cb920Dc3De24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "488f08fe-4a53-4534-a2b3-cf8e06966960",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb9871cB10738eADA636432E86FC0Cb920Dc3De24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb9871cB10738eADA636432E86FC0Cb920Dc3De24/logo.png"
+    }
+  },
+  "name": "PRIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

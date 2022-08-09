@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a49d7d2d-500d-42f9-88f2-7bc0b687b6de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f/logo.png"
+    }
+  },
+  "name": "Palmes",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

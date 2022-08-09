@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "166c5362-258c-4ca4-a685-710d4a8f1b47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969/logo.png"
+    }
+  },
+  "name": "Snovio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNOV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd09B4a4Cc6F092959478C693F3933cD27dA75244",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b67cc5bc-4300-46e0-aeaf-7b1375487be3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd09B4a4Cc6F092959478C693F3933cD27dA75244/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd09B4a4Cc6F092959478C693F3933cD27dA75244/logo.png"
+    }
+  },
+  "name": "Compound Zai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cZAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

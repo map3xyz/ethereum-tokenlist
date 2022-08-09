@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "16d1e75b-d5da-4e16-8821-14a3eb48646a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618/logo.png"
+    }
+  },
+  "name": "oneWING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneWING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

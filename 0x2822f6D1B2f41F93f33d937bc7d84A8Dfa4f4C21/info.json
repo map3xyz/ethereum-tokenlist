@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8902740b-f96b-45da-a50d-33b287b5d8dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21/logo.png"
+    }
+  },
+  "name": "QQQ Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QQQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

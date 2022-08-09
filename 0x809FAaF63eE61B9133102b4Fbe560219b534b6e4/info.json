@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x809FAaF63eE61B9133102b4Fbe560219b534b6e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86ed7bf6-5cd4-4164-9eaa-1f2cbb582aae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x809FAaF63eE61B9133102b4Fbe560219b534b6e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x809FAaF63eE61B9133102b4Fbe560219b534b6e4/logo.png"
+    }
+  },
+  "name": "PurpleCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

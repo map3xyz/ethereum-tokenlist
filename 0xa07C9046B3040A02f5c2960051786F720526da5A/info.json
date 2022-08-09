@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa07C9046B3040A02f5c2960051786F720526da5A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebd44a2e-d065-48a1-9ab2-b0bef91abd6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa07C9046B3040A02f5c2960051786F720526da5A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa07C9046B3040A02f5c2960051786F720526da5A/logo.png"
+    }
+  },
+  "name": "Dana-X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Dana-X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

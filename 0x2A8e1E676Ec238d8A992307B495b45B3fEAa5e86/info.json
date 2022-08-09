@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbc05222-a7f8-4d72-8d00-1c8b9cb436d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86/logo.png"
+    }
+  },
+  "name": "Origin Dollar (OUSD)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

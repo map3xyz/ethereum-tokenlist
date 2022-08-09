@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x871baeD4088b863fd6407159f3672D70CD34837d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8320886e-0240-4820-947a-05972d342e3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x871baeD4088b863fd6407159f3672D70CD34837d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x871baeD4088b863fd6407159f3672D70CD34837d/logo.png"
+    }
+  },
+  "name": " 3X Long Ethereum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19E657fc2eE039da76Aff32bf58C2DdCB9b0f9ba",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9d9eaf50-efb6-4795-9e10-c411ddb217e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19E657fc2eE039da76Aff32bf58C2DdCB9b0f9ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19E657fc2eE039da76Aff32bf58C2DdCB9b0f9ba/logo.png"
+    }
+  },
+  "name": "FleaChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3cf449cf-8e23-4a5b-8047-6fb6d694a1ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd/logo.png"
+    }
+  },
+  "name": "BOOM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOOM",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

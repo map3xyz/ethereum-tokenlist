@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x638155F4BD8F85d401Da32498D8866eE39A150B8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9660a396-ce48-4f5c-8b21-ddc7fe2ff301",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x638155F4BD8F85d401Da32498D8866eE39A150B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x638155F4BD8F85d401Da32498D8866eE39A150B8/logo.png"
+    }
+  },
+  "name": "Jura",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JREX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0DB953dD0668047601771AD901a2069b70a74e0E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "adde8326-7918-4225-9af0-7e0a60c6fce4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0DB953dD0668047601771AD901a2069b70a74e0E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0DB953dD0668047601771AD901a2069b70a74e0E/logo.png"
+    }
+  },
+  "name": "Atomlogy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

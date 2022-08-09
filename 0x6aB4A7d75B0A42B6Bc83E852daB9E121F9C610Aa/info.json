@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d27b172-249f-4c42-b618-ee2d0d9f3c2a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa/logo.png"
+    }
+  },
+  "name": "Elitium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

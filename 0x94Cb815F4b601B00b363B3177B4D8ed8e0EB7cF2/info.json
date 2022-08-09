@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94Cb815F4b601B00b363B3177B4D8ed8e0EB7cF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab18240b-ac7d-40bc-b9ea-b30c8c3d151a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94Cb815F4b601B00b363B3177B4D8ed8e0EB7cF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94Cb815F4b601B00b363B3177B4D8ed8e0EB7cF2/logo.png"
+    }
+  },
+  "name": "Coin Controller Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

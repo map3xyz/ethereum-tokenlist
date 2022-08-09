@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19B58d95929586Ad750893CAad43E77aa6e8Ce9E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "455b2758-7658-4ab7-95ff-2215ec83a1ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19B58d95929586Ad750893CAad43E77aa6e8Ce9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19B58d95929586Ad750893CAad43E77aa6e8Ce9E/logo.png"
+    }
+  },
+  "name": "CelCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CELC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

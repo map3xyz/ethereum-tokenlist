@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x632F62FCf63cb56380ffD27d63afcF5F1349f73f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e6e6933d-d0b9-4449-aeba-5e9dc96d9922",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x632F62FCf63cb56380ffD27d63afcF5F1349f73f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x632F62FCf63cb56380ffD27d63afcF5F1349f73f/logo.png"
+    }
+  },
+  "name": "CryptoHarborExchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

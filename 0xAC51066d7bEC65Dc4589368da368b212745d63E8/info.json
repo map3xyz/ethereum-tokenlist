@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "de12b7ca-d973-4043-9e14-328bc2c93a1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png"
+    }
+  },
+  "name": "My Neighbor Alice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

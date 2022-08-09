@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41e8e26c-dd24-4ce1-8071-fc3ce1cba38f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x2ba592F78dB6436527729929AAf6c908497cB200/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ba592F78dB6436527729929AAf6c908497cB200/logo.png"
+    }
+  },
+  "name": "Cream Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

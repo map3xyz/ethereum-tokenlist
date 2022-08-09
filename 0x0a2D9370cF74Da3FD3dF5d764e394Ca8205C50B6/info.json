@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c86ac32e-293d-4a66-b861-9da26a71a22b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6/logo.png"
+    }
+  },
+  "name": "SAVE ENVIRONMENT TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

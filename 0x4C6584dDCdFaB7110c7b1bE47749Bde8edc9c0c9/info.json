@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91d6f078-5a1d-449b-bb75-172eeed42c26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9/logo.png"
+    }
+  },
+  "name": "INFINITY Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

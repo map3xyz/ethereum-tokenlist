@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5eBDd407FE6D47eC4af2DbBEf7d790100C567aB6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "70bf9e48-ebc6-458b-9172-78c48a9f88d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5eBDd407FE6D47eC4af2DbBEf7d790100C567aB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5eBDd407FE6D47eC4af2DbBEf7d790100C567aB6/logo.png"
+    }
+  },
+  "name": "Bmplfort",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

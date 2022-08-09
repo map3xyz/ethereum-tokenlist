@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3acf9bf9-72e9-4764-ac58-de3d41980d48",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037/logo.png"
+    }
+  },
+  "name": "SENTinel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SENT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

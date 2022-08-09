@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA28d2EC98C6bb076A2e152dC9e0d94C8C01e36B0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c9a2874-932f-4ee6-b4b9-dadf829685fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA28d2EC98C6bb076A2e152dC9e0d94C8C01e36B0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA28d2EC98C6bb076A2e152dC9e0d94C8C01e36B0/logo.png"
+    }
+  },
+  "name": "Strike COMP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sCOMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

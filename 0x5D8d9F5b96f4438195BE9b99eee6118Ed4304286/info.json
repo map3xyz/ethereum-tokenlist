@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43aa58b1-da1c-483f-af5e-3c008f8a5aea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286/logo.png"
+    }
+  },
+  "name": "Old Cover Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COVER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a677242-c90e-48ab-94e1-8c0e88b28829",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50/logo.png"
+    }
+  },
+  "name": "Convergence",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CONV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

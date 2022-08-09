@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63cf5e85-705c-4c84-bfbe-3c0ca057d10c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841/logo.png"
+    }
+  },
+  "name": "Content and Ad Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

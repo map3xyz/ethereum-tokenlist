@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5A1A29DBb6Ad6153DB764568C1289076bC876df6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9952993-fc53-4466-94e6-ccd88e4037e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A1A29DBb6Ad6153DB764568C1289076bC876df6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5A1A29DBb6Ad6153DB764568C1289076bC876df6/logo.png"
+    }
+  },
+  "name": "NeworkCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

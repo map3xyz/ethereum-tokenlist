@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd3b5a4ca369a8E68dA6218ee322467ccec4Dd800",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17910de1-fab1-4e9b-a011-88dc7e82890e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd3b5a4ca369a8E68dA6218ee322467ccec4Dd800/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd3b5a4ca369a8E68dA6218ee322467ccec4Dd800/logo.png"
+    }
+  },
+  "name": "CryptoRiyal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

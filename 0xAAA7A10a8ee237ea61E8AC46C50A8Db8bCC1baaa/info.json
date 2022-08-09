@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "adf2600a-795c-4331-b518-e71632dc86d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa/logo.png"
+    }
+  },
+  "name": "QANX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QANX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

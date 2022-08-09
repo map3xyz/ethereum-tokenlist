@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Eb6E56aAcae6A21BdE99c826ac798D225488C3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5685f71e-ea79-4875-91b4-a7deae89a0a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Eb6E56aAcae6A21BdE99c826ac798D225488C3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Eb6E56aAcae6A21BdE99c826ac798D225488C3D/logo.png"
+    }
+  },
+  "name": "Crypto Revolution",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x985db5e4DD183d2C8f72dB113B8e022a3D059516",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "38faf3b9-deca-44b1-a780-a63181e64faa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x985db5e4DD183d2C8f72dB113B8e022a3D059516/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x985db5e4DD183d2C8f72dB113B8e022a3D059516/logo.png"
+    }
+  },
+  "name": "PesaChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PESA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

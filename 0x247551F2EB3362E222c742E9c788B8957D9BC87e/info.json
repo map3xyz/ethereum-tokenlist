@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fffbbbd0-0062-4294-b5c7-ecccfce6b620",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x247551F2EB3362E222c742E9c788B8957D9BC87e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x247551F2EB3362E222c742E9c788B8957D9BC87e/logo.png"
+    }
+  },
+  "name": "GNY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

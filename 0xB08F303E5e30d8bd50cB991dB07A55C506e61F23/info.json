@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB08F303E5e30d8bd50cB991dB07A55C506e61F23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b105d60d-e036-47b2-8107-b87f94ce42a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB08F303E5e30d8bd50cB991dB07A55C506e61F23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB08F303E5e30d8bd50cB991dB07A55C506e61F23/logo.png"
+    }
+  },
+  "name": "Ethwidget",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EWDG2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

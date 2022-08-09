@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9826299A4DF8bF3A38452f8fE1a75B660EC7cbB3",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "99345f28-6e3c-484c-8f5e-7d558c830e8f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9826299A4DF8bF3A38452f8fE1a75B660EC7cbB3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9826299A4DF8bF3A38452f8fE1a75B660EC7cbB3/logo.png"
+    }
+  },
+  "name": "Fazliq Iirfan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FQN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4b6664bb81bD7314aE65eAB2eE675505e3E9cB6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "ee1e7b5a-606a-456b-b9c0-61df4a6cfcdc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF4b6664bb81bD7314aE65eAB2eE675505e3E9cB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4b6664bb81bD7314aE65eAB2eE675505e3E9cB6/logo.png"
+    }
+  },
+  "name": "DINESHTECH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

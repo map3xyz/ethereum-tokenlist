@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcaD49C39B72c37B32cEe8b14F33F316D3a8bC335",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9bf94d28-c900-49d4-8632-647a62123ebf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcaD49C39B72c37B32cEe8b14F33F316D3a8bC335/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcaD49C39B72c37B32cEe8b14F33F316D3a8bC335/logo.png"
+    }
+  },
+  "name": "SODA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

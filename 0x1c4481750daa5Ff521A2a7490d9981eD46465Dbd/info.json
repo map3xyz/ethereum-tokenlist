@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c03d98f-a70e-42ed-a97c-80550916aa43",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd/logo.png"
+    }
+  },
+  "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

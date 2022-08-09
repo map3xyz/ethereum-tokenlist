@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68ca3c24-bf0a-496c-82f1-827c4dafd5bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf/logo.png"
+    }
+  },
+  "name": "Reef",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REEF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09c38c46-3fea-483f-935a-0ef7a5e19122",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3/logo.png"
+    }
+  },
+  "name": "Pundi X (Old)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPXS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

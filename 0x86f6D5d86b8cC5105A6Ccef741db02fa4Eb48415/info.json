@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b655d0d7-8113-4b49-8224-c3a918ecec75",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415/logo.png"
+    }
+  },
+  "name": "LONDONCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LONDON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

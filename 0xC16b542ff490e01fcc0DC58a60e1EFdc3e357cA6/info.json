@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a294849a-53f0-4475-8cb2-aab0a49f8a72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6/logo.png"
+    }
+  },
+  "name": "ICE ROCK MINING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROCK2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

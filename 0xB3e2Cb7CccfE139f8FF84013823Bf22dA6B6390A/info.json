@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88a4145c-d37f-407c-81cd-a1008963bfb9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A/logo.png"
+    }
+  },
+  "name": "Iconiq Lab Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICNQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

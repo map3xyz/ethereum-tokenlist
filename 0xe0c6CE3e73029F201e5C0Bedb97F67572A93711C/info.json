@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "919afa23-fa77-4638-b7b9-f283b8e2d556",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C/logo.png"
+    }
+  },
+  "name": "ETHplode",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHPLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

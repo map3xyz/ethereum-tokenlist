@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44534d68-e356-4477-8892-1dfd71876418",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd780Ae2Bf04cD96E577D3D014762f831d97129d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd780Ae2Bf04cD96E577D3D014762f831d97129d0/logo.png"
+    }
+  },
+  "name": "Envion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

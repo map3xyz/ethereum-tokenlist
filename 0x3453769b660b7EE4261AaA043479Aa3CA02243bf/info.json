@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58c746d2-57c0-46c9-b5cf-32fcdac73c33",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3453769b660b7EE4261AaA043479Aa3CA02243bf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3453769b660b7EE4261AaA043479Aa3CA02243bf/logo.png"
+    }
+  },
+  "name": "LaserCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LZR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

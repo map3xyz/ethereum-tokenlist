@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9797e117-675e-4f42-9b93-d6c9ddff62a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677/logo.png"
+    }
+  },
+  "name": "Data link base",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DLB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8447e104-6fde-464b-be92-11be8f9b6ceb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA/logo.png"
+    }
+  },
+  "name": "HeroCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

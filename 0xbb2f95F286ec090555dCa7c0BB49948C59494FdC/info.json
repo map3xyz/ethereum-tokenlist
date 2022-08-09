@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbb2f95F286ec090555dCa7c0BB49948C59494FdC",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "35f05aef-8e24-4b36-b023-b24f42411cae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbb2f95F286ec090555dCa7c0BB49948C59494FdC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb2f95F286ec090555dCa7c0BB49948C59494FdC/logo.png"
+    }
+  },
+  "name": "Rupiah Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

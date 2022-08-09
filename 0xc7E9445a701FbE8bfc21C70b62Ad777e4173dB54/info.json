@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc7E9445a701FbE8bfc21C70b62Ad777e4173dB54",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "586afdbe-0e76-4be2-98a3-2c2ed6f1cc70",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7E9445a701FbE8bfc21C70b62Ad777e4173dB54/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7E9445a701FbE8bfc21C70b62Ad777e4173dB54/logo.png"
+    }
+  },
+  "name": "EternalCoin ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

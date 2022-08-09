@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f961c328a96c23216B97b58947c2e8a741DE912",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "cc1f04a8-ffd9-4885-98cd-6662cc75bc4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f961c328a96c23216B97b58947c2e8a741DE912/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f961c328a96c23216B97b58947c2e8a741DE912/logo.png"
+    }
+  },
+  "name": "HOLLA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

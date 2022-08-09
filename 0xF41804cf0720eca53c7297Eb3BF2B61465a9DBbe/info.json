@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF41804cf0720eca53c7297Eb3BF2B61465a9DBbe",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "ff3480e5-7c69-42ab-884c-77688188f2bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF41804cf0720eca53c7297Eb3BF2B61465a9DBbe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF41804cf0720eca53c7297Eb3BF2B61465a9DBbe/logo.png"
+    }
+  },
+  "name": "BRO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

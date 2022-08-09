@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x482f63DD7d64C601e6319D4A66Ee49496D3bD377",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93dc6c94-5fe9-463f-a1f0-13d320be1c19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x482f63DD7d64C601e6319D4A66Ee49496D3bD377/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x482f63DD7d64C601e6319D4A66Ee49496D3bD377/logo.png"
+    }
+  },
+  "name": "Techshare Token (TCL)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

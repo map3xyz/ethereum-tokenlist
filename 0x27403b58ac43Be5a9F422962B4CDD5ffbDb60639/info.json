@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27403b58ac43Be5a9F422962B4CDD5ffbDb60639",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12905c35-910e-4685-9c94-459d338b9f57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27403b58ac43Be5a9F422962B4CDD5ffbDb60639/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27403b58ac43Be5a9F422962B4CDD5ffbDb60639/logo.png"
+    }
+  },
+  "name": "Bcnex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

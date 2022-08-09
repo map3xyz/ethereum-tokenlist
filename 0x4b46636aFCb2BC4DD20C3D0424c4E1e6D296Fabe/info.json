@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b46636aFCb2BC4DD20C3D0424c4E1e6D296Fabe",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8126e8f0-929e-451e-97f1-a148995f23f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b46636aFCb2BC4DD20C3D0424c4E1e6D296Fabe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b46636aFCb2BC4DD20C3D0424c4E1e6D296Fabe/logo.png"
+    }
+  },
+  "name": "ExtraCurio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CURIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

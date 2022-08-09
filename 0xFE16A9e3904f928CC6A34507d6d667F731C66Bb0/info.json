@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFE16A9e3904f928CC6A34507d6d667F731C66Bb0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a7b77b9d-390b-4960-b357-629dd85fadff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFE16A9e3904f928CC6A34507d6d667F731C66Bb0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFE16A9e3904f928CC6A34507d6d667F731C66Bb0/logo.png"
+    }
+  },
+  "name": "Easy Deals",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

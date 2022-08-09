@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d823878-7fe6-455c-be32-a88173b66d2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFe2e637202056d30016725477c5da089Ab0A043A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFe2e637202056d30016725477c5da089Ab0A043A/logo.png"
+    }
+  },
+  "name": "StakeWise sETH2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sETH2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

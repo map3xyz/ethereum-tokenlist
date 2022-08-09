@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF77f4810e7521298a6e2a04f82A6c3492706d74F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4142b5f9-42b5-49ba-9a41-dc0dad232216",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF77f4810e7521298a6e2a04f82A6c3492706d74F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF77f4810e7521298a6e2a04f82A6c3492706d74F/logo.png"
+    }
+  },
+  "name": "CoinMeet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

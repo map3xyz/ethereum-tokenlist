@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d6c80ca-bc39-46f3-b6f0-a21e1dd898c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607/logo.png"
+    }
+  },
+  "name": "Swarm City Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

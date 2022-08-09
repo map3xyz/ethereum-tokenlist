@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1563D521ba309e2Ad9f4aFfD6f4dE9759E8d4F21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a7fef47-24de-4bdb-b228-a9d821425511",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1563D521ba309e2Ad9f4aFfD6f4dE9759E8d4F21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1563D521ba309e2Ad9f4aFfD6f4dE9759E8d4F21/logo.png"
+    }
+  },
+  "name": "VisionX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

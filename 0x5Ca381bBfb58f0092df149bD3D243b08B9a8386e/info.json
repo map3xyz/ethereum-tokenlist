@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cfaf7e0d-5427-41c0-be94-4de592a4e496",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png"
+    }
+  },
+  "name": "MXCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

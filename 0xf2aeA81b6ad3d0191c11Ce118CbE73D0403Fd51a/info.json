@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf2aeA81b6ad3d0191c11Ce118CbE73D0403Fd51a",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9d9d5687-1545-44e2-ab0f-f7d466b8ebde",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf2aeA81b6ad3d0191c11Ce118CbE73D0403Fd51a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf2aeA81b6ad3d0191c11Ce118CbE73D0403Fd51a/logo.png"
+    }
+  },
+  "name": "EtherUtilityToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

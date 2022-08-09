@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x688478f003b8D0F10b8af2122bF20378555EF958",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f7ff30dc-b92e-48c5-956d-908eed4188c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x688478f003b8D0F10b8af2122bF20378555EF958/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x688478f003b8D0F10b8af2122bF20378555EF958/logo.png"
+    }
+  },
+  "name": "BolttCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOLTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

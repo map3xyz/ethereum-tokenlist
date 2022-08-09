@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2c252d5c-891a-40e3-b138-35252fc6c7ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB24754bE79281553dc1adC160ddF5Cd9b74361a4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB24754bE79281553dc1adC160ddF5Cd9b74361a4/logo.png"
+    }
+  },
+  "name": "RIALTO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

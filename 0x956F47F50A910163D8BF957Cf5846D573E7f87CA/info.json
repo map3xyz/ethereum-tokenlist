@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd6636c7-66fe-4472-a2e7-f24e7dead5d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
+    }
+  },
+  "name": "Fei USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "92d42f1b-5c3f-4925-a128-17e35a623a7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A/logo.png"
+    }
+  },
+  "name": "Casino Land Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2ac83f2-2087-464f-8912-0aa0d8fc9772",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13119E34E140097a507B07a5564bDe1bC375D9e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13119E34E140097a507B07a5564bDe1bC375D9e6/logo.png"
+    }
+  },
+  "name": "MoneyToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

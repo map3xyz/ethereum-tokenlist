@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51B0dFD23f45e0700C598BBB91beE60e0a175c1B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c239a67f-3861-4829-9acd-4f7f73c60f3c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51B0dFD23f45e0700C598BBB91beE60e0a175c1B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51B0dFD23f45e0700C598BBB91beE60e0a175c1B/logo.png"
+    }
+  },
+  "name": "FriendsCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FZC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

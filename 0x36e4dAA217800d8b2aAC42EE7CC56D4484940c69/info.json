@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fe16140a-5700-49f5-bf0c-955283476b9b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69/logo.png"
+    }
+  },
+  "name": "AntariX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

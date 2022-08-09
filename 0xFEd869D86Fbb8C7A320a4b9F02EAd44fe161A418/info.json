@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFEd869D86Fbb8C7A320a4b9F02EAd44fe161A418",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2a8fa7f0-2b73-4540-9d8e-ec2b0bb7db98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFEd869D86Fbb8C7A320a4b9F02EAd44fe161A418/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFEd869D86Fbb8C7A320a4b9F02EAd44fe161A418/logo.png"
+    }
+  },
+  "name": "Film Vault Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FILMVAULT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

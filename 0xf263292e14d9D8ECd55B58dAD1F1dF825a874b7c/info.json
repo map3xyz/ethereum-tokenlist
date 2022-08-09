@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0357a749-438a-4a87-8464-ff57d65c1742",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c/logo.png"
+    }
+  },
+  "name": "EduCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

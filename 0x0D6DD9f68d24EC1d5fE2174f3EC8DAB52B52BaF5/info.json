@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0D6DD9f68d24EC1d5fE2174f3EC8DAB52B52BaF5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f1b20b5-500f-4355-a5d7-69374180ea54",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D6DD9f68d24EC1d5fE2174f3EC8DAB52B52BaF5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0D6DD9f68d24EC1d5fE2174f3EC8DAB52B52BaF5/logo.png"
+    }
+  },
+  "name": "KMCC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

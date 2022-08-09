@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6aD7a6750A7593E092a9B218d66C0A814a3436e",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cc6eeaa3-09e4-42ed-8957-b56ad2cdf17d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6aD7a6750A7593E092a9B218d66C0A814a3436e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6aD7a6750A7593E092a9B218d66C0A814a3436e/logo.png"
+    }
+  },
+  "name": "iearn USDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

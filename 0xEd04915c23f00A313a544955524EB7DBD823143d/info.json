@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "061dec6d-77c2-4b52-b482-205e19b409b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png"
+    }
+  },
+  "name": "Alchemy (ACH)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

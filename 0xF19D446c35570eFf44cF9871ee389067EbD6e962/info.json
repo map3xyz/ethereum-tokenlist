@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF19D446c35570eFf44cF9871ee389067EbD6e962",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "93698b2b-4444-4dfe-8ee4-06883aa7faa3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF19D446c35570eFf44cF9871ee389067EbD6e962/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF19D446c35570eFf44cF9871ee389067EbD6e962/logo.png"
+    }
+  },
+  "name": "TearFiat",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFiat",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

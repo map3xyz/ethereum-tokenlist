@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA1BA7186eeC1Be5114b0Cf49b95B23aDC4131B51",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "4b34e4b5-7f01-4900-8ab3-8b4d84a33776",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA1BA7186eeC1Be5114b0Cf49b95B23aDC4131B51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA1BA7186eeC1Be5114b0Cf49b95B23aDC4131B51/logo.png"
+    }
+  },
+  "name": "FTI NEWS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TECH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

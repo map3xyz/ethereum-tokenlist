@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8db6703a-cf1f-4a5c-91bb-bd67715af37a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x76acE4E080C49F04A6C12756c036d3627F6B1e69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76acE4E080C49F04A6C12756c036d3627F6B1e69/logo.png"
+    }
+  },
+  "name": "InterGalactic Credit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

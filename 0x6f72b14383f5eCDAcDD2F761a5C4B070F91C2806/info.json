@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9f22e91a-854c-4de8-923c-ec3f447e89c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806/logo.png"
+    }
+  },
+  "name": "Melt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MELT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

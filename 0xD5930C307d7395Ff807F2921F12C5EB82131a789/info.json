@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD5930C307d7395Ff807F2921F12C5EB82131a789",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c5995e9-0191-4fa9-a31a-077246c66501",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD5930C307d7395Ff807F2921F12C5EB82131a789/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD5930C307d7395Ff807F2921F12C5EB82131a789/logo.png"
+    }
+  },
+  "name": "Bolt Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

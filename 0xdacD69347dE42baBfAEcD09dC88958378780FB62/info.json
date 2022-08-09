@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5133545d-f16b-41f6-a056-445083b4ac41",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdacD69347dE42baBfAEcD09dC88958378780FB62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdacD69347dE42baBfAEcD09dC88958378780FB62/logo.png"
+    }
+  },
+  "name": "Atari Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

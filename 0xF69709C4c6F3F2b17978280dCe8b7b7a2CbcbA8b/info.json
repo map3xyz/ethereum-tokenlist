@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF69709C4c6F3F2b17978280dCe8b7b7a2CbcbA8b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea06a0aa-cd8c-4256-92db-71cc4750548d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF69709C4c6F3F2b17978280dCe8b7b7a2CbcbA8b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF69709C4c6F3F2b17978280dCe8b7b7a2CbcbA8b/logo.png"
+    }
+  },
+  "name": "Atidium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

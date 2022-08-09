@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e5c38a59-6ced-45c2-92aa-9fdec0e3fb94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2a469A22101f1F672B745D729D13Ab8DBd203C9B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a469A22101f1F672B745D729D13Ab8DBd203C9B/logo.png"
+    }
+  },
+  "name": "COINSTO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

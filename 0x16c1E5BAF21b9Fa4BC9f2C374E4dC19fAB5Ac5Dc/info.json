@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4edb5995-4903-470e-9320-b06746b8d396",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc/logo.png"
+    }
+  },
+  "name": "APOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "eddedacb-6688-4b4f-a0fb-e3ae02857d9b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA/logo.png"
+    }
+  },
+  "name": "Gala",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

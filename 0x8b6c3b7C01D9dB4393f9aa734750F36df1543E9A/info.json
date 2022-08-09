@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3041f80-1d2a-4790-82c7-57df4b59b0ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A/logo.png"
+    }
+  },
+  "name": "VI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

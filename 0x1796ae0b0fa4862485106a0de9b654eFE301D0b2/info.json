@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eaf4fce2-65df-4930-b3c3-b0a0e92d0364",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2/logo.png"
+    }
+  },
+  "name": "Polychain Monsters",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

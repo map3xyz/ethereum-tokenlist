@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x89303500a7Abfb178B274FD89F2469C264951e1f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2d0b46db-716d-4f38-89ed-d2dd7622b61a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89303500a7Abfb178B274FD89F2469C264951e1f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89303500a7Abfb178B274FD89F2469C264951e1f/logo.png"
+    }
+  },
+  "name": "RefToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

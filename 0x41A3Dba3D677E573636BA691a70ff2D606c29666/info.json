@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a99989e-c0a6-4e46-bf9a-66375e2f7957",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x41A3Dba3D677E573636BA691a70ff2D606c29666/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41A3Dba3D677E573636BA691a70ff2D606c29666/logo.png"
+    }
+  },
+  "name": "GoBlank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "173ec97a-917f-4e11-b283-cb6a87e7c7be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798/logo.png"
+    }
+  },
+  "name": "TianHone Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

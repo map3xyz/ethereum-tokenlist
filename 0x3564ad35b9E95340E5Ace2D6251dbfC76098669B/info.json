@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3564ad35b9E95340E5Ace2D6251dbfC76098669B",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cc65c1b9-f81b-4377-8726-77f474b026e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3564ad35b9E95340E5Ace2D6251dbfC76098669B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3564ad35b9E95340E5Ace2D6251dbfC76098669B/logo.png"
+    }
+  },
+  "name": "DMM: USDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

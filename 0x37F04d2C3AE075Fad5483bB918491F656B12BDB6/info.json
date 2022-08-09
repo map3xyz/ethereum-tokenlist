@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "03544050-323d-442f-827e-d6e73de2c458",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6/logo.png"
+    }
+  },
+  "name": "Vestchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7b415e8d-c0bd-4286-98f5-6b4e69e0404d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6ff313FB38d53d7A458860b1bf7512f54a03e968/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6ff313FB38d53d7A458860b1bf7512f54a03e968/logo.png"
+    }
+  },
+  "name": "Mero Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

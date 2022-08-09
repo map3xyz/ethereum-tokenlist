@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f10e79a5-1edb-42ce-bc4b-e16327a3b15e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6/logo.png"
+    }
+  },
+  "name": "QURA GLOBAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QURA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xecd570bBf74761b960Fa04Cc10fe2c4e86FfDA36",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ae933cfd-242e-4b22-9ed3-d996fb71b30e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xecd570bBf74761b960Fa04Cc10fe2c4e86FfDA36/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xecd570bBf74761b960Fa04Cc10fe2c4e86FfDA36/logo.png"
+    }
+  },
+  "name": "STASHPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

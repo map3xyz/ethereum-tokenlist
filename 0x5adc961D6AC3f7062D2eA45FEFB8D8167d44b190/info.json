@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1a38d28-3817-4409-898d-62f2e870e098",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190/logo.png"
+    }
+  },
+  "name": "Dether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

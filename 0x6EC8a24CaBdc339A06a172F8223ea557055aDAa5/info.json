@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "8f6bd2cd-8042-480f-b368-1ff1946b37d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5/logo.png"
+    }
+  },
+  "name": "Genaro X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

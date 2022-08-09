@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7Afe4978032e10D5Ac54ac8657C38F0000D55250",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "64af7029-9a49-4270-8b41-e441790eda18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Afe4978032e10D5Ac54ac8657C38F0000D55250/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Afe4978032e10D5Ac54ac8657C38F0000D55250/logo.png"
+    }
+  },
+  "name": "Brennen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

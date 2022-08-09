@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c3BE406174349cfa4501654313d97e6a31072e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6abed20-ecef-49c3-b4a9-79bb06e0bbf7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c3BE406174349cfa4501654313d97e6a31072e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c3BE406174349cfa4501654313d97e6a31072e1/logo.png"
+    }
+  },
+  "name": "Crypto Neo-value Neural System",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13E9EC660d872f55405d70e5C52D872136F0970c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7ba4d32-b25e-40de-b400-cd240826e517",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13E9EC660d872f55405d70e5C52D872136F0970c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13E9EC660d872f55405d70e5C52D872136F0970c/logo.png"
+    }
+  },
+  "name": "TKT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

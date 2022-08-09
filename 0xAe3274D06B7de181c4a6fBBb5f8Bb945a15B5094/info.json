@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAe3274D06B7de181c4a6fBBb5f8Bb945a15B5094",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26737a28-1f9d-417b-a22b-92d4d2a8cd66",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAe3274D06B7de181c4a6fBBb5f8Bb945a15B5094/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAe3274D06B7de181c4a6fBBb5f8Bb945a15B5094/logo.png"
+    }
+  },
+  "name": "AFA Virtual Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AFAVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

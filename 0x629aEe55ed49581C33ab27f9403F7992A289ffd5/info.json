@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x629aEe55ed49581C33ab27f9403F7992A289ffd5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0588b1a4-3de5-4d06-b490-72efbe3e1500",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x629aEe55ed49581C33ab27f9403F7992A289ffd5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x629aEe55ed49581C33ab27f9403F7992A289ffd5/logo.png"
+    }
+  },
+  "name": "StrikeCoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

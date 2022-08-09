@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x843c0b086ecbb640b07f63AfD566A17a934051C2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c84c21ac-d263-477b-ba43-6a45b23d1949",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x843c0b086ecbb640b07f63AfD566A17a934051C2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x843c0b086ecbb640b07f63AfD566A17a934051C2/logo.png"
+    }
+  },
+  "name": "Axtra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

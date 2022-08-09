@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7436018-191b-4dfe-b555-159699d6a6ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3/logo.png"
+    }
+  },
+  "name": "Bitcoin Boutique",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

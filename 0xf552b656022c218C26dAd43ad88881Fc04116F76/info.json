@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5e84fe0b-69b2-4f84-b9aa-a59e7ab0a477",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf552b656022c218C26dAd43ad88881Fc04116F76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf552b656022c218C26dAd43ad88881Fc04116F76/logo.png"
+    }
+  },
+  "name": "Mork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00000000441378008EA67F4284A57932B1c000a5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8859f7b6-b281-4a8d-8549-d0c843aa60df",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00000000441378008EA67F4284A57932B1c000a5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00000000441378008EA67F4284A57932B1c000a5/logo.png"
+    }
+  },
+  "name": "TrueGBP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TGBP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

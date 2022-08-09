@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "723f405f-deb7-4e22-94e2-22fd33eb0171",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd98F75b1A3261dab9eEd4956c93F33749027a964/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd98F75b1A3261dab9eEd4956c93F33749027a964/logo.png"
+    }
+  },
+  "name": "ShareToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

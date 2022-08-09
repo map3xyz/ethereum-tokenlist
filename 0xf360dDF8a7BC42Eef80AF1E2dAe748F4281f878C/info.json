@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf360dDF8a7BC42Eef80AF1E2dAe748F4281f878C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f187db8-fb9f-444b-8c59-c1b2fae27d7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf360dDF8a7BC42Eef80AF1E2dAe748F4281f878C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf360dDF8a7BC42Eef80AF1E2dAe748F4281f878C/logo.png"
+    }
+  },
+  "name": "Coin Swap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

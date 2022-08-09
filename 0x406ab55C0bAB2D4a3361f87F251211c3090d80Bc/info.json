@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4372a586-820f-4bb0-89f1-30101dfb8f1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc/logo.png"
+    }
+  },
+  "name": "EasyCoinDigitalFreedom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECDF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

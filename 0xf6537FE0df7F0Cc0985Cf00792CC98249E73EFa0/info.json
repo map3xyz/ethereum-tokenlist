@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "97ff90c0-2f2a-4eb4-9bb0-67519bb4267f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0/logo.png"
+    }
+  },
+  "name": "GIVLY Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

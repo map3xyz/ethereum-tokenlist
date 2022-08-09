@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d2950b9-2cf9-4a68-80ae-98c9435531c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb/logo.png"
+    }
+  },
+  "name": "Suterusu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Suter",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

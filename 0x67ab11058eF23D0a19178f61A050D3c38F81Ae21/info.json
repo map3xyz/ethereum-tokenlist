@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67ab11058eF23D0a19178f61A050D3c38F81Ae21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d713c87-1d69-41fb-bd42-e74ac128cb72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67ab11058eF23D0a19178f61A050D3c38F81Ae21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67ab11058eF23D0a19178f61A050D3c38F81Ae21/logo.png"
+    }
+  },
+  "name": "SELF TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SELF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

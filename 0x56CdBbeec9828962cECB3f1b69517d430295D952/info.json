@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56CdBbeec9828962cECB3f1b69517d430295D952",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3989301-fc09-4f2b-be7d-db40846e7353",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56CdBbeec9828962cECB3f1b69517d430295D952/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56CdBbeec9828962cECB3f1b69517d430295D952/logo.png"
+    }
+  },
+  "name": "Davecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

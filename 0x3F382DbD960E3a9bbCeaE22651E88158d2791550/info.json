@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1472fe59-2a3b-452b-9713-8e04579515c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/logo.png"
+    }
+  },
+  "name": "Aavegotchi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GHST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

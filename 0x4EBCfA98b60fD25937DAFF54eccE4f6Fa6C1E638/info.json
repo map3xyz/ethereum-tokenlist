@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4EBCfA98b60fD25937DAFF54eccE4f6Fa6C1E638",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a37ef271-b316-41c1-a157-868a550862f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4EBCfA98b60fD25937DAFF54eccE4f6Fa6C1E638/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4EBCfA98b60fD25937DAFF54eccE4f6Fa6C1E638/logo.png"
+    }
+  },
+  "name": "Ethereum Staking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

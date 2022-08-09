@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe2D0612710af166fdeB63b792E3CEd8Da4A52830",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "653f2f6a-a885-4401-8712-4a6e5ac4c090",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe2D0612710af166fdeB63b792E3CEd8Da4A52830/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe2D0612710af166fdeB63b792E3CEd8Da4A52830/logo.png"
+    }
+  },
+  "name": "Missile",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MISLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

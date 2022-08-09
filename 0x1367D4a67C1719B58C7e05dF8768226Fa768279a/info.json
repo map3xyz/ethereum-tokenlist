@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1367D4a67C1719B58C7e05dF8768226Fa768279a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c371a00-05bb-40f1-b522-b347c4dea4c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1367D4a67C1719B58C7e05dF8768226Fa768279a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1367D4a67C1719B58C7e05dF8768226Fa768279a/logo.png"
+    }
+  },
+  "name": "OOOBTCTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

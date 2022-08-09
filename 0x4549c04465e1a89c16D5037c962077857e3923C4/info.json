@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4549c04465e1a89c16D5037c962077857e3923C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31f4443a-7d1e-459d-9cb1-d34def2dcb75",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4549c04465e1a89c16D5037c962077857e3923C4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4549c04465e1a89c16D5037c962077857e3923C4/logo.png"
+    }
+  },
+  "name": "Evangel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

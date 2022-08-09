@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "635424a0-a7be-4535-afd5-bd71eddd0689",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26/logo.png"
+    }
+  },
+  "name": "UpToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

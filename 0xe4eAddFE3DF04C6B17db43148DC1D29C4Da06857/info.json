@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe4eAddFE3DF04C6B17db43148DC1D29C4Da06857",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "34195130-ae42-469a-84c9-4cbd3d813dfa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe4eAddFE3DF04C6B17db43148DC1D29C4Da06857/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe4eAddFE3DF04C6B17db43148DC1D29C4Da06857/logo.png"
+    }
+  },
+  "name": "G8C",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

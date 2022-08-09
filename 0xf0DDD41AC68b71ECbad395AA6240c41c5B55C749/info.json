@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0DDD41AC68b71ECbad395AA6240c41c5B55C749",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8437ef29-f378-4fec-a64b-4ae1c01a08fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0DDD41AC68b71ECbad395AA6240c41c5B55C749/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0DDD41AC68b71ECbad395AA6240c41c5B55C749/logo.png"
+    }
+  },
+  "name": "Central Token Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1Af8F3265d8274bDe624edd9eC97F852Fa4A5856",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c544c06-e332-4062-8ce3-09d8860d48f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1Af8F3265d8274bDe624edd9eC97F852Fa4A5856/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1Af8F3265d8274bDe624edd9eC97F852Fa4A5856/logo.png"
+    }
+  },
+  "name": "MORE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

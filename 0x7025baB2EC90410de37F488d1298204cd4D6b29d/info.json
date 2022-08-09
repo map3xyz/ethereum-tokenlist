@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7025baB2EC90410de37F488d1298204cd4D6b29d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "871c4158-ff5b-45db-869f-c38e8570c263",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7025baB2EC90410de37F488d1298204cd4D6b29d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7025baB2EC90410de37F488d1298204cd4D6b29d/logo.png"
+    }
+  },
+  "name": "MasterXriba",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

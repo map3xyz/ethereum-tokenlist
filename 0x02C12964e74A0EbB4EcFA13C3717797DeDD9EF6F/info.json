@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e44a9f4-7b4a-49f1-a4bb-ed7639e6fda0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F/logo.png"
+    }
+  },
+  "name": "EXInteractive",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

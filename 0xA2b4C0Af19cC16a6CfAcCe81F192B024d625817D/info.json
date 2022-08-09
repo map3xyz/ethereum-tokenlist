@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "99f7aed0-1b52-4148-ba5d-436a35bb2947",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D/logo.png"
+    }
+  },
+  "name": "Kishu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KISHU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

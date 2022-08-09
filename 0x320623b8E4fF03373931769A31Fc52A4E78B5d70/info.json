@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a38fa9d2-b5cb-4647-8819-7806712324ba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x320623b8E4fF03373931769A31Fc52A4E78B5d70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x320623b8E4fF03373931769A31Fc52A4E78B5d70/logo.png"
+    }
+  },
+  "name": "Reserve Rights",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD236487c9BB6ddb1808d52c1C03B6b25B2486810",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31c269a8-a409-4071-8d87-aaba464c51b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD236487c9BB6ddb1808d52c1C03B6b25B2486810/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD236487c9BB6ddb1808d52c1C03B6b25B2486810/logo.png"
+    }
+  },
+  "name": "LPChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

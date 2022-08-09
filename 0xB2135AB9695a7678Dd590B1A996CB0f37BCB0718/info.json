@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "1b3ceb45-df82-4d58-b043-5cced24b98ee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718/logo.png"
+    }
+  },
+  "name": "Signals Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

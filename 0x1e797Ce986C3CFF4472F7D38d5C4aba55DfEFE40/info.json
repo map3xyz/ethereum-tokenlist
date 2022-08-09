@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "89c0bc6f-a55a-4442-9051-f06c6eaaa39b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40/logo.png"
+    }
+  },
+  "name": "BCDN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

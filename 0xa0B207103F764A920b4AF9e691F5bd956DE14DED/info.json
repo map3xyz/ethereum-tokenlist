@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa0B207103F764A920b4AF9e691F5bd956DE14DED",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "00da55f9-31e2-4895-bc48-3ca3c6244f61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0B207103F764A920b4AF9e691F5bd956DE14DED/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0B207103F764A920b4AF9e691F5bd956DE14DED/logo.png"
+    }
+  },
+  "name": "abitshadow Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

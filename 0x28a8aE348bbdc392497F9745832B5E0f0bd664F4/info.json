@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28a8aE348bbdc392497F9745832B5E0f0bd664F4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad500500-afb5-452f-85fd-9a8c017e46c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28a8aE348bbdc392497F9745832B5E0f0bd664F4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28a8aE348bbdc392497F9745832B5E0f0bd664F4/logo.png"
+    }
+  },
+  "name": "UBSTR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f63fad8-64ca-4a0a-a21c-e02c246f97fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65/logo.png"
+    }
+  },
+  "name": "GroupAd Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

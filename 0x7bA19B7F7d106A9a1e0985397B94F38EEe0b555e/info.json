@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "edcbec34-f826-4863-ac34-fc748ff5ea20",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e/logo.png"
+    }
+  },
+  "name": "Wixlar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

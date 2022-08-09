@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b721be0e-6823-4f44-b2e4-754f0dfa2df2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8a40c222996f9F3431f63Bf80244C36822060f12/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a40c222996f9F3431f63Bf80244C36822060f12/logo.png"
+    }
+  },
+  "name": "Finxflo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

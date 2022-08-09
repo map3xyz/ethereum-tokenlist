@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x542a1eb77C705D12c11d2aaa1Ae90cdd5e8103eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e9c5f97-88de-490b-860e-04a39bd9e32c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x542a1eb77C705D12c11d2aaa1Ae90cdd5e8103eC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x542a1eb77C705D12c11d2aaa1Ae90cdd5e8103eC/logo.png"
+    }
+  },
+  "name": "SitCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

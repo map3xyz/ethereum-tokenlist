@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "d6314d21-23b8-4f61-85a9-524e46abd5c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009/logo.png"
+    }
+  },
+  "name": "SingularDTV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNGLS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

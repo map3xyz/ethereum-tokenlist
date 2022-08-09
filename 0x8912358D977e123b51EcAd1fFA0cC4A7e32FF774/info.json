@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ee21367-0638-44f5-8491-06c254e39893",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774/logo.png"
+    }
+  },
+  "name": "Wisdom chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Wdc",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

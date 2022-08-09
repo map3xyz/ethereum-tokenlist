@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f01abf5e-84c9-4da0-8c4c-783105e68fcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1116930326D21fB917d5A27F1E9943A9595fb47/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1116930326D21fB917d5A27F1E9943A9595fb47/logo.png"
+    }
+  },
+  "name": "Staked ABPT ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "stkABPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

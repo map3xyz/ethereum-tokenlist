@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "50744d27-48dd-40ff-88b4-70c463a4602c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06/logo.png"
+    }
+  },
+  "name": "LikeApp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

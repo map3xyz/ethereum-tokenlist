@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3f366b7-2d08-4669-9c21-6f3c5c7ee98e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf28D3dcc9b6582F1b2D49Ca850dB1360571cB633/logo.png"
+    }
+  },
+  "name": "Spider Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

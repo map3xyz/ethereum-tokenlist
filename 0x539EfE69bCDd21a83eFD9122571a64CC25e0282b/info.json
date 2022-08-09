@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "44429e53-d559-4d74-8dfb-831a34f300db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b/logo.png"
+    }
+  },
+  "name": "Ethereum Blue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLUE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

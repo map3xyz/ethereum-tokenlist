@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7d67a9e5-fc29-429d-8bee-cad4eb4484c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xed0d5747A9AB03a75fBfEC3228cd55848245B75d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed0d5747A9AB03a75fBfEC3228cd55848245B75d/logo.png"
+    }
+  },
+  "name": "e-Money NGM staking token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

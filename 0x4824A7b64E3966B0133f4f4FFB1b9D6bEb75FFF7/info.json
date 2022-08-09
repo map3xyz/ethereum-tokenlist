@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb97135e-3dba-4fc2-a1b9-5080d79878f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7/logo.png"
+    }
+  },
+  "name": "TokenClub",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x075c60EE2cD308ff47873b38Bd9A0Fa5853382c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d993ab6e-d8a7-4395-9e42-1a3d1de9df3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x075c60EE2cD308ff47873b38Bd9A0Fa5853382c4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x075c60EE2cD308ff47873b38Bd9A0Fa5853382c4/logo.png"
+    }
+  },
+  "name": "DeezNuts",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEEZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

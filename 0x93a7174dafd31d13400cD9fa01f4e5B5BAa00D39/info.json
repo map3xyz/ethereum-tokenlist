@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dfbb5af2-deba-4a5e-bdd1-55431f1f35fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39/logo.png"
+    }
+  },
+  "name": "Shaka",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

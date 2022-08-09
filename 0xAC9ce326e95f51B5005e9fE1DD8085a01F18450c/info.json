@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26671d52-c835-404a-b2c0-089716a5b1b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c/logo.png"
+    }
+  },
+  "name": "VeriSafe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

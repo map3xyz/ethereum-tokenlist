@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb882ed6B8Ec5fa4B3eA83C32C5aFaf9824be38eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1bd5ea1-7f15-426f-b83c-cc15adfe3967",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb882ed6B8Ec5fa4B3eA83C32C5aFaf9824be38eC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb882ed6B8Ec5fa4B3eA83C32C5aFaf9824be38eC/logo.png"
+    }
+  },
+  "name": "Culture eXchange Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

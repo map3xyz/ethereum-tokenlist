@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9D24eC1D08856632Ed1847f43760e66Bcb91ca7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fcb7a436-807d-44a8-9272-e276ae34d47b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9D24eC1D08856632Ed1847f43760e66Bcb91ca7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9D24eC1D08856632Ed1847f43760e66Bcb91ca7/logo.png"
+    }
+  },
+  "name": "Streamix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

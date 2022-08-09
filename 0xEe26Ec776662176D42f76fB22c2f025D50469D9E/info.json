@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEe26Ec776662176D42f76fB22c2f025D50469D9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ebbc7fa-a135-4a4f-8a2e-140eaed46874",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEe26Ec776662176D42f76fB22c2f025D50469D9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEe26Ec776662176D42f76fB22c2f025D50469D9E/logo.png"
+    }
+  },
+  "name": "TOKEN 30S",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "30S",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

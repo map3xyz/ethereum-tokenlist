@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffa2e9f1-4655-421e-8f13-5499733ea297",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93/logo.png"
+    }
+  },
+  "name": "SG30013(ACE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

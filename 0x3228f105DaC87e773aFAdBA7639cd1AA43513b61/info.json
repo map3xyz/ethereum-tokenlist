@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3228f105DaC87e773aFAdBA7639cd1AA43513b61",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "98f59c19-784a-4500-aa7f-a2fc97ec929a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3228f105DaC87e773aFAdBA7639cd1AA43513b61/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3228f105DaC87e773aFAdBA7639cd1AA43513b61/logo.png"
+    }
+  },
+  "name": "EQR TEST mg7000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

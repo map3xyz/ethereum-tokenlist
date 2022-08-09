@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x98d0cDe5c3d79531613e18f0912127BF172bd7AA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e424d67e-5942-4280-9851-73908f8d585f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x98d0cDe5c3d79531613e18f0912127BF172bd7AA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x98d0cDe5c3d79531613e18f0912127BF172bd7AA/logo.png"
+    }
+  },
+  "name": "Biotech Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

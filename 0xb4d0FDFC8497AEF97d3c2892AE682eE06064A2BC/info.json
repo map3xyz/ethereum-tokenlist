@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10f9c024-37b9-44f2-aa21-4d9a78b827c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC/logo.png"
+    }
+  },
+  "name": "Formosa Financial Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

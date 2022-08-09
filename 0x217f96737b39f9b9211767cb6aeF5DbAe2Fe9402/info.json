@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x217f96737b39f9b9211767cb6aeF5DbAe2Fe9402",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ad964f2b-ce33-4ea2-9869-f7f5aa575cbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x217f96737b39f9b9211767cb6aeF5DbAe2Fe9402/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x217f96737b39f9b9211767cb6aeF5DbAe2Fe9402/logo.png"
+    }
+  },
+  "name": "Bazaar Gift Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

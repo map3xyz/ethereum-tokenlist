@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "f6aab6d8-0b28-452c-a1e7-69ee97693320",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3293Cc907fdE439B39aEdaF1B982785adaFf186b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3293Cc907fdE439B39aEdaF1B982785adaFf186b/logo.png"
+    }
+  },
+  "name": "TriaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

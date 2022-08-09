@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd5Cfa997a1052464e4B9Af462f9D5facE9b1f730",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e656f2a4-8de7-4815-9e91-7be43410a30a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd5Cfa997a1052464e4B9Af462f9D5facE9b1f730/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5Cfa997a1052464e4B9Af462f9D5facE9b1f730/logo.png"
+    }
+  },
+  "name": "Yobtc Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

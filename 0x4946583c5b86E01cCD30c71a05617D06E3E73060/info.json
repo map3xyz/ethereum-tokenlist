@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4946583c5b86E01cCD30c71a05617D06E3E73060",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee995d14-719c-41e8-8f0c-192f5718a2a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4946583c5b86E01cCD30c71a05617D06E3E73060/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4946583c5b86E01cCD30c71a05617D06E3E73060/logo.png"
+    }
+  },
+  "name": "Foresting Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

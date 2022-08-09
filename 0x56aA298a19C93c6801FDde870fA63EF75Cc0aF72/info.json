@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb329ff1-3fcb-46d0-a40e-b0254b381d3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72/logo.png"
+    }
+  },
+  "name": "mBABA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mBABA",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

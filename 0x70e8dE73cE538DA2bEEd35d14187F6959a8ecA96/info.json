@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a739390d-876f-4e15-8888-98b8a5af4e53",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96/logo.png"
+    }
+  },
+  "name": "XSGD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSGD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "048f00b6-4596-488f-9a87-632b155d4050",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd/logo.png"
+    }
+  },
+  "name": "Razor Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAZOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

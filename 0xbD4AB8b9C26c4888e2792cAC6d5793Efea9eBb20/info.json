@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbD4AB8b9C26c4888e2792cAC6d5793Efea9eBb20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "069dd87c-557a-441e-b00a-80754409a77f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbD4AB8b9C26c4888e2792cAC6d5793Efea9eBb20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbD4AB8b9C26c4888e2792cAC6d5793Efea9eBb20/logo.png"
+    }
+  },
+  "name": "KARTIY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x219803d17f3067eb53d521ba8948d2734f402f7d",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e4290933-681a-4705-844a-5f1552f85363",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x219803d17f3067eb53d521ba8948d2734f402f7d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x219803d17f3067eb53d521ba8948d2734f402f7d/logo.png"
+    }
+  },
+  "name": "WGM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WGM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

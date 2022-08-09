@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8DaA52DEd91F7C82b4BB02B4b87c6a841Db1fD5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c9b68b1d-7b42-4824-ab36-30b088617c52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA8DaA52DEd91F7C82b4BB02B4b87c6a841Db1fD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8DaA52DEd91F7C82b4BB02B4b87c6a841Db1fD5/logo.png"
+    }
+  },
+  "name": "Biograffi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

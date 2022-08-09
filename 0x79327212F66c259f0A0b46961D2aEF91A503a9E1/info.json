@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79327212F66c259f0A0b46961D2aEF91A503a9E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6023b58-5e8f-4ace-8711-44911cf7b96f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79327212F66c259f0A0b46961D2aEF91A503a9E1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79327212F66c259f0A0b46961D2aEF91A503a9E1/logo.png"
+    }
+  },
+  "name": "Score",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCORE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

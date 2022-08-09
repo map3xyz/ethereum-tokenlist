@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2eb77f57-9dbc-417f-83d7-1bca49ee2e5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d8cA7baf0895Da8afcf153657bE064b5092a274/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d8cA7baf0895Da8afcf153657bE064b5092a274/logo.png"
+    }
+  },
+  "name": "EthLyteToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EtLyteT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

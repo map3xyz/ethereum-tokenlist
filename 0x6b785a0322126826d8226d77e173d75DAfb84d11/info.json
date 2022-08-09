@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a465087a-441f-441e-bc9b-c989d9e813fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6b785a0322126826d8226d77e173d75DAfb84d11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b785a0322126826d8226d77e173d75DAfb84d11/logo.png"
+    }
+  },
+  "name": "Bankroll Vault",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeC7B47714196caf09fDC7A983DC6b250eff851fC",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "0e703db9-7dca-465d-be06-e79273df4043",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeC7B47714196caf09fDC7A983DC6b250eff851fC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeC7B47714196caf09fDC7A983DC6b250eff851fC/logo.png"
+    }
+  },
+  "name": "EQR 600",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

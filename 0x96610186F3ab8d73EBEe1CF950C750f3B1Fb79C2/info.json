@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ede47227-bd52-4e28-8825-64d73b0a4c13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2/logo.png"
+    }
+  },
+  "name": "Enjinstarter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EJS",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

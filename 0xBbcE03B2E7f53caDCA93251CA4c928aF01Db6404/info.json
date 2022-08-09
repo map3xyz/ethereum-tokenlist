@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a69b8a5-52ea-4d17-aeed-40435acc8165",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png"
+    }
+  },
+  "name": "Stable FUSE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFUSE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

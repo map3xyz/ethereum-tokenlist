@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26b7d545De1c04Af88dD2a5F3f4C8f58108C55A2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "258d93a2-1c93-439c-8594-b3212693fe40",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26b7d545De1c04Af88dD2a5F3f4C8f58108C55A2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26b7d545De1c04Af88dD2a5F3f4C8f58108C55A2/logo.png"
+    }
+  },
+  "name": "MunchCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

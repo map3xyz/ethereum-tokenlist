@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "0994cde4-fa1b-41be-b4be-2adea47ee36c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE617dd80c621a5072bD8cBa65E9d76c07327004d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE617dd80c621a5072bD8cBa65E9d76c07327004d/logo.png"
+    }
+  },
+  "name": "Raydium (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAY",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

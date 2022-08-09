@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x386467F1f3ddbE832448650418311a479EECFC57",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "98cf86d0-87f3-4297-b7de-8c3506ce3821",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x386467F1f3ddbE832448650418311a479EECFC57/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x386467F1f3ddbE832448650418311a479EECFC57/logo.png"
+    }
+  },
+  "name": "Embers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

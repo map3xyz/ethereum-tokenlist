@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x340eF83Ec8560892168D4062720F030460468656",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68c1489f-6962-4678-9419-08624fd50c89",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x340eF83Ec8560892168D4062720F030460468656/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Ethereum Meta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

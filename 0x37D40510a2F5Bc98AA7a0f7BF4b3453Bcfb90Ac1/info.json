@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1330707-7cc5-46f5-9c3a-f1ba1ae766d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1/logo.png"
+    }
+  },
+  "name": "Beluga Banking Infrastructure Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

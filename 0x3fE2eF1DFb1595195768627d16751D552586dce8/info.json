@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3fE2eF1DFb1595195768627d16751D552586dce8",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "922bf7f0-6af3-428e-b757-15207393a8bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3fE2eF1DFb1595195768627d16751D552586dce8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3fE2eF1DFb1595195768627d16751D552586dce8/logo.png"
+    }
+  },
+  "name": "Opta Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

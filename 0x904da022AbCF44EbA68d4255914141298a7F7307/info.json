@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x904da022AbCF44EbA68d4255914141298a7F7307",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8cbfe8e7-5120-48ff-b4e2-9d8c3832902b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x904da022AbCF44EbA68d4255914141298a7F7307/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x904da022AbCF44EbA68d4255914141298a7F7307/logo.png"
+    }
+  },
+  "name": "Validity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

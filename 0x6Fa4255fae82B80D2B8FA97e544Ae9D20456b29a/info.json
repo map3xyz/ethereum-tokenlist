@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Fa4255fae82B80D2B8FA97e544Ae9D20456b29a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3144275-699b-4664-b700-ff240680c6a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6Fa4255fae82B80D2B8FA97e544Ae9D20456b29a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Fa4255fae82B80D2B8FA97e544Ae9D20456b29a/logo.png"
+    }
+  },
+  "name": "door of future11",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

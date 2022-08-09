@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9932c5bc-9c26-4bfa-b156-76d36f5b1071",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895/logo.png"
+    }
+  },
+  "name": "BigTorum Stake",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46cc7EC70746F4cbd56CE5FA9Bb7d648398EaA5C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c12d1a58-113d-4ed5-a5f6-1b659edb3690",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46cc7EC70746F4cbd56CE5FA9Bb7d648398EaA5C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46cc7EC70746F4cbd56CE5FA9Bb7d648398EaA5C/logo.png"
+    }
+  },
+  "name": "REAL-T",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REALT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

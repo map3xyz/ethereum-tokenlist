@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "616be47a-83b0-4f28-9e7c-99e7a1e3b3ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD/logo.png"
+    }
+  },
+  "name": "Saint Fame: $ICK Mask",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

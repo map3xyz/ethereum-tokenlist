@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b786b3c-9781-47bd-a810-b073d67f3468",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d/logo.png"
+    }
+  },
+  "name": "Blocery Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

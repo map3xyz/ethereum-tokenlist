@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "090bc9fc-5716-488b-a15e-2f3f3170d0d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3/logo.png"
+    }
+  },
+  "name": "Dollars",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

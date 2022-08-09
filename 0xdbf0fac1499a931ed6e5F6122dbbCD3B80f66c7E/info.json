@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdbf0fac1499a931ed6e5F6122dbbCD3B80f66c7E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2fe8a2f1-d411-40a6-a373-7e7015070da7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdbf0fac1499a931ed6e5F6122dbbCD3B80f66c7E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbf0fac1499a931ed6e5F6122dbbCD3B80f66c7E/logo.png"
+    }
+  },
+  "name": "RocketFuel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RKFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

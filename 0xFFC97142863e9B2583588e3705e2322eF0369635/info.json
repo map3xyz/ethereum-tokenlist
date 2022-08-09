@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFFC97142863e9B2583588e3705e2322eF0369635",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "850adc71-10ec-41a9-ac0a-d737049282ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFFC97142863e9B2583588e3705e2322eF0369635/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFFC97142863e9B2583588e3705e2322eF0369635/logo.png"
+    }
+  },
+  "name": "Surge Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SVG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

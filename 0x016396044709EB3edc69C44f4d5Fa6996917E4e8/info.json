@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x016396044709EB3edc69C44f4d5Fa6996917E4e8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ace29547-68a9-4714-80b5-f272c8c7cf6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x016396044709EB3edc69C44f4d5Fa6996917E4e8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x016396044709EB3edc69C44f4d5Fa6996917E4e8/logo.png"
+    }
+  },
+  "name": "KingXChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

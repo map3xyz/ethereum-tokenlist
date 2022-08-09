@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2eda80a8-40e9-4abf-9e96-13d8cca23c00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca/logo.png"
+    }
+  },
+  "name": "Syntropy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79cB5d2936F814e0600e8adbB5De9d9Bc3341560",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "93010f30-60b7-44b6-9f49-8d6219af2231",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79cB5d2936F814e0600e8adbB5De9d9Bc3341560/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79cB5d2936F814e0600e8adbB5De9d9Bc3341560/logo.png"
+    }
+  },
+  "name": "EQR 700",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

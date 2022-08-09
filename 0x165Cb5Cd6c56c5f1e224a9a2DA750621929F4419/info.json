@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x165Cb5Cd6c56c5f1e224a9a2DA750621929F4419",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1311727-a5cf-4dc5-83d2-8a0e060682bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x165Cb5Cd6c56c5f1e224a9a2DA750621929F4419/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x165Cb5Cd6c56c5f1e224a9a2DA750621929F4419/logo.png"
+    }
+  },
+  "name": "Mars",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

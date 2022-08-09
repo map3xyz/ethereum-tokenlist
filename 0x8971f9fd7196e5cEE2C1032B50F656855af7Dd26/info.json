@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4fee1dc-a945-4e7e-af22-dbb1bdb699b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26/logo.png"
+    }
+  },
+  "name": "Lambda",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b5f0337-9d49-4d43-b0f8-df02ee5eccb7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCBc62A291d4C564fd5D1d171154a0266ce336c44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCBc62A291d4C564fd5D1d171154a0266ce336c44/logo.png"
+    }
+  },
+  "name": "ZYTH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "\"\"",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

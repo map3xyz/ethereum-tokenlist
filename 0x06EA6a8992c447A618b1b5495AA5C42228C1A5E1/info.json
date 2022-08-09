@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06EA6a8992c447A618b1b5495AA5C42228C1A5E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce1dcd01-8578-4b3e-9eaa-6ad43cf180f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06EA6a8992c447A618b1b5495AA5C42228C1A5E1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06EA6a8992c447A618b1b5495AA5C42228C1A5E1/logo.png"
+    }
+  },
+  "name": "SAGA PASSIVE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4f01eCbe8D6882FFaEe47fe23A9677A96AAbED07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d473c160-a517-4e17-8ad6-fa20e9c40049",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4f01eCbe8D6882FFaEe47fe23A9677A96AAbED07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f01eCbe8D6882FFaEe47fe23A9677A96AAbED07/logo.png"
+    }
+  },
+  "name": "MythicUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x141ABB03F001dEDED9A0223d4ff26d929117B72e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb8f6a30-2f8e-4aad-9af0-dfb9a2442ecc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x141ABB03F001dEDED9A0223d4ff26d929117B72e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x141ABB03F001dEDED9A0223d4ff26d929117B72e/logo.png"
+    }
+  },
+  "name": "HighVibe Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

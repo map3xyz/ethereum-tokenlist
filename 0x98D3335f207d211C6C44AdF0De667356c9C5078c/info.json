@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x98D3335f207d211C6C44AdF0De667356c9C5078c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ecff3b77-11a8-4559-8be4-f5fecb2152b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x98D3335f207d211C6C44AdF0De667356c9C5078c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x98D3335f207d211C6C44AdF0De667356c9C5078c/logo.png"
+    }
+  },
+  "name": "Bancambios X1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

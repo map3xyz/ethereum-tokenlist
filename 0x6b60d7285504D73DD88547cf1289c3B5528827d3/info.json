@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6b60d7285504D73DD88547cf1289c3B5528827d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a31f2d8-ad7e-4101-8c49-74e22e7eb360",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6b60d7285504D73DD88547cf1289c3B5528827d3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b60d7285504D73DD88547cf1289c3B5528827d3/logo.png"
+    }
+  },
+  "name": "MaskFactory",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88A9A52F944315D5B4e917b9689e65445C401E83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b6feab1-5b1b-4741-8185-e6cc4bf0d619",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88A9A52F944315D5B4e917b9689e65445C401E83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88A9A52F944315D5B4e917b9689e65445C401E83/logo.png"
+    }
+  },
+  "name": "Fear",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

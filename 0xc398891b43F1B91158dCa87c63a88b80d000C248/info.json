@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc398891b43F1B91158dCa87c63a88b80d000C248",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "db8a1e79-75f8-41f3-b607-71e7496bf743",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc398891b43F1B91158dCa87c63a88b80d000C248/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc398891b43F1B91158dCa87c63a88b80d000C248/logo.png"
+    }
+  },
+  "name": "INDOBIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

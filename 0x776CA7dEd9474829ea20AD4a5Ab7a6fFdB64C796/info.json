@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4357b840-8dbe-426d-917c-2d0b719b2dc3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796/logo.png"
+    }
+  },
+  "name": "TENS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TENS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

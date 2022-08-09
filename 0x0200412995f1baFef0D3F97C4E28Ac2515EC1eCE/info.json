@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae47336a-b4ca-45be-8155-65e7804bf070",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE/logo.png"
+    }
+  },
+  "name": "FollowCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLLW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

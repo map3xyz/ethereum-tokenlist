@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAD640689e6950b7453729A4686edB3FdfD754616",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "820748d7-9b8c-4a85-868a-b1194fcdc901",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAD640689e6950b7453729A4686edB3FdfD754616/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAD640689e6950b7453729A4686edB3FdfD754616/logo.png"
+    }
+  },
+  "name": "CIChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

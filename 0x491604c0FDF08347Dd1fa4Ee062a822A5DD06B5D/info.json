@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c242f9fc-62d9-4edf-a2f0-839230de9096",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png"
+    }
+  },
+  "name": "Cartesi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTSI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

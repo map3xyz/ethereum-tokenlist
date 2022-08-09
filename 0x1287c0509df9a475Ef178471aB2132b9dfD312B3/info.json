@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1287c0509df9a475Ef178471aB2132b9dfD312B3",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0f1751a8-7b33-4ced-914b-8cfcf873f3a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1287c0509df9a475Ef178471aB2132b9dfD312B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1287c0509df9a475Ef178471aB2132b9dfD312B3/logo.png"
+    }
+  },
+  "name": "Ladz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LADZ",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "568370e5-0deb-49c9-b383-4ce2ac89603a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e/logo.png"
+    }
+  },
+  "name": "Modum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

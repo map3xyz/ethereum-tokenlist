@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB868636A18c9935D9B259228851cC49245ae68A2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbaae07c-cb85-4ea9-8706-7255d1f4d321",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB868636A18c9935D9B259228851cC49245ae68A2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB868636A18c9935D9B259228851cC49245ae68A2/logo.png"
+    }
+  },
+  "name": "OPULENCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

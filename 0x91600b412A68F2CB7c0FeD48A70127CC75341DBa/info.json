@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91600b412A68F2CB7c0FeD48A70127CC75341DBa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37a64353-674e-4052-b80f-f3d17e87c250",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91600b412A68F2CB7c0FeD48A70127CC75341DBa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91600b412A68F2CB7c0FeD48A70127CC75341DBa/logo.png"
+    }
+  },
+  "name": "WrapOMC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eOMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac6f449a-8d06-4eea-9f85-f9e28afe59be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d/logo.png"
+    }
+  },
+  "name": " AISI GROUP ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AISI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF39f19565B8D937EC30f1db5BD42F558D1E312A6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14df2e71-212c-4743-9c21-0ef392ff91c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF39f19565B8D937EC30f1db5BD42F558D1E312A6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF39f19565B8D937EC30f1db5BD42F558D1E312A6/logo.png"
+    }
+  },
+  "name": "Kappi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

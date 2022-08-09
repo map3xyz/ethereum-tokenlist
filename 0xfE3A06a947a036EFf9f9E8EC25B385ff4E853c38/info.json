@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b3454e4-f7e3-4cdf-bbab-03b02cc4bebb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfE3A06a947a036EFf9f9E8EC25B385ff4E853c38/logo.png"
+    }
+  },
+  "name": "Trust Union",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TUT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

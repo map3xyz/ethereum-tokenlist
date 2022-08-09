@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29917c3B1c2B4779a7B61f08d98B3Da0fCf3b6A4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "805dd7ae-c080-4a08-8ef6-ffee1e138942",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29917c3B1c2B4779a7B61f08d98B3Da0fCf3b6A4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29917c3B1c2B4779a7B61f08d98B3Da0fCf3b6A4/logo.png"
+    }
+  },
+  "name": "ArgenPeso",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

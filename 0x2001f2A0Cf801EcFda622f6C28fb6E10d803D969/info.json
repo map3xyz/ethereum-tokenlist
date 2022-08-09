@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "49df760b-1be1-4f33-a942-f7adc4e2f93a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969/logo.png"
+    }
+  },
+  "name": "CoinLoan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

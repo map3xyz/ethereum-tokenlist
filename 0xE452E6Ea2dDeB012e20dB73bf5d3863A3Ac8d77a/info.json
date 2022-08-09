@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb6c7cfc-477f-446a-9db2-89e0be962978",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a/logo.png"
+    }
+  },
+  "name": "WCELO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCELO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

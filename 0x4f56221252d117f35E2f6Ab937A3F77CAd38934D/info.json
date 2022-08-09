@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4a0969d-b5b2-40cd-96af-26e0ec2e06f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D/logo.png"
+    }
+  },
+  "name": "CryptoCricketClub",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "3Cs",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

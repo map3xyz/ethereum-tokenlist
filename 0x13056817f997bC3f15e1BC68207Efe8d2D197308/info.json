@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13056817f997bC3f15e1BC68207Efe8d2D197308",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52d9bf36-e3a8-4e1a-a5f4-5ae2f46a97ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13056817f997bC3f15e1BC68207Efe8d2D197308/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13056817f997bC3f15e1BC68207Efe8d2D197308/logo.png"
+    }
+  },
+  "name": "CXKJ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXKJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

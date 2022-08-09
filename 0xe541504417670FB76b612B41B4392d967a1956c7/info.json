@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe541504417670FB76b612B41B4392d967a1956c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad502c25-a5f1-4678-ab9d-3865882fe677",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe541504417670FB76b612B41B4392d967a1956c7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe541504417670FB76b612B41B4392d967a1956c7/logo.png"
+    }
+  },
+  "name": "BSC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71593c51-f690-4167-b5fb-1d5e1df0824d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e/logo.png"
+    }
+  },
+  "name": "CRAD CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

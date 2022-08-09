@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11f27c81-cf31-4660-b4c1-3735cf7f562e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x362bc847A3a9637d3af6624EeC853618a43ed7D2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x362bc847A3a9637d3af6624EeC853618a43ed7D2/logo.png"
+    }
+  },
+  "name": "PARSIQ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

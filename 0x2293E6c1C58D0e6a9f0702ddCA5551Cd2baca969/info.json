@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2293E6c1C58D0e6a9f0702ddCA5551Cd2baca969",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "98676c7d-b634-4a18-9b84-eb1ff7fb0848",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2293E6c1C58D0e6a9f0702ddCA5551Cd2baca969/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2293E6c1C58D0e6a9f0702ddCA5551Cd2baca969/logo.png"
+    }
+  },
+  "name": "GCB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

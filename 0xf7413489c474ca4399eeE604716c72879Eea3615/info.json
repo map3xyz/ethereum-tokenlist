@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "faf79ec7-101c-49e0-b469-d36ecbc3adb0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf7413489c474ca4399eeE604716c72879Eea3615/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf7413489c474ca4399eeE604716c72879Eea3615/logo.png"
+    }
+  },
+  "name": "APYSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

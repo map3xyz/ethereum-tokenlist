@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c8337eb-a1e8-4fca-a604-24020887fd19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB/logo.png"
+    }
+  },
+  "name": "AppCoins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22512711-e8fb-4126-a0d5-137b2be3b0fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF/logo.png"
+    }
+  },
+  "name": "Famecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FMCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

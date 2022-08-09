@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "acbf589a-e62e-4517-930d-ec3ad90a1674",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D/logo.png"
+    }
+  },
+  "name": "BCL Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

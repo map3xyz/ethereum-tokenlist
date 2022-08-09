@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x001F0aA5dA15585e5b2305DbaB2bac425ea71007",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e67aa112-b3a1-468d-9ddf-1648e1c31b98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x001F0aA5dA15585e5b2305DbaB2bac425ea71007/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x001F0aA5dA15585e5b2305DbaB2bac425ea71007/logo.png"
+    }
+  },
+  "name": "IPSX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPSX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

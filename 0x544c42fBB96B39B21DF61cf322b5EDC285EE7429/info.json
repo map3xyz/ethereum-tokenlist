@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b40fa17e-e6f2-4260-96bd-039d2999abae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+    }
+  },
+  "name": "InsurAce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INSUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

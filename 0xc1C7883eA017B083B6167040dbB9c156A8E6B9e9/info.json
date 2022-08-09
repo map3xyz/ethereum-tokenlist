@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a2012cc-35f3-4591-b924-d63f993740a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc1C7883eA017B083B6167040dbB9c156A8E6B9e9/logo.png"
+    }
+  },
+  "name": "ArmBlockchainBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

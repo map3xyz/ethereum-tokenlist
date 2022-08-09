@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf09209cC5EaE846ee2cc4a493e7B962CA7BCfbbb",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2c5d1a33-960b-415f-ad03-56dc673e911b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf09209cC5EaE846ee2cc4a493e7B962CA7BCfbbb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf09209cC5EaE846ee2cc4a493e7B962CA7BCfbbb/logo.png"
+    }
+  },
+  "name": "iEx.ec Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

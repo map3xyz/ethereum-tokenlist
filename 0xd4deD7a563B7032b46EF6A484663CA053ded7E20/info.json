@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd4deD7a563B7032b46EF6A484663CA053ded7E20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "36e47097-7668-4a67-bc87-4efc45e2cc26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd4deD7a563B7032b46EF6A484663CA053ded7E20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd4deD7a563B7032b46EF6A484663CA053ded7E20/logo.png"
+    }
+  },
+  "name": "iHDVi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iHDVi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

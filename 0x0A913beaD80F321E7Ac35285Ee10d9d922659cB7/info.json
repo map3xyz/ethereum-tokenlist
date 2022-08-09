@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94630bc7-b3b4-4de6-b6dc-603a9eb3252a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7/logo.png"
+    }
+  },
+  "name": "DOS Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

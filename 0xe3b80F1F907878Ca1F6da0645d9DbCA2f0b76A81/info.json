@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76f4b6fc-c64c-4d31-add8-e0b07880bd68",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81/logo.png"
+    }
+  },
+  "name": "Black Diamond",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BKD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

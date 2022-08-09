@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8F564dc862FfE7EC0436C3717EC7ED06150144E2",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0040351d-7b4e-492d-bf35-a886f9e1a97c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F564dc862FfE7EC0436C3717EC7ED06150144E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F564dc862FfE7EC0436C3717EC7ED06150144E2/logo.png"
+    }
+  },
+  "name": "NiMA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NIMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

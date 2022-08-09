@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3e408d26C784cE8C015F78f2982E5950c5DD0125",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6028e566-793b-4a2b-9e35-e51d685ff59d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3e408d26C784cE8C015F78f2982E5950c5DD0125/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3e408d26C784cE8C015F78f2982E5950c5DD0125/logo.png"
+    }
+  },
+  "name": "FlingoCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLNGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

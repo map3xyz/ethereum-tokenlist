@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfE831929098B5FF5d736105bD68BA9460EF07207",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aee28c16-12d2-4d02-99a2-d7fccad10a2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfE831929098B5FF5d736105bD68BA9460EF07207/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfE831929098B5FF5d736105bD68BA9460EF07207/logo.png"
+    }
+  },
+  "name": "Cycle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYCLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

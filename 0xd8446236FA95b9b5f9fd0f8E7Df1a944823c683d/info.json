@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20266b9c-f461-488f-b0af-476b8a8da484",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d/logo.png"
+    }
+  },
+  "name": "NEEO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

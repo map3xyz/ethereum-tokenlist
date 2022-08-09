@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD7732e3783b0047aa251928960063f863AD022D8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2f7fde1-94e1-46f6-8393-2b9e8aeecd4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD7732e3783b0047aa251928960063f863AD022D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD7732e3783b0047aa251928960063f863AD022D8/logo.png"
+    }
+  },
+  "name": "BrahmaOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

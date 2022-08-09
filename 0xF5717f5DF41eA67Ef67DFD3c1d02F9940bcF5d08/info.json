@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "3fa5a425-3942-4c92-9509-a5ccf3f705d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08/logo.png"
+    }
+  },
+  "name": "SeChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

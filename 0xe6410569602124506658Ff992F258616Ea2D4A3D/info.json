@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e43409a-cdb2-475f-b4f6-c6e5e0217934",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6410569602124506658Ff992F258616Ea2D4A3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6410569602124506658Ff992F258616Ea2D4A3D/logo.png"
+    }
+  },
+  "name": "KatanaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KATANA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

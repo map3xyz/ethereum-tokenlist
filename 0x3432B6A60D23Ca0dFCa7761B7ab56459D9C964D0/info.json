@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09567c08-00cd-46ef-91ea-8e24a535c91b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png"
+    }
+  },
+  "name": "Frax Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

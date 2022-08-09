@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x091C42574FcBD97a0175E41C7B11396d7023b4D4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88f10d85-4a22-4533-9ede-587e6566e9b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x091C42574FcBD97a0175E41C7B11396d7023b4D4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x091C42574FcBD97a0175E41C7B11396d7023b4D4/logo.png"
+    }
+  },
+  "name": "BLACKCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

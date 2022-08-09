@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8542325B72C6D9fC0aD2Ca965A78435413a915A0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbb08f41-e2ea-46f0-a922-19a7c3e0cf9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8542325B72C6D9fC0aD2Ca965A78435413a915A0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8542325B72C6D9fC0aD2Ca965A78435413a915A0/logo.png"
+    }
+  },
+  "name": "Oyster Shell",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

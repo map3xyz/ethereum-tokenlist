@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d39f5af0-a760-4ae1-b6be-e59af1353af9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00059AE69c1622A7542EdC15E8d17b060fE307b6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00059AE69c1622A7542EdC15E8d17b060fE307b6/logo.png"
+    }
+  },
+  "name": "AmonD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

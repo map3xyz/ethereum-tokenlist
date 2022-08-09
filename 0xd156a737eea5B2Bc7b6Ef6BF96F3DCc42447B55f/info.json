@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd156a737eea5B2Bc7b6Ef6BF96F3DCc42447B55f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d7128f4-a956-413f-ac9b-374c3e8c4fca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd156a737eea5B2Bc7b6Ef6BF96F3DCc42447B55f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd156a737eea5B2Bc7b6Ef6BF96F3DCc42447B55f/logo.png"
+    }
+  },
+  "name": "Metrin Data Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

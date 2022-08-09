@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBd5DD4D4C51137eE47D080d19cd13670C90df2e9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c0e276b7-936a-49bd-a078-1546c6c05b03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBd5DD4D4C51137eE47D080d19cd13670C90df2e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd5DD4D4C51137eE47D080d19cd13670C90df2e9/logo.png"
+    }
+  },
+  "name": "Digitale Mark",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

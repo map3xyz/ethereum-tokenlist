@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8871690d148a2c3BE909B6DA330A9a12C7164234",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e2175f36-1b6a-4a5c-b0cf-849d6fa52b5a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8871690d148a2c3BE909B6DA330A9a12C7164234/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8871690d148a2c3BE909B6DA330A9a12C7164234/logo.png"
+    }
+  },
+  "name": "PatientsCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d29d8db-b9a2-4f7d-89ae-035b4d24c8a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5/logo.png"
+    }
+  },
+  "name": "GoToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

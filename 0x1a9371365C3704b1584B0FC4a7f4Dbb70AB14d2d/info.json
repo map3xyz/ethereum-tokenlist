@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed137e0a-dd60-41a0-b8aa-36eac926ec70",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d/logo.png"
+    }
+  },
+  "name": "The Luxury",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

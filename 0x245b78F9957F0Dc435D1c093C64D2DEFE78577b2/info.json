@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5e4a11f-fc58-4d20-842e-62ae3acf9ecc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x245b78F9957F0Dc435D1c093C64D2DEFE78577b2/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Halving Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HALV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

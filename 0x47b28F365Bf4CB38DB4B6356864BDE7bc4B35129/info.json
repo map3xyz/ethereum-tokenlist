@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47b28F365Bf4CB38DB4B6356864BDE7bc4B35129",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0f3e7ca-7845-4e7b-93ea-acdc14ee4a14",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47b28F365Bf4CB38DB4B6356864BDE7bc4B35129/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47b28F365Bf4CB38DB4B6356864BDE7bc4B35129/logo.png"
+    }
+  },
+  "name": "FNB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

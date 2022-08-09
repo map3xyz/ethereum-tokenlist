@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F632f77a8077170Edcd8FADdADF06384CdC0e93",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6f4316e6-950e-4488-802e-a0ae4546bd9b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F632f77a8077170Edcd8FADdADF06384CdC0e93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F632f77a8077170Edcd8FADdADF06384CdC0e93/logo.png"
+    }
+  },
+  "name": "HRQ Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HRQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

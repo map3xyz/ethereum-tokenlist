@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB026840Be538828F3a43520420e69FC8548F5EF8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ec1e3f3-8630-4c1d-ac7e-f5919df275b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB026840Be538828F3a43520420e69FC8548F5EF8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB026840Be538828F3a43520420e69FC8548F5EF8/logo.png"
+    }
+  },
+  "name": "FoodSafetyChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

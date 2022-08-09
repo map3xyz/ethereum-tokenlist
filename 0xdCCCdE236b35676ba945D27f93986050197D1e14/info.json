@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdCCCdE236b35676ba945D27f93986050197D1e14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34c66d53-8609-4e4e-b67b-91f40101f16f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdCCCdE236b35676ba945D27f93986050197D1e14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdCCCdE236b35676ba945D27f93986050197D1e14/logo.png"
+    }
+  },
+  "name": "Zivio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

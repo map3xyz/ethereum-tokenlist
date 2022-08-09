@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE455C7a50b24DA3B48274272e4B53DdDf9c12A8A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74de6a72-2f72-4289-847c-3426e3621a57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE455C7a50b24DA3B48274272e4B53DdDf9c12A8A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE455C7a50b24DA3B48274272e4B53DdDf9c12A8A/logo.png"
+    }
+  },
+  "name": "DaCryptoCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

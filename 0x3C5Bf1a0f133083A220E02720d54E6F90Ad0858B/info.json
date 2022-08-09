@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C5Bf1a0f133083A220E02720d54E6F90Ad0858B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b2b8761d-1479-4eee-9a19-0b20f9584d03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C5Bf1a0f133083A220E02720d54E6F90Ad0858B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C5Bf1a0f133083A220E02720d54E6F90Ad0858B/logo.png"
+    }
+  },
+  "name": "Old Fishman Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

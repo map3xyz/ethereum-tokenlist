@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6efd5335-6d2c-456a-9d8b-9a7ba92df648",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795/logo.png"
+    }
+  },
+  "name": "3X Short BNB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNBBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

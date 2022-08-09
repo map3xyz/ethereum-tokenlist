@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb7C86bBb0cE3F993E2C7076FB3505EA28D583FCE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58457628-04ba-4117-9b83-7c0ebd77b5f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb7C86bBb0cE3F993E2C7076FB3505EA28D583FCE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7C86bBb0cE3F993E2C7076FB3505EA28D583FCE/logo.png"
+    }
+  },
+  "name": "BWCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "abaea5d3-4003-4db1-ab38-5a395553199d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f/logo.png"
+    }
+  },
+  "name": "Pool Sai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "plSai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

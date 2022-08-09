@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54bFd2c33B252F6C959688bb1Ef2169A96DcEE8f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e72e0465-8bc7-4566-a5c2-dbb43b86e1be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54bFd2c33B252F6C959688bb1Ef2169A96DcEE8f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54bFd2c33B252F6C959688bb1Ef2169A96DcEE8f/logo.png"
+    }
+  },
+  "name": "Bliss Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLISS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

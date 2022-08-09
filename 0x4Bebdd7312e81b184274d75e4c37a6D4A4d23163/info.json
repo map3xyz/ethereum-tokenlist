@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Bebdd7312e81b184274d75e4c37a6D4A4d23163",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa01ea7a-b6c1-4420-99d2-a7bb49b8b6d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Bebdd7312e81b184274d75e4c37a6D4A4d23163/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Bebdd7312e81b184274d75e4c37a6D4A4d23163/logo.png"
+    }
+  },
+  "name": "ALLBESTICO.com",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALLBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8e2245e-6f46-49b0-8762-8b88cd071cc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa/logo.png"
+    }
+  },
+  "name": "eosDAC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eosDAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

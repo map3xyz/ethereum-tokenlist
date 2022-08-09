@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08A3C1ae43883579De6184910beC740185414425",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "12b281b7-f0f9-4126-9937-8acfb970b6ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08A3C1ae43883579De6184910beC740185414425/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08A3C1ae43883579De6184910beC740185414425/logo.png"
+    }
+  },
+  "name": "Cabo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CABO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

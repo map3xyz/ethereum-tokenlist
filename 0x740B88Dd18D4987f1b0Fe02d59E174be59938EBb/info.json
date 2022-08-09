@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "f2269c3e-90a3-409f-a830-6ded3ccbd14f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb/logo.png"
+    }
+  },
+  "name": "Econ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

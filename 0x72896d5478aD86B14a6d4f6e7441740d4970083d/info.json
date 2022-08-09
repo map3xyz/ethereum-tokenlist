@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72896d5478aD86B14a6d4f6e7441740d4970083d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6792d505-44a5-42c0-9beb-1aefe9cb9d08",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72896d5478aD86B14a6d4f6e7441740d4970083d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72896d5478aD86B14a6d4f6e7441740d4970083d/logo.png"
+    }
+  },
+  "name": "Wrapped ZCore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WZCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

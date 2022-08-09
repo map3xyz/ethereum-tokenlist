@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeB04983Ab864B43322f393e621D3856cCAC889F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "240b006c-ddd3-47ad-954a-409a2dc05e60",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeB04983Ab864B43322f393e621D3856cCAC889F1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeB04983Ab864B43322f393e621D3856cCAC889F1/logo.png"
+    }
+  },
+  "name": "Bitcoin Blue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

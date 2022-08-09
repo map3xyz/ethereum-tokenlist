@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "600424b1-5fb1-498c-98c4-0c8cd8232a20",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC/logo.png"
+    }
+  },
+  "name": "Terawatt LED Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

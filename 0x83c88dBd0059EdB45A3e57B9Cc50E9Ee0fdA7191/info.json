@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7dd7c079-f7a8-44fd-b94a-01750a90ca78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191/logo.png"
+    }
+  },
+  "name": "Planet BlockChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

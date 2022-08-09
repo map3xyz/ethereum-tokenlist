@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea8215e5-6667-4b5d-b998-215e050f45fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf/logo.png"
+    }
+  },
+  "name": "Agrolot Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

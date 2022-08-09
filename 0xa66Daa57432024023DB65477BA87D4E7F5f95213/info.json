@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa66Daa57432024023DB65477BA87D4E7F5f95213",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd587a58-a0eb-4556-9ed6-43c5d1fe0f25",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa66Daa57432024023DB65477BA87D4E7F5f95213/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa66Daa57432024023DB65477BA87D4E7F5f95213/logo.png"
+    }
+  },
+  "name": "Huobi Pool Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64786063A352b399d44de2875909D1229F120eBE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "862be8c5-23d5-453c-832a-56217d0d42fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64786063A352b399d44de2875909D1229F120eBE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64786063A352b399d44de2875909D1229F120eBE/logo.png"
+    }
+  },
+  "name": "TAUR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

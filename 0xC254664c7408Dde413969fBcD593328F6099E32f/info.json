@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC254664c7408Dde413969fBcD593328F6099E32f",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d6d8078b-861e-45c8-9745-6cec459581a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC254664c7408Dde413969fBcD593328F6099E32f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC254664c7408Dde413969fBcD593328F6099E32f/logo.png"
+    }
+  },
+  "name": "YGG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

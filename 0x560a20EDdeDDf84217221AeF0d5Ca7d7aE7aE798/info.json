@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x560a20EDdeDDf84217221AeF0d5Ca7d7aE7aE798",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "137c1b97-af6c-4240-bf18-b4ee4d050b90",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x560a20EDdeDDf84217221AeF0d5Ca7d7aE7aE798/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x560a20EDdeDDf84217221AeF0d5Ca7d7aE7aE798/logo.png"
+    }
+  },
+  "name": "PlasmaBank token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PBK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

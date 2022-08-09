@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8ABAF9a8ae10Cd4AF52C1B336cC5Bd4eaF6C5A7B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8339e4f3-fc03-4fe9-92fa-99f83ecc7cf2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8ABAF9a8ae10Cd4AF52C1B336cC5Bd4eaF6C5A7B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8ABAF9a8ae10Cd4AF52C1B336cC5Bd4eaF6C5A7B/logo.png"
+    }
+  },
+  "name": "Qubix Credit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

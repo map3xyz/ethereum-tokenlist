@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC8058D59e208399B76E66Da1EC669dD6B1BeE2ea",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "9ef13f93-236f-436a-86b2-c6ce7d08c110",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC8058D59e208399B76E66Da1EC669dD6B1BeE2ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC8058D59e208399B76E66Da1EC669dD6B1BeE2ea/logo.png"
+    }
+  },
+  "name": "Gold Bits Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

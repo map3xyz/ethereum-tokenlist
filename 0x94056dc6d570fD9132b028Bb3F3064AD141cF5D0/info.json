@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f4ab371-8ae7-4b20-898f-7c0f8bae4ae7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0/logo.png"
+    }
+  },
+  "name": "THE GLOBAL CHAIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

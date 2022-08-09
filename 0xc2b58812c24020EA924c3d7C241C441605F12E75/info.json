@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc2b58812c24020EA924c3d7C241C441605F12E75",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "27518012-3b59-490a-b3aa-6e67f45ff104",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc2b58812c24020EA924c3d7C241C441605F12E75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc2b58812c24020EA924c3d7C241C441605F12E75/logo.png"
+    }
+  },
+  "name": "Entherfound",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

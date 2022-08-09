@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x331fA6C97c64e47475164b9fC8143b533c5eF529",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cafc3de-6434-489b-be3e-9b0ffa27b583",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x331fA6C97c64e47475164b9fC8143b533c5eF529/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x331fA6C97c64e47475164b9fC8143b533c5eF529/logo.png"
+    }
+  },
+  "name": "EXMR FDN.",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXMR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

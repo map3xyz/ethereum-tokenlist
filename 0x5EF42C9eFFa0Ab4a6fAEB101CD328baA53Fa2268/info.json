@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5EF42C9eFFa0Ab4a6fAEB101CD328baA53Fa2268",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8d15ec0-5513-4cfb-8e71-6ae01b5d03d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5EF42C9eFFa0Ab4a6fAEB101CD328baA53Fa2268/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5EF42C9eFFa0Ab4a6fAEB101CD328baA53Fa2268/logo.png"
+    }
+  },
+  "name": "KTLCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

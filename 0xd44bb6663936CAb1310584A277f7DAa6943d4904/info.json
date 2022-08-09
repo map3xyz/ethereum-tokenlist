@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd44bb6663936CAb1310584A277f7DAa6943d4904",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f440f97c-04ff-4061-a483-9ee3d240beb2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd44bb6663936CAb1310584A277f7DAa6943d4904/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd44bb6663936CAb1310584A277f7DAa6943d4904/logo.png"
+    }
+  },
+  "name": "Winco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

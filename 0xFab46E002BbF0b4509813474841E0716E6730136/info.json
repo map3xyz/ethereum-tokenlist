@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFab46E002BbF0b4509813474841E0716E6730136",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7b95f8fa-1857-48da-b157-3063f04e4a73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFab46E002BbF0b4509813474841E0716E6730136/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFab46E002BbF0b4509813474841E0716E6730136/logo.png"
+    }
+  },
+  "name": "FaucetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

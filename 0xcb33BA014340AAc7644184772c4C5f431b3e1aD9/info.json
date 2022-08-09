@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcb33BA014340AAc7644184772c4C5f431b3e1aD9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "220b01db-6bb1-4fb0-994d-dd6c71f7877f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcb33BA014340AAc7644184772c4C5f431b3e1aD9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb33BA014340AAc7644184772c4C5f431b3e1aD9/logo.png"
+    }
+  },
+  "name": "Basic business chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a563494d-d593-40c8-b27e-ba0b45e9bb5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad/logo.png"
+    }
+  },
+  "name": "CREED",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

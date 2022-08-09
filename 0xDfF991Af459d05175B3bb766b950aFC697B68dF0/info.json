@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDfF991Af459d05175B3bb766b950aFC697B68dF0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d44b3c44-0af5-4711-b259-595014720823",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDfF991Af459d05175B3bb766b950aFC697B68dF0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDfF991Af459d05175B3bb766b950aFC697B68dF0/logo.png"
+    }
+  },
+  "name": "HotLove",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

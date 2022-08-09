@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33b282C88dE3E8eD471c24e43f60816dcAbe12f4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c67ae75-8de2-4064-a752-7a97046cf70b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33b282C88dE3E8eD471c24e43f60816dcAbe12f4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33b282C88dE3E8eD471c24e43f60816dcAbe12f4/logo.png"
+    }
+  },
+  "name": "Hopper Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDF2705d4368Cd2EE3bbfF73594aE47244064dFfB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e41b3f57-c5a2-4b29-a3b0-0f6642fbef2a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDF2705d4368Cd2EE3bbfF73594aE47244064dFfB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDF2705d4368Cd2EE3bbfF73594aE47244064dFfB/logo.png"
+    }
+  },
+  "name": "Xenoverse",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XENO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

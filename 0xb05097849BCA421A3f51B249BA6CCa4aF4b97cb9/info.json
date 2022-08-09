@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f18aa03-4e4a-4b55-9198-912024adbd60",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png"
+    }
+  },
+  "name": "Float Protocol: FLOAT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLOAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

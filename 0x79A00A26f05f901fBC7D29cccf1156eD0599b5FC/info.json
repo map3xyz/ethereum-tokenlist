@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79A00A26f05f901fBC7D29cccf1156eD0599b5FC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0de33859-2a07-4620-a4c0-e2a9d9696f23",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79A00A26f05f901fBC7D29cccf1156eD0599b5FC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79A00A26f05f901fBC7D29cccf1156eD0599b5FC/logo.png"
+    }
+  },
+  "name": "Astra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

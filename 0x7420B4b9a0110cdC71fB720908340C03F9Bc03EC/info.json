@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6d19475-a82a-438d-86e1-58b832bdf1e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC/logo.png"
+    }
+  },
+  "name": "JasmyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JASMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

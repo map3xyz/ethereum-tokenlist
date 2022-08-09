@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c1bc7e7-2791-4099-bfb6-8bfdb35b7641",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8/logo.png"
+    }
+  },
+  "name": "BTU Incentivized DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "bDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D45640F5D0B75280647f2F37CCD19c1167f833c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3addb8f3-f0ed-4112-863d-6f99b5f4bea1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6D45640F5D0B75280647f2F37CCD19c1167f833c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6D45640F5D0B75280647f2F37CCD19c1167f833c/logo.png"
+    }
+  },
+  "name": "FLEx Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLEx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf5ED2Dc77f0D1ea7f106ecBd1850e406adC41b51",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f43772e-79da-4244-a1f0-787d68ea8465",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5ED2Dc77f0D1ea7f106ecBd1850e406adC41b51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5ED2Dc77f0D1ea7f106ecBd1850e406adC41b51/logo.png"
+    }
+  },
+  "name": "The Ocean Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCEAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

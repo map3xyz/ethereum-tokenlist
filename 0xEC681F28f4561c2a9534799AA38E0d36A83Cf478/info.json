@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ad52609-2866-4061-bb95-bc44bab1f3ee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478/logo.png"
+    }
+  },
+  "name": "YVS.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YVS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

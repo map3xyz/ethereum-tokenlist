@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da3af64b-21aa-4285-843c-dc722eef90f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo.png"
+    }
+  },
+  "name": "UST Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

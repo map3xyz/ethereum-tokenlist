@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2c2be31-b11e-4ff0-bad9-d65f94a18cf7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B/logo.png"
+    }
+  },
+  "name": "FASToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

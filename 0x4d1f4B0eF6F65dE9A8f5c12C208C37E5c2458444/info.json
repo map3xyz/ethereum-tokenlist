@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4d1f4B0eF6F65dE9A8f5c12C208C37E5c2458444",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "c8b3f7b4-20df-46f5-96d4-a43572446f62",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d1f4B0eF6F65dE9A8f5c12C208C37E5c2458444/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d1f4B0eF6F65dE9A8f5c12C208C37E5c2458444/logo.png"
+    }
+  },
+  "name": "OREO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Orion",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e93145d2-767c-40de-a0cd-8d85aad4bc94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x69BEaB403438253f13b6e92Db91F7FB849258263/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69BEaB403438253f13b6e92Db91F7FB849258263/logo.png"
+    }
+  },
+  "name": "NeuroToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

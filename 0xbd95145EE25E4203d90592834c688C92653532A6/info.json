@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbd95145EE25E4203d90592834c688C92653532A6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c045d105-5da3-41ce-a3bc-90f1bbfed2f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbd95145EE25E4203d90592834c688C92653532A6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbd95145EE25E4203d90592834c688C92653532A6/logo.png"
+    }
+  },
+  "name": "UPO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UPO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

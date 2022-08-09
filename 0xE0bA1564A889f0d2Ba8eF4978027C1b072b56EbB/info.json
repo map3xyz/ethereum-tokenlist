@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE0bA1564A889f0d2Ba8eF4978027C1b072b56EbB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1e3bbe35-3795-4bab-9666-46f47f411589",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE0bA1564A889f0d2Ba8eF4978027C1b072b56EbB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE0bA1564A889f0d2Ba8eF4978027C1b072b56EbB/logo.png"
+    }
+  },
+  "name": "VIDTC Luxury goods",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

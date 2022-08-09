@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f464bfe2292748A0FED58Bb53D3838B4CE018b0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1d92125b-711e-4635-ab7b-5c44fe329715",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f464bfe2292748A0FED58Bb53D3838B4CE018b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f464bfe2292748A0FED58Bb53D3838B4CE018b0/logo.png"
+    }
+  },
+  "name": "KEVIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEVIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

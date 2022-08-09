@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b38dfb62-479f-4742-9637-32ead345f723",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFc979087305A826c2B2a0056cFAbA50aad3E6439/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFc979087305A826c2B2a0056cFAbA50aad3E6439/logo.png"
+    }
+  },
+  "name": "DAFI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

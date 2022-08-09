@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc53f6C2Ac35D30cc47Ddf3C320874b21dFA38791",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b3125d05-234b-4d9a-8254-6496dd1b8b9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc53f6C2Ac35D30cc47Ddf3C320874b21dFA38791/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc53f6C2Ac35D30cc47Ddf3C320874b21dFA38791/logo.png"
+    }
+  },
+  "name": "Gcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

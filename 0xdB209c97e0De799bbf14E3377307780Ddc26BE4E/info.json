@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB209c97e0De799bbf14E3377307780Ddc26BE4E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f328912d-c418-474d-954e-8057b11a58a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB209c97e0De799bbf14E3377307780Ddc26BE4E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB209c97e0De799bbf14E3377307780Ddc26BE4E/logo.png"
+    }
+  },
+  "name": "DarkPay Wallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

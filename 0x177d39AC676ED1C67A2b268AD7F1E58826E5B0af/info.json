@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c6c0fc8-9702-40d1-ba30-e9f360a26f93",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af/logo.png"
+    }
+  },
+  "name": "Blox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

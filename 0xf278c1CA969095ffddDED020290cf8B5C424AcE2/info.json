@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58d32ba2-f648-4235-9138-27c2e51a8dc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf278c1CA969095ffddDED020290cf8B5C424AcE2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf278c1CA969095ffddDED020290cf8B5C424AcE2/logo.png"
+    }
+  },
+  "name": "RUFF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUFF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

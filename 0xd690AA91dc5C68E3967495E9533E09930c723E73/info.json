@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd690AA91dc5C68E3967495E9533E09930c723E73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "776b1ad7-1851-4208-99cb-c85c1b66795d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd690AA91dc5C68E3967495E9533E09930c723E73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd690AA91dc5C68E3967495E9533E09930c723E73/logo.png"
+    }
+  },
+  "name": "HapTap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33DCd369d697132dE252884336225DE31fB474b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8eee7ef8-516c-4eaa-b80c-f35bd9e5c088",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33DCd369d697132dE252884336225DE31fB474b2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33DCd369d697132dE252884336225DE31fB474b2/logo.png"
+    }
+  },
+  "name": "Alice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x411A81C8Cd604941be13dBBD33B54e6f25d84683",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4df4c40d-6ce0-4b43-963d-d7e8df49545c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x411A81C8Cd604941be13dBBD33B54e6f25d84683/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x411A81C8Cd604941be13dBBD33B54e6f25d84683/logo.png"
+    }
+  },
+  "name": "Letsfair",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

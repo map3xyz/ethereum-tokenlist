@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d518dfbb-c2ae-4dec-8772-80ceba704e5f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0/logo.png"
+    }
+  },
+  "name": "PayPie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

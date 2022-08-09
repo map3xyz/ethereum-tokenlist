@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00818278-2a60-4364-8b08-c6c4c7bc4ee1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1/logo.png"
+    }
+  },
+  "name": "Groocoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GROO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

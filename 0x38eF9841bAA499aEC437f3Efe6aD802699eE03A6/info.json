@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x38eF9841bAA499aEC437f3Efe6aD802699eE03A6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3279c222-e605-4944-9025-6498732148c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x38eF9841bAA499aEC437f3Efe6aD802699eE03A6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38eF9841bAA499aEC437f3Efe6aD802699eE03A6/logo.png"
+    }
+  },
+  "name": "Blockchain Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EURD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6a2c0bd-7c46-4f4d-97a0-7956975298be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9/logo.png"
+    }
+  },
+  "name": "bZx Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

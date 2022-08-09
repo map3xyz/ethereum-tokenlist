@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83C017A3FcD81E2d3ed00D8941f1c861587ceba2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0c56417-4323-412d-886b-84c291ecb480",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83C017A3FcD81E2d3ed00D8941f1c861587ceba2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83C017A3FcD81E2d3ed00D8941f1c861587ceba2/logo.png"
+    }
+  },
+  "name": "Mi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

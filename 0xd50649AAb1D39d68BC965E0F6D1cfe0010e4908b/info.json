@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd50649AAb1D39d68BC965E0F6D1cfe0010e4908b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3e3eff25-c8ef-4cdc-972c-9768fee17fee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd50649AAb1D39d68BC965E0F6D1cfe0010e4908b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd50649AAb1D39d68BC965E0F6D1cfe0010e4908b/logo.png"
+    }
+  },
+  "name": "TOSC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

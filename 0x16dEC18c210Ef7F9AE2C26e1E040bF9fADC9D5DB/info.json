@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16dEC18c210Ef7F9AE2C26e1E040bF9fADC9D5DB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b9a6b78e-9397-4a05-8be6-01126c6269a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16dEC18c210Ef7F9AE2C26e1E040bF9fADC9D5DB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16dEC18c210Ef7F9AE2C26e1E040bF9fADC9D5DB/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 198-CN29",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

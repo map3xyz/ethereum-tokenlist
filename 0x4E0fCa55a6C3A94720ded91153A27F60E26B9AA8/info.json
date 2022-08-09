@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E0fCa55a6C3A94720ded91153A27F60E26B9AA8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14967dcd-afd9-4a6e-b06e-8f352c33f795",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E0fCa55a6C3A94720ded91153A27F60E26B9AA8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E0fCa55a6C3A94720ded91153A27F60E26B9AA8/logo.png"
+    }
+  },
+  "name": "Boost",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

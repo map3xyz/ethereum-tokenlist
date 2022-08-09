@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83f798e925BcD4017Eb265844FDDAbb448f1707D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a09146ad-d30d-43d4-baf2-51cf006e1cb3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83f798e925BcD4017Eb265844FDDAbb448f1707D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83f798e925BcD4017Eb265844FDDAbb448f1707D/logo.png"
+    }
+  },
+  "name": "iearn USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yUSDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

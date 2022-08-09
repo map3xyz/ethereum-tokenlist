@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFC97655AE3714de60B518B7EA225b240AbF9d24E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b84decb9-b8a4-450b-a06e-605e3e6a12c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFC97655AE3714de60B518B7EA225b240AbF9d24E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFC97655AE3714de60B518B7EA225b240AbF9d24E/logo.png"
+    }
+  },
+  "name": "HongKongCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HKCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

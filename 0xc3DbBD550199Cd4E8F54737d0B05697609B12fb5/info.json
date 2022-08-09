@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3DbBD550199Cd4E8F54737d0B05697609B12fb5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a86b9e29-fa60-4dc5-adef-b93d8b92ddb7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3DbBD550199Cd4E8F54737d0B05697609B12fb5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3DbBD550199Cd4E8F54737d0B05697609B12fb5/logo.png"
+    }
+  },
+  "name": "OBIT Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

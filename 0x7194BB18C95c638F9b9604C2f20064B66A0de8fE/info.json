@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7194BB18C95c638F9b9604C2f20064B66A0de8fE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7aca5dc4-44de-4af2-98ec-d4128dd265b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7194BB18C95c638F9b9604C2f20064B66A0de8fE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7194BB18C95c638F9b9604C2f20064B66A0de8fE/logo.png"
+    }
+  },
+  "name": "Learno",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

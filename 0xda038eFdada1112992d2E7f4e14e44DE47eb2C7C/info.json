@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xda038eFdada1112992d2E7f4e14e44DE47eb2C7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1fca3eda-0e5f-41c5-b3b7-67123efb46b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xda038eFdada1112992d2E7f4e14e44DE47eb2C7C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xda038eFdada1112992d2E7f4e14e44DE47eb2C7C/logo.png"
+    }
+  },
+  "name": "Monkash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

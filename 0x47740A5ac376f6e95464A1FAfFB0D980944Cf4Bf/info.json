@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47740A5ac376f6e95464A1FAfFB0D980944Cf4Bf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7e34fdaf-8439-467a-80d0-01bd827c57dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47740A5ac376f6e95464A1FAfFB0D980944Cf4Bf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47740A5ac376f6e95464A1FAfFB0D980944Cf4Bf/logo.png"
+    }
+  },
+  "name": "RotasDoGarimpo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

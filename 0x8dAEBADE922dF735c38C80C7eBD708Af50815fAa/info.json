@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39593156-8661-41cf-9126-da3d763bd051",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png"
+    }
+  },
+  "name": "tBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

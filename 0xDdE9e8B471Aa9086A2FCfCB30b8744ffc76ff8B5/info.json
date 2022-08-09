@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDdE9e8B471Aa9086A2FCfCB30b8744ffc76ff8B5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "830ee2ea-382a-49f5-b224-f5cfaf375bd5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDdE9e8B471Aa9086A2FCfCB30b8744ffc76ff8B5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDdE9e8B471Aa9086A2FCfCB30b8744ffc76ff8B5/logo.png"
+    }
+  },
+  "name": "AGGCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGGCE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a298c68d-3eb7-40b7-af58-69cce92664f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc394f10545AeEf24483d2347B32A34a44F20E6F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc394f10545AeEf24483d2347B32A34a44F20E6F/logo.png"
+    }
+  },
+  "name": "Vault Guardian Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

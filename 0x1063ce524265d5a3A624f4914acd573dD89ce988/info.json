@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1063ce524265d5a3A624f4914acd573dD89ce988",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eac954ea-c9e7-430a-b433-d369778d5bc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1063ce524265d5a3A624f4914acd573dD89ce988/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1063ce524265d5a3A624f4914acd573dD89ce988/logo.png"
+    }
+  },
+  "name": "Aigang",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

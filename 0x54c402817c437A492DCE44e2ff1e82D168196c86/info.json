@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54c402817c437A492DCE44e2ff1e82D168196c86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9048a5eb-684a-497d-b52f-6acb907265ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54c402817c437A492DCE44e2ff1e82D168196c86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54c402817c437A492DCE44e2ff1e82D168196c86/logo.png"
+    }
+  },
+  "name": "Visor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

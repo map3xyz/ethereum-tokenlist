@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x995Ff3562692349e78001C9e37414919E65Ff04B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d4797268-2b11-4f8a-b996-c37fce1e1fff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x995Ff3562692349e78001C9e37414919E65Ff04B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x995Ff3562692349e78001C9e37414919E65Ff04B/logo.png"
+    }
+  },
+  "name": "bitbeb",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": " BEB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

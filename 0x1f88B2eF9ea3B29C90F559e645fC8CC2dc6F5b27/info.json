@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ffb1ab64-db46-4b88-8c6a-73d2aaf2e207",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27/logo.png"
+    }
+  },
+  "name": "GoMoney",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

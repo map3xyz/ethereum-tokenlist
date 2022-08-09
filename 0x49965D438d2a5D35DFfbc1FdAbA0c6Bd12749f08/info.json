@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49965D438d2a5D35DFfbc1FdAbA0c6Bd12749f08",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "6efb6a09-e6b9-4fd8-9a75-2fefcf63a4e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49965D438d2a5D35DFfbc1FdAbA0c6Bd12749f08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49965D438d2a5D35DFfbc1FdAbA0c6Bd12749f08/logo.png"
+    }
+  },
+  "name": "MAYCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAYCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

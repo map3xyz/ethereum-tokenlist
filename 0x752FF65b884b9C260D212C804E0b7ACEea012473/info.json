@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x752FF65b884b9C260D212C804E0b7ACEea012473",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af79aa69-a98a-4913-be70-460ff45e510a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x752FF65b884b9C260D212C804E0b7ACEea012473/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x752FF65b884b9C260D212C804E0b7ACEea012473/logo.png"
+    }
+  },
+  "name": "SnapCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

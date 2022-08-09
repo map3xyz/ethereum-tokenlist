@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x171D750d42d661B62C277a6B486ADb82348c3Eca",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e956bd93-6f30-4304-bb87-14bf2e461087",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x171D750d42d661B62C277a6B486ADb82348c3Eca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x171D750d42d661B62C277a6B486ADb82348c3Eca/logo.png"
+    }
+  },
+  "name": "Omnitude Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

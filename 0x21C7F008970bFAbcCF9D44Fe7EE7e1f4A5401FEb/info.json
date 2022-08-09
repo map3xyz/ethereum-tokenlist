@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21C7F008970bFAbcCF9D44Fe7EE7e1f4A5401FEb",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "893a4171-2a65-4fe2-b6e4-7d9bf65426f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21C7F008970bFAbcCF9D44Fe7EE7e1f4A5401FEb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21C7F008970bFAbcCF9D44Fe7EE7e1f4A5401FEb/logo.png"
+    }
+  },
+  "name": "Bobbies",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOBBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

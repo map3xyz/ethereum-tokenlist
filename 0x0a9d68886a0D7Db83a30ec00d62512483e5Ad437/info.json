@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "fa4b1b22-bd13-4678-8f6b-a8448828acba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437/logo.png"
+    }
+  },
+  "name": "Treecle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "655981ab-8548-47a7-b934-345b6bf08027",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279/logo.png"
+    }
+  },
+  "name": "Vether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

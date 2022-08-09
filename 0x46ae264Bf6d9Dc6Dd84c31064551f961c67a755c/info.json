@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea8a32c1-af9a-4e62-a4ee-434688d30f12",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c/logo.png"
+    }
+  },
+  "name": "HOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44449Fa4d607F807d1eD4a69ad942971728391C8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b7e4131-05d6-4fae-ab7c-e8720953bc09",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44449Fa4d607F807d1eD4a69ad942971728391C8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44449Fa4d607F807d1eD4a69ad942971728391C8/logo.png"
+    }
+  },
+  "name": "XMED Chain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XMCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

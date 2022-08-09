@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF8a4a9f541fb6B465804a0142c52C1D48914a1f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da016ea2-f914-4195-9d89-cf4217a87f47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF8a4a9f541fb6B465804a0142c52C1D48914a1f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8a4a9f541fb6B465804a0142c52C1D48914a1f7/logo.png"
+    }
+  },
+  "name": "TREECHAIN NETWORK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TREECOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

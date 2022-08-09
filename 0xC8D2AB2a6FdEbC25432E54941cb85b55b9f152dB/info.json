@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2968c94-f0fc-4cab-b428-f25d79edf302",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB/logo.png"
+    }
+  },
+  "name": "GRAP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

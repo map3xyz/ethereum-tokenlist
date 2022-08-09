@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x32A087D5fdF8c84eC32554c56727a7C81124544E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "793614f0-b28e-4367-856c-892904449fa5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32A087D5fdF8c84eC32554c56727a7C81124544E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32A087D5fdF8c84eC32554c56727a7C81124544E/logo.png"
+    }
+  },
+  "name": "Movement DAO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

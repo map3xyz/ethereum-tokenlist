@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d9e16b5a-0a67-4a6f-bd14-0778412ad9b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4/logo.png"
+    }
+  },
+  "name": "SCB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

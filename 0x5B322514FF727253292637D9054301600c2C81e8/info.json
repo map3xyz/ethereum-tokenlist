@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B322514FF727253292637D9054301600c2C81e8",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "7ce9f08b-889a-4a64-a4b6-d7448cef2aeb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B322514FF727253292637D9054301600c2C81e8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B322514FF727253292637D9054301600c2C81e8/logo.png"
+    }
+  },
+  "name": "DAD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

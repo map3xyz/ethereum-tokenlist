@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "103c6c1b-233b-42ef-b60d-6ca0d0520730",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14/logo.png"
+    }
+  },
+  "name": "DAV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

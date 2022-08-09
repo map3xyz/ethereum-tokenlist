@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b49f57eb-a45d-4f9b-84b9-bbc56b9f16ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E/logo.png"
+    }
+  },
+  "name": "Rootkit Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

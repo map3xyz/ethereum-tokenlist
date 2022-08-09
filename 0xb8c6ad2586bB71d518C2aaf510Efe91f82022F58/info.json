@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab39e1e4-6f82-4a8b-9963-d5c4e14df15d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58/logo.png"
+    }
+  },
+  "name": "Gomics",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

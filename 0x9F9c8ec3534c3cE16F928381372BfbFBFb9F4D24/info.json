@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72acc7ef-1926-40ed-8b36-e63c351aeeba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24/logo.png"
+    }
+  },
+  "name": "GraphLinq",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GLQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

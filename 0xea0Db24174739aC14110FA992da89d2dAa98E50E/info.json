@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea0Db24174739aC14110FA992da89d2dAa98E50E",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "268cd697-0c60-4f4c-a03e-a8e1e19e2617",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea0Db24174739aC14110FA992da89d2dAa98E50E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea0Db24174739aC14110FA992da89d2dAa98E50E/logo.png"
+    }
+  },
+  "name": "upbtcToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

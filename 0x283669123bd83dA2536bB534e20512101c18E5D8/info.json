@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x283669123bd83dA2536bB534e20512101c18E5D8",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6ff02d49-e2e9-40e1-a29a-a1a312312b6b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x283669123bd83dA2536bB534e20512101c18E5D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x283669123bd83dA2536bB534e20512101c18E5D8/logo.png"
+    }
+  },
+  "name": "Bitpayer Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "acb945c1-6c5d-4b4f-9c00-7914a2633035",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E/logo.png"
+    }
+  },
+  "name": "REPE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

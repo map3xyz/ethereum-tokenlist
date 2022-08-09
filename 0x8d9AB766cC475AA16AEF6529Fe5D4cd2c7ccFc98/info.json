@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8d9AB766cC475AA16AEF6529Fe5D4cd2c7ccFc98",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "85228d21-1234-4e0f-92a0-c4d2a74a9435",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8d9AB766cC475AA16AEF6529Fe5D4cd2c7ccFc98/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8d9AB766cC475AA16AEF6529Fe5D4cd2c7ccFc98/logo.png"
+    }
+  },
+  "name": "WAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

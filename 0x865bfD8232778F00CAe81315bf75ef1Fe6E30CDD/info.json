@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x865bfD8232778F00CAe81315bf75ef1Fe6E30CDD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2be9821b-3936-44a0-af2c-339c1a7a3b0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x865bfD8232778F00CAe81315bf75ef1Fe6E30CDD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x865bfD8232778F00CAe81315bf75ef1Fe6E30CDD/logo.png"
+    }
+  },
+  "name": "ABLE X Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

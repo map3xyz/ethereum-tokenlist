@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE9cDA0749f2393254773Fd75A1Ca1639D9B25A17",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "f0aff7fd-359f-4cf4-aa49-b94a351b9cc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE9cDA0749f2393254773Fd75A1Ca1639D9B25A17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE9cDA0749f2393254773Fd75A1Ca1639D9B25A17/logo.png"
+    }
+  },
+  "name": "PXart",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

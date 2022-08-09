@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "474ee174-d0dd-4cca-8a5d-3e220c4c7de0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDf49C9f599A0A9049D97CFF34D0C30E468987389/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDf49C9f599A0A9049D97CFF34D0C30E468987389/logo.png"
+    }
+  },
+  "name": "Smart Advertising Transaction Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SATT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

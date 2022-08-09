@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f801928106c4C4272275e130Be1473dBD8b492c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f8dff9e-e0bf-44b4-99c4-6d27a67f2e99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f801928106c4C4272275e130Be1473dBD8b492c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f801928106c4C4272275e130Be1473dBD8b492c/logo.png"
+    }
+  },
+  "name": "SURPRISE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

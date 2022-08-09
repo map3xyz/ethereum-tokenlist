@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41f6a853-af09-4008-8129-e5372d538729",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0/logo.png"
+    }
+  },
+  "name": "Guider",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a8C4342d07C90293fbb82D9B08098c8603E0947",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "140ccdf2-5014-4a26-b0aa-d5b8fdcf9c64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5a8C4342d07C90293fbb82D9B08098c8603E0947/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a8C4342d07C90293fbb82D9B08098c8603E0947/logo.png"
+    }
+  },
+  "name": "LocalKoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

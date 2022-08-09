@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73576282-7909-4cd4-a3d9-19d31d1ead52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x947AEb02304391f8fbE5B25D7D98D649b57b1788/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x947AEb02304391f8fbE5B25D7D98D649b57b1788/logo.png"
+    }
+  },
+  "name": "Mandala Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

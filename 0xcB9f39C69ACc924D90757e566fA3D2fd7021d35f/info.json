@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcB9f39C69ACc924D90757e566fA3D2fd7021d35f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "946fc796-4c18-4ec6-b34d-8b4afdec6771",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcB9f39C69ACc924D90757e566fA3D2fd7021d35f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcB9f39C69ACc924D90757e566fA3D2fd7021d35f/logo.png"
+    }
+  },
+  "name": "Khmining",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

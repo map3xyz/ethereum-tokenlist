@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8D0e3f8b0E1CD67629a05d529F7e036D86794293",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b0005d6e-6038-453c-abe2-84f93f2ffb38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8D0e3f8b0E1CD67629a05d529F7e036D86794293/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8D0e3f8b0E1CD67629a05d529F7e036D86794293/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 220-CN10",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

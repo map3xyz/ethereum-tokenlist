@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee8d90a1-a3cd-4750-a73d-e8d0574ade76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x578B49C45961f98d8DF92854b53F1641AF0A5036/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x578B49C45961f98d8DF92854b53F1641AF0A5036/logo.png"
+    }
+  },
+  "name": "LinkaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LINKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

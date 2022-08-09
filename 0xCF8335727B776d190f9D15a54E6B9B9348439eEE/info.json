@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCF8335727B776d190f9D15a54E6B9B9348439eEE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c2884b92-0fa0-4eb9-908b-74890037cf9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCF8335727B776d190f9D15a54E6B9B9348439eEE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCF8335727B776d190f9D15a54E6B9B9348439eEE/logo.png"
+    }
+  },
+  "name": "Whackd",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WHACKD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

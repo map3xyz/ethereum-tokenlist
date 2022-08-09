@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEBd01Df7e1E56e89A52c5DE185377d3A2eEf9a2b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "def6c791-a0e3-420a-951a-72f7cd9d867a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEBd01Df7e1E56e89A52c5DE185377d3A2eEf9a2b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEBd01Df7e1E56e89A52c5DE185377d3A2eEf9a2b/logo.png"
+    }
+  },
+  "name": "FlameHyre Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8B7ddE91e299e5c48128E388D7e3320E3839320D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ade2502c-179f-444e-a896-41f3fd1ced6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8B7ddE91e299e5c48128E388D7e3320E3839320D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8B7ddE91e299e5c48128E388D7e3320E3839320D/logo.png"
+    }
+  },
+  "name": "ABC.Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABCchain",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

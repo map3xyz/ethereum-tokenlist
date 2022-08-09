@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "ff8f33f1-9c71-40f9-8f6e-b2cbf2adc4d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x780116D91E5592E58a3b3c76A351571b39abCEc6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x780116D91E5592E58a3b3c76A351571b39abCEc6/logo.png"
+    }
+  },
+  "name": "Boxx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOXX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Fe327c5a809fA721D47b80C5038A0b393E61305",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "88cf4f7f-333a-4808-8e88-d8372102d0a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fe327c5a809fA721D47b80C5038A0b393E61305/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Fe327c5a809fA721D47b80C5038A0b393E61305/logo.png"
+    }
+  },
+  "name": "IOTW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOTW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

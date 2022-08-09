@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8599112EC500eeb267e0141D3A5ee40316400913",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26f45536-85e6-4154-9245-54cab2d6bad2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8599112EC500eeb267e0141D3A5ee40316400913/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8599112EC500eeb267e0141D3A5ee40316400913/logo.png"
+    }
+  },
+  "name": "HOLLYWOODCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLWD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

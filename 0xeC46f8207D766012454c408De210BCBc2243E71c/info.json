@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeC46f8207D766012454c408De210BCBc2243E71c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "505062c4-5ed6-4a7b-9130-1e7489a9ca6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeC46f8207D766012454c408De210BCBc2243E71c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeC46f8207D766012454c408De210BCBc2243E71c/logo.png"
+    }
+  },
+  "name": "Nitro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "806af065-e116-42bf-b16d-092bb03e1d3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392/logo.png"
+    }
+  },
+  "name": "Menlo One",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

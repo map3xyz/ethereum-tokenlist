@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFe6e2CBd2E28b3A6F43aa17f58d9AC5D6fA19B99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02d0c7aa-880d-4965-bd9a-9da5d436641e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFe6e2CBd2E28b3A6F43aa17f58d9AC5D6fA19B99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFe6e2CBd2E28b3A6F43aa17f58d9AC5D6fA19B99/logo.png"
+    }
+  },
+  "name": "vKet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

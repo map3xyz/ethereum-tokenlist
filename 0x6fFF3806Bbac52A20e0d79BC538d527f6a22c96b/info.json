@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc7c9f17-a9c2-4bab-a15b-e93b4dd44757",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b/logo.png"
+    }
+  },
+  "name": "0x0000000000000000000000000000000000000000000000000000000000000020",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

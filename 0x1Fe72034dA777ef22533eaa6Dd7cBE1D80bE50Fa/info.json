@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c375fea7-4c22-45af-9a72-c2cfeea85b91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa/logo.png"
+    }
+  },
+  "name": "PayAccept",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

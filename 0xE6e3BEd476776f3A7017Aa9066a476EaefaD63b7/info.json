@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE6e3BEd476776f3A7017Aa9066a476EaefaD63b7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8db36cbb-5aff-4c2f-801f-c1d9ccad0273",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE6e3BEd476776f3A7017Aa9066a476EaefaD63b7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE6e3BEd476776f3A7017Aa9066a476EaefaD63b7/logo.png"
+    }
+  },
+  "name": "Bloggers Guild Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

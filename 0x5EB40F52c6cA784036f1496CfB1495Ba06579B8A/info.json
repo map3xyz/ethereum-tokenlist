@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81de8f69-f9e5-404f-9e86-0c33c8050f02",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5EB40F52c6cA784036f1496CfB1495Ba06579B8A/logo.png"
+    }
+  },
+  "name": "OwnerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec455ed1-97a8-4441-b685-e3e72697fa08",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa/logo.png"
+    }
+  },
+  "name": " 3X Short Bitcoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52964655-aa49-4f2a-8419-dd61509219c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29/logo.png"
+    }
+  },
+  "name": "FNKOSToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNKOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ca87d873-696c-4e19-8b5b-8009499fe2ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23/logo.png"
+    }
+  },
+  "name": "1World",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "1WO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

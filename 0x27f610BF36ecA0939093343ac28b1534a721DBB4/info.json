@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27f610BF36ecA0939093343ac28b1534a721DBB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f36b3fb6-6819-4086-92a2-300274f6e008",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27f610BF36ecA0939093343ac28b1534a721DBB4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27f610BF36ecA0939093343ac28b1534a721DBB4/logo.png"
+    }
+  },
+  "name": "Wand Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

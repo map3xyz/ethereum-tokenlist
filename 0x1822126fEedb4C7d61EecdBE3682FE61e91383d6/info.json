@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1822126fEedb4C7d61EecdBE3682FE61e91383d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef777460-6567-434d-9ecb-14a8477e22ba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1822126fEedb4C7d61EecdBE3682FE61e91383d6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1822126fEedb4C7d61EecdBE3682FE61e91383d6/logo.png"
+    }
+  },
+  "name": "XtockToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

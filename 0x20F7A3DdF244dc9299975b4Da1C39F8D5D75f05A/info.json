@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "6acf2755-d248-463e-8550-096e969a86e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A/logo.png"
+    }
+  },
+  "name": "Sapien Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

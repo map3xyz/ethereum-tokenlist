@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "482b1a7e-f7a3-4678-9541-d2e30a294b55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1014613E2B3CBc4d575054D4982E580d9b99d7B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1014613E2B3CBc4d575054D4982E580d9b99d7B1/logo.png"
+    }
+  },
+  "name": "BitCapitalVendorToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

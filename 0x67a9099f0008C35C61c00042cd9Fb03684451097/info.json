@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67a9099f0008C35C61c00042cd9Fb03684451097",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "163b22e6-6001-481f-83bc-a9ad1cb43b85",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67a9099f0008C35C61c00042cd9Fb03684451097/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67a9099f0008C35C61c00042cd9Fb03684451097/logo.png"
+    }
+  },
+  "name": "GAMESTARS TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

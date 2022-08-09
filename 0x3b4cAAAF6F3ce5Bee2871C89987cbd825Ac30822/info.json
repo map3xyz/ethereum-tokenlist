@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3933c916-6422-4012-8ed2-fad3eb226af8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822/logo.png"
+    }
+  },
+  "name": "Ofin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

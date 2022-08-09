@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29cF2AFCac8648ab3687E579684298650A66742c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "615adfbf-b468-4413-9d9e-1097a0400696",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29cF2AFCac8648ab3687E579684298650A66742c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29cF2AFCac8648ab3687E579684298650A66742c/logo.png"
+    }
+  },
+  "name": "SEAPonyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

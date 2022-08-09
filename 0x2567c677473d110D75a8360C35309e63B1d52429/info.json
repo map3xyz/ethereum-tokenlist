@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2567c677473d110D75a8360C35309e63B1d52429",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f69f8d5e-1821-4221-9f02-bfb53ff99863",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2567c677473d110D75a8360C35309e63B1d52429/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2567c677473d110D75a8360C35309e63B1d52429/logo.png"
+    }
+  },
+  "name": "ShareX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

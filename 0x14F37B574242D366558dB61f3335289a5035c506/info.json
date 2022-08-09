@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x14F37B574242D366558dB61f3335289a5035c506",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "7b40ef75-d31b-40c0-8db2-a0d911be0bf6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x14F37B574242D366558dB61f3335289a5035c506/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14F37B574242D366558dB61f3335289a5035c506/logo.png"
+    }
+  },
+  "name": "HackerGold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HKG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

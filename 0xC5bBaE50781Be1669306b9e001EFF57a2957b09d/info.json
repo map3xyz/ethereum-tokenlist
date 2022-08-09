@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "84668177-2233-4330-b17d-248df7164a22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC5bBaE50781Be1669306b9e001EFF57a2957b09d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC5bBaE50781Be1669306b9e001EFF57a2957b09d/logo.png"
+    }
+  },
+  "name": "Gifto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

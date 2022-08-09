@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22a6fd6e-990d-4b29-a168-40d09c5c6c4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e/logo.png"
+    }
+  },
+  "name": "Cajutel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

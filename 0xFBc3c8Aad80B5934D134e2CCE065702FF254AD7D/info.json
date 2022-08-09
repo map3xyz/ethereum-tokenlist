@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFBc3c8Aad80B5934D134e2CCE065702FF254AD7D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "716a2570-032c-4185-a4ac-551575f99aae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFBc3c8Aad80B5934D134e2CCE065702FF254AD7D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFBc3c8Aad80B5934D134e2CCE065702FF254AD7D/logo.png"
+    }
+  },
+  "name": "CHAOEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

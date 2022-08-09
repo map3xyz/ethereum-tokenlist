@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4a429924-cb57-42f8-897e-222d4ef3e883",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89/logo.png"
+    }
+  },
+  "name": "Mark",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

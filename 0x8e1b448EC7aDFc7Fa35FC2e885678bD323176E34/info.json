@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d04c5c05-61bc-4f76-b38e-0013aea66dca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34/logo.png"
+    }
+  },
+  "name": "Egretia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

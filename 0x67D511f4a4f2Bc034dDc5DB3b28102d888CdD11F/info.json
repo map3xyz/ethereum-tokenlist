@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67D511f4a4f2Bc034dDc5DB3b28102d888CdD11F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e4815bc-ce5e-4c6d-a819-bbe581eae549",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67D511f4a4f2Bc034dDc5DB3b28102d888CdD11F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67D511f4a4f2Bc034dDc5DB3b28102d888CdD11F/logo.png"
+    }
+  },
+  "name": "AlgoTradingFun",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

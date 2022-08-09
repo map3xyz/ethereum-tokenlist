@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb4a525631FB867cE79e6DD07B86B9A098501acd5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6c0bcf7-5c5d-4dee-99e4-9e6fe7583350",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb4a525631FB867cE79e6DD07B86B9A098501acd5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb4a525631FB867cE79e6DD07B86B9A098501acd5/logo.png"
+    }
+  },
+  "name": "CryptoMarketCloud",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2212b632-e40c-465c-9579-15e777f45ca6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png"
+    }
+  },
+  "name": "Polkadex ERC-20 Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PDEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

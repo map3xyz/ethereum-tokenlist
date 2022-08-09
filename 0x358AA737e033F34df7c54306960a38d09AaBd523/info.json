@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff0c4ffa-3c3e-4b31-8c13-286e5c74599c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x358AA737e033F34df7c54306960a38d09AaBd523/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x358AA737e033F34df7c54306960a38d09AaBd523/logo.png"
+    }
+  },
+  "name": "Ares Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

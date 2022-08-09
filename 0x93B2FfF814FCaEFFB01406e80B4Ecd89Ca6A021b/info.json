@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9abfd30f-f9df-4a78-a624-4e4dbc4827fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b/logo.png"
+    }
+  },
+  "name": "Grumpy Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRUMPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

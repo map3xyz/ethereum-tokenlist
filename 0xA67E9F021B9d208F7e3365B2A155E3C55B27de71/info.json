@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "59a660fa-00bb-4505-9754-0e8e2b867dfc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA67E9F021B9d208F7e3365B2A155E3C55B27de71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA67E9F021B9d208F7e3365B2A155E3C55B27de71/logo.png"
+    }
+  },
+  "name": "KleeKai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLEE",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

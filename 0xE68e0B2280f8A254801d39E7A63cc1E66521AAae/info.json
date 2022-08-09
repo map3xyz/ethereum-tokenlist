@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE68e0B2280f8A254801d39E7A63cc1E66521AAae",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "727e5e06-830d-4525-9374-7ea4df6404a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE68e0B2280f8A254801d39E7A63cc1E66521AAae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE68e0B2280f8A254801d39E7A63cc1E66521AAae/logo.png"
+    }
+  },
+  "name": "KRISTORIUM GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRISTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

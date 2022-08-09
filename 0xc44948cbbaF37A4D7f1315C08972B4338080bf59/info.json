@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc44948cbbaF37A4D7f1315C08972B4338080bf59",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45711dca-3b5a-4404-8a6d-da24dbc482e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc44948cbbaF37A4D7f1315C08972B4338080bf59/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc44948cbbaF37A4D7f1315C08972B4338080bf59/logo.png"
+    }
+  },
+  "name": "turepay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

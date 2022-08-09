@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f9172EcEeaC7bBac9DD6A8013bfA9a30F5E5628",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a92ff233-71d7-4b1e-957e-d24f25aeb25f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f9172EcEeaC7bBac9DD6A8013bfA9a30F5E5628/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f9172EcEeaC7bBac9DD6A8013bfA9a30F5E5628/logo.png"
+    }
+  },
+  "name": "SEXPOP Collective",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXPOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

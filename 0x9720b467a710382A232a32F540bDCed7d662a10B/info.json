@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9720b467a710382A232a32F540bDCed7d662a10B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4dd2b0c-99d7-4d76-a5d2-49d719932735",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9720b467a710382A232a32F540bDCed7d662a10B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9720b467a710382A232a32F540bDCed7d662a10B/logo.png"
+    }
+  },
+  "name": "Vezt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VZT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

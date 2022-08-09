@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD1b8D649Ba4C65Fdc382515E27E3B470Dc9a0585",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e79e65f3-3e66-4b1d-96d6-9ea654c086b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD1b8D649Ba4C65Fdc382515E27E3B470Dc9a0585/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD1b8D649Ba4C65Fdc382515E27E3B470Dc9a0585/logo.png"
+    }
+  },
+  "name": "WrapECO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eECO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "24f01362-eeda-4522-b24b-52a5b8c66ff3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C/logo.png"
+    }
+  },
+  "name": "Token-as-a-Service",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

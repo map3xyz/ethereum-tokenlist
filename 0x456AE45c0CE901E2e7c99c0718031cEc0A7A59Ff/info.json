@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96410950-0a9d-4d98-9b6d-f8e33b1effce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff/logo.png"
+    }
+  },
+  "name": "Vision Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

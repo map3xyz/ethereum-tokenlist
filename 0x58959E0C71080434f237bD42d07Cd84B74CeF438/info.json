@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58959E0C71080434f237bD42d07Cd84B74CeF438",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "4b26692d-5f44-4824-a827-2b08b5ad32f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58959E0C71080434f237bD42d07Cd84B74CeF438/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58959E0C71080434f237bD42d07Cd84B74CeF438/logo.png"
+    }
+  },
+  "name": "Tesra AI Supernet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TSR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

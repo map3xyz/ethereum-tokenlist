@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7c275f04-cf88-460e-b192-fdcfce68b917",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139/logo.png"
+    }
+  },
+  "name": "Attention Token of Media",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

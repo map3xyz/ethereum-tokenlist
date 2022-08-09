@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1f1c4ba8-b58d-41f3-b896-c64219626025",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831/logo.png"
+    }
+  },
+  "name": "BioCrypt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

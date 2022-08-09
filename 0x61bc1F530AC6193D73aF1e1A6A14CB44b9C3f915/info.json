@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7666e936-6c1c-4a83-927a-b37a404fee5e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915/logo.png"
+    }
+  },
+  "name": "Pajama.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PJM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

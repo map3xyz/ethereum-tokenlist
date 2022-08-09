@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6737003-dc2b-4415-8b7c-b410182d391f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x84679bc467DC6c2c40ab04538813AfF3796351f1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84679bc467DC6c2c40ab04538813AfF3796351f1/logo.png"
+    }
+  },
+  "name": "CHONK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHONK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

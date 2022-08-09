@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBFbe5332f172d77811bC6c272844f3e54A7B23bB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4aa194a-50bb-45dc-8ea3-389a0ef92243",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBFbe5332f172d77811bC6c272844f3e54A7B23bB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBFbe5332f172d77811bC6c272844f3e54A7B23bB/logo.png"
+    }
+  },
+  "name": "WemarkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WMK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

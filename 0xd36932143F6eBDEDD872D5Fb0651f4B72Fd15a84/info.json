@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdcd9f82-642a-45af-8006-dedf8a808cf1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84/logo.png"
+    }
+  },
+  "name": "mAAPL Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mAAPL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

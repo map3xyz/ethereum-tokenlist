@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c0f5888-7b84-4d23-b191-8bfd634dfc6e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Meter Stable mapped by Meter.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

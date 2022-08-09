@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d2aeae9-efee-4544-bf6f-4ba8d7a47f7b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xD478161C952357F05f0292B56012Cd8457F1cfbF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD478161C952357F05f0292B56012Cd8457F1cfbF/logo.png"
+    }
+  },
+  "name": "Polkamarkets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

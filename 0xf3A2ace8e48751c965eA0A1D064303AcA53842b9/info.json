@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf3A2ace8e48751c965eA0A1D064303AcA53842b9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ac9ff51b-bbed-4815-a5ce-e5b41102694b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf3A2ace8e48751c965eA0A1D064303AcA53842b9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3A2ace8e48751c965eA0A1D064303AcA53842b9/logo.png"
+    }
+  },
+  "name": "HXY Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

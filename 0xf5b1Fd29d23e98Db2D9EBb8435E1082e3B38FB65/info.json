@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "03ca615a-6232-4bae-b4c1-3623c07d7bd4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65/logo.png"
+    }
+  },
+  "name": "Kishimoto Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KISHIMOTO",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

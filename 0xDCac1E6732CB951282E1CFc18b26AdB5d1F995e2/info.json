@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDCac1E6732CB951282E1CFc18b26AdB5d1F995e2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eab96343-1a57-49a8-9fa4-566a2e9b248d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDCac1E6732CB951282E1CFc18b26AdB5d1F995e2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDCac1E6732CB951282E1CFc18b26AdB5d1F995e2/logo.png"
+    }
+  },
+  "name": "TrueGoldCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

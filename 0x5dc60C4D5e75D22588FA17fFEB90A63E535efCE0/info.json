@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7367995-d40b-430a-b4d2-c3bff848f165",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0/logo.png"
+    }
+  },
+  "name": "dKargo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

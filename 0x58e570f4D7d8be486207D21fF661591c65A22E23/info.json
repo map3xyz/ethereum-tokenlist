@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58e570f4D7d8be486207D21fF661591c65A22E23",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9e6274cd-4bf7-4382-8683-32fd3673b9d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58e570f4D7d8be486207D21fF661591c65A22E23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58e570f4D7d8be486207D21fF661591c65A22E23/logo.png"
+    }
+  },
+  "name": "Phoenex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHNEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

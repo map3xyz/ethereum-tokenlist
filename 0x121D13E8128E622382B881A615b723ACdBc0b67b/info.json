@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x121D13E8128E622382B881A615b723ACdBc0b67b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7c0e1aa-0a04-48c9-bbeb-72560660c04a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x121D13E8128E622382B881A615b723ACdBc0b67b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x121D13E8128E622382B881A615b723ACdBc0b67b/logo.png"
+    }
+  },
+  "name": "TeleBet Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6051C1354Ccc51b4d561e43b02735DEaE64768B8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "432bc6e1-ecc1-4b99-aa7f-631f5f5e29eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8/logo.png"
+    }
+  },
+  "name": "yRise",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yRise",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

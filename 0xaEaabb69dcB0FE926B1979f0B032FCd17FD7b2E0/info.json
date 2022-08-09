@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaEaabb69dcB0FE926B1979f0B032FCd17FD7b2E0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fec87fca-d958-49f7-aaeb-c83599cb2a95",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaEaabb69dcB0FE926B1979f0B032FCd17FD7b2E0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaEaabb69dcB0FE926B1979f0B032FCd17FD7b2E0/logo.png"
+    }
+  },
+  "name": "CYBR - Cyber Security Ecosystem Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf60bf4b-afab-461e-ae8e-c68d9860ab57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe/logo.png"
+    }
+  },
+  "name": "onG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

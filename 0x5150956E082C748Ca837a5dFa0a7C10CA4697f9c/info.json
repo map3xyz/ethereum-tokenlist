@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81437c56-9d9c-471b-8958-a5d3fe26381f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c/logo.png"
+    }
+  },
+  "name": "Zeedex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZDEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

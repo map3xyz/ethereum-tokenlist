@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf44745fBd41F6A1ba151df190db0564c5fCc4410",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c9375187-af1e-4e5a-84cc-5fa8768a31a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf44745fBd41F6A1ba151df190db0564c5fCc4410/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf44745fBd41F6A1ba151df190db0564c5fCc4410/logo.png"
+    }
+  },
+  "name": "COPYTRACK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

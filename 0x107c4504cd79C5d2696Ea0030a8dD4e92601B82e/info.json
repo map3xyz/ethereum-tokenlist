@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00ca13e4-0b0e-4fe4-9a5e-34f7e91cf4c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e/logo.png"
+    }
+  },
+  "name": "Bloom Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

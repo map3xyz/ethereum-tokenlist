@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6fE355c62C6faf6946cE888fFABa9fD12355ae27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d70b090d-0e2b-4752-bb20-3bdf7fd8a094",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6fE355c62C6faf6946cE888fFABa9fD12355ae27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fE355c62C6faf6946cE888fFABa9fD12355ae27/logo.png"
+    }
+  },
+  "name": "HashBX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

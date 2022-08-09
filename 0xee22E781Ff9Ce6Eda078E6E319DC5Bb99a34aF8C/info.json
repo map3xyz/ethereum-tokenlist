@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xee22E781Ff9Ce6Eda078E6E319DC5Bb99a34aF8C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25ffa854-a11f-4e16-b94b-4a4447323ef1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xee22E781Ff9Ce6Eda078E6E319DC5Bb99a34aF8C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee22E781Ff9Ce6Eda078E6E319DC5Bb99a34aF8C/logo.png"
+    }
+  },
+  "name": "Business Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

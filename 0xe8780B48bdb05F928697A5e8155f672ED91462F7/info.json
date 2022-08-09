@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a44e4555-513f-4289-9e61-c487a19d81f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe8780B48bdb05F928697A5e8155f672ED91462F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8780B48bdb05F928697A5e8155f672ED91462F7/logo.png"
+    }
+  },
+  "name": "Cashaa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

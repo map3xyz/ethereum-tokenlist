@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "256582c6-cdd6-4849-b5fa-a1993819e881",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b/logo.png"
+    }
+  },
+  "name": "Dragonglass",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

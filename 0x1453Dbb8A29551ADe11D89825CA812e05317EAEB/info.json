@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d0d9b07-3833-4f8a-99ca-4f08ab05ce5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB/logo.png"
+    }
+  },
+  "name": "TENDIES Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

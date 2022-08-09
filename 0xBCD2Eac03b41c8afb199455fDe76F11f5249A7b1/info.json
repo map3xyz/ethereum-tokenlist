@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3597c58c-22f1-4239-a120-f46631b1e59e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1/logo.png"
+    }
+  },
+  "name": "ATIS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

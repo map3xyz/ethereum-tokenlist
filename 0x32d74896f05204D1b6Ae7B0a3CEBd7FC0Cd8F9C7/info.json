@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e1bd1bc-7528-460c-9308-83c823331353",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7/logo.png"
+    }
+  },
+  "name": "Kcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

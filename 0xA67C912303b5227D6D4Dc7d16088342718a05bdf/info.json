@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA67C912303b5227D6D4Dc7d16088342718a05bdf",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ca4c169a-1b99-43b3-a9f1-c49244f83bec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA67C912303b5227D6D4Dc7d16088342718a05bdf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA67C912303b5227D6D4Dc7d16088342718a05bdf/logo.png"
+    }
+  },
+  "name": "Gemx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

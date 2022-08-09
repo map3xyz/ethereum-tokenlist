@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5f97622-6490-4f4c-8de5-5274fa9dd8b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo.png"
+    }
+  },
+  "name": "Wrapped NXM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wNXM",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

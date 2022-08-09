@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c539b35-f90e-429f-98b1-e5ecea9ee99a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980/logo.png"
+    }
+  },
+  "name": "Zippie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZIPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

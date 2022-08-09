@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03a117a3-d351-4626-bfe5-5a7b181be245",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666/logo.png"
+    }
+  },
+  "name": "XSAPPHIRE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

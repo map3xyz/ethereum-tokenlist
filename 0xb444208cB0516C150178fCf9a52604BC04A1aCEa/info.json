@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "884be966-4091-43ce-9e75-1c379ab35f2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb444208cB0516C150178fCf9a52604BC04A1aCEa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb444208cB0516C150178fCf9a52604BC04A1aCEa/logo.png"
+    }
+  },
+  "name": "GreenMed",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRMD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

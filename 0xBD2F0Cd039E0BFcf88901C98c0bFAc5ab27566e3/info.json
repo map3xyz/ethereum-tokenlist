@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "856a9509-6091-4769-b513-4cd118f9c93f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3/logo.png"
+    }
+  },
+  "name": "Dynamic Set Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

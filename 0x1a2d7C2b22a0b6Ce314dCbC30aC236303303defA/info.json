@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4e7126c-5447-4f15-9909-fdc9091d34cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA/logo.png"
+    }
+  },
+  "name": "IDRT Wrapper",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDRTW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

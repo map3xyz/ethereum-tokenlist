@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78a2a1029E3168b49d3A276C787050fF5106dCF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63c48053-f31e-4d4f-b481-66e4741da28c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78a2a1029E3168b49d3A276C787050fF5106dCF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78a2a1029E3168b49d3A276C787050fF5106dCF2/logo.png"
+    }
+  },
+  "name": "EZOOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EZW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

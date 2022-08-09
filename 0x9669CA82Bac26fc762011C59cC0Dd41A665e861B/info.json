@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9669CA82Bac26fc762011C59cC0Dd41A665e861B",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5e04e01d-85a2-4473-b885-a87db0630e9a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9669CA82Bac26fc762011C59cC0Dd41A665e861B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9669CA82Bac26fc762011C59cC0Dd41A665e861B/logo.png"
+    }
+  },
+  "name": "Cminers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTOB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

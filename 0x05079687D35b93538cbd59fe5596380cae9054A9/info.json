@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05079687D35b93538cbd59fe5596380cae9054A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad52f881-69ff-439a-87ea-ad9db4783b5e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05079687D35b93538cbd59fe5596380cae9054A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05079687D35b93538cbd59fe5596380cae9054A9/logo.png"
+    }
+  },
+  "name": "BitSong",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTSG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

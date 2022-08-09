@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb5BB48567BfD0bFE9e4B08EF8b7f91556CC2a112",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6dbc39e0-fa0a-4592-bb25-99b32bb80f8d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb5BB48567BfD0bFE9e4B08EF8b7f91556CC2a112/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5BB48567BfD0bFE9e4B08EF8b7f91556CC2a112/logo.png"
+    }
+  },
+  "name": "Bankcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

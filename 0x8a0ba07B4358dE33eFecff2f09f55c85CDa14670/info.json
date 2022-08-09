@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd685b90-4d67-4274-98d0-fb156c5eaf03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670/logo.png"
+    }
+  },
+  "name": "DriverToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Driver",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

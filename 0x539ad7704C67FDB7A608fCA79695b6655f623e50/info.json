@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x539ad7704C67FDB7A608fCA79695b6655f623e50",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "70a8d2f5-fb38-4fa1-b59f-f02fac0a0717",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x539ad7704C67FDB7A608fCA79695b6655f623e50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x539ad7704C67FDB7A608fCA79695b6655f623e50/logo.png"
+    }
+  },
+  "name": "Scudo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

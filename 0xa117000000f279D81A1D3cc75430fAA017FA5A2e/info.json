@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23b69784-25cc-4bf6-82c5-dd821175cfb0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
+    }
+  },
+  "name": "Aragon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52fb36C83ad33C1824912FC81071cA5eEB8AB390",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "30b76049-59b5-4df4-a551-f6541bc02642",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52fb36C83ad33C1824912FC81071cA5eEB8AB390/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52fb36C83ad33C1824912FC81071cA5eEB8AB390/logo.png"
+    }
+  },
+  "name": "Fidelium Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

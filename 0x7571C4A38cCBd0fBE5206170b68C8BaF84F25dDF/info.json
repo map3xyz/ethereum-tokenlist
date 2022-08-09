@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7571C4A38cCBd0fBE5206170b68C8BaF84F25dDF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43802bd8-0fcf-4afc-a527-6683b9f6f293",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7571C4A38cCBd0fBE5206170b68C8BaF84F25dDF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7571C4A38cCBd0fBE5206170b68C8BaF84F25dDF/logo.png"
+    }
+  },
+  "name": "Wizard",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

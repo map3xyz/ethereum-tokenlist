@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA08F11E2920FF9ae6299F508921a47FcfE623a57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "571317cd-3fbf-48ce-b2b7-e400b380bd9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA08F11E2920FF9ae6299F508921a47FcfE623a57/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA08F11E2920FF9ae6299F508921a47FcfE623a57/logo.png"
+    }
+  },
+  "name": "Andrew Cecil Funderburk 3rd",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACF3",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

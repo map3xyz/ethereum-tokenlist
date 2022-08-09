@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA809CeDeE9B61956c768EAa10272dd5E0FD1A985",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "500637ac-6f21-40d2-a054-5a1db06e5724",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA809CeDeE9B61956c768EAa10272dd5E0FD1A985/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA809CeDeE9B61956c768EAa10272dd5E0FD1A985/logo.png"
+    }
+  },
+  "name": "CAMI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

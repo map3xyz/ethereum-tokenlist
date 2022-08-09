@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCBf011af08FaDDa5736bF5E645dbbfb149Dc5d68",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de0ad1a4-b3e5-4008-9a62-d78c3884160b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCBf011af08FaDDa5736bF5E645dbbfb149Dc5d68/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCBf011af08FaDDa5736bF5E645dbbfb149Dc5d68/logo.png"
+    }
+  },
+  "name": "Yi Fa Temple Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

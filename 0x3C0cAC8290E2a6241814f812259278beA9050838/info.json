@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C0cAC8290E2a6241814f812259278beA9050838",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7c7a602-894c-4deb-a1eb-2529ca2946aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C0cAC8290E2a6241814f812259278beA9050838/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C0cAC8290E2a6241814f812259278beA9050838/logo.png"
+    }
+  },
+  "name": "BOSTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

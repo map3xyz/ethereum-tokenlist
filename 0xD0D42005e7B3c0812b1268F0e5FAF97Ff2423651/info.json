@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "96ad5c3f-46de-4caf-bcbc-39cf098aee76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651/logo.png"
+    }
+  },
+  "name": "KOROMARU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KOROMARU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

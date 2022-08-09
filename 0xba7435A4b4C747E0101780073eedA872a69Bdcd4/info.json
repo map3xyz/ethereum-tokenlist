@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xba7435A4b4C747E0101780073eedA872a69Bdcd4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7bbbeebf-1c96-4331-8f37-63f321deab61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba7435A4b4C747E0101780073eedA872a69Bdcd4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba7435A4b4C747E0101780073eedA872a69Bdcd4/logo.png"
+    }
+  },
+  "name": "AirdropToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIRDROP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

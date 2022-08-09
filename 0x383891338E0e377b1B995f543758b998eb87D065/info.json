@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x383891338E0e377b1B995f543758b998eb87D065",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c9be8f51-2b16-4415-ba5e-2146f52db531",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x383891338E0e377b1B995f543758b998eb87D065/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x383891338E0e377b1B995f543758b998eb87D065/logo.png"
+    }
+  },
+  "name": "GBHub Pro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

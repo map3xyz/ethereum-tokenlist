@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2CC6Ea7c458c9A58a2d721172939415Eb2488cF6",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "df21ec68-2d53-4a9f-b1a0-d76e519b0e11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2CC6Ea7c458c9A58a2d721172939415Eb2488cF6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2CC6Ea7c458c9A58a2d721172939415Eb2488cF6/logo.png"
+    }
+  },
+  "name": "tbriks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "198ff784-a514-403a-963d-96219051bf22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA8580F3363684d76055bdC6660CaeFe8709744e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8580F3363684d76055bdC6660CaeFe8709744e1/logo.png"
+    }
+  },
+  "name": "Folder Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

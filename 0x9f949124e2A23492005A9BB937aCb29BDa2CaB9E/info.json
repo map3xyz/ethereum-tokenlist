@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9f949124e2A23492005A9BB937aCb29BDa2CaB9E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a01a743b-ab99-46aa-9eb9-42846b76c72d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f949124e2A23492005A9BB937aCb29BDa2CaB9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f949124e2A23492005A9BB937aCb29BDa2CaB9E/logo.png"
+    }
+  },
+  "name": "CMMEToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9D0B65C60b3FBe3aA296799d45E7497944C12FAC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab16b3d3-cded-4b29-be3c-1182fac6973e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9D0B65C60b3FBe3aA296799d45E7497944C12FAC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D0B65C60b3FBe3aA296799d45E7497944C12FAC/logo.png"
+    }
+  },
+  "name": "Underground Dollar Bill",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UGDB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

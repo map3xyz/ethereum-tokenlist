@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "00af01a6-0371-4139-ac3a-a1a1697250cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5/logo.png"
+    }
+  },
+  "name": "ThoreCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

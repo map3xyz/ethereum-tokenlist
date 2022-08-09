@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb932382-d9d2-4a7d-88ee-1addea789b6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e/logo.png"
+    }
+  },
+  "name": "Madaza Option",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": " MADAZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa535ab2-3972-4c59-9fce-ab51c32a2498",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x922105fAd8153F516bCfB829f56DC097a0E1D705/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x922105fAd8153F516bCfB829f56DC097a0E1D705/logo.png"
+    }
+  },
+  "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

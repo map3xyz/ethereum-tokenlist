@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2f45f3f-f8af-43ac-ad16-c481aa39ca30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd/logo.png"
+    }
+  },
+  "name": "SiaCashCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x293265AB375f52e0D059d3438a76f49f59E234b8",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "cdc53570-6118-4994-baee-5e447e4408d3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x293265AB375f52e0D059d3438a76f49f59E234b8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x293265AB375f52e0D059d3438a76f49f59E234b8/logo.png"
+    }
+  },
+  "name": "WorldBusinessZimonCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WBZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

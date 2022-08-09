@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "95b51b72-512f-487f-8526-39a8adeae170",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba2184520A1cC49a6159c57e61E1844E085615B6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba2184520A1cC49a6159c57e61E1844E085615B6/logo.png"
+    }
+  },
+  "name": "HelloGold Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

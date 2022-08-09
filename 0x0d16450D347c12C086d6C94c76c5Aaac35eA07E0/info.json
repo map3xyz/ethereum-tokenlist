@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "83f6d1bd-0719-422e-8534-3d418bfca3ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0/logo.png"
+    }
+  },
+  "name": "Gold Storage",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

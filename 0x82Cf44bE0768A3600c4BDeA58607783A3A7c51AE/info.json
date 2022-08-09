@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82Cf44bE0768A3600c4BDeA58607783A3A7c51AE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd2a68ad-7521-4fbc-bf33-45355a659756",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82Cf44bE0768A3600c4BDeA58607783A3A7c51AE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82Cf44bE0768A3600c4BDeA58607783A3A7c51AE/logo.png"
+    }
+  },
+  "name": "Fountain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

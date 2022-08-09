@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f93e2ae7-a0f8-4082-a44b-98d8aa6e8615",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704/logo.png"
+    }
+  },
+  "name": "Blockzero Labs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

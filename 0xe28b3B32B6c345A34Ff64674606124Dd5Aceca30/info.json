@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb003978-213c-4e4b-b49b-866c07329e4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png"
+    }
+  },
+  "name": "Injective",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

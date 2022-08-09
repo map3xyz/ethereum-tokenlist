@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x827D53c8170aF52625f414bde00326Fc8A085E86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c9c4912a-c10f-4c99-8ae7-3191ba402e33",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x827D53c8170aF52625f414bde00326Fc8A085E86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x827D53c8170aF52625f414bde00326Fc8A085E86/logo.png"
+    }
+  },
+  "name": "Beaxy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BXY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

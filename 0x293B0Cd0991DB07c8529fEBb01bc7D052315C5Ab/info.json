@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6d6dd00-2730-4a3d-bce2-a61592ba8e33",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab/logo.png"
+    }
+  },
+  "name": "InTime",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7dc1a2fe-d99a-40ea-9aa0-e61c573b5d44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26B3038a7Fc10b36c426846a9086Ef87328dA702/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26B3038a7Fc10b36c426846a9086Ef87328dA702/logo.png"
+    }
+  },
+  "name": "YFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

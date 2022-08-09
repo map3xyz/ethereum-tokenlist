@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9886fa42-7362-474e-9447-cbd88fd719dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb48E0F69e6A3064f5498D495F77AD83e0874ab28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb48E0F69e6A3064f5498D495F77AD83e0874ab28/logo.png"
+    }
+  },
+  "name": "CXN Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

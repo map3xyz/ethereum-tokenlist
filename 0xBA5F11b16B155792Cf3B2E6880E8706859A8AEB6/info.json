@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b99355f7-4492-40e4-b65a-3cf6ba957c9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6/logo.png"
+    }
+  },
+  "name": "Aeron",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

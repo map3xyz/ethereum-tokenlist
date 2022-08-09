@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1071211b-dd94-44fb-a734-50b1fa99b00f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da/logo.png"
+    }
+  },
+  "name": "EcosBall",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

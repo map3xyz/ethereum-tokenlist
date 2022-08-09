@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4acF024919217c33E2FF5A24AD780b1709eB3361",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8ad7622c-e6be-4ecf-a118-c8608662c985",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4acF024919217c33E2FF5A24AD780b1709eB3361/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4acF024919217c33E2FF5A24AD780b1709eB3361/logo.png"
+    }
+  },
+  "name": "Zemp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

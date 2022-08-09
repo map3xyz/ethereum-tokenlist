@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "acd7bb90-e0c6-4f5b-99ff-34e79144a6aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A/logo.png"
+    }
+  },
+  "name": "UseChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

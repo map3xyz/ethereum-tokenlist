@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa8511Af2F945B0a939a9772f403F41ec637bFfcd",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c3b5265c-e4bf-4e7c-bab8-abd90c9c376f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa8511Af2F945B0a939a9772f403F41ec637bFfcd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8511Af2F945B0a939a9772f403F41ec637bFfcd/logo.png"
+    }
+  },
+  "name": "Hunter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUNTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

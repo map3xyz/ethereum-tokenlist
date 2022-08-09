@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6525952f-7138-4d51-ae87-1fbf60aacba7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFE76BE9cEC465ed3219a9972c21655D57d21aec6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFE76BE9cEC465ed3219a9972c21655D57d21aec6/logo.png"
+    }
+  },
+  "name": "PalletOneToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

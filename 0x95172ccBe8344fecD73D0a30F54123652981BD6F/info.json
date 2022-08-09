@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b841341-1629-4d39-a1cc-56b4f6c0dd6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
+    }
+  },
+  "name": "Meridian Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

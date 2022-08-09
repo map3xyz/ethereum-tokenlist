@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f85cf4e-78fc-4755-9b67-4f018f7498c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0/logo.png"
+    }
+  },
+  "name": "UNIFUND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iFUND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

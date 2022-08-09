@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4a57E687b9126435a9B19E4A802113e266AdeBde",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c5a04ee-982a-4150-83d8-bf1104aee247",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a57E687b9126435a9B19E4A802113e266AdeBde/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a57E687b9126435a9B19E4A802113e266AdeBde/logo.png"
+    }
+  },
+  "name": "Flexacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

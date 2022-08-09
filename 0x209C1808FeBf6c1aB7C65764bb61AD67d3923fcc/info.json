@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26ea45e7-6143-4ffb-8d6f-aec45f544628",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc/logo.png"
+    }
+  },
+  "name": "APEcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

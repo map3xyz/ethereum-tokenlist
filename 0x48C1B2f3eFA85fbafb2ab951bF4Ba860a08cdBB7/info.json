@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "91cee693-9b91-4867-b4a4-330b301033d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7/logo.png"
+    }
+  },
+  "name": "ShowHand",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

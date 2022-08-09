@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d8d1a68-1f51-44ad-af32-c1e30eee785d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958/logo.png"
+    }
+  },
+  "name": "MUNDO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

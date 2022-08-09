@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdC3c4f132FEA66947CfDd57e287c1fbb94252677",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86176433-70e7-4ff6-892f-c3d5c6091017",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdC3c4f132FEA66947CfDd57e287c1fbb94252677/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdC3c4f132FEA66947CfDd57e287c1fbb94252677/logo.png"
+    }
+  },
+  "name": "MissionBoss",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

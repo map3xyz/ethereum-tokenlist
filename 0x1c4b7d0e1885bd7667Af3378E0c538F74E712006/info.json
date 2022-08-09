@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7f3167e-1774-4069-a058-6bcbcbf78e81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006/logo.png"
+    }
+  },
+  "name": "IOGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

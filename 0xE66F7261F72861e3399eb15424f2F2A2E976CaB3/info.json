@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE66F7261F72861e3399eb15424f2F2A2E976CaB3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a914f2ca-11f1-4dc1-b9f3-b52bbcf01f0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE66F7261F72861e3399eb15424f2F2A2E976CaB3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE66F7261F72861e3399eb15424f2F2A2E976CaB3/logo.png"
+    }
+  },
+  "name": "SilverStone",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4aB524Df43beC3Cb130024C5196DB0915c61F40c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "26ce6d3b-d398-4798-a090-fffe045bbab3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4aB524Df43beC3Cb130024C5196DB0915c61F40c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4aB524Df43beC3Cb130024C5196DB0915c61F40c/logo.png"
+    }
+  },
+  "name": "POP Missions M",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POPM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

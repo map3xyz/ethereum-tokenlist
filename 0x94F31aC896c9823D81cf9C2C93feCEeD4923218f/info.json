@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94F31aC896c9823D81cf9C2C93feCEeD4923218f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85f9857b-fd93-465f-9212-6a3206480bbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94F31aC896c9823D81cf9C2C93feCEeD4923218f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94F31aC896c9823D81cf9C2C93feCEeD4923218f/logo.png"
+    }
+  },
+  "name": "Yftether.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

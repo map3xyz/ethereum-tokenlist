@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c5e18e1-686f-4fd2-838f-f10f5ccddb94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE/logo.png"
+    }
+  },
+  "name": "EchoLink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EKO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

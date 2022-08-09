@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b7DfAe2567181E54776337C840e142ACb42AA1F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d65e66d4-5612-4881-84ba-ef6e8fd9e22f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b7DfAe2567181E54776337C840e142ACb42AA1F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b7DfAe2567181E54776337C840e142ACb42AA1F/logo.png"
+    }
+  },
+  "name": "GOD KIMCHI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "gKIMCHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

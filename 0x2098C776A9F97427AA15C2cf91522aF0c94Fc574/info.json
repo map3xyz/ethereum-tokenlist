@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2098C776A9F97427AA15C2cf91522aF0c94Fc574",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "083831d5-a718-493a-8be0-138c4a858487",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2098C776A9F97427AA15C2cf91522aF0c94Fc574/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2098C776A9F97427AA15C2cf91522aF0c94Fc574/logo.png"
+    }
+  },
+  "name": "MineBlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

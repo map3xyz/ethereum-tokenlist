@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1ce0163-7a72-42d8-946a-92a66b53bb3a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x066798d9ef0833ccc719076Dab77199eCbd178b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x066798d9ef0833ccc719076Dab77199eCbd178b0/logo.png"
+    }
+  },
+  "name": "SAKE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

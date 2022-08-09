@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4488eD050cd13CcFe0B0fCf3d168216830142775",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3cbfcae8-14f1-49bb-8281-7c83a40d01f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4488eD050cd13CcFe0B0fCf3d168216830142775/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4488eD050cd13CcFe0B0fCf3d168216830142775/logo.png"
+    }
+  },
+  "name": "Netkiller eBook Reader Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

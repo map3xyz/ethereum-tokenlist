@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2fdf926a-3743-42c0-b370-f2b95f96a934",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed/logo.png"
+    }
+  },
+  "name": "Chinese Yuan Renminbi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNYx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

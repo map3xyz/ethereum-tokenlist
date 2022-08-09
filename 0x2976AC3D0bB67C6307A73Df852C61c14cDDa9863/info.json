@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2976AC3D0bB67C6307A73Df852C61c14cDDa9863",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0951007-e7a1-4d46-ad09-1155fc9932e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2976AC3D0bB67C6307A73Df852C61c14cDDa9863/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2976AC3D0bB67C6307A73Df852C61c14cDDa9863/logo.png"
+    }
+  },
+  "name": "Bitcoin Neo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

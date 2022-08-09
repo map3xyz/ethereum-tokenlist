@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xab85900CFa8a8a577fa5371cb7968aF0906B902d",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "d6d52d98-e10f-4a52-a97a-4dca86d51e30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xab85900CFa8a8a577fa5371cb7968aF0906B902d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab85900CFa8a8a577fa5371cb7968aF0906B902d/logo.png"
+    }
+  },
+  "name": "Health, Technology &amp; Agriculture Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

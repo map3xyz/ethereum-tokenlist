@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFC29B6e626B67776675FfF55d5BC0452d042F434",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7bc60120-b68c-403c-8c79-1a1c297f169f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFC29B6e626B67776675FfF55d5BC0452d042F434/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFC29B6e626B67776675FfF55d5BC0452d042F434/logo.png"
+    }
+  },
+  "name": "BHEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

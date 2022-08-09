@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61152b50B7162F994d0cFbb9d4e108f96646e81f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "746736f3-3a49-4aad-b306-76cfc22d6e6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61152b50B7162F994d0cFbb9d4e108f96646e81f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61152b50B7162F994d0cFbb9d4e108f96646e81f/logo.png"
+    }
+  },
+  "name": "Decentr Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

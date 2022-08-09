@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9f8F7EA504588a58B8b24b832B5d25a4Aeb4706F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4addd656-79e1-434f-bf07-de24450210fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F7EA504588a58B8b24b832B5d25a4Aeb4706F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f8F7EA504588a58B8b24b832B5d25a4Aeb4706F/logo.png"
+    }
+  },
+  "name": "Celeum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

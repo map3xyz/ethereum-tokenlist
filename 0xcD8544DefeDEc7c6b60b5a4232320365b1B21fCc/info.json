@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b25ddbb9-d336-4744-931e-8f8d09933720",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc/logo.png"
+    }
+  },
+  "name": "GAPS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

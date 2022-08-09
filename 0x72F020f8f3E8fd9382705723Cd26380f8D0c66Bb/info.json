@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37564270-6121-4df8-91fe-264acafc4f46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb/logo.png"
+    }
+  },
+  "name": "PlotX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

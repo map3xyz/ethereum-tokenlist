@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "867031a8-f32b-4b7a-8b5f-cad499e74075",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85/logo.png"
+    }
+  },
+  "name": "Universe Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

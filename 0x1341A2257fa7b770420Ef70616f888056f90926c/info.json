@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "0119e9c4-f28c-40bd-9b1d-e901ec5ddfd0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1341A2257fa7b770420Ef70616f888056f90926c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1341A2257fa7b770420Ef70616f888056f90926c/logo.png"
+    }
+  },
+  "name": "Zoo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZOOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "36bffeb5-d0e3-419a-8582-0667a13a914d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png"
+    }
+  },
+  "name": "Unit protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

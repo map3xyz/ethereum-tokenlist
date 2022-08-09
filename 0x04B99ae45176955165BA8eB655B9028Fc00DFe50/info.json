@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04B99ae45176955165BA8eB655B9028Fc00DFe50",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "820029ee-48a1-4a1b-a43c-c084f04311bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04B99ae45176955165BA8eB655B9028Fc00DFe50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04B99ae45176955165BA8eB655B9028Fc00DFe50/logo.png"
+    }
+  },
+  "name": "SIX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

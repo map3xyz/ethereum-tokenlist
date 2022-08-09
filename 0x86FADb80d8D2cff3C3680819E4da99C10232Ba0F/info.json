@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86FADb80d8D2cff3C3680819E4da99C10232Ba0F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c55d6e63-a231-4a80-b891-7ad7b47de9cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86FADb80d8D2cff3C3680819E4da99C10232Ba0F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86FADb80d8D2cff3C3680819E4da99C10232Ba0F/logo.png"
+    }
+  },
+  "name": "EURBASE Stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBASE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

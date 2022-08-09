@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f5f8a9C9775499b783171ac1979b4327ab60447",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "810c6f0d-761e-4577-9b41-55a134403442",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f5f8a9C9775499b783171ac1979b4327ab60447/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f5f8a9C9775499b783171ac1979b4327ab60447/logo.png"
+    }
+  },
+  "name": "Fructus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

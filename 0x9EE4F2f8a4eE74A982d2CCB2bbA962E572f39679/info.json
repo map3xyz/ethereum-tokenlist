@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9EE4F2f8a4eE74A982d2CCB2bbA962E572f39679",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cfb13e41-db2a-43b7-b0e5-67cbbb6544c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9EE4F2f8a4eE74A982d2CCB2bbA962E572f39679/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9EE4F2f8a4eE74A982d2CCB2bbA962E572f39679/logo.png"
+    }
+  },
+  "name": "Toilet Paper Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x663085225320c7Afae10f3f1982EAA7324eA55DA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a03e9299-6020-4378-81a1-0de1df25a540",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x663085225320c7Afae10f3f1982EAA7324eA55DA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x663085225320c7Afae10f3f1982EAA7324eA55DA/logo.png"
+    }
+  },
+  "name": "Qualified Quality Block ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QQB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

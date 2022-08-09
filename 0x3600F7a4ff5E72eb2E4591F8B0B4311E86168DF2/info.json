@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b4a63f7-6dac-4027-810d-07944c96f030",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2/logo.png"
+    }
+  },
+  "name": "RubyCloud",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

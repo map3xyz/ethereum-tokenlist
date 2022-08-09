@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x093e5C256Ff8B32c7F1377f4C20e331674C77F00",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a95e4978-86cd-448c-b641-5dc72744ec79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x093e5C256Ff8B32c7F1377f4C20e331674C77F00/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x093e5C256Ff8B32c7F1377f4C20e331674C77F00/logo.png"
+    }
+  },
+  "name": "Dignity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

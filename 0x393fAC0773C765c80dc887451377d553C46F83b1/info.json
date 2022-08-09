@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x393fAC0773C765c80dc887451377d553C46F83b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df083305-16df-4c92-a713-e9348f97c075",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x393fAC0773C765c80dc887451377d553C46F83b1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x393fAC0773C765c80dc887451377d553C46F83b1/logo.png"
+    }
+  },
+  "name": "RAKSUR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

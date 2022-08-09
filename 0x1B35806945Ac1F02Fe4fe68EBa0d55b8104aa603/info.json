@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1B35806945Ac1F02Fe4fe68EBa0d55b8104aa603",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5047d5a-3ace-4d5e-9d83-ba130a32db43",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1B35806945Ac1F02Fe4fe68EBa0d55b8104aa603/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B35806945Ac1F02Fe4fe68EBa0d55b8104aa603/logo.png"
+    }
+  },
+  "name": "Facebucks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

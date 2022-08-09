@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4b520c812E8430659FC9f12f6d0c39026C83588D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "067e7642-62a8-473b-8279-8fd9b07788d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b520c812E8430659FC9f12f6d0c39026C83588D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b520c812E8430659FC9f12f6d0c39026C83588D/logo.png"
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DG",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

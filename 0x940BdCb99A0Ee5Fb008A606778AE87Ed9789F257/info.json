@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f82113ee-88b7-4451-841e-2792c240b1b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257/logo.png"
+    }
+  },
+  "name": "JFIN Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JFIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

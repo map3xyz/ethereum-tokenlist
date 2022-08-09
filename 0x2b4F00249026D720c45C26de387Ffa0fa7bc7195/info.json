@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2b4F00249026D720c45C26de387Ffa0fa7bc7195",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2cb2b2c2-5c1b-4d43-8ef1-81f31e636e5f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b4F00249026D720c45C26de387Ffa0fa7bc7195/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b4F00249026D720c45C26de387Ffa0fa7bc7195/logo.png"
+    }
+  },
+  "name": "GLAD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GLAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

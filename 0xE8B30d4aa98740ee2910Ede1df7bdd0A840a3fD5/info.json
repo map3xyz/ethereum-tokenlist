@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE8B30d4aa98740ee2910Ede1df7bdd0A840a3fD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9bf3ba42-8a67-40e6-bdb6-65dd27d59d42",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE8B30d4aa98740ee2910Ede1df7bdd0A840a3fD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE8B30d4aa98740ee2910Ede1df7bdd0A840a3fD5/logo.png"
+    }
+  },
+  "name": "Tea Coffee Water Snacks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

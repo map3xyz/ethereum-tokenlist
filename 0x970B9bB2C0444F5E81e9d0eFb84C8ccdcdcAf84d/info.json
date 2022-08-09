@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f95d545-4721-4308-b310-536d00c1fdad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+    }
+  },
+  "name": "Fuse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

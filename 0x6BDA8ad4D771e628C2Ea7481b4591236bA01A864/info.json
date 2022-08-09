@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6BDA8ad4D771e628C2Ea7481b4591236bA01A864",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "98a01881-1eb7-43c7-b09b-95147cbd3160",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6BDA8ad4D771e628C2Ea7481b4591236bA01A864/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6BDA8ad4D771e628C2Ea7481b4591236bA01A864/logo.png"
+    }
+  },
+  "name": "INFWEE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INFWEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

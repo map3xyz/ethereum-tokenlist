@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "612ece58-9e48-4add-b492-55818a33103c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aZRX.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f/logo.svg"
+    }
+  },
+  "name": "Aave Interest bearing ZRX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aZRX",
+  "tags": [
+    "atokenv1"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

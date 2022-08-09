@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7a5bdf0-faed-4694-9eb9-a3d16395a6a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C/logo.png"
+    }
+  },
+  "name": "COSS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

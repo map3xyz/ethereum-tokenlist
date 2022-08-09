@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc687Cbe21Da4374597ac5a020D79A7c39536512C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "aeea44c7-3f68-47e1-8161-21d064872e2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc687Cbe21Da4374597ac5a020D79A7c39536512C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc687Cbe21Da4374597ac5a020D79A7c39536512C/logo.png"
+    }
+  },
+  "name": "SAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

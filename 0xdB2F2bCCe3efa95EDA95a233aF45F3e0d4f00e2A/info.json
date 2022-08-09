@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8b1f598b-537c-44b3-936b-1442fe76124a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A/logo.png"
+    }
+  },
+  "name": "Aegis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

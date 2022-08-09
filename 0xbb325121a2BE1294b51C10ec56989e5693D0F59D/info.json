@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbb325121a2BE1294b51C10ec56989e5693D0F59D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "726c91f5-c2df-416e-94aa-6264b11107c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbb325121a2BE1294b51C10ec56989e5693D0F59D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb325121a2BE1294b51C10ec56989e5693D0F59D/logo.png"
+    }
+  },
+  "name": "UniversalCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

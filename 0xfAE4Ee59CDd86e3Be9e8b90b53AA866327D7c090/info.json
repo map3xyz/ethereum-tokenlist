@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a54dcf5-06f7-4ceb-aa01-c29388e19502",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090/logo.png"
+    }
+  },
+  "name": "CPChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

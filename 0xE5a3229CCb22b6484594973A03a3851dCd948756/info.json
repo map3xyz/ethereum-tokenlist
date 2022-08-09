@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5a3229CCb22b6484594973A03a3851dCd948756",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3fd03042-c2c4-4049-9abd-8312c5b6359d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5a3229CCb22b6484594973A03a3851dCd948756/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5a3229CCb22b6484594973A03a3851dCd948756/logo.png"
+    }
+  },
+  "name": "RAE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

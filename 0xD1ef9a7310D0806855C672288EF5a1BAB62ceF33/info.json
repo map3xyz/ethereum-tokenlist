@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14b0cc93-ef5b-4878-93f0-6e107be93465",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33/logo.png"
+    }
+  },
+  "name": "BELIEVER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0A3F9678d6b631386c2DD3DE8809b48b0D1BbD56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c09276e7-427a-42ee-a601-c4072a1dfc31",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0A3F9678d6b631386c2DD3DE8809b48b0D1BbD56/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0A3F9678d6b631386c2DD3DE8809b48b0D1BbD56/logo.png"
+    }
+  },
+  "name": "LIKER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

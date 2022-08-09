@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ab7ea0d-fe5c-46ed-9a3b-48acefc6e447",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4CF488387F035FF08c371515562CBa712f9015d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4CF488387F035FF08c371515562CBa712f9015d4/logo.png"
+    }
+  },
+  "name": "WePower Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

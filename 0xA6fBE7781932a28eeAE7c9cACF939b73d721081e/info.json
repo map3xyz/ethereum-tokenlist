@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6fBE7781932a28eeAE7c9cACF939b73d721081e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cd45ad0d-b067-4c8f-bbf4-4c2f0408a606",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6fBE7781932a28eeAE7c9cACF939b73d721081e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6fBE7781932a28eeAE7c9cACF939b73d721081e/logo.png"
+    }
+  },
+  "name": "WANGTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WANGTOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

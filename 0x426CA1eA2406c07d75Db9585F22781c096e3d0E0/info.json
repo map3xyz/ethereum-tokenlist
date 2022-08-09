@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ddcc7002-15e6-4357-8284-bbd8112cb434",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0/logo.png"
+    }
+  },
+  "name": "Minereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

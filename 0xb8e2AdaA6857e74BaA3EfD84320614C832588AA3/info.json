@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb8e2AdaA6857e74BaA3EfD84320614C832588AA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53a1b8ac-d36b-4135-bfc3-5502ea19901e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb8e2AdaA6857e74BaA3EfD84320614C832588AA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb8e2AdaA6857e74BaA3EfD84320614C832588AA3/logo.png"
+    }
+  },
+  "name": "Business Incubator Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

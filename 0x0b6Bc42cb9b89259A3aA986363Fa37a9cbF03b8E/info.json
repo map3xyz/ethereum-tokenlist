@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0b6Bc42cb9b89259A3aA986363Fa37a9cbF03b8E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9082e6be-848b-4d50-b6d1-b3c0c15dd6f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0b6Bc42cb9b89259A3aA986363Fa37a9cbF03b8E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b6Bc42cb9b89259A3aA986363Fa37a9cbF03b8E/logo.png"
+    }
+  },
+  "name": "ContractLand Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

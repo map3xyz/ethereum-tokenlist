@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7cC23E195D4db133A78B43eB93B524796777c3e7",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "a193ea3e-28ea-4355-8c7e-7bfd88502060",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7cC23E195D4db133A78B43eB93B524796777c3e7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7cC23E195D4db133A78B43eB93B524796777c3e7/logo.png"
+    }
+  },
+  "name": "yam.gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YAM GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

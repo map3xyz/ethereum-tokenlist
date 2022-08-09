@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "916eb692-e041-4fc8-9376-47fdde500948",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11/logo.png"
+    }
+  },
+  "name": "SmartMint BondFiat StableToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

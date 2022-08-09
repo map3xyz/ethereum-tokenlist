@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1149CFC37D81304173CD2b203508AB1F6934b81B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "130447c8-f9d8-459e-a719-7642326b5991",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1149CFC37D81304173CD2b203508AB1F6934b81B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1149CFC37D81304173CD2b203508AB1F6934b81B/logo.png"
+    }
+  },
+  "name": "ASTOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

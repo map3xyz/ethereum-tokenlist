@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F599410D207f3D2828a8712e5e543AC2E040382",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f769f27-bf92-4de0-b1dc-b5395b60629f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9F599410D207f3D2828a8712e5e543AC2E040382/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F599410D207f3D2828a8712e5e543AC2E040382/logo.png"
+    }
+  },
+  "name": "Tapcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

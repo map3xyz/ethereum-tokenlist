@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b02a85fb-baea-472f-a52a-25c77cd731d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7461C43bb1E96863233D72A09191008ee9217Ee8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7461C43bb1E96863233D72A09191008ee9217Ee8/logo.png"
+    }
+  },
+  "name": "DGN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

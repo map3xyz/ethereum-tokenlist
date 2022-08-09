@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ff59d78-19ff-4c7b-bf80-4d07bcd86ba2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc/logo.png"
+    }
+  },
+  "name": "Tap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

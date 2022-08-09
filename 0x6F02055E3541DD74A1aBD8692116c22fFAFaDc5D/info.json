@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "445d8e93-44bd-4f30-807d-8087280346ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D/logo.png"
+    }
+  },
+  "name": "TBC Mart Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

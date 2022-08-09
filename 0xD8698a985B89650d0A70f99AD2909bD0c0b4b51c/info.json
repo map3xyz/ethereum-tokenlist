@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD8698a985B89650d0A70f99AD2909bD0c0b4b51c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a413e5aa-32fa-44db-a2b6-f6afb917a848",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD8698a985B89650d0A70f99AD2909bD0c0b4b51c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD8698a985B89650d0A70f99AD2909bD0c0b4b51c/logo.png"
+    }
+  },
+  "name": "Consentium Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

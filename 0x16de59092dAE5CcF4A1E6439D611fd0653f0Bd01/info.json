@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16de59092dAE5CcF4A1E6439D611fd0653f0Bd01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f1cc6e4-0e22-4a9e-a4d0-408885a0d594",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16de59092dAE5CcF4A1E6439D611fd0653f0Bd01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16de59092dAE5CcF4A1E6439D611fd0653f0Bd01/logo.png"
+    }
+  },
+  "name": "iearn DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

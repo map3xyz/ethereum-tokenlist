@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6237ce16-52b0-41d3-95fe-630352de9ad3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374/logo.png"
+    }
+  },
+  "name": "Veritaseum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VERI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

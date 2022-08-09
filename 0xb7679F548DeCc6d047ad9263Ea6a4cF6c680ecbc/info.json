@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb7679F548DeCc6d047ad9263Ea6a4cF6c680ecbc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4decb46-8d04-4e48-afc2-89250c502a4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb7679F548DeCc6d047ad9263Ea6a4cF6c680ecbc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7679F548DeCc6d047ad9263Ea6a4cF6c680ecbc/logo.png"
+    }
+  },
+  "name": "IACO GAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IACO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

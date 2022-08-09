@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06c3fd1c-043b-4187-aee9-e0493f26329a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a88f04e0c905054D2F33b26BB3A46D7091A039A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a88f04e0c905054D2F33b26BB3A46D7091A039A/logo.png"
+    }
+  },
+  "name": "IG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

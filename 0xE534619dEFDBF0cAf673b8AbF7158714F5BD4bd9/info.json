@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f0cb0ffa-cd97-4621-9087-e8143462942c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9/logo.png"
+    }
+  },
+  "name": "TokenFans Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

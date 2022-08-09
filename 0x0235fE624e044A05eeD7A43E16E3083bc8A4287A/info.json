@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0235fE624e044A05eeD7A43E16E3083bc8A4287A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e9ce608-4f4c-4c09-8281-9a53970eab24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0235fE624e044A05eeD7A43E16E3083bc8A4287A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0235fE624e044A05eeD7A43E16E3083bc8A4287A/logo.png"
+    }
+  },
+  "name": "Original Crypto Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

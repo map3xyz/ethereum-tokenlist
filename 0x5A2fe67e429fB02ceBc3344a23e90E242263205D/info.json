@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5A2fe67e429fB02ceBc3344a23e90E242263205D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5b6c7d8-e10d-4c4a-9d36-b53d0f5e116b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A2fe67e429fB02ceBc3344a23e90E242263205D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5A2fe67e429fB02ceBc3344a23e90E242263205D/logo.png"
+    }
+  },
+  "name": "Mercury Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

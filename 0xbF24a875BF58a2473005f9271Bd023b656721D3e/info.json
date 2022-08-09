@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbF24a875BF58a2473005f9271Bd023b656721D3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5680b3d0-7658-48ad-bef7-a10c66625ecf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF24a875BF58a2473005f9271Bd023b656721D3e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbF24a875BF58a2473005f9271Bd023b656721D3e/logo.png"
+    }
+  },
+  "name": "Colorado Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

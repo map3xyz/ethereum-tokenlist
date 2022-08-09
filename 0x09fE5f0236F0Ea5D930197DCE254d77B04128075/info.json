@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44beabdf-67f3-46b0-8f7d-f17ae8f10306",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png"
+    }
+  },
+  "name": "Wrapped CryptoKitties",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WCK",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

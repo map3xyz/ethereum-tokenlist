@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x89b4d5f2cBA55D08a8c31eD7c1FB4b0a882B16B8",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "41875c55-fe81-4577-8051-3f20f477bf31",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89b4d5f2cBA55D08a8c31eD7c1FB4b0a882B16B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89b4d5f2cBA55D08a8c31eD7c1FB4b0a882B16B8/logo.png"
+    }
+  },
+  "name": "GameMax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAf8A215e81FAea7C180CE22b72483525121813BD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a7cc687-e125-42bf-94af-a3dd85a225ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAf8A215e81FAea7C180CE22b72483525121813BD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAf8A215e81FAea7C180CE22b72483525121813BD/logo.png"
+    }
+  },
+  "name": "Engine Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

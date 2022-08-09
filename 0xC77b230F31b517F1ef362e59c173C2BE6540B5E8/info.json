@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a43e9c46-b1be-4b30-9380-2b6d895902af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC77b230F31b517F1ef362e59c173C2BE6540B5E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC77b230F31b517F1ef362e59c173C2BE6540B5E8/logo.png"
+    }
+  },
+  "name": "VidyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

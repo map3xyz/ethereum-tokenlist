@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53D428716900EAe876aD1d7E4535e796B5FAedA2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ddcc2b1b-9886-458c-b127-4ab8ec87f71a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53D428716900EAe876aD1d7E4535e796B5FAedA2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53D428716900EAe876aD1d7E4535e796B5FAedA2/logo.png"
+    }
+  },
+  "name": "Zero Fee Xchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

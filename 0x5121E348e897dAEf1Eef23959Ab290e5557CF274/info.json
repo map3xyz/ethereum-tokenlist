@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5121E348e897dAEf1Eef23959Ab290e5557CF274",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ace2a86-85dc-456a-b55b-2eef3525a459",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5121E348e897dAEf1Eef23959Ab290e5557CF274/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5121E348e897dAEf1Eef23959Ab290e5557CF274/logo.png"
+    }
+  },
+  "name": "PolyAi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

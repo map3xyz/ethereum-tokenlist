@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23536d03bC1d25e8fCF74DD32b1dEcf9a65408BE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8358131f-40d6-4c30-a9b3-8dda8a0951d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23536d03bC1d25e8fCF74DD32b1dEcf9a65408BE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23536d03bC1d25e8fCF74DD32b1dEcf9a65408BE/logo.png"
+    }
+  },
+  "name": "Jii coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Jii",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

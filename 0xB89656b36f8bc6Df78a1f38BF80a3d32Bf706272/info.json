@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB89656b36f8bc6Df78a1f38BF80a3d32Bf706272",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cbedca36-9278-4ed6-9117-214a71e7a72b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB89656b36f8bc6Df78a1f38BF80a3d32Bf706272/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB89656b36f8bc6Df78a1f38BF80a3d32Bf706272/logo.png"
+    }
+  },
+  "name": "CityCashCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CITY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

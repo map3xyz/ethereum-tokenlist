@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x26a79Bd709A7eF5E5F747B8d8f83326EA044d8cC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "50582d58-6261-4c3d-8462-09f6d912ba90",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26a79Bd709A7eF5E5F747B8d8f83326EA044d8cC/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "BankSocial",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSOCIAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAa5C28be0F1173612eA3fCC9e461cCB7b9390213",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ce9a0fa-aec0-4024-94d7-1afc2a3e5263",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAa5C28be0F1173612eA3fCC9e461cCB7b9390213/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAa5C28be0F1173612eA3fCC9e461cCB7b9390213/logo.png"
+    }
+  },
+  "name": "EVCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

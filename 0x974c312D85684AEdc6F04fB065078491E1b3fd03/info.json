@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x974c312D85684AEdc6F04fB065078491E1b3fd03",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "b5d2ada8-cca9-41ef-ae55-a2f9f65642cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x974c312D85684AEdc6F04fB065078491E1b3fd03/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x974c312D85684AEdc6F04fB065078491E1b3fd03/logo.png"
+    }
+  },
+  "name": "Vietnam Gold Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

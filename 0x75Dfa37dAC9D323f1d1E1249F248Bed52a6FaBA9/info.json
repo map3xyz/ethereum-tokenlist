@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x75Dfa37dAC9D323f1d1E1249F248Bed52a6FaBA9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c926b34a-a263-45d9-afff-beceb7b53baf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x75Dfa37dAC9D323f1d1E1249F248Bed52a6FaBA9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75Dfa37dAC9D323f1d1E1249F248Bed52a6FaBA9/logo.png"
+    }
+  },
+  "name": "Cabo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

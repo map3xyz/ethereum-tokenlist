@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52a669d086A8df6F57074B0740997b24e6FDA530",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9cdad3e-3d23-425d-9c4c-4729937cc47e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52a669d086A8df6F57074B0740997b24e6FDA530/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52a669d086A8df6F57074B0740997b24e6FDA530/logo.png"
+    }
+  },
+  "name": "earlybirdcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

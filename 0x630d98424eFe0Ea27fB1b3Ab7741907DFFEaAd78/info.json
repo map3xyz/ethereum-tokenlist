@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "afd3972a-5394-4b3e-ad29-ad7f8620d8db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78/logo.png"
+    }
+  },
+  "name": "PEAK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

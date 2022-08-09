@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB63ffE88c2903080cCf9AB14EfA56A11E3e01273",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0fafe045-6374-4e8d-bdac-c5cdf8db0c7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB63ffE88c2903080cCf9AB14EfA56A11E3e01273/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB63ffE88c2903080cCf9AB14EfA56A11E3e01273/logo.png"
+    }
+  },
+  "name": "Mobiicoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

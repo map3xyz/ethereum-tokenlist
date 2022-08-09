@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "76b95d08-cc7e-4fb2-afdb-b7c8fb3af903",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6/logo.png"
+    }
+  },
+  "name": "Rebased",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

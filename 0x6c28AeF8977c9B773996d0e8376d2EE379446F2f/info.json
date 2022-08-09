@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "025f5f54-1aec-492f-bff0-6d48af658dcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f/logo.png"
+    }
+  },
+  "name": "QuickSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

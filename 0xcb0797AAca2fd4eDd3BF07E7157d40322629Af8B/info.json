@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcb0797AAca2fd4eDd3BF07E7157d40322629Af8B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7269662d-646a-4024-890f-5cca539af349",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcb0797AAca2fd4eDd3BF07E7157d40322629Af8B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb0797AAca2fd4eDd3BF07E7157d40322629Af8B/logo.png"
+    }
+  },
+  "name": "SlowMist Zone Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLOWMIST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

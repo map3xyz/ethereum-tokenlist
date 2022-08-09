@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdef058a630354E1081c7F3608F081E951d2A5570",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16dae831-b0e7-41ce-ae97-45766975827f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdef058a630354E1081c7F3608F081E951d2A5570/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdef058a630354E1081c7F3608F081E951d2A5570/logo.png"
+    }
+  },
+  "name": "BitLand",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

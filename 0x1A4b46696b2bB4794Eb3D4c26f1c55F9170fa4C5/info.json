@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8402443-64ec-4d72-893f-df007022e043",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png"
+    }
+  },
+  "name": "BitDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIT",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

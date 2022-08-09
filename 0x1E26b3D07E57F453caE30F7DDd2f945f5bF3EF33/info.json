@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "555b5f1c-6587-4c72-b898-0c23666b90a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33/logo.png"
+    }
+  },
+  "name": "ClearCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCLR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

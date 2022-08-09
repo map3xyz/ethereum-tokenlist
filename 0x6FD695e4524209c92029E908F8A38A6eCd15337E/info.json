@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6FD695e4524209c92029E908F8A38A6eCd15337E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "849bc165-63ed-4a4f-9db6-2e4963c0a242",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6FD695e4524209c92029E908F8A38A6eCd15337E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6FD695e4524209c92029E908F8A38A6eCd15337E/logo.png"
+    }
+  },
+  "name": "जोह्_Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JOH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

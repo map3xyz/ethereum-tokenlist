@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d84f94d-6528-45c8-8b42-f08b5bba2cb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e/logo.png"
+    }
+  },
+  "name": "EGW-WISHMAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIEG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

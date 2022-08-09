@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xca9d97c6C7D5a0cE89371880037cc23866e2264d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea0218cf-d897-4c78-9860-be5d331f145a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca9d97c6C7D5a0cE89371880037cc23866e2264d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca9d97c6C7D5a0cE89371880037cc23866e2264d/logo.png"
+    }
+  },
+  "name": "Coinance X Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1bdE5c987c98D9E9EcDC62F0421992b1d0fE740E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f1c0cf8-73fe-42b3-b3c3-868870059796",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1bdE5c987c98D9E9EcDC62F0421992b1d0fE740E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1bdE5c987c98D9E9EcDC62F0421992b1d0fE740E/logo.png"
+    }
+  },
+  "name": "IBNC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

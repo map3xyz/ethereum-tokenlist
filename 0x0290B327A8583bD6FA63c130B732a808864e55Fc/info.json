@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0290B327A8583bD6FA63c130B732a808864e55Fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5216d841-288b-40b7-ae72-0f611820d843",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0290B327A8583bD6FA63c130B732a808864e55Fc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0290B327A8583bD6FA63c130B732a808864e55Fc/logo.png"
+    }
+  },
+  "name": "MIDAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

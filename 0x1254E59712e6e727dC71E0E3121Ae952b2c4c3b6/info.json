@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1b67980-9787-4d38-a278-9a9c8db8d2a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6/logo.png"
+    }
+  },
+  "name": "Marginless Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

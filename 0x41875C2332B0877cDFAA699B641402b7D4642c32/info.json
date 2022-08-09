@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0c05915a-5f8b-4d44-9267-de365e6f41b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41875C2332B0877cDFAA699B641402b7D4642c32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41875C2332B0877cDFAA699B641402b7D4642c32/logo.png"
+    }
+  },
+  "name": "FUTURAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

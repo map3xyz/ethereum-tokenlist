@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbea1070-d2e0-489b-8fd2-4d44754cdd5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee/logo.png"
+    }
+  },
+  "name": "Garrys",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1FC82046357f9C684bb1267588036E5d08bA2Cf0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5a38d4b5-728f-4e4d-825f-90d6346b9fba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1FC82046357f9C684bb1267588036E5d08bA2Cf0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1FC82046357f9C684bb1267588036E5d08bA2Cf0/logo.png"
+    }
+  },
+  "name": "DEXP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

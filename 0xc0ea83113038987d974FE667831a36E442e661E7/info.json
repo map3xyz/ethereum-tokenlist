@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc0ea83113038987d974FE667831a36E442e661E7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "356f0a36-167a-45c0-9bc3-5e1bd8054a91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc0ea83113038987d974FE667831a36E442e661E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc0ea83113038987d974FE667831a36E442e661E7/logo.png"
+    }
+  },
+  "name": "Libfx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Libfx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

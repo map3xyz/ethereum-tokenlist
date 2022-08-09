@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5555e6B8e710BBCd7804f5172395b87c09621f80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2111342-954c-4a0a-a7b9-3dd2eefd446e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5555e6B8e710BBCd7804f5172395b87c09621f80/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5555e6B8e710BBCd7804f5172395b87c09621f80/logo.png"
+    }
+  },
+  "name": "Dolphin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9E2fD73B1fe445AC7eD133e03d7983a7e660B50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e12cb64e-94d3-455a-be1f-7f81e20d7901",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9E2fD73B1fe445AC7eD133e03d7983a7e660B50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9E2fD73B1fe445AC7eD133e03d7983a7e660B50/logo.png"
+    }
+  },
+  "name": "Token9",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "T9",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

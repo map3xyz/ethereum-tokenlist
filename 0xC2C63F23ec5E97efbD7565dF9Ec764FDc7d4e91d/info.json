@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC2C63F23ec5E97efbD7565dF9Ec764FDc7d4e91d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecb9874c-0794-45d5-b0a3-b35bd43d0b62",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC2C63F23ec5E97efbD7565dF9Ec764FDc7d4e91d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC2C63F23ec5E97efbD7565dF9Ec764FDc7d4e91d/logo.png"
+    }
+  },
+  "name": "Boule Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

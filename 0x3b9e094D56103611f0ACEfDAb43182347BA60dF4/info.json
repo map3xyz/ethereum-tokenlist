@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3b9e094D56103611f0ACEfDAb43182347BA60dF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f9cd0b3-fc61-4c5f-afcc-6725c36e8aed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b9e094D56103611f0ACEfDAb43182347BA60dF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b9e094D56103611f0ACEfDAb43182347BA60dF4/logo.png"
+    }
+  },
+  "name": "PANTHEON X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88a6d5e6-c56c-4530-bc34-ce1fef1f2e7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835/logo.png"
+    }
+  },
+  "name": "LiteXToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

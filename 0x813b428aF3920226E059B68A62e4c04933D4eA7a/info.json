@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x813b428aF3920226E059B68A62e4c04933D4eA7a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b173da6d-4397-42e3-a124-2322a2fcd8bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x813b428aF3920226E059B68A62e4c04933D4eA7a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x813b428aF3920226E059B68A62e4c04933D4eA7a/logo.png"
+    }
+  },
+  "name": "Decentralized Asset Trading Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

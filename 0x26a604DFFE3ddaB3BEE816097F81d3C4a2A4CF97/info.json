@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a4ebe651-a1e2-4b1f-a281-d9c99421360e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97/logo.png"
+    }
+  },
+  "name": "CorionX utility token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CORX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

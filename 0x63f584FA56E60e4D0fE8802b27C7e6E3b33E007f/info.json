@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "361e2d1f-ed2c-4179-b2c4-69c1714b7994",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f/logo.png"
+    }
+  },
+  "name": "BOX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

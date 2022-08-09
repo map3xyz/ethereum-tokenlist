@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x87cc79C77a760464d18990b485C914bFD6806F1C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "57942b10-7258-4008-a51c-1587e0677342",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87cc79C77a760464d18990b485C914bFD6806F1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87cc79C77a760464d18990b485C914bFD6806F1C/logo.png"
+    }
+  },
+  "name": "JSW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JSW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

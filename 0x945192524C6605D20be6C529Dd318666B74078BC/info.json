@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x945192524C6605D20be6C529Dd318666B74078BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4de4e0d4-1640-4738-bebe-ce2e04527d01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x945192524C6605D20be6C529Dd318666B74078BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x945192524C6605D20be6C529Dd318666B74078BC/logo.png"
+    }
+  },
+  "name": "Bitsrent",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

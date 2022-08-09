@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE2131B349738090E92991d55F6D09Ce17930b92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78eeef91-7219-4110-8ef7-ce6147db841a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE2131B349738090E92991d55F6D09Ce17930b92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE2131B349738090E92991d55F6D09Ce17930b92/logo.png"
+    }
+  },
+  "name": "YLCHINA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

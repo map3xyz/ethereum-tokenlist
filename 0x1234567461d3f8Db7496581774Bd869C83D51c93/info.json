@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29849ad6-e257-4b8a-9e07-5ed428a4a099",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png"
+    }
+  },
+  "name": "BitClave",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

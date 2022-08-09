@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8d9626315e8025B81c3BDb926Db4C51DDE237f52",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a4c43a8-4e5f-4b13-afda-7429fb208d9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8d9626315e8025B81c3BDb926Db4C51DDE237f52/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8d9626315e8025B81c3BDb926Db4C51DDE237f52/logo.png"
+    }
+  },
+  "name": "PLAAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

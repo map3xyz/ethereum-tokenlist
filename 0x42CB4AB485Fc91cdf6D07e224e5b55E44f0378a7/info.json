@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6554cb7f-8ff1-4ffc-9aec-594d6397f1f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7/logo.png"
+    }
+  },
+  "name": "Xiaodao",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

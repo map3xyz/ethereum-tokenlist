@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf16D45806BFb0ABe59087CD8F388E0042ec7D0d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3dcb021-bbdd-448b-8825-1f11166a520b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf16D45806BFb0ABe59087CD8F388E0042ec7D0d3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf16D45806BFb0ABe59087CD8F388E0042ec7D0d3/logo.png"
+    }
+  },
+  "name": "FOMOPROTOCOL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

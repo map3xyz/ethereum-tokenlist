@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2fC9B3Cce679ADa44a6900cC5731F32775D75CAF",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "2d68ed1c-625c-45fb-8b4b-6807fd9994b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2fC9B3Cce679ADa44a6900cC5731F32775D75CAF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2fC9B3Cce679ADa44a6900cC5731F32775D75CAF/logo.png"
+    }
+  },
+  "name": "Diamond Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

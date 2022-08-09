@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90D702f071d2af33032943137AD0aB4280705817",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ac28a16-c05a-49d5-8307-6e307ef3c87e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90D702f071d2af33032943137AD0aB4280705817/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90D702f071d2af33032943137AD0aB4280705817/logo.png"
+    }
+  },
+  "name": "yffs.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFFS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

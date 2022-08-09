@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBfd4fDC84e1CC26dB7Ec504Caa32d78aE67612a7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b6ff5505-f4cf-4c2d-854a-f521b859cb4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBfd4fDC84e1CC26dB7Ec504Caa32d78aE67612a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBfd4fDC84e1CC26dB7Ec504Caa32d78aE67612a7/logo.png"
+    }
+  },
+  "name": "BitcoinETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

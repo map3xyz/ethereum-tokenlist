@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a9818ee2-5ec7-497d-9e92-1b0861506c6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D/logo.png"
+    }
+  },
+  "name": "LTO Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

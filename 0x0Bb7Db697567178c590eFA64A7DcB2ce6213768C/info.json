@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d85f3255-1f4f-4e66-90db-76873edd9247",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C/logo.png"
+    }
+  },
+  "name": "Camouflage.eth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

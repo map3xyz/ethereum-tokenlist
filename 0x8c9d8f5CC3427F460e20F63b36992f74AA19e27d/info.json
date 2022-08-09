@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8c9d8f5CC3427F460e20F63b36992f74AA19e27d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7000f474-0c79-457d-b7d8-393b964e8013",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8c9d8f5CC3427F460e20F63b36992f74AA19e27d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c9d8f5CC3427F460e20F63b36992f74AA19e27d/logo.png"
+    }
+  },
+  "name": "DeFiat Points",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

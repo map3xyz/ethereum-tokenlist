@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2369686fC9FB6E1fDc46541891568c2f341906eF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d12ee8f-66e3-4ea8-872f-bdd17fd2927f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2369686fC9FB6E1fDc46541891568c2f341906eF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2369686fC9FB6E1fDc46541891568c2f341906eF/logo.png"
+    }
+  },
+  "name": "Drakoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2ef30997-84c4-4957-8532-5a13b04cfe57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x159A1dFAe19057de57dFfFcbB3DA1aE784678965/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x159A1dFAe19057de57dFfFcbB3DA1aE784678965/logo.png"
+    }
+  },
+  "name": "Reflex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

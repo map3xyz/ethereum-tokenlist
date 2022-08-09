@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "378f960d-71e1-4694-974f-edd3295c3a0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619/logo.png"
+    }
+  },
+  "name": "Heart Number",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

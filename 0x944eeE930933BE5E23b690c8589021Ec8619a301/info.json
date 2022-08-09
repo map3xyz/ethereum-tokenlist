@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c44c289c-98b9-402f-872a-73ce1d74c817",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x944eeE930933BE5E23b690c8589021Ec8619a301/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x944eeE930933BE5E23b690c8589021Ec8619a301/logo.png"
+    }
+  },
+  "name": "MUNCH Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUNCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

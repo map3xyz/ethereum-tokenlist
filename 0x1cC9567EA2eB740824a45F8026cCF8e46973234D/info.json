@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1cC9567EA2eB740824a45F8026cCF8e46973234D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d8d37f9-050f-4c33-9420-36c169094111",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1cC9567EA2eB740824a45F8026cCF8e46973234D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1cC9567EA2eB740824a45F8026cCF8e46973234D/logo.png"
+    }
+  },
+  "name": "bZx KNC iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iKNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

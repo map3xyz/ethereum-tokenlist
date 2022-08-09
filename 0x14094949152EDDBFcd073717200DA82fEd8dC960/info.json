@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "30bf2da8-64c1-491b-beda-15c039bac225",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x14094949152EDDBFcd073717200DA82fEd8dC960/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14094949152EDDBFcd073717200DA82fEd8dC960/logo.png"
+    }
+  },
+  "name": "bZx DAI iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

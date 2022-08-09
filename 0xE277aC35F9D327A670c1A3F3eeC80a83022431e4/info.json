@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE277aC35F9D327A670c1A3F3eeC80a83022431e4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2c7f732c-2f26-4dd1-a7ec-98cd32ab395f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE277aC35F9D327A670c1A3F3eeC80a83022431e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE277aC35F9D327A670c1A3F3eeC80a83022431e4/logo.png"
+    }
+  },
+  "name": "PolypuX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

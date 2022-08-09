@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9E66a2A0eF7872404cD9FE8179eb7f4BbD4B80C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "31a0c92b-8345-479e-8c1b-27b5e87c3a6b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9E66a2A0eF7872404cD9FE8179eb7f4BbD4B80C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9E66a2A0eF7872404cD9FE8179eb7f4BbD4B80C/logo.png"
+    }
+  },
+  "name": "planeth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "peth",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

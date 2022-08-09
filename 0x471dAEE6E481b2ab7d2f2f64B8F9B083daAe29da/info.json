@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x471dAEE6E481b2ab7d2f2f64B8F9B083daAe29da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc543bf0-361f-4b0a-be25-f4b77bdda8a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x471dAEE6E481b2ab7d2f2f64B8F9B083daAe29da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x471dAEE6E481b2ab7d2f2f64B8F9B083daAe29da/logo.png"
+    }
+  },
+  "name": "LORDLESS HOPS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

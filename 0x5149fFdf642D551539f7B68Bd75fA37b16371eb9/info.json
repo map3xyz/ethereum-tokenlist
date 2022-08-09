@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5149fFdf642D551539f7B68Bd75fA37b16371eb9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b7f8f946-66e1-416b-b89c-5ea9ffff4427",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5149fFdf642D551539f7B68Bd75fA37b16371eb9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5149fFdf642D551539f7B68Bd75fA37b16371eb9/logo.png"
+    }
+  },
+  "name": "KhanhTest01",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KT1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

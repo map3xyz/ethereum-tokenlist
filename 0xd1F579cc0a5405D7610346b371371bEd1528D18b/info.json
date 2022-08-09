@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd1F579cc0a5405D7610346b371371bEd1528D18b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33d043a6-3c7d-4328-b628-5c795fe10694",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd1F579cc0a5405D7610346b371371bEd1528D18b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd1F579cc0a5405D7610346b371371bEd1528D18b/logo.png"
+    }
+  },
+  "name": "SAHARA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

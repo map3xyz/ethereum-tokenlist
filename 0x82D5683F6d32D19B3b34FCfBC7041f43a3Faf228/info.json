@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82D5683F6d32D19B3b34FCfBC7041f43a3Faf228",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9277a913-72ff-44b7-a0ba-587953fa83b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82D5683F6d32D19B3b34FCfBC7041f43a3Faf228/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82D5683F6d32D19B3b34FCfBC7041f43a3Faf228/logo.png"
+    }
+  },
+  "name": "Catnero",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

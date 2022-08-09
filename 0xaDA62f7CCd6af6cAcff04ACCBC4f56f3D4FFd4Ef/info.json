@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1743173-9f56-4ab7-8a34-455304517b62",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef/logo.png"
+    }
+  },
+  "name": "PlayFuel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

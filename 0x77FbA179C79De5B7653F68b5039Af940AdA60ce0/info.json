@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85692a9f-15ed-413d-a00c-e28486ab77ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png"
+    }
+  },
+  "name": "Ampleforth Governance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FORTH",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

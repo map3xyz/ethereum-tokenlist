@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBeE6EDF5fa7e862ed2eA9b9f42cb0849184aAE85",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8752a2f9-c1bc-4f29-9665-18c5690bbe79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBeE6EDF5fa7e862ed2eA9b9f42cb0849184aAE85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBeE6EDF5fa7e862ed2eA9b9f42cb0849184aAE85/logo.png"
+    }
+  },
+  "name": "Blockstate STO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

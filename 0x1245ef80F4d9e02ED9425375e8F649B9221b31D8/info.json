@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1245ef80F4d9e02ED9425375e8F649B9221b31D8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9d7834d2-e9fb-44a7-8e1e-300cde294235",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1245ef80F4d9e02ED9425375e8F649B9221b31D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1245ef80F4d9e02ED9425375e8F649B9221b31D8/logo.png"
+    }
+  },
+  "name": "ArbitrageCT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

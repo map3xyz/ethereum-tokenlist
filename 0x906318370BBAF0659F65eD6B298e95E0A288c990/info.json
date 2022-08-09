@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x906318370BBAF0659F65eD6B298e95E0A288c990",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5a6da9f3-d408-4797-8c58-9664f2079821",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x906318370BBAF0659F65eD6B298e95E0A288c990/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x906318370BBAF0659F65eD6B298e95E0A288c990/logo.png"
+    }
+  },
+  "name": "ADCC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

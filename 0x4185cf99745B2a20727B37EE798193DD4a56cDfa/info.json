@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab915354-6f66-4561-83b3-37115c8a0415",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png"
+    }
+  },
+  "name": "wCOINBASE-IOU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCOINBASE-IOU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

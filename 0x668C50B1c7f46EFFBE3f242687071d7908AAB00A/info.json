@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x668C50B1c7f46EFFBE3f242687071d7908AAB00A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "e536b170-e3bf-41f6-9315-b66b337010d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x668C50B1c7f46EFFBE3f242687071d7908AAB00A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x668C50B1c7f46EFFBE3f242687071d7908AAB00A/logo.png"
+    }
+  },
+  "name": "CoShi Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CoShi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

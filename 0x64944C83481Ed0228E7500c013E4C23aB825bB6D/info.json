@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64944C83481Ed0228E7500c013E4C23aB825bB6D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e1f559-9786-4edb-b7d2-58c40b29b834",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64944C83481Ed0228E7500c013E4C23aB825bB6D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64944C83481Ed0228E7500c013E4C23aB825bB6D/logo.png"
+    }
+  },
+  "name": "Instant Asset Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

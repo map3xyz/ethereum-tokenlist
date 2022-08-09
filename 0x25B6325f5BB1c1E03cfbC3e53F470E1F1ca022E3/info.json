@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00b6188c-bffb-491d-a2e5-29d4e05fcc0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3/logo.png"
+    }
+  },
+  "name": "LML",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LML",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

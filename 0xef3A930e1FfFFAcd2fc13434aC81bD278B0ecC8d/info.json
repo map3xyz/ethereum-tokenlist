@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "361b426b-6d1a-4689-897d-a94ab5852a62",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d/logo.png"
+    }
+  },
+  "name": "StaFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

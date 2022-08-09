@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d085071-23d5-44c7-a545-a18c7ad36f20",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
+    }
+  },
+  "name": "Ambire AdEx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

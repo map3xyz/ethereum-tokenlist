@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d671f065-934b-4f91-9786-304033e1c71d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
+    }
+  },
+  "name": "Chai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

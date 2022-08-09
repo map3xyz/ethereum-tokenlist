@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xedE9aEfe83bb8C81B67B3eB5826bE2dC5235d34c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f0df4b8-0f5e-4621-98f0-25d2669b3110",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xedE9aEfe83bb8C81B67B3eB5826bE2dC5235d34c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xedE9aEfe83bb8C81B67B3eB5826bE2dC5235d34c/logo.png"
+    }
+  },
+  "name": "EQUOMINER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

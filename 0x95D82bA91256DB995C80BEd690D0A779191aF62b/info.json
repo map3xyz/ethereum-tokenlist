@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95D82bA91256DB995C80BEd690D0A779191aF62b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "889bb833-5c67-4ab8-a0d5-3f620ddf0ac1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95D82bA91256DB995C80BEd690D0A779191aF62b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95D82bA91256DB995C80BEd690D0A779191aF62b/logo.png"
+    }
+  },
+  "name": "AlrightCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

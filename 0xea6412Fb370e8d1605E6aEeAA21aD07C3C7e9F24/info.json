@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44b61810-b06e-426d-b433-d41576cbd561",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24/logo.png"
+    }
+  },
+  "name": "Mushroom (MUSH)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

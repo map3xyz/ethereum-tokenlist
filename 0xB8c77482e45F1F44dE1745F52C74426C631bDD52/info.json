@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ac36446-c01f-4bdb-9abd-7a45d338339a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png"
+    }
+  },
+  "name": "BNB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

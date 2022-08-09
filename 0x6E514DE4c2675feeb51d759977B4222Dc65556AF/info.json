@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6E514DE4c2675feeb51d759977B4222Dc65556AF",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "be08c13c-a932-4e81-bcfe-8252255424f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6E514DE4c2675feeb51d759977B4222Dc65556AF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6E514DE4c2675feeb51d759977B4222Dc65556AF/logo.png"
+    }
+  },
+  "name": "Oldtimer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

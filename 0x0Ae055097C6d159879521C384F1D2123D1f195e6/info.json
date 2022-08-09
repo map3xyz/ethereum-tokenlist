@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1207d57-d572-4d17-9cb7-15562ca4b419",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    }
+  },
+  "name": "xDai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

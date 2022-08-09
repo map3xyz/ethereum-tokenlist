@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "52445f36-938c-486c-8581-271ff68f2bfd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0/logo.png"
+    }
+  },
+  "name": "CanYaCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

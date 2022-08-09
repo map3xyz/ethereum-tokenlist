@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x39391e620a58c56E8Ac20E936B678Bd3D2f2A6fB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd926dbe-52aa-4b29-847a-c1ac0c8e424a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39391e620a58c56E8Ac20E936B678Bd3D2f2A6fB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39391e620a58c56E8Ac20E936B678Bd3D2f2A6fB/logo.png"
+    }
+  },
+  "name": "Watt Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

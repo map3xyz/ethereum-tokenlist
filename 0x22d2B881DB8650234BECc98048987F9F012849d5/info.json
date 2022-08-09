@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x22d2B881DB8650234BECc98048987F9F012849d5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "23d78c83-181d-4d3a-a417-230734c77c6b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x22d2B881DB8650234BECc98048987F9F012849d5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22d2B881DB8650234BECc98048987F9F012849d5/logo.png"
+    }
+  },
+  "name": "Fixie Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

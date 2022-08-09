@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25200235cA7113C2541E70dE737c41f5e9AcD1F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93961a3f-ebea-4b4b-9215-b25802f06dde",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25200235cA7113C2541E70dE737c41f5e9AcD1F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25200235cA7113C2541E70dE737c41f5e9AcD1F6/logo.png"
+    }
+  },
+  "name": "PathHive Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

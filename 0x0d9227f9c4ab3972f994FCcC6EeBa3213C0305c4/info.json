@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9abab9c-4c7d-43df-8447-d8e2af16adff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4/logo.png"
+    }
+  },
+  "name": "Sergey Save Link",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

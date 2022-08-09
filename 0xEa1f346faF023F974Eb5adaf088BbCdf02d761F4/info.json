@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d617a64-9d45-4537-8a7c-18d4f94749d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4/logo.png"
+    }
+  },
+  "name": "Blocktix Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

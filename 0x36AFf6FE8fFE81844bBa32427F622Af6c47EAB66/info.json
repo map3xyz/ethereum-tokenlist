@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36AFf6FE8fFE81844bBa32427F622Af6c47EAB66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d836ede-fad8-4002-af79-5367390fac65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36AFf6FE8fFE81844bBa32427F622Af6c47EAB66/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36AFf6FE8fFE81844bBa32427F622Af6c47EAB66/logo.png"
+    }
+  },
+  "name": "GDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

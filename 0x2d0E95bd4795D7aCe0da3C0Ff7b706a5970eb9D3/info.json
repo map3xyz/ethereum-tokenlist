@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3fe822d4-5b97-497b-8bd8-33a1504cd5c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3/logo.png"
+    }
+  },
+  "name": "All Sports Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

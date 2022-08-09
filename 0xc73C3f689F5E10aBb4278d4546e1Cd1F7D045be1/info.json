@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc73C3f689F5E10aBb4278d4546e1Cd1F7D045be1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2371b58a-1164-4d61-8c72-9e17ab635bf7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc73C3f689F5E10aBb4278d4546e1Cd1F7D045be1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc73C3f689F5E10aBb4278d4546e1Cd1F7D045be1/logo.png"
+    }
+  },
+  "name": "Transferencias y Remesas Internacionales",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

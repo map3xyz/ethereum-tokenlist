@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "a1ee5404-8456-4718-98a1-1958cb5bc125",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45e42D659D9f9466cD5DF622506033145a9b89Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45e42D659D9f9466cD5DF622506033145a9b89Bc/logo.png"
+    }
+  },
+  "name": "Nexium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NxC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

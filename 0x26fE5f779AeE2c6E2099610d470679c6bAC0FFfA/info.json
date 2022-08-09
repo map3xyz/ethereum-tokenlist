@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26fE5f779AeE2c6E2099610d470679c6bAC0FFfA",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "dfac0b1d-767d-4faa-85f7-ad502629156c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26fE5f779AeE2c6E2099610d470679c6bAC0FFfA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26fE5f779AeE2c6E2099610d470679c6bAC0FFfA/logo.png"
+    }
+  },
+  "name": "Wurst",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WURST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

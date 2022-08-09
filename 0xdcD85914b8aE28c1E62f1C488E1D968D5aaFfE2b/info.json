@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41b9655e-7431-4240-8d21-4ac5c17257e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b/logo.png"
+    }
+  },
+  "name": "TOP Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21F3618937f954F8681C93673086d74426f63eb6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "199eee6d-4603-428f-952a-d63dc6d97d2c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21F3618937f954F8681C93673086d74426f63eb6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21F3618937f954F8681C93673086d74426f63eb6/logo.png"
+    }
+  },
+  "name": "MageCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

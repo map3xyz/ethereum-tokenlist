@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfDd9933A6A3B17c53AC63959AcA1c4692956077C",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "633cfff0-1dd6-4255-8f2e-4168ee04caf6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfDd9933A6A3B17c53AC63959AcA1c4692956077C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfDd9933A6A3B17c53AC63959AcA1c4692956077C/logo.png"
+    }
+  },
+  "name": "EQR V2/3560",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

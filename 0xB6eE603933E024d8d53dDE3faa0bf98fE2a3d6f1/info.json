@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "674bb2a9-492e-4e73-8b64-66c59ee7c8a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1/logo.png"
+    }
+  },
+  "name": "DeFiat",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE02784175C3BE0DEa7CC0F284041b64503639E66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "950bef96-bd05-4671-8880-c470cb146a32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE02784175C3BE0DEa7CC0F284041b64503639E66/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE02784175C3BE0DEa7CC0F284041b64503639E66/logo.png"
+    }
+  },
+  "name": "TouchCon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

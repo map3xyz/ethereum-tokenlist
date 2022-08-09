@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd2946be786F35c3Cc402C29b323647aBda799071",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ee14b191-c259-4295-bcbc-8f767a63fc97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd2946be786F35c3Cc402C29b323647aBda799071/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2946be786F35c3Cc402C29b323647aBda799071/logo.png"
+    }
+  },
+  "name": "Vikky Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIKKY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

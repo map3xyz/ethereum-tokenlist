@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1237b0d12B15e3c609e37885597bFCad85745cf1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f86315b9-fb3d-4165-a8e4-840c82626b4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1237b0d12B15e3c609e37885597bFCad85745cf1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1237b0d12B15e3c609e37885597bFCad85745cf1/logo.png"
+    }
+  },
+  "name": "Serve",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SERV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

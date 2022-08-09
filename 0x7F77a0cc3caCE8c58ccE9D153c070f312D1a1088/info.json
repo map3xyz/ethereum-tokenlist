@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e2919eca-5a47-4ea7-835a-332f9e71b3f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088/logo.png"
+    }
+  },
+  "name": "Med. Cannabis Note",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "₵",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x71944c7953c93dBc0cd977e0ee1bBd9C2494B7B1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8f9a5e1a-0135-4f9b-b8e1-6d820f981d94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71944c7953c93dBc0cd977e0ee1bBd9C2494B7B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71944c7953c93dBc0cd977e0ee1bBd9C2494B7B1/logo.png"
+    }
+  },
+  "name": "ALMEELA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KZE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

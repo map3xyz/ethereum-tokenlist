@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x452f6DE535f613B92443F5446AE4e7C1c4Ad01f2",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "ae730349-ce8b-4753-b012-3bb4321d3c44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x452f6DE535f613B92443F5446AE4e7C1c4Ad01f2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x452f6DE535f613B92443F5446AE4e7C1c4Ad01f2/logo.png"
+    }
+  },
+  "name": "UsPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

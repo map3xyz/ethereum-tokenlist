@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd140c6c-d399-4f79-b7cf-f7aeee013ead",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
+    }
+  },
+  "name": "Audius",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUDIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "56e39792-5c83-45ec-96df-608d98c328f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c/logo.png"
+    }
+  },
+  "name": "Rocket Bunny",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUNNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

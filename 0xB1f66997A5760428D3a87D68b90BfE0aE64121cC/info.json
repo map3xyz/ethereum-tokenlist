@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ca68dca-f9dd-4629-beb8-bfd72de06f32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
+    }
+  },
+  "name": "LuaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

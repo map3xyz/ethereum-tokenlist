@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04dc18a7-550a-4e60-9f33-e5e8478e9a1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2167FB82309CF76513E83B25123f8b0559d6b48f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2167FB82309CF76513E83B25123f8b0559d6b48f/logo.png"
+    }
+  },
+  "name": "LION",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LION",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

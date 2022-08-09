@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdD7790EF5E928E683a79B2A1F49Bd9F0a5c6dAa8",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "7d3bc52e-26e4-4964-838e-466fc162d183",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdD7790EF5E928E683a79B2A1F49Bd9F0a5c6dAa8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdD7790EF5E928E683a79B2A1F49Bd9F0a5c6dAa8/logo.png"
+    }
+  },
+  "name": "CoAlphaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e449781-3f73-462d-a35f-e11b46136ae8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04/logo.png"
+    }
+  },
+  "name": "VOLT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x301fFA01Ee2AA947a49cC787BDDeFD6Ac4C119e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1dfc2936-e503-4879-938d-034293f58aa7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x301fFA01Ee2AA947a49cC787BDDeFD6Ac4C119e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x301fFA01Ee2AA947a49cC787BDDeFD6Ac4C119e1/logo.png"
+    }
+  },
+  "name": "TAXICOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

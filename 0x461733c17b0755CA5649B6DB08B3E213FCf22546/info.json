@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x461733c17b0755CA5649B6DB08B3E213FCf22546",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c71060c4-1084-4d78-b559-67eb5840f7fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x461733c17b0755CA5649B6DB08B3E213FCf22546/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x461733c17b0755CA5649B6DB08B3E213FCf22546/logo.png"
+    }
+  },
+  "name": "ATN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

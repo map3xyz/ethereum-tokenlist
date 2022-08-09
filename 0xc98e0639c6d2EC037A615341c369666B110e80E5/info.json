@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0c33f9af-0564-4a1d-b256-93779a56a5cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc98e0639c6d2EC037A615341c369666B110e80E5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc98e0639c6d2EC037A615341c369666B110e80E5/logo.png"
+    }
+  },
+  "name": "EXMR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXMR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

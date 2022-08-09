@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4dF76A9DaB9bb8310e4Ad3dc4336a8e26ed24EBB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe71a701-a20a-4997-a21f-55aeafda70b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dF76A9DaB9bb8310e4Ad3dc4336a8e26ed24EBB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4dF76A9DaB9bb8310e4Ad3dc4336a8e26ed24EBB/logo.png"
+    }
+  },
+  "name": "Sappchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "818a8b0d-db13-40be-96f7-802315a032ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png"
+    }
+  },
+  "name": "Tornado Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

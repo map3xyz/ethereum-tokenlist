@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57838fF342f36A1EC18224981ea8715a4667fB3a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e628a966-3383-4aaf-bd3f-5088958993fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57838fF342f36A1EC18224981ea8715a4667fB3a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57838fF342f36A1EC18224981ea8715a4667fB3a/logo.png"
+    }
+  },
+  "name": "QUBE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

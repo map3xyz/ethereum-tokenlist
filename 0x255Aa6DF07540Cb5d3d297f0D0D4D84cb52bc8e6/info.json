@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f9dd3e9-3ea1-416e-b959-aac31f7e9047",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6/logo.png"
+    }
+  },
+  "name": "Raiden Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

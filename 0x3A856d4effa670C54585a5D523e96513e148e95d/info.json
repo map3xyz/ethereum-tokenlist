@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1004497-fec5-4453-a98d-40a78718a921",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A856d4effa670C54585a5D523e96513e148e95d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A856d4effa670C54585a5D523e96513e148e95d/logo.png"
+    }
+  },
+  "name": "Trias Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

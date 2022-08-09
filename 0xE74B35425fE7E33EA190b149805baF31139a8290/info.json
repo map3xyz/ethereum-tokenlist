@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE74B35425fE7E33EA190b149805baF31139a8290",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07f1dc4c-fd0e-4470-a5d4-c84adbe26a4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE74B35425fE7E33EA190b149805baF31139a8290/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE74B35425fE7E33EA190b149805baF31139a8290/logo.png"
+    }
+  },
+  "name": "QuickCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

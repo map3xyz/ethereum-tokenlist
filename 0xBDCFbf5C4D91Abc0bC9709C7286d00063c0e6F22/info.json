@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "223d9d45-1360-4de1-b51a-8dacfdc1ce42",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22/logo.png"
+    }
+  },
+  "name": "GUESS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GUESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "727fcded-7b25-494a-af02-0bc8da90641f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18/logo.png"
+    }
+  },
+  "name": "Aladdin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

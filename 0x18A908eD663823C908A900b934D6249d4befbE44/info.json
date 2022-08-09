@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18A908eD663823C908A900b934D6249d4befbE44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35e1c67e-c32c-4da9-9508-0444bf569d4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x18A908eD663823C908A900b934D6249d4befbE44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18A908eD663823C908A900b934D6249d4befbE44/logo.png"
+    }
+  },
+  "name": "Strike BUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

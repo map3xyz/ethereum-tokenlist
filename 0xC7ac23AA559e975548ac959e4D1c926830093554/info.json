@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC7ac23AA559e975548ac959e4D1c926830093554",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "ee6193e3-5c5c-4543-be0d-9478ff403ec9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC7ac23AA559e975548ac959e4D1c926830093554/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC7ac23AA559e975548ac959e4D1c926830093554/logo.png"
+    }
+  },
+  "name": "Stella's LIMO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

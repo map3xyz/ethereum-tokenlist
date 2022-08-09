@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d14c022-61b6-4fae-a1d8-3ce7d36202e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c/logo.png"
+    }
+  },
+  "name": "yUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

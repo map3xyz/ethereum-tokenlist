@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a55a1cd9-a8f7-4ee8-b137-14188acde6e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2/logo.png"
+    }
+  },
+  "name": "GoPower Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

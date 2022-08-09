@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49108b9d-f43f-4016-a428-57ac4c7b3fb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F/logo.png"
+    }
+  },
+  "name": "HedgeTrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

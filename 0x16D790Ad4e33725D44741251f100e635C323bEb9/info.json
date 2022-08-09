@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16D790Ad4e33725D44741251f100e635C323bEb9",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "128dc60b-67c1-40de-80f6-6252d93c7564",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16D790Ad4e33725D44741251f100e635C323bEb9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16D790Ad4e33725D44741251f100e635C323bEb9/logo.png"
+    }
+  },
+  "name": "OwnTheDay.io Days",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3469460CA6260d81ad508773f3B691ae4753Ae2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be2df4c0-ede8-4fd5-a479-a7410975ae3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3469460CA6260d81ad508773f3B691ae4753Ae2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3469460CA6260d81ad508773f3B691ae4753Ae2/logo.png"
+    }
+  },
+  "name": "SERVICEZONE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SVZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

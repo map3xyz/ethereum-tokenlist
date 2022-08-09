@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86a85f2e-da26-4d68-9357-a55c7852697b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05aAaA829Afa407D83315cDED1d45EB16025910c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05aAaA829Afa407D83315cDED1d45EB16025910c/logo.png"
+    }
+  },
+  "name": "SP8DE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

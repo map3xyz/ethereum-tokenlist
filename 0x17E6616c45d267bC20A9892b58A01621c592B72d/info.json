@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17E6616c45d267bC20A9892b58A01621c592B72d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fabea403-4ab8-42cf-821d-14fba8a06047",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x17E6616c45d267bC20A9892b58A01621c592B72d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17E6616c45d267bC20A9892b58A01621c592B72d/logo.png"
+    }
+  },
+  "name": "Ethereum Message Search",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

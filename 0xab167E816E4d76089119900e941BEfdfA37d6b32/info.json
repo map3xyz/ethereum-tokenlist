@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xab167E816E4d76089119900e941BEfdfA37d6b32",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "73666bdd-c942-43f7-bb3c-c5733850fd2d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xab167E816E4d76089119900e941BEfdfA37d6b32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab167E816E4d76089119900e941BEfdfA37d6b32/logo.png"
+    }
+  },
+  "name": "Shibnobi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHINJA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

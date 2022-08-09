@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeE8D611d2dEcc2AcB30191353A8e04496fC02090",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f7e4bbb4-5f69-40b7-9e03-76940fca29b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeE8D611d2dEcc2AcB30191353A8e04496fC02090/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeE8D611d2dEcc2AcB30191353A8e04496fC02090/logo.png"
+    }
+  },
+  "name": "CRYPTOVENO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VENO2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6f83c045-6fb6-44cb-bfe8-8b5f78608ecf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8/logo.png"
+    }
+  },
+  "name": "Everex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

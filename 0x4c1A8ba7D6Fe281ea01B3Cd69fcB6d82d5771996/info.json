@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce2c8260-c87f-46a6-bdf9-c11887a73c45",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996/logo.png"
+    }
+  },
+  "name": "游龙盾",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

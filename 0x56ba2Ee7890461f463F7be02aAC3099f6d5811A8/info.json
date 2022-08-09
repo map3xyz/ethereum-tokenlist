@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e03e78f2-2263-40b6-963e-7c137895c87a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8/logo.png"
+    }
+  },
+  "name": "BlockCAT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

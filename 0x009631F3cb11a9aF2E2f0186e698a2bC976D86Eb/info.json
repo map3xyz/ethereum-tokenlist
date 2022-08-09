@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d203a66-975f-42b2-bb04-8808a6cfba0f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb/logo.png"
+    }
+  },
+  "name": "Ethereum Dragon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7aB21CA0a11d63369de020601b1342baA71144E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a5fc9c35-76b7-4cd6-b0b5-e88c0b007855",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7aB21CA0a11d63369de020601b1342baA71144E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7aB21CA0a11d63369de020601b1342baA71144E/logo.png"
+    }
+  },
+  "name": "BVA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

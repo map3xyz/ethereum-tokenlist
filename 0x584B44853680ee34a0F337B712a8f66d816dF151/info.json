@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x584B44853680ee34a0F337B712a8f66d816dF151",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7ae4d9f-6672-4614-b6b6-b346312235a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x584B44853680ee34a0F337B712a8f66d816dF151/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x584B44853680ee34a0F337B712a8f66d816dF151/logo.png"
+    }
+  },
+  "name": "AI Doctor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIDOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

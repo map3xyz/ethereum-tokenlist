@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11d477d3-6940-473f-8762-14a2118fcace",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9F5F3CFD7a32700C93F971637407ff17b91c7342/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F5F3CFD7a32700C93F971637407ff17b91c7342/logo.png"
+    }
+  },
+  "name": "ScryDddToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

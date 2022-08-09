@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "881c79a4-a31f-4739-8116-ad6e80c88546",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9/logo.png"
+    }
+  },
+  "name": "NABS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

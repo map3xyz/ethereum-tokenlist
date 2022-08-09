@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x31371618e52a1dCD55Caa07f6E81628Bd4371585",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5be6ba2b-c817-4523-9f8b-1fc61045f02c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x31371618e52a1dCD55Caa07f6E81628Bd4371585/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31371618e52a1dCD55Caa07f6E81628Bd4371585/logo.png"
+    }
+  },
+  "name": "ATBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

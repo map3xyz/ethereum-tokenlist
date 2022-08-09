@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAEb1b41981F7Aa5740C7cc0eF5822A40149eC230",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a940e4cd-feb3-42e7-84ed-18022376ef26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAEb1b41981F7Aa5740C7cc0eF5822A40149eC230/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAEb1b41981F7Aa5740C7cc0eF5822A40149eC230/logo.png"
+    }
+  },
+  "name": "CARE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

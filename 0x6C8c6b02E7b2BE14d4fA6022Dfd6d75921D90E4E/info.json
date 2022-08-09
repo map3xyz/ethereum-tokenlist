@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a12ece3e-3079-4d09-8e48-999c60073090",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E/logo.png"
+    }
+  },
+  "name": "Compound Basic Attention Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cBAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

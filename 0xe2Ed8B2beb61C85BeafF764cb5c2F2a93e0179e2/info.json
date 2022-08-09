@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe2Ed8B2beb61C85BeafF764cb5c2F2a93e0179e2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4fce3286-6d6e-4797-9691-276453ccd956",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe2Ed8B2beb61C85BeafF764cb5c2F2a93e0179e2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe2Ed8B2beb61C85BeafF764cb5c2F2a93e0179e2/logo.png"
+    }
+  },
+  "name": "BuidlersFund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOXHOUND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

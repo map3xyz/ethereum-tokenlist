@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6913cCabBC337F0ea7b4109dd8200D61c704D332",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c8f6f207-9ed7-4f78-8175-961cd4ed1b00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6913cCabBC337F0ea7b4109dd8200D61c704D332/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6913cCabBC337F0ea7b4109dd8200D61c704D332/logo.png"
+    }
+  },
+  "name": "Asac Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30521e4cCC4d0494d624394fc275EAd318051de8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "42a050bb-8796-436f-ab6c-53a7ae91a45a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30521e4cCC4d0494d624394fc275EAd318051de8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30521e4cCC4d0494d624394fc275EAd318051de8/logo.png"
+    }
+  },
+  "name": "RealDAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REALDAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x534c5EC7bF392d0B6b228EBEfBe3F6606a2b3484",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba47917c-4ded-4086-aa6f-d176556e3657",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x534c5EC7bF392d0B6b228EBEfBe3F6606a2b3484/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x534c5EC7bF392d0B6b228EBEfBe3F6606a2b3484/logo.png"
+    }
+  },
+  "name": "Daex.Trade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

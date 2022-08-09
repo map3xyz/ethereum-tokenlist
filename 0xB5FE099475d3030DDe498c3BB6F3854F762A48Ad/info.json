@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9c6557e-14ce-4971-837f-686c6af1bcce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad/logo.png"
+    }
+  },
+  "name": "FNK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8452573-a2b3-4eee-8088-81983ca1c946",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4/logo.png"
+    }
+  },
+  "name": "Bitpaid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

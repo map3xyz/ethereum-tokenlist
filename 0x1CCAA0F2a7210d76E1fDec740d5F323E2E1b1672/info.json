@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e530874b-6fef-462e-a83d-06b9547a6564",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672/logo.png"
+    }
+  },
+  "name": "Faceter Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

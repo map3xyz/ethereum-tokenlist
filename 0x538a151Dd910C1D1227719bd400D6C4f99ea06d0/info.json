@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x538a151Dd910C1D1227719bd400D6C4f99ea06d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6f93be91-d2e4-455f-919e-a876553038a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x538a151Dd910C1D1227719bd400D6C4f99ea06d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x538a151Dd910C1D1227719bd400D6C4f99ea06d0/logo.png"
+    }
+  },
+  "name": "Cryptochrome",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

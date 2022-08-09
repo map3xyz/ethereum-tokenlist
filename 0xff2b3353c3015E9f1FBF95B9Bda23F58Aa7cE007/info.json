@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4aa0b198-c710-4d5f-9dbd-618c4fce33f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007/logo.png"
+    }
+  },
+  "name": "BitScreenerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

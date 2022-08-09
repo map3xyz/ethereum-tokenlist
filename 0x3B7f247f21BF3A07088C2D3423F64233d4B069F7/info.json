@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "4f9a2c70-76fb-420e-b004-6edc02043950",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3B7f247f21BF3A07088C2D3423F64233d4B069F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3B7f247f21BF3A07088C2D3423F64233d4B069F7/logo.png"
+    }
+  },
+  "name": "DYNAMITE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYNMT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

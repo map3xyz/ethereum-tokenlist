@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8aa6651-62e2-48fc-bb9b-824590f913b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png"
+    }
+  },
+  "name": "Render Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

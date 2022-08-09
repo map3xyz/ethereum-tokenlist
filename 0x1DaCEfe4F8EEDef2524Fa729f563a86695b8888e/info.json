@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1DaCEfe4F8EEDef2524Fa729f563a86695b8888e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e93261a-e37e-46bb-9771-802845844e04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1DaCEfe4F8EEDef2524Fa729f563a86695b8888e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1DaCEfe4F8EEDef2524Fa729f563a86695b8888e/logo.png"
+    }
+  },
+  "name": "CCECOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6504f9c5-cb6c-4efe-a3df-1db6a4b30380",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb/logo.png"
+    }
+  },
+  "name": "EvenCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

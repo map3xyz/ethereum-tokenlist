@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b0d41a1f-cac6-4dd7-ade2-f549945cd495",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa/logo.png"
+    }
+  },
+  "name": "Ethereum Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHMNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

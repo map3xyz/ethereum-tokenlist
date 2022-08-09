@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d88842e-fcd8-428e-abff-5c2f52884ae2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C/logo.png"
+    }
+  },
+  "name": "Sky Ether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67A8C7EdADd6827056F489ABDfF85fB5a4B2182C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "86ac003e-8b66-4a9e-8e27-1e745884ee97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67A8C7EdADd6827056F489ABDfF85fB5a4B2182C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67A8C7EdADd6827056F489ABDfF85fB5a4B2182C/logo.png"
+    }
+  },
+  "name": "Medicine Health Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2bdbF15d055899a767F5459A151bEd15Fb8fD2F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "086bec2e-c2c1-466c-a76a-770a0f0fae7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2bdbF15d055899a767F5459A151bEd15Fb8fD2F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2bdbF15d055899a767F5459A151bEd15Fb8fD2F6/logo.png"
+    }
+  },
+  "name": "UST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

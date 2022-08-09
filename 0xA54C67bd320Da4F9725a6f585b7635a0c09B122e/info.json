@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "237b3355-935c-4c35-8736-9aef61247bf2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e/logo.png"
+    }
+  },
+  "name": "TimeMiner",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

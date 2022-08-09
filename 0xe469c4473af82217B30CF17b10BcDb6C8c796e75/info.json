@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b5ad5e74-a5a2-461a-a470-e9dc20f0d657",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe469c4473af82217B30CF17b10BcDb6C8c796e75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe469c4473af82217B30CF17b10BcDb6C8c796e75/logo.png"
+    }
+  },
+  "name": "EXRP Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e1d3687-3cf1-4df1-bc8c-84f2e31b5468",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x539F3615C1dBAfa0D008d87504667458acBd16Fa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x539F3615C1dBAfa0D008d87504667458acBd16Fa/logo.png"
+    }
+  },
+  "name": "FERA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FERA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

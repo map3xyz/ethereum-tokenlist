@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3875e123-f9d5-49de-b590-a328393ac382",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a/logo.png"
+    }
+  },
+  "name": "Orion Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

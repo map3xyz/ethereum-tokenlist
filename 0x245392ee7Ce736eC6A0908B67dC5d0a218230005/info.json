@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x245392ee7Ce736eC6A0908B67dC5d0a218230005",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9a41a4b-afdc-40f5-812c-17e8d4e8569d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x245392ee7Ce736eC6A0908B67dC5d0a218230005/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245392ee7Ce736eC6A0908B67dC5d0a218230005/logo.png"
+    }
+  },
+  "name": "YAPSTONE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

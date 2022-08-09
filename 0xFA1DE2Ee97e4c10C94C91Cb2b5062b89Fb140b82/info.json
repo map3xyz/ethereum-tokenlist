@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "76f85968-25d2-42d1-a550-f245b3709ecd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82/logo.png"
+    }
+  },
+  "name": "Education Credits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

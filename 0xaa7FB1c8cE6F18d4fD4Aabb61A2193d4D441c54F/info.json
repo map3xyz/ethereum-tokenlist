@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "18206d09-c80e-4f5d-8be9-983ce2c015fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F/logo.png"
+    }
+  },
+  "name": "ShitCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

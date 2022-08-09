@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcBeD554Ad21B9dce19BDa9A57C3b62C9d3fF72e2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ec27102-eaea-4d0d-a796-a052a17d7fcc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcBeD554Ad21B9dce19BDa9A57C3b62C9d3fF72e2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcBeD554Ad21B9dce19BDa9A57C3b62C9d3fF72e2/logo.png"
+    }
+  },
+  "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

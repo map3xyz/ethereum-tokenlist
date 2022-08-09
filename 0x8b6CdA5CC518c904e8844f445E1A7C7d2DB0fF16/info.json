@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8b6CdA5CC518c904e8844f445E1A7C7d2DB0fF16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16748726-56a6-4d41-9d20-27eadb49d332",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8b6CdA5CC518c904e8844f445E1A7C7d2DB0fF16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b6CdA5CC518c904e8844f445E1A7C7d2DB0fF16/logo.png"
+    }
+  },
+  "name": "SF Capital",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SFCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

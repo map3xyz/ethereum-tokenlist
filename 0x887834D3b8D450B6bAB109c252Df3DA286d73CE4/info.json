@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x887834D3b8D450B6bAB109c252Df3DA286d73CE4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d14fae5b-7233-4a8d-8252-09f1c9fc02cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x887834D3b8D450B6bAB109c252Df3DA286d73CE4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x887834D3b8D450B6bAB109c252Df3DA286d73CE4/logo.png"
+    }
+  },
+  "name": "Atmatrix Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

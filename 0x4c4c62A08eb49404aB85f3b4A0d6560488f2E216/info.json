@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "03e65892-cc37-441c-a063-29f05fc2aac3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216/logo.png"
+    }
+  },
+  "name": "Sparkles Light",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Spark",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

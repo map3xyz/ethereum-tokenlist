@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eedf853b-96ab-41dd-97f6-ef8ff3946ff8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9c405acf8688AfB61B3197421cDeeC1A266c6839/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9c405acf8688AfB61B3197421cDeeC1A266c6839/logo.png"
+    }
+  },
+  "name": "DogeYield",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

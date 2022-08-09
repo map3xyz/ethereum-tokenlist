@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ee57511-f463-4fd1-b510-8c4261815ab3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xDcB01cc464238396E213a6fDd933E36796eAfF9f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDcB01cc464238396E213a6fDd933E36796eAfF9f/logo.png"
+    }
+  },
+  "name": "Yield",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x248470C776023Ee14f984a5c694287298893Ca01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a44d3a6c-1ac9-402f-88b3-0b7fc6c05a71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x248470C776023Ee14f984a5c694287298893Ca01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x248470C776023Ee14f984a5c694287298893Ca01/logo.png"
+    }
+  },
+  "name": "FSHN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSHN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a349f06-4c7c-4310-8439-3574a43bdcad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf/logo.png"
+    }
+  },
+  "name": "LAToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAToken",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

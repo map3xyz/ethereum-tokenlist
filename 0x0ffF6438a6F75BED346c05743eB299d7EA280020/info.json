@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ffF6438a6F75BED346c05743eB299d7EA280020",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "184654c6-ac19-48ad-9811-81cc40b4891f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ffF6438a6F75BED346c05743eB299d7EA280020/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ffF6438a6F75BED346c05743eB299d7EA280020/logo.png"
+    }
+  },
+  "name": "bomb.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

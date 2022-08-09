@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46d8eb37-513b-44a1-9c93-641047f50454",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
+    }
+  },
+  "name": "Change",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

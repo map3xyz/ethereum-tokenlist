@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3d166dd13dFdca66879bdd45dc224D07C8855CdB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2441b5bc-e9ac-48d9-8312-64d4297d66a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3d166dd13dFdca66879bdd45dc224D07C8855CdB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3d166dd13dFdca66879bdd45dc224D07C8855CdB/logo.png"
+    }
+  },
+  "name": "CreaEther",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

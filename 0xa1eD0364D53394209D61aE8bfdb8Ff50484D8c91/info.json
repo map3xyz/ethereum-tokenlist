@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xa1eD0364D53394209D61aE8bfdb8Ff50484D8c91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77057e40-768c-453a-865a-dc28acc93db8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1eD0364D53394209D61aE8bfdb8Ff50484D8c91/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "TeraBlock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb1cA3106051a217D84b380e6c32b7dB2f51F6A15",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6fe8e1b6-1658-4c77-a283-4509f0a54d49",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb1cA3106051a217D84b380e6c32b7dB2f51F6A15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb1cA3106051a217D84b380e6c32b7dB2f51F6A15/logo.png"
+    }
+  },
+  "name": "Arcadium X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

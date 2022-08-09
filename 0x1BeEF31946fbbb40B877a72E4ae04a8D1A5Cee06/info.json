@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5992182d-6c64-4111-91d9-a71d0f6b0f2d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06/logo.png"
+    }
+  },
+  "name": "Parachute",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

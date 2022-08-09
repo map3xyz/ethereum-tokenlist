@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "edfc0e72-f778-48f6-8ad3-dde61e715b74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43/logo.png"
+    }
+  },
+  "name": "Elementeum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

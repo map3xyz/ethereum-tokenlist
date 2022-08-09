@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2b915b505c017ABb1547aA5Ab355FbE69865cC6D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "ca1da066-cc79-4fda-849e-705997044011",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b915b505c017ABb1547aA5Ab355FbE69865cC6D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b915b505c017ABb1547aA5Ab355FbE69865cC6D/logo.png"
+    }
+  },
+  "name": "Maps.me",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

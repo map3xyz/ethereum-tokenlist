@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac3cf986-f513-4b3e-a611-4a2d58002ec6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32/logo.png"
+    }
+  },
+  "name": "SYNC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SYNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

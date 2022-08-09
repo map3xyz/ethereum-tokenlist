@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8810C63470d38639954c6B41AaC545848C46484a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76cb034c-84c1-4137-a546-6d1fde5907ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8810C63470d38639954c6B41AaC545848C46484a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8810C63470d38639954c6B41AaC545848C46484a/logo.png"
+    }
+  },
+  "name": "Aditus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

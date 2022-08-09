@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb06de6eAab9fE283aBC9Bd2D1084E4896051D6Dc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "92302ac5-ddc2-4197-a888-3eb4ec972774",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb06de6eAab9fE283aBC9Bd2D1084E4896051D6Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb06de6eAab9fE283aBC9Bd2D1084E4896051D6Dc/logo.png"
+    }
+  },
+  "name": "iEXCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iEXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "124adc38-2dfd-4db8-ab12-db7cb39de21a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83/logo.png"
+    }
+  },
+  "name": "YFII",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFII",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

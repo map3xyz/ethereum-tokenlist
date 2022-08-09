@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8E4B1E38c082C7cEb638c084C102352421FE607F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9eba0e39-cd72-4318-9778-dcb7b4e55eb3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E4B1E38c082C7cEb638c084C102352421FE607F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8E4B1E38c082C7cEb638c084C102352421FE607F/logo.png"
+    }
+  },
+  "name": "FEG Wrapped SHIB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

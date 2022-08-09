@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcDf6e7D170Fe40cfF11639dC89AF9F96589B2527",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a7714c00-1367-43f8-b4f9-a0e8bc765b6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcDf6e7D170Fe40cfF11639dC89AF9F96589B2527/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcDf6e7D170Fe40cfF11639dC89AF9F96589B2527/logo.png"
+    }
+  },
+  "name": "Empower Solutions Inc.",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE870bD7C40c1f1227637DEd7B60456501D25A7B8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "718fdf57-5ce4-42e3-b08b-3fa180c789bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE870bD7C40c1f1227637DEd7B60456501D25A7B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE870bD7C40c1f1227637DEd7B60456501D25A7B8/logo.png"
+    }
+  },
+  "name": "DeFlash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

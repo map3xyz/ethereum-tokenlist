@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86eCAA22459BCc7c356765f65e05Afd456eC51F9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b39cfc40-29e3-44fb-8a3c-7d6a72b0f802",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86eCAA22459BCc7c356765f65e05Afd456eC51F9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86eCAA22459BCc7c356765f65e05Afd456eC51F9/logo.png"
+    }
+  },
+  "name": "PazCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

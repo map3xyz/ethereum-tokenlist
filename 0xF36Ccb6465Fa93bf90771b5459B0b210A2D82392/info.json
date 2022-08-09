@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF36Ccb6465Fa93bf90771b5459B0b210A2D82392",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ede2ef55-a0a9-4fc8-9471-4a2973ab492e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF36Ccb6465Fa93bf90771b5459B0b210A2D82392/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF36Ccb6465Fa93bf90771b5459B0b210A2D82392/logo.png"
+    }
+  },
+  "name": "CyteCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

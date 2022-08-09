@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73052ed7-c3c3-49df-aa1e-994903d19826",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9196E18Bc349B1F64Bc08784eaE259525329a1ad/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9196E18Bc349B1F64Bc08784eaE259525329a1ad/logo.png"
+    }
+  },
+  "name": "Pussy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PUSSY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

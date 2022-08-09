@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "11861b36-5adf-4164-862e-cbfbc290de8e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E/logo.png"
+    }
+  },
+  "name": "KickToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KICK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

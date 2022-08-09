@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20398aD62bb2D930646d45a6D4292baa0b860C1f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3ae5319-21af-42df-83e5-5c5aaa4192f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20398aD62bb2D930646d45a6D4292baa0b860C1f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20398aD62bb2D930646d45a6D4292baa0b860C1f/logo.png"
+    }
+  },
+  "name": "Flashstake",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

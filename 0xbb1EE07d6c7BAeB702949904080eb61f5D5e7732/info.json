@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d143b3b7-7f3b-487a-a5b1-5b9568448ccc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732/logo.png"
+    }
+  },
+  "name": "Dogey-Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DINU",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

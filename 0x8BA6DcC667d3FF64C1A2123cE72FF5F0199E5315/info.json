@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "468841b7-5584-4b00-811e-de507714fa6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315/logo.png"
+    }
+  },
+  "name": "AlexMasmej",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x203Ba630BFC57E3BD9f0DD8EA38B30e972d0E050",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61f4fc0c-c5dc-4f8c-816c-ce4166f40c57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x203Ba630BFC57E3BD9f0DD8EA38B30e972d0E050/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x203Ba630BFC57E3BD9f0DD8EA38B30e972d0E050/logo.png"
+    }
+  },
+  "name": "U. S. Dollar Digital Safe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCAE646bc8C968d87D54fA49ccDbf0FD330125cc2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e316597d-1fd4-4dee-80b2-8d8146667843",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCAE646bc8C968d87D54fA49ccDbf0FD330125cc2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCAE646bc8C968d87D54fA49ccDbf0FD330125cc2/logo.png"
+    }
+  },
+  "name": "YamataChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

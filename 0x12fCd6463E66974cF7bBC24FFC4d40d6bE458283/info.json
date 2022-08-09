@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8a90d600-db16-4d60-8d3b-3e9ef9ef377c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283/logo.png"
+    }
+  },
+  "name": "Globitex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

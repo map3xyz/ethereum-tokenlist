@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6f45453C04D9Ffc46F70a1c44c903a1fB0D51684",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a45d3073-2df3-4088-b9b9-2f57b49bc03d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6f45453C04D9Ffc46F70a1c44c903a1fB0D51684/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f45453C04D9Ffc46F70a1c44c903a1fB0D51684/logo.png"
+    }
+  },
+  "name": "Deut Capital Management",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

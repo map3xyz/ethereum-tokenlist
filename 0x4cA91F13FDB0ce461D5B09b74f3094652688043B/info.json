@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4cA91F13FDB0ce461D5B09b74f3094652688043B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "35845d2f-a54c-4250-be61-d87a86e598bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4cA91F13FDB0ce461D5B09b74f3094652688043B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4cA91F13FDB0ce461D5B09b74f3094652688043B/logo.png"
+    }
+  },
+  "name": "KEPENG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KPNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

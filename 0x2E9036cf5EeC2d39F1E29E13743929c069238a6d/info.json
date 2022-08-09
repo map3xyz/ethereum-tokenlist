@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2E9036cf5EeC2d39F1E29E13743929c069238a6d",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8d466496-ac29-4a44-97f0-81e9d160b926",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2E9036cf5EeC2d39F1E29E13743929c069238a6d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2E9036cf5EeC2d39F1E29E13743929c069238a6d/logo.png"
+    }
+  },
+  "name": "EQR 2000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

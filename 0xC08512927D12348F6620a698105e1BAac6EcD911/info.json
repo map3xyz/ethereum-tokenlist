@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9552c27a-fcfd-4cd9-82c9-c466ec2241ba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC08512927D12348F6620a698105e1BAac6EcD911/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC08512927D12348F6620a698105e1BAac6EcD911/logo.png"
+    }
+  },
+  "name": "GYEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GYEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9bc65105-0ff6-4b86-bf39-660eea1657ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x322124122DF407b0d0D902cB713B3714FB2e2E1F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x322124122DF407b0d0D902cB713B3714FB2e2E1F/logo.png"
+    }
+  },
+  "name": "Soft Yearn Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SYFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

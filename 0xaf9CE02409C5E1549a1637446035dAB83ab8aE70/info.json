@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaf9CE02409C5E1549a1637446035dAB83ab8aE70",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e5ca2ade-4013-4bbe-a732-ba758e9c6722",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaf9CE02409C5E1549a1637446035dAB83ab8aE70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaf9CE02409C5E1549a1637446035dAB83ab8aE70/logo.png"
+    }
+  },
+  "name": "Bitdeal Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

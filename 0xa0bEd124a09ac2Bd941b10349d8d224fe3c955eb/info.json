@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc96297f-81d7-4331-a406-203bda4d746b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb/logo.png"
+    }
+  },
+  "name": "DePay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

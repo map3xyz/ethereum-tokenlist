@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8f1af00-8ea6-4606-a612-b47cb97dcd2a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E/logo.png"
+    }
+  },
+  "name": "Swachhcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

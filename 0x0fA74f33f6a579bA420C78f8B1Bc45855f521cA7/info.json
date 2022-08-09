@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "230d4f6c-e329-4ffb-a73b-9cf561be8432",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7/logo.png"
+    }
+  },
+  "name": "Overdrive",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OVD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

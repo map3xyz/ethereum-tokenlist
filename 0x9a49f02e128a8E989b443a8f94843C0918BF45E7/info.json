@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a49f02e128a8E989b443a8f94843C0918BF45E7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "dd8c4393-714b-4775-920c-e5c02a3cfd15",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a49f02e128a8E989b443a8f94843C0918BF45E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a49f02e128a8E989b443a8f94843C0918BF45E7/logo.png"
+    }
+  },
+  "name": "TOKOK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

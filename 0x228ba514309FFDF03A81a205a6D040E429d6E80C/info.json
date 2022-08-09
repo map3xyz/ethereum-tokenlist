@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x228ba514309FFDF03A81a205a6D040E429d6E80C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3389853e-4fb5-44de-a621-aeaa946ad9ee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x228ba514309FFDF03A81a205a6D040E429d6E80C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x228ba514309FFDF03A81a205a6D040E429d6E80C/logo.png"
+    }
+  },
+  "name": "Global Social Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

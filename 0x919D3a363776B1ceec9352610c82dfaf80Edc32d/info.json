@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb8140d8-1033-4a7f-9cb2-9e784fbf37d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x919D3a363776B1ceec9352610c82dfaf80Edc32d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x919D3a363776B1ceec9352610c82dfaf80Edc32d/logo.png"
+    }
+  },
+  "name": "GoldFund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFUN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

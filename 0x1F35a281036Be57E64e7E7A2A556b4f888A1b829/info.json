@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F35a281036Be57E64e7E7A2A556b4f888A1b829",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cd46109-4cb2-4dd5-b935-632c04ae134c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F35a281036Be57E64e7E7A2A556b4f888A1b829/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F35a281036Be57E64e7E7A2A556b4f888A1b829/logo.png"
+    }
+  },
+  "name": "Muzika",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MZK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

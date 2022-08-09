@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f80a26e-c82b-4ae2-854d-ed08d676e6c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F/logo.png"
+    }
+  },
+  "name": "BitBall Treasure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

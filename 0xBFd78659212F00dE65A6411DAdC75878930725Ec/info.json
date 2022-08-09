@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBFd78659212F00dE65A6411DAdC75878930725Ec",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f09a2611-00a5-422c-abcb-0612a7958460",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBFd78659212F00dE65A6411DAdC75878930725Ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBFd78659212F00dE65A6411DAdC75878930725Ec/logo.png"
+    }
+  },
+  "name": "AMAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

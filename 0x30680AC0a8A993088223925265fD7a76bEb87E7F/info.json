@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30680AC0a8A993088223925265fD7a76bEb87E7F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f75d76f9-f7c7-401c-a6c1-641584715f4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30680AC0a8A993088223925265fD7a76bEb87E7F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30680AC0a8A993088223925265fD7a76bEb87E7F/logo.png"
+    }
+  },
+  "name": "ARAW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARAW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

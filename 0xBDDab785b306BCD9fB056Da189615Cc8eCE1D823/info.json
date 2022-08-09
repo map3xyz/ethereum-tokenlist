@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBDDab785b306BCD9fB056Da189615Cc8eCE1D823",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8cbdc35b-3786-4e5d-afa3-03a96de85c50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBDDab785b306BCD9fB056Da189615Cc8eCE1D823/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBDDab785b306BCD9fB056Da189615Cc8eCE1D823/logo.png"
+    }
+  },
+  "name": "Ebakus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

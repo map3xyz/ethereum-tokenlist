@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9064c91e51d7021A85AD96817e1432aBf6624470",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6598af25-96c3-44c0-a4fe-12e8af36d437",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9064c91e51d7021A85AD96817e1432aBf6624470/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9064c91e51d7021A85AD96817e1432aBf6624470/logo.png"
+    }
+  },
+  "name": "shinechain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

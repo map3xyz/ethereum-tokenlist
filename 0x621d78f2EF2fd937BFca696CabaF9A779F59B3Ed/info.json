@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "e137708b-1ed3-4109-b83e-5276a57d01a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed/logo.png"
+    }
+  },
+  "name": "DCORP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e62e99d4-8195-4ac6-9367-32872907a388",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83984d6142934bb535793A82ADB0a46EF0F66B6d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83984d6142934bb535793A82ADB0a46EF0F66B6d/logo.png"
+    }
+  },
+  "name": "REMME token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

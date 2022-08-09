@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c46558ef-e2a5-485a-a1ed-59a9faf2a860",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x646707246D7d5C2a86d7206f41CA8199ea9CED69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x646707246D7d5C2a86d7206f41CA8199ea9CED69/logo.png"
+    }
+  },
+  "name": "Porkchop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

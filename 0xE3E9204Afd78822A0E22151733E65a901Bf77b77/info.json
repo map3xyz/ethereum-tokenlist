@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3E9204Afd78822A0E22151733E65a901Bf77b77",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "85871a3e-5406-4019-9949-e5b90a6220db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE3E9204Afd78822A0E22151733E65a901Bf77b77/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3E9204Afd78822A0E22151733E65a901Bf77b77/logo.png"
+    }
+  },
+  "name": "LUV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

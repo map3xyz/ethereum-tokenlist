@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x92B7e4409dCf8C439f313eD1f05fdC0550d18DDd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea6a7717-a4fc-43fc-9f59-8cb9477ef624",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92B7e4409dCf8C439f313eD1f05fdC0550d18DDd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92B7e4409dCf8C439f313eD1f05fdC0550d18DDd/logo.png"
+    }
+  },
+  "name": "MYDAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

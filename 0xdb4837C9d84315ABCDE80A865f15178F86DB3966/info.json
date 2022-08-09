@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdb4837C9d84315ABCDE80A865f15178F86DB3966",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d26f694-c1c9-49f4-8649-f093d3e1170b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdb4837C9d84315ABCDE80A865f15178F86DB3966/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb4837C9d84315ABCDE80A865f15178F86DB3966/logo.png"
+    }
+  },
+  "name": "LOCKEDiN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

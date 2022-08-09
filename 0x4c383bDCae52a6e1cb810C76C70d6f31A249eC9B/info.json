@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4c383bDCae52a6e1cb810C76C70d6f31A249eC9B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6a8b067b-8572-49ce-932d-06cfc2dd1858",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4c383bDCae52a6e1cb810C76C70d6f31A249eC9B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c383bDCae52a6e1cb810C76C70d6f31A249eC9B/logo.png"
+    }
+  },
+  "name": "Rusgas",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

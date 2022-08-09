@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB7eB3edE973665b1BB9F3016861E3255062E4ED",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e82ed34e-1bba-4e82-a6af-d5f653937aca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB7eB3edE973665b1BB9F3016861E3255062E4ED/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB7eB3edE973665b1BB9F3016861E3255062E4ED/logo.png"
+    }
+  },
+  "name": "MNFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

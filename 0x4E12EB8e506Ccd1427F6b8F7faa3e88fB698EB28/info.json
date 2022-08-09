@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b2e13ef-377a-4d1c-ada5-f44714ba22d5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28/logo.png"
+    }
+  },
+  "name": "Jack Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

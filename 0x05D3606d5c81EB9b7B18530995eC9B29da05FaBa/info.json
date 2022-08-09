@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b80238b-6af7-4604-8ac1-ce1a991efc24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
+    }
+  },
+  "name": "TomoChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOMOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

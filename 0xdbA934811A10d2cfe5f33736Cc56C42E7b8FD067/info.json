@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdbA934811A10d2cfe5f33736Cc56C42E7b8FD067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c66c30cf-1cda-45dc-ac2f-baa489848934",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdbA934811A10d2cfe5f33736Cc56C42E7b8FD067/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdbA934811A10d2cfe5f33736Cc56C42E7b8FD067/logo.png"
+    }
+  },
+  "name": "HAMDAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAMDAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

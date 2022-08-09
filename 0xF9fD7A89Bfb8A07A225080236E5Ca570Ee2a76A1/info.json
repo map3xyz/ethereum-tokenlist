@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF9fD7A89Bfb8A07A225080236E5Ca570Ee2a76A1",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c161d291-b9a1-4e3b-8749-21722612a703",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9fD7A89Bfb8A07A225080236E5Ca570Ee2a76A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF9fD7A89Bfb8A07A225080236E5Ca570Ee2a76A1/logo.png"
+    }
+  },
+  "name": "KRWb Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRWb",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

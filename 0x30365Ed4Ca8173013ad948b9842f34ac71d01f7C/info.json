@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a214b0a1-94f0-42b6-af57-1869e7c5b44a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C/logo.png"
+    }
+  },
+  "name": "Dirham",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

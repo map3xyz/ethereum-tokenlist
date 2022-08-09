@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "292c79c1-3f8e-4df7-b38b-abea06300e5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc813EA5e3b48BEbeedb796ab42A30C5599b01740/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc813EA5e3b48BEbeedb796ab42A30C5599b01740/logo.png"
+    }
+  },
+  "name": "NIOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NIOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

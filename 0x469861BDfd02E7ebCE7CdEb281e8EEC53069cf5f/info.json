@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3fc7529c-68bf-4884-8f57-585d08299de5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f/logo.png"
+    }
+  },
+  "name": "Flame Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

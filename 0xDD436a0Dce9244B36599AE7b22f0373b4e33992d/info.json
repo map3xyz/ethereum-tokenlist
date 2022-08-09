@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1cec5ec4-7ffb-48cc-a907-89b635892144",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d/logo.png"
+    }
+  },
+  "name": "TrustUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

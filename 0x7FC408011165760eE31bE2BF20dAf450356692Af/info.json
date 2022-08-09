@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7FC408011165760eE31bE2BF20dAf450356692Af",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "abdfcf20-657b-4745-a109-33f7b279b0fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7FC408011165760eE31bE2BF20dAf450356692Af/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7FC408011165760eE31bE2BF20dAf450356692Af/logo.png"
+    }
+  },
+  "name": "Mitrav",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

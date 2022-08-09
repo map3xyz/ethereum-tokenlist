@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "fbb33c01-9388-4bbd-9839-cb7f665e0731",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA/logo.png"
+    }
+  },
+  "name": "BBF15ChallengeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBF15",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "99dcf7a0-9980-4aa5-85dd-0f445c4d0012",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x653430560bE843C4a3D143d0110e896c2Ab8ac0D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x653430560bE843C4a3D143d0110e896c2Ab8ac0D/logo.png"
+    }
+  },
+  "name": "Molecular Future",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

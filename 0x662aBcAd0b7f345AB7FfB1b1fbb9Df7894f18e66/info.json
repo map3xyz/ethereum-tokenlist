@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40868af9-2ce3-4d79-9469-ca89d18195fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66/logo.png"
+    }
+  },
+  "name": "CarTaxi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

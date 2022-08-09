@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df612f9a-ed53-47b1-983f-95dc75e7f734",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1/logo.png"
+    }
+  },
+  "name": "Aave CRV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aCRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

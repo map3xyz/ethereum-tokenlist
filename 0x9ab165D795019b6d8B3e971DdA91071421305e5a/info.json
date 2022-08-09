@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9ab165D795019b6d8B3e971DdA91071421305e5a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e91868d6-c33c-4c82-a05d-bd584f2ba9a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9ab165D795019b6d8B3e971DdA91071421305e5a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9ab165D795019b6d8B3e971DdA91071421305e5a/logo.png"
+    }
+  },
+  "name": "Aurora",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AOA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

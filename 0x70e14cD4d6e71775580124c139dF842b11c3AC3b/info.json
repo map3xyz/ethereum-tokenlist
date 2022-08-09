@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70e14cD4d6e71775580124c139dF842b11c3AC3b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fecf2da6-dc52-4275-b489-31f17365acc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70e14cD4d6e71775580124c139dF842b11c3AC3b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70e14cD4d6e71775580124c139dF842b11c3AC3b/logo.png"
+    }
+  },
+  "name": "ETHER CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETCA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

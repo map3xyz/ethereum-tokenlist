@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x783Ba0062326861eE76E0e15429594922e9FE2F5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "738c074d-6b5b-4312-87e4-826a130e1a6b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x783Ba0062326861eE76E0e15429594922e9FE2F5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x783Ba0062326861eE76E0e15429594922e9FE2F5/logo.png"
+    }
+  },
+  "name": "Andrey Voronkov Ventures Promo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVVP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

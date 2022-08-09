@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1eAe15d9f4FA16f5278D02d2f8bDA8b0dcd31f71",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "095a30bf-78a9-43dc-8d54-3f682ec5355e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1eAe15d9f4FA16f5278D02d2f8bDA8b0dcd31f71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1eAe15d9f4FA16f5278D02d2f8bDA8b0dcd31f71/logo.png"
+    }
+  },
+  "name": "Exceed",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

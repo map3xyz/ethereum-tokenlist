@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87c48bac-b869-4937-b19e-2381fd702d7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+    }
+  },
+  "name": "UMA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

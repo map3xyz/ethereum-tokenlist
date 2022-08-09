@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb6F2C2cc130473f88E3d887F42339Eb787475873",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9834d430-4e90-40df-9211-5b27bed21d49",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb6F2C2cc130473f88E3d887F42339Eb787475873/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6F2C2cc130473f88E3d887F42339Eb787475873/logo.png"
+    }
+  },
+  "name": "VILENET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

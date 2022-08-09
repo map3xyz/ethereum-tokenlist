@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x767bA2915EC344015a7938E3eEDfeC2785195D05",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01c5305a-f934-4822-a0af-bdaca4e838b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x767bA2915EC344015a7938E3eEDfeC2785195D05/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x767bA2915EC344015a7938E3eEDfeC2785195D05/logo.png"
+    }
+  },
+  "name": "Realisto Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

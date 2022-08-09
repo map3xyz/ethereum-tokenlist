@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06B4d381FFA099E47aFE7dda0a310d582023d063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33fa1908-2e26-490d-b781-c06feba217b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06B4d381FFA099E47aFE7dda0a310d582023d063/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06B4d381FFA099E47aFE7dda0a310d582023d063/logo.png"
+    }
+  },
+  "name": "Shine Share Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

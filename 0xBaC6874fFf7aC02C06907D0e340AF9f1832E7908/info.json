@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBaC6874fFf7aC02C06907D0e340AF9f1832E7908",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ac73460-93c4-4f0d-b513-5044c744da44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBaC6874fFf7aC02C06907D0e340AF9f1832E7908/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBaC6874fFf7aC02C06907D0e340AF9f1832E7908/logo.png"
+    }
+  },
+  "name": "A1 Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "A1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

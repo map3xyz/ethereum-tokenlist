@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbBB17c3D1f581dab947144C31387774c1BbEa900",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "415634e2-70d8-4cf6-a89c-fc2d963abcf7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbBB17c3D1f581dab947144C31387774c1BbEa900/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbBB17c3D1f581dab947144C31387774c1BbEa900/logo.png"
+    }
+  },
+  "name": "EQR TEST mg25000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

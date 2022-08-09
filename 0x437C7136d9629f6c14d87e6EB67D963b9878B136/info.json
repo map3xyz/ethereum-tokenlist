@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x437C7136d9629f6c14d87e6EB67D963b9878B136",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7da2235c-18e5-45b8-a008-b5bd6e39a96f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x437C7136d9629f6c14d87e6EB67D963b9878B136/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x437C7136d9629f6c14d87e6EB67D963b9878B136/logo.png"
+    }
+  },
+  "name": "SMARTCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

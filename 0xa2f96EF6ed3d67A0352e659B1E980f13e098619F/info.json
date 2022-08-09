@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa2f96EF6ed3d67A0352e659B1E980f13e098619F",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "22eadd6c-b128-4d53-a69d-fc064138d678",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa2f96EF6ed3d67A0352e659B1E980f13e098619F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa2f96EF6ed3d67A0352e659B1E980f13e098619F/logo.png"
+    }
+  },
+  "name": "Random Number Generator",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

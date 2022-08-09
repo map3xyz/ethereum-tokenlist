@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7ee41eb8-0764-49a6-9614-71b05098bf4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76/logo.png"
+    }
+  },
+  "name": "Dabdragon Tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DABER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

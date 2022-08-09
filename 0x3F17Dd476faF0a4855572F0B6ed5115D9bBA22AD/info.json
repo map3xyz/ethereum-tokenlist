@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f4f2b895-ab8e-4d06-99be-91b37101d369",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD/logo.png"
+    }
+  },
+  "name": "WIBSON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

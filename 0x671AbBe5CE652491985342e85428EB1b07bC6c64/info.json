@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "920956ff-7cec-43cd-a480-300f1c7561bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x671AbBe5CE652491985342e85428EB1b07bC6c64/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x671AbBe5CE652491985342e85428EB1b07bC6c64/logo.png"
+    }
+  },
+  "name": "Quantum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

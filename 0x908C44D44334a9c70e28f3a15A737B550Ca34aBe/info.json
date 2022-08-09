@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x908C44D44334a9c70e28f3a15A737B550Ca34aBe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91baaf8d-7965-49f5-b54a-7ef1bb01ad57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x908C44D44334a9c70e28f3a15A737B550Ca34aBe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x908C44D44334a9c70e28f3a15A737B550Ca34aBe/logo.png"
+    }
+  },
+  "name": "BEE CASHBACK HOME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

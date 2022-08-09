@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37E1160184F7dD29f00b78C050Bf13224780b0B0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f39d8644-8eb0-43d6-96ea-a02774c27096",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37E1160184F7dD29f00b78C050Bf13224780b0B0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37E1160184F7dD29f00b78C050Bf13224780b0B0/logo.png"
+    }
+  },
+  "name": "Yuan Chain New",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

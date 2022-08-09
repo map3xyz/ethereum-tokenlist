@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6b74Dd5d01f8320081247F5CF1F7a48324700Db6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "52ee27d9-4304-4a75-95dd-14f705c396aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6b74Dd5d01f8320081247F5CF1F7a48324700Db6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b74Dd5d01f8320081247F5CF1F7a48324700Db6/logo.png"
+    }
+  },
+  "name": "UBU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

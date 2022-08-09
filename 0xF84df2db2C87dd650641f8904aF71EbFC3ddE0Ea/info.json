@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecebf6b7-88c0-4b64-997d-f4f9c33e2345",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea/logo.png"
+    }
+  },
+  "name": "YouLive Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

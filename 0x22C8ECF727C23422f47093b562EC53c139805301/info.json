@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x22C8ECF727C23422f47093b562EC53c139805301",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c47b5264-6c85-437e-a94d-efb969534551",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x22C8ECF727C23422f47093b562EC53c139805301/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22C8ECF727C23422f47093b562EC53c139805301/logo.png"
+    }
+  },
+  "name": "RealToken 16200 Fullerton Ave Detroit MI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REALTOKEN-16200-FULLERTON-AVE-DETROIT-MI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9513d8679677Be3D57c7cDD30561105ee1452d69",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "d017eddc-882e-4ce1-b9f0-5db05d7248f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9513d8679677Be3D57c7cDD30561105ee1452d69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9513d8679677Be3D57c7cDD30561105ee1452d69/logo.png"
+    }
+  },
+  "name": "Python",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ptn",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

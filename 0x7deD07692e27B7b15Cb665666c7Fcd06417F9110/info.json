@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7deD07692e27B7b15Cb665666c7Fcd06417F9110",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b3c55368-6202-4eb5-8d89-0dce828e6216",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7deD07692e27B7b15Cb665666c7Fcd06417F9110/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7deD07692e27B7b15Cb665666c7Fcd06417F9110/logo.png"
+    }
+  },
+  "name": "Pentacles",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNTCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

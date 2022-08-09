@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea32bfd0-e484-48b0-8471-56c63a40aeb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2/logo.png"
+    }
+  },
+  "name": "Aether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

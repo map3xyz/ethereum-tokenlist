@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb7355bc855Dc4959e90316e25E592D38C480ab6f",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "266ec384-f746-4dbc-9bd6-99dce9d437e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb7355bc855Dc4959e90316e25E592D38C480ab6f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7355bc855Dc4959e90316e25E592D38C480ab6f/logo.png"
+    }
+  },
+  "name": "Pundi X Classic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NPXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

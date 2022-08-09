@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35e308668391dAaB398FFc0e60D13d65c7793fEd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24582d95-0b35-4998-bb1e-57f893f313f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35e308668391dAaB398FFc0e60D13d65c7793fEd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35e308668391dAaB398FFc0e60D13d65c7793fEd/logo.png"
+    }
+  },
+  "name": "HEALTH CHAIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf14922001A2FB8541a433905437ae954419C2439",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8c9f66a5-a36a-4790-b8a3-0b348f9b29ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf14922001A2FB8541a433905437ae954419C2439/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf14922001A2FB8541a433905437ae954419C2439/logo.png"
+    }
+  },
+  "name": "Inmediate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

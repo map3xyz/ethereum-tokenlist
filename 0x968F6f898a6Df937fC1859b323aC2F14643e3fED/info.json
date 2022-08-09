@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5e82ac1-4eae-4931-b8ec-cb47a6ca522c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x968F6f898a6Df937fC1859b323aC2F14643e3fED/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x968F6f898a6Df937fC1859b323aC2F14643e3fED/logo.png"
+    }
+  },
+  "name": "Newscrypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

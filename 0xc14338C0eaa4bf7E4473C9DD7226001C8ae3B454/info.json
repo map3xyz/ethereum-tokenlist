@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2a50debf-7568-4098-95a1-210606245178",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454/logo.png"
+    }
+  },
+  "name": "WARP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WARP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

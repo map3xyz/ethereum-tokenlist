@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "68a30c8c-ac13-4820-8c69-f0fbc2781da1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC/logo.png"
+    }
+  },
+  "name": "SMOOA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

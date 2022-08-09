@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f59e466-7dd8-4c23-9634-20e00db7bcd3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7/logo.png"
+    }
+  },
+  "name": "DUDA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

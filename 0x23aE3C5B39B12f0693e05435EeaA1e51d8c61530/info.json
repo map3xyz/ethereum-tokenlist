@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40675537-c0b1-40cc-a8db-dc2c128399fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530/logo.png"
+    }
+  },
+  "name": "Aigang Pre-Launch Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

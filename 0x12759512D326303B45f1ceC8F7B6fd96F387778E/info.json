@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12759512D326303B45f1ceC8F7B6fd96F387778E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e0fd25d-acdf-4530-97a2-1c9cdc56ce54",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12759512D326303B45f1ceC8F7B6fd96F387778E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12759512D326303B45f1ceC8F7B6fd96F387778E/logo.png"
+    }
+  },
+  "name": "TrakInvest Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

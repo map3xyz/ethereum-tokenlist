@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA984A92731C088F1eA4D53b71A2565a399F7D8D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecbe1399-cfa0-4d41-b483-9fd20ce029c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA984A92731C088F1eA4D53b71A2565a399F7D8D5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA984A92731C088F1eA4D53b71A2565a399F7D8D5/logo.png"
+    }
+  },
+  "name": "INCX Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

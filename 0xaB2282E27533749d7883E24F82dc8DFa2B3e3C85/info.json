@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaB2282E27533749d7883E24F82dc8DFa2B3e3C85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b78b98d-cc74-4b5f-88e3-e9279bf61ebd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaB2282E27533749d7883E24F82dc8DFa2B3e3C85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaB2282E27533749d7883E24F82dc8DFa2B3e3C85/logo.png"
+    }
+  },
+  "name": "STELLAR CLASSIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XLMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

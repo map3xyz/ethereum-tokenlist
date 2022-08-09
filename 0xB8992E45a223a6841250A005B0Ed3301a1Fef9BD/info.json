@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB8992E45a223a6841250A005B0Ed3301a1Fef9BD",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b8665065-9948-4777-84d8-d12b011444aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8992E45a223a6841250A005B0Ed3301a1Fef9BD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8992E45a223a6841250A005B0Ed3301a1Fef9BD/logo.png"
+    }
+  },
+  "name": "DOMCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

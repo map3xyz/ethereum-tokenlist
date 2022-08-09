@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDD8a8C64431e4e11bAC0F1Ac47672145Fe54DC9D",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a38dd327-4137-47f1-a61a-398eced7ca7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDD8a8C64431e4e11bAC0F1Ac47672145Fe54DC9D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDD8a8C64431e4e11bAC0F1Ac47672145Fe54DC9D/logo.png"
+    }
+  },
+  "name": "Tyche Chip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TYC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

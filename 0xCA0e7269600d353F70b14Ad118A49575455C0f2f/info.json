@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCA0e7269600d353F70b14Ad118A49575455C0f2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39fb61a3-b372-4230-b720-5ad6d844592e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCA0e7269600d353F70b14Ad118A49575455C0f2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCA0e7269600d353F70b14Ad118A49575455C0f2f/logo.png"
+    }
+  },
+  "name": "AMLT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

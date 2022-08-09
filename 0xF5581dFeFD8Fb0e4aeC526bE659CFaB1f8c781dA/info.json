@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0e0cd33-cba7-43a6-95f9-b1eb1125b8ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png"
+    }
+  },
+  "name": "HOPR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

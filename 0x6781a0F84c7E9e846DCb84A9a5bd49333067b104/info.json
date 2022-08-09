@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "919fea81-593b-4627-ba8f-c7c332dbf166",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6781a0F84c7E9e846DCb84A9a5bd49333067b104/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6781a0F84c7E9e846DCb84A9a5bd49333067b104/logo.png"
+    }
+  },
+  "name": "ZAP TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

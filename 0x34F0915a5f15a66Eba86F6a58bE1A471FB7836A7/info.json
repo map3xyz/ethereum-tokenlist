@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "78865cb3-1e6d-4682-82fc-b322b38546ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7/logo.png"
+    }
+  },
+  "name": "PulseDogecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLSD",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

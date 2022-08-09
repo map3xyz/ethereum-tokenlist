@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27824111DD062Ca9062067B493Fbf512328928BA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7befe862-046c-4fde-a134-b673844c055e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27824111DD062Ca9062067B493Fbf512328928BA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27824111DD062Ca9062067B493Fbf512328928BA/logo.png"
+    }
+  },
+  "name": "UNI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

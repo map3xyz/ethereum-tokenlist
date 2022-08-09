@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xddb3Db2DFdD8705e606959637477AEE7B0Cc22F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "baad5976-0fca-4a42-b9d0-368b6d5bec39",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xddb3Db2DFdD8705e606959637477AEE7B0Cc22F1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xddb3Db2DFdD8705e606959637477AEE7B0Cc22F1/logo.png"
+    }
+  },
+  "name": "Tyercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

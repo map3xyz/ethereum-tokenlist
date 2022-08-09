@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "73b8a0c4-6379-4a43-b0c5-100cb01f6dcc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f/logo.png"
+    }
+  },
+  "name": "Henfruit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

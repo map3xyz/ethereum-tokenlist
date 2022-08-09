@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0D24e4A32B174ff6777059D4fD6bF8CFE031014b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00bf1339-e350-447b-94d2-2cc550579bb6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D24e4A32B174ff6777059D4fD6bF8CFE031014b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0D24e4A32B174ff6777059D4fD6bF8CFE031014b/logo.png"
+    }
+  },
+  "name": "BitPhantom Pro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

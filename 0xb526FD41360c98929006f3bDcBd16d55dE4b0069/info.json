@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0a4d29d-7053-48a6-a0e3-1742cd5e4cdb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb526FD41360c98929006f3bDcBd16d55dE4b0069/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb526FD41360c98929006f3bDcBd16d55dE4b0069/logo.png"
+    }
+  },
+  "name": "THIRM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THIRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

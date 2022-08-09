@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1534a5715278163687D4F4d4cF27E345b4de1803",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "be150c31-73a0-4560-abf5-9b9ff7df3db5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1534a5715278163687D4F4d4cF27E345b4de1803/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1534a5715278163687D4F4d4cF27E345b4de1803/logo.png"
+    }
+  },
+  "name": "Network Foundation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NWF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

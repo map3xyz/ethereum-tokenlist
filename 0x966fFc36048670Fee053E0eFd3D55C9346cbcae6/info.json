@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x966fFc36048670Fee053E0eFd3D55C9346cbcae6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67c3dc1c-5797-452d-bc3a-a6696b8c4863",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x966fFc36048670Fee053E0eFd3D55C9346cbcae6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x966fFc36048670Fee053E0eFd3D55C9346cbcae6/logo.png"
+    }
+  },
+  "name": "USD Satoshi Vision Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDSV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86Faa4988E3F3fd862f0f794F1F25270f6038cE9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52580942-bbd1-430f-a34c-7dc47bd30f8f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86Faa4988E3F3fd862f0f794F1F25270f6038cE9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86Faa4988E3F3fd862f0f794F1F25270f6038cE9/logo.png"
+    }
+  },
+  "name": "GlobalCitizenCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

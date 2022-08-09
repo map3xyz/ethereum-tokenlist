@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d6eda788-39aa-46a3-8b1a-6a1f7712b194",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111/logo.png"
+    }
+  },
+  "name": "Doom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

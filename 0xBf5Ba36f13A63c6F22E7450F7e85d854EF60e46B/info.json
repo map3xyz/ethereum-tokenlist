@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBf5Ba36f13A63c6F22E7450F7e85d854EF60e46B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2db84b82-9647-4bc0-bcf3-9ea496b83a1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBf5Ba36f13A63c6F22E7450F7e85d854EF60e46B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBf5Ba36f13A63c6F22E7450F7e85d854EF60e46B/logo.png"
+    }
+  },
+  "name": "Ditcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DITC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

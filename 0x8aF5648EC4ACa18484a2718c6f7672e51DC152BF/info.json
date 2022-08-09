@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d04168f-1b82-41e9-a787-2c187cf322c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF/logo.png"
+    }
+  },
+  "name": "Payeer KRW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKRW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

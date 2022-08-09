@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf83ae621A52737e3Ef9307af91df834Ed8431aC3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d7c1660f-39c2-4ce2-bfeb-83c9cebbdc21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf83ae621A52737e3Ef9307af91df834Ed8431aC3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf83ae621A52737e3Ef9307af91df834Ed8431aC3/logo.png"
+    }
+  },
+  "name": "uvwFi.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uvwFi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

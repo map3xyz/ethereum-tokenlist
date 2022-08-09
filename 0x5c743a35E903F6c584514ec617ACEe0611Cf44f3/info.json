@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5054952d-a3e5-4dce-92c5-e4a83fda6a71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3/logo.png"
+    }
+  },
+  "name": "Experty Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

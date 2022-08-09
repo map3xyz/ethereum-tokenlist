@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBC84F95f089b9291C552EBA09D30Fd56A932AFC9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e3bcd4c-5386-4fd6-968d-718d3b362a40",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBC84F95f089b9291C552EBA09D30Fd56A932AFC9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBC84F95f089b9291C552EBA09D30Fd56A932AFC9/logo.png"
+    }
+  },
+  "name": "FEG Wrapped UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fUNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

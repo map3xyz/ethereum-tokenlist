@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC79764398a159Ea8E61AF98d7dA6f2C8CaE4c3A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ec6d360-bf5c-423a-8544-a539314bac77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC79764398a159Ea8E61AF98d7dA6f2C8CaE4c3A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC79764398a159Ea8E61AF98d7dA6f2C8CaE4c3A9/logo.png"
+    }
+  },
+  "name": "IdleSAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDLESAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

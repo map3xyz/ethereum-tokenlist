@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a435861-b481-4e40-a885-e20b9cdbadea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320/logo.png"
+    }
+  },
+  "name": "Tercet Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

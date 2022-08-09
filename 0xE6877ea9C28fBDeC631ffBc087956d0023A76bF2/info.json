@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55d4170c-7cc3-40f9-9c8d-9f06448a1149",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2/logo.png"
+    }
+  },
+  "name": "UNI COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

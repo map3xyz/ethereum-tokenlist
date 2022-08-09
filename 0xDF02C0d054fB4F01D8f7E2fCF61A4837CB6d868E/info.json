@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c82f3937-b174-4f40-ac16-a4bb9d97069c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E/logo.png"
+    }
+  },
+  "name": "Brianex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

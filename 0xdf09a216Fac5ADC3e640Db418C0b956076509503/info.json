@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdf09a216Fac5ADC3e640Db418C0b956076509503",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42c57130-d1f7-4a94-ac58-3d8361c992c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdf09a216Fac5ADC3e640Db418C0b956076509503/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf09a216Fac5ADC3e640Db418C0b956076509503/logo.png"
+    }
+  },
+  "name": "Pokmi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

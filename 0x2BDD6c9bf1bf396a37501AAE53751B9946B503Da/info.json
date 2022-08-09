@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c580bfd8-c706-43ec-ab0d-adb1e5fd04dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da/logo.png"
+    }
+  },
+  "name": "Korea Medical TBA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KMTBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

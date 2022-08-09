@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x336492A0601CC85e08C14D390BF07d960328aaf4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f5fa7c6-ecca-4fd7-a1d1-127739abe251",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x336492A0601CC85e08C14D390BF07d960328aaf4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x336492A0601CC85e08C14D390BF07d960328aaf4/logo.png"
+    }
+  },
+  "name": "Blueshare Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

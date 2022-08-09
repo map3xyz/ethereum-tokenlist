@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x43f11c02439e2736800433b4594994Bd43Cd066D",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d6594853-11d8-42d5-b005-546481f3c4d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43f11c02439e2736800433b4594994Bd43Cd066D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43f11c02439e2736800433b4594994Bd43Cd066D/logo.png"
+    }
+  },
+  "name": "Floki Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLOKI",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1cf64ea8-9012-4ded-ad6b-69ac8f2d8445",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31/logo.png"
+    }
+  },
+  "name": "iQeon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IQN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

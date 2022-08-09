@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1222a0a7-853e-4ac9-ae98-2d530de29dac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x668DbF100635f593A3847c0bDaF21f0a09380188/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x668DbF100635f593A3847c0bDaF21f0a09380188/logo.png"
+    }
+  },
+  "name": "BNSD Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

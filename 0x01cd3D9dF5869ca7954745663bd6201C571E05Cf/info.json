@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01cd3D9dF5869ca7954745663bd6201C571E05Cf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dad04481-aa3a-4bd8-9b34-0b1e82fcac21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01cd3D9dF5869ca7954745663bd6201C571E05Cf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01cd3D9dF5869ca7954745663bd6201C571E05Cf/logo.png"
+    }
+  },
+  "name": "LULU Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LULU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

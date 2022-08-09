@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE54B3458C47E44C37a267E7C633AFEF88287C294",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "d5eaa1af-40f4-4717-9cdc-e59e09dae71d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE54B3458C47E44C37a267E7C633AFEF88287C294/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE54B3458C47E44C37a267E7C633AFEF88287C294/logo.png"
+    }
+  },
+  "name": "ArtFinity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

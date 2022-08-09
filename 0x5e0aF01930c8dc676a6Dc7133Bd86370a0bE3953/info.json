@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5e0aF01930c8dc676a6Dc7133Bd86370a0bE3953",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "917e9d57-1628-41b7-8615-ab429bbaaf27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5e0aF01930c8dc676a6Dc7133Bd86370a0bE3953/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5e0aF01930c8dc676a6Dc7133Bd86370a0bE3953/logo.png"
+    }
+  },
+  "name": "Touch. Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

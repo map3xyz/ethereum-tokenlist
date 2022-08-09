@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC2579552eCb8e7c001564cE0e8E0DB77a0587E0e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "12aa7ed0-c3ae-41cb-b8b5-56a585eb6888",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC2579552eCb8e7c001564cE0e8E0DB77a0587E0e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC2579552eCb8e7c001564cE0e8E0DB77a0587E0e/logo.png"
+    }
+  },
+  "name": "Sushen's Attention Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

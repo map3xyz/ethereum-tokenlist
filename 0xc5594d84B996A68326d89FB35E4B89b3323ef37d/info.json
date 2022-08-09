@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc5594d84B996A68326d89FB35E4B89b3323ef37d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "895b0d48-4b8d-404f-96be-360c9aa3a248",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc5594d84B996A68326d89FB35E4B89b3323ef37d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5594d84B996A68326d89FB35E4B89b3323ef37d/logo.png"
+    }
+  },
+  "name": "Epocum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

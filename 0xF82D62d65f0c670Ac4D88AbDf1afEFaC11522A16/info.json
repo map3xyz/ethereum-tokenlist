@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF82D62d65f0c670Ac4D88AbDf1afEFaC11522A16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2d0a208-a2ec-480f-aa65-edcc5bd34e04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF82D62d65f0c670Ac4D88AbDf1afEFaC11522A16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF82D62d65f0c670Ac4D88AbDf1afEFaC11522A16/logo.png"
+    }
+  },
+  "name": "BTMcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

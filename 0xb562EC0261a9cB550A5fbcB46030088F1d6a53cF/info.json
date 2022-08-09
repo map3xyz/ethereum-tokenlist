@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb562EC0261a9cB550A5fbcB46030088F1d6a53cF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31e84b3e-c14f-4ba6-aac8-87d2d2a2d4c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb562EC0261a9cB550A5fbcB46030088F1d6a53cF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb562EC0261a9cB550A5fbcB46030088F1d6a53cF/logo.png"
+    }
+  },
+  "name": "EOSpace",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

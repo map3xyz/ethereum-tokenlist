@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDFD26F13029FBD89A5db1cCD08Ce9434B697BC73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac3f7d61-7307-458c-bbad-210a76e6db81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDFD26F13029FBD89A5db1cCD08Ce9434B697BC73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDFD26F13029FBD89A5db1cCD08Ce9434B697BC73/logo.png"
+    }
+  },
+  "name": "Redefining Music Art & Culture",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fda464a7-5ebb-453d-8937-967549e07cd8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC/logo.png"
+    }
+  },
+  "name": "MyBit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

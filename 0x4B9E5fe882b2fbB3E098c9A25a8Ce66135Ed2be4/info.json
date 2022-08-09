@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3601088f-bf8d-4a7c-bf9d-434f7bb51ab5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4/logo.png"
+    }
+  },
+  "name": "Gaia",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Gaia",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

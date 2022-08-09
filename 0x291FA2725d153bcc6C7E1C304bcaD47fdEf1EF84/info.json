@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2bc35d5f-27c9-42f7-8e0c-353615576633",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84/logo.png"
+    }
+  },
+  "name": "Mega Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MX3",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

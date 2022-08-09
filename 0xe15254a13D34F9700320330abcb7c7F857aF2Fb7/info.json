@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe15254a13D34F9700320330abcb7c7F857aF2Fb7",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "faba46ae-9139-4c89-b7e1-273fd90a8d84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe15254a13D34F9700320330abcb7c7F857aF2Fb7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe15254a13D34F9700320330abcb7c7F857aF2Fb7/logo.png"
+    }
+  },
+  "name": "KAPA COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

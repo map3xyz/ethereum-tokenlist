@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5862A9935Aa62Ca329f679933491057413Ce2943",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e2185ad-9ea4-4fb6-9aee-fe1ff2dafaa0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5862A9935Aa62Ca329f679933491057413Ce2943/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5862A9935Aa62Ca329f679933491057413Ce2943/logo.png"
+    }
+  },
+  "name": "BlockMed",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6226caA1857AFBc6DFB6ca66071Eb241228031A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ee5c6ca-32bf-453e-8baa-352400d81f0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6226caA1857AFBc6DFB6ca66071Eb241228031A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6226caA1857AFBc6DFB6ca66071Eb241228031A1/logo.png"
+    }
+  },
+  "name": "Linkart",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

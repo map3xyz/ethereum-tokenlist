@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f884c15-278c-4ffd-9e11-bb5184f94058",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728/logo.png"
+    }
+  },
+  "name": "Flippers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

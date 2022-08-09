@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba8961a6-0d4c-4545-b553-32e6f31ce5f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85/logo.png"
+    }
+  },
+  "name": "DMScript",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DMST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

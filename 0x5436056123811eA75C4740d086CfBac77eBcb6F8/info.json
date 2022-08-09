@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5436056123811eA75C4740d086CfBac77eBcb6F8",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "d351d468-1aff-4f61-b03a-7ed7587c7f30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5436056123811eA75C4740d086CfBac77eBcb6F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5436056123811eA75C4740d086CfBac77eBcb6F8/logo.png"
+    }
+  },
+  "name": "DD Electrum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

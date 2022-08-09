@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56D1aE30c97288DA4B58BC39F026091778e4E316",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "386ae0ac-5fc3-42fc-8272-53557b4b8395",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56D1aE30c97288DA4B58BC39F026091778e4E316/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56D1aE30c97288DA4B58BC39F026091778e4E316/logo.png"
+    }
+  },
+  "name": "DAGT Crypto Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

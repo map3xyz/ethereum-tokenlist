@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de536a58-f81b-4998-b1ab-7ab566c45e64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeEEE2a622330E6d2036691e983DEe87330588603/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeEEE2a622330E6d2036691e983DEe87330588603/logo.png"
+    }
+  },
+  "name": "Asko",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASKO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

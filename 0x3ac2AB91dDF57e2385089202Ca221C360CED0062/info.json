@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3ac2AB91dDF57e2385089202Ca221C360CED0062",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f826627-dd4b-49a4-8560-df10e587ccbd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3ac2AB91dDF57e2385089202Ca221C360CED0062/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3ac2AB91dDF57e2385089202Ca221C360CED0062/logo.png"
+    }
+  },
+  "name": "SwapShip RTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

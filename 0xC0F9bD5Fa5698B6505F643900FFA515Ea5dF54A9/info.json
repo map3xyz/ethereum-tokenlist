@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32f9a5d5-64a6-4605-829d-95bfb07dca19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9/logo.png"
+    }
+  },
+  "name": "Donut",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DONUT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

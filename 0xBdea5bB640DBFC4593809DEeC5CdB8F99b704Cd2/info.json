@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "cd1935c5-1f6f-4b53-ab11-14825343e1fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2/logo.png"
+    }
+  },
+  "name": "Direwolf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIREWOLF",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

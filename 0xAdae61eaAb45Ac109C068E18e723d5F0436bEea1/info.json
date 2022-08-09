@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAdae61eaAb45Ac109C068E18e723d5F0436bEea1",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c59b3a71-a1a5-4b20-a0ec-eaa2d18f5ada",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAdae61eaAb45Ac109C068E18e723d5F0436bEea1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAdae61eaAb45Ac109C068E18e723d5F0436bEea1/logo.png"
+    }
+  },
+  "name": "Pisces Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

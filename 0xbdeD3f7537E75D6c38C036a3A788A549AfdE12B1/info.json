@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2a637f3d-6554-4483-8a9c-d5889e5c0c6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1/logo.png"
+    }
+  },
+  "name": "DCS TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

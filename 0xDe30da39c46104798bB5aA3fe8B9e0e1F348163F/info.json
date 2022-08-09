@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6391377a-3a8a-455a-a9fe-c01d7c58f5c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png"
+    }
+  },
+  "name": "Gitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

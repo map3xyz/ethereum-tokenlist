@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "58b4514f-4793-4be1-a3d7-9a77928c9448",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750/logo.png"
+    }
+  },
+  "name": "Bytom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19ec7de1-167f-4779-9aac-32a71be4f80d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312/logo.png"
+    }
+  },
+  "name": "Fyooz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FYZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

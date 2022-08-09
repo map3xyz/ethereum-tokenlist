@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d61cb18f-90b6-4454-bb0a-8e47df8eb660",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79/logo.png"
+    }
+  },
+  "name": "TopChainCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

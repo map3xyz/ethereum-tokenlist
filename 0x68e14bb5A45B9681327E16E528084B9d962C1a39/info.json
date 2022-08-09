@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68e14bb5A45B9681327E16E528084B9d962C1a39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54e96656-82b1-4c7a-8532-9234b79f0211",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68e14bb5A45B9681327E16E528084B9d962C1a39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68e14bb5A45B9681327E16E528084B9d962C1a39/logo.png"
+    }
+  },
+  "name": "BitClave - Consumer Activity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

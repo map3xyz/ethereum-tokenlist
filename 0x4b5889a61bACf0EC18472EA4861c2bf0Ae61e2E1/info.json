@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "068fce50-b2a3-4d72-9cfa-f1308a5d5091",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1/logo.png"
+    }
+  },
+  "name": "United States of America",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

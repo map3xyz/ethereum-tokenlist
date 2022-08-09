@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB58A2ebBB0Abe5797c78D69DBc419e98eB7A3b52",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1b8e301e-f0c9-4725-9bb3-e22b453013ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB58A2ebBB0Abe5797c78D69DBc419e98eB7A3b52/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB58A2ebBB0Abe5797c78D69DBc419e98eB7A3b52/logo.png"
+    }
+  },
+  "name": "Ecnar Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECNAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

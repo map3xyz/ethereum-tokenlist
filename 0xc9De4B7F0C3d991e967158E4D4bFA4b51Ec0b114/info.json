@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc9De4B7F0C3d991e967158E4D4bFA4b51Ec0b114",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "773f9108-dd6a-4948-acfb-9cad5210e3b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc9De4B7F0C3d991e967158E4D4bFA4b51Ec0b114/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc9De4B7F0C3d991e967158E4D4bFA4b51Ec0b114/logo.png"
+    }
+  },
+  "name": "ROK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

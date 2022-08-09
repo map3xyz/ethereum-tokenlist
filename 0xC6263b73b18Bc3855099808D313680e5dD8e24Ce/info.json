@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC6263b73b18Bc3855099808D313680e5dD8e24Ce",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "ef3d2911-8919-4929-a145-9b94a236d2e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC6263b73b18Bc3855099808D313680e5dD8e24Ce/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC6263b73b18Bc3855099808D313680e5dD8e24Ce/logo.png"
+    }
+  },
+  "name": "Naira",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

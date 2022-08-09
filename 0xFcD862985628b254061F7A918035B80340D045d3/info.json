@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFcD862985628b254061F7A918035B80340D045d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87f0aae6-119f-410f-96ab-496f8d2bfefa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFcD862985628b254061F7A918035B80340D045d3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFcD862985628b254061F7A918035B80340D045d3/logo.png"
+    }
+  },
+  "name": "GifCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "gif",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

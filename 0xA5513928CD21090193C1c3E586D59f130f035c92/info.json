@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5513928CD21090193C1c3E586D59f130f035c92",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "610848e2-b11e-48ab-ba8a-cae3d4d7a447",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5513928CD21090193C1c3E586D59f130f035c92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5513928CD21090193C1c3E586D59f130f035c92/logo.png"
+    }
+  },
+  "name": "Cascadium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

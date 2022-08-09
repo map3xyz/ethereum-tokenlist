@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a851422-2f6a-48ca-bf9e-78bf168902a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1/logo.png"
+    }
+  },
+  "name": "Crowny Token (CRWNY)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRWNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

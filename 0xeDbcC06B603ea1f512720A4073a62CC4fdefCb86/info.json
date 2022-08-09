@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3937038e-787a-45d9-a15d-c67260882873",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86/logo.png"
+    }
+  },
+  "name": "Hashtrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

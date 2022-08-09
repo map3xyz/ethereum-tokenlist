@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8fe5bcd6-87c0-40fe-b2d1-85a74548e621",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82/logo.png"
+    }
+  },
+  "name": "CyberFM Radio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

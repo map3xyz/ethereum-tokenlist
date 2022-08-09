@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19060094373C32E7f7d95eb4d1231f0779C91c23",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "eaf2719a-7cad-4b89-aa6f-7ebd8e897eec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19060094373C32E7f7d95eb4d1231f0779C91c23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19060094373C32E7f7d95eb4d1231f0779C91c23/logo.png"
+    }
+  },
+  "name": "RelayNode",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RELAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

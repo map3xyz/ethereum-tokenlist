@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8A99ED8a1b204903Ee46e733f2c1286F6d20b177",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b90749a6-1d8a-452c-86fb-7a48a298c9c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8A99ED8a1b204903Ee46e733f2c1286F6d20b177/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8A99ED8a1b204903Ee46e733f2c1286F6d20b177/logo.png"
+    }
+  },
+  "name": "Fujinto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

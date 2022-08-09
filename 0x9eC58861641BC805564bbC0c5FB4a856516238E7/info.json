@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9eC58861641BC805564bbC0c5FB4a856516238E7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d1cf2ad-b2db-4902-af15-392540944677",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9eC58861641BC805564bbC0c5FB4a856516238E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9eC58861641BC805564bbC0c5FB4a856516238E7/logo.png"
+    }
+  },
+  "name": "Appics",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

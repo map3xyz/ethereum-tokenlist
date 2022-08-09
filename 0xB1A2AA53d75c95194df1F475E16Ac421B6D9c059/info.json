@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB1A2AA53d75c95194df1F475E16Ac421B6D9c059",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7bf31f3-e51e-4a23-8f4f-0f5a828c63cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1A2AA53d75c95194df1F475E16Ac421B6D9c059/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1A2AA53d75c95194df1F475E16Ac421B6D9c059/logo.png"
+    }
+  },
+  "name": "PanaStar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x274c5236276422330060aA95cADEd86dA0a297c2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a4f817b1-b4f9-4dd9-adc0-09aca6d4827c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x274c5236276422330060aA95cADEd86dA0a297c2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x274c5236276422330060aA95cADEd86dA0a297c2/logo.png"
+    }
+  },
+  "name": "Folgory Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

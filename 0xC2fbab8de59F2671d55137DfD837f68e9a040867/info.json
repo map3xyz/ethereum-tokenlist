@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC2fbab8de59F2671d55137DfD837f68e9a040867",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29befffa-3e35-4c20-b799-6ac1c9ef1e07",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC2fbab8de59F2671d55137DfD837f68e9a040867/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC2fbab8de59F2671d55137DfD837f68e9a040867/logo.png"
+    }
+  },
+  "name": "ETHEREUM METAMASK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

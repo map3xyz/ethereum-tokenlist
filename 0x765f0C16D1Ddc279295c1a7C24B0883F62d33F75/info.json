@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8ddb449-63b8-4e56-96de-4b988256141a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75/logo.png"
+    }
+  },
+  "name": "DaTa eXchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd80e558027Ee753a0b95757dC3521d0326F13DA2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9e05d65-a7f0-4239-afc4-1ab42216878a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd80e558027Ee753a0b95757dC3521d0326F13DA2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd80e558027Ee753a0b95757dC3521d0326F13DA2/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Long ETH-DAI 2x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLETH2x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Ad8529dA0488A7C2a1af1E22d1902F7aD2943eB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d71ac359-ce4d-4677-bc00-1a649af2603c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Ad8529dA0488A7C2a1af1E22d1902F7aD2943eB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Ad8529dA0488A7C2a1af1E22d1902F7aD2943eB/logo.png"
+    }
+  },
+  "name": "BCAChain Initial Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

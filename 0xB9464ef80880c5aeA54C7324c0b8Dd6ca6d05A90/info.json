@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1144b79-cc2c-4b9d-a50e-02c6eae5fb82",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90/logo.png"
+    }
+  },
+  "name": "LOCK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

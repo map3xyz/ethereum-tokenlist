@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5850700E214c16C73d1778B2886C01639e69faA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67ba8dd3-f35c-4f1a-8be3-a5eb5cc79da0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5850700E214c16C73d1778B2886C01639e69faA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5850700E214c16C73d1778B2886C01639e69faA3/logo.png"
+    }
+  },
+  "name": "ROGANCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf1937A3ae1a2c6B4E1531682268D89262E82f1Cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49677939-1658-4221-b707-44b66929453f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf1937A3ae1a2c6B4E1531682268D89262E82f1Cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1937A3ae1a2c6B4E1531682268D89262E82f1Cd/logo.png"
+    }
+  },
+  "name": "OGCoin E-health Africa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

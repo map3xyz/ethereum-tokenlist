@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8269108e-6a2c-4381-969c-5cb4c953b612",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4/logo.png"
+    }
+  },
+  "name": "The Bitcoin Family",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAMILY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e22d2b-c3f0-42ab-b83c-13f4cf976ff1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf/logo.png"
+    }
+  },
+  "name": "Spectre.ai D-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SXDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

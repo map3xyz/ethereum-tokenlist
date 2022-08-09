@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdfe691F37b6264a90Ff507EB359C45d55037951C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "136dedc8-ce54-4364-b294-707a8a7e807c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdfe691F37b6264a90Ff507EB359C45d55037951C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdfe691F37b6264a90Ff507EB359C45d55037951C/logo.png"
+    }
+  },
+  "name": "Karma",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KARMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

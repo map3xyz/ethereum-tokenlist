@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD375a513692336cF9eEBCE5e38869B447948016f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8362c1f4-cbb6-4d5b-a740-f3a6443b482f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD375a513692336cF9eEBCE5e38869B447948016f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD375a513692336cF9eEBCE5e38869B447948016f/logo.png"
+    }
+  },
+  "name": "ShaBiDeGongShi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ShaBi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

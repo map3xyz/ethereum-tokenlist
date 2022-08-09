@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95426eD1ef0BF4AC3C006Bbd7E94F46A672dA95a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b471dab1-d406-465b-a19f-5d64da727c03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95426eD1ef0BF4AC3C006Bbd7E94F46A672dA95a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95426eD1ef0BF4AC3C006Bbd7E94F46A672dA95a/logo.png"
+    }
+  },
+  "name": "FLY CODING COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLYC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

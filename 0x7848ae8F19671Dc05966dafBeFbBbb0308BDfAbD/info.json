@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5eee174-46b0-48b5-a97c-3586334fee81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD/logo.png"
+    }
+  },
+  "name": "WednesdayCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

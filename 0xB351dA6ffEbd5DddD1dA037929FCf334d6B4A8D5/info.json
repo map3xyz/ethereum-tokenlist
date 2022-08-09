@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87c87192-ae10-4233-ba0c-c328189a3d04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5/logo.png"
+    }
+  },
+  "name": "Flit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

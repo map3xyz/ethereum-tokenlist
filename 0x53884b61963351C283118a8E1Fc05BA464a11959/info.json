@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53884b61963351C283118a8E1Fc05BA464a11959",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39317b50-112e-4472-befc-3e777f1b892c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53884b61963351C283118a8E1Fc05BA464a11959/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53884b61963351C283118a8E1Fc05BA464a11959/logo.png"
+    }
+  },
+  "name": "Monnos Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

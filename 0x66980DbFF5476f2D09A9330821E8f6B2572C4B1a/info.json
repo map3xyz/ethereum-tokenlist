@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "09ac833e-26eb-4451-b9c2-3a73b9de2060",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a/logo.png"
+    }
+  },
+  "name": "TiValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

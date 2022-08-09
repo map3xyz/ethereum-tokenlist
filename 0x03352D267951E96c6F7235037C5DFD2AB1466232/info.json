@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x03352D267951E96c6F7235037C5DFD2AB1466232",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f43b464b-3a24-4523-bcc9-5ccb00eaf5d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03352D267951E96c6F7235037C5DFD2AB1466232/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03352D267951E96c6F7235037C5DFD2AB1466232/logo.png"
+    }
+  },
+  "name": "Stable FOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFOX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

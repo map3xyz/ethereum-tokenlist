@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9fa98F4DA0faba79a928Ea785b2F94ae8d82631D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3348ccd7-e9b6-401d-9add-a6fbfde79234",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9fa98F4DA0faba79a928Ea785b2F94ae8d82631D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9fa98F4DA0faba79a928Ea785b2F94ae8d82631D/logo.png"
+    }
+  },
+  "name": "Block Genesis Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

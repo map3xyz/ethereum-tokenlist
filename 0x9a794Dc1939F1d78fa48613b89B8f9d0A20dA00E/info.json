@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22eef723-17a3-4a8a-9cf5-ca6365915838",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E/logo.png"
+    }
+  },
+  "name": "ABX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

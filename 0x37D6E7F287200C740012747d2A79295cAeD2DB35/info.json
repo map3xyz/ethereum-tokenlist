@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37D6E7F287200C740012747d2A79295cAeD2DB35",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1dcd1376-bb3f-4138-9540-51a73cad8590",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37D6E7F287200C740012747d2A79295cAeD2DB35/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37D6E7F287200C740012747d2A79295cAeD2DB35/logo.png"
+    }
+  },
+  "name": "ALP Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

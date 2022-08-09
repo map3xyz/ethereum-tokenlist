@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54257FcaAA8e50ae9a47Bf3afe054756fB1230F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b406b9c-0cda-4087-8d43-9a7ba69a7297",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54257FcaAA8e50ae9a47Bf3afe054756fB1230F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54257FcaAA8e50ae9a47Bf3afe054756fB1230F6/logo.png"
+    }
+  },
+  "name": "Tombola",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

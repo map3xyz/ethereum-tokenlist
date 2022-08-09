@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "ea22117d-a74b-4270-8df3-af66a5ac41b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9EefC4b0d472A44be93970254Df4f4016569d27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9EefC4b0d472A44be93970254Df4f4016569d27/logo.png"
+    }
+  },
+  "name": "digitalbits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

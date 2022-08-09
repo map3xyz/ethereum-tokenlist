@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8Be191b2E888342b0392e093320A0d1D56c9fe1E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "055a1295-2e00-4146-af93-49678aa6f594",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8Be191b2E888342b0392e093320A0d1D56c9fe1E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8Be191b2E888342b0392e093320A0d1D56c9fe1E/logo.png"
+    }
+  },
+  "name": "Losscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

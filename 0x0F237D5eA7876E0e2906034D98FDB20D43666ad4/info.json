@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F237D5eA7876E0e2906034D98FDB20D43666ad4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6fe9248d-e2e9-4e5a-90d8-723ecda0a378",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F237D5eA7876E0e2906034D98FDB20D43666ad4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F237D5eA7876E0e2906034D98FDB20D43666ad4/logo.png"
+    }
+  },
+  "name": "Connect coin(XCON)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

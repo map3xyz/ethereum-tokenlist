@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "909d35c2-4efe-47b9-9282-fd306d8ccdb6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba/logo.png"
+    }
+  },
+  "name": "DADI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DADI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

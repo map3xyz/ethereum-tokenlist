@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C61c057c4d599F21D11533D321C1D3e25d16AFC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63aa981b-f77a-49d9-b906-8dfef0518570",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C61c057c4d599F21D11533D321C1D3e25d16AFC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C61c057c4d599F21D11533D321C1D3e25d16AFC/logo.png"
+    }
+  },
+  "name": "Pixie Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

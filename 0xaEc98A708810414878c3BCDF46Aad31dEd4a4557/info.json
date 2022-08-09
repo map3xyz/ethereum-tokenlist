@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaEc98A708810414878c3BCDF46Aad31dEd4a4557",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3fa9a7ea-9282-4680-a5d6-f64c4887dcf1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaEc98A708810414878c3BCDF46Aad31dEd4a4557/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaEc98A708810414878c3BCDF46Aad31dEd4a4557/logo.png"
+    }
+  },
+  "name": "300 Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "300",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

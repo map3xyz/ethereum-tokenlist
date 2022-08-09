@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "937d10ff-e92d-4b25-8656-ceaa47f84b1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59A921Db27Dd6d4d974745B7FfC5c33932653442/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59A921Db27Dd6d4d974745B7FfC5c33932653442/logo.png"
+    }
+  },
+  "name": "mGOOGL Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mGOOGL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

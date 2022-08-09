@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e45aa15-a5bb-4947-9376-1adc4ddf2e08",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B85babc0cc89899cCd47e9226A0b1FaE577B19E/logo.png"
+    }
+  },
+  "name": "PPBToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

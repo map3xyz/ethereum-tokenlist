@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "23d64ecd-4bce-43e0-a550-58f0c7609dba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec/logo.png"
+    }
+  },
+  "name": "GlobalEdu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

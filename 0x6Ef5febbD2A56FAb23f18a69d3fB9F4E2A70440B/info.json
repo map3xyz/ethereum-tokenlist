@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6290460-d86f-4279-8d52-7dca2208be17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B/logo.png"
+    }
+  },
+  "name": "Intercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16bBaB40F4A614f90Fb8bb6474C5952f48Fd5D34",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ef824f33-4c3a-4b4c-919e-990b2d61dc2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16bBaB40F4A614f90Fb8bb6474C5952f48Fd5D34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16bBaB40F4A614f90Fb8bb6474C5952f48Fd5D34/logo.png"
+    }
+  },
+  "name": "Eternode",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

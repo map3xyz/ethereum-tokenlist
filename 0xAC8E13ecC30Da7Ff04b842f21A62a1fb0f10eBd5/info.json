@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "fa8bfa5a-8a7d-4203-9c91-b73281b82e0d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5/logo.png"
+    }
+  },
+  "name": "BabyDoge ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BABYDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

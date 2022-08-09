@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3cef0f9f-fd2c-4d1c-b8d8-4900409a3880",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd/logo.png"
+    }
+  },
+  "name": "iAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

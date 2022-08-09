@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f9b1246d-8a5b-457d-b16c-3ec904f93fac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9/logo.png"
+    }
+  },
+  "name": "Gambit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

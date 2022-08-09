@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0024c5d0-8ed9-4629-9ff1-7154b2184dd7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB096cC19b8227E2115855c5B39Dcc247470013C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB096cC19b8227E2115855c5B39Dcc247470013C/logo.png"
+    }
+  },
+  "name": "BITFEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc68B73D9509F5343602480656F5dA512a5A20b9e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29b18c78-c8f5-44de-aed1-86ba9af9761d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc68B73D9509F5343602480656F5dA512a5A20b9e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc68B73D9509F5343602480656F5dA512a5A20b9e/logo.png"
+    }
+  },
+  "name": "ACIDTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

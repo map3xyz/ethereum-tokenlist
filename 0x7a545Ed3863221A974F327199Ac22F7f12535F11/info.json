@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "acb71ccd-d6f2-463c-94cd-9b53f91fce44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7a545Ed3863221A974F327199Ac22F7f12535F11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a545Ed3863221A974F327199Ac22F7f12535F11/logo.png"
+    }
+  },
+  "name": "Baguette Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54672394026d16F223FdCD912973218AdB4b0E6d",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "aa5f0709-31f2-4e2c-94e4-905c217dcce0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54672394026d16F223FdCD912973218AdB4b0E6d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54672394026d16F223FdCD912973218AdB4b0E6d/logo.png"
+    }
+  },
+  "name": "Game4Bitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "G4B",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

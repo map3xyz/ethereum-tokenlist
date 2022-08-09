@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93065b5C7Eb63333b8E57a73012D25f687895785",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb9107d3-1f81-482e-883a-aa7805f352f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93065b5C7Eb63333b8E57a73012D25f687895785/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93065b5C7Eb63333b8E57a73012D25f687895785/logo.png"
+    }
+  },
+  "name": "ColletrixToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

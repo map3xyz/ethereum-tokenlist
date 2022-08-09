@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa914680-6505-4e0f-b014-1a62f9d9d886",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xF938424F7210f31dF2Aee3011291b658f872e91e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF938424F7210f31dF2Aee3011291b658f872e91e/logo.png"
+    }
+  },
+  "name": "Visor.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VISR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

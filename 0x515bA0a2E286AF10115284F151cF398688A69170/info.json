@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x515bA0a2E286AF10115284F151cF398688A69170",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47dd8911-4e61-4aa3-b610-efec584d03b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x515bA0a2E286AF10115284F151cF398688A69170/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x515bA0a2E286AF10115284F151cF398688A69170/logo.png"
+    }
+  },
+  "name": "TenX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TENX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

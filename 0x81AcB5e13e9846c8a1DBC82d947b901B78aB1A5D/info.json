@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b67e2c02-57dd-4fcf-90c7-aa2d1bd5c673",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D/logo.png"
+    }
+  },
+  "name": "HXT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

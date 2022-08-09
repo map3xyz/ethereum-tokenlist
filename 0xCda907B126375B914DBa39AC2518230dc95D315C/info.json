@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCda907B126375B914DBa39AC2518230dc95D315C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "caa13f20-bbb8-4628-a0ec-e1a4d11b19cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCda907B126375B914DBa39AC2518230dc95D315C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCda907B126375B914DBa39AC2518230dc95D315C/logo.png"
+    }
+  },
+  "name": "Nlife",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Nlife",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

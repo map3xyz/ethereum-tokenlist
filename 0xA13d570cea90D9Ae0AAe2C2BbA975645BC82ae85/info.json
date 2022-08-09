@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "53a12ede-a162-47be-8b5a-d0c0b980f2e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85/logo.png"
+    }
+  },
+  "name": "RIZIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RZN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

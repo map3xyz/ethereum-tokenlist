@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5556d6a283fD18d71FD0c8b50D1211C5F842dBBc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "05896c5a-0016-4cab-bd4b-525d0fd07db6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5556d6a283fD18d71FD0c8b50D1211C5F842dBBc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5556d6a283fD18d71FD0c8b50D1211C5F842dBBc/logo.png"
+    }
+  },
+  "name": "ButtCoin v2.0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "0xBUTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

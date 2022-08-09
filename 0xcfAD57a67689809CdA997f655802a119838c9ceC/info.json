@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcfAD57a67689809CdA997f655802a119838c9ceC",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "789eee9a-5e0a-49f2-8846-36aed0491780",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcfAD57a67689809CdA997f655802a119838c9ceC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcfAD57a67689809CdA997f655802a119838c9ceC/logo.png"
+    }
+  },
+  "name": "Benscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

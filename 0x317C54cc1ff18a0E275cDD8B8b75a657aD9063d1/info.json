@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "bbf91678-b1b0-4a41-8a27-49b5394b532c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1/logo.png"
+    }
+  },
+  "name": "aibi token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

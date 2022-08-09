@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5216db19-d928-4fd6-8c0f-9bc120f39628",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172/logo.png"
+    }
+  },
+  "name": "Town",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE45d6E4FAeaF11d01AbA9cFADC08116EB978AbEA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fdd1ff5a-b2fb-4f32-9afa-93d9c4f52000",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE45d6E4FAeaF11d01AbA9cFADC08116EB978AbEA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE45d6E4FAeaF11d01AbA9cFADC08116EB978AbEA/logo.png"
+    }
+  },
+  "name": "China Agriculture Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

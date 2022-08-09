@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68f54CeF8DB7Ca1d3aC1bdd4cB56bC7A6Ec26Faa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1a11463-bea0-4b9f-8030-2b923efe0dd4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68f54CeF8DB7Ca1d3aC1bdd4cB56bC7A6Ec26Faa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68f54CeF8DB7Ca1d3aC1bdd4cB56bC7A6Ec26Faa/logo.png"
+    }
+  },
+  "name": "NanoX Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f4f7b04-8b7b-4af4-ae0f-27757b966cbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa/logo.png"
+    }
+  },
+  "name": "TokenMarket Ltd. A shares",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

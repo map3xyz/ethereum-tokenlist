@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x305dbDD7931fb4833f5Ce48046A586E30ece683F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c6aa0809-45f5-4e2e-ae62-2391ac0118c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x305dbDD7931fb4833f5Ce48046A586E30ece683F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x305dbDD7931fb4833f5Ce48046A586E30ece683F/logo.png"
+    }
+  },
+  "name": "Massive WAVs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MWAVS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

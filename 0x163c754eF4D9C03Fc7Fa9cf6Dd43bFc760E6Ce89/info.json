@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d707cdd-3c54-4d4b-a145-29664d1331ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89/logo.png"
+    }
+  },
+  "name": "MaggotToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAGGOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

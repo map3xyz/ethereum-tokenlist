@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdCAad9Fd9a74144d226DbF94ce6162ca9f09ED7e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6f55ec58-0c3c-428e-a574-37925d847ada",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdCAad9Fd9a74144d226DbF94ce6162ca9f09ED7e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdCAad9Fd9a74144d226DbF94ce6162ca9f09ED7e/logo.png"
+    }
+  },
+  "name": "CryptoStrikers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

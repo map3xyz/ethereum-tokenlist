@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b9d442f-e972-4b5e-8c51-b82c254f4865",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A/logo.png"
+    }
+  },
+  "name": "BqtX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x076C97e1c869072eE22f8c91978C99B4bcB02591",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c82f6053-eaae-43ce-8eb1-cba2ac97529e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x076C97e1c869072eE22f8c91978C99B4bcB02591/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x076C97e1c869072eE22f8c91978C99B4bcB02591/logo.png"
+    }
+  },
+  "name": "CommerceBlock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

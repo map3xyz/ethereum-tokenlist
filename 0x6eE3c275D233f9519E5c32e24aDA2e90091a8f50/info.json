@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6eE3c275D233f9519E5c32e24aDA2e90091a8f50",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c84f848-ed2d-4f46-b24b-1a29278df181",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6eE3c275D233f9519E5c32e24aDA2e90091a8f50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6eE3c275D233f9519E5c32e24aDA2e90091a8f50/logo.png"
+    }
+  },
+  "name": "BlueChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

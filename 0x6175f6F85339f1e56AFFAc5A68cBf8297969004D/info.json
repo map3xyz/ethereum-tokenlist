@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6175f6F85339f1e56AFFAc5A68cBf8297969004D",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f0c66040-749e-44bc-97d7-d8da5513be7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6175f6F85339f1e56AFFAc5A68cBf8297969004D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6175f6F85339f1e56AFFAc5A68cBf8297969004D/logo.png"
+    }
+  },
+  "name": "Shopin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

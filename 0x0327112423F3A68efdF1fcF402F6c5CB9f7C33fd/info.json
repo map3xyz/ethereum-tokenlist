@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b12dff61-b875-492b-999e-0f6a542ae536",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
+    }
+  },
+  "name": "PieDAO BTC++",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTC++",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

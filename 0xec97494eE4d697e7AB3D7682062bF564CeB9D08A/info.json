@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xec97494eE4d697e7AB3D7682062bF564CeB9D08A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "05cbf46b-9dad-4043-b7ab-b01923c60806",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xec97494eE4d697e7AB3D7682062bF564CeB9D08A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xec97494eE4d697e7AB3D7682062bF564CeB9D08A/logo.png"
+    }
+  },
+  "name": "LSToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

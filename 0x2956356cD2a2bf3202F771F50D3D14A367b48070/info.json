@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4bfc289-a1af-4985-a445-5cccbdf64a2d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2956356cD2a2bf3202F771F50D3D14A367b48070/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2956356cD2a2bf3202F771F50D3D14A367b48070/logo.png"
+    }
+  },
+  "name": "Ether Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

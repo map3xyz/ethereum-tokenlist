@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0D2f3987a76995be593D755A0d36d90Ec86a2AE1",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8165744c-e3ef-49a0-90b7-8083b4442428",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D2f3987a76995be593D755A0d36d90Ec86a2AE1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0D2f3987a76995be593D755A0d36d90Ec86a2AE1/logo.png"
+    }
+  },
+  "name": "Sock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

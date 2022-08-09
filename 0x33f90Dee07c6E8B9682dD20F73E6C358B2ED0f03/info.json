@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "27d5d49c-ef2e-4faf-bd3a-dde4fdf4d124",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03/logo.png"
+    }
+  },
+  "name": "Trident Group",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

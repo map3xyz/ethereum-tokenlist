@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x623aFE103Fb8d189B56311E4CE9956Ec0989b412",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bfb65bd9-16ce-4fda-961d-790dab564c51",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x623aFE103Fb8d189B56311E4CE9956Ec0989b412/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x623aFE103Fb8d189B56311E4CE9956Ec0989b412/logo.png"
+    }
+  },
+  "name": "Beauty Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAUTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf4203b8ed8Fc03e2caE2e2De3BC6c5f410849626",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5f353c3f-04f1-4a28-93b4-ca33018c5420",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf4203b8ed8Fc03e2caE2e2De3BC6c5f410849626/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4203b8ed8Fc03e2caE2e2De3BC6c5f410849626/logo.png"
+    }
+  },
+  "name": "YAM2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YAM2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

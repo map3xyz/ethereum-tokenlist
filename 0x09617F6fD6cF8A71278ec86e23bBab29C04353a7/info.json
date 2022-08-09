@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11f73c3c-6a48-4200-9f4c-89d852f81984",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09617F6fD6cF8A71278ec86e23bBab29C04353a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09617F6fD6cF8A71278ec86e23bBab29C04353a7/logo.png"
+    }
+  },
+  "name": "Unblocked Ledger Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ULT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

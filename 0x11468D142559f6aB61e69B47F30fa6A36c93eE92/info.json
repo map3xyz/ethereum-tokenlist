@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11468D142559f6aB61e69B47F30fa6A36c93eE92",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "a8549ec4-0a8f-4650-badc-dfd5703480f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11468D142559f6aB61e69B47F30fa6A36c93eE92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11468D142559f6aB61e69B47F30fa6A36c93eE92/logo.png"
+    }
+  },
+  "name": "CombiCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COMBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

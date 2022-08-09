@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf20E484056d9cb18733eAF6F2865257e23F92af1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bbb25c1-919a-4eea-848f-6a047f814ae5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf20E484056d9cb18733eAF6F2865257e23F92af1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf20E484056d9cb18733eAF6F2865257e23F92af1/logo.png"
+    }
+  },
+  "name": "Eterbase Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBASE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

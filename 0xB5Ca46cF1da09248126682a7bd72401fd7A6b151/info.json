@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB5Ca46cF1da09248126682a7bd72401fd7A6b151",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc2804a1-112c-48cf-b458-a1323635a741",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB5Ca46cF1da09248126682a7bd72401fd7A6b151/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB5Ca46cF1da09248126682a7bd72401fd7A6b151/logo.png"
+    }
+  },
+  "name": "Provoco Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3Dd957216C182675F630ee2eE957a5c735472FD1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4007b939-4a11-459c-832f-1252c2f4a792",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3Dd957216C182675F630ee2eE957a5c735472FD1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3Dd957216C182675F630ee2eE957a5c735472FD1/logo.png"
+    }
+  },
+  "name": "Planetagro-Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

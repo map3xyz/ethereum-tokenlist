@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46ffe978F4cf28E7135804FF244B6CDc8Dc51377",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3aa84ad-b4c5-4b32-bc07-42c1cb850ba9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46ffe978F4cf28E7135804FF244B6CDc8Dc51377/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46ffe978F4cf28E7135804FF244B6CDc8Dc51377/logo.png"
+    }
+  },
+  "name": "CRYPTONUTZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

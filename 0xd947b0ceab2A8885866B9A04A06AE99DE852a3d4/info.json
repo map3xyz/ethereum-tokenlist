@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c96fa2b4-9d64-47fc-953d-00075c7def67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4/logo.png"
+    }
+  },
+  "name": "Trade Token X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIOx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

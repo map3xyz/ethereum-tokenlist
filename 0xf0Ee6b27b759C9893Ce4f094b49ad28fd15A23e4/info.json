@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0c2675a4-85f0-4e88-a33c-34e321a8c60a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
+    }
+  },
+  "name": "Enigma",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

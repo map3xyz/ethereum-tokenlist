@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "401a4036-095d-4030-9e6a-73830ea604f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d37986F252d0e349522EA6C3B98Cb935495E63E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d37986F252d0e349522EA6C3B98Cb935495E63E/logo.png"
+    }
+  },
+  "name": "ChartEx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

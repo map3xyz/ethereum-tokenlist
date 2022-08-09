@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x687174f8C49ceb7729D925C3A961507ea4Ac7b28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aac17d33-8e5f-44be-975f-9600c30c5d6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x687174f8C49ceb7729D925C3A961507ea4Ac7b28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x687174f8C49ceb7729D925C3A961507ea4Ac7b28/logo.png"
+    }
+  },
+  "name": "GAT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

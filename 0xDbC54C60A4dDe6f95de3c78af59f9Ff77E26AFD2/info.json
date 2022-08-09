@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDbC54C60A4dDe6f95de3c78af59f9Ff77E26AFD2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27df207e-5ffb-4f71-93e8-dc81a2462d21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDbC54C60A4dDe6f95de3c78af59f9Ff77E26AFD2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDbC54C60A4dDe6f95de3c78af59f9Ff77E26AFD2/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Long WBTC-DAI 4x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLWBTC4x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

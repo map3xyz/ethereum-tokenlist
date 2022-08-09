@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3Fb1926a7d1cC68d4166d99c3483465885074F2F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "248b369f-1e8a-401e-a2cf-3fd6ac1d4dc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3Fb1926a7d1cC68d4166d99c3483465885074F2F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3Fb1926a7d1cC68d4166d99c3483465885074F2F/logo.png"
+    }
+  },
+  "name": "ACT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

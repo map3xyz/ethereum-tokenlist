@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "1e9b1aa6-fb57-4bcb-81bd-760337d2cbe1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf7B098298f7C69Fc14610bf71d5e02c60792894C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf7B098298f7C69Fc14610bf71d5e02c60792894C/logo.png"
+    }
+  },
+  "name": "Guppy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

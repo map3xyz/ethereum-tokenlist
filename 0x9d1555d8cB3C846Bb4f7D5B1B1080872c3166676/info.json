@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "114a5735-ce70-4f31-b137-064b8ab28c83",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676/logo.png"
+    }
+  },
+  "name": "mSLV Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mSLV",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

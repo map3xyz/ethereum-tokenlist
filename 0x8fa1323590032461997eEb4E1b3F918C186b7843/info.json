@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8fa1323590032461997eEb4E1b3F918C186b7843",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "506dd674-a798-4b42-8a6c-dc6413273721",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8fa1323590032461997eEb4E1b3F918C186b7843/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fa1323590032461997eEb4E1b3F918C186b7843/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 177-CN02",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

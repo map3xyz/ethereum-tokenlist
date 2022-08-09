@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "211d73d7-b366-470d-a9ce-9be6a63c9f59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff/logo.png"
+    }
+  },
+  "name": "Zuflo Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

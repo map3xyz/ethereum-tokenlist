@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25568c86-07b3-4179-b2eb-5e1afe3b061b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E/logo.png"
+    }
+  },
+  "name": "Unistake",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNISTAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86807Da5B92d31F67E128771CAcb85F3579646eA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b56b7785-e6ba-44de-9141-090e357f7ad6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86807Da5B92d31F67E128771CAcb85F3579646eA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86807Da5B92d31F67E128771CAcb85F3579646eA/logo.png"
+    }
+  },
+  "name": "3X Short TRX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRXBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

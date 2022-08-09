@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d40768ef-6d00-45da-b56b-1fa46ebe9679",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5/logo.png"
+    }
+  },
+  "name": "iYearn Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IYFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

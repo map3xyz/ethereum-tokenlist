@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFd66c6771D00b5646949086152B7CCDCa25E5686",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18d0a459-1357-4711-89b7-ac05f8749b41",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFd66c6771D00b5646949086152B7CCDCa25E5686/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFd66c6771D00b5646949086152B7CCDCa25E5686/logo.png"
+    }
+  },
+  "name": "LATTICE80 KAYA TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

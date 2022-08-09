@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6717167-ab94-4fa7-9f59-f54fa6ad4d34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0/logo.png"
+    }
+  },
+  "name": "Forty Seven Bank Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

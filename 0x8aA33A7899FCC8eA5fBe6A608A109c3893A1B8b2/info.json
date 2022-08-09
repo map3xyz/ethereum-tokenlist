@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b45b355-6c5b-453e-92b2-3719e25d9f41",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2/logo.png"
+    }
+  },
+  "name": "Dao.Casino",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

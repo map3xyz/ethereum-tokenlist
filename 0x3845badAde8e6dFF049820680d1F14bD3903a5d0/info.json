@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35e89478-6db6-44e7-9696-d4cd72b38ee8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png"
+    }
+  },
+  "name": "The Sandbox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

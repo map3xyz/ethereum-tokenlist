@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "89f23d1d-62b6-4394-96fe-d32a9086b69c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
+    }
+  },
+  "name": "SHIBA INU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

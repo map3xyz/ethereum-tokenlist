@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b2c2a14e-dbcd-4430-b41f-d575232e3ee3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75/logo.png"
+    }
+  },
+  "name": "BlockChainStore Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

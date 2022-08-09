@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47ad1c87-485a-4449-9bb2-0a0395ed4beb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB/logo.png"
+    }
+  },
+  "name": "SEER-ERC20-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SEER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

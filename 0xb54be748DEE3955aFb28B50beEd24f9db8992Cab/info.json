@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb54be748DEE3955aFb28B50beEd24f9db8992Cab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2748eed3-8530-4eef-a853-36e149ce645a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb54be748DEE3955aFb28B50beEd24f9db8992Cab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb54be748DEE3955aFb28B50beEd24f9db8992Cab/logo.png"
+    }
+  },
+  "name": "Serenity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

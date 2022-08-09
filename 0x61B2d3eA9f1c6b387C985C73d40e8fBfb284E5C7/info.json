@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61B2d3eA9f1c6b387C985C73d40e8fBfb284E5C7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a918be1f-ab24-49ad-88f7-3eee636bf4be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61B2d3eA9f1c6b387C985C73d40e8fBfb284E5C7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61B2d3eA9f1c6b387C985C73d40e8fBfb284E5C7/logo.png"
+    }
+  },
+  "name": "RoboCalls",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RC20",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

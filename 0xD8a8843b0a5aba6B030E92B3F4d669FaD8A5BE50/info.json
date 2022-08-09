@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "97f05ee7-5382-4078-badd-93de69db8c6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50/logo.png"
+    }
+  },
+  "name": "AfroDex Labs Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AFDLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

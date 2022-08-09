@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "410bb99a-ba2e-401d-a915-76de4e69f9ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19A2cF2A1B2f76e52E2b0c572bD80A95B4Fa8643/logo.png"
+    }
+  },
+  "name": "Fyooz NFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FYZNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

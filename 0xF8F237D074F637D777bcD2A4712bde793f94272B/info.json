@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF8F237D074F637D777bcD2A4712bde793f94272B",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "fbf5d221-675e-4fb3-a537-c90cf7923562",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF8F237D074F637D777bcD2A4712bde793f94272B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8F237D074F637D777bcD2A4712bde793f94272B/logo.png"
+    }
+  },
+  "name": "ERC223",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERC223",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

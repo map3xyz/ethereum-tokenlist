@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42713994-e6e8-4ae5-9960-f5a4c6d0a298",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8/logo.png"
+    }
+  },
+  "name": "Monarch Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

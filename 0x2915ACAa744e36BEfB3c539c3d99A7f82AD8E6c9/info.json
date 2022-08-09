@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "e2674656-2593-4464-98f3-4a9f52ad6fa2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9/logo.png"
+    }
+  },
+  "name": "Greek Drachma",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

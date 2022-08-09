@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4f8577f-23f4-4847-bb2c-1c91863d8f1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png"
+    }
+  },
+  "name": "Bifrost",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

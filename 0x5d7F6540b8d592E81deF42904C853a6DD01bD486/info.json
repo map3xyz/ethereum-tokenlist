@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d7F6540b8d592E81deF42904C853a6DD01bD486",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de03ff5e-936a-4004-947d-8ee92f499d19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d7F6540b8d592E81deF42904C853a6DD01bD486/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d7F6540b8d592E81deF42904C853a6DD01bD486/logo.png"
+    }
+  },
+  "name": "Bizcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

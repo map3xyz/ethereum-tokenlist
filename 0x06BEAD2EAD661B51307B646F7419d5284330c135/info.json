@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06BEAD2EAD661B51307B646F7419d5284330c135",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7b0bd09c-019d-40e0-937f-46afaa0108c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06BEAD2EAD661B51307B646F7419d5284330c135/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06BEAD2EAD661B51307B646F7419d5284330c135/logo.png"
+    }
+  },
+  "name": "EliteShipperToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESHIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

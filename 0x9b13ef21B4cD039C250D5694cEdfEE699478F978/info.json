@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9b13ef21B4cD039C250D5694cEdfEE699478F978",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad717ea2-aad8-4b30-a564-dec21cec0c6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b13ef21B4cD039C250D5694cEdfEE699478F978/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b13ef21B4cD039C250D5694cEdfEE699478F978/logo.png"
+    }
+  },
+  "name": "Motioncoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4676bdd3-3977-48b3-881b-841796110890",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5/logo.png"
+    }
+  },
+  "name": "Blockchain Certfied Data Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

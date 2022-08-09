@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD858c11A1E990d7d02e0897b9B19dAdEf8171832",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "82b655c5-31fd-47e9-b340-5ff5af75f6d3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD858c11A1E990d7d02e0897b9B19dAdEf8171832/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD858c11A1E990d7d02e0897b9B19dAdEf8171832/logo.png"
+    }
+  },
+  "name": "Voke",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

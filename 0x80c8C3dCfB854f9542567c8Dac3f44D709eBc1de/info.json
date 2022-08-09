@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f60221a-d233-4f00-a1c0-a364697b1c8b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de/logo.png"
+    }
+  },
+  "name": "MilkyWayToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MILK2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

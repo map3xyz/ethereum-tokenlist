@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa3ddf4a857f5250B10fe6D39659DC0cb78D67Bcf",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "d2b21da8-451c-4828-9cf7-c15b30685a76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3ddf4a857f5250B10fe6D39659DC0cb78D67Bcf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa3ddf4a857f5250B10fe6D39659DC0cb78D67Bcf/logo.png"
+    }
+  },
+  "name": "EQR TESTmg23",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

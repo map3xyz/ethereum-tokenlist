@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x259059f137CB9B8F60AE27Bd199d97aBb69E539B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "967b26f2-c98c-489b-9a9e-a497b93d8ec8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x259059f137CB9B8F60AE27Bd199d97aBb69E539B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x259059f137CB9B8F60AE27Bd199d97aBb69E539B/logo.png"
+    }
+  },
+  "name": "SpectrumNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

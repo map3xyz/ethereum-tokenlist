@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26a6F4A6867a71Be998b80eaAbf67ff87D1E59d6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "188e2e5b-3fea-4e2f-988c-a6863614f968",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26a6F4A6867a71Be998b80eaAbf67ff87D1E59d6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26a6F4A6867a71Be998b80eaAbf67ff87D1E59d6/logo.png"
+    }
+  },
+  "name": "CasinoLaCrosse",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "beaa7d84-9566-4161-9df9-d504d20e965a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7/logo.png"
+    }
+  },
+  "name": "Tcbcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

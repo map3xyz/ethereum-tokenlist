@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf050E54d2b50c055C9919a4B856A195221D3DB71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df4c65ea-034c-4d94-86fb-5da195589803",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf050E54d2b50c055C9919a4B856A195221D3DB71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf050E54d2b50c055C9919a4B856A195221D3DB71/logo.png"
+    }
+  },
+  "name": "Rutile",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

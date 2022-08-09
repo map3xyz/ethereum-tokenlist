@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5c3c15a-d6d3-46b6-a159-28a4d11335ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f/logo.png"
+    }
+  },
+  "name": "ViacashToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Viacash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

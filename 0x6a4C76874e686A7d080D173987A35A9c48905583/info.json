@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6a4C76874e686A7d080D173987A35A9c48905583",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "866dda02-d6a7-404c-b871-be28f51478c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6a4C76874e686A7d080D173987A35A9c48905583/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a4C76874e686A7d080D173987A35A9c48905583/logo.png"
+    }
+  },
+  "name": "Luxurious Pro Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LPNT",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

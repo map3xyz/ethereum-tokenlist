@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F391Fdd1956f322a87231f580dF961E7b7FbA8a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7a109686-19e0-4d47-99ab-22af25d40540",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F391Fdd1956f322a87231f580dF961E7b7FbA8a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F391Fdd1956f322a87231f580dF961E7b7FbA8a/logo.png"
+    }
+  },
+  "name": "Aziz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AZIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

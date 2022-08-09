@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bf2e129e-b4b7-4155-b4c7-b05d408f88f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835/logo.png"
+    }
+  },
+  "name": "Coreto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02639FC688DF086f18Ce5E7f0F014bc74DE0229b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2493f680-ee5a-4151-b66c-934726ee2695",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02639FC688DF086f18Ce5E7f0F014bc74DE0229b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02639FC688DF086f18Ce5E7f0F014bc74DE0229b/logo.png"
+    }
+  },
+  "name": "Golden Berry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

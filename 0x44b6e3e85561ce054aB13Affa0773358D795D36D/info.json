@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44b6e3e85561ce054aB13Affa0773358D795D36D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8721fa9-9590-42a1-b61b-537e4c9b9936",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44b6e3e85561ce054aB13Affa0773358D795D36D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44b6e3e85561ce054aB13Affa0773358D795D36D/logo.png"
+    }
+  },
+  "name": "ethArt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

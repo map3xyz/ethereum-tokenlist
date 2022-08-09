@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f991ae60-1d8e-4384-89bc-2e035855c294",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe047705117Eb07e712C3d684f5B18E74577e83aC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe047705117Eb07e712C3d684f5B18E74577e83aC/logo.png"
+    }
+  },
+  "name": "BitcashPay Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

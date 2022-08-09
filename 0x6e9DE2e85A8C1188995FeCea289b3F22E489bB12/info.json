@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6e9DE2e85A8C1188995FeCea289b3F22E489bB12",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3bd54fd1-91d1-45ca-98e1-d6f518cf4be1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e9DE2e85A8C1188995FeCea289b3F22E489bB12/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e9DE2e85A8C1188995FeCea289b3F22E489bB12/logo.png"
+    }
+  },
+  "name": "Bertbit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BERT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc279d81-2fef-4e82-8eba-d90a718f9d80",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327/logo.png"
+    }
+  },
+  "name": "TrueDeck",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

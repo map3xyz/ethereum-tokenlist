@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0dcb9a61-1634-447e-9b93-49b3b0a7dde6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd2d6158683aeE4Cc838067727209a0aAF4359de3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2d6158683aeE4Cc838067727209a0aAF4359de3/logo.png"
+    }
+  },
+  "name": "Bounty0x Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

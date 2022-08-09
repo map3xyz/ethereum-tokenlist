@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8db75fe9-bb45-4617-a897-9732af47ecc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a/logo.png"
+    }
+  },
+  "name": "BitKan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

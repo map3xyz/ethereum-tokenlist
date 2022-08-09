@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5e6016Ae7d7C49d347dcF834860B9f3Ee282812b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "78d5125c-133b-4486-b4f9-f75e48703ac3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5e6016Ae7d7C49d347dcF834860B9f3Ee282812b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5e6016Ae7d7C49d347dcF834860B9f3Ee282812b/logo.png"
+    }
+  },
+  "name": "EZToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EZT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

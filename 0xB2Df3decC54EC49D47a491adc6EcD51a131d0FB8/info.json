@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB2Df3decC54EC49D47a491adc6EcD51a131d0FB8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63c823a3-c659-498b-a5a7-1c9e7a72ffd8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB2Df3decC54EC49D47a491adc6EcD51a131d0FB8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2Df3decC54EC49D47a491adc6EcD51a131d0FB8/logo.png"
+    }
+  },
+  "name": "Sesame Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

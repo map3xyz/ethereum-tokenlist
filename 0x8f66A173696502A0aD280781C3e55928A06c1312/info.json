@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f66A173696502A0aD280781C3e55928A06c1312",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ee17d1b-11c7-4046-bf4e-a9e78c1589c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f66A173696502A0aD280781C3e55928A06c1312/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f66A173696502A0aD280781C3e55928A06c1312/logo.png"
+    }
+  },
+  "name": "Peoplewave Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PWV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

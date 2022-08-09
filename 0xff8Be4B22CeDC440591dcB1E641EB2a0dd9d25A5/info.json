@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0cda7027-8907-4ad4-9666-3a2a7abab38b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5/logo.png"
+    }
+  },
+  "name": "URACToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "URAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

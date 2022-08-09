@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x98eb850a587D908980328ED3Fde3e335C0cc4426",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bfe0e3ff-c596-4b8f-896b-808f3a5d9bea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x98eb850a587D908980328ED3Fde3e335C0cc4426/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x98eb850a587D908980328ED3Fde3e335C0cc4426/logo.png"
+    }
+  },
+  "name": "Market Return",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MARE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

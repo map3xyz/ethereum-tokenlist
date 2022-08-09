@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24EDCa5a57Fc259427574E0c9cfdf630a3136d34",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3a0b69fd-db88-4337-822b-c7c2c3c04225",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24EDCa5a57Fc259427574E0c9cfdf630a3136d34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24EDCa5a57Fc259427574E0c9cfdf630a3136d34/logo.png"
+    }
+  },
+  "name": "Hada Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

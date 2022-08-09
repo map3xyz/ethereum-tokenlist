@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83a5ee03-d6d9-49b2-a44b-0ffb216d02d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4/logo.png"
+    }
+  },
+  "name": "PHTTOKENX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PHTTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

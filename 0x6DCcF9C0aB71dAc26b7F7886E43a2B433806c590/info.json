@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91a9e65a-5be0-4859-9cc7-939e436c6fad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590/logo.png"
+    }
+  },
+  "name": "vibrant",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

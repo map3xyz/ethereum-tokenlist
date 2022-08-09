@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58c8eac7-d3b5-4d4c-aff4-ec290ab4c11d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7/logo.png"
+    }
+  },
+  "name": "mMSFT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mMSFT",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe05C99fd798C09C066B87d841eCF89Dac4B4856E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a1989efd-b426-46b5-bbee-22e285b69fb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe05C99fd798C09C066B87d841eCF89Dac4B4856E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe05C99fd798C09C066B87d841eCF89Dac4B4856E/logo.png"
+    }
+  },
+  "name": "Bard",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BARD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

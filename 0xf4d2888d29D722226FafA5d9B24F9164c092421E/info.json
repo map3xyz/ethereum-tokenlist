@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b114e32d-108a-43ce-8f2a-f5a25262d7bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xf4d2888d29D722226FafA5d9B24F9164c092421E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4d2888d29D722226FafA5d9B24F9164c092421E/logo.png"
+    }
+  },
+  "name": "LooksRare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOOKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

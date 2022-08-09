@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bdac1e72-bb0b-44f1-83df-7d16f3e7add2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1/logo.png"
+    }
+  },
+  "name": "Compound Augur",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cREP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

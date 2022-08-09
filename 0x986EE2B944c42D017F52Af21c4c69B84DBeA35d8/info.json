@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e090166-26d5-4149-bf25-ea04ef6ad121",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8/logo.png"
+    }
+  },
+  "name": "BitMartToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

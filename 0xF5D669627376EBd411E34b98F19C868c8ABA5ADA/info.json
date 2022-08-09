@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee4ba735-3c3f-4f7d-9ad6-9966b70a57aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA/logo.png"
+    }
+  },
+  "name": "Axie Infinity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

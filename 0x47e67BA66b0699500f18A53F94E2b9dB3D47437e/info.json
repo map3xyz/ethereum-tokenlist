@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58e173c2-548d-4073-a667-9a7cc2650a5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e/logo.png"
+    }
+  },
+  "name": "PlayGame",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

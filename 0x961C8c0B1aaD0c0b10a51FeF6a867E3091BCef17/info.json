@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f93e27d3-3e7e-4fd7-b6c5-c3884867430c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
+    }
+  },
+  "name": "DeFi Yield Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

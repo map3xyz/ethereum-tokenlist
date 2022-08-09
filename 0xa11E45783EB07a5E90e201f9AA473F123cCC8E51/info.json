@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa11E45783EB07a5E90e201f9AA473F123cCC8E51",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7e37e9ac-0125-42a7-b4ee-914896b63726",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa11E45783EB07a5E90e201f9AA473F123cCC8E51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa11E45783EB07a5E90e201f9AA473F123cCC8E51/logo.png"
+    }
+  },
+  "name": "Rethen Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTH2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

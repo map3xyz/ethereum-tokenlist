@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfdf63Ed4aBDdA6E771C7a396d81Fce60E134395f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc9fc4c3-191e-4c7b-8891-299b08ece02c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfdf63Ed4aBDdA6E771C7a396d81Fce60E134395f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfdf63Ed4aBDdA6E771C7a396d81Fce60E134395f/logo.png"
+    }
+  },
+  "name": "Anarchy Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

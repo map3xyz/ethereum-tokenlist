@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b58e14ff-c490-455d-928d-d28dae290ecd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFF603F43946A3A28DF5E6A73172555D8C8b02386/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFF603F43946A3A28DF5E6A73172555D8C8b02386/logo.png"
+    }
+  },
+  "name": "OneRoot Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8efc901-e3a3-4f5d-8f2d-97410af326c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F/logo.png"
+    }
+  },
+  "name": "Efforce",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOZX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

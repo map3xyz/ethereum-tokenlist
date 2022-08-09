@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6724a837-b343-4dff-bcbe-5039240b0247",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E/logo.png"
+    }
+  },
+  "name": "I HOUSE TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

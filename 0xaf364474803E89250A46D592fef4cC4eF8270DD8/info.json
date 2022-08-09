@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaf364474803E89250A46D592fef4cC4eF8270DD8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c906bc1c-bd91-4dd1-8e2d-7757b8be0a10",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaf364474803E89250A46D592fef4cC4eF8270DD8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaf364474803E89250A46D592fef4cC4eF8270DD8/logo.png"
+    }
+  },
+  "name": "Apollon Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

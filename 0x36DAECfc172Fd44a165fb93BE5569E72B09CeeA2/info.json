@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36DAECfc172Fd44a165fb93BE5569E72B09CeeA2",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "dfcfe78d-b918-458c-b0fb-5db7e42675a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36DAECfc172Fd44a165fb93BE5569E72B09CeeA2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36DAECfc172Fd44a165fb93BE5569E72B09CeeA2/logo.png"
+    }
+  },
+  "name": "Winsshar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27C743954bCe1Bfaef8bcbD685527531001D88D7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d63bddd8-40db-4982-a1ea-cbd15ad2e0b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27C743954bCe1Bfaef8bcbD685527531001D88D7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27C743954bCe1Bfaef8bcbD685527531001D88D7/logo.png"
+    }
+  },
+  "name": "Blockium Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

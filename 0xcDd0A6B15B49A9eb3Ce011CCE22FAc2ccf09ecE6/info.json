@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "051bb222-2a3b-4ba6-92f2-3c233d4c9ece",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6/logo.png"
+    }
+  },
+  "name": "ARMTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TARM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

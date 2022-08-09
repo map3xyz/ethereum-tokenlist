@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b47b8e7-5c43-41b0-b91f-f51686a8a9a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B/logo.png"
+    }
+  },
+  "name": "Crypterium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

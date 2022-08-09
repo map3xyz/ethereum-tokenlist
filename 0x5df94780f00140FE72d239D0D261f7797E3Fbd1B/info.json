@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5df94780f00140FE72d239D0D261f7797E3Fbd1B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d614969-a9a6-4bc2-8712-2c1bae313997",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B/logo.png"
+    }
+  },
+  "name": "QChi Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

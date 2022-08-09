@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAb1A348BB48fEF25179cdeaBfA2a41c394f122BB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "661221ec-2c03-451d-9ca1-d16b6517fb38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAb1A348BB48fEF25179cdeaBfA2a41c394f122BB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAb1A348BB48fEF25179cdeaBfA2a41c394f122BB/logo.png"
+    }
+  },
+  "name": "Quartz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-QU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

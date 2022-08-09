@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8df4a3c6-9e86-4d25-bb07-afe023ca590d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22/logo.png"
+    }
+  },
+  "name": "Crystal Clear Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

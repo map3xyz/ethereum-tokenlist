@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f465cc55-e2e1-4c23-a031-58ae317b3ff2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84/logo.png"
+    }
+  },
+  "name": "ethereumcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

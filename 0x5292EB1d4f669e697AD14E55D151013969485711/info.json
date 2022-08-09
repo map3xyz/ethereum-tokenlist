@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5292EB1d4f669e697AD14E55D151013969485711",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f54e18ee-62c3-492d-8444-3d54b4a2dd5b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5292EB1d4f669e697AD14E55D151013969485711/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5292EB1d4f669e697AD14E55D151013969485711/logo.png"
+    }
+  },
+  "name": "WorkValley",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

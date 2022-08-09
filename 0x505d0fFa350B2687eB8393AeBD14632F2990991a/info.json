@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x505d0fFa350B2687eB8393AeBD14632F2990991a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01d870ae-2ca6-48fe-9bfd-6449c5323122",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x505d0fFa350B2687eB8393AeBD14632F2990991a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x505d0fFa350B2687eB8393AeBD14632F2990991a/logo.png"
+    }
+  },
+  "name": "Tatcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

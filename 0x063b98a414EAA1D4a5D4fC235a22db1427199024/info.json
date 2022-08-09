@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x063b98a414EAA1D4a5D4fC235a22db1427199024",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3bb7b635-45c3-484c-a9a6-6c8f3b0a0c8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x063b98a414EAA1D4a5D4fC235a22db1427199024/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x063b98a414EAA1D4a5D4fC235a22db1427199024/logo.png"
+    }
+  },
+  "name": "VOMER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VMR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a988812d9e215c3D40D34328aD62AEa32B45F48",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3b37b45b-3620-4226-95d6-ed300c19bc21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a988812d9e215c3D40D34328aD62AEa32B45F48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a988812d9e215c3D40D34328aD62AEa32B45F48/logo.png"
+    }
+  },
+  "name": "MKPUG1-29/30M89",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

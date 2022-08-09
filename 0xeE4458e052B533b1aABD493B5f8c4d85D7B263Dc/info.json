@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "934a9b80-64b7-4883-8c61-cbf1be79d514",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc/logo.png"
+    }
+  },
+  "name": "Blockpass",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PASS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

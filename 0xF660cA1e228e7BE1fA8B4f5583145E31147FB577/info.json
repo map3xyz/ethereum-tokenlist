@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF660cA1e228e7BE1fA8B4f5583145E31147FB577",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f15e124d-af43-45eb-8370-b477a77adb38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF660cA1e228e7BE1fA8B4f5583145E31147FB577/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF660cA1e228e7BE1fA8B4f5583145E31147FB577/logo.png"
+    }
+  },
+  "name": "Dicet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x362998BCE7BFc45C1b0A2ecC83952e09712AfDDB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7274a46-b865-4ca7-af9a-4f0dd619923a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x362998BCE7BFc45C1b0A2ecC83952e09712AfDDB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x362998BCE7BFc45C1b0A2ecC83952e09712AfDDB/logo.png"
+    }
+  },
+  "name": "Bruciare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCIRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

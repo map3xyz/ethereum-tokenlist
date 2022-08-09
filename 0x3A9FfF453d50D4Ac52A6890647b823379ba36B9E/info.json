@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7ec10db-2d2c-4319-9196-e9eb2607420e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E/logo.png"
+    }
+  },
+  "name": "Shuffle.Monster V3",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHUF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f23597b0-acd1-4ab5-ac5a-6af164454e71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c/logo.png"
+    }
+  },
+  "name": "Tepleton",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

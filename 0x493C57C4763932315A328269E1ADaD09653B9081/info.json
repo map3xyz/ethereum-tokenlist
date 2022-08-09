@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x493C57C4763932315A328269E1ADaD09653B9081",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28d2cc2e-f131-47b0-a6aa-70baeee63178",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x493C57C4763932315A328269E1ADaD09653B9081/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x493C57C4763932315A328269E1ADaD09653B9081/logo.png"
+    }
+  },
+  "name": "Fulcrum DAI iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

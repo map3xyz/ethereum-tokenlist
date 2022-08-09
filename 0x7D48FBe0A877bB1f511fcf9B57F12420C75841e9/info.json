@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4737fa42-0f6d-40ab-adcf-963629f026f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9/logo.png"
+    }
+  },
+  "name": "DOOR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

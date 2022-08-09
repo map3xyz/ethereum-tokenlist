@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0536661a-3827-489c-8cc7-97193918c7dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x931A7ca74e35f35a46881A4f968d5fBD095a0279/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "FailToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

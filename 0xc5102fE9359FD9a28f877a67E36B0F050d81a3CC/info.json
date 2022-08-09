@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc365210-1c9e-4c4a-8b52-3e08b3b54ae0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC/logo.png"
+    }
+  },
+  "name": "Hop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOP",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

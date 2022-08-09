@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8832793-0c05-4e30-bc17-354f87dd034e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1/logo.png"
+    }
+  },
+  "name": "Concentrated Voting Power",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

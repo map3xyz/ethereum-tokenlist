@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1452DbfCff5aa0BA612B74876A025750a51B5b15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "011eb129-e832-4d86-892d-f8000e4c8fd6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1452DbfCff5aa0BA612B74876A025750a51B5b15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1452DbfCff5aa0BA612B74876A025750a51B5b15/logo.png"
+    }
+  },
+  "name": "UniqCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNIQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

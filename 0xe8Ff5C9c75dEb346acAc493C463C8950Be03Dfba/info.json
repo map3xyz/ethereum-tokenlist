@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f7edab7-2c09-4b02-a7fd-6314d73cfccc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba/logo.png"
+    }
+  },
+  "name": "Vibe Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

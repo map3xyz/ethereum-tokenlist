@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "66ddf5b9-efe4-463b-bf76-e3598b2abb82",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd/logo.png"
+    }
+  },
+  "name": "Moeda Loyalty Points",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

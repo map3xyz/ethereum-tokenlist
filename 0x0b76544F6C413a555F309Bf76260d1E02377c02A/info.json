@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0b76544F6C413a555F309Bf76260d1E02377c02A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3b357aa2-4adc-4c17-acd4-ed654c03d113",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0b76544F6C413a555F309Bf76260d1E02377c02A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b76544F6C413a555F309Bf76260d1E02377c02A/logo.png"
+    }
+  },
+  "name": "Internet Node Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

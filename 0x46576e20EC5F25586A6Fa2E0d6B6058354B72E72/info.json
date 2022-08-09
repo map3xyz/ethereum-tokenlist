@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b64ff135-3719-4382-b5f9-5f92a2fa4b40",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72/logo.png"
+    }
+  },
+  "name": "Cryptomind",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

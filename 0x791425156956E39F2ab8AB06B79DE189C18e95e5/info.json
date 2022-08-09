@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x791425156956E39F2ab8AB06B79DE189C18e95e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1c2acd6-944f-47c3-ab09-149fb1ea47f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x791425156956E39F2ab8AB06B79DE189C18e95e5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x791425156956E39F2ab8AB06B79DE189C18e95e5/logo.png"
+    }
+  },
+  "name": "IcoBay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

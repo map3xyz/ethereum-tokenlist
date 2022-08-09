@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0ff1283-4416-44f9-8e62-adfdd0ab7707",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B/logo.png"
+    }
+  },
+  "name": "ETHDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHDai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

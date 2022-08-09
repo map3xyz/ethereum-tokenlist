@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "66efc054-f9de-495a-8a84-89c11056a9d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x446C9033E7516D820cc9a2ce2d0B7328b579406F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x446C9033E7516D820cc9a2ce2d0B7328b579406F/logo.png"
+    }
+  },
+  "name": "SOLVE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOLVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

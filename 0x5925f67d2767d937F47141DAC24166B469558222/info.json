@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5925f67d2767d937F47141DAC24166B469558222",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "e0382e76-24ce-49b3-b73c-f1f54ced7fce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5925f67d2767d937F47141DAC24166B469558222/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5925f67d2767d937F47141DAC24166B469558222/logo.png"
+    }
+  },
+  "name": "OLXA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OLXA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

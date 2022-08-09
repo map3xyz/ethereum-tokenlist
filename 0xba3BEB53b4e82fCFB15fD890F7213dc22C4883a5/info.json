@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xba3BEB53b4e82fCFB15fD890F7213dc22C4883a5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4818604-e87f-4595-9a3c-b9d6d3ae5573",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba3BEB53b4e82fCFB15fD890F7213dc22C4883a5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba3BEB53b4e82fCFB15fD890F7213dc22C4883a5/logo.png"
+    }
+  },
+  "name": "Blue Live Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

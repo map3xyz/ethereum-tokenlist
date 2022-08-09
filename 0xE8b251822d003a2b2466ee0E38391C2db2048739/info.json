@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE8b251822d003a2b2466ee0E38391C2db2048739",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "cb4f7bb5-428e-4468-80a7-7a21aafb59fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE8b251822d003a2b2466ee0E38391C2db2048739/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE8b251822d003a2b2466ee0E38391C2db2048739/logo.png"
+    }
+  },
+  "name": "rbase.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBASE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

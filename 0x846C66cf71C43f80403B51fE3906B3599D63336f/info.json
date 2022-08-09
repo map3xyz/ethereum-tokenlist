@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x846C66cf71C43f80403B51fE3906B3599D63336f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c23f773-ecf7-4a12-aa7d-eb9e06e901cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x846C66cf71C43f80403B51fE3906B3599D63336f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x846C66cf71C43f80403B51fE3906B3599D63336f/logo.png"
+    }
+  },
+  "name": "PumaPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

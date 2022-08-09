@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x183069c5EA93136F367ce3c37128429dB8eF1C29",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7449e16d-48d0-4b21-b1e4-229b571ba611",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x183069c5EA93136F367ce3c37128429dB8eF1C29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x183069c5EA93136F367ce3c37128429dB8eF1C29/logo.png"
+    }
+  },
+  "name": "CRYPTOCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72a4a49b-c8ef-41c9-84b8-1937f6523d57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0/logo.png"
+    }
+  },
+  "name": "Opus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

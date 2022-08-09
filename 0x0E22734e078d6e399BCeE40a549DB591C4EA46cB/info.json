@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "abb9c6db-97b8-4db0-b459-450f117eb7c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E22734e078d6e399BCeE40a549DB591C4EA46cB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E22734e078d6e399BCeE40a549DB591C4EA46cB/logo.png"
+    }
+  },
+  "name": "Streamity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

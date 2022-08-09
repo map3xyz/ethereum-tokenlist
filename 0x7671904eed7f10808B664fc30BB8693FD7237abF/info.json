@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7671904eed7f10808B664fc30BB8693FD7237abF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af810634-0563-4972-b79b-fb7c396362e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7671904eed7f10808B664fc30BB8693FD7237abF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7671904eed7f10808B664fc30BB8693FD7237abF/logo.png"
+    }
+  },
+  "name": "Boolberry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

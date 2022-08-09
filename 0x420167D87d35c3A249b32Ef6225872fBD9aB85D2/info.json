@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x420167D87d35c3A249b32Ef6225872fBD9aB85D2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d1b1cbb-19dc-465e-b10c-f9278a21aa1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x420167D87d35c3A249b32Ef6225872fBD9aB85D2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x420167D87d35c3A249b32Ef6225872fBD9aB85D2/logo.png"
+    }
+  },
+  "name": "MESG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MESG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

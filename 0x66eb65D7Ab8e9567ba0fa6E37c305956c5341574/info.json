@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x66eb65D7Ab8e9567ba0fa6E37c305956c5341574",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "b04000e1-6c67-4cdc-9647-e99ace56e8d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x66eb65D7Ab8e9567ba0fa6E37c305956c5341574/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66eb65D7Ab8e9567ba0fa6E37c305956c5341574/logo.png"
+    }
+  },
+  "name": "\"\"",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

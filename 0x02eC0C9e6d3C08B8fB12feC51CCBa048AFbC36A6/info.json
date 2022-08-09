@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02eC0C9e6d3C08B8fB12feC51CCBa048AFbC36A6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1fc8bb36-1ed5-48a0-ab72-bf1c16104b90",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02eC0C9e6d3C08B8fB12feC51CCBa048AFbC36A6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02eC0C9e6d3C08B8fB12feC51CCBa048AFbC36A6/logo.png"
+    }
+  },
+  "name": "Stable Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

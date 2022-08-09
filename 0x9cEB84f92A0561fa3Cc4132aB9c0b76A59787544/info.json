@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a59cf939-729f-4dad-8dbc-c176dc428877",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544/logo.png"
+    }
+  },
+  "name": "Doki Doki Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

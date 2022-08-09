@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa69925428299287D3724B4B9A31Ea8cE191497de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0230a68b-7bb6-41da-8569-b5fc8abff40d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa69925428299287D3724B4B9A31Ea8cE191497de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa69925428299287D3724B4B9A31Ea8cE191497de/logo.png"
+    }
+  },
+  "name": "Merlin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "22f3f1c1-be3e-4490-8f4c-8df5cd28db16",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC/logo.png"
+    }
+  },
+  "name": "Hearts",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HRTS",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

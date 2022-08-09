@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfCdaE8771F8d28E3B9027AB58F4A20749767a097",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0e63df25-09e5-4aa6-ad23-ed3df282d28e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfCdaE8771F8d28E3B9027AB58F4A20749767a097/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfCdaE8771F8d28E3B9027AB58F4A20749767a097/logo.png"
+    }
+  },
+  "name": "SecureXR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SXR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

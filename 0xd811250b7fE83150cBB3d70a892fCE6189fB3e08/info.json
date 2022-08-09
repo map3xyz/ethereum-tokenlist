@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd811250b7fE83150cBB3d70a892fCE6189fB3e08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63e65906-f5e8-4d60-820f-be4fad3c2d12",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd811250b7fE83150cBB3d70a892fCE6189fB3e08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd811250b7fE83150cBB3d70a892fCE6189fB3e08/logo.png"
+    }
+  },
+  "name": "Virtual Mind Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

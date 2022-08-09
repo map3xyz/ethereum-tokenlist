@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ffb5cf7-c95a-43f3-bc74-b616d51d3a29",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262/logo.png"
+    }
+  },
+  "name": "RFOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

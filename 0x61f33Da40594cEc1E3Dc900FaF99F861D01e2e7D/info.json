@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61f33Da40594cEc1E3Dc900FaF99F861D01e2e7D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed9850a0-e89a-4e92-8c0c-54df56122b92",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61f33Da40594cEc1E3Dc900FaF99F861D01e2e7D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61f33Da40594cEc1E3Dc900FaF99F861D01e2e7D/logo.png"
+    }
+  },
+  "name": "Cybereits Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "43e11e6e-8d3a-4327-981e-3420e7f410cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x309013d55fB0E8C17363bcC79F25d92f711A5802/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x309013d55fB0E8C17363bcC79F25d92f711A5802/logo.png"
+    }
+  },
+  "name": "SBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

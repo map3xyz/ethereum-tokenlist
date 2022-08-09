@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45bD9a077C8857dbbf72063692Cc58600199DEdB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "18d65ac0-fca3-4619-9d38-0c2267ece98e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45bD9a077C8857dbbf72063692Cc58600199DEdB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45bD9a077C8857dbbf72063692Cc58600199DEdB/logo.png"
+    }
+  },
+  "name": "Favin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

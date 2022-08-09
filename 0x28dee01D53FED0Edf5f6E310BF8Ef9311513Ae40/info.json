@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6caead51-8552-4446-a382-64f42b4a06ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40/logo.png"
+    }
+  },
+  "name": "BlitzPick (XBP)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x59639Ab94e7dAF3b39C6555115e493145032e85E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bee902d-a269-41f5-a162-d631610a4a50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59639Ab94e7dAF3b39C6555115e493145032e85E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59639Ab94e7dAF3b39C6555115e493145032e85E/logo.png"
+    }
+  },
+  "name": "OmnisBit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OMNIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

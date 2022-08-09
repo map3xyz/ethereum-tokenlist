@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c3e3bf8-3aa2-427c-96b7-3196b22d10a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa/logo.png"
+    }
+  },
+  "name": "HOQU Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HQX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

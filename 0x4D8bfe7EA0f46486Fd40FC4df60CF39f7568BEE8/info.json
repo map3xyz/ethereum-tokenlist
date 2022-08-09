@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D8bfe7EA0f46486Fd40FC4df60CF39f7568BEE8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ead91e9-bc0d-4991-bf06-a93e808a22ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D8bfe7EA0f46486Fd40FC4df60CF39f7568BEE8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D8bfe7EA0f46486Fd40FC4df60CF39f7568BEE8/logo.png"
+    }
+  },
+  "name": "Incodium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

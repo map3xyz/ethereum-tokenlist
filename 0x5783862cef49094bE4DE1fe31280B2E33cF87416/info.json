@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5783862cef49094bE4DE1fe31280B2E33cF87416",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5bd63315-85ea-4bbe-975e-776e65442e22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5783862cef49094bE4DE1fe31280B2E33cF87416/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5783862cef49094bE4DE1fe31280B2E33cF87416/logo.png"
+    }
+  },
+  "name": "KredX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

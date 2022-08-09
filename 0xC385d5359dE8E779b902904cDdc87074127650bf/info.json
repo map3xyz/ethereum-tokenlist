@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC385d5359dE8E779b902904cDdc87074127650bf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab896fb3-74b4-40d1-8117-d327c4eccf45",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC385d5359dE8E779b902904cDdc87074127650bf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC385d5359dE8E779b902904cDdc87074127650bf/logo.png"
+    }
+  },
+  "name": "ORBIT MAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

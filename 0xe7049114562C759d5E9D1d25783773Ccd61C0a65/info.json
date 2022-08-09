@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7049114562C759d5E9D1d25783773Ccd61C0a65",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f0173b62-d368-4957-91e8-e2dae295aed7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe7049114562C759d5E9D1d25783773Ccd61C0a65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7049114562C759d5E9D1d25783773Ccd61C0a65/logo.png"
+    }
+  },
+  "name": "Balance token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

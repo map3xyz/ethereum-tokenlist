@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01f79a6d6023C3b7d66144A14a1a0513E0077FcE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "626ad4a1-36bb-4b92-bb5d-214a5fc25895",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01f79a6d6023C3b7d66144A14a1a0513E0077FcE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01f79a6d6023C3b7d66144A14a1a0513E0077FcE/logo.png"
+    }
+  },
+  "name": "COMMUNITY MONEY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

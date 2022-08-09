@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7cE0641D19095ed3226fC5222836901bcE41585D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dff12023-fdfa-4248-95ae-a9a5c928fbbb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7cE0641D19095ed3226fC5222836901bcE41585D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7cE0641D19095ed3226fC5222836901bcE41585D/logo.png"
+    }
+  },
+  "name": "StarFire GoldBond Fiat SettleMint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SFGB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "faea4713-5cc7-4f3b-91cf-12abe14cb6b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74/logo.png"
+    }
+  },
+  "name": "YFOX.FINANCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

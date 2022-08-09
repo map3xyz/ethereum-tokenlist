@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A2810d3d859Ed03ede523eB801a3B43B5e8979C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d40e2965-64ce-444e-a40d-ab57dd1cca46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A2810d3d859Ed03ede523eB801a3B43B5e8979C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A2810d3d859Ed03ede523eB801a3B43B5e8979C/logo.png"
+    }
+  },
+  "name": "Zodcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

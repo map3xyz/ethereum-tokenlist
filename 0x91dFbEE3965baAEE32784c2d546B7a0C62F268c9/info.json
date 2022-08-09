@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a621b8b6-9253-4401-b325-a9cbdedb66a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9/logo.png"
+    }
+  },
+  "name": "Bondly",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BONDLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

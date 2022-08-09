@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEC491c1088Eae992B7A214efB0a266AD0927A72A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1dabc48c-bc8a-4562-a888-3813c5017b3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEC491c1088Eae992B7A214efB0a266AD0927A72A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEC491c1088Eae992B7A214efB0a266AD0927A72A/logo.png"
+    }
+  },
+  "name": "AB-CHAIN RTB token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

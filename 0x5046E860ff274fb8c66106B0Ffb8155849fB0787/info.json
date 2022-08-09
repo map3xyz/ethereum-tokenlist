@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5046E860ff274fb8c66106B0Ffb8155849fB0787",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "00200451-a05d-45b0-a512-041bb4082233",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5046E860ff274fb8c66106B0Ffb8155849fB0787/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5046E860ff274fb8c66106B0Ffb8155849fB0787/logo.png"
+    }
+  },
+  "name": "JavaScript",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

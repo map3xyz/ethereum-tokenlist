@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86E288793B6B9eb05f38758D166c44bF3d643Bcf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fda5a4ce-fdb5-480a-88c8-8d29ddbc1005",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86E288793B6B9eb05f38758D166c44bF3d643Bcf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86E288793B6B9eb05f38758D166c44bF3d643Bcf/logo.png"
+    }
+  },
+  "name": "CreditDefi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

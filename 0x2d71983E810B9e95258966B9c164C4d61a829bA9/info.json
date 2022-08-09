@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1ea8f651-c6be-4088-9c83-07f79baef9fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d71983E810B9e95258966B9c164C4d61a829bA9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d71983E810B9e95258966B9c164C4d61a829bA9/logo.png"
+    }
+  },
+  "name": "ICOCalendar.Today",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6fd88d8-5ae2-4626-a522-1679869f8b8f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
+    }
+  },
+  "name": "PREMIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$PREMIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

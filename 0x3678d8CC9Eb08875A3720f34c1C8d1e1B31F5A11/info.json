@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2fd8931b-4022-4ea0-9b48-60d5bdf339e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11/logo.png"
+    }
+  },
+  "name": "Obee Network ERC-20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

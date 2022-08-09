@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd0658324074D6249a51876438916f7C423075451",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0559835-53cc-4c68-b51d-dc9982c2d9f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0658324074D6249a51876438916f7C423075451/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0658324074D6249a51876438916f7C423075451/logo.png"
+    }
+  },
+  "name": "Yearn Land",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yLand",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

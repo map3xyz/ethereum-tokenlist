@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb5206b6-d562-4942-a64d-c60fffa98a73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664/logo.png"
+    }
+  },
+  "name": "QuarkChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

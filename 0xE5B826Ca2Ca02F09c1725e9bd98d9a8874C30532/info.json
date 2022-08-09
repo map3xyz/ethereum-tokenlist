@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94a2fccb-1c2c-4ebf-b885-6e234dc7fa65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532/logo.png"
+    }
+  },
+  "name": "ZEON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

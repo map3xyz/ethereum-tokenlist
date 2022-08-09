@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7324e2Fc03dB82ed4f42ff04559a73E3D87226B4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57a0dd41-b3b3-4936-944a-71fdbc1e30b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7324e2Fc03dB82ed4f42ff04559a73E3D87226B4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7324e2Fc03dB82ed4f42ff04559a73E3D87226B4/logo.png"
+    }
+  },
+  "name": "MomToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

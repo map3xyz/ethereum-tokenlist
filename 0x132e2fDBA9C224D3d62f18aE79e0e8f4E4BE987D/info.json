@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2b696561-187e-493c-828b-ea4007203dc0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D/logo.png"
+    }
+  },
+  "name": "DefiFarm",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

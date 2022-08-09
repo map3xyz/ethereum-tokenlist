@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA866F0198208Eb07c83081d5136BE7f775c2399e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "196bfcef-2323-48a2-9b57-32fd45840113",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA866F0198208Eb07c83081d5136BE7f775c2399e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA866F0198208Eb07c83081d5136BE7f775c2399e/logo.png"
+    }
+  },
+  "name": "KORE Vault",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KORE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

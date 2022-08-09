@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3205Df88cF95B5A702F2b6a1CC10e2075f54387c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "054ec9c4-0772-4228-810f-4b439177a7ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3205Df88cF95B5A702F2b6a1CC10e2075f54387c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3205Df88cF95B5A702F2b6a1CC10e2075f54387c/logo.png"
+    }
+  },
+  "name": "BOMBX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

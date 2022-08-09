@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0e816b2-8ec9-4ae5-8331-a6b99dd37c72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57700244B20f84799a31c6C96DadFF373ca9D6c5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57700244B20f84799a31c6C96DadFF373ca9D6c5/logo.png"
+    }
+  },
+  "name": "TRUST DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRUST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

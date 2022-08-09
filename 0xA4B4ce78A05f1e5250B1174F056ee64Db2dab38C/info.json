@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA4B4ce78A05f1e5250B1174F056ee64Db2dab38C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d1da953-57b9-4db7-97ec-be369b9b0559",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4B4ce78A05f1e5250B1174F056ee64Db2dab38C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4B4ce78A05f1e5250B1174F056ee64Db2dab38C/logo.png"
+    }
+  },
+  "name": "YOGI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

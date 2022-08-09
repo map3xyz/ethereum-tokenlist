@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5b46FF9a887180C8FB2d97146398Ddfc5FEF1Cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "480035cb-29cd-4d0c-bba0-f0788d78e4ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5b46FF9a887180C8FB2d97146398Ddfc5FEF1Cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5b46FF9a887180C8FB2d97146398Ddfc5FEF1Cd/logo.png"
+    }
+  },
+  "name": "SuperSkyNet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

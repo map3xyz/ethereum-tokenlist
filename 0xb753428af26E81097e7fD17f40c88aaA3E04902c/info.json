@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e16d378-4ec8-4008-a9e0-64a18f508aa5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png"
+    }
+  },
+  "name": "saffron.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

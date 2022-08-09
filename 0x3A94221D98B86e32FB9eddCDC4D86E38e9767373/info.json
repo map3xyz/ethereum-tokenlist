@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A94221D98B86e32FB9eddCDC4D86E38e9767373",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae1d6aa3-9c92-412d-9213-028c9c5ff8b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A94221D98B86e32FB9eddCDC4D86E38e9767373/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A94221D98B86e32FB9eddCDC4D86E38e9767373/logo.png"
+    }
+  },
+  "name": "EarthXland",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd3CDc4e75750DC1e59F8342200742B6B29490e70",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "63822880-0b0d-4a6b-8f02-8ad1f538789b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd3CDc4e75750DC1e59F8342200742B6B29490e70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd3CDc4e75750DC1e59F8342200742B6B29490e70/logo.png"
+    }
+  },
+  "name": "Decurian",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

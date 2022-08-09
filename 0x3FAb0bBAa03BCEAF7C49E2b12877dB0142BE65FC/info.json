@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "697c60e8-48f0-4201-a309-f8d23d1a1c68",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC/logo.png"
+    }
+  },
+  "name": "Castello Coin (CAST)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAST",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

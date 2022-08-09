@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0198f46f520F33cd4329bd4bE380a25a90536CD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88455605-58d7-44a2-a367-bc7e9126375b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0198f46f520F33cd4329bd4bE380a25a90536CD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0198f46f520F33cd4329bd4bE380a25a90536CD5/logo.png"
+    }
+  },
+  "name": "PlayChip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9BB6fd000109E24Eb38B0Deb806382fF9247E478",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ec59ab9b-0f97-4df0-927e-3a8c4f6264c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9BB6fd000109E24Eb38B0Deb806382fF9247E478/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9BB6fd000109E24Eb38B0Deb806382fF9247E478/logo.png"
+    }
+  },
+  "name": "hex.bet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

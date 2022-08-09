@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9cde5f39-207a-4db2-8706-b00e5098ff99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27/logo.png"
+    }
+  },
+  "name": "LIGHTYEARS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

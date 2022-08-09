@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9025f9A59694dd939739e05beB2502a567e8326f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fdb17268-6d91-46ea-ac5c-54a6d8f16ec7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9025f9A59694dd939739e05beB2502a567e8326f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9025f9A59694dd939739e05beB2502a567e8326f/logo.png"
+    }
+  },
+  "name": "NamTanToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAMTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

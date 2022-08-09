@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e1bcd1d-ca52-44ec-911d-2a4121d8a3ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6/logo.png"
+    }
+  },
+  "name": "Ethverse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

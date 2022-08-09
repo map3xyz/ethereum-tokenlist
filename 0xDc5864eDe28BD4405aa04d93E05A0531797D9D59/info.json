@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e39f0adf-68b8-4489-a2fe-2ad48b9e268c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDc5864eDe28BD4405aa04d93E05A0531797D9D59/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDc5864eDe28BD4405aa04d93E05A0531797D9D59/logo.png"
+    }
+  },
+  "name": "Falcon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

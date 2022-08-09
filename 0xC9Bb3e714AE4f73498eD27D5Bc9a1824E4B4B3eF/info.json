@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC9Bb3e714AE4f73498eD27D5Bc9a1824E4B4B3eF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80d04e92-db77-4af1-8259-abaa472201e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC9Bb3e714AE4f73498eD27D5Bc9a1824E4B4B3eF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC9Bb3e714AE4f73498eD27D5Bc9a1824E4B4B3eF/logo.png"
+    }
+  },
+  "name": "Space Bank Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

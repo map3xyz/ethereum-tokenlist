@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf6588A2fACBD07a9f7496fa2A60Eb75a63fd4fC5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b5abe04-f84e-4989-8322-21267503ccfa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf6588A2fACBD07a9f7496fa2A60Eb75a63fd4fC5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6588A2fACBD07a9f7496fa2A60Eb75a63fd4fC5/logo.png"
+    }
+  },
+  "name": "DreamTree",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DREAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

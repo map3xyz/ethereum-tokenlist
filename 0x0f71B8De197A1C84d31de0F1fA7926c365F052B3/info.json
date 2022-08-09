@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "64853806-0881-4436-beb2-014aecc12d7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3/logo.png"
+    }
+  },
+  "name": "Arcona Distribution Contract",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCONA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbbC13c862d9C5377bed1113BB5AF585912CAAd5f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b123250f-4b0e-43be-81c0-f578fd1ddb01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbbC13c862d9C5377bed1113BB5AF585912CAAd5f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbbC13c862d9C5377bed1113BB5AF585912CAAd5f/logo.png"
+    }
+  },
+  "name": "NEOBANKTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

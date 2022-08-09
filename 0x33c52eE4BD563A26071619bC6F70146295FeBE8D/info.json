@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33c52eE4BD563A26071619bC6F70146295FeBE8D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0b1b6cf-74d5-48ac-968b-446c8a69ecbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33c52eE4BD563A26071619bC6F70146295FeBE8D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33c52eE4BD563A26071619bC6F70146295FeBE8D/logo.png"
+    }
+  },
+  "name": "VolAir Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

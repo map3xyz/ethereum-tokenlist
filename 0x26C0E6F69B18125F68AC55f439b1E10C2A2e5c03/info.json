@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26C0E6F69B18125F68AC55f439b1E10C2A2e5c03",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "209d35ea-ddb7-45a4-8606-2bef12f9a4fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26C0E6F69B18125F68AC55f439b1E10C2A2e5c03/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26C0E6F69B18125F68AC55f439b1E10C2A2e5c03/logo.png"
+    }
+  },
+  "name": "Crowdvilla Point",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CROWD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aed5517c-c234-4f8d-833b-1e8f6296246b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45f24BaEef268BB6d63AEe5129015d69702BCDfa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45f24BaEef268BB6d63AEe5129015d69702BCDfa/logo.png"
+    }
+  },
+  "name": "YFValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

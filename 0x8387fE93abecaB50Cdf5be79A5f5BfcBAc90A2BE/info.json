@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8387fE93abecaB50Cdf5be79A5f5BfcBAc90A2BE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00fd8b73-f87a-4370-906c-209ed8322df7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8387fE93abecaB50Cdf5be79A5f5BfcBAc90A2BE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8387fE93abecaB50Cdf5be79A5f5BfcBAc90A2BE/logo.png"
+    }
+  },
+  "name": "PACT Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PACT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

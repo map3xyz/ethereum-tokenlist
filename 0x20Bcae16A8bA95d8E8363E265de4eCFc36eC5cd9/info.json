@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b1a09a9-417e-4ea7-a116-367b444a0f1e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9/logo.png"
+    }
+  },
+  "name": "HEY BITCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

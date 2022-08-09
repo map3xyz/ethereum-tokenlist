@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6f59016-aa78-49f9-8753-330bd3a140d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88800092fF476844f74dC2FC427974BBee2794Ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88800092fF476844f74dC2FC427974BBee2794Ae/logo.png"
+    }
+  },
+  "name": "Ambire Wallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WALLET",
+  "tags": [
+    "defi",
+    "governance",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

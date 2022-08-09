@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40f5c42d-2871-4f87-b6a9-e0fefc4bf3a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD/logo.png"
+    }
+  },
+  "name": "pNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

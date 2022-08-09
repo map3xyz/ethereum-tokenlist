@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "576878bf-fdf4-47c6-9da3-fd76cefa28c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90/logo.png"
+    }
+  },
+  "name": "LIBERTAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIBERTAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

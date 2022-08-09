@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a9504fec-022b-48ca-bf74-a2b9c65bddb9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4/logo.png"
+    }
+  },
+  "name": "Mavro Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC6D603A9Df53D1542552058c382bf115AACE70C7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e2e0388a-2eb0-458e-a356-37fc1c4a1170",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC6D603A9Df53D1542552058c382bf115AACE70C7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC6D603A9Df53D1542552058c382bf115AACE70C7/logo.png"
+    }
+  },
+  "name": "Tourist Review",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

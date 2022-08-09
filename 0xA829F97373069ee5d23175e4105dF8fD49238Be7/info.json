@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA829F97373069ee5d23175e4105dF8fD49238Be7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68027c3f-7589-4c97-bcff-5c6643e405b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA829F97373069ee5d23175e4105dF8fD49238Be7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA829F97373069ee5d23175e4105dF8fD49238Be7/logo.png"
+    }
+  },
+  "name": "Opennity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

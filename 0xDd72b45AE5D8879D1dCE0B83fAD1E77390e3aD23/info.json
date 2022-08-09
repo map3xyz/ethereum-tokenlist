@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDd72b45AE5D8879D1dCE0B83fAD1E77390e3aD23",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "52eff0f8-4199-4305-b267-0fd81ea20e24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDd72b45AE5D8879D1dCE0B83fAD1E77390e3aD23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDd72b45AE5D8879D1dCE0B83fAD1E77390e3aD23/logo.png"
+    }
+  },
+  "name": "Nenad",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

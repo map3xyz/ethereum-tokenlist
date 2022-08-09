@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "930a0a0a-e0e3-4a6f-a841-4469939e7146",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC/logo.png"
+    }
+  },
+  "name": "qiibeeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

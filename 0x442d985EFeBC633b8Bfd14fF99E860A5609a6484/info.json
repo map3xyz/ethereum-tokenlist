@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x442d985EFeBC633b8Bfd14fF99E860A5609a6484",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c704a666-8923-4fa7-ab29-8fc53458ce89",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x442d985EFeBC633b8Bfd14fF99E860A5609a6484/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x442d985EFeBC633b8Bfd14fF99E860A5609a6484/logo.png"
+    }
+  },
+  "name": "Ethavo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1427a17-ec92-4875-8585-8b41b0ce250d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png"
+    }
+  },
+  "name": "RAMP DEFI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RAMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

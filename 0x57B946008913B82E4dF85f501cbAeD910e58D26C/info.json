@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87af4b99-9028-4993-87b5-b1b6da916a23",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png"
+    }
+  },
+  "name": "Marlin POND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

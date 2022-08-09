@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x393e90c35d9768e831029e90b9A2c436EDdB63BB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bc92ee9d-4d86-44c4-9b57-165d5ae89883",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x393e90c35d9768e831029e90b9A2c436EDdB63BB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x393e90c35d9768e831029e90b9A2c436EDdB63BB/logo.png"
+    }
+  },
+  "name": "IO Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B54240612a83d34E89C141fd2F8d399349A9490",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a0535b4a-0e05-440d-88c5-6f07aaaa34f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B54240612a83d34E89C141fd2F8d399349A9490/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B54240612a83d34E89C141fd2F8d399349A9490/logo.png"
+    }
+  },
+  "name": "BitUnits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNITX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

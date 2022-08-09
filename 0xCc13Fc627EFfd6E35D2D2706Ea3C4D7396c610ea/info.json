@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCc13Fc627EFfd6E35D2D2706Ea3C4D7396c610ea",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4bcbb28d-166d-4353-a064-847f414bd0f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc13Fc627EFfd6E35D2D2706Ea3C4D7396c610ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc13Fc627EFfd6E35D2D2706Ea3C4D7396c610ea/logo.png"
+    }
+  },
+  "name": "IDEX Membership",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDXM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xee91e81927bb047eA0f4B24e43Dd5Dc0684827A0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c51b044-4945-4cac-9b9b-3d0b8b3e6c59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xee91e81927bb047eA0f4B24e43Dd5Dc0684827A0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xee91e81927bb047eA0f4B24e43Dd5Dc0684827A0/logo.png"
+    }
+  },
+  "name": "Bitcoinbing",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

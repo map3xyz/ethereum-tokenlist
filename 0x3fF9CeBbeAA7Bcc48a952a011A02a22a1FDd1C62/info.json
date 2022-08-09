@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3fF9CeBbeAA7Bcc48a952a011A02a22a1FDd1C62",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d99877b6-fa30-4887-9191-49560654b255",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3fF9CeBbeAA7Bcc48a952a011A02a22a1FDd1C62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3fF9CeBbeAA7Bcc48a952a011A02a22a1FDd1C62/logo.png"
+    }
+  },
+  "name": "ORDER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

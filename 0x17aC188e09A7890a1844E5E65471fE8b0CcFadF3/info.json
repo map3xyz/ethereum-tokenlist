@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5895bb1-4a4f-47b0-a431-58541c9cc230",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3/logo.png"
+    }
+  },
+  "name": "Cryptocurrency Top 10 Tokens Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CC10",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

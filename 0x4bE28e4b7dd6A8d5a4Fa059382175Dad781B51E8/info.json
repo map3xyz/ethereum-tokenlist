@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4bE28e4b7dd6A8d5a4Fa059382175Dad781B51E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5ec4069-8896-4e57-a394-c8a46182953b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4bE28e4b7dd6A8d5a4Fa059382175Dad781B51E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4bE28e4b7dd6A8d5a4Fa059382175Dad781B51E8/logo.png"
+    }
+  },
+  "name": "TrainingToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

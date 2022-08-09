@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83e61fde-0110-4e87-8ce4-b12b7b9e254f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB/logo.png"
+    }
+  },
+  "name": "CONUN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

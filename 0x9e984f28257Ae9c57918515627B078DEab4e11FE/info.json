@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e984f28257Ae9c57918515627B078DEab4e11FE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "06ceae22-d8b5-4eb0-901a-5273c893268c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e984f28257Ae9c57918515627B078DEab4e11FE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e984f28257Ae9c57918515627B078DEab4e11FE/logo.png"
+    }
+  },
+  "name": "AVXChange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

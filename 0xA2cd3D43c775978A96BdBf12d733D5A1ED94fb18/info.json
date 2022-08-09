@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bf33989-2381-4909-8265-46739e74d84c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18/logo.png"
+    }
+  },
+  "name": "Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCN",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "a9fe9549-aa92-447b-90cd-2566f1884ea7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712/logo.png"
+    }
+  },
+  "name": "CRYPTOBUCKS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C-BUCKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

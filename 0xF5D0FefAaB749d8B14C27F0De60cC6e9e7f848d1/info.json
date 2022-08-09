@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a73a777-ee16-469d-bab8-1266f0452134",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1/logo.png"
+    }
+  },
+  "name": "YFARM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFARM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

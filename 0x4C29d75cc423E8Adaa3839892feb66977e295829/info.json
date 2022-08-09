@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C29d75cc423E8Adaa3839892feb66977e295829",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebfbe1b5-e20f-4d42-8714-9a858d434d73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4C29d75cc423E8Adaa3839892feb66977e295829/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C29d75cc423E8Adaa3839892feb66977e295829/logo.png"
+    }
+  },
+  "name": "POOH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POOH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

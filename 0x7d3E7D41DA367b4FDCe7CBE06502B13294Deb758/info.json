@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7d3E7D41DA367b4FDCe7CBE06502B13294Deb758",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4fc4287d-dc47-4a71-924b-1fb9b1657df2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d3E7D41DA367b4FDCe7CBE06502B13294Deb758/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d3E7D41DA367b4FDCe7CBE06502B13294Deb758/logo.png"
+    }
+  },
+  "name": "SSS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

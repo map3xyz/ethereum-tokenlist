@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f45a0074-b983-4b6b-b96e-32640d28eef0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB/logo.png"
+    }
+  },
+  "name": "Bax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

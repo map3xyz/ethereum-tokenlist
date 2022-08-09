@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcf7dcd3-f015-4261-b4b8-b6802655df11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759/logo.png"
+    }
+  },
+  "name": "SpritzCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPRTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

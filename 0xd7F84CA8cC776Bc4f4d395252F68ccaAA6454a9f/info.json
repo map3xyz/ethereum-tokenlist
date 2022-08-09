@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7F84CA8cC776Bc4f4d395252F68ccaAA6454a9f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "039120e1-7be5-4132-ab5c-b0822ca15172",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7F84CA8cC776Bc4f4d395252F68ccaAA6454a9f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7F84CA8cC776Bc4f4d395252F68ccaAA6454a9f/logo.png"
+    }
+  },
+  "name": "EQR 500",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

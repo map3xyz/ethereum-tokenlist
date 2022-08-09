@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdbb3614-ca5c-469d-8283-21181ff1f246",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824/logo.png"
+    }
+  },
+  "name": "MoonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

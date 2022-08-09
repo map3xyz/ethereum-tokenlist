@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6f67b54-947f-4ab7-9e93-c5349d344d7a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85f138bfEE4ef8e540890CFb48F620571d67Eda3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85f138bfEE4ef8e540890CFb48F620571d67Eda3/logo.png"
+    }
+  },
+  "name": "AVAX (Portal)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

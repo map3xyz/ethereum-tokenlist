@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd83efe9-946a-4e37-8671-62a729aeaa06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6/logo.png"
+    }
+  },
+  "name": "Xplosive Ethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "xETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

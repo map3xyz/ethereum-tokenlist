@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "768143c5-76d7-4518-980b-a6bfd5219da7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8e386EDa857484f5a12e4B5DAa9984E06E73705/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8e386EDa857484f5a12e4B5DAa9984E06E73705/logo.png"
+    }
+  },
+  "name": "Indorse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

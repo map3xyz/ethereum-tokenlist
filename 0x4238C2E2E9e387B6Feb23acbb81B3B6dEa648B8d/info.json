@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4238C2E2E9e387B6Feb23acbb81B3B6dEa648B8d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "34ebc260-7419-4547-8cc7-ba2e05ade271",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4238C2E2E9e387B6Feb23acbb81B3B6dEa648B8d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4238C2E2E9e387B6Feb23acbb81B3B6dEa648B8d/logo.png"
+    }
+  },
+  "name": "XuanCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

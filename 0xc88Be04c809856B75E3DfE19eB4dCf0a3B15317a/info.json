@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc88Be04c809856B75E3DfE19eB4dCf0a3B15317a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "51b34270-5c42-4a0f-9f1e-9e54dd8e2799",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc88Be04c809856B75E3DfE19eB4dCf0a3B15317a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc88Be04c809856B75E3DfE19eB4dCf0a3B15317a/logo.png"
+    }
+  },
+  "name": "Bankcoin Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

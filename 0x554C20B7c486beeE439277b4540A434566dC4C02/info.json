@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x554C20B7c486beeE439277b4540A434566dC4C02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56eb6d2f-0be8-4285-90fb-d1f52e55c88f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x554C20B7c486beeE439277b4540A434566dC4C02/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x554C20B7c486beeE439277b4540A434566dC4C02/logo.png"
+    }
+  },
+  "name": "Decision Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

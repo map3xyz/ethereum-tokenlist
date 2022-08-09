@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x170b275CEd089FffAEBFe927F445a350ED9160DC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3cb9288d-82fe-46e7-9be9-ed6b713bfbaa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x170b275CEd089FffAEBFe927F445a350ED9160DC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x170b275CEd089FffAEBFe927F445a350ED9160DC/logo.png"
+    }
+  },
+  "name": "OwnData",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

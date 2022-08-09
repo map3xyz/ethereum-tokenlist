@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7dab542e-1ef3-4668-9a66-f23d2c4b80d3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c/logo.png"
+    }
+  },
+  "name": "BOY Cassette Tape by RAC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3B4B29C4c1872a60D09937686bD2b358Db9Dee8a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3e71171-616b-462f-b48a-85b00191b567",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3B4B29C4c1872a60D09937686bD2b358Db9Dee8a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3B4B29C4c1872a60D09937686bD2b358Db9Dee8a/logo.png"
+    }
+  },
+  "name": "Teacher Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

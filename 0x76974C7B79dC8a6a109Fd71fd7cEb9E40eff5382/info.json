@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27dfb79a-4376-43e7-ae4e-525dea384bfa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382/logo.png"
+    }
+  },
+  "name": "DOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dow",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

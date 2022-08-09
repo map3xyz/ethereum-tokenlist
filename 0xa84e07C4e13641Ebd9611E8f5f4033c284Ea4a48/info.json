@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa84e07C4e13641Ebd9611E8f5f4033c284Ea4a48",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e8015d77-be19-4e10-ac71-d86694356e8d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa84e07C4e13641Ebd9611E8f5f4033c284Ea4a48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa84e07C4e13641Ebd9611E8f5f4033c284Ea4a48/logo.png"
+    }
+  },
+  "name": "Titanium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-TI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

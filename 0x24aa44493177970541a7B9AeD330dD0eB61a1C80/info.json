@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24aa44493177970541a7B9AeD330dD0eB61a1C80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "052152a7-da2d-4737-87de-6f0d88cd40c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24aa44493177970541a7B9AeD330dD0eB61a1C80/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24aa44493177970541a7B9AeD330dD0eB61a1C80/logo.png"
+    }
+  },
+  "name": "QR Rial",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QRR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

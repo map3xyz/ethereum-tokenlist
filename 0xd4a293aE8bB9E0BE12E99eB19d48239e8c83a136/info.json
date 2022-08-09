@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd4a293aE8bB9E0BE12E99eB19d48239e8c83a136",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed23738c-d9e6-4622-b4f3-53176f6a690f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd4a293aE8bB9E0BE12E99eB19d48239e8c83a136/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd4a293aE8bB9E0BE12E99eB19d48239e8c83a136/logo.png"
+    }
+  },
+  "name": "Insureum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ISR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

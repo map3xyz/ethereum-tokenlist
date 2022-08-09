@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62a7dA217d6a55A983455e5fd6C4a025aC786879",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b4cf1a48-e59d-453b-9f3b-05b86bfe6cc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62a7dA217d6a55A983455e5fd6C4a025aC786879/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62a7dA217d6a55A983455e5fd6C4a025aC786879/logo.png"
+    }
+  },
+  "name": "TBT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

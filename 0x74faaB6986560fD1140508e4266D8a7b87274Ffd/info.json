@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x74faaB6986560fD1140508e4266D8a7b87274Ffd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ef71b4e-ce4b-419d-a30d-dce819a0b089",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x74faaB6986560fD1140508e4266D8a7b87274Ffd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74faaB6986560fD1140508e4266D8a7b87274Ffd/logo.png"
+    }
+  },
+  "name": "HyperDao",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

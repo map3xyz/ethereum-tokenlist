@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2B14f0E0986d2733B01808491536F923554c903",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71ea119b-a412-44de-a981-99331ae1fa54",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2B14f0E0986d2733B01808491536F923554c903/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2B14f0E0986d2733B01808491536F923554c903/logo.png"
+    }
+  },
+  "name": "ALMEEGRAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

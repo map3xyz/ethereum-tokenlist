@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1E32dDef10781e3C6a19883430F0E78A10B21217",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b1e91b1-fe9f-43c2-8b5a-f89a3a8d9744",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1E32dDef10781e3C6a19883430F0E78A10B21217/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1E32dDef10781e3C6a19883430F0E78A10B21217/logo.png"
+    }
+  },
+  "name": "Anonymous Organization",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Anon",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

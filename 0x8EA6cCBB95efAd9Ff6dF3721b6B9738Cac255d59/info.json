@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8EA6cCBB95efAd9Ff6dF3721b6B9738Cac255d59",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f1bc5dd-de24-4ea3-8ecd-26a3ce0e8b4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8EA6cCBB95efAd9Ff6dF3721b6B9738Cac255d59/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8EA6cCBB95efAd9Ff6dF3721b6B9738Cac255d59/logo.png"
+    }
+  },
+  "name": "Squirrelcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

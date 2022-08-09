@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8eccd1a6-b7e2-45a9-88c5-16d6399d1bd9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3/logo.png"
+    }
+  },
+  "name": "UNUS SED LEO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

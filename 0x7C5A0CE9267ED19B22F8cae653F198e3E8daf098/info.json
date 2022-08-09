@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a100f2b2-99db-4b2d-8b89-68886e23519a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098/logo.png"
+    }
+  },
+  "name": "SANtiment network token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

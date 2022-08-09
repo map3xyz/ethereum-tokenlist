@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C14C5863d45aBAA275548DAFf56070043b52D85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe4407d0-eaff-4ef8-906d-29ee6e36b32f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4C14C5863d45aBAA275548DAFf56070043b52D85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C14C5863d45aBAA275548DAFf56070043b52D85/logo.png"
+    }
+  },
+  "name": "AshPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

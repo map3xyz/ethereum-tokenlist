@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c3712bd-4693-45c9-8b55-cddc1f54cd36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png"
+    }
+  },
+  "name": "Aragon Network Juror",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

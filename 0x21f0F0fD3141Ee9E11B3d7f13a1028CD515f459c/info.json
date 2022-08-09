@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d448068-3c74-4b4f-8049-64add2d0e7fa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c/logo.png"
+    }
+  },
+  "name": "MrpToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

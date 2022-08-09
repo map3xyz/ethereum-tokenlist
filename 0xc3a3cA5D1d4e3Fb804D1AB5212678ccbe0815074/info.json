@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c6da71d4-ea6b-466e-93fe-15107b8e7d8f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074/logo.png"
+    }
+  },
+  "name": "MCC ico token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

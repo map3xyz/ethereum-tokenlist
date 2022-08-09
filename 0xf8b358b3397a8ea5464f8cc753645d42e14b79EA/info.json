@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79EA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "457b7f26-dfc8-4fcf-8335-de263229bb15",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8b358b3397a8ea5464f8cc753645d42e14b79EA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8b358b3397a8ea5464f8cc753645d42e14b79EA/logo.png"
+    }
+  },
+  "name": "Airbloc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

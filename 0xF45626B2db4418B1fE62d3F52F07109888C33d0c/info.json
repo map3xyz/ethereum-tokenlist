@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF45626B2db4418B1fE62d3F52F07109888C33d0c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2405ac2-c01f-4667-9bce-be36d899f6cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF45626B2db4418B1fE62d3F52F07109888C33d0c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF45626B2db4418B1fE62d3F52F07109888C33d0c/logo.png"
+    }
+  },
+  "name": "G Gold Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

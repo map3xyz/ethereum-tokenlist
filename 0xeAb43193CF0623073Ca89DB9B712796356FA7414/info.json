@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a991124f-d6df-4733-acc1-2d4bfc262def",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeAb43193CF0623073Ca89DB9B712796356FA7414/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeAb43193CF0623073Ca89DB9B712796356FA7414/logo.png"
+    }
+  },
+  "name": "GOLDX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

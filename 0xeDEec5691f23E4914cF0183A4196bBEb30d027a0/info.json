@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d24071a-5c7f-456b-a8f7-59eca77bbdb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeDEec5691f23E4914cF0183A4196bBEb30d027a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeDEec5691f23E4914cF0183A4196bBEb30d027a0/logo.png"
+    }
+  },
+  "name": "Wrapped Statera",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

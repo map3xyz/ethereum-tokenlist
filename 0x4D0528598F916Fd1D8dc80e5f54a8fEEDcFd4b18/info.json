@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee453b09-816f-465c-9c36-7fc65dc26b76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18/logo.png"
+    }
+  },
+  "name": "ATOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

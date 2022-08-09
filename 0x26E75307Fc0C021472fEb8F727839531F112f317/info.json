@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab3b94ae-a3b4-4be6-8dea-c78a3ad221e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26E75307Fc0C021472fEb8F727839531F112f317/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26E75307Fc0C021472fEb8F727839531F112f317/logo.png"
+    }
+  },
+  "name": "Crypto20",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C20",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

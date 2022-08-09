@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x243434048cC22eFdDB8AaB75673618CcBD63D155",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "18101200-d7b7-4f61-9f89-5d871d0bc5aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x243434048cC22eFdDB8AaB75673618CcBD63D155/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x243434048cC22eFdDB8AaB75673618CcBD63D155/logo.png"
+    }
+  },
+  "name": "onlyHundred",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

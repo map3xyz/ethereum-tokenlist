@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8b79656FC38a04044E495e22fAD747126ca305C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b63db3bc-d1a7-41ee-8af3-f2288267f74a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8b79656FC38a04044E495e22fAD747126ca305C4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b79656FC38a04044E495e22fAD747126ca305C4/logo.png"
+    }
+  },
+  "name": "AgaveCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

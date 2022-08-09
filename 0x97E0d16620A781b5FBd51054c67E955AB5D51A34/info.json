@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x97E0d16620A781b5FBd51054c67E955AB5D51A34",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8138eeae-f5e2-42a1-9f05-d2215e0bc596",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x97E0d16620A781b5FBd51054c67E955AB5D51A34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x97E0d16620A781b5FBd51054c67E955AB5D51A34/logo.png"
+    }
+  },
+  "name": "NG COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

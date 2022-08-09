@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0051d363A60bD98d8A10927D10708e5eF853b306",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c26475f1-dd77-4145-a744-d306cf332450",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0051d363A60bD98d8A10927D10708e5eF853b306/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0051d363A60bD98d8A10927D10708e5eF853b306/logo.png"
+    }
+  },
+  "name": "SWAPCOINZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

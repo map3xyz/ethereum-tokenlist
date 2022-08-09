@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4F7c5BD3F7D62a9C984e265D73A86F5515F3e92B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ef838f5f-18a7-465d-a941-4fd9bf4dc595",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F7c5BD3F7D62a9C984e265D73A86F5515F3e92B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4F7c5BD3F7D62a9C984e265D73A86F5515F3e92B/logo.png"
+    }
+  },
+  "name": "The Burn Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

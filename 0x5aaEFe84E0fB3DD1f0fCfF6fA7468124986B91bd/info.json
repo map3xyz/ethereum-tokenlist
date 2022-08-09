@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b089a92-c4e8-47af-9320-c99d7cad335e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd/logo.png"
+    }
+  },
+  "name": "Evedo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07bAd4bCD55F39B96f00ddfFca09201d86BCF3aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11eef542-67bc-4265-b3bb-bb13336169ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07bAd4bCD55F39B96f00ddfFca09201d86BCF3aC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07bAd4bCD55F39B96f00ddfFca09201d86BCF3aC/logo.png"
+    }
+  },
+  "name": "VTIS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VTIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

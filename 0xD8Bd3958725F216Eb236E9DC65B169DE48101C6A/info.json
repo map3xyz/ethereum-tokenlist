@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD8Bd3958725F216Eb236E9DC65B169DE48101C6A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b443f52b-3a48-4c8e-b14a-cafd0269c1b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD8Bd3958725F216Eb236E9DC65B169DE48101C6A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD8Bd3958725F216Eb236E9DC65B169DE48101C6A/logo.png"
+    }
+  },
+  "name": "GBT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

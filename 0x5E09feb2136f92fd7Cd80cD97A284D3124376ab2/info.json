@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d6b1233-7206-488a-a26e-3f575e45b918",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2/logo.png"
+    }
+  },
+  "name": "ARcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "537d62a3-c1d9-4c20-a513-745b02b8e780",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90DE74265a416e1393A450752175AED98fe11517/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90DE74265a416e1393A450752175AED98fe11517/logo.png"
+    }
+  },
+  "name": "Unlock Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

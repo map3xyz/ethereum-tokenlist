@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5AB793E36070F0fac928EA15826b0c1Bc5365119",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fd611d35-9c9b-447a-aa9d-39f6b37c245d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5AB793E36070F0fac928EA15826b0c1Bc5365119/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5AB793E36070F0fac928EA15826b0c1Bc5365119/logo.png"
+    }
+  },
+  "name": "YUKI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YUKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

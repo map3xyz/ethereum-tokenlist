@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5400575877b6db1749e60ed87780A94A7CA8AF13",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "5decf36e-0b0e-4bf3-bca2-e2b161190c9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5400575877b6db1749e60ed87780A94A7CA8AF13/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5400575877b6db1749e60ed87780A94A7CA8AF13/logo.png"
+    }
+  },
+  "name": "CoinFuns",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

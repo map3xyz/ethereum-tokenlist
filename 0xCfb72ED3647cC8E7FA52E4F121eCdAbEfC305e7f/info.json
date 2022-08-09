@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f18b208-1a70-4c06-b069-2548bcbf0556",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f/logo.png"
+    }
+  },
+  "name": "Flapp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

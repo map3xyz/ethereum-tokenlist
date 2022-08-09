@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92600087-8654-412b-9402-92b5a40653c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png"
+    }
+  },
+  "name": "Ternoa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

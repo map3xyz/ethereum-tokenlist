@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f329d9b2-fee7-40fb-871f-86a57b590eef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8483E2d6560585C02D46bF7B3186Bf154a96166/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8483E2d6560585C02D46bF7B3186Bf154a96166/logo.png"
+    }
+  },
+  "name": "IdeaChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

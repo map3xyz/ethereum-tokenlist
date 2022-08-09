@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd2d0f85B690604C245F61513bf4679b24ed64C35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0fc888b-5f2f-43d2-aab7-054a0f1214d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd2d0f85B690604C245F61513bf4679b24ed64C35/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd2d0f85B690604C245F61513bf4679b24ed64C35/logo.png"
+    }
+  },
+  "name": "BFDToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e8f1601-d400-4d03-a539-421a8be8d069",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5/logo.png"
+    }
+  },
+  "name": "Yearn2.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFI2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

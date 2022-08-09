@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "66946039-e2a7-4fb7-a5ad-c3b84514e648",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7/logo.png"
+    }
+  },
+  "name": "PRASM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PSM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

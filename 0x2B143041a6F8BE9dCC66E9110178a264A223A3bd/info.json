@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2B143041a6F8BE9dCC66E9110178a264A223A3bd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a54c3a5f-242b-448a-8119-bcfb8aff48e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2B143041a6F8BE9dCC66E9110178a264A223A3bd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2B143041a6F8BE9dCC66E9110178a264A223A3bd/logo.png"
+    }
+  },
+  "name": "Synth iBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73dD069c299A5d691E9836243BcaeC9c8C1D8734",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d322e2bb-c8d0-4bd2-950d-8ca429c8e148",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73dD069c299A5d691E9836243BcaeC9c8C1D8734/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73dD069c299A5d691E9836243BcaeC9c8C1D8734/logo.png"
+    }
+  },
+  "name": "Bitcoineum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x263c618480DBe35C300D8d5EcDA19bbB986AcaeD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b635cf3c-d446-4c97-a19c-f16694d428ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x263c618480DBe35C300D8d5EcDA19bbB986AcaeD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x263c618480DBe35C300D8d5EcDA19bbB986AcaeD/logo.png"
+    }
+  },
+  "name": "MOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

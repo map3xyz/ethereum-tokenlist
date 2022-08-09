@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5f51a196ED91Fb14E3B3650c30743675c9a429Be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86e3d99f-9259-463d-9c0d-805323ce2510",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f51a196ED91Fb14E3B3650c30743675c9a429Be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5f51a196ED91Fb14E3B3650c30743675c9a429Be/logo.png"
+    }
+  },
+  "name": "Bitcoin Solar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

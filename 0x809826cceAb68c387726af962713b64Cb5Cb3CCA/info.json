@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "70e17532-f94b-4561-8d86-ad5477047a38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x809826cceAb68c387726af962713b64Cb5Cb3CCA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x809826cceAb68c387726af962713b64Cb5Cb3CCA/logo.png"
+    }
+  },
+  "name": "NucleusVision",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "nCash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

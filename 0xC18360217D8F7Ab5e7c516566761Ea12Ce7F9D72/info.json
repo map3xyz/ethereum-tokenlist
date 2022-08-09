@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01ca58d0-7143-403c-b42c-3b4f88b9f176",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png"
+    }
+  },
+  "name": "Ethereum Name Service",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

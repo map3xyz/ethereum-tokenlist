@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd1a33c7-f17d-41bb-93cf-ff7f757a94d3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366/logo.png"
+    }
+  },
+  "name": "Seed of wisdom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

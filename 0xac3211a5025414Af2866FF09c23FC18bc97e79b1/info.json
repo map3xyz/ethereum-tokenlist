@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd1a3da8-ed9a-4534-85f5-cae24872cca1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xac3211a5025414Af2866FF09c23FC18bc97e79b1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac3211a5025414Af2866FF09c23FC18bc97e79b1/logo.png"
+    }
+  },
+  "name": "DOVU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

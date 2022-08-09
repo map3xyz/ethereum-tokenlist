@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7105eC15995A97496eC25de36CF7eEc47b703375",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ce21761-0c01-4870-9dc1-7371e874c9ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7105eC15995A97496eC25de36CF7eEc47b703375/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7105eC15995A97496eC25de36CF7eEc47b703375/logo.png"
+    }
+  },
+  "name": "Red Box Dapp Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

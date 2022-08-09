@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x013A06558f07d9E6F9A00c95a33f3a0E0255176b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "665287b1-ff8c-4bb3-83a6-28f56d2d3c03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x013A06558f07d9E6F9A00c95a33f3a0E0255176b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x013A06558f07d9E6F9A00c95a33f3a0E0255176b/logo.png"
+    }
+  },
+  "name": "BALI COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BALI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

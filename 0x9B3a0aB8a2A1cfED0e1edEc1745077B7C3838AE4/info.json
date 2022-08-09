@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9B3a0aB8a2A1cfED0e1edEc1745077B7C3838AE4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "00711c3c-a1b9-4608-854b-9ec487522d4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9B3a0aB8a2A1cfED0e1edEc1745077B7C3838AE4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9B3a0aB8a2A1cfED0e1edEc1745077B7C3838AE4/logo.png"
+    }
+  },
+  "name": "Black Sun Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

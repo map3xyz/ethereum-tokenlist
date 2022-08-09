@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56BE94D29e1125D2D61D06629c1b251d72c1b3B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec383765-6952-4772-80f2-0a21a25f0dea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56BE94D29e1125D2D61D06629c1b251d72c1b3B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56BE94D29e1125D2D61D06629c1b251d72c1b3B3/logo.png"
+    }
+  },
+  "name": "HUSTLE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUSL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

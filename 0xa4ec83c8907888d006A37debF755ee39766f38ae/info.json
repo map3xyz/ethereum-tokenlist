@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa4ec83c8907888d006A37debF755ee39766f38ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac3d51d0-d45f-4245-8a42-cd4f9089d3a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa4ec83c8907888d006A37debF755ee39766f38ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4ec83c8907888d006A37debF755ee39766f38ae/logo.png"
+    }
+  },
+  "name": "Global Currency Unit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

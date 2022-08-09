@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76e68f36-5e3e-4a99-b113-5ff67ae531f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489/logo.png"
+    }
+  },
+  "name": "MASTER USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

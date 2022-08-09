@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcAbf96A41a4D98EE91d4fb1004dC4B3b8548CB53",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e2a2f10b-db3d-44fa-9c7e-91c8bc46f989",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcAbf96A41a4D98EE91d4fb1004dC4B3b8548CB53/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcAbf96A41a4D98EE91d4fb1004dC4B3b8548CB53/logo.png"
+    }
+  },
+  "name": "BffDoom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

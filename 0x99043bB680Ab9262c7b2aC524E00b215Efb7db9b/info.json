@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "fe80b3b3-717d-4fe2-8a4d-2e0df5fa3bf5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b/logo.png"
+    }
+  },
+  "name": "Black Kishu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BISHU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

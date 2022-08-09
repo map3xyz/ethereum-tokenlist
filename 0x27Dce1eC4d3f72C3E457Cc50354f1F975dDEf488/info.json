@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1f3ea995-2ea8-4c46-9d38-ac514336ead8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488/logo.png"
+    }
+  },
+  "name": "AirToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

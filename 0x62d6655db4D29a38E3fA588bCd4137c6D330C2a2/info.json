@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45742978-c019-4439-877e-53e17e396f17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2/logo.png"
+    }
+  },
+  "name": "Hexa Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

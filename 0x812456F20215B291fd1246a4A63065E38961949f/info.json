@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x812456F20215B291fd1246a4A63065E38961949f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7041b7cb-ffc5-4e09-aaab-f39c48e547de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x812456F20215B291fd1246a4A63065E38961949f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x812456F20215B291fd1246a4A63065E38961949f/logo.png"
+    }
+  },
+  "name": "halo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "halo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

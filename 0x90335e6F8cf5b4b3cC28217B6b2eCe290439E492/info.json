@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90335e6F8cf5b4b3cC28217B6b2eCe290439E492",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a31a2ac9-c768-4cbe-aa35-762837ee9e7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90335e6F8cf5b4b3cC28217B6b2eCe290439E492/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90335e6F8cf5b4b3cC28217B6b2eCe290439E492/logo.png"
+    }
+  },
+  "name": "DragonGameCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

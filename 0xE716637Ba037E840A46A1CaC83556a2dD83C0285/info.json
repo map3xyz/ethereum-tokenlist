@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE716637Ba037E840A46A1CaC83556a2dD83C0285",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcb6e637-24ab-4679-b878-695960765af4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE716637Ba037E840A46A1CaC83556a2dD83C0285/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE716637Ba037E840A46A1CaC83556a2dD83C0285/logo.png"
+    }
+  },
+  "name": "CLOVYR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLOVYR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

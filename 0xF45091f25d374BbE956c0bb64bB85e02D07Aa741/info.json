@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF45091f25d374BbE956c0bb64bB85e02D07Aa741",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2737c48d-a0cc-4317-ae67-62e9697d0e09",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF45091f25d374BbE956c0bb64bB85e02D07Aa741/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF45091f25d374BbE956c0bb64bB85e02D07Aa741/logo.png"
+    }
+  },
+  "name": "MNMCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

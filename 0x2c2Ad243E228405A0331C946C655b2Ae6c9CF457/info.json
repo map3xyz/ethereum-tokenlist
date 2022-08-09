@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27b386f8-2339-4992-b922-6e1680fd66a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457/logo.png"
+    }
+  },
+  "name": "REVI Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

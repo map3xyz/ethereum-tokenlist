@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0775C81A273B355e6a5b76e240BF708701F00279",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "acdb884c-8ac2-48a0-87c0-afd81162949a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0775C81A273B355e6a5b76e240BF708701F00279/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0775C81A273B355e6a5b76e240BF708701F00279/logo.png"
+    }
+  },
+  "name": "Bulleon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

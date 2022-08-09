@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b32339af-7a50-4024-a6c2-1d57b023f15d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF433089366899D83a9f26A773D59ec7eCF30355e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF433089366899D83a9f26A773D59ec7eCF30355e/logo.png"
+    }
+  },
+  "name": "Metal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

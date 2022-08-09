@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4212FEa9FEc90236eCc51E41e2096B16CEB84555",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc691fac-2c97-4b2f-b271-c14142b366a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4212FEa9FEc90236eCc51E41e2096B16CEB84555/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4212FEa9FEc90236eCc51E41e2096B16CEB84555/logo.png"
+    }
+  },
+  "name": "Six Domain Asset",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

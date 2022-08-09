@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0407c5f-69fc-434d-92f0-9c6baf37d07e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec/logo.png"
+    }
+  },
+  "name": "Relevant",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

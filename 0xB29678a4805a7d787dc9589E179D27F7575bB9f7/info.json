@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB29678a4805a7d787dc9589E179D27F7575bB9f7",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "51751323-7c22-49d6-a6b2-70fbdaec9be1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB29678a4805a7d787dc9589E179D27F7575bB9f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB29678a4805a7d787dc9589E179D27F7575bB9f7/logo.png"
+    }
+  },
+  "name": "ArubaCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

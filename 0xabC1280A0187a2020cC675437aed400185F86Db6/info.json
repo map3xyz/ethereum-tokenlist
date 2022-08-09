@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xabC1280A0187a2020cC675437aed400185F86Db6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c37a8fd-46a6-42c6-9ffb-7ba9e56860fa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xabC1280A0187a2020cC675437aed400185F86Db6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xabC1280A0187a2020cC675437aed400185F86Db6/logo.png"
+    }
+  },
+  "name": "Smart Application Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC18e7a03f8986798323658dD8645f93aa79Ac5C9",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "927e95ce-b463-4406-82bb-10aac2fbf66c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC18e7a03f8986798323658dD8645f93aa79Ac5C9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC18e7a03f8986798323658dD8645f93aa79Ac5C9/logo.png"
+    }
+  },
+  "name": "American Akita",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USKITA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

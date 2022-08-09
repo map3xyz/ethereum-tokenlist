@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04d7f1b0-1c98-4cd8-a39e-f0215ccddc7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23/logo.png"
+    }
+  },
+  "name": "GlobCoin Crypto Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

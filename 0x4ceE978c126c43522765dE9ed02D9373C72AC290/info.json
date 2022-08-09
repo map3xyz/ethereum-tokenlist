@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4ceE978c126c43522765dE9ed02D9373C72AC290",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eca1ac2c-fdf4-4c51-bd72-0fed6410a6fa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4ceE978c126c43522765dE9ed02D9373C72AC290/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ceE978c126c43522765dE9ed02D9373C72AC290/logo.png"
+    }
+  },
+  "name": "Comet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COMET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

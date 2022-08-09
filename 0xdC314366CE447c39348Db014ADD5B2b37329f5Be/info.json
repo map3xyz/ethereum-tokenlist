@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdC314366CE447c39348Db014ADD5B2b37329f5Be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba259990-0a81-414f-beb6-b8685e74de03",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdC314366CE447c39348Db014ADD5B2b37329f5Be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdC314366CE447c39348Db014ADD5B2b37329f5Be/logo.png"
+    }
+  },
+  "name": "NOVUS1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NVS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

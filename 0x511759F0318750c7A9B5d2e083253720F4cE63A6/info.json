@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x511759F0318750c7A9B5d2e083253720F4cE63A6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "4ec7f5b3-cfe9-4ab5-9d24-4619c0da9777",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x511759F0318750c7A9B5d2e083253720F4cE63A6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x511759F0318750c7A9B5d2e083253720F4cE63A6/logo.png"
+    }
+  },
+  "name": "Wisely coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wise",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

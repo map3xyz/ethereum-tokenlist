@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBfE03707aDb75b478Add9A01978057803F480E44",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e3372da5-9e43-46e7-b81e-2cab8b073b51",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBfE03707aDb75b478Add9A01978057803F480E44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBfE03707aDb75b478Add9A01978057803F480E44/logo.png"
+    }
+  },
+  "name": "IMSMART",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

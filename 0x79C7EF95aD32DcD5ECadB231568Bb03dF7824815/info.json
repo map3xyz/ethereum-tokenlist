@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0de388b5-060b-4e28-8254-f2d24ac647cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815/logo.png"
+    }
+  },
+  "name": "Ariva",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARV",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

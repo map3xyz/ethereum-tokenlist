@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0eB43ce1708f415DfB1734A3F69a89403011A4C1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa9721df-596c-4939-8c92-d06da62b103b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0eB43ce1708f415DfB1734A3F69a89403011A4C1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0eB43ce1708f415DfB1734A3F69a89403011A4C1/logo.png"
+    }
+  },
+  "name": "zBitcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "zBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

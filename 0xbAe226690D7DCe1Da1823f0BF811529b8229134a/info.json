@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcc7ef61-d351-41c5-8be3-4378f145d62f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbAe226690D7DCe1Da1823f0BF811529b8229134a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbAe226690D7DCe1Da1823f0BF811529b8229134a/logo.png"
+    }
+  },
+  "name": "IMO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea10ba29-545a-4804-a733-6c95d01b5313",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A/logo.png"
+    }
+  },
+  "name": "Swapfolio",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

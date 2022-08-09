@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "89411319-ca9f-4e28-864c-277568da0fbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30323d8c5d4c8aFf1fd1Fd45918C837845431146/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30323d8c5d4c8aFf1fd1Fd45918C837845431146/logo.png"
+    }
+  },
+  "name": "Filepays",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

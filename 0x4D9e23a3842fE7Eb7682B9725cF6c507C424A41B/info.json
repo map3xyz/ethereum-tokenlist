@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D9e23a3842fE7Eb7682B9725cF6c507C424A41B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b22c730c-4ab8-4b59-9412-048ddb18874d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D9e23a3842fE7Eb7682B9725cF6c507C424A41B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D9e23a3842fE7Eb7682B9725cF6c507C424A41B/logo.png"
+    }
+  },
+  "name": "CarBlock.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

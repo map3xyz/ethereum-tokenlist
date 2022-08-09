@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b337ed9-a4b3-42a7-92c9-bc2ef09f05da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14/logo.png"
+    }
+  },
+  "name": "Uniswap V1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNI-V1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

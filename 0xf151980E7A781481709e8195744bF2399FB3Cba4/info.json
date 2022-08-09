@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf151980E7A781481709e8195744bF2399FB3Cba4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db13d7ea-ec98-49c2-9c77-7a45190cfa20",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf151980E7A781481709e8195744bF2399FB3Cba4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf151980E7A781481709e8195744bF2399FB3Cba4/logo.png"
+    }
+  },
+  "name": "Freeway Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

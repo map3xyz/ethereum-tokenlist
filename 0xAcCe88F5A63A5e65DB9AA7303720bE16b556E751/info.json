@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f98e452b-9427-4394-8ab9-d932058a83cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751/logo.png"
+    }
+  },
+  "name": "Coineal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

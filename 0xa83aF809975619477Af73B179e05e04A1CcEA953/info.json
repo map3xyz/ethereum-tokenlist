@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa83aF809975619477Af73B179e05e04A1CcEA953",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "064e05ee-f5ad-47cd-8b58-6b4e73710f76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa83aF809975619477Af73B179e05e04A1CcEA953/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa83aF809975619477Af73B179e05e04A1CcEA953/logo.png"
+    }
+  },
+  "name": "LEOcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LC4",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

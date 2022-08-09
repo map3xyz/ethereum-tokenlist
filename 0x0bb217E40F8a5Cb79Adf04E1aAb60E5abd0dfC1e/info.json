@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "337a0401-564d-4779-80bc-31c11b01a194",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e/logo.png"
+    }
+  },
+  "name": "SwftCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWFTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

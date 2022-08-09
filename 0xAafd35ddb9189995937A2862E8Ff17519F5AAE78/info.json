@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAafd35ddb9189995937A2862E8Ff17519F5AAE78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ff9fb66-117a-4686-a153-c770dddab461",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAafd35ddb9189995937A2862E8Ff17519F5AAE78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAafd35ddb9189995937A2862E8Ff17519F5AAE78/logo.png"
+    }
+  },
+  "name": "Golden Time of Life",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

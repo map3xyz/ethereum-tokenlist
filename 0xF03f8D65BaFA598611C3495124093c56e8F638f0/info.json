@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF03f8D65BaFA598611C3495124093c56e8F638f0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c93ce706-32c5-4470-bf48-600115da7c36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF03f8D65BaFA598611C3495124093c56e8F638f0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF03f8D65BaFA598611C3495124093c56e8F638f0/logo.png"
+    }
+  },
+  "name": "View Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIEW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

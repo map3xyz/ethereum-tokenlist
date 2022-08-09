@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E7Ebea68ab05198F771d77a875480314f1d0aae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2a086a5-6a61-4751-bc54-909ea2aaf8b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5E7Ebea68ab05198F771d77a875480314f1d0aae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E7Ebea68ab05198F771d77a875480314f1d0aae/logo.png"
+    }
+  },
+  "name": "DABANKING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

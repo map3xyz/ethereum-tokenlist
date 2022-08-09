@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0c07799C548Ba0C54467E30173764d2221b5E1db",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91f984d5-419c-45eb-a80f-00e73b84e4d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0c07799C548Ba0C54467E30173764d2221b5E1db/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c07799C548Ba0C54467E30173764d2221b5E1db/logo.png"
+    }
+  },
+  "name": "HQT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HQT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6195bf24-8b55-435b-bae4-2944fbe85997",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1Ca43a170BaD619322e6f54d46b57e504dB663aA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1Ca43a170BaD619322e6f54d46b57e504dB663aA/logo.png"
+    }
+  },
+  "name": "ARTWOOK Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

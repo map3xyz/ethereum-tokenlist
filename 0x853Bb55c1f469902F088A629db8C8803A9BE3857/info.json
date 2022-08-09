@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x853Bb55c1f469902F088A629db8C8803A9BE3857",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41560921-99de-4d43-be62-4cde6fdc5a46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x853Bb55c1f469902F088A629db8C8803A9BE3857/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x853Bb55c1f469902F088A629db8C8803A9BE3857/logo.png"
+    }
+  },
+  "name": "Stable 1inch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "one1inch",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

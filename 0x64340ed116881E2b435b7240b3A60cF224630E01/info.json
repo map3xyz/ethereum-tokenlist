@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64340ed116881E2b435b7240b3A60cF224630E01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fef0ea94-873b-4daf-ba0a-806313cf0f94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64340ed116881E2b435b7240b3A60cF224630E01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64340ed116881E2b435b7240b3A60cF224630E01/logo.png"
+    }
+  },
+  "name": "SIGMA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIGMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

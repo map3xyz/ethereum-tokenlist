@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "67c8553f-2361-4bd9-88fd-d8ab42649f32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a/logo.png"
+    }
+  },
+  "name": "Kelpie Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KELPIE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

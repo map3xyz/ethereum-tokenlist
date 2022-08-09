@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5372680b-1372-420e-a0f8-17e77f2264e1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE/logo.png"
+    }
+  },
+  "name": "IDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

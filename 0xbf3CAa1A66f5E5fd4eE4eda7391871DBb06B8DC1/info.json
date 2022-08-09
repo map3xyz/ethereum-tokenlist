@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf3CAa1A66f5E5fd4eE4eda7391871DBb06B8DC1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd11eb61-017a-4c99-963c-0ca22c48d91f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf3CAa1A66f5E5fd4eE4eda7391871DBb06B8DC1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf3CAa1A66f5E5fd4eE4eda7391871DBb06B8DC1/logo.png"
+    }
+  },
+  "name": "Btt Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

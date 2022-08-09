@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbcE7BD79558dda90B261506768f265c5543A9f90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3ca7c60-3666-461a-b025-95e3610982b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbcE7BD79558dda90B261506768f265c5543A9f90/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcE7BD79558dda90B261506768f265c5543A9f90/logo.png"
+    }
+  },
+  "name": "TKNT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

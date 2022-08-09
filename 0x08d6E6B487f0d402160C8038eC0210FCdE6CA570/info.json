@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08d6E6B487f0d402160C8038eC0210FCdE6CA570",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "92c7e69c-9ddf-48da-bead-53539e23500b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08d6E6B487f0d402160C8038eC0210FCdE6CA570/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08d6E6B487f0d402160C8038eC0210FCdE6CA570/logo.png"
+    }
+  },
+  "name": "Defi Gamble",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "dc675c86-1565-46bc-aaba-f2f8db22691a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650/logo.png"
+    }
+  },
+  "name": "Spiking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPIKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

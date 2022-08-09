@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDdD673bF7a211c40069F8B204ED01fAfB90c275a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db9e1f57-e67b-47af-9e69-1ceada2df60a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDdD673bF7a211c40069F8B204ED01fAfB90c275a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDdD673bF7a211c40069F8B204ED01fAfB90c275a/logo.png"
+    }
+  },
+  "name": "Chanel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHANEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb35bc48-d1fd-47af-a400-51cdf12421ba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCeD4E93198734dDaFf8492d525Bd258D49eb388E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCeD4E93198734dDaFf8492d525Bd258D49eb388E/logo.png"
+    }
+  },
+  "name": "Eidoo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

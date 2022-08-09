@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x267Ba09FE3a8a16c7dc8A9B07b5F2C4AC0aDf1c0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b3c0b872-a00d-4330-be14-4b41d35e884f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x267Ba09FE3a8a16c7dc8A9B07b5F2C4AC0aDf1c0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x267Ba09FE3a8a16c7dc8A9B07b5F2C4AC0aDf1c0/logo.png"
+    }
+  },
+  "name": "Bit Energy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

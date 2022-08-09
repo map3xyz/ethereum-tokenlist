@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa61f490-5149-4a9a-a220-5f98f0705963",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF/logo.png"
+    }
+  },
+  "name": "ChainBow.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

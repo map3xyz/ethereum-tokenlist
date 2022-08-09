@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb787d4eAc8899730bb8C57fc3c998c49c5244ec0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "67fb6308-c5f5-4532-9ca3-3ab84bc881e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb787d4eAc8899730bb8C57fc3c998c49c5244ec0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb787d4eAc8899730bb8C57fc3c998c49c5244ec0/logo.png"
+    }
+  },
+  "name": "CoinPulseToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

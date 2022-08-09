@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6cCB56947eA1d6eFdc81ACfbAcd8263DDFa9b202",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71aea137-4006-463e-a27b-d0325741ee14",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6cCB56947eA1d6eFdc81ACfbAcd8263DDFa9b202/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6cCB56947eA1d6eFdc81ACfbAcd8263DDFa9b202/logo.png"
+    }
+  },
+  "name": "Royal Kingdom Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x746DdA2ea243400D5a63e0700F190aB79f06489e",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "6e2a3ea3-de5a-4117-a8f7-a1ada9741870",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x746DdA2ea243400D5a63e0700F190aB79f06489e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x746DdA2ea243400D5a63e0700F190aB79f06489e/logo.png"
+    }
+  },
+  "name": "BOSAGORA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

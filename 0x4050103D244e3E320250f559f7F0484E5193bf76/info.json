@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4050103D244e3E320250f559f7F0484E5193bf76",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "08a98153-5ba3-4df6-ad8f-ee2d481c8b3a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4050103D244e3E320250f559f7F0484E5193bf76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4050103D244e3E320250f559f7F0484E5193bf76/logo.png"
+    }
+  },
+  "name": "BITSIFU COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

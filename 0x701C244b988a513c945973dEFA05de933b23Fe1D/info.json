@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21fdfb09-2841-43be-86f3-776925730e98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x701C244b988a513c945973dEFA05de933b23Fe1D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x701C244b988a513c945973dEFA05de933b23Fe1D/logo.png"
+    }
+  },
+  "name": "openANX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

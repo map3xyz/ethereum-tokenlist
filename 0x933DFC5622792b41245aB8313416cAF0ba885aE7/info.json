@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x933DFC5622792b41245aB8313416cAF0ba885aE7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3ae7f76-58c1-4669-aa9c-e83da3e354a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x933DFC5622792b41245aB8313416cAF0ba885aE7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x933DFC5622792b41245aB8313416cAF0ba885aE7/logo.png"
+    }
+  },
+  "name": "CoinBroker",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

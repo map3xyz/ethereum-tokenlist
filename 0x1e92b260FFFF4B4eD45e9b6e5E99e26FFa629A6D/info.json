@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1e92b260FFFF4B4eD45e9b6e5E99e26FFa629A6D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5e9731f7-055e-4077-95cc-005ffbd30cd5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1e92b260FFFF4B4eD45e9b6e5E99e26FFa629A6D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e92b260FFFF4B4eD45e9b6e5E99e26FFa629A6D/logo.png"
+    }
+  },
+  "name": "Statiz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STATIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

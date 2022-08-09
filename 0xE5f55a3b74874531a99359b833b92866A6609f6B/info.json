@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5f55a3b74874531a99359b833b92866A6609f6B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "25e61297-4e16-4997-93f7-c0185a9b5bd2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5f55a3b74874531a99359b833b92866A6609f6B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5f55a3b74874531a99359b833b92866A6609f6B/logo.png"
+    }
+  },
+  "name": "All The Smoke",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

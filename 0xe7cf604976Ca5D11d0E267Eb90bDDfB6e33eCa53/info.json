@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7cf604976Ca5D11d0E267Eb90bDDfB6e33eCa53",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b0922bbf-28b0-4a03-9201-ccb6b2be9095",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe7cf604976Ca5D11d0E267Eb90bDDfB6e33eCa53/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7cf604976Ca5D11d0E267Eb90bDDfB6e33eCa53/logo.png"
+    }
+  },
+  "name": "Tronipay Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRPG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

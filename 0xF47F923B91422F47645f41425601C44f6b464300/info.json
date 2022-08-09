@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF47F923B91422F47645f41425601C44f6b464300",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "79c2f127-c6aa-4c6a-8edc-1efc18196d63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF47F923B91422F47645f41425601C44f6b464300/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF47F923B91422F47645f41425601C44f6b464300/logo.png"
+    }
+  },
+  "name": "DAOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

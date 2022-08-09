@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7715a89-ef32-43e9-a9c8-24798ff6baab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7/logo.png"
+    }
+  },
+  "name": "BRAAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRAAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

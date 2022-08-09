@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "641a3cb0-bd44-44b4-87c6-1d0c5aab47b3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183/logo.png"
+    }
+  },
+  "name": "Niftyx Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHROOM",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

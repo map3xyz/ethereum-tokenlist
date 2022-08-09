@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42566cFEFC853c232117EbA4413e45782a72715d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "50a48454-9e83-4ff2-b9d9-85e833450335",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42566cFEFC853c232117EbA4413e45782a72715d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42566cFEFC853c232117EbA4413e45782a72715d/logo.png"
+    }
+  },
+  "name": "Krios Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

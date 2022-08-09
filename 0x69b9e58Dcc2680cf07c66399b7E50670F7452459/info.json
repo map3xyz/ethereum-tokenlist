@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69b9e58Dcc2680cf07c66399b7E50670F7452459",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "468aeb4d-6175-46fe-8709-cd06b4acb91c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x69b9e58Dcc2680cf07c66399b7E50670F7452459/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69b9e58Dcc2680cf07c66399b7E50670F7452459/logo.png"
+    }
+  },
+  "name": "Coinverter.info",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

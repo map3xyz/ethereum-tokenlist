@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc20464e0C373486d2B3335576e83a218b1618A5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d61204a-8f7e-4657-91af-be6ab26423cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc20464e0C373486d2B3335576e83a218b1618A5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc20464e0C373486d2B3335576e83a218b1618A5E/logo.png"
+    }
+  },
+  "name": "Datarius Credit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

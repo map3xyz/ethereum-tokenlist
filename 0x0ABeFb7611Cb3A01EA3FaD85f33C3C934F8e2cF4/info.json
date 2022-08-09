@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eeb3cb64-c59d-4ef5-a538-28c1b1f40d2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4/logo.png"
+    }
+  },
+  "name": "FARAD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

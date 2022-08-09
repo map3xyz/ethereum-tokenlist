@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23080dc1-e001-46f2-a040-c920f17f6b18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9/logo.png"
+    }
+  },
+  "name": "DigiMax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

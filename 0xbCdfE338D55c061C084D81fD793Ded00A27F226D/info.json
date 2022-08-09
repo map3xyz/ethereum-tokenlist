@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75329079-ec55-4a39-a383-26bc55bd8059",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbCdfE338D55c061C084D81fD793Ded00A27F226D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbCdfE338D55c061C084D81fD793Ded00A27F226D/logo.png"
+    }
+  },
+  "name": "DML Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DML",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

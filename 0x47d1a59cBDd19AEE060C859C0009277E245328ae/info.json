@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47d1a59cBDd19AEE060C859C0009277E245328ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86aebb8d-fbc1-41f2-9086-0ccc9cc6f773",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47d1a59cBDd19AEE060C859C0009277E245328ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47d1a59cBDd19AEE060C859C0009277E245328ae/logo.png"
+    }
+  },
+  "name": "Sonder",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

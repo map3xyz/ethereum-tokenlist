@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8069080a922834460C3A092FB2c1510224dc066b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d1f2273-28c7-4e4e-9fae-254fa024e754",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8069080a922834460C3A092FB2c1510224dc066b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8069080a922834460C3A092FB2c1510224dc066b/logo.png"
+    }
+  },
+  "name": "SpaceChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

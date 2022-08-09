@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ef3e94ac-5559-4e4c-8535-17a011218ddb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F/logo.png"
+    }
+  },
+  "name": "Wrapped TON Crystal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

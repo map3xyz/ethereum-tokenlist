@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE689a257e070b13a08104AEb995c95FEe1d87673",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c879bc12-70c8-46b6-a43a-49cb57683527",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE689a257e070b13a08104AEb995c95FEe1d87673/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE689a257e070b13a08104AEb995c95FEe1d87673/logo.png"
+    }
+  },
+  "name": "DarexTravel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

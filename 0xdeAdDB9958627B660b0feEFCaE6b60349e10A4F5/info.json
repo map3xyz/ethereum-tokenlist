@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdeAdDB9958627B660b0feEFCaE6b60349e10A4F5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f225fa1e-b698-4a4a-8e7e-93769343141d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdeAdDB9958627B660b0feEFCaE6b60349e10A4F5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdeAdDB9958627B660b0feEFCaE6b60349e10A4F5/logo.png"
+    }
+  },
+  "name": "DTOCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

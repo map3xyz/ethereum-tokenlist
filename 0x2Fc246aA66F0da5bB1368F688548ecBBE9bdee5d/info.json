@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb447f47-6505-4431-8073-0c3c85d79611",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d/logo.png"
+    }
+  },
+  "name": "TEMCO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEMCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

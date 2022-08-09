@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e459370-e4b5-4408-8158-43bd071207a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7/logo.png"
+    }
+  },
+  "name": "UTN-P: Universa Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTNP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

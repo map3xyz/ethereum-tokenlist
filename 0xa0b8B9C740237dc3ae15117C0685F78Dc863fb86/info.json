@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa0b8B9C740237dc3ae15117C0685F78Dc863fb86",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "49a8af80-9575-409d-b7f7-f4b988dfad24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0b8B9C740237dc3ae15117C0685F78Dc863fb86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa0b8B9C740237dc3ae15117C0685F78Dc863fb86/logo.png"
+    }
+  },
+  "name": "Warc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WARC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

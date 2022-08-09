@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1312555b-02b3-428d-80ae-0053cd7c08d5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4/logo.png"
+    }
+  },
+  "name": "InnovaMinex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

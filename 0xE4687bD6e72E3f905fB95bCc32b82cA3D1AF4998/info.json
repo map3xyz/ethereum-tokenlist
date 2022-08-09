@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE4687bD6e72E3f905fB95bCc32b82cA3D1AF4998",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc3a8f65-8723-4122-9ea3-433a80668557",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE4687bD6e72E3f905fB95bCc32b82cA3D1AF4998/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE4687bD6e72E3f905fB95bCc32b82cA3D1AF4998/logo.png"
+    }
+  },
+  "name": "ParaCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PARA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

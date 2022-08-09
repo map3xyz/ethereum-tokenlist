@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "70e10486-2f74-431f-aecf-0705c06e9ff8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x990f341946A3fdB507aE7e52d17851B87168017c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x990f341946A3fdB507aE7e52d17851B87168017c/logo.png"
+    }
+  },
+  "name": "Strong",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRONG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

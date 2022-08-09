@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4CDb966EA4A045d329D75C580E43Cf18e1C346CE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3523baa-d02e-4804-bb2a-978c5e72ddcf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4CDb966EA4A045d329D75C580E43Cf18e1C346CE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4CDb966EA4A045d329D75C580E43Cf18e1C346CE/logo.png"
+    }
+  },
+  "name": "RLW WIND TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RLW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

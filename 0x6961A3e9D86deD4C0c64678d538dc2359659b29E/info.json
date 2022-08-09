@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6961A3e9D86deD4C0c64678d538dc2359659b29E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20ad7fd7-8d35-4019-b704-c5fcf5c44246",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6961A3e9D86deD4C0c64678d538dc2359659b29E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6961A3e9D86deD4C0c64678d538dc2359659b29E/logo.png"
+    }
+  },
+  "name": "Qbean",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

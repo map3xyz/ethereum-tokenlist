@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEB9951021698B42e4399f9cBb6267Aa35F82D59D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "615116e5-55df-4dd3-93f3-efc24513ee63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEB9951021698B42e4399f9cBb6267Aa35F82D59D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEB9951021698B42e4399f9cBb6267Aa35F82D59D/logo.png"
+    }
+  },
+  "name": "Líf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

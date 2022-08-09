@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1BE9F6861D11f2fd363a75225040eDE6374b65bF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8d99853-c0e3-4662-8238-59b168eb6ccd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1BE9F6861D11f2fd363a75225040eDE6374b65bF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1BE9F6861D11f2fd363a75225040eDE6374b65bF/logo.png"
+    }
+  },
+  "name": "TokenTrezor.com",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

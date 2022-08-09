@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7b551d679606eE11862B0E9b2d354b53951fda93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37970f14-0150-4599-a3cb-2d0ff1f1a19e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7b551d679606eE11862B0E9b2d354b53951fda93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b551d679606eE11862B0E9b2d354b53951fda93/logo.png"
+    }
+  },
+  "name": "Hydrolic Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

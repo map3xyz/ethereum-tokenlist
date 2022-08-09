@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "7901c812-38a4-4fff-b592-a1e085256193",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c1796D1c17d9361314770D357Dc7B6Aa03b3a5D/logo.png"
+    }
+  },
+  "name": "EllisToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

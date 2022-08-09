@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x370DaE2AB60ECbc0EE793E837D94ca8040Dd6786",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "f831ef6f-a1c6-4a64-83a1-744bcdea2508",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x370DaE2AB60ECbc0EE793E837D94ca8040Dd6786/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x370DaE2AB60ECbc0EE793E837D94ca8040Dd6786/logo.png"
+    }
+  },
+  "name": "ness",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

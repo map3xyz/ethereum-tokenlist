@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b11628a0-a994-476e-8e56-f35e9a7f8261",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd/logo.png"
+    }
+  },
+  "name": "Blockburn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

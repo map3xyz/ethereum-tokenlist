@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4129D3b7a6A2c5C997774077aC02bDafd1AF1d6a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4910ff42-3c6f-48c6-b91a-03b7f2766fbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4129D3b7a6A2c5C997774077aC02bDafd1AF1d6a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4129D3b7a6A2c5C997774077aC02bDafd1AF1d6a/logo.png"
+    }
+  },
+  "name": "Ladder Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

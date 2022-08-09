@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20649d97b1393105cf92a5083fd2afF7C99eBe56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ea7f206-2b97-49c6-aea0-103526ce713f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20649d97b1393105cf92a5083fd2afF7C99eBe56/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20649d97b1393105cf92a5083fd2afF7C99eBe56/logo.png"
+    }
+  },
+  "name": "STBTCDaiRebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STBTCDai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

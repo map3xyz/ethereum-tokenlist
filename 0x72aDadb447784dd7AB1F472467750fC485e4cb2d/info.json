@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "6ba53f12-9cc5-4f20-88d3-2869cef062ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72aDadb447784dd7AB1F472467750fC485e4cb2d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72aDadb447784dd7AB1F472467750fC485e4cb2d/logo.png"
+    }
+  },
+  "name": "Worldcore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

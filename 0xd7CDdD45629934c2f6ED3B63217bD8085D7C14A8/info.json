@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7CDdD45629934c2f6ED3B63217bD8085D7C14A8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d66b9d4-c71d-49ec-adaf-24809014cf61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7CDdD45629934c2f6ED3B63217bD8085D7C14A8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7CDdD45629934c2f6ED3B63217bD8085D7C14A8/logo.png"
+    }
+  },
+  "name": "AVH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AVH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2838490518933215Eba9F90ecb27A9AbfF94B145",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e4012d3d-9ae6-4cc8-a222-69db9da02192",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2838490518933215Eba9F90ecb27A9AbfF94B145/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2838490518933215Eba9F90ecb27A9AbfF94B145/logo.png"
+    }
+  },
+  "name": "Ashurstcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

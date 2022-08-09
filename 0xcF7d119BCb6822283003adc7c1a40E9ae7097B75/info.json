@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcF7d119BCb6822283003adc7c1a40E9ae7097B75",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "a3a6eedd-5bac-4b98-84fc-ff97e87f2e10",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcF7d119BCb6822283003adc7c1a40E9ae7097B75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcF7d119BCb6822283003adc7c1a40E9ae7097B75/logo.png"
+    }
+  },
+  "name": "Star Pacific Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "💲PC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

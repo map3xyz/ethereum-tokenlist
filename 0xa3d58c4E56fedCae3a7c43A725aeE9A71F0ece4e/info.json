@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9888122d-0507-4882-b277-74ddb1fa7e2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e/logo.png"
+    }
+  },
+  "name": "Metronome",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcbE771323587EA16dACB6016e269D7F08A7ACC4E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d879a6c8-adc7-4f87-9fd6-4ca06f7c6f83",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcbE771323587EA16dACB6016e269D7F08A7ACC4E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbE771323587EA16dACB6016e269D7F08A7ACC4E/logo.png"
+    }
+  },
+  "name": "SPO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

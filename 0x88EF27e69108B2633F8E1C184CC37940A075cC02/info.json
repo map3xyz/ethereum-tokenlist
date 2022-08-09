@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88EF27e69108B2633F8E1C184CC37940A075cC02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6f22588-f796-4966-bb22-2b35ee59f3b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x88EF27e69108B2633F8E1C184CC37940A075cC02/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88EF27e69108B2633F8E1C184CC37940A075cC02/logo.png"
+    }
+  },
+  "name": "Dego Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

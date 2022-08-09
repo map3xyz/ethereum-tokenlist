@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "988ad4eb-46f1-48c3-9127-02b74e838fd0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D/logo.png"
+    }
+  },
+  "name": "Charity Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

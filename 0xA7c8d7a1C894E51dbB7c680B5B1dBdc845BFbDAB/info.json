@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7c8d7a1C894E51dbB7c680B5B1dBdc845BFbDAB",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "fa3c50df-6973-4e9e-8981-45f8a2802129",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7c8d7a1C894E51dbB7c680B5B1dBdc845BFbDAB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7c8d7a1C894E51dbB7c680B5B1dBdc845BFbDAB/logo.png"
+    }
+  },
+  "name": "SpeedKingToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

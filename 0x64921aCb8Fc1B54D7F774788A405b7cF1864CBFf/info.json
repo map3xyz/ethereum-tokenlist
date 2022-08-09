@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5be6c769-db28-4904-9020-8902fa6f27de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf/logo.png"
+    }
+  },
+  "name": "AFRICAN DIGITAL CURRENCY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

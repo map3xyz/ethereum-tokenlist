@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "760eb5ae-88a6-4e6e-b8bb-41ca92c035f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16484d73Ac08d2355F466d448D2b79D2039F6EBB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16484d73Ac08d2355F466d448D2b79D2039F6EBB/logo.png"
+    }
+  },
+  "name": "KnoxsterCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FKX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

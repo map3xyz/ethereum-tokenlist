@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35c7969e-1a25-4995-bb9c-186b7353f4ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7/logo.png"
+    }
+  },
+  "name": "Binance Wrapped FIL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

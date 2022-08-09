@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x567287d4f42086BEAb4b36De9Af21C70aDEc6760",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7aa242b5-ce87-44e3-98f0-9568a0803b3b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x567287d4f42086BEAb4b36De9Af21C70aDEc6760/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x567287d4f42086BEAb4b36De9Af21C70aDEc6760/logo.png"
+    }
+  },
+  "name": "Latino Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LATINO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

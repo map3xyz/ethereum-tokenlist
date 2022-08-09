@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x81DDbc1394c02D15946D76C16485b829Aa5CCc43",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31056072-d136-4d28-b6fc-badb44ee570e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x81DDbc1394c02D15946D76C16485b829Aa5CCc43/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81DDbc1394c02D15946D76C16485b829Aa5CCc43/logo.png"
+    }
+  },
+  "name": "Blackcard Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

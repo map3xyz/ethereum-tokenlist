@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9960f19d-69ba-460e-b782-b7953711dcc9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C/logo.png"
+    }
+  },
+  "name": "Mover",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

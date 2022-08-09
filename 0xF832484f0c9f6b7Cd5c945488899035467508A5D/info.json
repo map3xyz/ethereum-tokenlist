@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF832484f0c9f6b7Cd5c945488899035467508A5D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "777a7ae6-c40b-4fcb-b1bf-4ff962f4ba35",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF832484f0c9f6b7Cd5c945488899035467508A5D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF832484f0c9f6b7Cd5c945488899035467508A5D/logo.png"
+    }
+  },
+  "name": "CUZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

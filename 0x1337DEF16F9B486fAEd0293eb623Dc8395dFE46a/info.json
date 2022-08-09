@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6ec1cbb3-1cd6-4683-8f21-4c695bb043a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a/logo.png"
+    }
+  },
+  "name": "ARMOR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARMOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

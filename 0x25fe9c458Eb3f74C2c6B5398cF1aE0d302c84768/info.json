@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "ebdd8cef-244c-4e9a-99c7-878ffa5be187",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768/logo.png"
+    }
+  },
+  "name": "CouponOne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

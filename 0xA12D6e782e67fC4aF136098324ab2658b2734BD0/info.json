@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA12D6e782e67fC4aF136098324ab2658b2734BD0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a80e1c56-fd53-49a1-a624-ea3e57f73390",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA12D6e782e67fC4aF136098324ab2658b2734BD0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA12D6e782e67fC4aF136098324ab2658b2734BD0/logo.png"
+    }
+  },
+  "name": "MAZO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAZO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

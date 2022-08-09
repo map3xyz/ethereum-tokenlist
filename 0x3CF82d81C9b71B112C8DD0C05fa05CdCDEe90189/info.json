@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3CF82d81C9b71B112C8DD0C05fa05CdCDEe90189",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a73dce93-5f56-4cfe-a837-e43b670cd953",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3CF82d81C9b71B112C8DD0C05fa05CdCDEe90189/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3CF82d81C9b71B112C8DD0C05fa05CdCDEe90189/logo.png"
+    }
+  },
+  "name": "C19",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C19",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

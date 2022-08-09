@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03410a55d072C79C586Ff7B079a4dE0359A45BD5",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9d2889f8-631e-41cc-8106-65dfca49d3af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03410a55d072C79C586Ff7B079a4dE0359A45BD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03410a55d072C79C586Ff7B079a4dE0359A45BD5/logo.png"
+    }
+  },
+  "name": "VSmart",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

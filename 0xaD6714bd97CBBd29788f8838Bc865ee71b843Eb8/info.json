@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaD6714bd97CBBd29788f8838Bc865ee71b843Eb8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bf6b8600-c0b8-45a2-840e-aa3aae84ba25",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6714bd97CBBd29788f8838Bc865ee71b843Eb8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaD6714bd97CBBd29788f8838Bc865ee71b843Eb8/logo.png"
+    }
+  },
+  "name": "HODL Bucks",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDLB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

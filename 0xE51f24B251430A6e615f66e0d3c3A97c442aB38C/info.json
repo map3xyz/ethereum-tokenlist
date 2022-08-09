@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d916a464-131d-45ad-a4be-b72f7dc122fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE51f24B251430A6e615f66e0d3c3A97c442aB38C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE51f24B251430A6e615f66e0d3c3A97c442aB38C/logo.png"
+    }
+  },
+  "name": "ART Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

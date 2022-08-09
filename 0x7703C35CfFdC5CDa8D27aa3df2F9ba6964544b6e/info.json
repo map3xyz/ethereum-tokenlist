@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72f687d7-37c5-481c-9935-c3751bdc6f36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e/logo.png"
+    }
+  },
+  "name": "Pylon Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYLNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

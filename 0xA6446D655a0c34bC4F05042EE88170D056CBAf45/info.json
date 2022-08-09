@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86b619fa-7e8b-4899-a125-20c66183d42b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6446D655a0c34bC4F05042EE88170D056CBAf45/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6446D655a0c34bC4F05042EE88170D056CBAf45/logo.png"
+    }
+  },
+  "name": "Caspian Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

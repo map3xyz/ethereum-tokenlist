@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa698EbA92D194aB36A32EA3337c9976636f39dED",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3207645-17a7-4c25-9417-5cfb461eef34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa698EbA92D194aB36A32EA3337c9976636f39dED/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa698EbA92D194aB36A32EA3337c9976636f39dED/logo.png"
+    }
+  },
+  "name": "EtherCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

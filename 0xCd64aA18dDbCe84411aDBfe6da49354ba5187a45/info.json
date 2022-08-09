@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "22b70bff-1dd8-4b96-ad6f-a890ece895a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45/logo.png"
+    }
+  },
+  "name": "Korbot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KBOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

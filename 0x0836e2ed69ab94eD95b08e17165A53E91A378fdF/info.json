@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0836e2ed69ab94eD95b08e17165A53E91A378fdF",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "907baa1c-2ef2-42fd-a85f-5dee064e1492",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0836e2ed69ab94eD95b08e17165A53E91A378fdF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0836e2ed69ab94eD95b08e17165A53E91A378fdF/logo.png"
+    }
+  },
+  "name": "SureSAVER PRIZE-LINKED REWARD SAVINGS ACCOUNT TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAVER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

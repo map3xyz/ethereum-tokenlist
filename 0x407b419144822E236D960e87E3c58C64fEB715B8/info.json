@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x407b419144822E236D960e87E3c58C64fEB715B8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "30ed5247-36f7-474a-acfa-6d26fbe9f9eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x407b419144822E236D960e87E3c58C64fEB715B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x407b419144822E236D960e87E3c58C64fEB715B8/logo.png"
+    }
+  },
+  "name": "Platin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

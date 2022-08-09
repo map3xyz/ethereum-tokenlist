@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x50f31a45C1502B77c07Aa86698dB16ff3b35C333",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a629f8b2-3550-4f5b-8c6c-fadcff95bcc5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50f31a45C1502B77c07Aa86698dB16ff3b35C333/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50f31a45C1502B77c07Aa86698dB16ff3b35C333/logo.png"
+    }
+  },
+  "name": "INFOREX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IREX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

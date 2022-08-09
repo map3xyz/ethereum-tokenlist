@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54e5Fd5f3163709e0601A8EE09cf698F7019C9AE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1dcca832-9e21-4bdb-9661-5a04459589ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54e5Fd5f3163709e0601A8EE09cf698F7019C9AE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54e5Fd5f3163709e0601A8EE09cf698F7019C9AE/logo.png"
+    }
+  },
+  "name": "ORICToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

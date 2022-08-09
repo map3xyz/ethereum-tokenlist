@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0d3b5e9c-8f8d-4e64-9bfd-86a401149c57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7/logo.png"
+    }
+  },
+  "name": "arcane bear",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

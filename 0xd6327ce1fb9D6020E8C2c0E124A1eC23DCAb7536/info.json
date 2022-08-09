@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a11715a5-a729-4bd6-9a7d-598e40d461ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536/logo.png"
+    }
+  },
+  "name": "Cum Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUMINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

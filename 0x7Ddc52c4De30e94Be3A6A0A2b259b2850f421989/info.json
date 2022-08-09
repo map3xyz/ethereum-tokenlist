@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b61c1a2b-339e-4ff9-81a1-39105bb42ce3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989/logo.png"
+    }
+  },
+  "name": "GMT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

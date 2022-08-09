@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8380fc63-86ed-41e5-ab2b-6b98367c39f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD/logo.png"
+    }
+  },
+  "name": "Erosion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EROS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

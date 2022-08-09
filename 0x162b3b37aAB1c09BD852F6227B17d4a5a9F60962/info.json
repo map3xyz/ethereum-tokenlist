@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x162b3b37aAB1c09BD852F6227B17d4a5a9F60962",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "202a2dc2-2bdb-4521-a3db-9d8e3c4ce1e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x162b3b37aAB1c09BD852F6227B17d4a5a9F60962/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x162b3b37aAB1c09BD852F6227B17d4a5a9F60962/logo.png"
+    }
+  },
+  "name": "TradePowerDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

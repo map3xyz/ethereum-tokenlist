@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9F7c93EFB9FFAe7dFaC51FFb168a9a2C06afdB1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a7cf678-c539-4308-b0d2-3bece3fe5347",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9F7c93EFB9FFAe7dFaC51FFb168a9a2C06afdB1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9F7c93EFB9FFAe7dFaC51FFb168a9a2C06afdB1/logo.png"
+    }
+  },
+  "name": "Money Tree",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

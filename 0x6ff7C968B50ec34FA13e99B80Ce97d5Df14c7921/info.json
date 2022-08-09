@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6ff7C968B50ec34FA13e99B80Ce97d5Df14c7921",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9cd713fe-58fd-466c-ab3f-c5244c9d24b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6ff7C968B50ec34FA13e99B80Ce97d5Df14c7921/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6ff7C968B50ec34FA13e99B80Ce97d5Df14c7921/logo.png"
+    }
+  },
+  "name": "osimi.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

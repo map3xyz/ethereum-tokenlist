@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB147d66851Fa80CD40A51E81E16Da26bA4Ea6B0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ff7164b8-efef-4edb-83bb-bcf99ff4b793",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB147d66851Fa80CD40A51E81E16Da26bA4Ea6B0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB147d66851Fa80CD40A51E81E16Da26bA4Ea6B0/logo.png"
+    }
+  },
+  "name": "All Things Blockchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

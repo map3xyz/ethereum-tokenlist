@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75e1531b-a4a0-4f25-8efb-96c9c0a224df",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB/logo.png"
+    }
+  },
+  "name": "DEXTER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DXR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

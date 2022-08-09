@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "309eb300-930c-4008-a903-2cd93e3bad95",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C/logo.png"
+    }
+  },
+  "name": "Fountain 2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

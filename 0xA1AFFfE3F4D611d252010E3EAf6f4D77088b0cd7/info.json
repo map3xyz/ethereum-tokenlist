@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "aafd6f2b-41f4-456d-9837-2d74fabcc652",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7/logo.png"
+    }
+  },
+  "name": "reflect.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD4CffeeF10F60eCA581b5E1146B5Aca4194a4C3b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04da21c9-281d-4bab-a35d-4ecfd72e8219",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD4CffeeF10F60eCA581b5E1146B5Aca4194a4C3b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD4CffeeF10F60eCA581b5E1146B5Aca4194a4C3b/logo.png"
+    }
+  },
+  "name": "Decentralized Universal Basic Income",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

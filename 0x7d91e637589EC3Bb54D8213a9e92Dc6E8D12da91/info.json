@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "671cf4fd-2794-4461-8930-f3d667a56694",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91/logo.png"
+    }
+  },
+  "name": "FRIENDS WITH BENEFITS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FWB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

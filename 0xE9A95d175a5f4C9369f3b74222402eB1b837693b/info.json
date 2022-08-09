@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2dd2eec2-d6dd-4475-ae5a-afbac8339a6f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE9A95d175a5f4C9369f3b74222402eB1b837693b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE9A95d175a5f4C9369f3b74222402eB1b837693b/logo.png"
+    }
+  },
+  "name": "ChangeNOW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

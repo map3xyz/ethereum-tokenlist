@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD2Beb403A9856F9Ae83deab8dfcF286d7693010B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0de3760b-95d1-44b7-a3fd-33bd6dff95c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD2Beb403A9856F9Ae83deab8dfcF286d7693010B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD2Beb403A9856F9Ae83deab8dfcF286d7693010B/logo.png"
+    }
+  },
+  "name": "Cubefinex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

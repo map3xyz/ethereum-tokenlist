@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba20eb27-f8fd-44f3-a59a-2c36c145f42b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36/logo.png"
+    }
+  },
+  "name": "WhiteRockCasino",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

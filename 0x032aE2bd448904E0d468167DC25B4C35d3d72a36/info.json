@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x032aE2bd448904E0d468167DC25B4C35d3d72a36",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "18202faf-ffac-4cc4-95dc-738a9d74d642",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x032aE2bd448904E0d468167DC25B4C35d3d72a36/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x032aE2bd448904E0d468167DC25B4C35d3d72a36/logo.png"
+    }
+  },
+  "name": "fami.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

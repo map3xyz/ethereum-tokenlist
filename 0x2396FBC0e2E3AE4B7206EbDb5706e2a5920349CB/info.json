@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "590fe4c7-9986-48fd-89b0-efcd761c8650",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB/logo.png"
+    }
+  },
+  "name": "Color Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2fEf2Ce4A51033C6506A336963D59338b55F155",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72b3a1c2-82d2-42c2-b76e-8fc43319ee2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2fEf2Ce4A51033C6506A336963D59338b55F155/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2fEf2Ce4A51033C6506A336963D59338b55F155/logo.png"
+    }
+  },
+  "name": "Atalira",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

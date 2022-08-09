@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcE2834171F0FC397b46963E10331B38Ff635003d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b7b2925-a440-45bd-99de-39869fe5d0c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcE2834171F0FC397b46963E10331B38Ff635003d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcE2834171F0FC397b46963E10331B38Ff635003d/logo.png"
+    }
+  },
+  "name": "UTXO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

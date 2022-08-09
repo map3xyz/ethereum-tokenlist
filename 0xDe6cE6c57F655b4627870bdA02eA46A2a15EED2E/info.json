@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDe6cE6c57F655b4627870bdA02eA46A2a15EED2E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "22004f78-b1aa-4764-b232-ad0bc5025698",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDe6cE6c57F655b4627870bdA02eA46A2a15EED2E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDe6cE6c57F655b4627870bdA02eA46A2a15EED2E/logo.png"
+    }
+  },
+  "name": "EPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

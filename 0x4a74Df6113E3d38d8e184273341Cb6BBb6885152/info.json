@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4a74Df6113E3d38d8e184273341Cb6BBb6885152",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d011774-8270-465b-9c8b-4033f37d5a8f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a74Df6113E3d38d8e184273341Cb6BBb6885152/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a74Df6113E3d38d8e184273341Cb6BBb6885152/logo.png"
+    }
+  },
+  "name": "Leisure Resorts Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

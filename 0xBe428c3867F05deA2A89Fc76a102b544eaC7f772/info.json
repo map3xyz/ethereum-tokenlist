@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a32729c5-c8cf-420f-928c-5f55a011c1a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBe428c3867F05deA2A89Fc76a102b544eaC7f772/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBe428c3867F05deA2A89Fc76a102b544eaC7f772/logo.png"
+    }
+  },
+  "name": "CyberVeinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

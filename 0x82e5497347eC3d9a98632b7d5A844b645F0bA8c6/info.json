@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "880f122b-180a-4386-b93e-e48077c1a7a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6/logo.png"
+    }
+  },
+  "name": "RESCALTA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3e370A6c8255b065bD42bc0AC9255b269CFcC172",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "10a78b87-1408-4166-b240-f72980372565",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3e370A6c8255b065bD42bc0AC9255b269CFcC172/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3e370A6c8255b065bD42bc0AC9255b269CFcC172/logo.png"
+    }
+  },
+  "name": "Unipot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

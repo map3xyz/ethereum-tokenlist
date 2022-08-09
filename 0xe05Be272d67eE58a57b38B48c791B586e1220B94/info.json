@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe05Be272d67eE58a57b38B48c791B586e1220B94",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "efe3a112-a3c9-4ef6-9a9e-4ce640541650",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe05Be272d67eE58a57b38B48c791B586e1220B94/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe05Be272d67eE58a57b38B48c791B586e1220B94/logo.png"
+    }
+  },
+  "name": "RH123456",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

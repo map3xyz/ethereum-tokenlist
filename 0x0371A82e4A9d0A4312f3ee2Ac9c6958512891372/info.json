@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52fe393e-fab3-4bf7-9821-d777fd4935f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372/logo.png"
+    }
+  },
+  "name": "Student Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

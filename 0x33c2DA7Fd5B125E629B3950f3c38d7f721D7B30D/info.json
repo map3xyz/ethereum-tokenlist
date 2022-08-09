@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37761d16-47cd-4af4-b74d-10371bace2b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D/logo.png"
+    }
+  },
+  "name": "Seal Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Seal",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

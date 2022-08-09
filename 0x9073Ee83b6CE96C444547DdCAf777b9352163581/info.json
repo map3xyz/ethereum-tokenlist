@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9073Ee83b6CE96C444547DdCAf777b9352163581",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d4beeef-c8b7-4732-bc46-71071430e754",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9073Ee83b6CE96C444547DdCAf777b9352163581/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9073Ee83b6CE96C444547DdCAf777b9352163581/logo.png"
+    }
+  },
+  "name": "Synth sBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

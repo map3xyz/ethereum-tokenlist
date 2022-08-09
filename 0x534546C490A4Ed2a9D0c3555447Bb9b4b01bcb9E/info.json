@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x534546C490A4Ed2a9D0c3555447Bb9b4b01bcb9E",
+  "color": null,
+  "decimals": 17,
+  "description": null,
+  "id": "b79e82a8-3344-4572-b279-2214ead8d7a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x534546C490A4Ed2a9D0c3555447Bb9b4b01bcb9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x534546C490A4Ed2a9D0c3555447Bb9b4b01bcb9E/logo.png"
+    }
+  },
+  "name": "Yotro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YTRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

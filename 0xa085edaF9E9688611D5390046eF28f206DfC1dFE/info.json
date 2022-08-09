@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa085edaF9E9688611D5390046eF28f206DfC1dFE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a275969-85f7-49aa-a601-5daedcf469bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa085edaF9E9688611D5390046eF28f206DfC1dFE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa085edaF9E9688611D5390046eF28f206DfC1dFE/logo.png"
+    }
+  },
+  "name": "健康通证",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

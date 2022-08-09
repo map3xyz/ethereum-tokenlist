@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8aaa654e-463a-454b-ba87-156d2bca6e68",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26/logo.png"
+    }
+  },
+  "name": "TechEsportsCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE14A603f7c77d4101A87859b8736a04CFD85C688",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d0b5e76-e267-4474-ae12-050319a514b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE14A603f7c77d4101A87859b8736a04CFD85C688/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE14A603f7c77d4101A87859b8736a04CFD85C688/logo.png"
+    }
+  },
+  "name": "TENA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TENA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D13d624a87baa278733c068A174412AfA9ca6C8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e8a4a02-9fae-4169-9011-b426de962370",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D13d624a87baa278733c068A174412AfA9ca6C8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D13d624a87baa278733c068A174412AfA9ca6C8/logo.png"
+    }
+  },
+  "name": "Eterbase Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBASE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

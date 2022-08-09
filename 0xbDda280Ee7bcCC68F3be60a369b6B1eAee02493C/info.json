@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbDda280Ee7bcCC68F3be60a369b6B1eAee02493C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75fa60b4-fe13-4b44-8323-e2a5cc8a73cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbDda280Ee7bcCC68F3be60a369b6B1eAee02493C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbDda280Ee7bcCC68F3be60a369b6B1eAee02493C/logo.png"
+    }
+  },
+  "name": "BitoxTokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

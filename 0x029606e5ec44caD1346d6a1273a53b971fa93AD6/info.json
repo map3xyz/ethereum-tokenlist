@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x029606e5ec44caD1346d6a1273a53b971fa93AD6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b0a8533-478c-45b8-a7e9-c9f59cec9697",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x029606e5ec44caD1346d6a1273a53b971fa93AD6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x029606e5ec44caD1346d6a1273a53b971fa93AD6/logo.png"
+    }
+  },
+  "name": "empowr orange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMPRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

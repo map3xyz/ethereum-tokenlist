@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD6AeC49f2591cAe67d52c9Ead8c926EbaD54Ec69",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6a2aa7bd-6546-43ee-8b13-f8170069edb5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD6AeC49f2591cAe67d52c9Ead8c926EbaD54Ec69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD6AeC49f2591cAe67d52c9Ead8c926EbaD54Ec69/logo.png"
+    }
+  },
+  "name": "VLCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDaF8a0E12fc3b109A17ED5CbB943A8f3f86081f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8cf0ac75-b626-4f59-9f2a-b9fc61711b94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDaF8a0E12fc3b109A17ED5CbB943A8f3f86081f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDaF8a0E12fc3b109A17ED5CbB943A8f3f86081f7/logo.png"
+    }
+  },
+  "name": "SBX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

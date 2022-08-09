@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9cf539af-c0aa-4d28-bcde-1ef96ce0c174",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe/logo.png"
+    }
+  },
+  "name": "DSLA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DSLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

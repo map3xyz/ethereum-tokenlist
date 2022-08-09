@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe4aa52842a0d6752853DBE30eC5472eF4C8de7b7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "0b4e954e-6ea2-4e4d-ab93-3121f5134b76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe4aa52842a0d6752853DBE30eC5472eF4C8de7b7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe4aa52842a0d6752853DBE30eC5472eF4C8de7b7/logo.png"
+    }
+  },
+  "name": "EQR TEST mg4000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

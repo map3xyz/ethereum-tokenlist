@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49076f7c-0af0-4086-8cad-6bcab385e35e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x888666CA69E0f178DED6D75b5726Cee99A87D698/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x888666CA69E0f178DED6D75b5726Cee99A87D698/logo.png"
+    }
+  },
+  "name": "ICONOMI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

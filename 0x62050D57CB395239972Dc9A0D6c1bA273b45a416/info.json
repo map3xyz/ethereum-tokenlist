@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62050D57CB395239972Dc9A0D6c1bA273b45a416",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0277cd43-680f-4363-870f-c4fa6fa2a439",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62050D57CB395239972Dc9A0D6c1bA273b45a416/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62050D57CB395239972Dc9A0D6c1bA273b45a416/logo.png"
+    }
+  },
+  "name": "Retengo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

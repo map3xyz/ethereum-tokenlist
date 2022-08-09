@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6875274b000462F59e9327cbDe2cEf637914569",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7fb5ee66-bac4-46f8-9c49-cb2e8fb664eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6875274b000462F59e9327cbDe2cEf637914569/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6875274b000462F59e9327cbDe2cEf637914569/logo.png"
+    }
+  },
+  "name": "QUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

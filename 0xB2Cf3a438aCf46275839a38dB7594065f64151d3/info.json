@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a38a24a-bfd3-4465-9d44-81c4f6d03727",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB2Cf3a438aCf46275839a38dB7594065f64151d3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB2Cf3a438aCf46275839a38dB7594065f64151d3/logo.png"
+    }
+  },
+  "name": "TheWorldsAMine",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WRLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

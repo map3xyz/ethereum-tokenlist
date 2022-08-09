@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58FFeCe158216D694d33b1ca1A31b6E539D95523",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b40bf26-a79e-4dad-aaa2-1a3c24622d84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58FFeCe158216D694d33b1ca1A31b6E539D95523/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58FFeCe158216D694d33b1ca1A31b6E539D95523/logo.png"
+    }
+  },
+  "name": "CIXCA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

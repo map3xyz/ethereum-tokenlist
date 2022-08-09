@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d0fa211-d55e-48c0-bfac-50d9f0b4ee94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78/logo.png"
+    }
+  },
+  "name": "APIX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

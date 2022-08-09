@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f355aaa8-82cb-4d36-9b2c-6a3289860e63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF/logo.png"
+    }
+  },
+  "name": "HeroNodeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

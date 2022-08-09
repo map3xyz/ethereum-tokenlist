@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "644b174b-c155-4804-aef6-092a65ebbc7a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7/logo.png"
+    }
+  },
+  "name": "MEDX TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MEDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

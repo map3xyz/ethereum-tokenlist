@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x660e71483785f66133548B10f6926dC332b06e61",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29f5ec42-facf-44cd-8aba-4a9e847d19ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x660e71483785f66133548B10f6926dC332b06e61/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x660e71483785f66133548B10f6926dC332b06e61/logo.png"
+    }
+  },
+  "name": "Adelphoi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

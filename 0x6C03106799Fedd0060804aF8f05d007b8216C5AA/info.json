@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6C03106799Fedd0060804aF8f05d007b8216C5AA",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "afd093ef-268f-4c7b-9a9b-b9f970941e1e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6C03106799Fedd0060804aF8f05d007b8216C5AA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6C03106799Fedd0060804aF8f05d007b8216C5AA/logo.png"
+    }
+  },
+  "name": "DISDAT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DISDAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

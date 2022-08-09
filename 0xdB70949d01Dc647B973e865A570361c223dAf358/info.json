@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdB70949d01Dc647B973e865A570361c223dAf358",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c47d4553-76f8-4c6d-bb2a-800e49120c1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdB70949d01Dc647B973e865A570361c223dAf358/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdB70949d01Dc647B973e865A570361c223dAf358/logo.png"
+    }
+  },
+  "name": "BBG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

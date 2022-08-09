@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xce11D811C7BdbDDbbAADcF11668551205d23AD6e",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "aec543c1-0562-468e-81c2-6b1d8827be57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xce11D811C7BdbDDbbAADcF11668551205d23AD6e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xce11D811C7BdbDDbbAADcF11668551205d23AD6e/logo.png"
+    }
+  },
+  "name": "All Beauty Community Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

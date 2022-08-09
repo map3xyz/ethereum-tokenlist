@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44a718aC1bbfF570B8A0D9A25A0BA8f317e049b7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d2f55b2-3142-4bb9-b21a-82f7a2957337",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44a718aC1bbfF570B8A0D9A25A0BA8f317e049b7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44a718aC1bbfF570B8A0D9A25A0BA8f317e049b7/logo.png"
+    }
+  },
+  "name": "NuChainLink Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NuLINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

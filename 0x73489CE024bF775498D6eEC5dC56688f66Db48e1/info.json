@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73489CE024bF775498D6eEC5dC56688f66Db48e1",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e6048f8a-7c32-44a6-bfc6-a2e2fd88c9e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73489CE024bF775498D6eEC5dC56688f66Db48e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73489CE024bF775498D6eEC5dC56688f66Db48e1/logo.png"
+    }
+  },
+  "name": "Dollar Blocknote",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

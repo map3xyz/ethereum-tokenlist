@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "45c81f00-4891-4755-b57f-6b91ba900121",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9/logo.png"
+    }
+  },
+  "name": "CentFi Bank Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

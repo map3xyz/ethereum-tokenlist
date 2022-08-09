@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x283121b94F2Ab0a9a0E0Ef72Cd24fe8E9d3C65f0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa2a49c7-4f46-4498-bff7-d47ad412278f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x283121b94F2Ab0a9a0E0Ef72Cd24fe8E9d3C65f0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x283121b94F2Ab0a9a0E0Ef72Cd24fe8E9d3C65f0/logo.png"
+    }
+  },
+  "name": "JusticeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JUSTICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

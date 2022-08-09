@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52ee51fc-6059-4dbd-91ce-834b7bb37f97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78/logo.png"
+    }
+  },
+  "name": "BLOCKCLOUT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLOUT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

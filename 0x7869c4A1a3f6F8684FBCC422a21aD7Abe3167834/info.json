@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4030e1c4-fa2a-461e-9d52-d888e384c8c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834/logo.png"
+    }
+  },
+  "name": "Pivot Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

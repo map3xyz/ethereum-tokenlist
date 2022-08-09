@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cad860a9-862d-4200-8555-56606167641c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23/logo.png"
+    }
+  },
+  "name": "e-Money CHF stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECHF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

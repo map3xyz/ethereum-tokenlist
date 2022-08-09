@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5322A3556F979cE2180B30e689a9436fDDCB1021",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff6f2474-b9bc-4974-82ae-bfe1c200eeb5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5322A3556F979cE2180B30e689a9436fDDCB1021/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5322A3556F979cE2180B30e689a9436fDDCB1021/logo.png"
+    }
+  },
+  "name": "yTSLA Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yTSLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

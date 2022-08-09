@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9d36e813-4332-47d3-9665-8d35416d13e1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA/logo.png"
+    }
+  },
+  "name": "DMM: USDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mUSDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

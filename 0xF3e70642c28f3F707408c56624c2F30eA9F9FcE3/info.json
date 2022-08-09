@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF3e70642c28f3F707408c56624c2F30eA9F9FcE3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "62a9e6f2-a6a8-42c7-9851-06a32953ff4e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF3e70642c28f3F707408c56624c2F30eA9F9FcE3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF3e70642c28f3F707408c56624c2F30eA9F9FcE3/logo.png"
+    }
+  },
+  "name": "ALBOS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

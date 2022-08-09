@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a076326-d6d3-444c-8950-6f3fbc7d1924",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb/logo.png"
+    }
+  },
+  "name": "Neuromorphic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

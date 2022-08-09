@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd967d9F941CD316Ab238d3EE761F80b7cAec7819",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99ff8edf-7c51-4379-8a24-5adfb33a4f5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd967d9F941CD316Ab238d3EE761F80b7cAec7819/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd967d9F941CD316Ab238d3EE761F80b7cAec7819/logo.png"
+    }
+  },
+  "name": "Rendezvous",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

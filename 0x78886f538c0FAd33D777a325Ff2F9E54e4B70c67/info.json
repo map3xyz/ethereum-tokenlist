@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "4ff81ef4-8833-4772-9d40-12112805e906",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67/logo.png"
+    }
+  },
+  "name": "Dogethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

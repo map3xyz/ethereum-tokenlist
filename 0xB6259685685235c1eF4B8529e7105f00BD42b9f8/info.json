@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "3e412df7-5ef9-42c2-9c5b-1376021561c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6259685685235c1eF4B8529e7105f00BD42b9f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6259685685235c1eF4B8529e7105f00BD42b9f8/logo.png"
+    }
+  },
+  "name": "RRChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

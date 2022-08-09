@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x799d214d7143B766cDd4979cd0280939288ba931",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "02b6bc2e-48da-43b4-938f-da6ec10cfc25",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x799d214d7143B766cDd4979cd0280939288ba931/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x799d214d7143B766cDd4979cd0280939288ba931/logo.png"
+    }
+  },
+  "name": "Countinghouse Fund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

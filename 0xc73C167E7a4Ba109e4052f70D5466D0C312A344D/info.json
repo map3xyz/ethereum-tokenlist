@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc73C167E7a4Ba109e4052f70D5466D0C312A344D",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6e93763c-e8f1-4bc2-baf2-9623e3a42336",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc73C167E7a4Ba109e4052f70D5466D0C312A344D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc73C167E7a4Ba109e4052f70D5466D0C312A344D/logo.png"
+    }
+  },
+  "name": "Sanshu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SANSHU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

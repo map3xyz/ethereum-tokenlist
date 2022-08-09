@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecc5e14b-f824-417b-ad59-f2fcbc9e7e74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
+    }
+  },
+  "name": "Badger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BADGER",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

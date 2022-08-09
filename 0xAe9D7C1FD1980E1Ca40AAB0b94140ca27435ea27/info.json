@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb922e49-183b-4444-92c0-859fb2d4cab0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27/logo.png"
+    }
+  },
+  "name": "Tranquility Audit Security",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRANQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

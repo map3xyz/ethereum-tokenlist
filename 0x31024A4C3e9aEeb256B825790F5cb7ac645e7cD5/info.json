@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "59078be8-e96c-43a8-a93d-b0d131825a4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5/logo.png"
+    }
+  },
+  "name": "XIOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

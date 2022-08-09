@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3918C42F14F2eB1168365F911f63E540E5A306b5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0e2e92af-d037-4cf8-8c10-014dd8bfea32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3918C42F14F2eB1168365F911f63E540E5A306b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3918C42F14F2eB1168365F911f63E540E5A306b5/logo.png"
+    }
+  },
+  "name": "Neural Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

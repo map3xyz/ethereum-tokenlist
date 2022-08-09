@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c11a3cde-e0d6-4e1e-b5b9-483a3da7910f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB/logo.png"
+    }
+  },
+  "name": "Swap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

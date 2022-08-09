@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3200337-d4fa-4ad4-9ca6-1a169121a973",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c/logo.png"
+    }
+  },
+  "name": "SNSTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

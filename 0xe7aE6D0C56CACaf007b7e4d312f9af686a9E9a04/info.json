@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d5a9e97-d179-458f-b9a8-b9fb3ab50ba2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04/logo.png"
+    }
+  },
+  "name": "Vabble",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

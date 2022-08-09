@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9fb3dc93-29c9-423e-954c-38cee89606cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1/logo.png"
+    }
+  },
+  "name": "Indicoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

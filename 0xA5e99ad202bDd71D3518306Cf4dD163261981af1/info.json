@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5e99ad202bDd71D3518306Cf4dD163261981af1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8631ab14-213b-43d2-8188-09a8c375e22b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5e99ad202bDd71D3518306Cf4dD163261981af1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5e99ad202bDd71D3518306Cf4dD163261981af1/logo.png"
+    }
+  },
+  "name": "Community Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

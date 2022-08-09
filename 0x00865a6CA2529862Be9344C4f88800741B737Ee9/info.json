@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00865a6CA2529862Be9344C4f88800741B737Ee9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd10297b-0a06-4ad7-8ca4-a23db2eef8e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00865a6CA2529862Be9344C4f88800741B737Ee9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00865a6CA2529862Be9344C4f88800741B737Ee9/logo.png"
+    }
+  },
+  "name": "KOPEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

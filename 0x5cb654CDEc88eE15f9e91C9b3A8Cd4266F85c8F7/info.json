@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93af12d4-51d0-49d9-872f-c7a95d9cc93d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7/logo.png"
+    }
+  },
+  "name": "COINVR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

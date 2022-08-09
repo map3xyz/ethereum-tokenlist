@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x870bb7A60eb21f69077D2c38d3dE0542a5298E09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac63a13c-9bd9-4825-843b-bda2e32ad1ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x870bb7A60eb21f69077D2c38d3dE0542a5298E09/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x870bb7A60eb21f69077D2c38d3dE0542a5298E09/logo.png"
+    }
+  },
+  "name": "Global Finance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

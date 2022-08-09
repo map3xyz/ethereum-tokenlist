@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8d94296e7E171A98b199eca7F511311DDE6A8DB6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db58ecf4-ad30-4b71-85af-f47632105260",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8d94296e7E171A98b199eca7F511311DDE6A8DB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8d94296e7E171A98b199eca7F511311DDE6A8DB6/logo.png"
+    }
+  },
+  "name": "SquareX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SQX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

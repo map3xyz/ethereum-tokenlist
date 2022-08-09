@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "444f9303-ae5e-4d0f-b8da-7ea7d5f76a76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4/logo.png"
+    }
+  },
+  "name": "VALOBIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

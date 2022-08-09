@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x74658fB5f7fF3Bc7d70f7F792d53fd74f89dC055",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93c5d126-e5bb-4fbf-9369-7e033fedf0ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x74658fB5f7fF3Bc7d70f7F792d53fd74f89dC055/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x74658fB5f7fF3Bc7d70f7F792d53fd74f89dC055/logo.png"
+    }
+  },
+  "name": "MYTHIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D858bcd53E085920620549214a8b27CE2f04670",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25f7f75e-f27b-47c8-b9db-96a821366420",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D858bcd53E085920620549214a8b27CE2f04670/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D858bcd53E085920620549214a8b27CE2f04670/logo.png"
+    }
+  },
+  "name": "POP Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

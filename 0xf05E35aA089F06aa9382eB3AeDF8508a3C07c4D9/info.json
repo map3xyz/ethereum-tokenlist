@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "026cfdf2-1bf7-415b-b27b-a30bd412af71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9/logo.png"
+    }
+  },
+  "name": "Yugi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YUG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

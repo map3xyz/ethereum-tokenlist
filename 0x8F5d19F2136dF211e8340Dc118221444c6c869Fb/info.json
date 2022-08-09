@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8F5d19F2136dF211e8340Dc118221444c6c869Fb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b72609c2-233a-4bb4-a749-efb9d6e41fd1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F5d19F2136dF211e8340Dc118221444c6c869Fb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F5d19F2136dF211e8340Dc118221444c6c869Fb/logo.png"
+    }
+  },
+  "name": "Skrepit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

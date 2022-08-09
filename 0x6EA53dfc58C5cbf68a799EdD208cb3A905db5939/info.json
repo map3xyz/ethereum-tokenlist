@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6EA53dfc58C5cbf68a799EdD208cb3A905db5939",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5db40c4-8976-4787-bfce-5efd09a74745",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6EA53dfc58C5cbf68a799EdD208cb3A905db5939/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6EA53dfc58C5cbf68a799EdD208cb3A905db5939/logo.png"
+    }
+  },
+  "name": "EthereumeRush",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

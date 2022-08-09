@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6a073DdaBCaec5362B3D2A3290bE80B35397e48B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1983ad31-e32d-4264-86e0-ed086b67e220",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6a073DdaBCaec5362B3D2A3290bE80B35397e48B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a073DdaBCaec5362B3D2A3290bE80B35397e48B/logo.png"
+    }
+  },
+  "name": "Pistoletoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

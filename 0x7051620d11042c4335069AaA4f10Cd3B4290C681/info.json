@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7051620d11042c4335069AaA4f10Cd3B4290C681",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "90390002-e191-4c7f-871e-2b5e1e2ccafc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7051620d11042c4335069AaA4f10Cd3B4290C681/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7051620d11042c4335069AaA4f10Cd3B4290C681/logo.png"
+    }
+  },
+  "name": "Tcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

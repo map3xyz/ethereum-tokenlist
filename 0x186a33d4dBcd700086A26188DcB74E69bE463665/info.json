@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x186a33d4dBcd700086A26188DcB74E69bE463665",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9783130c-ca0b-4e20-b79d-93715d4f6d84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x186a33d4dBcd700086A26188DcB74E69bE463665/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x186a33d4dBcd700086A26188DcB74E69bE463665/logo.png"
+    }
+  },
+  "name": "7ELEVEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "7E",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

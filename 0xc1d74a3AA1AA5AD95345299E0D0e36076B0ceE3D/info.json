@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc1d74a3AA1AA5AD95345299E0D0e36076B0ceE3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "95bf9f8f-ec5c-4e6d-8736-f5ab3c106d5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc1d74a3AA1AA5AD95345299E0D0e36076B0ceE3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc1d74a3AA1AA5AD95345299E0D0e36076B0ceE3D/logo.png"
+    }
+  },
+  "name": "FacelightX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FHD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

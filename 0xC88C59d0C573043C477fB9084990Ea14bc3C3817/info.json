@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC88C59d0C573043C477fB9084990Ea14bc3C3817",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21c2a621-c408-483a-a9c3-40b3e6e82478",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC88C59d0C573043C477fB9084990Ea14bc3C3817/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC88C59d0C573043C477fB9084990Ea14bc3C3817/logo.png"
+    }
+  },
+  "name": "USDP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

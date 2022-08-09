@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58ca3065C0F24C7c96Aee8d6056b5B5deCf9c2f8",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "fedffb1e-7674-44ce-8e96-d3db3fe95e78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58ca3065C0F24C7c96Aee8d6056b5B5deCf9c2f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58ca3065C0F24C7c96Aee8d6056b5B5deCf9c2f8/logo.png"
+    }
+  },
+  "name": "GXC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

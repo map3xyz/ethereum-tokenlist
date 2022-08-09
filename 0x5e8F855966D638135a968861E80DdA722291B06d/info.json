@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5e8F855966D638135a968861E80DdA722291B06d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4f0f5dc-4dfd-40d8-880f-8000d1aed64a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5e8F855966D638135a968861E80DdA722291B06d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5e8F855966D638135a968861E80DdA722291B06d/logo.png"
+    }
+  },
+  "name": "Coinvest COIN V2 Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

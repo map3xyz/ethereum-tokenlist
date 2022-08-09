@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8a4c792-6896-433c-8c5a-c7f353db97e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651/logo.png"
+    }
+  },
+  "name": "Harvest Interest Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iFARM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

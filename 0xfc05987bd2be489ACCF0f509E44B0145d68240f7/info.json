@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c98aef2-14ae-4581-ad23-e53ad7c29f41",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfc05987bd2be489ACCF0f509E44B0145d68240f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc05987bd2be489ACCF0f509E44B0145d68240f7/logo.png"
+    }
+  },
+  "name": "ESSENTIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

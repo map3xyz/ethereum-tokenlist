@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25b553b8b8D88Af11e2f9B2798D944ad24139e09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da6c27c7-0a50-4b20-8b7b-c614da979398",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25b553b8b8D88Af11e2f9B2798D944ad24139e09/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25b553b8b8D88Af11e2f9B2798D944ad24139e09/logo.png"
+    }
+  },
+  "name": "Computer Graphic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

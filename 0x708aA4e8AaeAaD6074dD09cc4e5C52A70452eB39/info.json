@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3936e3af-01c1-4e9c-8a19-c081b8dbe844",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39/logo.png"
+    }
+  },
+  "name": "Bitcoffeen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BFF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

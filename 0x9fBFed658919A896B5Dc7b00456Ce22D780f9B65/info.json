@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b2bf25c-d0b7-4fdb-906d-38855768cd22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65/logo.png"
+    }
+  },
+  "name": "PlutusDeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

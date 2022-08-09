@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6097eb5-39c9-459e-8347-90d8a84224e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x5BEfBB272290dD5b8521D4a938f6c4757742c430/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5BEfBB272290dD5b8521D4a938f6c4757742c430/logo.png"
+    }
+  },
+  "name": "Xfinance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

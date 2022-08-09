@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78d0a435-b7c2-45e9-a6a5-642e58b70833",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624/logo.png"
+    }
+  },
+  "name": "PATRON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

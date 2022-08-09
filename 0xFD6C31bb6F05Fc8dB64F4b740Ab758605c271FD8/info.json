@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e5c2518-fa48-4dfb-92b6-cb3f7ecbab4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8/logo.png"
+    }
+  },
+  "name": "Contracoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

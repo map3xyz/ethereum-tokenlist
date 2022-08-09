@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8eb09a88-7b7e-4745-bc25-e8fb2b8e897b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5/logo.png"
+    }
+  },
+  "name": "Kuma Inu Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

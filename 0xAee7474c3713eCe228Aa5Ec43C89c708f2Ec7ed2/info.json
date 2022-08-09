@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7c10620-8987-485a-b7d3-034e6ddf572e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2/logo.png"
+    }
+  },
+  "name": "Alphaslot",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

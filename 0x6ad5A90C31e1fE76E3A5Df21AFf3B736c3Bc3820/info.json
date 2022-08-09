@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6ad5A90C31e1fE76E3A5Df21AFf3B736c3Bc3820",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a9f59ab4-fc8a-4efa-94d3-a996ebd032de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6ad5A90C31e1fE76E3A5Df21AFf3B736c3Bc3820/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6ad5A90C31e1fE76E3A5Df21AFf3B736c3Bc3820/logo.png"
+    }
+  },
+  "name": "Patent Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

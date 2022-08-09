@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9ea463Ec4cE9E9E5bc9cFd0187C4Ac3a70DD951D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbfe69e4-7ad5-4b76-9f77-1fd91d702763",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9ea463Ec4cE9E9E5bc9cFd0187C4Ac3a70DD951D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9ea463Ec4cE9E9E5bc9cFd0187C4Ac3a70DD951D/logo.png"
+    }
+  },
+  "name": "ETH 20 SMA Crossover Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETH20SMACO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

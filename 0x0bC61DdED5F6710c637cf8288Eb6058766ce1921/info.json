@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0bC61DdED5F6710c637cf8288Eb6058766ce1921",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a96eff4-4d6b-4265-a9f0-c6a71e6b1fc9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bC61DdED5F6710c637cf8288Eb6058766ce1921/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bC61DdED5F6710c637cf8288Eb6058766ce1921/logo.png"
+    }
+  },
+  "name": "CEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

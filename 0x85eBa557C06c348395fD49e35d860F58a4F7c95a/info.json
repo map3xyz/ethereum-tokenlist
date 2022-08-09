@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3a4c455-5078-4d64-9ed8-c80027055eb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85eBa557C06c348395fD49e35d860F58a4F7c95a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85eBa557C06c348395fD49e35d860F58a4F7c95a/logo.png"
+    }
+  },
+  "name": "H3X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "H3X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

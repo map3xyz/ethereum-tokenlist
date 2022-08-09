@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "5c32b954-75c8-43ca-a08d-02241861e0d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75/logo.png"
+    }
+  },
+  "name": "cUSD Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

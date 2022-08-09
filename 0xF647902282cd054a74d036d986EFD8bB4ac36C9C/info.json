@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF647902282cd054a74d036d986EFD8bB4ac36C9C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6459d118-ae16-463f-9121-b13b07d88996",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF647902282cd054a74d036d986EFD8bB4ac36C9C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF647902282cd054a74d036d986EFD8bB4ac36C9C/logo.png"
+    }
+  },
+  "name": "Bit-IDR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIIDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

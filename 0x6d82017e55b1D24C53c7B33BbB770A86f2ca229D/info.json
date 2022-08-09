@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4671060-808e-40aa-acb8-3fcb89fd16b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D/logo.png"
+    }
+  },
+  "name": "Stable FIL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneFIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f3e99e8-af82-4733-9840-a2dd5f017b9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee/logo.png"
+    }
+  },
+  "name": "PiedPiperCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

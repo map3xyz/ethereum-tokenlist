@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbF18F246B9301F231e9561B35A3879769BB46375",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "751e5c10-920f-4fb8-a133-154a373eefd1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF18F246B9301F231e9561B35A3879769BB46375/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbF18F246B9301F231e9561B35A3879769BB46375/logo.png"
+    }
+  },
+  "name": "Token Care",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CARE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

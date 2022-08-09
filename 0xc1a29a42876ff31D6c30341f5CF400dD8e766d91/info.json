@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc1a29a42876ff31D6c30341f5CF400dD8e766d91",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d67d7321-ccfc-48fe-b9d5-631328fbe4fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc1a29a42876ff31D6c30341f5CF400dD8e766d91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc1a29a42876ff31D6c30341f5CF400dD8e766d91/logo.png"
+    }
+  },
+  "name": "SetoCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

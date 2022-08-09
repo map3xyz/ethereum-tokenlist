@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea6393d81DC1871ad758b21CB8C72a410bA4f609",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a238c007-c6c3-4c72-bfcf-0b4a2011c2f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea6393d81DC1871ad758b21CB8C72a410bA4f609/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea6393d81DC1871ad758b21CB8C72a410bA4f609/logo.png"
+    }
+  },
+  "name": "CM - 0R797551",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

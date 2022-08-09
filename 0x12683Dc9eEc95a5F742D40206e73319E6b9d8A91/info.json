@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "796e0a87-4c6c-4e7d-8ae2-4e0464306a81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91/logo.png"
+    }
+  },
+  "name": "FAB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13f25cd52b21650caa8225C9942337d914C9B030",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5ee6b53-5767-4b89-b784-d46b04c812a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13f25cd52b21650caa8225C9942337d914C9B030/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13f25cd52b21650caa8225C9942337d914C9B030/logo.png"
+    }
+  },
+  "name": "realchain token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

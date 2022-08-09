@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "33ca08ac-14a3-4428-a651-1a0d3cc5c4ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606/logo.png"
+    }
+  },
+  "name": "Digital Reserve Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

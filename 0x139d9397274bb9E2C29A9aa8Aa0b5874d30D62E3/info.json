@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8a2c0e5-015d-4c95-8599-d724e12d77cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3/logo.png"
+    }
+  },
+  "name": "BoutsPro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOUTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

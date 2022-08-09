@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x023eBB622F461a15A344Edc45e6a5eabb5A68e03",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24e95fcb-4a9b-4965-ba40-b9c4d7a19522",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x023eBB622F461a15A344Edc45e6a5eabb5A68e03/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x023eBB622F461a15A344Edc45e6a5eabb5A68e03/logo.png"
+    }
+  },
+  "name": "DYX Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

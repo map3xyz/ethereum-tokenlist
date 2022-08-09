@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD2bb16cf38Ca086Cab5128D5c25DE9477eBD596B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f912348-1b19-4174-9721-a08af329049b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD2bb16cf38Ca086Cab5128D5c25DE9477eBD596B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD2bb16cf38Ca086Cab5128D5c25DE9477eBD596B/logo.png"
+    }
+  },
+  "name": "xCrypt Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

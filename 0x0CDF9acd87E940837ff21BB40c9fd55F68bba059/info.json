@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e9efb87-0432-43f9-85d6-d9a34d595094",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059/logo.png"
+    }
+  },
+  "name": "Public Mint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

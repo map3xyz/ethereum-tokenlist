@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1157c43c-2684-4545-8531-4e99029f75e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C/logo.png"
+    }
+  },
+  "name": "ZCore Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad9b0148-38cb-466d-8245-9c6d183f48fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A/logo.png"
+    }
+  },
+  "name": "Reality Clash Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

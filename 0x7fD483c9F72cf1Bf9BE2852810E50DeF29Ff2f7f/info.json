@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7fD483c9F72cf1Bf9BE2852810E50DeF29Ff2f7f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d462d95e-0523-4e92-97a6-8dd6036a203c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7fD483c9F72cf1Bf9BE2852810E50DeF29Ff2f7f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7fD483c9F72cf1Bf9BE2852810E50DeF29Ff2f7f/logo.png"
+    }
+  },
+  "name": "CotteToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

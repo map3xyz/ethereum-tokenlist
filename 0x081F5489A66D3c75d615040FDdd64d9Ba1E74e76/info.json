@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bef7de51-ff39-4e88-8c4c-7073f668048e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76/logo.png"
+    }
+  },
+  "name": "Natretix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

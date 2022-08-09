@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1d36d7d-d8d1-4460-b45c-950a23b40f81",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE66747a101bFF2dBA3697199DCcE5b743b454759/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE66747a101bFF2dBA3697199DCcE5b743b454759/logo.png"
+    }
+  },
+  "name": "Gatechain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

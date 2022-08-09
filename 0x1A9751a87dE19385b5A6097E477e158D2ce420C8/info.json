@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A9751a87dE19385b5A6097E477e158D2ce420C8",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c8914d38-2b6a-47ab-9810-4eb0e8820504",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A9751a87dE19385b5A6097E477e158D2ce420C8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A9751a87dE19385b5A6097E477e158D2ce420C8/logo.png"
+    }
+  },
+  "name": "KRISTORIUM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KRIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

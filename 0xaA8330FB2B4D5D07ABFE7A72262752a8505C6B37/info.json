@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "571878e0-51d7-4a1c-a526-8ad768b75eca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37/logo.png"
+    }
+  },
+  "name": "Polka City",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

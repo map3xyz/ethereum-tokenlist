@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x395f7bC771DB53732025547458f96Ee217aF6aD1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80fe527e-d56b-4424-a9dc-59377c7f4a4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x395f7bC771DB53732025547458f96Ee217aF6aD1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x395f7bC771DB53732025547458f96Ee217aF6aD1/logo.png"
+    }
+  },
+  "name": "ieo services",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ieos",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e76c4414-5a6c-4996-b00b-34d45b70df11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7/logo.png"
+    }
+  },
+  "name": "Jibrel Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5219D24CAa72040F055fC547Cc786a29e025E767",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ee87474-6911-479e-a2d7-f2f3a61085ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5219D24CAa72040F055fC547Cc786a29e025E767/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5219D24CAa72040F055fC547Cc786a29e025E767/logo.png"
+    }
+  },
+  "name": "Linden Lab",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LDL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

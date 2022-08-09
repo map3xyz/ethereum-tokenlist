@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "546169a5-fb6c-4aa0-ab4a-edb18317eb5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c/logo.png"
+    }
+  },
+  "name": "Yfi.mobi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFIM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec1c9dbd-6685-49e8-b3f2-a10a8b18123f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC/logo.png"
+    }
+  },
+  "name": "Non-Fungible Yearn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

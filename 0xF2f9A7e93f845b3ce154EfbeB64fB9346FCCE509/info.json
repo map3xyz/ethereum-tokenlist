@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cb61204-eb13-4b78-87fa-bafd714c2ad9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509/logo.png"
+    }
+  },
+  "name": "UniPower",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POWER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

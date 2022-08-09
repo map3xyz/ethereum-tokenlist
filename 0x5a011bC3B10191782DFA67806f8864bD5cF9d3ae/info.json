@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a011bC3B10191782DFA67806f8864bD5cF9d3ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a0ca5b4-e86d-4fb5-87c3-8e5eb7c7da77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5a011bC3B10191782DFA67806f8864bD5cF9d3ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a011bC3B10191782DFA67806f8864bD5cF9d3ae/logo.png"
+    }
+  },
+  "name": "SocialWorld",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

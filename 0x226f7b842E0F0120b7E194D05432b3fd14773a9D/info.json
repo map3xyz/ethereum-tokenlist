@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "38b60260-3846-4d59-a962-e4c1a10e0693",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x226f7b842E0F0120b7E194D05432b3fd14773a9D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x226f7b842E0F0120b7E194D05432b3fd14773a9D/logo.png"
+    }
+  },
+  "name": "UNION Protocol Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

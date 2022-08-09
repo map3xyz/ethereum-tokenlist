@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "216acc33-0841-4ecb-afa4-9da987ce8206",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F/logo.png"
+    }
+  },
+  "name": "CoinEx Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

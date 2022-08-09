@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5301Eae39a4cBa1CC2A74E861fDed062cA3E3420",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3580e5c-07cc-453d-895e-7af854cd0323",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5301Eae39a4cBa1CC2A74E861fDed062cA3E3420/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5301Eae39a4cBa1CC2A74E861fDed062cA3E3420/logo.png"
+    }
+  },
+  "name": "Centaure Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

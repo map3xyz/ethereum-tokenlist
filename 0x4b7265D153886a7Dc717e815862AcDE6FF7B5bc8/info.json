@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a5bf51b-599b-4f6c-b0e4-d75a668c6e34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8/logo.png"
+    }
+  },
+  "name": "DENCHCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DENCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

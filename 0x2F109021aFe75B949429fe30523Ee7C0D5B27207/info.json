@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b019d92-2aed-4af1-a9a4-904a0174085c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2F109021aFe75B949429fe30523Ee7C0D5B27207/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2F109021aFe75B949429fe30523Ee7C0D5B27207/logo.png"
+    }
+  },
+  "name": "Occam.Fi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

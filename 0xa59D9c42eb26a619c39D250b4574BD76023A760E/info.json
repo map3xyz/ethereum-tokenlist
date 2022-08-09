@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa59D9c42eb26a619c39D250b4574BD76023A760E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ff4d2963-8fa2-4900-a6e0-9faf79ce8f7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa59D9c42eb26a619c39D250b4574BD76023A760E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa59D9c42eb26a619c39D250b4574BD76023A760E/logo.png"
+    }
+  },
+  "name": "WoWCrypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

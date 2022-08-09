@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b519260-69f6-40ac-a61b-fa694c21dbae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01/logo.png"
+    }
+  },
+  "name": "ProToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

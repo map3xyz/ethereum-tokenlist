@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24FB4C36a83cbDbCd670856406f622E09A643d4d",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "44904fdf-a7f3-49f6-8907-05b1c5e99ed9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24FB4C36a83cbDbCd670856406f622E09A643d4d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24FB4C36a83cbDbCd670856406f622E09A643d4d/logo.png"
+    }
+  },
+  "name": "Hinto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

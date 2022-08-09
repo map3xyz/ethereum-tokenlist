@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7C918dF91f8F4e8D707a7A4013b8e7247C0293B1",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "9880286f-d67e-47d2-9f03-beab46ba9d60",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7C918dF91f8F4e8D707a7A4013b8e7247C0293B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C918dF91f8F4e8D707a7A4013b8e7247C0293B1/logo.png"
+    }
+  },
+  "name": "Feathers",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTHR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

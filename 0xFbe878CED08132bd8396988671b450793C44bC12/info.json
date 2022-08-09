@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFbe878CED08132bd8396988671b450793C44bC12",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "280476d3-3022-4c21-8304-e87db3674686",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFbe878CED08132bd8396988671b450793C44bC12/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFbe878CED08132bd8396988671b450793C44bC12/logo.png"
+    }
+  },
+  "name": "Fox Trading",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

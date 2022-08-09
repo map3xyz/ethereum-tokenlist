@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbADf67237e1b8Cb8481445220e86536E1648FE3e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "2ecbd7ad-e70c-4c1b-8907-64d12a705d22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbADf67237e1b8Cb8481445220e86536E1648FE3e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbADf67237e1b8Cb8481445220e86536E1648FE3e/logo.png"
+    }
+  },
+  "name": "Yoga Community Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOGEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB47e9b43eE0772aBaC3856a1ADF8f90C0e6c1067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc4ae325-d20d-4de4-9096-e08428ef046c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB47e9b43eE0772aBaC3856a1ADF8f90C0e6c1067/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB47e9b43eE0772aBaC3856a1ADF8f90C0e6c1067/logo.png"
+    }
+  },
+  "name": "Faxports Coins",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

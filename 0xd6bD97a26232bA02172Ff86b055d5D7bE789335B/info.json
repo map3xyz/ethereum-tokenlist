@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6bD97a26232bA02172Ff86b055d5D7bE789335B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35948ed3-81a4-4c27-83db-e7c38b72ce9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6bD97a26232bA02172Ff86b055d5D7bE789335B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6bD97a26232bA02172Ff86b055d5D7bE789335B/logo.png"
+    }
+  },
+  "name": "Ormeus Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

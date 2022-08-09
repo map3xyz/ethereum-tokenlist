@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0e2f40e9-5136-40ce-a19c-34eb66adc13d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42726d074BBa68Ccc15200442B72Afa2D495A783/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42726d074BBa68Ccc15200442B72Afa2D495A783/logo.png"
+    }
+  },
+  "name": "Isik Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ISIKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

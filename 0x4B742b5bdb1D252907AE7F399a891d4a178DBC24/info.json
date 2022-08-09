@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42bc1bf0-50e6-4620-93df-a8b778b3f8e1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24/logo.png"
+    }
+  },
+  "name": "B One Payment",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B1P",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

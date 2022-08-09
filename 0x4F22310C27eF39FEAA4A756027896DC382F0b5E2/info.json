@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4F22310C27eF39FEAA4A756027896DC382F0b5E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f452197-60c0-438a-a8ab-2791d82c3652",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F22310C27eF39FEAA4A756027896DC382F0b5E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4F22310C27eF39FEAA4A756027896DC382F0b5E2/logo.png"
+    }
+  },
+  "name": "SPIN Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

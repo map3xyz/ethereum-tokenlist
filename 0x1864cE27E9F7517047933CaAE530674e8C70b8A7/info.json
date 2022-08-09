@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91857afc-66c0-4cc8-bf4f-d4863e2837fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1864cE27E9F7517047933CaAE530674e8C70b8A7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1864cE27E9F7517047933CaAE530674e8C70b8A7/logo.png"
+    }
+  },
+  "name": "Pibble Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x1fC52f1ABade452Dd4674477D4711951700b3d27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57af5967-60ec-4527-a0f8-f00d36b03885",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1fC52f1ABade452Dd4674477D4711951700b3d27/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "NOKU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Old NOKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x66186008C1050627F979d464eABb258860563dbE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae3ddc5b-d202-4fe7-955a-7008b379d5f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x66186008C1050627F979d464eABb258860563dbE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66186008C1050627F979d464eABb258860563dbE/logo.png"
+    }
+  },
+  "name": "MediShares Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

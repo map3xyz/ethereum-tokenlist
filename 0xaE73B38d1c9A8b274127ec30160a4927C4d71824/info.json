@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bf5c0794-f670-4b1b-81ee-405855622779",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaE73B38d1c9A8b274127ec30160a4927C4d71824/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaE73B38d1c9A8b274127ec30160a4927C4d71824/logo.png"
+    }
+  },
+  "name": "STK Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

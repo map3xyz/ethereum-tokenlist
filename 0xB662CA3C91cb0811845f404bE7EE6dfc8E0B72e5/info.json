@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB662CA3C91cb0811845f404bE7EE6dfc8E0B72e5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "341aaa2e-3f0e-486e-afb6-bdddfee3efb3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB662CA3C91cb0811845f404bE7EE6dfc8E0B72e5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB662CA3C91cb0811845f404bE7EE6dfc8E0B72e5/logo.png"
+    }
+  },
+  "name": "Hack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

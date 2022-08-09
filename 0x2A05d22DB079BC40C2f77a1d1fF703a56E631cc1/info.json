@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2A05d22DB079BC40C2f77a1d1fF703a56E631cc1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bb311ade-6891-44a5-bf43-6128ca8fe824",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2A05d22DB079BC40C2f77a1d1fF703a56E631cc1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2A05d22DB079BC40C2f77a1d1fF703a56E631cc1/logo.png"
+    }
+  },
+  "name": "BitAsean",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

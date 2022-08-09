@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26B5410f3F4db08c99955f9cd67B40dB8008f425",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b66145ad-781c-4c3b-88da-c4b417c27b63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26B5410f3F4db08c99955f9cd67B40dB8008f425/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x26B5410f3F4db08c99955f9cd67B40dB8008f425/logo.png"
+    }
+  },
+  "name": "FishOne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

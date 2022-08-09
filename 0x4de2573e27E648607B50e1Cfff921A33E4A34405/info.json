@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09386179-a914-479e-9b19-36f8a335bf1a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4de2573e27E648607B50e1Cfff921A33E4A34405/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4de2573e27E648607B50e1Cfff921A33E4A34405/logo.png"
+    }
+  },
+  "name": "Lendroid Support Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

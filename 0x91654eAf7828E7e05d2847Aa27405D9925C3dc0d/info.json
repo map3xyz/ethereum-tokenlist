@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "0e1c850e-8a34-46a8-b3b4-9c6b1b5f665e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d/logo.png"
+    }
+  },
+  "name": "Ubiquitous Business Credit 2.0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

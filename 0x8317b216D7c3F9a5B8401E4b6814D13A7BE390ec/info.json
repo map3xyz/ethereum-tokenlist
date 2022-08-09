@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2c901dbd-34ee-48cb-806f-283a03c29241",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec/logo.png"
+    }
+  },
+  "name": "EXNCE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac7c756a-2dba-4ae3-ada6-f85ba807b8b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7/logo.png"
+    }
+  },
+  "name": "Swace",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

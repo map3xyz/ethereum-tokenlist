@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e03514b0-6a58-4d8b-8f97-d2bdbc2e4d31",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab/logo.png"
+    }
+  },
+  "name": "DATx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

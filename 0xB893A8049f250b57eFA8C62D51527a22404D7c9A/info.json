@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB893A8049f250b57eFA8C62D51527a22404D7c9A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "afd012e9-0ccd-43b3-8d63-5c1b2232c172",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png"
+    }
+  },
+  "name": "American Shiba (USHIBA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

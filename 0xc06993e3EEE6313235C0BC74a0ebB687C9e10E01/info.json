@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc06993e3EEE6313235C0BC74a0ebB687C9e10E01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93731fe5-f0e3-4e86-a1bc-a7874133515e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc06993e3EEE6313235C0BC74a0ebB687C9e10E01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc06993e3EEE6313235C0BC74a0ebB687C9e10E01/logo.png"
+    }
+  },
+  "name": "AZ Signals",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AZS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

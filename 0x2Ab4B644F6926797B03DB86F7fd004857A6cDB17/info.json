@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c727372-21e1-44c9-ae55-fa9a2679d0d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17/logo.png"
+    }
+  },
+  "name": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDShare",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

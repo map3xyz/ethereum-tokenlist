@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x63b619A040CcE5f90c12b230d7258E5809E91082",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3cd767f-6778-4eeb-b32d-b66b2027fe65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x63b619A040CcE5f90c12b230d7258E5809E91082/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63b619A040CcE5f90c12b230d7258E5809E91082/logo.png"
+    }
+  },
+  "name": "Investment Kingdom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

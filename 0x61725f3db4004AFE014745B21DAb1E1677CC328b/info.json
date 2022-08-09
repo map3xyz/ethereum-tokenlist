@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa1fafdd-2a02-402f-8891-dca074c6c93d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61725f3db4004AFE014745B21DAb1E1677CC328b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61725f3db4004AFE014745B21DAb1E1677CC328b/logo.png"
+    }
+  },
+  "name": "Digital Asset Exchange Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

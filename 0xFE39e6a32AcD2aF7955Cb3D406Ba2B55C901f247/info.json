@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e3acdc2-898f-4735-9273-e8fafb0b18b6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247/logo.png"
+    }
+  },
+  "name": "ZBG Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

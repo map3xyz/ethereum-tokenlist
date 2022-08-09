@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA824caa1Daf7e88A6650630CC8b23FF90946D329",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e57d1db-422b-4ccf-92b3-5aa06c70b69c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA824caa1Daf7e88A6650630CC8b23FF90946D329/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA824caa1Daf7e88A6650630CC8b23FF90946D329/logo.png"
+    }
+  },
+  "name": "DigiPeso",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

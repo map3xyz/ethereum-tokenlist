@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49bD2DA75b1F7AF1E4dFd6b1125FEcDe59dBec58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3590011-6d9d-4860-b824-6624587a7010",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49bD2DA75b1F7AF1E4dFd6b1125FEcDe59dBec58/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49bD2DA75b1F7AF1E4dFd6b1125FEcDe59dBec58/logo.png"
+    }
+  },
+  "name": "Linkey Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LKY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

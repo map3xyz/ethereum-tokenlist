@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c287862d-2c6f-4a3d-b3b8-ec603b9483b3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8/logo.png"
+    }
+  },
+  "name": "PoaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

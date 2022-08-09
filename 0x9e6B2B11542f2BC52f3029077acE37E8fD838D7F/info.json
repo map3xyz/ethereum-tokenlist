@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e6B2B11542f2BC52f3029077acE37E8fD838D7F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d87e679c-a3b0-4e62-887c-d1ab8f47d3fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e6B2B11542f2BC52f3029077acE37E8fD838D7F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e6B2B11542f2BC52f3029077acE37E8fD838D7F/logo.png"
+    }
+  },
+  "name": "Hacken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

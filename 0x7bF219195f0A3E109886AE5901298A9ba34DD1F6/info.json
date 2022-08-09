@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7bF219195f0A3E109886AE5901298A9ba34DD1F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "240a8e16-35df-494d-9df5-8118cf3a398d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7bF219195f0A3E109886AE5901298A9ba34DD1F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bF219195f0A3E109886AE5901298A9ba34DD1F6/logo.png"
+    }
+  },
+  "name": "VAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

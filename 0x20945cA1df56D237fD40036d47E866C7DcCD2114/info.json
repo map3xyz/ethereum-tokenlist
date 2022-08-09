@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c33ed13-623e-4cab-8d45-125d48130eec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20945cA1df56D237fD40036d47E866C7DcCD2114/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20945cA1df56D237fD40036d47E866C7DcCD2114/logo.png"
+    }
+  },
+  "name": "Nsure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Nsure",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

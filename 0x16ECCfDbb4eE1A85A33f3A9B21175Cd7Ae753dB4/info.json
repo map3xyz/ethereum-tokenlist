@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "136e2632-073f-4f05-b8a2-dee954f98307",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
+    }
+  },
+  "name": "Route",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROUTE",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

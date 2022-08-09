@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ef4ebef-9334-4ecc-b2ae-60d4d6cccadd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0/logo.png"
+    }
+  },
+  "name": "Bird.Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

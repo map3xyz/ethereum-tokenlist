@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "e33d76e8-a4ba-4d6d-81f5-d88141c65bc7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba/logo.png"
+    }
+  },
+  "name": "App Alliance Association",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AAA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

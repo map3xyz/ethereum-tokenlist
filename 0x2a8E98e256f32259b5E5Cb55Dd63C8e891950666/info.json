@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2a8E98e256f32259b5E5Cb55Dd63C8e891950666",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "572ec4a5-1f11-4055-957f-62b42fc5694e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2a8E98e256f32259b5E5Cb55Dd63C8e891950666/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2a8E98e256f32259b5E5Cb55Dd63C8e891950666/logo.png"
+    }
+  },
+  "name": "ParrotCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

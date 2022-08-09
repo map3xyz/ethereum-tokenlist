@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x611c74310a06B10593E073aFFe4Ea543b793f539",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "04176772-6da2-4d05-8ab1-264ca300006b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x611c74310a06B10593E073aFFe4Ea543b793f539/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x611c74310a06B10593E073aFFe4Ea543b793f539/logo.png"
+    }
+  },
+  "name": "FinCrypChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

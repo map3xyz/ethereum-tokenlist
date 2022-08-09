@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1e413d8-07f5-432f-8fe9-c28a20dd71c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38/logo.png"
+    }
+  },
+  "name": "Morpher Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

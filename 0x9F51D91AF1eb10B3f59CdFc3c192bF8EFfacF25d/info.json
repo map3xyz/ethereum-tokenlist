@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F51D91AF1eb10B3f59CdFc3c192bF8EFfacF25d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee47d8e2-4f7c-400b-a81f-601a5da6eee7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9F51D91AF1eb10B3f59CdFc3c192bF8EFfacF25d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F51D91AF1eb10B3f59CdFc3c192bF8EFfacF25d/logo.png"
+    }
+  },
+  "name": "LYB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

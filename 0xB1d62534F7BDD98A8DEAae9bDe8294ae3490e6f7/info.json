@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73f58a7b-1a8b-4016-ba52-d9938cd47d29",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7/logo.png"
+    }
+  },
+  "name": "FIlmNeverDie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc99b716-ac20-46ce-8268-4b82c4090aff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C/logo.png"
+    }
+  },
+  "name": "smol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

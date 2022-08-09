@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7e71e64-6319-4357-89b1-91e1b5aac8e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
+    }
+  },
+  "name": "FOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

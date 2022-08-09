@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcC16745A1773dD95aB9Ed98599b8D9B835e42E25",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f667b646-6343-421a-a6b7-dfd569644c04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcC16745A1773dD95aB9Ed98599b8D9B835e42E25/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcC16745A1773dD95aB9Ed98599b8D9B835e42E25/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Long LINK-DAI 4x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLLINK4x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b46c8ee6-8b19-4925-918f-fa17aef2540d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
+    }
+  },
+  "name": "DAOstack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

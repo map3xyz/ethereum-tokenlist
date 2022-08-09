@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5A07db85AA330Bb0E333018722bFA4b65B6009cB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7f0a8bab-87fa-42d9-b371-7cf113b08c73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A07db85AA330Bb0E333018722bFA4b65B6009cB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5A07db85AA330Bb0E333018722bFA4b65B6009cB/logo.png"
+    }
+  },
+  "name": "MHIMG1-17/30M17",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

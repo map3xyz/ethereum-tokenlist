@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x840fe75ABfaDc0F2d54037829571B2782e919ce4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65f4a82b-d99e-4820-a548-122eaec49783",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x840fe75ABfaDc0F2d54037829571B2782e919ce4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x840fe75ABfaDc0F2d54037829571B2782e919ce4/logo.png"
+    }
+  },
+  "name": "Webcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WEB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

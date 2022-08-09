@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c83d10a-a0a9-4c3e-8e12-ed7f33ea00a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527/logo.png"
+    }
+  },
+  "name": "Bitcoinus Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BITS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

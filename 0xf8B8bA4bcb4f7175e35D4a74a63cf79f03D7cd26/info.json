@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8B8bA4bcb4f7175e35D4a74a63cf79f03D7cd26",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "73a54f06-19db-476c-bf89-5e9137d47a5e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8B8bA4bcb4f7175e35D4a74a63cf79f03D7cd26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8B8bA4bcb4f7175e35D4a74a63cf79f03D7cd26/logo.png"
+    }
+  },
+  "name": "LovelyBonz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LVLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

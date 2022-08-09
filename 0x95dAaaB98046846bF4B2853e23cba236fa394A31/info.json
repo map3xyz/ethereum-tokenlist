@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e0ccb9cd-1b3f-46c9-b6e4-eef07faf129f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95dAaaB98046846bF4B2853e23cba236fa394A31/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95dAaaB98046846bF4B2853e23cba236fa394A31/logo.png"
+    }
+  },
+  "name": "EtheremonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMONT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

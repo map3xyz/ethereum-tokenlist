@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE525047aD468F807aa33a4BbE7b1E084Da56eA16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb6994f4-fa4b-43fd-8607-91d0d216ddcb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE525047aD468F807aa33a4BbE7b1E084Da56eA16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE525047aD468F807aa33a4BbE7b1E084Da56eA16/logo.png"
+    }
+  },
+  "name": "CRYPTODUBAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDUB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

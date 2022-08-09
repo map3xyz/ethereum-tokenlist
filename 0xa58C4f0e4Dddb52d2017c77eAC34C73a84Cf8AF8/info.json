@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d7933b8-7936-4e55-a23f-e426856c79bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8/logo.png"
+    }
+  },
+  "name": "JoygoEOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

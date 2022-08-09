@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "563d278a-fde4-40c0-976a-a8e305f61fcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664/logo.png"
+    }
+  },
+  "name": "Bloody",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLOODY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "672d3e72-3ec2-405c-9936-660994b8d799",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2/logo.png"
+    }
+  },
+  "name": "Kaze Coin Group",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc994a2dEb02543Db1f48688438b9903c4b305ce3",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "18f5c01b-e8cc-4c86-b7ce-910e265a5579",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc994a2dEb02543Db1f48688438b9903c4b305ce3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc994a2dEb02543Db1f48688438b9903c4b305ce3/logo.png"
+    }
+  },
+  "name": "Augmint Euro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AEUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

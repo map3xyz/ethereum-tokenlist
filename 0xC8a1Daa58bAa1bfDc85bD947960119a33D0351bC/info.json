@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC8a1Daa58bAa1bfDc85bD947960119a33D0351bC",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "d533de88-b59e-4b13-ba60-f1451b05a94a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC8a1Daa58bAa1bfDc85bD947960119a33D0351bC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC8a1Daa58bAa1bfDc85bD947960119a33D0351bC/logo.png"
+    }
+  },
+  "name": "ETHA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

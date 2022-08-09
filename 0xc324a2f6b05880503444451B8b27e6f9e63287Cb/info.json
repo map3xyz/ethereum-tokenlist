@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c38c1de-731c-45c8-aa6a-b65683d98a29",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc324a2f6b05880503444451B8b27e6f9e63287Cb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc324a2f6b05880503444451B8b27e6f9e63287Cb/logo.png"
+    }
+  },
+  "name": "Exchange Union Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XUC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

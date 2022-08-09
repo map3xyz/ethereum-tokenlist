@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9accc0d2-895e-4a7d-babf-c216b63e1a7a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df/logo.png"
+    }
+  },
+  "name": "EFINITY Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

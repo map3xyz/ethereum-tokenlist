@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82815e83-1239-4598-8418-a2dd0beb0355",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9/logo.png"
+    }
+  },
+  "name": "BoringDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

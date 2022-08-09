@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEe4b7e6bC34A9f8069f910C6AC71dc294263EB26",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f2f67c70-b100-4193-97c7-d4a03f2f5375",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEe4b7e6bC34A9f8069f910C6AC71dc294263EB26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEe4b7e6bC34A9f8069f910C6AC71dc294263EB26/logo.png"
+    }
+  },
+  "name": "TRAVEL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRAVEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

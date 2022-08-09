@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C57A7707A367fB2d65e485E9E6a0aa90B79Afc4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a5a734d5-927a-48eb-b6a1-1ef3f25ecdb3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C57A7707A367fB2d65e485E9E6a0aa90B79Afc4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C57A7707A367fB2d65e485E9E6a0aa90B79Afc4/logo.png"
+    }
+  },
+  "name": "QueenXChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d97335d1-c0cb-4548-86e0-4ec6b3a6c1dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095/logo.png"
+    }
+  },
+  "name": "Littrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8fbcB3f7a4C48dD9500BA20b5254C08D75403ba1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cebea7ee-dd19-434b-8f8c-f87f01f39765",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8fbcB3f7a4C48dD9500BA20b5254C08D75403ba1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fbcB3f7a4C48dD9500BA20b5254C08D75403ba1/logo.png"
+    }
+  },
+  "name": "Mobilink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

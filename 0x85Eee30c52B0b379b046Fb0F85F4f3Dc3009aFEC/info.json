@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d83b1c6-02c9-494f-8e8f-0e16ee16992e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png"
+    }
+  },
+  "name": "KEEP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

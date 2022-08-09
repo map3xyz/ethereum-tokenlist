@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0a9A9ce600D08BF9b76F49FA4e7b38A67EBEB1E6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f535b7c6-66a8-4f2a-b7f8-0689716f60a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0a9A9ce600D08BF9b76F49FA4e7b38A67EBEB1E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a9A9ce600D08BF9b76F49FA4e7b38A67EBEB1E6/logo.png"
+    }
+  },
+  "name": "GROWCHAIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GROW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

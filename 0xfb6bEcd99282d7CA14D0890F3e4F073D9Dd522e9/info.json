@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfb6bEcd99282d7CA14D0890F3e4F073D9Dd522e9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0ff9bb94-d5c4-474b-b1ca-db201761e331",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfb6bEcd99282d7CA14D0890F3e4F073D9Dd522e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb6bEcd99282d7CA14D0890F3e4F073D9Dd522e9/logo.png"
+    }
+  },
+  "name": "Blockchain of Africa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

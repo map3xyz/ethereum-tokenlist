@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x092428E2Ce418B222d0C5e2F7861bbDFbc2dd5D1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "775c49a7-c868-4460-a643-c2927cc38876",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x092428E2Ce418B222d0C5e2F7861bbDFbc2dd5D1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x092428E2Ce418B222d0C5e2F7861bbDFbc2dd5D1/logo.png"
+    }
+  },
+  "name": "UNOCALL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CALL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

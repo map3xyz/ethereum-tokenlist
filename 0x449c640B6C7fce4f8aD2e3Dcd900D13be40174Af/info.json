@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02f22b78-0ee3-4c5f-bcf2-cbb0a152ad4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af/logo.png"
+    }
+  },
+  "name": "IGICOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

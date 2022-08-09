@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf3db7560E820834658B590C96234c333Cd3D5E5e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b0008f3-ac7f-4638-b67e-c07dbfe8bf52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf3db7560E820834658B590C96234c333Cd3D5E5e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf3db7560E820834658B590C96234c333Cd3D5E5e/logo.png"
+    }
+  },
+  "name": "Poker Chips",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

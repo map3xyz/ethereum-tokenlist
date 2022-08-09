@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23c43423-2bf2-4172-bb92-6d700572daaa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd/logo.png"
+    }
+  },
+  "name": "Hakka Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAKKA",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb3104b4B9Da82025E8b9F8Fb28b3553ce2f67069",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14254b40-127b-4af4-9130-bc786b82182b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb3104b4B9Da82025E8b9F8Fb28b3553ce2f67069/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb3104b4B9Da82025E8b9F8Fb28b3553ce2f67069/logo.png"
+    }
+  },
+  "name": "BIX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

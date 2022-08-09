@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78dc40d2-5b3b-4275-9091-66163391871a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36905Fc93280f52362A1CBAB151F25DC46742Fb5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36905Fc93280f52362A1CBAB151F25DC46742Fb5/logo.png"
+    }
+  },
+  "name": "BTOCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

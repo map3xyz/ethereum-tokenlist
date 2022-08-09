@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "a42330f1-bc7a-44a8-89d9-1e66f9684062",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA/logo.png"
+    }
+  },
+  "name": "Tether DeFi (USDD)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

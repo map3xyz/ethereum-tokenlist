@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeF65887a05415bF6316204b5ffB350d4d1a19BBA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8fab278d-468a-456b-925e-7c10514e867f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeF65887a05415bF6316204b5ffB350d4d1a19BBA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeF65887a05415bF6316204b5ffB350d4d1a19BBA/logo.png"
+    }
+  },
+  "name": "ExtStock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

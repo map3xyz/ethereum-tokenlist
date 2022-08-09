@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x208b061317885fF0eF278E2fa7CF858549fa7ec0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ea47ed5b-466f-40eb-9010-6f63670cbc55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x208b061317885fF0eF278E2fa7CF858549fa7ec0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x208b061317885fF0eF278E2fa7CF858549fa7ec0/logo.png"
+    }
+  },
+  "name": "ITOChain Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19532D38E1608C22c1510522b1C835284AE04DA5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7aadffff-030a-4bbb-a7e0-b000fca7fcbb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x19532D38E1608C22c1510522b1C835284AE04DA5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19532D38E1608C22c1510522b1C835284AE04DA5/logo.png"
+    }
+  },
+  "name": "BULL RUN JESUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

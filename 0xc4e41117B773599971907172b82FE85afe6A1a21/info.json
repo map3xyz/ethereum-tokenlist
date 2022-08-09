@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc4e41117B773599971907172b82FE85afe6A1a21",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "80dd6945-eb15-4fff-b95f-4153821904a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc4e41117B773599971907172b82FE85afe6A1a21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc4e41117B773599971907172b82FE85afe6A1a21/logo.png"
+    }
+  },
+  "name": "Silver",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-SI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

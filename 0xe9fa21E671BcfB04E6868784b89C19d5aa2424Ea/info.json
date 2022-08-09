@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "687e7935-3c36-4a46-b255-b80356a1fdb4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea/logo.png"
+    }
+  },
+  "name": "EurocoinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

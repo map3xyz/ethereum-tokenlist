@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x432555E5c898F83fC5F00dF631BD9c2801FeA289",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6fc07162-6499-464b-8260-d69155fcb69e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x432555E5c898F83fC5F00dF631BD9c2801FeA289/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x432555E5c898F83fC5F00dF631BD9c2801FeA289/logo.png"
+    }
+  },
+  "name": "HubrisOne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

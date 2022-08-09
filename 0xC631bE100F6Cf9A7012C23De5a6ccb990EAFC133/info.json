@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "2f2d530d-46ee-4906-9214-db3425dfdf70",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133/logo.png"
+    }
+  },
+  "name": "Banana Task Force Ape",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTFA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

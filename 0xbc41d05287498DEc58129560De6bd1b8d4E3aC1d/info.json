@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "102e0c57-1eb7-4f21-9b60-91681d719f26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d/logo.png"
+    }
+  },
+  "name": "3X Short Tezos Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XTZBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

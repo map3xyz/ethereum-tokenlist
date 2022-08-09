@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55a0cfcb-b4b9-4f61-90a8-9ac19276af5a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x15B543e986b8c34074DFc9901136d9355a537e7E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15B543e986b8c34074DFc9901136d9355a537e7E/logo.png"
+    }
+  },
+  "name": "Student Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf03bfb08a807716e3340e175B98b388d2DC56DE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b4636e8-40ad-460d-ac4f-634db579be4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf03bfb08a807716e3340e175B98b388d2DC56DE0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf03bfb08a807716e3340e175B98b388d2DC56DE0/logo.png"
+    }
+  },
+  "name": "Neodium Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

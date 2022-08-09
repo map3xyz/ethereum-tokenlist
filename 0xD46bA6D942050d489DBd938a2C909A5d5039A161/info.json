@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f768ea4e-ed42-42c4-aa2a-f62eb7525d6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets//logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Ampleforth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

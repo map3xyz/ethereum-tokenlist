@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5be4999a-6c92-4778-9c7f-2e50e06043a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c/logo.png"
+    }
+  },
+  "name": "X8XToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "X8X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

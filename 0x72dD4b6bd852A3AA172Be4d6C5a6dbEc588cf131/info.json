@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1d5cbd5-2dd1-4e1c-aa3c-ca5554530244",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131/logo.png"
+    }
+  },
+  "name": "NAGA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

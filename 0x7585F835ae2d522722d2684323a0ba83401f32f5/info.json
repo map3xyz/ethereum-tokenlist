@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7585F835ae2d522722d2684323a0ba83401f32f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4d614ef-da0a-4bd2-a9ea-7062bc8f0291",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7585F835ae2d522722d2684323a0ba83401f32f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7585F835ae2d522722d2684323a0ba83401f32f5/logo.png"
+    }
+  },
+  "name": "HelloGold Gold Backed Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

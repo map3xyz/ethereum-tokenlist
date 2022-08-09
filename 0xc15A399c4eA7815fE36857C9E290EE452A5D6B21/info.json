@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc15A399c4eA7815fE36857C9E290EE452A5D6B21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8eedf40-5c45-4f65-9130-835ecb05b59e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc15A399c4eA7815fE36857C9E290EE452A5D6B21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc15A399c4eA7815fE36857C9E290EE452A5D6B21/logo.png"
+    }
+  },
+  "name": "BoatPilot Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAVI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

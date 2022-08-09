@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5D9B9f6EeaeEBc46FDfA0c1041E929834b15c03A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e6694f8e-d807-48b2-a415-ef6d1f8bbd1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5D9B9f6EeaeEBc46FDfA0c1041E929834b15c03A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5D9B9f6EeaeEBc46FDfA0c1041E929834b15c03A/logo.png"
+    }
+  },
+  "name": "BitZyon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZYON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37D404A072056EDA0Cd10Cb714D35552329F8500",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "267ca2c9-28a6-4410-bb05-8786ca9a3947",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37D404A072056EDA0Cd10Cb714D35552329F8500/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37D404A072056EDA0Cd10Cb714D35552329F8500/logo.png"
+    }
+  },
+  "name": "XRT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

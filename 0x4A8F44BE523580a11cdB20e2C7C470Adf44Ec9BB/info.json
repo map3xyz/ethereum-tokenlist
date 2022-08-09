@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48338c7c-af76-466f-a2b0-5bcea8c67f79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB/logo.png"
+    }
+  },
+  "name": "MinerCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

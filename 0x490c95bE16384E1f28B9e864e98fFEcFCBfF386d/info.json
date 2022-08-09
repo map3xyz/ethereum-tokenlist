@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b375a6b-0770-41a4-b8f3-755d8a16d208",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d/logo.png"
+    }
+  },
+  "name": "REPME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RPM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

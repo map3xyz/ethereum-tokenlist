@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F9232E7F1318Abf91366e6081d57Fa3C1bcdE88",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aca963f0-e179-4d75-bef7-28d0321d7bbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F9232E7F1318Abf91366e6081d57Fa3C1bcdE88/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F9232E7F1318Abf91366e6081d57Fa3C1bcdE88/logo.png"
+    }
+  },
+  "name": "Energy Source",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEML",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

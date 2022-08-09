@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4d714Dd7E399e0Abb0b1aF54dB10998Cb239996E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4ceba45-3f92-4489-a885-50b6e88dbdae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d714Dd7E399e0Abb0b1aF54dB10998Cb239996E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d714Dd7E399e0Abb0b1aF54dB10998Cb239996E/logo.png"
+    }
+  },
+  "name": "Carbon Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdc1ad4a-ed0a-49be-8492-223125379def",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c/logo.png"
+    }
+  },
+  "name": "MetaPortal Gaming Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAME",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

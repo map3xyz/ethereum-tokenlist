@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "a93b42b3-136f-4fa5-a089-f014dd85d419",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x07150e919B4De5fD6a63DE1F9384828396f25fDC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07150e919B4De5fD6a63DE1F9384828396f25fDC/logo.png"
+    }
+  },
+  "name": "Base Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BASE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

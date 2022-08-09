@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc86fe4c-b4b5-40ab-839e-44ce04419448",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697/logo.png"
+    }
+  },
+  "name": "OVR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf4922496163E8176CeD096ED80c67ca8ea2168D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb23ea06-3c7a-4b73-97bc-b4a9c64832ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf4922496163E8176CeD096ED80c67ca8ea2168D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4922496163E8176CeD096ED80c67ca8ea2168D6/logo.png"
+    }
+  },
+  "name": "Les Collectionneurs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PINS",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "faf6f8e9-dd49-4078-aea4-66ccb323ae19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1/logo.png"
+    }
+  },
+  "name": "BOST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

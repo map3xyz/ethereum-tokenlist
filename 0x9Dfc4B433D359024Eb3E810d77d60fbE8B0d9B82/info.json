@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4eeaf0c6-ee0e-428b-808d-1230448f3d79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82/logo.png"
+    }
+  },
+  "name": "Dandy Dego",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DANDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x787C2fFFB74F559219836a77FAd6181f808b6F73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ddb38bb9-169f-4e2d-af4a-91408b8be48f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x787C2fFFB74F559219836a77FAd6181f808b6F73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x787C2fFFB74F559219836a77FAd6181f808b6F73/logo.png"
+    }
+  },
+  "name": "klcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

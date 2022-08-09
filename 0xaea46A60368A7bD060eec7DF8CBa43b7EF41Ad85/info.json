@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c063dc2-03a0-4f06-81df-8e23739d9a88",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85/logo.png"
+    }
+  },
+  "name": "Fetch.ai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

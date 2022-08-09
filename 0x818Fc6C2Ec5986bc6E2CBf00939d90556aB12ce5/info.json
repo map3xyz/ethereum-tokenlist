@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6dee7e7-2d5c-4154-ba80-738ab257a7da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5/logo.png"
+    }
+  },
+  "name": "Kin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "034f5e93-381f-493d-9a11-abcbcced32c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f/logo.png"
+    }
+  },
+  "name": "WOLK TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WLK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

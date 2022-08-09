@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0794ce7d4459105926Da230F318c1e34BC790517",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68f60d62-98d1-4986-b235-9958d6989bb1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0794ce7d4459105926Da230F318c1e34BC790517/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0794ce7d4459105926Da230F318c1e34BC790517/logo.png"
+    }
+  },
+  "name": "RankingBall Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

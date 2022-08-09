@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "95c7df19-3e48-44cf-ae76-7a857514b30f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x456D8f0D25A4e787eE60c401F8B963a465148f70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x456D8f0D25A4e787eE60c401F8B963a465148f70/logo.png"
+    }
+  },
+  "name": "Cavapoo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAVA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

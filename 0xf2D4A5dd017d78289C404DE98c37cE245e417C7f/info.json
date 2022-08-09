@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf2D4A5dd017d78289C404DE98c37cE245e417C7f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87cec57d-be85-4a99-98a2-e464c10ed236",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf2D4A5dd017d78289C404DE98c37cE245e417C7f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf2D4A5dd017d78289C404DE98c37cE245e417C7f/logo.png"
+    }
+  },
+  "name": "PAPARAZZI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAZZI-N",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1D4781bd93209dE6a70b6a8a1D96cA93ee8CFdFD",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e247b394-e960-4ada-ab5d-b3fe72aeb38e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1D4781bd93209dE6a70b6a8a1D96cA93ee8CFdFD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D4781bd93209dE6a70b6a8a1D96cA93ee8CFdFD/logo.png"
+    }
+  },
+  "name": "iZiFinance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IZT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

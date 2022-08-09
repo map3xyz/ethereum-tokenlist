@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d311556b-8a70-4d3e-8e08-2caa9067de20",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+    }
+  },
+  "name": "The Graph",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

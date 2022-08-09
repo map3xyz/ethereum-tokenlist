@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2015ee6-c1c3-4a10-a4c9-d46b0d2fcbec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcB3F902bf97626391bF8bA87264bbC3DC13469be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcB3F902bf97626391bF8bA87264bbC3DC13469be/logo.png"
+    }
+  },
+  "name": "The Real Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

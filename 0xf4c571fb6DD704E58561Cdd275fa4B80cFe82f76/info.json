@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf4c571fb6DD704E58561Cdd275fa4B80cFe82f76",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6c24c544-9ea1-478a-bcaf-ab17b96d11cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf4c571fb6DD704E58561Cdd275fa4B80cFe82f76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf4c571fb6DD704E58561Cdd275fa4B80cFe82f76/logo.png"
+    }
+  },
+  "name": "ROTH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE17f017475a709De58E976081eB916081ff4c9d5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c8576cd0-5388-417d-9f2c-22b105bc4a29",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE17f017475a709De58E976081eB916081ff4c9d5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE17f017475a709De58E976081eB916081ff4c9d5/logo.png"
+    }
+  },
+  "name": "RMPL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RMPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

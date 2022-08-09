@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a3705d28-e34a-41b3-9c75-d12f717e4ed6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E/logo.png"
+    }
+  },
+  "name": "Soarcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Soar",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

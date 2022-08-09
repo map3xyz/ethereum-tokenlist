@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a56d6ac1-a2c2-4316-8f85-bd542a026217",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2/logo.png"
+    }
+  },
+  "name": "Holo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

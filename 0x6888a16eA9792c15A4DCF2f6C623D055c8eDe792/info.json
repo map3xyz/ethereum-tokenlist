@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2445263-7367-4e54-bdac-dfa5dd3fe0df",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792/logo.png"
+    }
+  },
+  "name": "Signals",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

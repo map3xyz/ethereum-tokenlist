@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD0D824e2C6843c3ce4c8E22fB1d31a4d9b0212eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6352a25-16c1-4345-b036-0203969731c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD0D824e2C6843c3ce4c8E22fB1d31a4d9b0212eC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD0D824e2C6843c3ce4c8E22fB1d31a4d9b0212eC/logo.png"
+    }
+  },
+  "name": "vEGP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vEGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

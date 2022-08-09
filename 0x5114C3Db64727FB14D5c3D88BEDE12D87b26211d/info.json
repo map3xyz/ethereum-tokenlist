@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5114C3Db64727FB14D5c3D88BEDE12D87b26211d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e675b8ca-040e-48d8-bf57-e153d4e5dc33",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5114C3Db64727FB14D5c3D88BEDE12D87b26211d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5114C3Db64727FB14D5c3D88BEDE12D87b26211d/logo.png"
+    }
+  },
+  "name": "Grow Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

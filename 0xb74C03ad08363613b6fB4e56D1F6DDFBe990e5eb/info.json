@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2523b097-2f08-4ced-bb37-160bc6967245",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb/logo.png"
+    }
+  },
+  "name": "Duarte Soberano",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

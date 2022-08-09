@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1626e3d05De1428FD209BBfb911d78E0E06a73F2",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "5c02cdad-0075-4c76-a6b6-e9348c0fafce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1626e3d05De1428FD209BBfb911d78E0E06a73F2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1626e3d05De1428FD209BBfb911d78E0E06a73F2/logo.png"
+    }
+  },
+  "name": "NCSVToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NCSV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

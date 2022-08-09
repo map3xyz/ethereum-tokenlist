@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC04c25912d8E0A4ba611f02f5139FA9972A3Bc35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2735b31-be41-4f2e-9ae9-c7b5f53b4d5b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC04c25912d8E0A4ba611f02f5139FA9972A3Bc35/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC04c25912d8E0A4ba611f02f5139FA9972A3Bc35/logo.png"
+    }
+  },
+  "name": "EQR TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

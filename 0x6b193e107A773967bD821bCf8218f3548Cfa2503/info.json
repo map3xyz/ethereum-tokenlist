@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d259cbff-1c50-4098-9892-7d594ea135e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6b193e107A773967bD821bCf8218f3548Cfa2503/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6b193e107A773967bD821bCf8218f3548Cfa2503/logo.png"
+    }
+  },
+  "name": "Posscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

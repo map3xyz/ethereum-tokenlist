@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "961d3d12-8377-4e56-bb4d-6062228e427a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784/logo.png"
+    }
+  },
+  "name": "TrueFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

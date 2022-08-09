@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x96780fA228A5F6f6C3F5A8C10b637D6407A4aCb7",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "14924725-f8cf-4203-9a83-44215222617e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96780fA228A5F6f6C3F5A8C10b637D6407A4aCb7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96780fA228A5F6f6C3F5A8C10b637D6407A4aCb7/logo.png"
+    }
+  },
+  "name": "POSH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

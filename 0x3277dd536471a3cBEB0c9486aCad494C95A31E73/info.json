@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3277dd536471a3cBEB0c9486aCad494C95A31E73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e67641b-fd53-406b-8856-e8b72c456cfd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3277dd536471a3cBEB0c9486aCad494C95A31E73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3277dd536471a3cBEB0c9486aCad494C95A31E73/logo.png"
+    }
+  },
+  "name": "Coinhe Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

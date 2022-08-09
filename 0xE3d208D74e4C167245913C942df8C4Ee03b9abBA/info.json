@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11ec676c-1ca5-4efc-a348-b66d80ff0a77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE3d208D74e4C167245913C942df8C4Ee03b9abBA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3d208D74e4C167245913C942df8C4Ee03b9abBA/logo.png"
+    }
+  },
+  "name": "Hydra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

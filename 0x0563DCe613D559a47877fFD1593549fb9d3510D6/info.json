@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1564562b-9ad6-41c4-9fce-f29faea8a74f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0563DCe613D559a47877fFD1593549fb9d3510D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0563DCe613D559a47877fFD1593549fb9d3510D6/logo.png"
+    }
+  },
+  "name": "SuperBid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUPERBID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

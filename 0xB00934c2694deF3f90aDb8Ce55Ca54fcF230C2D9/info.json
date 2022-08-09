@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB00934c2694deF3f90aDb8Ce55Ca54fcF230C2D9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2368f40c-5632-4119-9cd3-1910175c35a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB00934c2694deF3f90aDb8Ce55Ca54fcF230C2D9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB00934c2694deF3f90aDb8Ce55Ca54fcF230C2D9/logo.png"
+    }
+  },
+  "name": "Slicer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

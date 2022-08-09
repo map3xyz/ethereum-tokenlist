@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35843fbf-9ee6-4a5d-bb64-54ec2eee543c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6F919D67967a97EA36195A2346d9244E60FE0dDB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6F919D67967a97EA36195A2346d9244E60FE0dDB/logo.png"
+    }
+  },
+  "name": "Blockcloud",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLOC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

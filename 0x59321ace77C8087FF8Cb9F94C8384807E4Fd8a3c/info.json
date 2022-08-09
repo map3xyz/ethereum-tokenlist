@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac00a6a6-0e12-478f-b668-a139cedd378c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c/logo.png"
+    }
+  },
+  "name": "Xeniumx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XEMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

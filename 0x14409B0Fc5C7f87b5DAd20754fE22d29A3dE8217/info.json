@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56eac4cc-696e-4671-a8f9-cb75f30ccbe8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217/logo.png"
+    }
+  },
+  "name": "PYRO Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYRO",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

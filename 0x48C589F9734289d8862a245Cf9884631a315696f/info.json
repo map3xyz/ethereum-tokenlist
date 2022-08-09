@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48C589F9734289d8862a245Cf9884631a315696f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3a6ffb50-a42c-4088-add7-ce8fbce93176",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48C589F9734289d8862a245Cf9884631a315696f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48C589F9734289d8862a245Cf9884631a315696f/logo.png"
+    }
+  },
+  "name": "Coin Of King",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7354c1ab-5f76-4922-ba20-23c844f76992",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E/logo.png"
+    }
+  },
+  "name": "Yuamble",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

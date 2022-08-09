@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAf40C5cC4c08a173E6FA3E43f8809794Bc38E961",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be9fe317-631a-4c87-99fc-ca5118a10e83",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAf40C5cC4c08a173E6FA3E43f8809794Bc38E961/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAf40C5cC4c08a173E6FA3E43f8809794Bc38E961/logo.png"
+    }
+  },
+  "name": "Retup DEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

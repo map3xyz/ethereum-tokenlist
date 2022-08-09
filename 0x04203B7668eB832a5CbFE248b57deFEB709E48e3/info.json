@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04203B7668eB832a5CbFE248b57deFEB709E48e3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f06e5dde-379f-477e-8ae9-c325f24f71ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04203B7668eB832a5CbFE248b57deFEB709E48e3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04203B7668eB832a5CbFE248b57deFEB709E48e3/logo.png"
+    }
+  },
+  "name": "Statera Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

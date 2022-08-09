@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5b6151b2-f6cd-4be7-83ab-ef41e232b9bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528/logo.png"
+    }
+  },
+  "name": "SPHTX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPHTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3df8e993-1b56-4afb-98ad-083d5a9adcad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc/logo.png"
+    }
+  },
+  "name": "AIECOLOGY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

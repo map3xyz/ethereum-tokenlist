@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4cA74185532DC1789527194e5B9c866dD33F4E82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "981c7681-0e39-486b-81fe-42e0d1b066c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4cA74185532DC1789527194e5B9c866dD33F4E82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4cA74185532DC1789527194e5B9c866dD33F4E82/logo.png"
+    }
+  },
+  "name": "sensatori",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sense",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

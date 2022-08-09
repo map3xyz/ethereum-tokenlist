@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDd60F9dd5B891b728955149BD59F42c6513C8dc6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f11cdcb-dcf8-4ae3-913f-709d615a67e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDd60F9dd5B891b728955149BD59F42c6513C8dc6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDd60F9dd5B891b728955149BD59F42c6513C8dc6/logo.png"
+    }
+  },
+  "name": "The Emperial Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B0T",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

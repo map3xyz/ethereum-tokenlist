@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2ef6eb9f-d612-4d35-acc5-1038ca9bc332",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa/logo.png"
+    }
+  },
+  "name": "LGO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

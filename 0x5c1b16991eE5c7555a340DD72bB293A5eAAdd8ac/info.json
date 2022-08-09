@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c1b16991eE5c7555a340DD72bB293A5eAAdd8ac",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b79ac8e-a99f-4ebc-ab24-3dc40197d2c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c1b16991eE5c7555a340DD72bB293A5eAAdd8ac/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c1b16991eE5c7555a340DD72bB293A5eAAdd8ac/logo.png"
+    }
+  },
+  "name": "FLC_Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

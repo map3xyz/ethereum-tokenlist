@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28ebC92E995Ef0a2C9A069D39F991c55A512e07c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "9e45aaaa-d01d-4fba-bf2d-3539b128752e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28ebC92E995Ef0a2C9A069D39F991c55A512e07c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28ebC92E995Ef0a2C9A069D39F991c55A512e07c/logo.png"
+    }
+  },
+  "name": "ValorDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VLR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

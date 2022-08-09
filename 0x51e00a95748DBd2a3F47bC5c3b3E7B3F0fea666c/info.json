@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31106d29-2b14-4371-8de7-1b51de76ecfe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c/logo.png"
+    }
+  },
+  "name": "DVGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DVG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbE8F047Fc2EB324911e8eF9040f175984DC2DC18",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "91a2950f-ea09-430b-a878-72954f38617d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbE8F047Fc2EB324911e8eF9040f175984DC2DC18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbE8F047Fc2EB324911e8eF9040f175984DC2DC18/logo.png"
+    }
+  },
+  "name": "Nextar Standard",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

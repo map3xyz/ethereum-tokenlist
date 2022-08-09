@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe089CeEb88086d7DD5153cf0357525069Cb27a4a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ebf71410-f0e5-4c15-b3ef-2917f305a9f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe089CeEb88086d7DD5153cf0357525069Cb27a4a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe089CeEb88086d7DD5153cf0357525069Cb27a4a/logo.png"
+    }
+  },
+  "name": "Farmer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FARMER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

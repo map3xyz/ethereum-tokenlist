@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x755146E16214446DcB17b68Df0CFcCa4763eb77A",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "60273ff8-2baf-4213-882f-3ccdc5b9fa7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x755146E16214446DcB17b68Df0CFcCa4763eb77A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x755146E16214446DcB17b68Df0CFcCa4763eb77A/logo.png"
+    }
+  },
+  "name": "SLOTH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLOTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

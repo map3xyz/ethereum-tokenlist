@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2d02c001-5d13-491d-8e45-eb799a964c17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4/logo.png"
+    }
+  },
+  "name": "GATENet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GATE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

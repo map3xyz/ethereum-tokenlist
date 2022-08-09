@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64Ee5a075701f75359F10626BC986Aae844Ad9a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9db2e48f-713a-4707-ba25-0bbb41c4b794",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64Ee5a075701f75359F10626BC986Aae844Ad9a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64Ee5a075701f75359F10626BC986Aae844Ad9a7/logo.png"
+    }
+  },
+  "name": "TradeStars TSX Utility Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TSX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6393E822874728f8Afa7e1C9944E417D37CA5878",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74d1481c-3741-4bf4-875a-f4185ed930cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6393E822874728f8Afa7e1C9944E417D37CA5878/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6393E822874728f8Afa7e1C9944E417D37CA5878/logo.png"
+    }
+  },
+  "name": "Cryptoindex 100",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIX100",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

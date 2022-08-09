@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6b23048-8834-4bc3-b8d5-b1c1fe579ef8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505/logo.png"
+    }
+  },
+  "name": "Knekted",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

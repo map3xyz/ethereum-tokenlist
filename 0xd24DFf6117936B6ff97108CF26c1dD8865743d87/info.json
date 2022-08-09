@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd24DFf6117936B6ff97108CF26c1dD8865743d87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e215df6f-9648-4162-8659-7be70a035821",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd24DFf6117936B6ff97108CF26c1dD8865743d87/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd24DFf6117936B6ff97108CF26c1dD8865743d87/logo.png"
+    }
+  },
+  "name": "Medium Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MDM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

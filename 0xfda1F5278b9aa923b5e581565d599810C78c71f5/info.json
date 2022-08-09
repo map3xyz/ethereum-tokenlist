@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfda1F5278b9aa923b5e581565d599810C78c71f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a108c931-e955-431b-adc6-e1347b5ad613",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfda1F5278b9aa923b5e581565d599810C78c71f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfda1F5278b9aa923b5e581565d599810C78c71f5/logo.png"
+    }
+  },
+  "name": "KINGS GLOBAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KSG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD057B63f5E69CF1B929b356b579Cba08D7688048",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d63e480-366d-4900-b5eb-d7935a194b5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD057B63f5E69CF1B929b356b579Cba08D7688048/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD057B63f5E69CF1B929b356b579Cba08D7688048/logo.png"
+    }
+  },
+  "name": "CoW Protocol Virtual Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vCOW",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

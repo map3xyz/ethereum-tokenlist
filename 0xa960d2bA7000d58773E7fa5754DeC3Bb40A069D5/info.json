@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "420ca2b0-ea46-46ec-9b21-87882d5a30ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5/logo.png"
+    }
+  },
+  "name": "One DEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

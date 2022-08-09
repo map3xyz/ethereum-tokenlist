@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00000000008943c65cAf789FFFCF953bE156f6f8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f030afc6-52f4-49a3-b342-e5b1326befe5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00000000008943c65cAf789FFFCF953bE156f6f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00000000008943c65cAf789FFFCF953bE156f6f8/logo.png"
+    }
+  },
+  "name": "Dharma USD Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

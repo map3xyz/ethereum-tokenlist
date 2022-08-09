@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe571519185098b2f4914cA973d48c090426D69ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aac6cfbe-3ffd-4d2b-82f5-c53aadbae4b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe571519185098b2f4914cA973d48c090426D69ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe571519185098b2f4914cA973d48c090426D69ee/logo.png"
+    }
+  },
+  "name": "Miraz token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa75ecf2B587B5C65A001e485B2dC5121ab6Cc12d",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "101ecd2a-837e-4081-88a8-68dd17ca2889",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa75ecf2B587B5C65A001e485B2dC5121ab6Cc12d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa75ecf2B587B5C65A001e485B2dC5121ab6Cc12d/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 253-CN21",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

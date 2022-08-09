@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6e7870B7B4b3990ee3Bdd80641827BF0B58246a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3dff94d9-9ca1-4072-9863-4ce77f6cecf0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6e7870B7B4b3990ee3Bdd80641827BF0B58246a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6e7870B7B4b3990ee3Bdd80641827BF0B58246a/logo.png"
+    }
+  },
+  "name": "BrazilMinerioCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

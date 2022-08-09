@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1a0e211-392f-416c-9dc4-4dde6601d265",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f/logo.png"
+    }
+  },
+  "name": "StarDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSTAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

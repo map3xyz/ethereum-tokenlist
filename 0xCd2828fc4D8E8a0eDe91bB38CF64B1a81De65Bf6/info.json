@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d94a7dfb-cc6a-438d-a7dd-ab1d924081c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "OddzToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

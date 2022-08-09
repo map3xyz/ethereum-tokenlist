@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "581f3de6-d553-4831-b853-d767139630a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e/logo.png"
+    }
+  },
+  "name": "CRYPTOBUCKS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBUCKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

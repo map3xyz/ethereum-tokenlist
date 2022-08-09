@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37266508Ae0102c2Ea05865C94c6d19a3B0af05a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "96e238f9-61e3-4421-a2b2-0196ceb90511",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37266508Ae0102c2Ea05865C94c6d19a3B0af05a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37266508Ae0102c2Ea05865C94c6d19a3B0af05a/logo.png"
+    }
+  },
+  "name": "Golden Age",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLDEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc59fB1211F8226fD716180fCfA29D0A2FeE00FeD",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e9587c43-bbe3-42c2-b81e-3641267d55eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc59fB1211F8226fD716180fCfA29D0A2FeE00FeD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc59fB1211F8226fD716180fCfA29D0A2FeE00FeD/logo.png"
+    }
+  },
+  "name": "BLANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

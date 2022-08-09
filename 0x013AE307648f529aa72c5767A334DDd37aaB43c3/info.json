@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x013AE307648f529aa72c5767A334DDd37aaB43c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9d88dd5-3275-40d2-9643-291d541a2e5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x013AE307648f529aa72c5767A334DDd37aaB43c3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x013AE307648f529aa72c5767A334DDd37aaB43c3/logo.png"
+    }
+  },
+  "name": "Synth sBNB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

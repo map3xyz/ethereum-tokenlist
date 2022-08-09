@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0e070a6-5e40-4716-b610-d2f447cc79ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xf418588522d5dd018b425E472991E52EBBeEEEEE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf418588522d5dd018b425E472991E52EBBeEEEEE/logo.png"
+    }
+  },
+  "name": "PUSH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PUSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

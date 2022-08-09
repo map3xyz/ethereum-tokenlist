@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x704BDdaa18f3b4EEf33CDfec5e80dAf5847c7d41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51d9d24e-61a5-4d63-87b3-fe9d842e6207",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x704BDdaa18f3b4EEf33CDfec5e80dAf5847c7d41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x704BDdaa18f3b4EEf33CDfec5e80dAf5847c7d41/logo.png"
+    }
+  },
+  "name": "MIQcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x808507121B80c02388fAd14726482e061B8da827",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9aef2e72-398f-402e-a340-c3127774a65c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
+    }
+  },
+  "name": "Pendle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PENDLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

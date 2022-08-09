@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92f9c48f-795a-45e0-8a7b-573380bd994f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB/logo.png"
+    }
+  },
+  "name": "Wi Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WiC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

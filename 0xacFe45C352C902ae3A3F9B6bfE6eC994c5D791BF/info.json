@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1296ca45-5457-4646-a8ad-61f669dbd4ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF/logo.png"
+    }
+  },
+  "name": "megaBONK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mBONK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

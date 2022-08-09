@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x21686F8ce003a95c99aCd297E302FAACf742F7d4",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "0ac2d2b5-9dbf-4ee9-8b92-c6877841f36e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21686F8ce003a95c99aCd297E302FAACf742F7d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x21686F8ce003a95c99aCd297E302FAACf742F7d4/logo.png"
+    }
+  },
+  "name": "Wrapped Conceal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCCX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

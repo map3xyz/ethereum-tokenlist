@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9d2FEE79BB1661e0Ba407A178CBF070561Fd5296",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26788d2f-2fe2-4037-96c1-b4fa2506b1ee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d2FEE79BB1661e0Ba407A178CBF070561Fd5296/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d2FEE79BB1661e0Ba407A178CBF070561Fd5296/logo.png"
+    }
+  },
+  "name": "Cannabit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

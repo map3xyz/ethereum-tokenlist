@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "4f4819c1-58cf-4ddc-b3a6-01173f01484a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5/logo.png"
+    }
+  },
+  "name": "Hue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

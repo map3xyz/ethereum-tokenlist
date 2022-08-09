@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E9A46EA6A22f3894aBEE2302Ad42fd3b69E21E2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a5e8ea0b-89c3-4708-a29f-82a3add4abca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E9A46EA6A22f3894aBEE2302Ad42fd3b69E21E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E9A46EA6A22f3894aBEE2302Ad42fd3b69E21E2/logo.png"
+    }
+  },
+  "name": "Binance Smart Chain Girl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSCGIRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

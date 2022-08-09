@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x129c8aC258bf01a43f6511EA7951Ff762B34D345",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "effbe999-4c20-4317-a610-20c7967fc1f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x129c8aC258bf01a43f6511EA7951Ff762B34D345/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x129c8aC258bf01a43f6511EA7951Ff762B34D345/logo.png"
+    }
+  },
+  "name": "BitcoinMoon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

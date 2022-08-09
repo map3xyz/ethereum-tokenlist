@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5b47c13-2dc2-480c-bedd-1502c1415781",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369/logo.png"
+    }
+  },
+  "name": "EtherCenter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC9a2C4868F0f96fAaa739b59934Dc9cB304112ec",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b751f46f-cfd9-431a-b125-24710e5c76ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC9a2C4868F0f96fAaa739b59934Dc9cB304112ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC9a2C4868F0f96fAaa739b59934Dc9cB304112ec/logo.png"
+    }
+  },
+  "name": "Binance GBP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGBP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

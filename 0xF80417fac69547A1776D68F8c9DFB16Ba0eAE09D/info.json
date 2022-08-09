@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f2c7631-ff3a-4828-8453-a88baf1ce437",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D/logo.png"
+    }
+  },
+  "name": "Doecoins.com",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

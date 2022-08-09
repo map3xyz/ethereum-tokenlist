@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e4dc2bd-ddf5-4efd-b64f-932c952c12b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6/logo.png"
+    }
+  },
+  "name": "SparkPoint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

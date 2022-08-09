@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1929658f7578AA8F25792BA891654878F2C3AE18",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "cd30afaf-d78a-414e-86e7-641827c19459",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1929658f7578AA8F25792BA891654878F2C3AE18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1929658f7578AA8F25792BA891654878F2C3AE18/logo.png"
+    }
+  },
+  "name": "Billions Icon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

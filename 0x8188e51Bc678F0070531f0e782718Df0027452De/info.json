@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8188e51Bc678F0070531f0e782718Df0027452De",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "98fcf561-24d3-4bbd-96aa-6bdf684e8de8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8188e51Bc678F0070531f0e782718Df0027452De/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8188e51Bc678F0070531f0e782718Df0027452De/logo.png"
+    }
+  },
+  "name": "ZERACOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZERA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

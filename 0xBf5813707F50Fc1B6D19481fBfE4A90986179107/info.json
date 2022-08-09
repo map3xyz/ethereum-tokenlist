@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBf5813707F50Fc1B6D19481fBfE4A90986179107",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "a29ae091-9e0b-4dbd-bf55-c73226af9611",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBf5813707F50Fc1B6D19481fBfE4A90986179107/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBf5813707F50Fc1B6D19481fBfE4A90986179107/logo.png"
+    }
+  },
+  "name": "coindex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cox",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

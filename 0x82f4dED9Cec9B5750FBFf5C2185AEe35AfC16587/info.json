@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3661acb0-e45b-4570-b4df-64b1accf4239",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587/logo.png"
+    }
+  },
+  "name": "DreamTeam Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DREAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

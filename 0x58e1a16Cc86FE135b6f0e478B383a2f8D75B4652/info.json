@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58e1a16Cc86FE135b6f0e478B383a2f8D75B4652",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "ebbee35d-a922-4868-b3a8-a2126403ec00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58e1a16Cc86FE135b6f0e478B383a2f8D75B4652/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58e1a16Cc86FE135b6f0e478B383a2f8D75B4652/logo.png"
+    }
+  },
+  "name": "Ines y Pacheco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

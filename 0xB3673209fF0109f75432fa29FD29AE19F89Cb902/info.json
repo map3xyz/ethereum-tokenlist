@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB3673209fF0109f75432fa29FD29AE19F89Cb902",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de82aeec-db3d-4bd6-9b85-7914d5bc8f94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB3673209fF0109f75432fa29FD29AE19F89Cb902/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB3673209fF0109f75432fa29FD29AE19F89Cb902/logo.png"
+    }
+  },
+  "name": "WAKBLOCK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

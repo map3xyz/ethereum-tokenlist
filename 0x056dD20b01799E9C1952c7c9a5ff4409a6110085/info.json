@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73138a72-2a38-4400-ba9a-0fbe80e4551d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x056dD20b01799E9C1952c7c9a5ff4409a6110085/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x056dD20b01799E9C1952c7c9a5ff4409a6110085/logo.png"
+    }
+  },
+  "name": "WPPTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

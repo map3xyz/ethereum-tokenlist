@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1416946162B1C2c871A73B07E932D2fB6C932069",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff68ae42-f375-4729-8ea5-895576196629",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1416946162B1C2c871A73B07E932D2fB6C932069/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1416946162B1C2c871A73B07E932D2fB6C932069/logo.png"
+    }
+  },
+  "name": "Energi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

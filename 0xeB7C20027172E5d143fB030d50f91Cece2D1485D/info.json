@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7c430a62-9842-4e4e-a5d0-de3f510b2550",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeB7C20027172E5d143fB030d50f91Cece2D1485D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeB7C20027172E5d143fB030d50f91Cece2D1485D/logo.png"
+    }
+  },
+  "name": "eBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

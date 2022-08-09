@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfC6Bb0fc3d058804058Bbb092DC594736C496cbD",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "38aefae9-b1b3-4e59-a16a-cebfa31b8049",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC6Bb0fc3d058804058Bbb092DC594736C496cbD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfC6Bb0fc3d058804058Bbb092DC594736C496cbD/logo.png"
+    }
+  },
+  "name": "ODC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

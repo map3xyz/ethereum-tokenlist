@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC4bC757008f91fdA5876398147C73831cf9b285E",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ab564df1-f40d-40de-873e-8a294a9b5d2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC4bC757008f91fdA5876398147C73831cf9b285E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC4bC757008f91fdA5876398147C73831cf9b285E/logo.png"
+    }
+  },
+  "name": "Bobux",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOBUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

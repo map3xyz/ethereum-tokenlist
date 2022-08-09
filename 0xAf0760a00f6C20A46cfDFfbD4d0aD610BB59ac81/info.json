@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAf0760a00f6C20A46cfDFfbD4d0aD610BB59ac81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b86f93e-ad91-4900-9e8f-4ad7b89268f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAf0760a00f6C20A46cfDFfbD4d0aD610BB59ac81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAf0760a00f6C20A46cfDFfbD4d0aD610BB59ac81/logo.png"
+    }
+  },
+  "name": "Ether Classic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5108bf6425D408df9d2C2909e77ca96a682E62B",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c501880d-fe8e-4288-aaa5-81fd21059f4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5108bf6425D408df9d2C2909e77ca96a682E62B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5108bf6425D408df9d2C2909e77ca96a682E62B/logo.png"
+    }
+  },
+  "name": "Algo Hedge Fund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AHF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

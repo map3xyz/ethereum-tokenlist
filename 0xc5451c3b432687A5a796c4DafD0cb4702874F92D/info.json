@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc5451c3b432687A5a796c4DafD0cb4702874F92D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "579d822d-7fc7-4467-9374-c6b01155f317",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc5451c3b432687A5a796c4DafD0cb4702874F92D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5451c3b432687A5a796c4DafD0cb4702874F92D/logo.png"
+    }
+  },
+  "name": "ARTDOTCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "7315da59-69e9-4b14-badb-396ba0fdf01d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x10Bae51262490B4f4AF41e12eD52A0E744c1137A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10Bae51262490B4f4AF41e12eD52A0E744c1137A/logo.png"
+    }
+  },
+  "name": "Soft Link",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

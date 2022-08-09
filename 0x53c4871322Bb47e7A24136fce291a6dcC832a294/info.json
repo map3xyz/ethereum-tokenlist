@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53c4871322Bb47e7A24136fce291a6dcC832a294",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e07865e9-8275-4ec6-b56b-1c7e18dbc0d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53c4871322Bb47e7A24136fce291a6dcC832a294/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53c4871322Bb47e7A24136fce291a6dcC832a294/logo.png"
+    }
+  },
+  "name": "WLTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WLTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

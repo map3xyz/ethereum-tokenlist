@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF3C9D88bF55f368a36eCBF47afBac07490235b56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28b3b3a1-0b10-41c6-834c-c959449eedd1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF3C9D88bF55f368a36eCBF47afBac07490235b56/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF3C9D88bF55f368a36eCBF47afBac07490235b56/logo.png"
+    }
+  },
+  "name": "My Own Travel Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

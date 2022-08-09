@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dac51576-d0f6-4423-bd5a-1f3252cc9b34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b09Fb91eD7015B99db9e9ac10a2dD38aC0C85E1/logo.png"
+    }
+  },
+  "name": "GiftToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

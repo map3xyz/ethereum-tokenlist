@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86532471-feee-4748-9168-fd44e909339c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e/logo.png"
+    }
+  },
+  "name": "aelf",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

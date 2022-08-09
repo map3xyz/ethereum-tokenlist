@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78002d01A35E1098E1DC8f50b8182EE08b632f9F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18223d17-d0f4-4ea7-ae1f-3498f6a2a665",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78002d01A35E1098E1DC8f50b8182EE08b632f9F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78002d01A35E1098E1DC8f50b8182EE08b632f9F/logo.png"
+    }
+  },
+  "name": "TAURUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

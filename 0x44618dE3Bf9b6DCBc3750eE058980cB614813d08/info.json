@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44618dE3Bf9b6DCBc3750eE058980cB614813d08",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "496a5290-d932-4819-9560-7dca9eb3c9d5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44618dE3Bf9b6DCBc3750eE058980cB614813d08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44618dE3Bf9b6DCBc3750eE058980cB614813d08/logo.png"
+    }
+  },
+  "name": "Crypto VENO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VENO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA57392548087453deC6106e670bBFB849276b358",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d488d66c-7bdb-4e51-a77e-90a14b676e57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA57392548087453deC6106e670bBFB849276b358/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA57392548087453deC6106e670bBFB849276b358/logo.png"
+    }
+  },
+  "name": "GemVault Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

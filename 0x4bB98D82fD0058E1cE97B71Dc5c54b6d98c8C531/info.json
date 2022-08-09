@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531",
+  "color": null,
+  "decimals": 13,
+  "description": null,
+  "id": "56709c68-42e5-42bd-a8cf-2c571b81cdf2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531/logo.png"
+    }
+  },
+  "name": "XENIACOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

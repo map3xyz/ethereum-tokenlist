@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24b34f06-58fb-4a36-b658-e5ecad13fefb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2/logo.png"
+    }
+  },
+  "name": "Prospectors Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PGL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

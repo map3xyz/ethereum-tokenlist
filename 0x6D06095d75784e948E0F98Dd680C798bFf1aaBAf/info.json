@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D06095d75784e948E0F98Dd680C798bFf1aaBAf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe2028a6-d799-4e27-9e41-8175e065b66b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6D06095d75784e948E0F98Dd680C798bFf1aaBAf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6D06095d75784e948E0F98Dd680C798bFf1aaBAf/logo.png"
+    }
+  },
+  "name": "EntropyEnergyCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

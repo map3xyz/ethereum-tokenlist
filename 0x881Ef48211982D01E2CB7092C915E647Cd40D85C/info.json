@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a7c58b1-69be-4b06-aca5-ae1a2d9fb478",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x881Ef48211982D01E2CB7092C915E647Cd40D85C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x881Ef48211982D01E2CB7092C915E647Cd40D85C/logo.png"
+    }
+  },
+  "name": "Open Trading Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

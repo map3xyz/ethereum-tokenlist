@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18C525cce3ad9A48D82F91B874754be78E9d0F85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a41975ec-df2b-4965-91ad-4e033153f776",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x18C525cce3ad9A48D82F91B874754be78E9d0F85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18C525cce3ad9A48D82F91B874754be78E9d0F85/logo.png"
+    }
+  },
+  "name": "Bidooh Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOOH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

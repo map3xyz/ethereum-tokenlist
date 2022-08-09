@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "15172d64-f611-4d02-857a-0221f970ef66",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB802b24E0637c2B87D2E8b7784C055BBE921011a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB802b24E0637c2B87D2E8b7784C055BBE921011a/logo.png"
+    }
+  },
+  "name": "EthereumMovieVenture",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

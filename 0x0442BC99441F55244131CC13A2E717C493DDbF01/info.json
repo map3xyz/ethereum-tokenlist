@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0442BC99441F55244131CC13A2E717C493DDbF01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14272b59-9099-4ae5-97a2-7d4839b7e4a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0442BC99441F55244131CC13A2E717C493DDbF01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0442BC99441F55244131CC13A2E717C493DDbF01/logo.png"
+    }
+  },
+  "name": "REVI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REVI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

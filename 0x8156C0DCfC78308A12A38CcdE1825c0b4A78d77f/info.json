@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8156C0DCfC78308A12A38CcdE1825c0b4A78d77f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9fd7ae68-3aab-4740-9f4a-bf9ae9350b35",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8156C0DCfC78308A12A38CcdE1825c0b4A78d77f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8156C0DCfC78308A12A38CcdE1825c0b4A78d77f/logo.png"
+    }
+  },
+  "name": "FUNCOINIO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FUNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

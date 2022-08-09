@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5c015e4b-bff9-4c0f-b748-0c0ed8457e57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018/logo.png"
+    }
+  },
+  "name": "Multiplier Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MXX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

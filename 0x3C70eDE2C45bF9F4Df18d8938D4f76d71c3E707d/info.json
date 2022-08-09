@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C70eDE2C45bF9F4Df18d8938D4f76d71c3E707d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e21dc2af-6ed6-454d-8d59-5b3c3c19435f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C70eDE2C45bF9F4Df18d8938D4f76d71c3E707d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C70eDE2C45bF9F4Df18d8938D4f76d71c3E707d/logo.png"
+    }
+  },
+  "name": "BASE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "D-BASE TOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

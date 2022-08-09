@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaDd171460C3c015CA756Ef52A629d926423AdefE",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8bdf2077-79e0-4e00-917f-e8efc5f12674",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaDd171460C3c015CA756Ef52A629d926423AdefE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaDd171460C3c015CA756Ef52A629d926423AdefE/logo.png"
+    }
+  },
+  "name": "EQR TEST mg11000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

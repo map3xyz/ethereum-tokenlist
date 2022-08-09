@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF244176246168F24e3187f7288EdbCA29267739b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "376c31ba-9963-4a92-b273-ef60690a5f99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF244176246168F24e3187f7288EdbCA29267739b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF244176246168F24e3187f7288EdbCA29267739b/logo.png"
+    }
+  },
+  "name": "Havven",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

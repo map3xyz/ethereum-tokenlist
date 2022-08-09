@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "a71304b6-fbd0-4f51-bc4f-3115f44dd54c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562/logo.png"
+    }
+  },
+  "name": "FX Crypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

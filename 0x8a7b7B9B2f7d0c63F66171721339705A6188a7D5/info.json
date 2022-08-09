@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c2eaccb0-dc75-49c0-a970-a24c75ed2d27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5/logo.png"
+    }
+  },
+  "name": "EtherDoge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

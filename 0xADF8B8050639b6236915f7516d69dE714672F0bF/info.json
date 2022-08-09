@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xADF8B8050639b6236915f7516d69dE714672F0bF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb3192c3-8739-4860-8366-dfb26c7239e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xADF8B8050639b6236915f7516d69dE714672F0bF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xADF8B8050639b6236915f7516d69dE714672F0bF/logo.png"
+    }
+  },
+  "name": "Scanetchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

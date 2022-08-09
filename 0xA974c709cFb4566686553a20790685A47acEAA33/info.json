@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA974c709cFb4566686553a20790685A47acEAA33",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61c9d724-49d5-4678-92e1-42d422fad694",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA974c709cFb4566686553a20790685A47acEAA33/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA974c709cFb4566686553a20790685A47acEAA33/logo.png"
+    }
+  },
+  "name": "Mixin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

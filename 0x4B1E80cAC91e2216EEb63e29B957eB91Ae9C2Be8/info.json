@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5930f55b-95b6-4a2f-9b09-b0a2e2046809",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png"
+    }
+  },
+  "name": "Jupiter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

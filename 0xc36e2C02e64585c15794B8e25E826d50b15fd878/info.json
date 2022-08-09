@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc36e2C02e64585c15794B8e25E826d50b15fd878",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "433fe8ca-479c-4da7-a782-f55453c703ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc36e2C02e64585c15794B8e25E826d50b15fd878/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc36e2C02e64585c15794B8e25E826d50b15fd878/logo.png"
+    }
+  },
+  "name": "Animeyen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANIME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

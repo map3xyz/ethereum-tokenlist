@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09356d6d-0366-4eb8-85e2-7b73cfc4f9f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38/logo.png"
+    }
+  },
+  "name": "Stronger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRNGR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "350293e1-9d11-41ac-b13f-495f273b1b92",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb/logo.png"
+    }
+  },
+  "name": "EQUAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

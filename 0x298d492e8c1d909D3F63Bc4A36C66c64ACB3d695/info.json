@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da33379e-3b41-4935-bb04-6f6e004719e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695/logo.png"
+    }
+  },
+  "name": "PolkaBridge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x96c30D5499EF6eA96A9c221Bc18BC39D29c97F27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "edd5ae58-f00a-40bd-a8e5-2d4e72acaa8b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96c30D5499EF6eA96A9c221Bc18BC39D29c97F27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96c30D5499EF6eA96A9c221Bc18BC39D29c97F27/logo.png"
+    }
+  },
+  "name": "Thar token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Thar",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

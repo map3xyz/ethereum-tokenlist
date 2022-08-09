@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7b51f93b-b1f0-4c05-8715-5ca79486b3bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png"
+    }
+  },
+  "name": "Data Economy Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

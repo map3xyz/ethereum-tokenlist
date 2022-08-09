@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a629619a-d576-4dc2-ae5f-e188fd06896b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png"
+    }
+  },
+  "name": "Coin Artist",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

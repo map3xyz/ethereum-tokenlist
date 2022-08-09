@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x184001D794a8c91dEF72b8A488B67Cc907D4e5be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb1699c6-40f3-4b67-9e13-d52204b4dadd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x184001D794a8c91dEF72b8A488B67Cc907D4e5be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x184001D794a8c91dEF72b8A488B67Cc907D4e5be/logo.png"
+    }
+  },
+  "name": "Ore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORe",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

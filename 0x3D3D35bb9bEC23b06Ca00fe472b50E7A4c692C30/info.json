@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "137e6a3a-e3f0-4d13-88e6-5b4fd5726520",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30/logo.png"
+    }
+  },
+  "name": "Vidya",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

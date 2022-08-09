@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6e2A5b577437440D6024AEf6a6bf81CdE09798de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d90f7fa-796a-43fd-8be8-a87477ead52b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e2A5b577437440D6024AEf6a6bf81CdE09798de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e2A5b577437440D6024AEf6a6bf81CdE09798de/logo.png"
+    }
+  },
+  "name": "ChainBookSystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

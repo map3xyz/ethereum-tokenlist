@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x370d6D0728407e06ccdd1db8150e433f8319D0d9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d76d052a-b143-4bca-b1bf-086d3733fd4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x370d6D0728407e06ccdd1db8150e433f8319D0d9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x370d6D0728407e06ccdd1db8150e433f8319D0d9/logo.png"
+    }
+  },
+  "name": "LATINOCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LATINO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29cac70bB7FF448Db2C91e36f7A303624d7fc43F",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e1845496-df33-435d-beb0-a857fd4897f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29cac70bB7FF448Db2C91e36f7A303624d7fc43F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29cac70bB7FF448Db2C91e36f7A303624d7fc43F/logo.png"
+    }
+  },
+  "name": "MKPUG1-5/30M65",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

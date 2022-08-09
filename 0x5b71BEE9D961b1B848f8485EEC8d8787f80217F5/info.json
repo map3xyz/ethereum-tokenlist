@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c02160d3-4ccf-42da-950c-9277acc120e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5/logo.png"
+    }
+  },
+  "name": "BitForex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

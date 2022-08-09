@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x400323C9a1A9AA08680B22140838121d38416B99",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "20046244-b79d-4b3b-8daf-f22171548f8b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x400323C9a1A9AA08680B22140838121d38416B99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x400323C9a1A9AA08680B22140838121d38416B99/logo.png"
+    }
+  },
+  "name": "Sava Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

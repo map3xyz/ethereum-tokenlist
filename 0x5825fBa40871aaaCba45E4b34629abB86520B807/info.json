@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5825fBa40871aaaCba45E4b34629abB86520B807",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b2013227-7929-4dc9-930e-f9de15a8aa58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5825fBa40871aaaCba45E4b34629abB86520B807/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5825fBa40871aaaCba45E4b34629abB86520B807/logo.png"
+    }
+  },
+  "name": "ChainPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3070F4F173C81a96601338748481C53F43980E62",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "bc893db9-4d8e-4fb1-a470-5fd516cd112d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3070F4F173C81a96601338748481C53F43980E62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3070F4F173C81a96601338748481C53F43980E62/logo.png"
+    }
+  },
+  "name": "Vnix Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

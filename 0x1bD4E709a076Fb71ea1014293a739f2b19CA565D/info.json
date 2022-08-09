@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1bD4E709a076Fb71ea1014293a739f2b19CA565D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bf93202c-c635-4461-958c-026a8525ccb7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1bD4E709a076Fb71ea1014293a739f2b19CA565D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1bD4E709a076Fb71ea1014293a739f2b19CA565D/logo.png"
+    }
+  },
+  "name": "Labtorum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

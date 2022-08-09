@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7371ce9e-d8d8-4d54-b1c8-3e58328d329c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B/logo.png"
+    }
+  },
+  "name": "Cybercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

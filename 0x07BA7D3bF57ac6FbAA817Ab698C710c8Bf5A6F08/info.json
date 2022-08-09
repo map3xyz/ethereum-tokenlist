@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07BA7D3bF57ac6FbAA817Ab698C710c8Bf5A6F08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f08ab59-3c36-4918-b97b-a0392a49534b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07BA7D3bF57ac6FbAA817Ab698C710c8Bf5A6F08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07BA7D3bF57ac6FbAA817Ab698C710c8Bf5A6F08/logo.png"
+    }
+  },
+  "name": "SERA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

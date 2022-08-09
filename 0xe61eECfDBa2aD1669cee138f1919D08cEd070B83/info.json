@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe61eECfDBa2aD1669cee138f1919D08cEd070B83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e8e5ef3-898b-4da0-861a-55a78f1e0968",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe61eECfDBa2aD1669cee138f1919D08cEd070B83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe61eECfDBa2aD1669cee138f1919D08cEd070B83/logo.png"
+    }
+  },
+  "name": "VGTGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

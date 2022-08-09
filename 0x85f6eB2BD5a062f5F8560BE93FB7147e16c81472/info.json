@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "fb09786a-d530-4260-91d0-34e418ed5422",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472/logo.png"
+    }
+  },
+  "name": "Franklin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLy",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

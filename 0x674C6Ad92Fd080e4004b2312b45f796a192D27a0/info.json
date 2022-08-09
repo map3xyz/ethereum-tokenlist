@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4dc6a938-4cd0-4237-8c87-1b0cea566237",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png"
+    }
+  },
+  "name": "USDN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDN",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

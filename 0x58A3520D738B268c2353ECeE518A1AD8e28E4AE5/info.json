@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "03a4d59c-6d39-4024-89cb-170364df659a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5/logo.png"
+    }
+  },
+  "name": "HEIDI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xad29D26B081204Ba2D1Da9e86101DDa69ec835D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b2a5c9b-09f8-493e-8398-9fa8deeba7a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xad29D26B081204Ba2D1Da9e86101DDa69ec835D5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xad29D26B081204Ba2D1Da9e86101DDa69ec835D5/logo.png"
+    }
+  },
+  "name": "OBXCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

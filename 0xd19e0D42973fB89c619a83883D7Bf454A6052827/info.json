@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd19e0D42973fB89c619a83883D7Bf454A6052827",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "62dbd567-1c80-4946-9cff-8b55e9464cc1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd19e0D42973fB89c619a83883D7Bf454A6052827/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd19e0D42973fB89c619a83883D7Bf454A6052827/logo.png"
+    }
+  },
+  "name": "Vectro Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VCTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

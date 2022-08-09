@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2d3B86234A16a1D558945c6f9C5eb2443275A4f2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e283430e-b4f6-4a02-af53-040aa8ea3e72",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d3B86234A16a1D558945c6f9C5eb2443275A4f2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2d3B86234A16a1D558945c6f9C5eb2443275A4f2/logo.png"
+    }
+  },
+  "name": "Ozinex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OZI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

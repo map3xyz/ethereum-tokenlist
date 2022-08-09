@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6158e3F89b4398f5fb20D20DbFc5a5c955F0F6dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72a24a70-7c2e-45f9-b27a-a8b6ab0b4468",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6158e3F89b4398f5fb20D20DbFc5a5c955F0F6dd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6158e3F89b4398f5fb20D20DbFc5a5c955F0F6dd/logo.png"
+    }
+  },
+  "name": "TimeBox Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

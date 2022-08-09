@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA97ab0dd4542E4D5a4c92a39a63c7ec474043d1D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5df7e3f7-5384-4fa6-a685-62450351574e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA97ab0dd4542E4D5a4c92a39a63c7ec474043d1D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA97ab0dd4542E4D5a4c92a39a63c7ec474043d1D/logo.png"
+    }
+  },
+  "name": "boletoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

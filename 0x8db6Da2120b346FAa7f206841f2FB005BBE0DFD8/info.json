@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8db6Da2120b346FAa7f206841f2FB005BBE0DFD8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d188ec5a-81f1-4cc3-bcaf-95834202fd78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8db6Da2120b346FAa7f206841f2FB005BBE0DFD8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8db6Da2120b346FAa7f206841f2FB005BBE0DFD8/logo.png"
+    }
+  },
+  "name": "Paul Razvan Berg",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAUL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

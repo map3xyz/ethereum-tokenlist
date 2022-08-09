@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa3b5fdeB5DBC592ffC5e222223376464B9c56fb8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85399d52-fc27-4469-8ecc-4249342297a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3b5fdeB5DBC592ffC5e222223376464B9c56fb8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa3b5fdeB5DBC592ffC5e222223376464B9c56fb8/logo.png"
+    }
+  },
+  "name": "Fake Doge Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FDGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

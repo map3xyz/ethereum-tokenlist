@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6911270D4BC1915744AEdd785d41D44f47245BD0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "503a69d5-7ef5-4a93-b857-5394450aee7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6911270D4BC1915744AEdd785d41D44f47245BD0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6911270D4BC1915744AEdd785d41D44f47245BD0/logo.png"
+    }
+  },
+  "name": "QPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

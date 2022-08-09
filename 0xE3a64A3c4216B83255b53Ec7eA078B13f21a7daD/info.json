@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ed257e6-b4d9-4a06-8540-3cfea75f9a64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD/logo.png"
+    }
+  },
+  "name": "DEFI GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFGL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

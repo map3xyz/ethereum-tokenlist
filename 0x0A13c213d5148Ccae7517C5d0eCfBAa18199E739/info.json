@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0A13c213d5148Ccae7517C5d0eCfBAa18199E739",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "102bcb16-1144-428b-9d44-488381c03b36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0A13c213d5148Ccae7517C5d0eCfBAa18199E739/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0A13c213d5148Ccae7517C5d0eCfBAa18199E739/logo.png"
+    }
+  },
+  "name": "Global Super Game",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GSG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

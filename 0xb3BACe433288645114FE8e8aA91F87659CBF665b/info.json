@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb3BACe433288645114FE8e8aA91F87659CBF665b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d188825b-fdfe-492e-a717-edf35a9b52b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb3BACe433288645114FE8e8aA91F87659CBF665b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb3BACe433288645114FE8e8aA91F87659CBF665b/logo.png"
+    }
+  },
+  "name": "WalletPlusX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

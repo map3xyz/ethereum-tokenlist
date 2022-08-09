@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8e2867f-2922-4118-81c4-73e37411833c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6/logo.png"
+    }
+  },
+  "name": "Nerves",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

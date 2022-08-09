@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7c50079cC96284C1e01e3a66FC38af090289b4Ee",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "7fd0d999-5c6c-4f0d-8b5c-5cc2312ce042",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7c50079cC96284C1e01e3a66FC38af090289b4Ee/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7c50079cC96284C1e01e3a66FC38af090289b4Ee/logo.png"
+    }
+  },
+  "name": "SUREBANQA ENTERPRISE e-SHARE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ST20E",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

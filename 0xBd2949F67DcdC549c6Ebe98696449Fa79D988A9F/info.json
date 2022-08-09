@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d401a6b1-0ea5-4932-8229-9c82161b8147",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F/logo.png"
+    }
+  },
+  "name": "Meter Governance mapped by Meter.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMTRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE98226D78eFeBe8F63fcE4F9F2435d03C3c2d97a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3400898b-d522-4018-890d-d3be437bac63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE98226D78eFeBe8F63fcE4F9F2435d03C3c2d97a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE98226D78eFeBe8F63fcE4F9F2435d03C3c2d97a/logo.png"
+    }
+  },
+  "name": "MTRONIX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTRON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9dd791dd-f371-4848-84d7-a4b69c84f7b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png"
+    }
+  },
+  "name": "Pinakion",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

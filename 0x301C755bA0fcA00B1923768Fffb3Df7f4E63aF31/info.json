@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f737532-d2bb-495a-a61a-3b8ee5585434",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31/logo.png"
+    }
+  },
+  "name": "Global Digital Content",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

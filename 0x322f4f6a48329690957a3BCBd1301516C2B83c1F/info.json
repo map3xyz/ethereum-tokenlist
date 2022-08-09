@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x322f4f6a48329690957a3BCBd1301516C2B83c1F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9df3ab40-766e-4385-85bd-b499d26e7b07",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x322f4f6a48329690957a3BCBd1301516C2B83c1F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x322f4f6a48329690957a3BCBd1301516C2B83c1F/logo.png"
+    }
+  },
+  "name": "MesChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29D75277aC7F0335b2165D0895E8725cbF658d73",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "63b4e0d8-de46-4b48-ad92-63aeed3ae499",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29D75277aC7F0335b2165D0895E8725cbF658d73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29D75277aC7F0335b2165D0895E8725cbF658d73/logo.png"
+    }
+  },
+  "name": "BitDice",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSNO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

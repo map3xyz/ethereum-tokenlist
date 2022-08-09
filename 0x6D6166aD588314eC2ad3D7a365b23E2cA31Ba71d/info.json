@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bcb7325e-ad03-48cf-a314-ab5a73fa0093",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d/logo.png"
+    }
+  },
+  "name": "BITECH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

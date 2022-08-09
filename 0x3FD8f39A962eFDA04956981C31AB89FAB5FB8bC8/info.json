@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3FD8f39A962eFDA04956981C31AB89FAB5FB8bC8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93979d3e-fe32-40c0-bdf5-bf4b86afa1bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3FD8f39A962eFDA04956981C31AB89FAB5FB8bC8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3FD8f39A962eFDA04956981C31AB89FAB5FB8bC8/logo.png"
+    }
+  },
+  "name": "Rotharium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

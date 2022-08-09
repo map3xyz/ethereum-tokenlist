@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c0df827-750a-43c7-96f2-a2bfa459afba",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e/logo.png"
+    }
+  },
+  "name": "MTCCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44a38810-46ee-4682-9d18-68c6d6d2b08f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC57d533c50bC22247d49a368880fb49a1caA39F7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC57d533c50bC22247d49a368880fb49a1caA39F7/logo.png"
+    }
+  },
+  "name": "PowerTrade Fuel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

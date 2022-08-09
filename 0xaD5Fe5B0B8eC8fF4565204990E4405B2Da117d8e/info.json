@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1f37b8ae-990f-47b6-916d-6d703e816a44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e/logo.png"
+    }
+  },
+  "name": "TRONCLASSIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

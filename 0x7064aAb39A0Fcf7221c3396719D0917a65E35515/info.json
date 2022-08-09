@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7064aAb39A0Fcf7221c3396719D0917a65E35515",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2fc0a67-3497-4bf4-b13c-69f9298e517d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7064aAb39A0Fcf7221c3396719D0917a65E35515/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7064aAb39A0Fcf7221c3396719D0917a65E35515/logo.png"
+    }
+  },
+  "name": "Cpollo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

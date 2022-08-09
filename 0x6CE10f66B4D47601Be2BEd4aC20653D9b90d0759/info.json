@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6CE10f66B4D47601Be2BEd4aC20653D9b90d0759",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "56513490-5f72-4b8b-afb1-f20c2887cbf2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6CE10f66B4D47601Be2BEd4aC20653D9b90d0759/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6CE10f66B4D47601Be2BEd4aC20653D9b90d0759/logo.png"
+    }
+  },
+  "name": "CoinWithNoName",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CWNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

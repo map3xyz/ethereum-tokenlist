@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7d4f0c6-9402-431b-bba7-9a97b0c000a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E/logo.png"
+    }
+  },
+  "name": "TITANIUM NETWORKS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$TTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

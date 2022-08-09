@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "238bee54-03aa-4c29-892b-1a30d8b296d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7/logo.png"
+    }
+  },
+  "name": "JeyennCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD0Bf154768b0f1f8Cba50daA8960C285CE4c67f2",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "58325d70-0b9c-421f-90ab-24fc1f2d8363",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD0Bf154768b0f1f8Cba50daA8960C285CE4c67f2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD0Bf154768b0f1f8Cba50daA8960C285CE4c67f2/logo.png"
+    }
+  },
+  "name": "UrBen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "URBEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

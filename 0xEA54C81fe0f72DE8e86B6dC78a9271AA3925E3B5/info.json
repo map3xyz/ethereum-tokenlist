@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1bbb0a2b-24e6-4a68-8e8c-c4ff264b03fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEA54C81fe0f72DE8e86B6dC78a9271AA3925E3B5/logo.png"
+    }
+  },
+  "name": "BGGToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

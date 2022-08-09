@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa73638329c61c221dCA307ED7ef0154D776d9FDc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47fb262e-d494-4740-9c9a-020f05ce6fc0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa73638329c61c221dCA307ED7ef0154D776d9FDc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa73638329c61c221dCA307ED7ef0154D776d9FDc/logo.png"
+    }
+  },
+  "name": "TKEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

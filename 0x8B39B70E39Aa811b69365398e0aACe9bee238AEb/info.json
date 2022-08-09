@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b336935-86ee-4d07-8b74-e746ed517cde",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb/logo.png"
+    }
+  },
+  "name": "PolkaFoundry",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PKF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

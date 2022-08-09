@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45D180d2f5825Bf6D2DcF383AF83b5D217C96924",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72a8ba04-ad41-4250-9bf7-d8a201588122",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45D180d2f5825Bf6D2DcF383AF83b5D217C96924/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45D180d2f5825Bf6D2DcF383AF83b5D217C96924/logo.png"
+    }
+  },
+  "name": "FEST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

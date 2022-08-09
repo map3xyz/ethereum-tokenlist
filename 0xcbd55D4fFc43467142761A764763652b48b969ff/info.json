@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "743bc350-65e0-482f-ac47-e9a7fbb26984",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcbd55D4fFc43467142761A764763652b48b969ff/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcbd55D4fFc43467142761A764763652b48b969ff/logo.png"
+    }
+  },
+  "name": "AstroTools",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASTRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

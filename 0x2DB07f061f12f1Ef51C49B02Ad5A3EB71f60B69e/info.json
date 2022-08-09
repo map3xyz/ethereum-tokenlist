@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7bbfae04-95a0-4cba-8d4b-c1279bdc1451",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e/logo.png"
+    }
+  },
+  "name": "Melon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MELON",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

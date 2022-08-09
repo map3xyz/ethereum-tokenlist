@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF29226914595052a04F5AFbe6410D0C3eD707548",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1c73358-5a51-464f-88df-3e900acd7321",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF29226914595052a04F5AFbe6410D0C3eD707548/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF29226914595052a04F5AFbe6410D0C3eD707548/logo.png"
+    }
+  },
+  "name": "NEXT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

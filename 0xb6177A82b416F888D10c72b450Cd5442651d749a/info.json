@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb6177A82b416F888D10c72b450Cd5442651d749a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23b9b4ad-d8d9-40c1-943e-62fa4e812d4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb6177A82b416F888D10c72b450Cd5442651d749a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb6177A82b416F888D10c72b450Cd5442651d749a/logo.png"
+    }
+  },
+  "name": "Horizon0x",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Hr0x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

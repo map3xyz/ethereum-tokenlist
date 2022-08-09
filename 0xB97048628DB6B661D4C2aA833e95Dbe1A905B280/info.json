@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "84e79862-f17f-4fc0-ad65-e748e3995937",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280/logo.png"
+    }
+  },
+  "name": "TenX Pay Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf1406cb-b02b-44f5-af58-4a00b99d12f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8/logo.png"
+    }
+  },
+  "name": "DevilCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEVIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35dF7c5fB0Df360a6C9d26bC53b97C5f082b6A1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf5713ef-f928-4050-bf16-34017481dba9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35dF7c5fB0Df360a6C9d26bC53b97C5f082b6A1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35dF7c5fB0Df360a6C9d26bC53b97C5f082b6A1C/logo.png"
+    }
+  },
+  "name": "EcoFi Genesis Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

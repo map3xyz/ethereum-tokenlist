@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5631a20b-e1d5-4d93-b9d6-c372851e7eb5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "EverRise NFT Stakes",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "nftRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

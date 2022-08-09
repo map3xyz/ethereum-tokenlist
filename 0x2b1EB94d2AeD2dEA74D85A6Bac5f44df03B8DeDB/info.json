@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2b1EB94d2AeD2dEA74D85A6Bac5f44df03B8DeDB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15cecae9-7ea1-4a21-943f-cafe83b48867",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b1EB94d2AeD2dEA74D85A6Bac5f44df03B8DeDB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b1EB94d2AeD2dEA74D85A6Bac5f44df03B8DeDB/logo.png"
+    }
+  },
+  "name": "BDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

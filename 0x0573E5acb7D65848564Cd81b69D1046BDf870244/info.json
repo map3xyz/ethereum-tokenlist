@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0573E5acb7D65848564Cd81b69D1046BDf870244",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37844934-5515-48b5-86e2-5ded4704cf75",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0573E5acb7D65848564Cd81b69D1046BDf870244/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0573E5acb7D65848564Cd81b69D1046BDf870244/logo.png"
+    }
+  },
+  "name": "CAMS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

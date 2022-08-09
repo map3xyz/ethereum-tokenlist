@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A5599B97E8c4abB5dd06EBA0E9d1F75AF818DB9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "577841c9-c46f-4360-aec1-80207e2ecbdc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A5599B97E8c4abB5dd06EBA0E9d1F75AF818DB9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A5599B97E8c4abB5dd06EBA0E9d1F75AF818DB9/logo.png"
+    }
+  },
+  "name": "OSMOTIC TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

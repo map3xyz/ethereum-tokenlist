@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "436a7771-3630-4823-8616-48a19910e96e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175/logo.png"
+    }
+  },
+  "name": "Speculative Resistance RTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPECTRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

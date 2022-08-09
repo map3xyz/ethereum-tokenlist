@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6813167a-37ba-4054-b0db-fa9ce03c4fbe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e/logo.png"
+    }
+  },
+  "name": "Electronic Energy Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "E2C",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

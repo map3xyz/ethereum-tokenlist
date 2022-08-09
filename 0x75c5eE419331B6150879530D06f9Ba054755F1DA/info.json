@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x75c5eE419331B6150879530D06f9Ba054755F1DA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1f5c9ed-0c49-4843-982d-0cc26384b14f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x75c5eE419331B6150879530D06f9Ba054755F1DA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75c5eE419331B6150879530D06f9Ba054755F1DA/logo.png"
+    }
+  },
+  "name": "SalPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

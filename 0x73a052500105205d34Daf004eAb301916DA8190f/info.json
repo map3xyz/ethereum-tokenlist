@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73a052500105205d34Daf004eAb301916DA8190f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fecdc054-0f60-470c-a050-ccfae53cfe76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73a052500105205d34Daf004eAb301916DA8190f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73a052500105205d34Daf004eAb301916DA8190f/logo.png"
+    }
+  },
+  "name": "iearn TUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "yTUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

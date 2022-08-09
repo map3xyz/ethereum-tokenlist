@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDC349913d53b446485E98b76800b6254f43Df695",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "1b86ce93-d03c-40ac-8a8d-d3f97a261523",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDC349913d53b446485E98b76800b6254f43Df695/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDC349913d53b446485E98b76800b6254f43Df695/logo.png"
+    }
+  },
+  "name": "Bezoge Earth",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEZOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

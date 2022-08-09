@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73D65156b358B26B9626E98A7eC17dd386E6187D",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "439b86a7-c5f1-4c8e-aa7c-281fa3bd274a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73D65156b358B26B9626E98A7eC17dd386E6187D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73D65156b358B26B9626E98A7eC17dd386E6187D/logo.png"
+    }
+  },
+  "name": "Myph",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

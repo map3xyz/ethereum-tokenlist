@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8D5682941cE456900b12d47ac06a88b47C764CE1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "706d4809-f209-44d6-9e4c-f0fad0f1d2a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8D5682941cE456900b12d47ac06a88b47C764CE1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8D5682941cE456900b12d47ac06a88b47C764CE1/logo.png"
+    }
+  },
+  "name": "RightMesh Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RMESH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5bb036e-7cc1-4147-809d-6c5c6fbb6d37",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3c4030839708a20fd2fb379cf11810dde4888d93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4030839708a20fd2fb379cf11810dde4888d93/logo.png"
+    }
+  },
+  "name": "IMSWallet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

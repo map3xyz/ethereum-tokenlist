@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "204d4afe-4c09-4150-aeaf-2ba7bfa3be71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988/logo.png"
+    }
+  },
+  "name": "Terra Virtua Kolect",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TVK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

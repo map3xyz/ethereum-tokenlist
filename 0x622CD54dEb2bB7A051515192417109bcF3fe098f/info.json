@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x622CD54dEb2bB7A051515192417109bcF3fe098f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4d46229f-8c59-4ffe-bb4a-89c15dd5ec8b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x622CD54dEb2bB7A051515192417109bcF3fe098f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x622CD54dEb2bB7A051515192417109bcF3fe098f/logo.png"
+    }
+  },
+  "name": "IPC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

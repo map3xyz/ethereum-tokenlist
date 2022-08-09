@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x033030FEeBd93E3178487c35A9c8cA80874353C9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8e540ca-e9b7-4b14-948a-e7ec6550d2c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x033030FEeBd93E3178487c35A9c8cA80874353C9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x033030FEeBd93E3178487c35A9c8cA80874353C9/logo.png"
+    }
+  },
+  "name": "BDT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

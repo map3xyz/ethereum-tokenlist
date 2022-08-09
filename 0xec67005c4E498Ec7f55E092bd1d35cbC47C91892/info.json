@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96c24f6e-57e9-4ce5-a3bf-4dabc30ebf14",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
+    }
+  },
+  "name": "Melon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

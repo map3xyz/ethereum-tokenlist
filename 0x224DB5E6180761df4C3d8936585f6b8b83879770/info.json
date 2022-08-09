@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0565200-16db-45be-9fb2-0dad97f219fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x224DB5E6180761df4C3d8936585f6b8b83879770/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x224DB5E6180761df4C3d8936585f6b8b83879770/logo.png"
+    }
+  },
+  "name": "OM Lira",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OML",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

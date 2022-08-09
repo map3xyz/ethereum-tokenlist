@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d13d16c2-a43c-4bd8-b690-619505e95bd9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A/logo.png"
+    }
+  },
+  "name": "CryptoBRL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

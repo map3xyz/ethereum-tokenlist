@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e4C143Bfe35f855624B3F84465AB7401A17A120",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4cd78a7f-5286-4b94-bb5f-041b90354777",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e4C143Bfe35f855624B3F84465AB7401A17A120/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e4C143Bfe35f855624B3F84465AB7401A17A120/logo.png"
+    }
+  },
+  "name": "EXCOIN CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

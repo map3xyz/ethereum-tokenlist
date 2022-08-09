@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "61d4e4cd-51b5-4f4c-8d24-b90e75991672",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5Af2Be193a6ABCa9c8817001F45744777Db30756/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Voyager Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VGX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

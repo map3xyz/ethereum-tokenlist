@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6dfBCB859b4e64a04AFfCE7699a9Ea857c9C1452",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6697b0a-6f12-4ccc-a154-890b0736fad1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6dfBCB859b4e64a04AFfCE7699a9Ea857c9C1452/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6dfBCB859b4e64a04AFfCE7699a9Ea857c9C1452/logo.png"
+    }
+  },
+  "name": "O2O Plus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

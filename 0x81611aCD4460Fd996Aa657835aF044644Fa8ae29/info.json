@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x81611aCD4460Fd996Aa657835aF044644Fa8ae29",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "bb475787-bd0a-4fe0-a228-f310a3a146b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x81611aCD4460Fd996Aa657835aF044644Fa8ae29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81611aCD4460Fd996Aa657835aF044644Fa8ae29/logo.png"
+    }
+  },
+  "name": "Yangue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YANG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

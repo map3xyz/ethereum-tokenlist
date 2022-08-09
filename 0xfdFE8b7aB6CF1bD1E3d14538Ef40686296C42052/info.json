@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4db87aba-a457-43e9-800d-f9058a6cc770",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052/logo.png"
+    }
+  },
+  "name": "Skraps",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

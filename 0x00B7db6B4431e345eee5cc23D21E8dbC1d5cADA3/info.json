@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3884b2d6-c61d-459e-87ce-1e05c44e9bca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3/logo.png"
+    }
+  },
+  "name": "CyberTronChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

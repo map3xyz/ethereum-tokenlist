@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x485d17A6f1B8780392d53D64751824253011A260",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "52a9edd6-2253-4aa0-b539-82e1e13099b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x485d17A6f1B8780392d53D64751824253011A260/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x485d17A6f1B8780392d53D64751824253011A260/logo.png"
+    }
+  },
+  "name": "ChronoTech TIME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

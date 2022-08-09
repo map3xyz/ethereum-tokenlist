@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "97865da5-3ef8-4057-abff-6cd32dd0b17e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da/logo.png"
+    }
+  },
+  "name": "MySmartProperty Tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MSPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

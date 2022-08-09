@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c1fafdef-783a-4317-bcc2-d073a12931fa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9/logo.png"
+    }
+  },
+  "name": "Orbicular",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

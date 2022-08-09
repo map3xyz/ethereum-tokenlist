@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb85b214-53cf-44c1-bb7a-36b2d1720e74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6E605c269E0C92e70BEeB85486f1fC550f9380BD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6E605c269E0C92e70BEeB85486f1fC550f9380BD/logo.png"
+    }
+  },
+  "name": "Catex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CATT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

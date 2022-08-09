@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc6E2970cf8b1943fb58dB5b3c19CFc2ee146f376",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a222419-f2a3-4292-aac3-a84b105625f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc6E2970cf8b1943fb58dB5b3c19CFc2ee146f376/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc6E2970cf8b1943fb58dB5b3c19CFc2ee146f376/logo.png"
+    }
+  },
+  "name": "Future Plan Crypto Currency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FPCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

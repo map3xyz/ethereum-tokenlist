@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "193ef622-f308-4a7f-8ba3-3a7458e36d63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x15874d65e649880c2614e7a480cb7c9A55787FF6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x15874d65e649880c2614e7a480cb7c9A55787FF6/logo.png"
+    }
+  },
+  "name": "EthereumMax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eMax",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

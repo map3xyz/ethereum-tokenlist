@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bb3b0d4-f016-43b8-99ae-b1be343cfb52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e/logo.png"
+    }
+  },
+  "name": "Freight Trust Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe016cba-a13c-437e-82b0-818783616d8d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6710c63432A2De02954fc0f851db07146a6c0312/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6710c63432A2De02954fc0f851db07146a6c0312/logo.png"
+    }
+  },
+  "name": "SyncFab Smart Manufacturing Blockchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MFG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

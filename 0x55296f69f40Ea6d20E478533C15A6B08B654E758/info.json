@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9871c542-65cb-491d-bf99-9cc0329dc561",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png"
+    }
+  },
+  "name": "XY Oracle",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XYO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

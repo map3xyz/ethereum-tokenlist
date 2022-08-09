@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBB49A51Ee5a66ca3a8CbE529379bA44Ba67E6771",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c99273d-cf5c-413c-b77c-7634457bbab2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBB49A51Ee5a66ca3a8CbE529379bA44Ba67E6771/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBB49A51Ee5a66ca3a8CbE529379bA44Ba67E6771/logo.png"
+    }
+  },
+  "name": "Cryptosolartech",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

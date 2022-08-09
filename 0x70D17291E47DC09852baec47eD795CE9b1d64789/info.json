@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70D17291E47DC09852baec47eD795CE9b1d64789",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fdbb0f29-e703-4da3-a2d2-a35b528d6dcf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70D17291E47DC09852baec47eD795CE9b1d64789/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70D17291E47DC09852baec47eD795CE9b1d64789/logo.png"
+    }
+  },
+  "name": "Unica Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

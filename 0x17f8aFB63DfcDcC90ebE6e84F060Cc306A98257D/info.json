@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17f8aFB63DfcDcC90ebE6e84F060Cc306A98257D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5c5537fb-baee-46d6-ae8a-50b0843152cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x17f8aFB63DfcDcC90ebE6e84F060Cc306A98257D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17f8aFB63DfcDcC90ebE6e84F060Cc306A98257D/logo.png"
+    }
+  },
+  "name": "Nebula AI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

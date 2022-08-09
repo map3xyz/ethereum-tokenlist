@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6311a8D6C7ad7d84eF100366aE0B747e50856ec3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "263e5eca-cb6f-49f8-a185-d2d99de67249",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6311a8D6C7ad7d84eF100366aE0B747e50856ec3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6311a8D6C7ad7d84eF100366aE0B747e50856ec3/logo.png"
+    }
+  },
+  "name": "CryptoBones",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

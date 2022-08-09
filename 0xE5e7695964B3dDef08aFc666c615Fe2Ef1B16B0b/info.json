@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7de5d5fc-d153-4db0-bb82-1be4520ce2d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b/logo.png"
+    }
+  },
+  "name": "GaeaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAEA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

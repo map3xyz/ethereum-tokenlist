@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35f42358-741c-4fe6-9d3f-b7b25354baf3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB/logo.png"
+    }
+  },
+  "name": "YFN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

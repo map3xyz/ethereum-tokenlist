@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "879a58e1-5b5a-4ebe-9727-44b164a26b47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFFc63b9146967A1ba33066fB057EE3722221aCf0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFFc63b9146967A1ba33066fB057EE3722221aCf0/logo.png"
+    }
+  },
+  "name": "Alpha",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "A",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

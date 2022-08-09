@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC2498AFcbB23D81A57F2437B1D296E002a0a6Aae",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c632cc41-718c-40b1-be73-2594e1fb1436",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC2498AFcbB23D81A57F2437B1D296E002a0a6Aae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC2498AFcbB23D81A57F2437B1D296E002a0a6Aae/logo.png"
+    }
+  },
+  "name": "Geo Gems",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

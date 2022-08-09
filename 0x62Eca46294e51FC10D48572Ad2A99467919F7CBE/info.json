@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62Eca46294e51FC10D48572Ad2A99467919F7CBE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2927f062-5768-4213-94e3-7f3dc8b4ef7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62Eca46294e51FC10D48572Ad2A99467919F7CBE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62Eca46294e51FC10D48572Ad2A99467919F7CBE/logo.png"
+    }
+  },
+  "name": "BitcoinCash Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

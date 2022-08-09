@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x749f35Ff65932E68267dd82F6CD85eeA735d700E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d74da39-d4a4-4873-8351-2161b2f8522f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x749f35Ff65932E68267dd82F6CD85eeA735d700E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x749f35Ff65932E68267dd82F6CD85eeA735d700E/logo.png"
+    }
+  },
+  "name": "CyClean Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

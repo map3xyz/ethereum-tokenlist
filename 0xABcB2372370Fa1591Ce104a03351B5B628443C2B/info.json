@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xABcB2372370Fa1591Ce104a03351B5B628443C2B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c88aa22b-a6de-4fce-8948-154a819024eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xABcB2372370Fa1591Ce104a03351B5B628443C2B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xABcB2372370Fa1591Ce104a03351B5B628443C2B/logo.png"
+    }
+  },
+  "name": "InveCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

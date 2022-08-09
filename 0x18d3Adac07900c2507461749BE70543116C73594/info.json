@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18d3Adac07900c2507461749BE70543116C73594",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "329ea36a-372c-44a0-b4f9-47bbae85f337",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x18d3Adac07900c2507461749BE70543116C73594/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18d3Adac07900c2507461749BE70543116C73594/logo.png"
+    }
+  },
+  "name": "Africoyn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AFR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

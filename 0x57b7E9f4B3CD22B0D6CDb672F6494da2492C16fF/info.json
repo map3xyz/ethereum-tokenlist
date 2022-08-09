@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a5230ee-5d8b-48c4-b368-dbdaae046904",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF/logo.png"
+    }
+  },
+  "name": "YUI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YUI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

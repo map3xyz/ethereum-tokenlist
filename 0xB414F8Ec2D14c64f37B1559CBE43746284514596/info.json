@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB414F8Ec2D14c64f37B1559CBE43746284514596",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7df0dc1f-5cb0-480d-bcb8-47ea5e6c094c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB414F8Ec2D14c64f37B1559CBE43746284514596/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB414F8Ec2D14c64f37B1559CBE43746284514596/logo.png"
+    }
+  },
+  "name": "Fitcash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a1343a3Ca3c32a69b79AE82e8a9a71c1293C566",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "953534fe-ef0f-4096-82c0-8b09884960c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a1343a3Ca3c32a69b79AE82e8a9a71c1293C566/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a1343a3Ca3c32a69b79AE82e8a9a71c1293C566/logo.png"
+    }
+  },
+  "name": "Onyx S&P 500",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OSPV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

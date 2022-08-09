@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5c7be098-d074-4128-b93e-6b9011500b05",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13/logo.png"
+    }
+  },
+  "name": "Token Play",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TP3",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

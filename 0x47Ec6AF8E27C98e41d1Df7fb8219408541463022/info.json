@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47Ec6AF8E27C98e41d1Df7fb8219408541463022",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6921842-0e4b-44d8-a999-92d072a99291",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47Ec6AF8E27C98e41d1Df7fb8219408541463022/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47Ec6AF8E27C98e41d1Df7fb8219408541463022/logo.png"
+    }
+  },
+  "name": "Eurasia Food coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EFOOD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

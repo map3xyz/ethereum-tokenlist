@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b19f3d80-73f7-4767-930c-5a097a6be5f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e/logo.png"
+    }
+  },
+  "name": "e-Money DKK stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDKK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

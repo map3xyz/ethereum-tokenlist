@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD6e1401a079922469e9b965Cb090ea6fF64C6839",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22440816-aa23-499d-9665-822d3cfdbdad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD6e1401a079922469e9b965Cb090ea6fF64C6839/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD6e1401a079922469e9b965Cb090ea6fF64C6839/logo.png"
+    }
+  },
+  "name": "HOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

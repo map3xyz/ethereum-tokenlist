@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6C5A643F582408a640068Ed68443D9185Fb2b0B8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8f39801e-82f6-4a67-b522-7f6ffa945754",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6C5A643F582408a640068Ed68443D9185Fb2b0B8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6C5A643F582408a640068Ed68443D9185Fb2b0B8/logo.png"
+    }
+  },
+  "name": "EGGS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

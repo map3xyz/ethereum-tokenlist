@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5b2dBBA9a3c04Ec4F56cBe16520dEBecbF35545",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce005c93-6f97-4080-9404-00b9fdd0809f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5b2dBBA9a3c04Ec4F56cBe16520dEBecbF35545/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5b2dBBA9a3c04Ec4F56cBe16520dEBecbF35545/logo.png"
+    }
+  },
+  "name": "Reakoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

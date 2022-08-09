@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ded0bdf5-85f0-4ba1-9cf4-7902ea167493",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D8fc1453a0F359e99c9675954e656D80d996FbF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D8fc1453a0F359e99c9675954e656D80d996FbF/logo.png"
+    }
+  },
+  "name": "Bee Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

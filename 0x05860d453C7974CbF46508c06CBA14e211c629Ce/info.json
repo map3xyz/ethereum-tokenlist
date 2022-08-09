@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05860d453C7974CbF46508c06CBA14e211c629Ce",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2fd62231-4a28-43d7-b744-4929c185c3f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05860d453C7974CbF46508c06CBA14e211c629Ce/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05860d453C7974CbF46508c06CBA14e211c629Ce/logo.png"
+    }
+  },
+  "name": "Eden Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

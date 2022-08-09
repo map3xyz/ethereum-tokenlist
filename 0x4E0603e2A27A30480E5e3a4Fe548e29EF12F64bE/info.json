@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E0603e2A27A30480E5e3a4Fe548e29EF12F64bE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "784c9185-bd84-470a-b963-7e6db4c40fcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E0603e2A27A30480E5e3a4Fe548e29EF12F64bE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E0603e2A27A30480E5e3a4Fe548e29EF12F64bE/logo.png"
+    }
+  },
+  "name": "Credo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CREDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF0f8B0B8DBB1124261FC8d778E2287e3Fd2Cf4f5",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "a36773a7-ad47-4afe-9af1-0b066ed34e74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF0f8B0B8DBB1124261FC8d778E2287e3Fd2Cf4f5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF0f8B0B8DBB1124261FC8d778E2287e3Fd2Cf4f5/logo.png"
+    }
+  },
+  "name": "bitqy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

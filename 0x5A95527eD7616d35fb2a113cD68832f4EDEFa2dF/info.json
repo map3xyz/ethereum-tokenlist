@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5A95527eD7616d35fb2a113cD68832f4EDEFa2dF",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f5793c2e-2025-4cf2-aebf-d76f23dbbb96",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A95527eD7616d35fb2a113cD68832f4EDEFa2dF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5A95527eD7616d35fb2a113cD68832f4EDEFa2dF/logo.png"
+    }
+  },
+  "name": "AllWensCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

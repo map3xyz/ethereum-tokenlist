@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32e847b8-c625-4794-8ce3-633bd56aaec9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba/logo.png"
+    }
+  },
+  "name": "PWCC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PWCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

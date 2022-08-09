@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17e16eeb-37f5-4892-a61a-fcf41eff514d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615/logo.png"
+    }
+  },
+  "name": "Payback",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

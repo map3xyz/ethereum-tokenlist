@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfc260E3fAC3CdEf615053dBCDa09Aa184B0361b6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0137477b-bb05-407c-820d-56f3798b11b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfc260E3fAC3CdEf615053dBCDa09Aa184B0361b6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc260E3fAC3CdEf615053dBCDa09Aa184B0361b6/logo.png"
+    }
+  },
+  "name": "CRYPTO SPOON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c78282b1-9ee0-4398-93d4-fc94bd739464",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38/logo.png"
+    }
+  },
+  "name": "Pundi X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PUNDIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

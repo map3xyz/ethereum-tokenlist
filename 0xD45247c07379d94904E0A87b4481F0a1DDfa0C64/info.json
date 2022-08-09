@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD45247c07379d94904E0A87b4481F0a1DDfa0C64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d88526cc-33d0-45c2-9ece-4d14fb6a10c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD45247c07379d94904E0A87b4481F0a1DDfa0C64/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD45247c07379d94904E0A87b4481F0a1DDfa0C64/logo.png"
+    }
+  },
+  "name": "Buggyra Coin Zero",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCZERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

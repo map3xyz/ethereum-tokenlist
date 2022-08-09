@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x500565E098d98A273224eC8Fb33d98dC8946F8B9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de8eb552-eb52-4cfb-9d78-f80013c8c68c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x500565E098d98A273224eC8Fb33d98dC8946F8B9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x500565E098d98A273224eC8Fb33d98dC8946F8B9/logo.png"
+    }
+  },
+  "name": "Game Cell Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

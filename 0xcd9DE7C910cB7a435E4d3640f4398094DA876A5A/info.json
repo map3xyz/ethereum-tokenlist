@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcd9DE7C910cB7a435E4d3640f4398094DA876A5A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56a31ddd-14e0-4e6e-a248-16c8c500c43d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcd9DE7C910cB7a435E4d3640f4398094DA876A5A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd9DE7C910cB7a435E4d3640f4398094DA876A5A/logo.png"
+    }
+  },
+  "name": "Marconi Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8E822B60b3a262d34dF59A4Ddd02383deF599B94",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "4badf337-511c-4bc3-94be-c056e671378c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E822B60b3a262d34dF59A4Ddd02383deF599B94/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8E822B60b3a262d34dF59A4Ddd02383deF599B94/logo.png"
+    }
+  },
+  "name": "USDCI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDCI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

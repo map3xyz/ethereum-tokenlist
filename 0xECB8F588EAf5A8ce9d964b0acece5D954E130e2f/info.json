@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xECB8F588EAf5A8ce9d964b0acece5D954E130e2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e68adb75-d773-4414-bb03-8f0fa14681b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xECB8F588EAf5A8ce9d964b0acece5D954E130e2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xECB8F588EAf5A8ce9d964b0acece5D954E130e2f/logo.png"
+    }
+  },
+  "name": "simplyBrand Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

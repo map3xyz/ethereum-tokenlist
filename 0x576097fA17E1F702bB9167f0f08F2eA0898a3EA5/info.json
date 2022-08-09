@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x576097fA17E1F702bB9167f0f08F2eA0898a3EA5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad995ecc-7d24-488d-81c4-6eaf9c5b215d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x576097fA17E1F702bB9167f0f08F2eA0898a3EA5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x576097fA17E1F702bB9167f0f08F2eA0898a3EA5/logo.png"
+    }
+  },
+  "name": "DogeToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DogeT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

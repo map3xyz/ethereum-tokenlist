@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a92d1c5c-1aa7-4e3a-9faf-6824323a8958",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb5A5F22694352C15B00323844aD545ABb2B11028/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5A5F22694352C15B00323844aD545ABb2B11028/logo.png"
+    }
+  },
+  "name": "ICON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

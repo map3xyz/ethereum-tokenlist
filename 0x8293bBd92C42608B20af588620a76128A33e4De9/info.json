@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8293bBd92C42608B20af588620a76128A33e4De9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "f8ed6b36-871a-4b02-8029-13b8637dcba9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8293bBd92C42608B20af588620a76128A33e4De9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8293bBd92C42608B20af588620a76128A33e4De9/logo.png"
+    }
+  },
+  "name": "CATCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CATS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

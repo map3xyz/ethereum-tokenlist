@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94D08EDdD9b41B486E3e5DBe500c2cCf165A22Bc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "46488652-764a-4f22-937d-e5c1b3e12253",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94D08EDdD9b41B486E3e5DBe500c2cCf165A22Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94D08EDdD9b41B486E3e5DBe500c2cCf165A22Bc/logo.png"
+    }
+  },
+  "name": "BIOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

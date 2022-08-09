@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9443528Ec80759098287A01C0856eB2Cddbd19C2",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "def12423-4c8a-40cc-a1d7-7310714124ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9443528Ec80759098287A01C0856eB2Cddbd19C2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9443528Ec80759098287A01C0856eB2Cddbd19C2/logo.png"
+    }
+  },
+  "name": "ZBCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

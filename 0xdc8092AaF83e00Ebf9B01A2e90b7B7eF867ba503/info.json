@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdc8092AaF83e00Ebf9B01A2e90b7B7eF867ba503",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "9ce47157-c49c-4f9f-9411-005c9f02ae00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdc8092AaF83e00Ebf9B01A2e90b7B7eF867ba503/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdc8092AaF83e00Ebf9B01A2e90b7B7eF867ba503/logo.png"
+    }
+  },
+  "name": "Calvin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CALVIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

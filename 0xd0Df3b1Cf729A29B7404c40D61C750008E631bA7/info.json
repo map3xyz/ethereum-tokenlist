@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6116defb-3ade-4ef7-aeb0-5d4cda4e72e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7/logo.png"
+    }
+  },
+  "name": "Rug",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RUG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

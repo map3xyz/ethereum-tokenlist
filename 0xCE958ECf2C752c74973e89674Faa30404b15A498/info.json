@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCE958ECf2C752c74973e89674Faa30404b15A498",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a7eae41-f5e4-4f35-b265-e9fdae73242e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCE958ECf2C752c74973e89674Faa30404b15A498/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCE958ECf2C752c74973e89674Faa30404b15A498/logo.png"
+    }
+  },
+  "name": "MaspToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MASP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4738a58f7473054d166D569274Cf6E023034eC19",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "08895896-3d23-4450-8f43-0a9c9f7df78b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4738a58f7473054d166D569274Cf6E023034eC19/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4738a58f7473054d166D569274Cf6E023034eC19/logo.png"
+    }
+  },
+  "name": "Blockchain Help Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

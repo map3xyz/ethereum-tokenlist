@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3b04300f-06f2-42de-8f13-f68e32319030",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5/logo.png"
+    }
+  },
+  "name": "Tardigrades.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRDG",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

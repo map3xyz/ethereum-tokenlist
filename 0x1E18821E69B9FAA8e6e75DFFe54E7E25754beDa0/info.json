@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "380ee460-1ce6-4597-8b13-3d2f2387425e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0/logo.png"
+    }
+  },
+  "name": "KIMCHI.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIMCHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

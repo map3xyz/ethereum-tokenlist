@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b11886e-5d84-445b-9fa5-9d1378db522a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc175E77b04F2341517334Ea3Ed0b198A01A97383/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc175E77b04F2341517334Ea3Ed0b198A01A97383/logo.png"
+    }
+  },
+  "name": "3X Long TRX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRXBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

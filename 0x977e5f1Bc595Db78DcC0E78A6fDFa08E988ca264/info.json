@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88d12c4a-2a9b-4a0e-87b2-a84abfb63dde",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264/logo.png"
+    }
+  },
+  "name": "Nicash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NICASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

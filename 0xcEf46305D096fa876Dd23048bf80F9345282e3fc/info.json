@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "076e0a51-352f-4e4c-a2fb-149efad0bf37",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcEf46305D096fa876Dd23048bf80F9345282e3fc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcEf46305D096fa876Dd23048bf80F9345282e3fc/logo.png"
+    }
+  },
+  "name": "BANQUEUNIVERSAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

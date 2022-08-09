@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "0e5f8b72-fb0a-4a68-bbab-54d5ad0b2a0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c/logo.png"
+    }
+  },
+  "name": "SUREBANQA UTILITY TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

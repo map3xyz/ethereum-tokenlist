@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02E2C716230C6750208F7Cb1Af34049472C91527",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "48ce1092-862e-4956-aca7-f4321fc0d8c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02E2C716230C6750208F7Cb1Af34049472C91527/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02E2C716230C6750208F7Cb1Af34049472C91527/logo.png"
+    }
+  },
+  "name": "YP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

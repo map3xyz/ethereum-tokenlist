@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a995bfe-dcdf-4ba7-b5df-51c15742f71b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3/logo.png"
+    }
+  },
+  "name": "PCHAIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

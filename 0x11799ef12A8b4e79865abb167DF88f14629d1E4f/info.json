@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11799ef12A8b4e79865abb167DF88f14629d1E4f",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "0037b669-91e4-40f9-aea5-3afacba13aa1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11799ef12A8b4e79865abb167DF88f14629d1E4f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11799ef12A8b4e79865abb167DF88f14629d1E4f/logo.png"
+    }
+  },
+  "name": "BETX Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

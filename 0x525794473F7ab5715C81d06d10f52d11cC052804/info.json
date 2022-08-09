@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x525794473F7ab5715C81d06d10f52d11cC052804",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe8be02b-adf1-4d74-8bbe-478fd38b8b6e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x525794473F7ab5715C81d06d10f52d11cC052804/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x525794473F7ab5715C81d06d10f52d11cC052804/logo.png"
+    }
+  },
+  "name": "12Ships",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TSHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

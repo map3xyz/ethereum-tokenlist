@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6ba0AA61ccD254fD92d548dfE87d06533649c12",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91c9814a-009a-4e37-8d0e-27f872f05057",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6ba0AA61ccD254fD92d548dfE87d06533649c12/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6ba0AA61ccD254fD92d548dfE87d06533649c12/logo.png"
+    }
+  },
+  "name": "Career Trust Ecosystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

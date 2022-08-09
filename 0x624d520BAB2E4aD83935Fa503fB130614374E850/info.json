@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x624d520BAB2E4aD83935Fa503fB130614374E850",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c73d3755-3927-4ec4-83bb-ab27780e88d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x624d520BAB2E4aD83935Fa503fB130614374E850/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x624d520BAB2E4aD83935Fa503fB130614374E850/logo.png"
+    }
+  },
+  "name": "smartshare token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

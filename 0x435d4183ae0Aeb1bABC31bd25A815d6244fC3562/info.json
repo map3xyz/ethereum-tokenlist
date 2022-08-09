@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "abb1c3a0-0a08-4128-a824-9c8c1e095f55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562/logo.png"
+    }
+  },
+  "name": "Rich Human Crypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

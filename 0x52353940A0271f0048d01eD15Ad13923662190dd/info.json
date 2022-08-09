@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52353940A0271f0048d01eD15Ad13923662190dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47f848ed-dc77-40a7-b9d7-6ab71b555ea6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52353940A0271f0048d01eD15Ad13923662190dd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52353940A0271f0048d01eD15Ad13923662190dd/logo.png"
+    }
+  },
+  "name": "MAHOGANY COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MHG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

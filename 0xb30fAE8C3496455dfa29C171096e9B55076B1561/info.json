@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb30fAE8C3496455dfa29C171096e9B55076B1561",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b47628f5-5559-48a8-bd63-977fd89575c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb30fAE8C3496455dfa29C171096e9B55076B1561/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb30fAE8C3496455dfa29C171096e9B55076B1561/logo.png"
+    }
+  },
+  "name": "New Era 2020",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ERA20",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

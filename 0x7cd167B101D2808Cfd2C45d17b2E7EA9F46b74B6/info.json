@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce99ad03-284b-4921-b391-bd5d3be36c50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6/logo.png"
+    }
+  },
+  "name": "USD Coin (Portal from BSC)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDCbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

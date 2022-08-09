@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa6289055A43195243bFDFbf08b00619e13D9531A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5954d7d6-86a3-4d5b-9bf1-c1508c491610",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa6289055A43195243bFDFbf08b00619e13D9531A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa6289055A43195243bFDFbf08b00619e13D9531A/logo.png"
+    }
+  },
+  "name": "FCN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

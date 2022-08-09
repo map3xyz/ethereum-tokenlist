@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1213e5b3-fb26-4e11-a5c4-7a3ed3ab0d21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f/logo.png"
+    }
+  },
+  "name": "Rai Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Rai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

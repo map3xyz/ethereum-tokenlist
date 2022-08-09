@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cce314bb-1597-4339-bdf4-2266714c40e5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475/logo.png"
+    }
+  },
+  "name": "BestOne",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

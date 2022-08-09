@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "68f679e5-b39a-4e2f-969b-e1f1a44a9469",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000b3F879cb30FE243b4Dfee438691c04/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0000000000b3F879cb30FE243b4Dfee438691c04/logo.png"
+    }
+  },
+  "name": "Gastoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GST2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

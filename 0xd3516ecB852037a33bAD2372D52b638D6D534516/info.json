@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd3516ecB852037a33bAD2372D52b638D6D534516",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac32aab9-5b17-4451-b506-a1cf4a36bf85",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd3516ecB852037a33bAD2372D52b638D6D534516/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd3516ecB852037a33bAD2372D52b638D6D534516/logo.png"
+    }
+  },
+  "name": "Auto Make Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

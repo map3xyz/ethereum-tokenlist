@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc18003f-b937-4a82-956f-8449bd4f0a18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B/logo.png"
+    }
+  },
+  "name": "NerveNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

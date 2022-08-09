@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe6710e0CdA178f3D921f456902707B0d4C4A332B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e19787cc-b4c4-4556-b39d-7e11aa9b8f79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
+    }
+  },
+  "name": "Julien",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JULIEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

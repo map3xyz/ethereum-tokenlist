@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ce1d47b9-972f-4f2f-9f56-03501f19bc04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A/logo.png"
+    }
+  },
+  "name": "Peculium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

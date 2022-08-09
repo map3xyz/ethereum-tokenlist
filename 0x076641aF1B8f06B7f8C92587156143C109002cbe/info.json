@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "309ff885-b842-4134-b62d-4c202008d886",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x076641aF1B8f06B7f8C92587156143C109002cbe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x076641aF1B8f06B7f8C92587156143C109002cbe/logo.png"
+    }
+  },
+  "name": "SoPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

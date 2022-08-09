@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ec0a2c1-d625-4060-b521-14ca5dabce3d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B/logo.png"
+    }
+  },
+  "name": "intimate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

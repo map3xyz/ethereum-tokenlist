@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe1A26d61f8AC0d22A355eDBc5053f01C5992190c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "9cd173e3-68df-43f4-ab77-60a70a1bb52d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe1A26d61f8AC0d22A355eDBc5053f01C5992190c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1A26d61f8AC0d22A355eDBc5053f01C5992190c/logo.png"
+    }
+  },
+  "name": "Inspeer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x430bd07726423A54f6d82Ab0F578CE62A3b8054D",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "91cbc3d3-04e5-444d-9e59-4312e4d856bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x430bd07726423A54f6d82Ab0F578CE62A3b8054D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x430bd07726423A54f6d82Ab0F578CE62A3b8054D/logo.png"
+    }
+  },
+  "name": "UOSToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

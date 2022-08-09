@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFF21A0BE6114CC4dF52B6F39f68820C3B6EBfe45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b15677e6-ce54-4aa1-ad77-9497cbcf083e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFF21A0BE6114CC4dF52B6F39f68820C3B6EBfe45/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFF21A0BE6114CC4dF52B6F39f68820C3B6EBfe45/logo.png"
+    }
+  },
+  "name": "SOCIALMEDIACOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

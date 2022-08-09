@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F74bD428C931372d50B0776982C458b1b3f2B72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2cb07eb1-bddb-4a92-b900-667a029c1551",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F74bD428C931372d50B0776982C458b1b3f2B72/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F74bD428C931372d50B0776982C458b1b3f2B72/logo.png"
+    }
+  },
+  "name": "FGCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

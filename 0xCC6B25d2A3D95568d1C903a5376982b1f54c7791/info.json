@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCC6B25d2A3D95568d1C903a5376982b1f54c7791",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d388db33-364a-4857-82aa-6d3bcffed1d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCC6B25d2A3D95568d1C903a5376982b1f54c7791/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCC6B25d2A3D95568d1C903a5376982b1f54c7791/logo.png"
+    }
+  },
+  "name": "DEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

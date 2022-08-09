@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17fD666fa0784885fa1AFEc8AC624d9b7e72B752",
+  "color": null,
+  "decimals": 14,
+  "description": null,
+  "id": "ea04cfd0-9e40-4898-bfc6-a5281e462af1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x17fD666fa0784885fa1AFEc8AC624d9b7e72B752/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17fD666fa0784885fa1AFEc8AC624d9b7e72B752/logo.png"
+    }
+  },
+  "name": "FLiK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLIK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

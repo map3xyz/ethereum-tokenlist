@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e84bb3ff-e1f0-4fb9-8e7a-aec17af2d5a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "DEXTools",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

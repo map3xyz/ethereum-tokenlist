@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe30e02f049957e2A5907589e06Ba646fB2c321bA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b66b3777-82f7-4b2a-9838-63dbe01fdf5a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe30e02f049957e2A5907589e06Ba646fB2c321bA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe30e02f049957e2A5907589e06Ba646fB2c321bA/logo.png"
+    }
+  },
+  "name": "DRP Utility",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRPU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

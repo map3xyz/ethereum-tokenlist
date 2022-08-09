@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c96dbbbd-db13-43d4-91cd-6854694ec705",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D/logo.png"
+    }
+  },
+  "name": "Kine Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KINE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

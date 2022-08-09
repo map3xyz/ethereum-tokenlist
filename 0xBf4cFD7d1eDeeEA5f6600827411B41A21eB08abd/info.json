@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "e76b1e43-9d56-4d4d-8fc6-48392397dc1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd/logo.png"
+    }
+  },
+  "name": "CryptoLah",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

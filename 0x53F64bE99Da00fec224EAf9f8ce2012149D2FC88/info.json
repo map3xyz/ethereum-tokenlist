@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55f564a4-f405-487b-95d9-9bb295223aac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88/logo.png"
+    }
+  },
+  "name": "NICE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

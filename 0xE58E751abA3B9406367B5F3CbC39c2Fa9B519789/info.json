@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE58E751abA3B9406367B5F3CbC39c2Fa9B519789",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68ff7322-61a7-4e6b-8ee0-f5cf8475ffea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE58E751abA3B9406367B5F3CbC39c2Fa9B519789/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE58E751abA3B9406367B5F3CbC39c2Fa9B519789/logo.png"
+    }
+  },
+  "name": "EXOLOVER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

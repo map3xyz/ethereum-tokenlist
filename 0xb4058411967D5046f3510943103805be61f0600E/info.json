@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb4058411967D5046f3510943103805be61f0600E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "240ca687-986a-469e-a00e-201de828b725",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb4058411967D5046f3510943103805be61f0600E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb4058411967D5046f3510943103805be61f0600E/logo.png"
+    }
+  },
+  "name": "STONK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STONK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

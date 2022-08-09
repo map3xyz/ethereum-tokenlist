@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x540e5fFF293f523Acd26291b5bC7ac5713991FEb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1297128b-c183-4634-b546-fd7f401df5ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x540e5fFF293f523Acd26291b5bC7ac5713991FEb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x540e5fFF293f523Acd26291b5bC7ac5713991FEb/logo.png"
+    }
+  },
+  "name": "PitisCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

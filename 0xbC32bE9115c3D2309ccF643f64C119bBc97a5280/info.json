@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbC32bE9115c3D2309ccF643f64C119bBc97a5280",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cb14c083-80eb-46d8-8a37-3325cb179326",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbC32bE9115c3D2309ccF643f64C119bBc97a5280/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbC32bE9115c3D2309ccF643f64C119bBc97a5280/logo.png"
+    }
+  },
+  "name": "Myers Exchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

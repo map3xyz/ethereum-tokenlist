@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a393fe06-c5b5-4f2b-96e3-44143ee9d29d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png"
+    }
+  },
+  "name": "AIOZ Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIOZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06118f6d-3f41-46c0-a04d-3a551a6d1e30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794/logo.png"
+    }
+  },
+  "name": "Ethereum Meta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

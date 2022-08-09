@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF989E16233ad1aD0F2aF739547eF92745341F52B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4100967e-359c-44a8-8094-c1c8a56f57eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF989E16233ad1aD0F2aF739547eF92745341F52B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF989E16233ad1aD0F2aF739547eF92745341F52B/logo.png"
+    }
+  },
+  "name": "Coin Fella Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

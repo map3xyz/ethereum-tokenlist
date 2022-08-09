@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c437c31b-5175-446b-b471-b8c697a5cdb2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006/logo.png"
+    }
+  },
+  "name": "Teccoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Tecn",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

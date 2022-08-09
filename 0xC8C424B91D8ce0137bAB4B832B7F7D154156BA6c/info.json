@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a262cc94-52aa-4948-b85f-c762f289253d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c/logo.png"
+    }
+  },
+  "name": "APM Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

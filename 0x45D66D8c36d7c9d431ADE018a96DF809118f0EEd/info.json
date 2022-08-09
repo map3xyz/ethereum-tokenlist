@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45D66D8c36d7c9d431ADE018a96DF809118f0EEd",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "63c37817-f8a2-40ae-890f-fec673a54d22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45D66D8c36d7c9d431ADE018a96DF809118f0EEd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45D66D8c36d7c9d431ADE018a96DF809118f0EEd/logo.png"
+    }
+  },
+  "name": "DACSC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DACSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

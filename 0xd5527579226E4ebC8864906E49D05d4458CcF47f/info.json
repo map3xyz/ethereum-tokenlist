@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd5527579226E4ebC8864906E49D05d4458CcF47f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8606e9a2-2aa7-4d3a-b836-433f67730e61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd5527579226E4ebC8864906E49D05d4458CcF47f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd5527579226E4ebC8864906E49D05d4458CcF47f/logo.png"
+    }
+  },
+  "name": "Kubera token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

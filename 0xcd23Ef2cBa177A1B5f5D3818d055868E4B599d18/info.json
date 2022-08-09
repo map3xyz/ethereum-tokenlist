@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcd23Ef2cBa177A1B5f5D3818d055868E4B599d18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da8ffdff-4c28-4536-bc9a-6e9e5dc06e47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcd23Ef2cBa177A1B5f5D3818d055868E4B599d18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcd23Ef2cBa177A1B5f5D3818d055868E4B599d18/logo.png"
+    }
+  },
+  "name": "Moon Money Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

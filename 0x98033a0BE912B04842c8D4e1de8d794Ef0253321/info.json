@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x98033a0BE912B04842c8D4e1de8d794Ef0253321",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ccb120cf-67e1-45ef-952c-6d43ff836df2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x98033a0BE912B04842c8D4e1de8d794Ef0253321/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x98033a0BE912B04842c8D4e1de8d794Ef0253321/logo.png"
+    }
+  },
+  "name": "AskToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

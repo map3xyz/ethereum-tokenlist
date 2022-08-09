@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12b2cd6d-b21f-49ae-b5d1-1c0e92478836",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3/logo.png"
+    }
+  },
+  "name": "MaverickChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

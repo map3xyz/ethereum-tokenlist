@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5eb1e6ef-3c45-45c0-8da0-33963b496de0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf05a9382A4C3F29E2784502754293D88b835109C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf05a9382A4C3F29E2784502754293D88b835109C/logo.png"
+    }
+  },
+  "name": "REX - Real Estate tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

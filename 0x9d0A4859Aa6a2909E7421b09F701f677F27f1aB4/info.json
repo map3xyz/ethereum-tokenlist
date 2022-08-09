@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9d0A4859Aa6a2909E7421b09F701f677F27f1aB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f0cfa41-d214-4fe4-ad62-628b3b572b89",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d0A4859Aa6a2909E7421b09F701f677F27f1aB4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d0A4859Aa6a2909E7421b09F701f677F27f1aB4/logo.png"
+    }
+  },
+  "name": "Wallstreetbets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

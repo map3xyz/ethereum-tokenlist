@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "646830ce-5200-4012-ad09-200150807cb0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8/logo.png"
+    }
+  },
+  "name": "Hokkaidu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOKK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

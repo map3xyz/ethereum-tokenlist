@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fb6ad1ce-2b90-481d-9742-a03216310366",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8/logo.png"
+    }
+  },
+  "name": "Kauri",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2134057C0b461F898D375Cead652Acae62b59541",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "423af4c7-29b9-426d-817d-d209dfb3faf3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2134057C0b461F898D375Cead652Acae62b59541/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2134057C0b461F898D375Cead652Acae62b59541/logo.png"
+    }
+  },
+  "name": "CoxxxCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

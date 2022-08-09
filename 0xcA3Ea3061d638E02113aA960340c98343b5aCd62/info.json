@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcA3Ea3061d638E02113aA960340c98343b5aCd62",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c20b824-02e1-458c-b09f-e989ffbc8771",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcA3Ea3061d638E02113aA960340c98343b5aCd62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcA3Ea3061d638E02113aA960340c98343b5aCd62/logo.png"
+    }
+  },
+  "name": "Bittwatt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

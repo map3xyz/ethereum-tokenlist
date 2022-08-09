@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2b6fF53Fc2493CcD5202D80a6C439741414C5Ff2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75bac58d-d3f9-4294-9140-a259de11cb67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b6fF53Fc2493CcD5202D80a6C439741414C5Ff2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b6fF53Fc2493CcD5202D80a6C439741414C5Ff2/logo.png"
+    }
+  },
+  "name": "Tweebaa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TWEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

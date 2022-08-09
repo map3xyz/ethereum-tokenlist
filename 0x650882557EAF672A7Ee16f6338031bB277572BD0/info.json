@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x650882557EAF672A7Ee16f6338031bB277572BD0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f093e338-3c9b-4747-a9ed-7f6e3c10ccad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x650882557EAF672A7Ee16f6338031bB277572BD0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x650882557EAF672A7Ee16f6338031bB277572BD0/logo.png"
+    }
+  },
+  "name": "Hydra Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

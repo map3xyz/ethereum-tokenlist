@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00f58957-13c7-4876-9a98-c7c161667a50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94/logo.png"
+    }
+  },
+  "name": "RiveX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RVX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

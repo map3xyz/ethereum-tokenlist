@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f92aebf-7276-465e-8c7c-9bc7ec77739b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Streamr DATAcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

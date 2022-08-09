@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bfdec427-ddf6-49bb-bbc3-4ab16cdca58d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341/logo.png"
+    }
+  },
+  "name": "ZEDXION",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZEDXION",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

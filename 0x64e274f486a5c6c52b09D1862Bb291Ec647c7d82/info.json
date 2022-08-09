@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b68d8458-f9d3-46c8-b2b4-d9e3304b7572",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82/logo.png"
+    }
+  },
+  "name": "OZCAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

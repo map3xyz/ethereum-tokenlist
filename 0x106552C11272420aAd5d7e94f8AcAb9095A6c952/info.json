@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x106552C11272420aAd5d7e94f8AcAb9095A6c952",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "15c80261-d9c4-4405-b556-5215f4bd34ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x106552C11272420aAd5d7e94f8AcAb9095A6c952/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x106552C11272420aAd5d7e94f8AcAb9095A6c952/logo.png"
+    }
+  },
+  "name": "Keanu Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KEANU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

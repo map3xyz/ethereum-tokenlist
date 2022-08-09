@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56489406-c274-40f3-8e4f-263fe7595f13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png"
+    }
+  },
+  "name": "OpenDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

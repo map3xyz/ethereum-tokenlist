@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48109c5e-ccbb-4b42-bfba-b1b441f3b8fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF/logo.png"
+    }
+  },
+  "name": "Digital Thai Baht",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

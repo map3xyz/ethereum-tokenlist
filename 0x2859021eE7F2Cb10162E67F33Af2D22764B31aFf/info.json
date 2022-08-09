@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3fb46465-065d-4b17-a634-4ebf4abffd63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf/logo.png"
+    }
+  },
+  "name": "Silent Notary Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

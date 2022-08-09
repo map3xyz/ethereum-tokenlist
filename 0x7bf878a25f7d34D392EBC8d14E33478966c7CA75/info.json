@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7bf878a25f7d34D392EBC8d14E33478966c7CA75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29d620ae-1843-4bed-a221-b0fce3cf9b69",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7bf878a25f7d34D392EBC8d14E33478966c7CA75/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7bf878a25f7d34D392EBC8d14E33478966c7CA75/logo.png"
+    }
+  },
+  "name": "Pornvisory",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PVY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

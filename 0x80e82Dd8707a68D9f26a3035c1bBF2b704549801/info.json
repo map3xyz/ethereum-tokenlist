@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80e82Dd8707a68D9f26a3035c1bBF2b704549801",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "af0da90b-dcce-4efa-9502-17c37d980a4d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80e82Dd8707a68D9f26a3035c1bBF2b704549801/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80e82Dd8707a68D9f26a3035c1bBF2b704549801/logo.png"
+    }
+  },
+  "name": "Trendercoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

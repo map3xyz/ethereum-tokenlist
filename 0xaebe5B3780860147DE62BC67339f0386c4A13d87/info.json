@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaebe5B3780860147DE62BC67339f0386c4A13d87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "943b3131-ee4c-4423-bb46-0b0575c646bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaebe5B3780860147DE62BC67339f0386c4A13d87/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaebe5B3780860147DE62BC67339f0386c4A13d87/logo.png"
+    }
+  },
+  "name": "NTer Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

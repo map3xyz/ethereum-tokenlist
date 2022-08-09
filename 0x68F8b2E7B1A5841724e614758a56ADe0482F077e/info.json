@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68F8b2E7B1A5841724e614758a56ADe0482F077e",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "8d10b394-9c0d-4840-ad51-31e5d32ce45f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68F8b2E7B1A5841724e614758a56ADe0482F077e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68F8b2E7B1A5841724e614758a56ADe0482F077e/logo.png"
+    }
+  },
+  "name": "LXANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LXANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

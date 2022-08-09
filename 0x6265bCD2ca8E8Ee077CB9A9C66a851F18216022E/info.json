@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e635dc85-afc4-4171-b6e2-3bd767484836",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E/logo.png"
+    }
+  },
+  "name": "EtherCare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

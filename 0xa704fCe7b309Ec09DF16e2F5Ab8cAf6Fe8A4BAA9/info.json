@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa704fCe7b309Ec09DF16e2F5Ab8cAf6Fe8A4BAA9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c354a51-a65b-4ddf-b8d5-ef0855a21882",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa704fCe7b309Ec09DF16e2F5Ab8cAf6Fe8A4BAA9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa704fCe7b309Ec09DF16e2F5Ab8cAf6Fe8A4BAA9/logo.png"
+    }
+  },
+  "name": "AgriChain Utility Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

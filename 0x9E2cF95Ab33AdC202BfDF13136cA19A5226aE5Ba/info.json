@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c2f1dce8-576c-4641-8ffd-5e57ed764067",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba/logo.png"
+    }
+  },
+  "name": "STOCKSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STOCKSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

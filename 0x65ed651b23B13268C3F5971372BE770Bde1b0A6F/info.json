@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x65ed651b23B13268C3F5971372BE770Bde1b0A6F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ae16a5a-e225-4f67-8f9c-3fea061078a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x65ed651b23B13268C3F5971372BE770Bde1b0A6F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x65ed651b23B13268C3F5971372BE770Bde1b0A6F/logo.png"
+    }
+  },
+  "name": "Basis Neuro System Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

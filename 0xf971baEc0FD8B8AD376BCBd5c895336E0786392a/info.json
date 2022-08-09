@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf971baEc0FD8B8AD376BCBd5c895336E0786392a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57515cb6-536a-4e9e-88ff-083e2e5b39bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf971baEc0FD8B8AD376BCBd5c895336E0786392a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf971baEc0FD8B8AD376BCBd5c895336E0786392a/logo.png"
+    }
+  },
+  "name": "Cross Trading System Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

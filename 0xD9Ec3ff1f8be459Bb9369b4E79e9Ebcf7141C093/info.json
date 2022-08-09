@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9740adaf-00b6-4d6a-ba3c-237cf698635c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093/logo.png"
+    }
+  },
+  "name": "Kardiachain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

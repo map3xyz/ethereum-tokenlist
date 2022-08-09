@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x423e4322CDDa29156b49a17dfbd2aCC4b280600D",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "fb50f5e5-cfb4-4b02-a4a6-fb099afabed1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x423e4322CDDa29156b49a17dfbd2aCC4b280600D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x423e4322CDDa29156b49a17dfbd2aCC4b280600D/logo.png"
+    }
+  },
+  "name": "CAR SHARING",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

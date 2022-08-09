@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "485755a2-16f4-4efb-a07f-097236597d64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22/logo.png"
+    }
+  },
+  "name": "Platinum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-PL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "206d35d1-25f0-47df-a7de-73aae649840a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3F09400313e83d53366147e3ea0e4e2279D80850/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F09400313e83d53366147e3ea0e4e2279D80850/logo.png"
+    }
+  },
+  "name": "Kush.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "kSEED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

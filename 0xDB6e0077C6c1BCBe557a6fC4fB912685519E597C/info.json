@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41e8e7fe-4c47-44b3-ab7b-8dcf2d99ffbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C/logo.png"
+    }
+  },
+  "name": "WEEDCRYPTO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WDCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

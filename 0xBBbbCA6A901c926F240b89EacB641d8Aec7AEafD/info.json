@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "398c0faa-c9ac-4344-b7ec-ddc12cea37f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+    }
+  },
+  "name": "Loopring",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

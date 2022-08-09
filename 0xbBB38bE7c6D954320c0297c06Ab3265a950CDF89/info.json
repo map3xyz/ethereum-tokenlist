@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbBB38bE7c6D954320c0297c06Ab3265a950CDF89",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e4ea5580-d394-408a-b09e-c7be55ada361",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbBB38bE7c6D954320c0297c06Ab3265a950CDF89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbBB38bE7c6D954320c0297c06Ab3265a950CDF89/logo.png"
+    }
+  },
+  "name": "Wrapped BOMB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WBOMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

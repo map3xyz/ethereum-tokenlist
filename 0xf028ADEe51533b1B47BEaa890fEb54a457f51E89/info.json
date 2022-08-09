@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c36ccdb5-5d5d-42ec-ac11-471b3b976927",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf028ADEe51533b1B47BEaa890fEb54a457f51E89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf028ADEe51533b1B47BEaa890fEb54a457f51E89/logo.png"
+    }
+  },
+  "name": "BMChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

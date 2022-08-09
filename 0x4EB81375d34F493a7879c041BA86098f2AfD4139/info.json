@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4EB81375d34F493a7879c041BA86098f2AfD4139",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cd385f6-aa62-499a-b887-1eda01ef1623",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4EB81375d34F493a7879c041BA86098f2AfD4139/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4EB81375d34F493a7879c041BA86098f2AfD4139/logo.png"
+    }
+  },
+  "name": "Ethereum Note",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENOTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

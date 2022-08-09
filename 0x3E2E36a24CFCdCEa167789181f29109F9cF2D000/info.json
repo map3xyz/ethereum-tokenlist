@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3E2E36a24CFCdCEa167789181f29109F9cF2D000",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7987b778-c840-4542-a0e9-1437d74946c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3E2E36a24CFCdCEa167789181f29109F9cF2D000/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3E2E36a24CFCdCEa167789181f29109F9cF2D000/logo.png"
+    }
+  },
+  "name": "AMRITA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMRITA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

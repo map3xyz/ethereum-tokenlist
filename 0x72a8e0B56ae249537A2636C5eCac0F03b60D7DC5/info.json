@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72a8e0B56ae249537A2636C5eCac0F03b60D7DC5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fafcf6c5-b73f-46c9-be7d-30d4d84b757e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72a8e0B56ae249537A2636C5eCac0F03b60D7DC5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72a8e0B56ae249537A2636C5eCac0F03b60D7DC5/logo.png"
+    }
+  },
+  "name": "Nise Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

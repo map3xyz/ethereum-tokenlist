@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8C8cCB81D436B0f3017664441C39cbeFbD64650F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18f515ac-a989-470e-a759-93ab6ef2addc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8C8cCB81D436B0f3017664441C39cbeFbD64650F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8C8cCB81D436B0f3017664441C39cbeFbD64650F/logo.png"
+    }
+  },
+  "name": "ThaneCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TPI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

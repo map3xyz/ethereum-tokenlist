@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8d64b14-00c1-49e5-a82c-c771a66e5c22",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD/logo.png"
+    }
+  },
+  "name": "Inventive Combine EFOOD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICEFD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

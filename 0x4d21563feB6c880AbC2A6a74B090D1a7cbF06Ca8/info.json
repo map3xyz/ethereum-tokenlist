@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4d21563feB6c880AbC2A6a74B090D1a7cbF06Ca8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbc790ab-9be9-4588-a6da-21dc9e88a857",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d21563feB6c880AbC2A6a74B090D1a7cbF06Ca8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4d21563feB6c880AbC2A6a74B090D1a7cbF06Ca8/logo.png"
+    }
+  },
+  "name": "Ben Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

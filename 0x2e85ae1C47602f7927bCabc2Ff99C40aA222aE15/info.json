@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a8d9c49-6aea-47ea-aeb6-1b9b202e0629",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15/logo.png"
+    }
+  },
+  "name": "Katana Inu Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KATA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

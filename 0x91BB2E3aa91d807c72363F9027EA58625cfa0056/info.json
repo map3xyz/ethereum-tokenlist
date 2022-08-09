@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91BB2E3aa91d807c72363F9027EA58625cfa0056",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2acd2d63-7be0-4a29-b663-2ce9eb3d8da7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91BB2E3aa91d807c72363F9027EA58625cfa0056/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91BB2E3aa91d807c72363F9027EA58625cfa0056/logo.png"
+    }
+  },
+  "name": "Mine Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa497473a983aAC21519737fb8E210F34Cc96b016",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c263a50a-9cfe-4a6d-a26d-96e612e87c34",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa497473a983aAC21519737fb8E210F34Cc96b016/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa497473a983aAC21519737fb8E210F34Cc96b016/logo.png"
+    }
+  },
+  "name": "Bethel Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Bethel",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

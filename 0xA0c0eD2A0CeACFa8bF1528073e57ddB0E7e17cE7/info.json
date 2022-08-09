@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0c0eD2A0CeACFa8bF1528073e57ddB0E7e17cE7",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "8878906d-94f3-421c-bece-f98d6928a039",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0c0eD2A0CeACFa8bF1528073e57ddB0E7e17cE7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0c0eD2A0CeACFa8bF1528073e57ddB0E7e17cE7/logo.png"
+    }
+  },
+  "name": "AfricOil Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AfriCo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

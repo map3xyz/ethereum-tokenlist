@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBeA202a291f633c12EdBbD51e04af985b2670500",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24b4c30a-9872-4fd0-bec5-8dfbac4dd147",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBeA202a291f633c12EdBbD51e04af985b2670500/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBeA202a291f633c12EdBbD51e04af985b2670500/logo.png"
+    }
+  },
+  "name": "CoinSmart Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

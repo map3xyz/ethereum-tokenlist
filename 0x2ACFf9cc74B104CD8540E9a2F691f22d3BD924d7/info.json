@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2ACFf9cc74B104CD8540E9a2F691f22d3BD924d7",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "68709055-f663-4aeb-9458-0ba14fc0eff9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ACFf9cc74B104CD8540E9a2F691f22d3BD924d7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2ACFf9cc74B104CD8540E9a2F691f22d3BD924d7/logo.png"
+    }
+  },
+  "name": "WrapUSDT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eUSDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

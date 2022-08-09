@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "017525cd-5fbf-4c76-978e-5c8b1ce5e175",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c/logo.png"
+    }
+  },
+  "name": "Xhuman",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XHUMAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

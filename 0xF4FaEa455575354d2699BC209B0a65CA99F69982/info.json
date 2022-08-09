@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4FaEa455575354d2699BC209B0a65CA99F69982",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6bd9bad8-01ee-4122-ab7f-901c629cfce1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF4FaEa455575354d2699BC209B0a65CA99F69982/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4FaEa455575354d2699BC209B0a65CA99F69982/logo.png"
+    }
+  },
+  "name": "No BS Crypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

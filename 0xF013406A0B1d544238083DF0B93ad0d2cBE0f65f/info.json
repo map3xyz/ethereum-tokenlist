@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8fccc4ee-02c9-43d5-b8af-a0047de17b73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f/logo.png"
+    }
+  },
+  "name": "bZx USDC iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

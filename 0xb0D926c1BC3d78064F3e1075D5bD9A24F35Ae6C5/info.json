@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00511bd2-8ac6-4fe8-a2f3-e6a892c23f31",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5/logo.png"
+    }
+  },
+  "name": "Assistive Reality ARX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

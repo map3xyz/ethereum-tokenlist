@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c846ce7-8145-459e-b22b-dc86d9b6c76e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC/logo.png"
+    }
+  },
+  "name": "GJC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GJC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

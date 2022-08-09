@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x526Ccc90191A9472299323816bD2c784C0A1BCDE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e10c352a-0c72-434a-ab8d-03010ead93a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x526Ccc90191A9472299323816bD2c784C0A1BCDE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x526Ccc90191A9472299323816bD2c784C0A1BCDE/logo.png"
+    }
+  },
+  "name": "DataOnBlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DBLK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

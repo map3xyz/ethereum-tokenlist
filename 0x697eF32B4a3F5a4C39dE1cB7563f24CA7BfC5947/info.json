@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "866c3939-dfb2-4735-a0bd-db35ade3600f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947/logo.png"
+    }
+  },
+  "name": "Insula",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ISLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

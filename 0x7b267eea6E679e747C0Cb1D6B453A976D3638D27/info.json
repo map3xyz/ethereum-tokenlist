@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7b267eea6E679e747C0Cb1D6B453A976D3638D27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a3dd1c6-f4c0-4577-8fc5-bcf880c14add",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7b267eea6E679e747C0Cb1D6B453A976D3638D27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b267eea6E679e747C0Cb1D6B453A976D3638D27/logo.png"
+    }
+  },
+  "name": "CMAP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

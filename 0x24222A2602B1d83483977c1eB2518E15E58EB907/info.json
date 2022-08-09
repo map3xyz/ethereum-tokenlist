@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24222A2602B1d83483977c1eB2518E15E58EB907",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57791e5d-3f78-4b0b-be14-9c0635d171ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24222A2602B1d83483977c1eB2518E15E58EB907/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24222A2602B1d83483977c1eB2518E15E58EB907/logo.png"
+    }
+  },
+  "name": "Detrust Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

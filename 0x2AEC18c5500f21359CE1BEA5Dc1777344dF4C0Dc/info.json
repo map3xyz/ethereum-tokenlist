@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e819aed7-75f1-4743-974e-a97cbdd1b901",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc/logo.png"
+    }
+  },
+  "name": "FarmaTrust Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

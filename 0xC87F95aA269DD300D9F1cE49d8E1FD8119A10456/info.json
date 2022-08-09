@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC87F95aA269DD300D9F1cE49d8E1FD8119A10456",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "efc2f079-6d82-45b2-bd78-e8b3a932d8cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC87F95aA269DD300D9F1cE49d8E1FD8119A10456/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC87F95aA269DD300D9F1cE49d8E1FD8119A10456/logo.png"
+    }
+  },
+  "name": "BDCC COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d652012f-9538-474b-9802-b5c210d321f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD/logo.png"
+    }
+  },
+  "name": "Cybitex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

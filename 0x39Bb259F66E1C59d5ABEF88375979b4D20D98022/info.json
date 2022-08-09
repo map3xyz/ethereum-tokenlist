@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1fa44f03-fafb-4e24-a321-fab88d565df9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022/logo.png"
+    }
+  },
+  "name": "Wax Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

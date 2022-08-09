@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfD0D510dc25535112AF6478fd8dCAb0DF9FA4B5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e61ec6df-676e-4ca0-b60c-758485098484",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfD0D510dc25535112AF6478fd8dCAb0DF9FA4B5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfD0D510dc25535112AF6478fd8dCAb0DF9FA4B5E/logo.png"
+    }
+  },
+  "name": "GoldBoxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

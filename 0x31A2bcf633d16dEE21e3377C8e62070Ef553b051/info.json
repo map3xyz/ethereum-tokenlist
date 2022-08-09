@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x31A2bcf633d16dEE21e3377C8e62070Ef553b051",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c16244a4-4b77-4420-ab04-a9957f84afe4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x31A2bcf633d16dEE21e3377C8e62070Ef553b051/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x31A2bcf633d16dEE21e3377C8e62070Ef553b051/logo.png"
+    }
+  },
+  "name": "MNET Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

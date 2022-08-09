@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7a0e91c4204355e0A6bBf746dc0B7E32dFEFDecf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "568f9928-aea0-4326-b24a-d1dba94a3810",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7a0e91c4204355e0A6bBf746dc0B7E32dFEFDecf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a0e91c4204355e0A6bBf746dc0B7E32dFEFDecf/logo.png"
+    }
+  },
+  "name": "EURO TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SREUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

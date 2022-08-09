@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA64eA8089a4b0253eDCAE9C71ffcDb576988044A",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "2d484935-d438-4fde-bd12-32b8c2acd620",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA64eA8089a4b0253eDCAE9C71ffcDb576988044A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA64eA8089a4b0253eDCAE9C71ffcDb576988044A/logo.png"
+    }
+  },
+  "name": "BoxTrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOXY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

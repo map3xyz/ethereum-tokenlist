@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x87e20a1C261d5DDC4B4250DC9197102f52010aE7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3afd0a4-1aa7-4c94-bb7e-6aaf293da1ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87e20a1C261d5DDC4B4250DC9197102f52010aE7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87e20a1C261d5DDC4B4250DC9197102f52010aE7/logo.png"
+    }
+  },
+  "name": "two",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TWO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

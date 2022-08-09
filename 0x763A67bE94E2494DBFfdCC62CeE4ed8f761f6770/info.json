@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x763A67bE94E2494DBFfdCC62CeE4ed8f761f6770",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ea80d9a-2dd0-4e64-ba8b-1f848bf3e8c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x763A67bE94E2494DBFfdCC62CeE4ed8f761f6770/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x763A67bE94E2494DBFfdCC62CeE4ed8f761f6770/logo.png"
+    }
+  },
+  "name": "Bitenny",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

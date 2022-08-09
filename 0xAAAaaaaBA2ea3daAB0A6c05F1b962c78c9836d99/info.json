@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "429059f6-6fef-420c-aba8-b409ea60464f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99/logo.png"
+    }
+  },
+  "name": "Azbit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

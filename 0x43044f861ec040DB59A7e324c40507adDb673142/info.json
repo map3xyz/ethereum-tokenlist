@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51a196a1-bb55-4c51-8d75-6a41c9b14bb7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43044f861ec040DB59A7e324c40507adDb673142/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43044f861ec040DB59A7e324c40507adDb673142/logo.png"
+    }
+  },
+  "name": "Cap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

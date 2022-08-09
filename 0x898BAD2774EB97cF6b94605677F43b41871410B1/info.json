@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x898BAD2774EB97cF6b94605677F43b41871410B1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1101b1f5-d05f-48c3-91c3-1d0b1a332955",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x898BAD2774EB97cF6b94605677F43b41871410B1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x898BAD2774EB97cF6b94605677F43b41871410B1/logo.png"
+    }
+  },
+  "name": "vEth2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vETH2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

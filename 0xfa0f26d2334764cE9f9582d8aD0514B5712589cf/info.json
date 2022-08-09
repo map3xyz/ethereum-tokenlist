@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfa0f26d2334764cE9f9582d8aD0514B5712589cf",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "722b9929-4575-47d3-80c0-057f151dc5a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfa0f26d2334764cE9f9582d8aD0514B5712589cf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfa0f26d2334764cE9f9582d8aD0514B5712589cf/logo.png"
+    }
+  },
+  "name": "AweCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AWE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

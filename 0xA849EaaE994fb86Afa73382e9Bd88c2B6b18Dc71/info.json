@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57669069-6976-4d0e-aea1-9036c5b81d1c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71/logo.png"
+    }
+  },
+  "name": "Mass Vehicle Ledger Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

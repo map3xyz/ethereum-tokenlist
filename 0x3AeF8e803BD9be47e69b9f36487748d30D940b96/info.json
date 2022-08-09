@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6048f15a-b61a-44ce-8183-f6ae52efba93",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3AeF8e803BD9be47e69b9f36487748d30D940b96/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3AeF8e803BD9be47e69b9f36487748d30D940b96/logo.png"
+    }
+  },
+  "name": "Vesta",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "vesta",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

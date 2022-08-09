@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d9bf2dc2-d9ce-4c3c-bb88-b3a01e56d3c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d/logo.png"
+    }
+  },
+  "name": "4xBit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "4XB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

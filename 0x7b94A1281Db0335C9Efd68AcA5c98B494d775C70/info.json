@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41424496-ea5f-4d4b-8584-75dfd4160d06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70/logo.png"
+    }
+  },
+  "name": "Path Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PATH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

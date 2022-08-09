@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33B919F54692dDbf702065763EA2b50Ca02e6bfF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d2000c2-3577-4bed-9db4-3bf1714bb0e5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33B919F54692dDbf702065763EA2b50Ca02e6bfF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33B919F54692dDbf702065763EA2b50Ca02e6bfF/logo.png"
+    }
+  },
+  "name": "MOCROW",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

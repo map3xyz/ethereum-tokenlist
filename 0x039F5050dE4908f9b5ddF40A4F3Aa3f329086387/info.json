@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "324512c1-6ec6-4caa-919b-fa6baea2c514",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387/logo.png"
+    }
+  },
+  "name": "Ethernet Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

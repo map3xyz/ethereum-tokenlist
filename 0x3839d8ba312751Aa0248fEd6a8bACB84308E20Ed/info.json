@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3839d8ba312751Aa0248fEd6a8bACB84308E20Ed",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1076e3ab-e564-4f1e-ae44-b16ede9bebf1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3839d8ba312751Aa0248fEd6a8bACB84308E20Ed/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3839d8ba312751Aa0248fEd6a8bACB84308E20Ed/logo.png"
+    }
+  },
+  "name": "Bezop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Bez",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

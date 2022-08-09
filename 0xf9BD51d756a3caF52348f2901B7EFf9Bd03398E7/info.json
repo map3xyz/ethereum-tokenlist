@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf9BD51d756a3caF52348f2901B7EFf9Bd03398E7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "12f341a7-1418-448a-8ecf-f55593cb6f65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf9BD51d756a3caF52348f2901B7EFf9Bd03398E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf9BD51d756a3caF52348f2901B7EFf9Bd03398E7/logo.png"
+    }
+  },
+  "name": "Digital Zimbabwe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

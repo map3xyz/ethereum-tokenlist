@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b987d390-7454-447b-a46c-82ab7db80d5f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x584bC13c7D411c00c01A62e8019472dE68768430/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x584bC13c7D411c00c01A62e8019472dE68768430/logo.png"
+    }
+  },
+  "name": "Hegic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEGIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

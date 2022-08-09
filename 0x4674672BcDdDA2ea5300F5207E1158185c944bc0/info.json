@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4674672BcDdDA2ea5300F5207E1158185c944bc0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ca00edd-a44d-4700-b084-86c315c27229",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4674672BcDdDA2ea5300F5207E1158185c944bc0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4674672BcDdDA2ea5300F5207E1158185c944bc0/logo.png"
+    }
+  },
+  "name": "Gem Exchange and Trading",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GXT",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

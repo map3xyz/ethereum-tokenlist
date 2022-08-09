@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1340c31-4439-414f-a29c-09303790eca8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F513fFb4926ff82D7F60A05069047AcA295C413/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F513fFb4926ff82D7F60A05069047AcA295C413/logo.png"
+    }
+  },
+  "name": "CrowdstartCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

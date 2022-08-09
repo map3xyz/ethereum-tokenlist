@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ad4686ae-72fc-4e38-9ace-12b0d09a8b45",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836/logo.png"
+    }
+  },
+  "name": "BigBang Game Coin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

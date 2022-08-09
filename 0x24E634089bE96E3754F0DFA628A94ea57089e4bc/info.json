@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24E634089bE96E3754F0DFA628A94ea57089e4bc",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "173ff32f-180e-46d0-977f-ef83111c29c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24E634089bE96E3754F0DFA628A94ea57089e4bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24E634089bE96E3754F0DFA628A94ea57089e4bc/logo.png"
+    }
+  },
+  "name": "Max",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

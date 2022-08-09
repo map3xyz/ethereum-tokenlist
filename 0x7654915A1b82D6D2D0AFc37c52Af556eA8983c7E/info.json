@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20ca7b71-a664-45c5-8af1-dba628f2076d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E/logo.png"
+    }
+  },
+  "name": "Feed",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

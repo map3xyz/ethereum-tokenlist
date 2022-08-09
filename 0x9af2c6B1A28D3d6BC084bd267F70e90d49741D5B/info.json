@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9af2c6B1A28D3d6BC084bd267F70e90d49741D5B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2f3fc055-78cc-47d3-befe-b738c742fde3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9af2c6B1A28D3d6BC084bd267F70e90d49741D5B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9af2c6B1A28D3d6BC084bd267F70e90d49741D5B/logo.png"
+    }
+  },
+  "name": "aXpire Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

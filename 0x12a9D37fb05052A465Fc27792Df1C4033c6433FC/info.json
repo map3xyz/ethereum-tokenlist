@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12a9D37fb05052A465Fc27792Df1C4033c6433FC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2896a1a-3577-4f2b-b0dd-c94e2f9b79f6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12a9D37fb05052A465Fc27792Df1C4033c6433FC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12a9D37fb05052A465Fc27792Df1C4033c6433FC/logo.png"
+    }
+  },
+  "name": "PlayBetCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PBET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

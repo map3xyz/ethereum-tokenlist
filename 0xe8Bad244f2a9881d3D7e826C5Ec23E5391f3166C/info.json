@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe8Bad244f2a9881d3D7e826C5Ec23E5391f3166C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c566eac2-0d72-4a40-b253-905c10308904",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe8Bad244f2a9881d3D7e826C5Ec23E5391f3166C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe8Bad244f2a9881d3D7e826C5Ec23E5391f3166C/logo.png"
+    }
+  },
+  "name": "PIXBYTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PXB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

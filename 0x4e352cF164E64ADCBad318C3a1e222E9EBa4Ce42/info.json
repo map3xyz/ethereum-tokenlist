@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35d8e704-0955-45bf-b506-9a5bde9b9f98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42/logo.png"
+    }
+  },
+  "name": "MCDEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

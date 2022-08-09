@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a9bB9b4b11BF8eccff84B58a6CCCCD4058A7f0D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d5317df6-342c-49f6-affc-63d59c97fc0f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a9bB9b4b11BF8eccff84B58a6CCCCD4058A7f0D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a9bB9b4b11BF8eccff84B58a6CCCCD4058A7f0D/logo.png"
+    }
+  },
+  "name": "Bitcoin Card",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

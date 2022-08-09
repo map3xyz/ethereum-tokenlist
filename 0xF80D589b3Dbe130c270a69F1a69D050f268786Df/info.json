@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8e44b3c-2620-4cc5-8517-f14a30033e46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF80D589b3Dbe130c270a69F1a69D050f268786Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF80D589b3Dbe130c270a69F1a69D050f268786Df/logo.png"
+    }
+  },
+  "name": "Datamine",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

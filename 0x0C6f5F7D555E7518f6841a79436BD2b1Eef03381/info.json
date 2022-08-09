@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b9b8b0e-618b-494c-a59c-49c5c4332973",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381/logo.png"
+    }
+  },
+  "name": "CocosToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COCOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

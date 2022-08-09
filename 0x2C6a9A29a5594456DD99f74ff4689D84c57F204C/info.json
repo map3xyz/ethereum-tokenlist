@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C6a9A29a5594456DD99f74ff4689D84c57F204C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "701e1053-c7e1-4ecf-9813-75db9c9d7aa2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C6a9A29a5594456DD99f74ff4689D84c57F204C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C6a9A29a5594456DD99f74ff4689D84c57F204C/logo.png"
+    }
+  },
+  "name": "HiWallet Digital Asset",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HiWallet",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

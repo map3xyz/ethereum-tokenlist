@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00380143129167395e8B4F0a35EDc1bC60E7cE65",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "51fa7f5f-25ae-4794-9c11-1c90375b4bae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00380143129167395e8B4F0a35EDc1bC60E7cE65/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00380143129167395e8B4F0a35EDc1bC60E7cE65/logo.png"
+    }
+  },
+  "name": "CIorigin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

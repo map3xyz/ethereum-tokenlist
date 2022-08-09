@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B2C54b80B77580dc02A0f6734d3BAD733F50900",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "0f58eb14-ea6f-4e63-aaa1-f263515426fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B2C54b80B77580dc02A0f6734d3BAD733F50900/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Kiba Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIBA",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

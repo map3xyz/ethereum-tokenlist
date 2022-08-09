@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd9bb876-538d-43fc-80e4-3c625b90909a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png"
+    }
+  },
+  "name": "district0x Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

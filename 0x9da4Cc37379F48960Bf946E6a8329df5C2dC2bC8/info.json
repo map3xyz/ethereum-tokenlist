@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5da2e98f-f888-4169-bfce-e78ea7e8990c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8/logo.png"
+    }
+  },
+  "name": "DD Silver",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

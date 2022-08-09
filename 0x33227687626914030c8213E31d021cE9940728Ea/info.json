@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x33227687626914030c8213E31d021cE9940728Ea",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fbcfc088-ba3e-4157-aa2b-205e18da4145",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33227687626914030c8213E31d021cE9940728Ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33227687626914030c8213E31d021cE9940728Ea/logo.png"
+    }
+  },
+  "name": "STARS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

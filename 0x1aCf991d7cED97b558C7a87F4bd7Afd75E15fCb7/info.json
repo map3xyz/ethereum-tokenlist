@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1aCf991d7cED97b558C7a87F4bd7Afd75E15fCb7",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "3f22f11f-a90e-441f-a468-9b89a6634ac6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1aCf991d7cED97b558C7a87F4bd7Afd75E15fCb7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aCf991d7cED97b558C7a87F4bd7Afd75E15fCb7/logo.png"
+    }
+  },
+  "name": "Tixguru Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5b0c7733-a4c3-48a0-8d0d-555cc402d640",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A8Ca2f815A260660158a38C34ca321A3605eCFE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A8Ca2f815A260660158a38C34ca321A3605eCFE/logo.png"
+    }
+  },
+  "name": "BizzCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIZZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

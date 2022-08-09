@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE99DDae9181957E91b457E4c79A1B577E55a5742",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5ac48c13-ae8f-4d7c-8bc2-1f7940a2eb45",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE99DDae9181957E91b457E4c79A1B577E55a5742/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE99DDae9181957E91b457E4c79A1B577E55a5742/logo.png"
+    }
+  },
+  "name": "Link Managenent Chain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LMM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

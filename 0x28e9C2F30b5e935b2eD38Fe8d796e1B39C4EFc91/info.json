@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ed41339-8e68-4c05-a54d-df98bac154d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91/logo.png"
+    }
+  },
+  "name": "wield.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

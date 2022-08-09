@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "334faed4-157f-4fe1-9e03-2254edc10b47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196/logo.png"
+    }
+  },
+  "name": "CryptoArtCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

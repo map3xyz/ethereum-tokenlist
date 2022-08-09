@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEC01d916a853036a6080750F7D2B5902B5Db84B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de971a2e-5ffe-4587-9f33-cd2a12dc7b58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEC01d916a853036a6080750F7D2B5902B5Db84B2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEC01d916a853036a6080750F7D2B5902B5Db84B2/logo.png"
+    }
+  },
+  "name": "Arcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AR2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

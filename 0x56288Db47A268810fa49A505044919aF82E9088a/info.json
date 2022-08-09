@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56288Db47A268810fa49A505044919aF82E9088a",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "2427ee71-b2d5-4123-86a9-189724e0c3a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56288Db47A268810fa49A505044919aF82E9088a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56288Db47A268810fa49A505044919aF82E9088a/logo.png"
+    }
+  },
+  "name": "JTrust Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

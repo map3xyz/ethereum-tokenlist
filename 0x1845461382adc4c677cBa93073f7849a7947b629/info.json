@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1845461382adc4c677cBa93073f7849a7947b629",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7695ef3c-8d2a-4a84-9763-b1a879a9da91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1845461382adc4c677cBa93073f7849a7947b629/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1845461382adc4c677cBa93073f7849a7947b629/logo.png"
+    }
+  },
+  "name": "HANbBEAsset",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

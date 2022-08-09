@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aea2449d-8ee1-4954-9ab3-9606083ed1b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA663121582725aA0eb8BF20B0F56F1917762e873/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA663121582725aA0eb8BF20B0F56F1917762e873/logo.png"
+    }
+  },
+  "name": "MUTANT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUTANT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

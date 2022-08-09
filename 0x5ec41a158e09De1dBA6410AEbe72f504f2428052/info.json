@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5ec41a158e09De1dBA6410AEbe72f504f2428052",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbd6dd5d-3be1-4e8d-baea-41a88d92e6fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5ec41a158e09De1dBA6410AEbe72f504f2428052/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5ec41a158e09De1dBA6410AEbe72f504f2428052/logo.png"
+    }
+  },
+  "name": "COPA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x61D71973A6FfD07d5F1095AED53b06E5673E64BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7009a49-e934-473b-9300-8420060c9c9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x61D71973A6FfD07d5F1095AED53b06E5673E64BC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x61D71973A6FfD07d5F1095AED53b06E5673E64BC/logo.png"
+    }
+  },
+  "name": "Mima",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

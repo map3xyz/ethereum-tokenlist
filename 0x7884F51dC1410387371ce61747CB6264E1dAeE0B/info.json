@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7884F51dC1410387371ce61747CB6264E1dAeE0B",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "c90bccfe-7343-4c56-8a1a-ecce00e1638d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7884F51dC1410387371ce61747CB6264E1dAeE0B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7884F51dC1410387371ce61747CB6264E1dAeE0B/logo.png"
+    }
+  },
+  "name": "Binance Wrapped DOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

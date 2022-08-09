@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29e1b356-76c5-4a73-89a7-42aa8f4932c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f/logo.png"
+    }
+  },
+  "name": "Spacelens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

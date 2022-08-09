@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aed00a59-270d-4dce-a5d8-7c3f5561db61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42d6622deCe394b54999Fbd73D108123806f6a18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42d6622deCe394b54999Fbd73D108123806f6a18/logo.png"
+    }
+  },
+  "name": "SPANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

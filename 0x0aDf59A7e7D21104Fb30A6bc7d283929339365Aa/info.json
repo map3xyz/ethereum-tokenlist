@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0aDf59A7e7D21104Fb30A6bc7d283929339365Aa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8dbe57d8-e7c6-41be-bfb8-a1e4a927d05e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0aDf59A7e7D21104Fb30A6bc7d283929339365Aa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0aDf59A7e7D21104Fb30A6bc7d283929339365Aa/logo.png"
+    }
+  },
+  "name": "DACMI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DACMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

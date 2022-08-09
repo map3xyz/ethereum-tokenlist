@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53869a6e-9ffc-4e05-9838-c37b1bae63c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93/logo.png"
+    }
+  },
+  "name": "Britency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

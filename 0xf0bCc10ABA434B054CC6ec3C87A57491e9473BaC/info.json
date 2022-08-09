@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0bCc10ABA434B054CC6ec3C87A57491e9473BaC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "84d61279-4f2f-43a6-b413-d3277b62b60a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0bCc10ABA434B054CC6ec3C87A57491e9473BaC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0bCc10ABA434B054CC6ec3C87A57491e9473BaC/logo.png"
+    }
+  },
+  "name": "Ethenity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

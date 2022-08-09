@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9955e77-a06e-4034-8492-2f9682ad29de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db/logo.png"
+    }
+  },
+  "name": "MAKCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

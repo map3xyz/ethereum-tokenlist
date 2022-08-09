@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f0afbaa3-9c5d-4b62-9633-cd496bb968b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d/logo.png"
+    }
+  },
+  "name": "Monaco",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83e11a3b34D2330AdF67a3B1032172A7Bc408e17",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b82162b2-4b72-4d16-8714-3af48c4726ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83e11a3b34D2330AdF67a3B1032172A7Bc408e17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83e11a3b34D2330AdF67a3B1032172A7Bc408e17/logo.png"
+    }
+  },
+  "name": "Deluxo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DLUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4eD040F2896761d1688Af5d772cc9138722ab9Ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9eaa73b-30b2-42bd-8472-f9b5cc9d674a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4eD040F2896761d1688Af5d772cc9138722ab9Ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4eD040F2896761d1688Af5d772cc9138722ab9Ec/logo.png"
+    }
+  },
+  "name": "Firefly Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

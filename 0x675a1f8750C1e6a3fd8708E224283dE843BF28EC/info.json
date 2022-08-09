@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x675a1f8750C1e6a3fd8708E224283dE843BF28EC",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "ac769122-3b74-4ca1-b16a-4ed67566cd77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x675a1f8750C1e6a3fd8708E224283dE843BF28EC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x675a1f8750C1e6a3fd8708E224283dE843BF28EC/logo.png"
+    }
+  },
+  "name": "Yacht Club",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POINT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

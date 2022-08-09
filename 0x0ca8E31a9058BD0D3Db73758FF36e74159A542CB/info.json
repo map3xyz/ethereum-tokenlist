@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ca8E31a9058BD0D3Db73758FF36e74159A542CB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9a02af3a-01bb-45b2-a0d1-e788761e7f6e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ca8E31a9058BD0D3Db73758FF36e74159A542CB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ca8E31a9058BD0D3Db73758FF36e74159A542CB/logo.png"
+    }
+  },
+  "name": "SPIKECORE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

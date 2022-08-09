@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4263A2f0456305d7d10F8a4555f8c3B593b3b895",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "72e85a98-9bb7-4fce-b5ad-f3a523f60e8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4263A2f0456305d7d10F8a4555f8c3B593b3b895/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4263A2f0456305d7d10F8a4555f8c3B593b3b895/logo.png"
+    }
+  },
+  "name": "Quantum Proof (3FA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "3FA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

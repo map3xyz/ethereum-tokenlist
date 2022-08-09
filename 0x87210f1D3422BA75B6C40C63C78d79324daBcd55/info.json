@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96ed2503-4ac9-49db-a8cf-8e1678cf79c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87210f1D3422BA75B6C40C63C78d79324daBcd55/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x87210f1D3422BA75B6C40C63C78d79324daBcd55/logo.png"
+    }
+  },
+  "name": "EOS TRUST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

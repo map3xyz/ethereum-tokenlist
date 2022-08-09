@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b9711fc8-b4aa-4a68-8a3b-bff807345a3c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891/logo.png"
+    }
+  },
+  "name": "BRAT RED",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

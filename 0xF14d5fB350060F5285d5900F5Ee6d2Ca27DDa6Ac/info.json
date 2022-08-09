@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF14d5fB350060F5285d5900F5Ee6d2Ca27DDa6Ac",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ecb0ab2-98c4-4c25-905f-e00f65ca7d13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF14d5fB350060F5285d5900F5Ee6d2Ca27DDa6Ac/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF14d5fB350060F5285d5900F5Ee6d2Ca27DDa6Ac/logo.png"
+    }
+  },
+  "name": "BitBonus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

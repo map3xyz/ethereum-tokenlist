@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8258AbC8f2811dd48EccD209db68F25E3E34667",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f51e27df-ced3-4f7b-be39-f10d2c1e13f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA8258AbC8f2811dd48EccD209db68F25E3E34667/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8258AbC8f2811dd48EccD209db68F25E3E34667/logo.png"
+    }
+  },
+  "name": "Constellation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

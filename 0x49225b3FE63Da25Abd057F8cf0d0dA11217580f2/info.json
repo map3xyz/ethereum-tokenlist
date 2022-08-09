@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49225b3FE63Da25Abd057F8cf0d0dA11217580f2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e58975a6-9cd8-4a5e-90be-b41d9d160d38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49225b3FE63Da25Abd057F8cf0d0dA11217580f2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49225b3FE63Da25Abd057F8cf0d0dA11217580f2/logo.png"
+    }
+  },
+  "name": "Respect Music",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RSPM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

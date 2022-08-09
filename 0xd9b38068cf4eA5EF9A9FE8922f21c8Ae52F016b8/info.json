@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "fa91924b-750f-415e-842a-89ce75cee35f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8/logo.png"
+    }
+  },
+  "name": "DANIEL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DANIEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

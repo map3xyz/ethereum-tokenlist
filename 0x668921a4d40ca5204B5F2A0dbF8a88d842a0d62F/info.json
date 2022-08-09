@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d89fa55f-ea1b-47d4-b942-0f19c898abaf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F/logo.png"
+    }
+  },
+  "name": "Semain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b83c6752-18a3-4b1f-b4bb-0f91fe2eb989",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7FCE2856899a6806eeEf70807985fc7554C66340/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7FCE2856899a6806eeEf70807985fc7554C66340/logo.png"
+    }
+  },
+  "name": "CLP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

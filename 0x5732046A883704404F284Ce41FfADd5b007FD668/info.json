@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2898c861-f7cb-4af4-938b-78b8bf0f648f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5732046A883704404F284Ce41FfADd5b007FD668/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5732046A883704404F284Ce41FfADd5b007FD668/logo.png"
+    }
+  },
+  "name": "Bluzelle Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

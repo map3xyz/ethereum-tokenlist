@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCaBeC58a571979f9fE825885fcb8F7A93892eaB0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42401dfa-ed11-428e-aa1b-9c5b2dd06add",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCaBeC58a571979f9fE825885fcb8F7A93892eaB0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCaBeC58a571979f9fE825885fcb8F7A93892eaB0/logo.png"
+    }
+  },
+  "name": "United Bull Traders",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

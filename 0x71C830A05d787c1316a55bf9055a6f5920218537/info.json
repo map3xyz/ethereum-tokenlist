@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x71C830A05d787c1316a55bf9055a6f5920218537",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91f86a80-59cd-4fa7-bbda-6dba8a45a180",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71C830A05d787c1316a55bf9055a6f5920218537/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71C830A05d787c1316a55bf9055a6f5920218537/logo.png"
+    }
+  },
+  "name": "Best US Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

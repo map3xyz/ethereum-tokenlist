@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdb455c71C1bC2de4e80cA451184041Ef32054001",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee40e519-7f88-485f-ba58-95904a589ca4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdb455c71C1bC2de4e80cA451184041Ef32054001/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdb455c71C1bC2de4e80cA451184041Ef32054001/logo.png"
+    }
+  },
+  "name": "Jury.Online Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

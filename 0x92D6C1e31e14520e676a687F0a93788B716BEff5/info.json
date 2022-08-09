@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe785929-c2f0-4f1f-a667-f0d4ec401011",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png"
+    }
+  },
+  "name": "dYdX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DYDX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

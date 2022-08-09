@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5b135D7E2774c801a73208f258123d7623E07784",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ead2ea2-9493-4386-8eba-623ea720fb19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5b135D7E2774c801a73208f258123d7623E07784/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5b135D7E2774c801a73208f258123d7623E07784/logo.png"
+    }
+  },
+  "name": "Saifu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SFU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

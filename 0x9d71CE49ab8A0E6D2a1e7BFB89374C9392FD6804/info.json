@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dae8d067-2b26-4625-94d1-c1212962cd57",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804/logo.png"
+    }
+  },
+  "name": "NVIR Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NVIR",
+  "tags": [
+    "governance",
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

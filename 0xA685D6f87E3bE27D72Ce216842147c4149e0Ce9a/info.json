@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA685D6f87E3bE27D72Ce216842147c4149e0Ce9a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "75ef33bf-3d47-4e55-9ef8-90086f76b60b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA685D6f87E3bE27D72Ce216842147c4149e0Ce9a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA685D6f87E3bE27D72Ce216842147c4149e0Ce9a/logo.png"
+    }
+  },
+  "name": "RODZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RODZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe4f7A608B0eEdC93A97d1249c8bbDa0e98077d29",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "a7b3ca31-10ab-455c-9ad9-b9ad1b85c3e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe4f7A608B0eEdC93A97d1249c8bbDa0e98077d29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe4f7A608B0eEdC93A97d1249c8bbDa0e98077d29/logo.png"
+    }
+  },
+  "name": "REVO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

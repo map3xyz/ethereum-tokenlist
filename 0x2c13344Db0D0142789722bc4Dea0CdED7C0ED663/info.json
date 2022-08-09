@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2c13344Db0D0142789722bc4Dea0CdED7C0ED663",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2daa544d-4c58-4d13-8d00-8e57a7bcac09",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2c13344Db0D0142789722bc4Dea0CdED7C0ED663/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2c13344Db0D0142789722bc4Dea0CdED7C0ED663/logo.png"
+    }
+  },
+  "name": "Falcon Goverence Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

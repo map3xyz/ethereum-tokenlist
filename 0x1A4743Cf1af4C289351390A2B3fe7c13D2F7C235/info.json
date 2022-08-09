@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0a11aa5-1ab0-41a4-a49d-09e204865a7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235/logo.png"
+    }
+  },
+  "name": "CASTWEET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4b43d66-5959-4a28-8b37-a4a488cba8f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8/logo.png"
+    }
+  },
+  "name": "Wrapped USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "uSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

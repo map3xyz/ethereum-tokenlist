@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB67718b98d52318240c52E71A898335da4A28c42",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "11cfd7bb-90d2-4c6b-801d-c2c349200ed5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB67718b98d52318240c52E71A898335da4A28c42/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB67718b98d52318240c52E71A898335da4A28c42/logo.png"
+    }
+  },
+  "name": "InnovativeBioresearchCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INNBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

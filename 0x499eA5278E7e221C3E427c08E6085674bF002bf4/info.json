@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x499eA5278E7e221C3E427c08E6085674bF002bf4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a140cf1-2fe4-4fc4-86b7-c14b45c1875c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x499eA5278E7e221C3E427c08E6085674bF002bf4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x499eA5278E7e221C3E427c08E6085674bF002bf4/logo.png"
+    }
+  },
+  "name": "DCTR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

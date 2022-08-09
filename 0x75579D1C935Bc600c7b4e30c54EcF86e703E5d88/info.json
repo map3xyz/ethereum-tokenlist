@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x75579D1C935Bc600c7b4e30c54EcF86e703E5d88",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74a08c98-2fa7-4da9-9dfa-a0d23de7ae65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x75579D1C935Bc600c7b4e30c54EcF86e703E5d88/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75579D1C935Bc600c7b4e30c54EcF86e703E5d88/logo.png"
+    }
+  },
+  "name": "YasudaCrypto 90",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YSD90",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

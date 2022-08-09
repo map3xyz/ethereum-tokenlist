@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8B40761142B9aa6dc8964e61D0585995425C3D94",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ebd6ff4-7189-47d3-b430-83f13fa22f09",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8B40761142B9aa6dc8964e61D0585995425C3D94/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8B40761142B9aa6dc8964e61D0585995425C3D94/logo.png"
+    }
+  },
+  "name": "Tripio Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

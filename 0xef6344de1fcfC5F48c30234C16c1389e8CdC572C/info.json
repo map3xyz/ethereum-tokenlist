@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3912bbf3-e65b-418c-b8a5-43909db58e40",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C/logo.png"
+    }
+  },
+  "name": "EncrypGen",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

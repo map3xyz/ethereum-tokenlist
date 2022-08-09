@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA3BC616F38Cb7342ee2453C7D41294B5B7dCf486",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1df6473a-392e-4a4a-9337-d0de3b705baa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA3BC616F38Cb7342ee2453C7D41294B5B7dCf486/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA3BC616F38Cb7342ee2453C7D41294B5B7dCf486/logo.png"
+    }
+  },
+  "name": "Cosmethyst",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSC-CS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

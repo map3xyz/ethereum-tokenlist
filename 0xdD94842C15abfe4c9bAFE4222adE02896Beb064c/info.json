@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdD94842C15abfe4c9bAFE4222adE02896Beb064c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c17d09d8-db05-4c10-8e65-d116203f3883",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdD94842C15abfe4c9bAFE4222adE02896Beb064c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdD94842C15abfe4c9bAFE4222adE02896Beb064c/logo.png"
+    }
+  },
+  "name": "W GREEN PAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

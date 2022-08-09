@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCFAc2916Ec118a0252A7766C513eE7c71b384b5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "486c0cbb-80a8-46f7-aa51-9a28496a98de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCFAc2916Ec118a0252A7766C513eE7c71b384b5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCFAc2916Ec118a0252A7766C513eE7c71b384b5E/logo.png"
+    }
+  },
+  "name": "HoryouToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HYT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

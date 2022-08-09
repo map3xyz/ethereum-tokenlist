@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68551131-be84-4766-91c0-b9edaf1f04bf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045/logo.png"
+    }
+  },
+  "name": "xensor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

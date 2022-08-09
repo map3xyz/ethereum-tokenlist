@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3d02381563B5a37930b4CFF1A369e2d29F19EFBf",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "f9962a6c-e395-41e2-a6da-676be3df5e83",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3d02381563B5a37930b4CFF1A369e2d29F19EFBf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3d02381563B5a37930b4CFF1A369e2d29F19EFBf/logo.png"
+    }
+  },
+  "name": "SHRINK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHRINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

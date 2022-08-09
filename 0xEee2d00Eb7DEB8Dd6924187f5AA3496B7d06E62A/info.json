@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEee2d00Eb7DEB8Dd6924187f5AA3496B7d06E62A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0631cff-654f-4d23-9e8a-49238496c0f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEee2d00Eb7DEB8Dd6924187f5AA3496B7d06E62A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEee2d00Eb7DEB8Dd6924187f5AA3496B7d06E62A/logo.png"
+    }
+  },
+  "name": "Tigereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

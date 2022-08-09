@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b36564d6-38fb-4515-b6d5-bf14ea023e7c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A/logo.png"
+    }
+  },
+  "name": "IOGENESIS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

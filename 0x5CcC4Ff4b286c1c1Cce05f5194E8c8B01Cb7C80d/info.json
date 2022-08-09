@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5CcC4Ff4b286c1c1Cce05f5194E8c8B01Cb7C80d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f20fe5fa-4126-4ab5-b004-940f7d6a123a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5CcC4Ff4b286c1c1Cce05f5194E8c8B01Cb7C80d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5CcC4Ff4b286c1c1Cce05f5194E8c8B01Cb7C80d/logo.png"
+    }
+  },
+  "name": "Electronic Trading Unit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

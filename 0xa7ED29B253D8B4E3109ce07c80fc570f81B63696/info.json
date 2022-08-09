@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa7ED29B253D8B4E3109ce07c80fc570f81B63696",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7fb2aa7c-3f61-42ee-ab06-41922ae28004",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696/logo.png"
+    }
+  },
+  "name": "Basis Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

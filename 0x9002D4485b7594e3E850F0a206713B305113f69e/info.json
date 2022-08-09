@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9002D4485b7594e3E850F0a206713B305113f69e",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "aaecc6dc-0cd5-496b-b1d5-de8f4b619da4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9002D4485b7594e3E850F0a206713B305113f69e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9002D4485b7594e3E850F0a206713B305113f69e/logo.png"
+    }
+  },
+  "name": "HawalaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

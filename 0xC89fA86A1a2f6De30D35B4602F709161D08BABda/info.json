@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC89fA86A1a2f6De30D35B4602F709161D08BABda",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "83d152ab-4e6d-486b-b220-b023d07dccbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC89fA86A1a2f6De30D35B4602F709161D08BABda/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC89fA86A1a2f6De30D35B4602F709161D08BABda/logo.png"
+    }
+  },
+  "name": "LXK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LXK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

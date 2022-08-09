@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB6d945CAc888ffC1c76FDBE28e9F50E8B3b8252a",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "80c9a458-3856-408d-919d-93da734c39a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6d945CAc888ffC1c76FDBE28e9F50E8B3b8252a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB6d945CAc888ffC1c76FDBE28e9F50E8B3b8252a/logo.png"
+    }
+  },
+  "name": "the token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95382Ac82E886A367bAc9E1e23beAbe569bCfeD8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d64df744-a5d3-48e9-820c-a82e721b2e30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95382Ac82E886A367bAc9E1e23beAbe569bCfeD8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95382Ac82E886A367bAc9E1e23beAbe569bCfeD8/logo.png"
+    }
+  },
+  "name": "SURETY Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

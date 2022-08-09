@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7c190db-8220-4139-a95e-0aa5c123dfcc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c/logo.png"
+    }
+  },
+  "name": "Super Running Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb51925A39d3d9e81Bb77407CD38468797B5be6d2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "260cffe5-719a-4c79-add0-338aa1ba671d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb51925A39d3d9e81Bb77407CD38468797B5be6d2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb51925A39d3d9e81Bb77407CD38468797B5be6d2/logo.png"
+    }
+  },
+  "name": "Golassocoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

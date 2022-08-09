@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6EB678CcBfA5CFbea98C94510B2543e2E7E1fd44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be86e0d3-580a-44fe-a05a-c2188296cdc0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6EB678CcBfA5CFbea98C94510B2543e2E7E1fd44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6EB678CcBfA5CFbea98C94510B2543e2E7E1fd44/logo.png"
+    }
+  },
+  "name": "NLC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

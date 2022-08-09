@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE35673cdD0370146be64e1DE959ec42E725ec4Ce",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06418860-4b2a-4baa-b3d8-a615909a0c79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE35673cdD0370146be64e1DE959ec42E725ec4Ce/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE35673cdD0370146be64e1DE959ec42E725ec4Ce/logo.png"
+    }
+  },
+  "name": "M.O.A.B",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

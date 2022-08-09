@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5bfe8af-cca9-4fc9-9807-eb4892a0fd3d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89eE58Af4871b474c30001982c3D7439C933c838/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x89eE58Af4871b474c30001982c3D7439C933c838/logo.png"
+    }
+  },
+  "name": "yfBETA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFBETA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

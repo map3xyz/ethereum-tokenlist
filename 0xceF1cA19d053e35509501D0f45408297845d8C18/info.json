@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xceF1cA19d053e35509501D0f45408297845d8C18",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "dbf8a5aa-c27e-4750-8569-850a17bf355d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xceF1cA19d053e35509501D0f45408297845d8C18/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xceF1cA19d053e35509501D0f45408297845d8C18/logo.png"
+    }
+  },
+  "name": "V-PALADINI TEST 1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "V",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8eBb13B9895E52Ab7d815CE7F63591402581624",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ac2b9686-b012-4c22-9c9b-d6b1c885e2a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA8eBb13B9895E52Ab7d815CE7F63591402581624/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8eBb13B9895E52Ab7d815CE7F63591402581624/logo.png"
+    }
+  },
+  "name": "ESCX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

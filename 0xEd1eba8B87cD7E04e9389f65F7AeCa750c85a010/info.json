@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEd1eba8B87cD7E04e9389f65F7AeCa750c85a010",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9af1d0d0-4695-4cbd-8895-7c6bf544d15a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd1eba8B87cD7E04e9389f65F7AeCa750c85a010/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEd1eba8B87cD7E04e9389f65F7AeCa750c85a010/logo.png"
+    }
+  },
+  "name": "Genesis Token of ATNIO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

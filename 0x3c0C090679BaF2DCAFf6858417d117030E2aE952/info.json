@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3c0C090679BaF2DCAFf6858417d117030E2aE952",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "1a570ca7-516f-49e6-bede-74bf1e2048bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3c0C090679BaF2DCAFf6858417d117030E2aE952/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c0C090679BaF2DCAFf6858417d117030E2aE952/logo.png"
+    }
+  },
+  "name": "Qurix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0159fb9-2148-43bd-bcf7-be4e66efa3be",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7/logo.png"
+    }
+  },
+  "name": "Vera",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Vera",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

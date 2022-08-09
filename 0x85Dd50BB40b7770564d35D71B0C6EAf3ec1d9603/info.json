@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85Dd50BB40b7770564d35D71B0C6EAf3ec1d9603",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f97a9b2-84d6-4329-9650-b5effe3e769d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85Dd50BB40b7770564d35D71B0C6EAf3ec1d9603/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85Dd50BB40b7770564d35D71B0C6EAf3ec1d9603/logo.png"
+    }
+  },
+  "name": "Founder Chibi Fighters",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06e207b9-3f2d-4f41-8c66-0b3c07a2d5b3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc34366E3842cA1BD36c1f324d15257960fCC801/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc34366E3842cA1BD36c1f324d15257960fCC801/logo.png"
+    }
+  },
+  "name": "Bonpay Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

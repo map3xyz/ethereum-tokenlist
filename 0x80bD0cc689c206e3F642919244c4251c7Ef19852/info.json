@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80bD0cc689c206e3F642919244c4251c7Ef19852",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e29098fa-3db9-4f7e-9259-9246abfa40f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80bD0cc689c206e3F642919244c4251c7Ef19852/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80bD0cc689c206e3F642919244c4251c7Ef19852/logo.png"
+    }
+  },
+  "name": "SudanGoldCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

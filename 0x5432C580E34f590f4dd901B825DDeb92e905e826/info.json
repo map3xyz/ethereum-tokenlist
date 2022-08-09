@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5432C580E34f590f4dd901B825DDeb92e905e826",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9035000c-6443-4c07-a207-ef8590ddf19c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5432C580E34f590f4dd901B825DDeb92e905e826/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5432C580E34f590f4dd901B825DDeb92e905e826/logo.png"
+    }
+  },
+  "name": "TradeX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TXH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

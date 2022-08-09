@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1ec68c3d-3a6e-4580-980f-f4a26809b50d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0/logo.png"
+    }
+  },
+  "name": "Adshares Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

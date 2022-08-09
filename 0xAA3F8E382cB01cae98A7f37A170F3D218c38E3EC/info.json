@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAA3F8E382cB01cae98A7f37A170F3D218c38E3EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3565fd8-bb3d-426f-a68e-0d9c9d2f10f4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAA3F8E382cB01cae98A7f37A170F3D218c38E3EC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAA3F8E382cB01cae98A7f37A170F3D218c38E3EC/logo.png"
+    }
+  },
+  "name": "FENNIECOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

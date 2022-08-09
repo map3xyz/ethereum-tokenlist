@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75231882-e886-4422-b683-384917ff9158",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00006100F7090010005F1bd7aE6122c3C2CF0090/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00006100F7090010005F1bd7aE6122c3C2CF0090/logo.png"
+    }
+  },
+  "name": "TrueAUD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

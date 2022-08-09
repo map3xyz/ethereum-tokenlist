@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDd8A49180E44806Bd56873bda359C1115F7E98b5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "18f61fe2-0746-405f-bc98-ea7fa322b440",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDd8A49180E44806Bd56873bda359C1115F7E98b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDd8A49180E44806Bd56873bda359C1115F7E98b5/logo.png"
+    }
+  },
+  "name": "Rare Ones",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RONES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

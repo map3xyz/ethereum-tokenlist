@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2A5c5212f399aa04a0ce28dBe48C1a17FcA78DF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17522bca-88c5-409a-b06e-448f1e007f47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2A5c5212f399aa04a0ce28dBe48C1a17FcA78DF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2A5c5212f399aa04a0ce28dBe48C1a17FcA78DF4/logo.png"
+    }
+  },
+  "name": "XDAC COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XDAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

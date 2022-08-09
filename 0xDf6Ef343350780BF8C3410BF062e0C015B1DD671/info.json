@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b6a64aa4-604d-4500-8e56-39323498a49d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDf6Ef343350780BF8C3410BF062e0C015B1DD671/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDf6Ef343350780BF8C3410BF062e0C015B1DD671/logo.png"
+    }
+  },
+  "name": "Blackmoon Crypto Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

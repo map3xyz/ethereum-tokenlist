@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfA10E13FE555760a5297DC14Eb6562A1A53e4e37",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9a7084d-2f1d-461c-b91e-2c5eaee2d14f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfA10E13FE555760a5297DC14Eb6562A1A53e4e37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfA10E13FE555760a5297DC14Eb6562A1A53e4e37/logo.png"
+    }
+  },
+  "name": "EthereumX May 2018 Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHX-5-18",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

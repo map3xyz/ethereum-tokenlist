@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x578C7557D207e87e8232Cd69d94f41A9A136A5fe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ea2c3d5-a686-4e40-8992-e85dbd393dcc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x578C7557D207e87e8232Cd69d94f41A9A136A5fe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x578C7557D207e87e8232Cd69d94f41A9A136A5fe/logo.png"
+    }
+  },
+  "name": "DaQianCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DQC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

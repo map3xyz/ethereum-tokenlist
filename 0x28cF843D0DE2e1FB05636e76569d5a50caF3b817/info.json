@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28cF843D0DE2e1FB05636e76569d5a50caF3b817",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f1dbc19-55d2-4c48-b580-7340c6ff98b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28cF843D0DE2e1FB05636e76569d5a50caF3b817/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28cF843D0DE2e1FB05636e76569d5a50caF3b817/logo.png"
+    }
+  },
+  "name": "Bostec",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x428548d53E889d7A0D51F4142BA53463808c1BE6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "46e08437-3e6b-4295-9463-3e74037a9192",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x428548d53E889d7A0D51F4142BA53463808c1BE6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x428548d53E889d7A0D51F4142BA53463808c1BE6/logo.png"
+    }
+  },
+  "name": "Energy27",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

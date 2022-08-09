@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4f878C0852722b0976A955d68B376E4Cd4Ae99E5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "728d33ff-c25a-4bb8-94ad-44874056aa4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4f878C0852722b0976A955d68B376E4Cd4Ae99E5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4f878C0852722b0976A955d68B376E4Cd4Ae99E5/logo.png"
+    }
+  },
+  "name": "WaykiCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

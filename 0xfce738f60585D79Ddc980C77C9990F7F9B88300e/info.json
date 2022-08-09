@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfce738f60585D79Ddc980C77C9990F7F9B88300e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "37016325-89d1-4d8b-b8c4-275ff614ff36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfce738f60585D79Ddc980C77C9990F7F9B88300e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfce738f60585D79Ddc980C77C9990F7F9B88300e/logo.png"
+    }
+  },
+  "name": "Shreyas",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHREY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

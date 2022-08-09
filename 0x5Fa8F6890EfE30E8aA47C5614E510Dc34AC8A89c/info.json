@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "5d4ffc21-9055-4661-8912-4b610b911a8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c/logo.png"
+    }
+  },
+  "name": "Ururu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "URT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

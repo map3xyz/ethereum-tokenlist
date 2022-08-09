@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f0498d6-62b0-4e72-9445-512a7c85c5d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d/logo.png"
+    }
+  },
+  "name": "DUCATO Protocol Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUCATO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

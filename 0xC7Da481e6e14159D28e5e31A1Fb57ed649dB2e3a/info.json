@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c30f2dc3-7de7-4816-a50f-e606e15e63cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a/logo.png"
+    }
+  },
+  "name": "Mondo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFD77E1C8b42E661fdC0a29cc467a8F51B07766F4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "838a5599-f349-4a8f-ab97-bf48071183f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFD77E1C8b42E661fdC0a29cc467a8F51B07766F4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFD77E1C8b42E661fdC0a29cc467a8F51B07766F4/logo.png"
+    }
+  },
+  "name": "B Network Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "eb7ec66a-6c95-48d0-940f-8451a67c6177",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x75D12E4F91Df721faFCae4c6cD1d5280381370AC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75D12E4F91Df721faFCae4c6cD1d5280381370AC/logo.png"
+    }
+  },
+  "name": "Myōbu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYOBU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15848cbd-342a-4249-8f0c-fab2d95efe61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F/logo.png"
+    }
+  },
+  "name": "Bistroo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

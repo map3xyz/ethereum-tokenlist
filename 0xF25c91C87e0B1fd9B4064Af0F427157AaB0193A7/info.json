@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a97064ea-8bd8-46f5-be2a-ec536096c012",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7/logo.png"
+    }
+  },
+  "name": "BASIC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BASIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f9b3dd2-c00d-4685-a94f-ebdfb4d84327",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    }
+  },
+  "name": "UniLend",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

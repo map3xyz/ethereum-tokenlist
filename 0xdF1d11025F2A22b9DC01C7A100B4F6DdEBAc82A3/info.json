@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "a7e46014-5354-4f97-bcf3-380040128104",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3/logo.png"
+    }
+  },
+  "name": "AirDance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DANCE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

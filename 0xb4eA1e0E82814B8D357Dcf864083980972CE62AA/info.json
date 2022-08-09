@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb4eA1e0E82814B8D357Dcf864083980972CE62AA",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8885eccd-5cbe-42bd-9ae5-f51ecb4baf5d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb4eA1e0E82814B8D357Dcf864083980972CE62AA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb4eA1e0E82814B8D357Dcf864083980972CE62AA/logo.png"
+    }
+  },
+  "name": "KITE COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KITE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

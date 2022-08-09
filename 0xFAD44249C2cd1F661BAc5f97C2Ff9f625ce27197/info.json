@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1a48ecd7-9825-4c3d-8d30-b8832bef2611",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197/logo.png"
+    }
+  },
+  "name": "GREY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GREY",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

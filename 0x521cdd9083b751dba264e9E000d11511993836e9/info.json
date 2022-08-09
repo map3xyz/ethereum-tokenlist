@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x521cdd9083b751dba264e9E000d11511993836e9",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "de5b657c-f2a7-4705-a85c-bc74b26d1dc1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x521cdd9083b751dba264e9E000d11511993836e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x521cdd9083b751dba264e9E000d11511993836e9/logo.png"
+    }
+  },
+  "name": "XMAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XMAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

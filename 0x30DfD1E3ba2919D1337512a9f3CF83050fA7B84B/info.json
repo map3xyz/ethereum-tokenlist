@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x30DfD1E3ba2919D1337512a9f3CF83050fA7B84B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3565b86d-f51d-4040-af05-f33a40824abb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x30DfD1E3ba2919D1337512a9f3CF83050fA7B84B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x30DfD1E3ba2919D1337512a9f3CF83050fA7B84B/logo.png"
+    }
+  },
+  "name": "Unity ETH token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UXET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3EDD235C3E840C1F29286B2e39370a255C7B6fdb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7beb7c15-37b6-47d8-98a0-4fcd8f5e7c5f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3EDD235C3E840C1F29286B2e39370a255C7B6fdb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3EDD235C3E840C1F29286B2e39370a255C7B6fdb/logo.png"
+    }
+  },
+  "name": "CMB Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

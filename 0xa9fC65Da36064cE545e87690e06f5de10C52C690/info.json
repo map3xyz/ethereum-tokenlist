@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9fC65Da36064cE545e87690e06f5de10C52C690",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a22d9e03-04a4-4a05-838d-261a5c9153d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9fC65Da36064cE545e87690e06f5de10C52C690/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9fC65Da36064cE545e87690e06f5de10C52C690/logo.png"
+    }
+  },
+  "name": "3X Short Bitcoin Cash Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCHBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

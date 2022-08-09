@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaBe89ba71e9Cd504c7EE22B018908B76213Dc2aB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b15b957a-856c-4d28-a403-8c30fe9408ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaBe89ba71e9Cd504c7EE22B018908B76213Dc2aB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaBe89ba71e9Cd504c7EE22B018908B76213Dc2aB/logo.png"
+    }
+  },
+  "name": "COFC Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

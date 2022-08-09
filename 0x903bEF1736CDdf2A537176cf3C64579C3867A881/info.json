@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "392925c9-e50e-4dd9-8512-65a2931bfe37",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png"
+    }
+  },
+  "name": "Legacy ICHI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICHI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

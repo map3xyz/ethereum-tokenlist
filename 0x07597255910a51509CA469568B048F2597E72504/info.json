@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07597255910a51509CA469568B048F2597E72504",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2128170-e4e4-4780-b58f-de463ab9aa2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07597255910a51509CA469568B048F2597E72504/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07597255910a51509CA469568B048F2597E72504/logo.png"
+    }
+  },
+  "name": "Uptrennd",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "1UP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

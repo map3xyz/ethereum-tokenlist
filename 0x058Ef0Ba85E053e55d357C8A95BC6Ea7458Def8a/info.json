@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x058Ef0Ba85E053e55d357C8A95BC6Ea7458Def8a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "404e5cdb-76f8-447b-ad38-3eb12a0c31c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x058Ef0Ba85E053e55d357C8A95BC6Ea7458Def8a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x058Ef0Ba85E053e55d357C8A95BC6Ea7458Def8a/logo.png"
+    }
+  },
+  "name": "TradeKax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TKX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

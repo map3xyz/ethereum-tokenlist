@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff40308b-e512-462d-af26-06a972acb753",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB/logo.png"
+    }
+  },
+  "name": "Claymore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

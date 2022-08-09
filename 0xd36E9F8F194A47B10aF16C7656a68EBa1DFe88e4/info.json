@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd36E9F8F194A47B10aF16C7656a68EBa1DFe88e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fbe49ab1-ff37-4ad5-adf6-8b464947700e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd36E9F8F194A47B10aF16C7656a68EBa1DFe88e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd36E9F8F194A47B10aF16C7656a68EBa1DFe88e4/logo.png"
+    }
+  },
+  "name": "Atlas Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATLS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

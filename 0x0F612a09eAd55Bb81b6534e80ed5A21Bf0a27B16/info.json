@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c884c8d-6ad6-4ec7-9782-1373c22b328c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16/logo.png"
+    }
+  },
+  "name": "EUNOMIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ENTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

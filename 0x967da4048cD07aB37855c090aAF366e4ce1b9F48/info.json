@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0446866a-df7e-4678-abf4-2f7521ca9551",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
+    }
+  },
+  "name": "Ocean Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCEAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35612a781721944118ef90353554bc6c1cD51e24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e3d1b81-2022-4498-9e66-91081d689561",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35612a781721944118ef90353554bc6c1cD51e24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35612a781721944118ef90353554bc6c1cD51e24/logo.png"
+    }
+  },
+  "name": "trip token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

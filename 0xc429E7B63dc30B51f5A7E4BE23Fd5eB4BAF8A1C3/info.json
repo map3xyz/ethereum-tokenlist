@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c55edec8-36a8-4919-bd38-1abc8940db02",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3/logo.png"
+    }
+  },
+  "name": "Bitibu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

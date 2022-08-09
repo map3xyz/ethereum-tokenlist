@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e064be4b-8479-4fc5-8345-c6c2a2d480a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1e987DF68CC13d271e621ec82E050A1BbD62c180/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1e987DF68CC13d271e621ec82E050A1BbD62c180/logo.png"
+    }
+  },
+  "name": "WAGMI Game",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAGMI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

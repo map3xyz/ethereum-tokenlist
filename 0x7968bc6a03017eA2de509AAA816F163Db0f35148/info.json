@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8516c3e8-4754-4be3-90cd-ebb705e2f221",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7968bc6a03017eA2de509AAA816F163Db0f35148/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7968bc6a03017eA2de509AAA816F163Db0f35148/logo.png"
+    }
+  },
+  "name": "Hedget",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HGET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

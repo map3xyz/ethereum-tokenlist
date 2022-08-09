@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "02b64104-7550-4d7c-b51a-00c2b2eeb503",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57/logo.png"
+    }
+  },
+  "name": "CHOCH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

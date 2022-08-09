@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a72db01-6ec8-4ae7-91db-637addb2dbf5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8/logo.png"
+    }
+  },
+  "name": "Bit-Bet",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

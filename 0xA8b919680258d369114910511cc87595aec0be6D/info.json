@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1eb6bf8c-b953-4707-b7fd-dd04d6f96e01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA8b919680258d369114910511cc87595aec0be6D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8b919680258d369114910511cc87595aec0be6D/logo.png"
+    }
+  },
+  "name": "LUKSO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYXe",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

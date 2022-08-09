@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf34845b76015D2952B6E39436bC59Cae3C9ba17d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6eece056-829b-4b22-a173-a9ee556f024c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf34845b76015D2952B6E39436bC59Cae3C9ba17d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf34845b76015D2952B6E39436bC59Cae3C9ba17d/logo.png"
+    }
+  },
+  "name": "GIGS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

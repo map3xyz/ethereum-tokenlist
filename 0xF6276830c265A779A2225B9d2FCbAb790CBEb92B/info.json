@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF6276830c265A779A2225B9d2FCbAb790CBEb92B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33a57524-debd-4937-abbd-6e95cf1c2e92",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6276830c265A779A2225B9d2FCbAb790CBEb92B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF6276830c265A779A2225B9d2FCbAb790CBEb92B/logo.png"
+    }
+  },
+  "name": "XCELTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

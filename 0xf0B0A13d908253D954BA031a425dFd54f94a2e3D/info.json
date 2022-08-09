@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0B0A13d908253D954BA031a425dFd54f94a2e3D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e2d81c11-306c-4dde-b9e9-158b22badf61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0B0A13d908253D954BA031a425dFd54f94a2e3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0B0A13d908253D954BA031a425dFd54f94a2e3D/logo.png"
+    }
+  },
+  "name": "FlashX Advance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSXA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x63e634330A20150DbB61B15648bC73855d6CCF07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5b917f09-eb92-42d7-938a-83ec0916bb76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x63e634330A20150DbB61B15648bC73855d6CCF07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x63e634330A20150DbB61B15648bC73855d6CCF07/logo.png"
+    }
+  },
+  "name": "Lancer Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

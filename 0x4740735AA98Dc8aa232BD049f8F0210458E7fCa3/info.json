@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8a028e3-f6e6-4e4e-b7f1-3a3bb9c9d7c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3/logo.png"
+    }
+  },
+  "name": "Ridotto Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

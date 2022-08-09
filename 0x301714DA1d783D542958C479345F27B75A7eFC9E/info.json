@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x301714DA1d783D542958C479345F27B75A7eFC9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e015804-e716-4699-a0f0-475ebf1e977e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x301714DA1d783D542958C479345F27B75A7eFC9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x301714DA1d783D542958C479345F27B75A7eFC9E/logo.png"
+    }
+  },
+  "name": "ZARK COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZARK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x177A542A9281F545263B1bcFb54a3d549003BF71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72f6d394-af53-426b-87ae-d5bf8cad9ad0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x177A542A9281F545263B1bcFb54a3d549003BF71/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x177A542A9281F545263B1bcFb54a3d549003BF71/logo.png"
+    }
+  },
+  "name": "TASFU COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TSF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb560aff-3d2e-4127-892b-d5f2b4b1589c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135/logo.png"
+    }
+  },
+  "name": "BABB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

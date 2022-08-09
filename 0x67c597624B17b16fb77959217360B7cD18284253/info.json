@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x67c597624B17b16fb77959217360B7cD18284253",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b13b88fa-7316-47e8-8a5e-03b6eba0346a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+    }
+  },
+  "name": "Benchmark Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MARK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

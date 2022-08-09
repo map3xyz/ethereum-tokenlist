@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a65beb7-d96c-4db0-906e-2546d27dc907",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb339FcA531367067e98d7c4f9303Ffeadff7B881/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb339FcA531367067e98d7c4f9303Ffeadff7B881/logo.png"
+    }
+  },
+  "name": "Aludra Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

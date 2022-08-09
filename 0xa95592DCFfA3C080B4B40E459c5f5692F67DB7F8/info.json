@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9fe0ce6-18d6-4d8f-a002-63a05746eb1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8/logo.png"
+    }
+  },
+  "name": "Elycoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

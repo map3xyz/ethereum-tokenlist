@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x618aCb9601cb54244F5780F09536DB07d2C7aCf4",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b7fed14d-1067-40e3-ae1e-dd707d061617",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x618aCb9601cb54244F5780F09536DB07d2C7aCf4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x618aCb9601cb54244F5780F09536DB07d2C7aCf4/logo.png"
+    }
+  },
+  "name": "Defense Grade Security (GRIG)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

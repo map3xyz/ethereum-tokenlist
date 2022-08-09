@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbcC7026CdE024c6a97d2DF6e40613217d946279C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c10d3f9-2d3e-4dc3-a3b2-4bc418694c3d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbcC7026CdE024c6a97d2DF6e40613217d946279C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbcC7026CdE024c6a97d2DF6e40613217d946279C/logo.png"
+    }
+  },
+  "name": "Ala",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

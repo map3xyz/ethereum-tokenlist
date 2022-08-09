@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x347C099f110Ca6761779329D2879957b606b6aCE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47de15e1-10da-4049-b59f-fc863412d299",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x347C099f110Ca6761779329D2879957b606b6aCE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x347C099f110Ca6761779329D2879957b606b6aCE/logo.png"
+    }
+  },
+  "name": "JOINT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JOINT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

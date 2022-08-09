@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "295505aa-e9e8-46e1-a066-0cf87e5fe435",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8/logo.png"
+    }
+  },
+  "name": "Payship.org",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PSHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

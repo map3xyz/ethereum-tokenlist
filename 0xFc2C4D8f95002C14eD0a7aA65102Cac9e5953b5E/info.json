@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbbb95d2-5b07-4ee7-a21a-94f093eafa9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png"
+    }
+  },
+  "name": "Rublix",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

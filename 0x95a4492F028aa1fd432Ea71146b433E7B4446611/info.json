@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86333f1a-fc47-47e0-bd95-91936755d72b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x95a4492F028aa1fd432Ea71146b433E7B4446611/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x95a4492F028aa1fd432Ea71146b433E7B4446611/logo.png"
+    }
+  },
+  "name": "APY.Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

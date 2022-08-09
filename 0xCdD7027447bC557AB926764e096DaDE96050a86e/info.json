@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCdD7027447bC557AB926764e096DaDE96050a86e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2544d323-3722-4396-9df8-c122c786fb6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCdD7027447bC557AB926764e096DaDE96050a86e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCdD7027447bC557AB926764e096DaDE96050a86e/logo.png"
+    }
+  },
+  "name": "Galaxium Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GXM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

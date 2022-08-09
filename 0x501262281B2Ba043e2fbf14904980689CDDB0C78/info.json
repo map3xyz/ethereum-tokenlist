@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x501262281B2Ba043e2fbf14904980689CDDB0C78",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "704cd190-8815-4eb6-ad0a-ca94824a04fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x501262281B2Ba043e2fbf14904980689CDDB0C78/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x501262281B2Ba043e2fbf14904980689CDDB0C78/logo.png"
+    }
+  },
+  "name": "Mithril Ore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MORE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

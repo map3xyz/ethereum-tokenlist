@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25B63bcA43914b7d7CcD59892b762c06493a04E6",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1a7c861a-418b-4e69-8cc6-d733bcdb790e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25B63bcA43914b7d7CcD59892b762c06493a04E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25B63bcA43914b7d7CcD59892b762c06493a04E6/logo.png"
+    }
+  },
+  "name": "ITALIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITALIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

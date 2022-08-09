@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEe3bB3BFB79B153bF1181a3995DC4aa8C4f037bB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8b531353-5fc8-4bd4-8730-cd2dc253f168",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEe3bB3BFB79B153bF1181a3995DC4aa8C4f037bB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEe3bB3BFB79B153bF1181a3995DC4aa8C4f037bB/logo.png"
+    }
+  },
+  "name": "Bitelectroneum ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

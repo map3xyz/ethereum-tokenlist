@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cc4d3f06-1bb9-4caa-bf79-5c3506b97e61",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x666d875C600AA06AC1cf15641361dEC3b00432Ef/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x666d875C600AA06AC1cf15641361dEC3b00432Ef/logo.png"
+    }
+  },
+  "name": "BTSE Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

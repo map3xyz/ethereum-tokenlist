@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5881dA4527BCdC44a100F8bA2efC4039243D2C07",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "e1e76395-c878-42f5-bb78-4a14609307d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5881dA4527BCdC44a100F8bA2efC4039243D2C07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5881dA4527BCdC44a100F8bA2efC4039243D2C07/logo.png"
+    }
+  },
+  "name": "Pride",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LGBTQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

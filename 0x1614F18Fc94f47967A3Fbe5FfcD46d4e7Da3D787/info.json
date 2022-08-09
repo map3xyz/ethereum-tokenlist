@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c0a65c9-4e2b-40a6-87e4-d21a9a48d43e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787/logo.png"
+    }
+  },
+  "name": "PAID Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

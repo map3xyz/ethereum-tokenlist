@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27DC43004F0FE65030be5ef809E843e72035c0F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20e07f3d-a64a-40b8-ac46-36fb1188d0ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27DC43004F0FE65030be5ef809E843e72035c0F1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27DC43004F0FE65030be5ef809E843e72035c0F1/logo.png"
+    }
+  },
+  "name": "Quantum Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

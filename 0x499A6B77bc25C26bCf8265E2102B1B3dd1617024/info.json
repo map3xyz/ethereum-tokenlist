@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x499A6B77bc25C26bCf8265E2102B1B3dd1617024",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9e1247c-7695-4bf7-89e4-07020b9a3922",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x499A6B77bc25C26bCf8265E2102B1B3dd1617024/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x499A6B77bc25C26bCf8265E2102B1B3dd1617024/logo.png"
+    }
+  },
+  "name": "Bitether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

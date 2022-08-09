@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0083dad7-3eb7-427a-b9d6-e576f5d80472",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC/logo.png"
+    }
+  },
+  "name": "MT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

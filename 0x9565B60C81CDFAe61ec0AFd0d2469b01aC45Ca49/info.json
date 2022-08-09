@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9565B60C81CDFAe61ec0AFd0d2469b01aC45Ca49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e879b07-db62-44ea-8716-dfaab9f4a268",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9565B60C81CDFAe61ec0AFd0d2469b01aC45Ca49/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9565B60C81CDFAe61ec0AFd0d2469b01aC45Ca49/logo.png"
+    }
+  },
+  "name": "OMNET",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OMNET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

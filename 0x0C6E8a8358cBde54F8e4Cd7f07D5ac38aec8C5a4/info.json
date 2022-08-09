@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33e0a0a4-6503-4099-8a75-e076b315de6a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4/logo.png"
+    }
+  },
+  "name": "PlatonCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

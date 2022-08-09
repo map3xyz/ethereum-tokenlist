@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB58B0B858dAbD762c063Ea0F22f2FA3397474529",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "c1bde101-a09f-4f6d-aae8-823f0a6d920f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB58B0B858dAbD762c063Ea0F22f2FA3397474529/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB58B0B858dAbD762c063Ea0F22f2FA3397474529/logo.png"
+    }
+  },
+  "name": "i Trade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

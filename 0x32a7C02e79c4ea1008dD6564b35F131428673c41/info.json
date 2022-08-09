@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9168a2b-20ef-4905-8c95-a56ea79b641c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32a7C02e79c4ea1008dD6564b35F131428673c41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32a7C02e79c4ea1008dD6564b35F131428673c41/logo.png"
+    }
+  },
+  "name": "CRUST",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

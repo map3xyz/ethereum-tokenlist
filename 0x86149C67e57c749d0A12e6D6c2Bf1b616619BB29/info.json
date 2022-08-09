@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86149C67e57c749d0A12e6D6c2Bf1b616619BB29",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef22d419-4492-4890-a9c2-386d3f7aba94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86149C67e57c749d0A12e6D6c2Bf1b616619BB29/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86149C67e57c749d0A12e6D6c2Bf1b616619BB29/logo.png"
+    }
+  },
+  "name": "BANCACY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

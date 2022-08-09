@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d48F293BaED247A2D0189058bA37aa238bD4725",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67d32fa1-4a2c-49aa-a53e-3f9499dd8e97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d48F293BaED247A2D0189058bA37aa238bD4725/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d48F293BaED247A2D0189058bA37aa238bD4725/logo.png"
+    }
+  },
+  "name": "NeuroChain Clausius",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

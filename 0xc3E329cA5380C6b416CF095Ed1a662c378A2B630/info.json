@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3E329cA5380C6b416CF095Ed1a662c378A2B630",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f23a8667-be2e-4389-a1a6-0f224926192e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3E329cA5380C6b416CF095Ed1a662c378A2B630/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3E329cA5380C6b416CF095Ed1a662c378A2B630/logo.png"
+    }
+  },
+  "name": "TaurusPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

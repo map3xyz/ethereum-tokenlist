@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3565402f2936D3284264F03615D065803330E392",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e269f1-b1d1-4140-afb4-5a39556da93b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3565402f2936D3284264F03615D065803330E392/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3565402f2936D3284264F03615D065803330E392/logo.png"
+    }
+  },
+  "name": "CandysAirdrop",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CSAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

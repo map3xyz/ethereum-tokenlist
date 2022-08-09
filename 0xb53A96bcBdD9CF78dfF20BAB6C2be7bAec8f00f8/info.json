@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a4d846eb-0622-4199-b2b5-7e6236852920",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8/logo.png"
+    }
+  },
+  "name": "ETHGAS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eGAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

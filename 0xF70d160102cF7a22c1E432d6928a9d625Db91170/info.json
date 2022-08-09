@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF70d160102cF7a22c1E432d6928a9d625Db91170",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7eca635-4dc2-423a-8c79-ce35a65b9765",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF70d160102cF7a22c1E432d6928a9d625Db91170/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF70d160102cF7a22c1E432d6928a9d625Db91170/logo.png"
+    }
+  },
+  "name": "KUVERIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KUV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

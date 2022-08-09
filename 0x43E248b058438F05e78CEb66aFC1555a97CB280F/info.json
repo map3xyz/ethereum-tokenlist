@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43E248b058438F05e78CEb66aFC1555a97CB280F",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "7b0b7aa2-28c5-4b1e-963a-90e6c5986e11",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43E248b058438F05e78CEb66aFC1555a97CB280F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43E248b058438F05e78CEb66aFC1555a97CB280F/logo.png"
+    }
+  },
+  "name": "ThrillerX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "89cbdd60-711d-423a-b7b2-74f81dbb7380",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494/logo.png"
+    }
+  },
+  "name": "Daniubi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

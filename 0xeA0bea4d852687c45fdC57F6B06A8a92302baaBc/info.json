@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeA0bea4d852687c45fdC57F6B06A8a92302baaBc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "162318be-4cfd-4715-b330-1f1ca27b1f24",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeA0bea4d852687c45fdC57F6B06A8a92302baaBc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeA0bea4d852687c45fdC57F6B06A8a92302baaBc/logo.png"
+    }
+  },
+  "name": "Counsel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNSL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

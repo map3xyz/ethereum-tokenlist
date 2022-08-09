@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8e107638-fd3c-471a-b78e-6712c9d83c01",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0929d411954c47438dc1d871dd6081F5C5e149c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0929d411954c47438dc1d871dd6081F5C5e149c/logo.png"
+    }
+  },
+  "name": "Refereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RFR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

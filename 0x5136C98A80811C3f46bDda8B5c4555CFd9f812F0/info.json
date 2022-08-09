@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "5cc9d257-87da-4230-9a00-8b8dbe6ea79f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0/logo.png"
+    }
+  },
+  "name": "indaHash Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

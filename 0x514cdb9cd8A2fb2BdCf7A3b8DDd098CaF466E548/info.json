@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ef1a9874-fe42-4f63-9fc7-45b84e05595b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548/logo.png"
+    }
+  },
+  "name": "RedPanda Earth ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REDPANDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

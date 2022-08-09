@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x756eFAcB09fA797A21Dd62D942A5181a2Ec36f17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5add8ff-7da5-41fd-9e7e-8910d2cb143f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x756eFAcB09fA797A21Dd62D942A5181a2Ec36f17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x756eFAcB09fA797A21Dd62D942A5181a2Ec36f17/logo.png"
+    }
+  },
+  "name": "PhiCoinGold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PhiG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

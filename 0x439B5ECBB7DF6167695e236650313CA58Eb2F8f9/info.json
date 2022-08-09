@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x439B5ECBB7DF6167695e236650313CA58Eb2F8f9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "808277e7-b535-475c-8c1b-4391a040fbfc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x439B5ECBB7DF6167695e236650313CA58Eb2F8f9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x439B5ECBB7DF6167695e236650313CA58Eb2F8f9/logo.png"
+    }
+  },
+  "name": "Sanook Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

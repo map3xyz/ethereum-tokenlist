@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82622209cEf6EBf4b8BDB353a8FC7e0b8655D0b0",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7604283f-6815-43fa-9cdb-63b9e3a4d8e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x82622209cEf6EBf4b8BDB353a8FC7e0b8655D0b0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x82622209cEf6EBf4b8BDB353a8FC7e0b8655D0b0/logo.png"
+    }
+  },
+  "name": "Nuclear Bomb",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

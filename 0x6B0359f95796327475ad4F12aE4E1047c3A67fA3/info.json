@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6B0359f95796327475ad4F12aE4E1047c3A67fA3",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "093cd36a-482d-4228-8863-affa85330c43",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B0359f95796327475ad4F12aE4E1047c3A67fA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6B0359f95796327475ad4F12aE4E1047c3A67fA3/logo.png"
+    }
+  },
+  "name": "FINFINE TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

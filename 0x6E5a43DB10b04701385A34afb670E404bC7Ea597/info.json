@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "6a07a679-783c-4751-8385-8bf54518333b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6E5a43DB10b04701385A34afb670E404bC7Ea597/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6E5a43DB10b04701385A34afb670E404bC7Ea597/logo.png"
+    }
+  },
+  "name": "RAKON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72a17f1f-cf0a-4e74-965a-f89a43fa5e21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
+    }
+  },
+  "name": "Dogelon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

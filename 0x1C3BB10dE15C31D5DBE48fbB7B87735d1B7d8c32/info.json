@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1C3BB10dE15C31D5DBE48fbB7B87735d1B7d8c32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a693465b-807f-4fd8-a89a-d5e3b40a20cb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C3BB10dE15C31D5DBE48fbB7B87735d1B7d8c32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1C3BB10dE15C31D5DBE48fbB7B87735d1B7d8c32/logo.png"
+    }
+  },
+  "name": "BLONDCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

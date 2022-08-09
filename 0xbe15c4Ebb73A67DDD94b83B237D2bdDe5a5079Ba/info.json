@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbe15c4Ebb73A67DDD94b83B237D2bdDe5a5079Ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4caa196d-9f79-4fb0-9ecf-09e9c4fcf216",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbe15c4Ebb73A67DDD94b83B237D2bdDe5a5079Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbe15c4Ebb73A67DDD94b83B237D2bdDe5a5079Ba/logo.png"
+    }
+  },
+  "name": "Complete New Commerce Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

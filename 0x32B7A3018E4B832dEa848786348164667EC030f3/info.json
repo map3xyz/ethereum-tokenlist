@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x32B7A3018E4B832dEa848786348164667EC030f3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1383dd7a-dac8-4f68-853c-d20bd83edba8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32B7A3018E4B832dEa848786348164667EC030f3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x32B7A3018E4B832dEa848786348164667EC030f3/logo.png"
+    }
+  },
+  "name": "Molecule",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

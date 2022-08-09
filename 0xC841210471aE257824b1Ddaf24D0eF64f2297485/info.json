@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC841210471aE257824b1Ddaf24D0eF64f2297485",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1901ae93-eb17-4dd5-a107-9b01d46f0719",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC841210471aE257824b1Ddaf24D0eF64f2297485/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC841210471aE257824b1Ddaf24D0eF64f2297485/logo.png"
+    }
+  },
+  "name": "Wymax Lending Platform",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E3002dff591C5e75Bb9DEdae268049742E6b13a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "669b5032-8b79-4f47-944b-dd06ee4fd30f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5E3002dff591C5e75Bb9DEdae268049742E6b13a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5E3002dff591C5e75Bb9DEdae268049742E6b13a/logo.png"
+    }
+  },
+  "name": "TudaToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "\"\"",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

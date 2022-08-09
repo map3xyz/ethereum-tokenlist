@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4e7dE94e1243c25be42c523A0A4EA712BE6d9766",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "985c481e-f7b6-481b-ac5d-e0a365f62580",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4e7dE94e1243c25be42c523A0A4EA712BE6d9766/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e7dE94e1243c25be42c523A0A4EA712BE6d9766/logo.png"
+    }
+  },
+  "name": "Roman Empire Club",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

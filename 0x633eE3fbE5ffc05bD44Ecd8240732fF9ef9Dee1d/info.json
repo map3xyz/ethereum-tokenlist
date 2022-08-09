@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f20474d4-83bd-46d7-946c-741cecf7dfab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d/logo.png"
+    }
+  },
+  "name": "MarketPeak",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

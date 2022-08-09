@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAfe6851C1D9ee2E759ACDEE8cFC827E22a9eC5d7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "82142c3e-2bf4-4b3d-93dc-ab7e074c89da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAfe6851C1D9ee2E759ACDEE8cFC827E22a9eC5d7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAfe6851C1D9ee2E759ACDEE8cFC827E22a9eC5d7/logo.png"
+    }
+  },
+  "name": "DigitalCommunityShare",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

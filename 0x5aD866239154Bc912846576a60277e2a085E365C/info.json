@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5aD866239154Bc912846576a60277e2a085E365C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffb4f677-0aa1-4ee7-b36f-551bdf124887",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5aD866239154Bc912846576a60277e2a085E365C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5aD866239154Bc912846576a60277e2a085E365C/logo.png"
+    }
+  },
+  "name": "GN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

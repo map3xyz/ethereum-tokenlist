@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e52df2c5-2a5b-4684-848b-c5115be3c879",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed/logo.png"
+    }
+  },
+  "name": "BlueWhaleToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BWX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

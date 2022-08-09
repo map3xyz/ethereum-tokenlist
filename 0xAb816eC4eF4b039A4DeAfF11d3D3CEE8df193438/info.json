@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAb816eC4eF4b039A4DeAfF11d3D3CEE8df193438",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "586d8852-dbd4-4027-99a5-b4256c4ee3dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAb816eC4eF4b039A4DeAfF11d3D3CEE8df193438/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAb816eC4eF4b039A4DeAfF11d3D3CEE8df193438/logo.png"
+    }
+  },
+  "name": "EQR 3000",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

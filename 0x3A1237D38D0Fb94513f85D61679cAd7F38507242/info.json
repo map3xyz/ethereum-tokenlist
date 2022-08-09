@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A1237D38D0Fb94513f85D61679cAd7F38507242",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "adb17828-0345-436d-ac14-b1a4fbcc4f5a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A1237D38D0Fb94513f85D61679cAd7F38507242/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A1237D38D0Fb94513f85D61679cAd7F38507242/logo.png"
+    }
+  },
+  "name": "Mindexcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

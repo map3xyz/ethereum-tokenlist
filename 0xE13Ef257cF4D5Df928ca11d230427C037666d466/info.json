@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE13Ef257cF4D5Df928ca11d230427C037666d466",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3a5df402-3d33-43a5-8834-c6f9af472e0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE13Ef257cF4D5Df928ca11d230427C037666d466/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE13Ef257cF4D5Df928ca11d230427C037666d466/logo.png"
+    }
+  },
+  "name": "WIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

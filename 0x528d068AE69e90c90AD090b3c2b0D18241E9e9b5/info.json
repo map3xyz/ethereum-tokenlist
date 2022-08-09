@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x528d068AE69e90c90AD090b3c2b0D18241E9e9b5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81c30d10-a33d-4256-862c-c0437217e839",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x528d068AE69e90c90AD090b3c2b0D18241E9e9b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x528d068AE69e90c90AD090b3c2b0D18241E9e9b5/logo.png"
+    }
+  },
+  "name": "XstarToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

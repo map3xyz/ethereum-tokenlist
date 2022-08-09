@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6859242a5c8e43101BC96787c09728036590083B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e62c83c1-1373-4ebd-bbda-c466fae2fa4b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6859242a5c8e43101BC96787c09728036590083B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6859242a5c8e43101BC96787c09728036590083B/logo.png"
+    }
+  },
+  "name": "World Travel Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71175576-005b-48f8-b596-60a374ff7aeb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC/logo.png"
+    }
+  },
+  "name": "COINBIG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

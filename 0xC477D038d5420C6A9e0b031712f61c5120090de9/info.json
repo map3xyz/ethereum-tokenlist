@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd417065-9abd-46de-9374-8cad206b8fbc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC477D038d5420C6A9e0b031712f61c5120090de9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC477D038d5420C6A9e0b031712f61c5120090de9/logo.png"
+    }
+  },
+  "name": "BOSON Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOSON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

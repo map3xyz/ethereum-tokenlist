@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xedacc3cBcDF37fCefd16F02670c51C9cf2720015",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cda636f-b24c-48dc-8b80-e1939162f0df",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xedacc3cBcDF37fCefd16F02670c51C9cf2720015/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xedacc3cBcDF37fCefd16F02670c51C9cf2720015/logo.png"
+    }
+  },
+  "name": "ALL LIVES MATTER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUMAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

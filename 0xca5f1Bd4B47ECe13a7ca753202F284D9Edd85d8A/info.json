@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3dddbfed-298a-4987-960b-e4cf5afae57c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A/logo.png"
+    }
+  },
+  "name": "Big Oily Orange Boob",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$BOOB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

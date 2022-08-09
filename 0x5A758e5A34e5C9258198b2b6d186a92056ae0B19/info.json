@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5A758e5A34e5C9258198b2b6d186a92056ae0B19",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5b7511e1-3a1b-4a6e-861b-056aaa2ded47",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A758e5A34e5C9258198b2b6d186a92056ae0B19/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5A758e5A34e5C9258198b2b6d186a92056ae0B19/logo.png"
+    }
+  },
+  "name": "Cooin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

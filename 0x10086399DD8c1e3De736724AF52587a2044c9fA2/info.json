@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x10086399DD8c1e3De736724AF52587a2044c9fA2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed538b7e-dac2-4b59-a937-f81d30fad5a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x10086399DD8c1e3De736724AF52587a2044c9fA2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10086399DD8c1e3De736724AF52587a2044c9fA2/logo.png"
+    }
+  },
+  "name": "The Midas Touch Gold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TMTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

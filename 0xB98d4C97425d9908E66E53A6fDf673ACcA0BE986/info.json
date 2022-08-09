@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "252996eb-4565-4cb8-a2a6-90ce5a386664",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986/logo.png"
+    }
+  },
+  "name": "ArcBlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

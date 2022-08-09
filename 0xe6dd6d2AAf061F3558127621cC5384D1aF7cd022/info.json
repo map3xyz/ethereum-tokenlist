@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe6dd6d2AAf061F3558127621cC5384D1aF7cd022",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "f4e6647d-df55-4909-9810-4a5395656df4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6dd6d2AAf061F3558127621cC5384D1aF7cd022/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe6dd6d2AAf061F3558127621cC5384D1aF7cd022/logo.png"
+    }
+  },
+  "name": "HSSD coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HSSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

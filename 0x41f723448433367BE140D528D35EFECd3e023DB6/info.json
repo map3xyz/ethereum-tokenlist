@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41f723448433367BE140D528D35EFECd3e023DB6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48e2a799-2c33-4b9a-b6b8-698059b98737",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41f723448433367BE140D528D35EFECd3e023DB6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41f723448433367BE140D528D35EFECd3e023DB6/logo.png"
+    }
+  },
+  "name": "Farm Partner",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FARM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

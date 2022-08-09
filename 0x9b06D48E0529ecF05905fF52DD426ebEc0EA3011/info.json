@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6e6d3e8-b03d-4079-8a71-0d7dec73c110",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011/logo.png"
+    }
+  },
+  "name": "XSwap Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XSP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

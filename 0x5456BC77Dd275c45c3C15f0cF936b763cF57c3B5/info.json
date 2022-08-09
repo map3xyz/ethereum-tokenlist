@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5456BC77Dd275c45c3C15f0cF936b763cF57c3B5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "09c73167-4fab-4a27-9bd6-465150695f33",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5456BC77Dd275c45c3C15f0cF936b763cF57c3B5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5456BC77Dd275c45c3C15f0cF936b763cF57c3B5/logo.png"
+    }
+  },
+  "name": "Anchor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

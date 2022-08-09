@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC9D73535DEBE2829b03faab04FF1022399Afc122",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c3ad6a68-5dd0-4195-ad16-fcbcfe24bdd4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC9D73535DEBE2829b03faab04FF1022399Afc122/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC9D73535DEBE2829b03faab04FF1022399Afc122/logo.png"
+    }
+  },
+  "name": "TANTECH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

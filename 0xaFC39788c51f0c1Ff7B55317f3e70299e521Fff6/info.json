@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaFC39788c51f0c1Ff7B55317f3e70299e521Fff6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "820ab16f-e0fc-42f0-8262-2172eac612d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaFC39788c51f0c1Ff7B55317f3e70299e521Fff6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaFC39788c51f0c1Ff7B55317f3e70299e521Fff6/logo.png"
+    }
+  },
+  "name": "eBitcoinCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eBCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

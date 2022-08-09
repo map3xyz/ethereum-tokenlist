@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94567399-4421-4bcf-bdd4-70d42edaa93a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454/logo.png"
+    }
+  },
+  "name": "Oroshi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

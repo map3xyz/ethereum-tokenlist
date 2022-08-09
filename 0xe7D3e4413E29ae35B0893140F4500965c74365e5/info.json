@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7D3e4413E29ae35B0893140F4500965c74365e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f71c6454-7bd3-4164-a76c-ea0858d5015f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe7D3e4413E29ae35B0893140F4500965c74365e5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7D3e4413E29ae35B0893140F4500965c74365e5/logo.png"
+    }
+  },
+  "name": "B2BCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

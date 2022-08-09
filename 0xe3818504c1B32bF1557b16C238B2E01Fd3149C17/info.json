@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad3c6518-4a21-499c-b1b6-246142fa0fff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/logo.png"
+    }
+  },
+  "name": "PILLAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "826d6b45-8e55-41f7-b8f8-77c95766d952",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9/logo.png"
+    }
+  },
+  "name": "Parsiq Boost",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRQBOOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

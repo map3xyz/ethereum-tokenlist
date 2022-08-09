@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99df25f5-800f-4077-97b1-608cc49d2e19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F/logo.png"
+    }
+  },
+  "name": "VRA (old ERC-20)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0714Cfc984b873c9E3E126333DA529095E244e7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "119f41d2-b8d7-4258-b334-41cedf1f8dc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0714Cfc984b873c9E3E126333DA529095E244e7C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0714Cfc984b873c9E3E126333DA529095E244e7C/logo.png"
+    }
+  },
+  "name": "DRONECOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

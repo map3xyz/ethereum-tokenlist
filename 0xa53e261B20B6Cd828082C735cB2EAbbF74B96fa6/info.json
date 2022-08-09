@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa53e261B20B6Cd828082C735cB2EAbbF74B96fa6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "af499e91-3afa-4ec9-a50f-4cd9d136847b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa53e261B20B6Cd828082C735cB2EAbbF74B96fa6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa53e261B20B6Cd828082C735cB2EAbbF74B96fa6/logo.png"
+    }
+  },
+  "name": "Mundicoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

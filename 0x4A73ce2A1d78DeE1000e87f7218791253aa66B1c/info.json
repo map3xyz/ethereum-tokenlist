@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4A73ce2A1d78DeE1000e87f7218791253aa66B1c",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6a8c524e-245c-4cc0-af1e-800d219fd091",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4A73ce2A1d78DeE1000e87f7218791253aa66B1c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4A73ce2A1d78DeE1000e87f7218791253aa66B1c/logo.png"
+    }
+  },
+  "name": "Jerusalem Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JERU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

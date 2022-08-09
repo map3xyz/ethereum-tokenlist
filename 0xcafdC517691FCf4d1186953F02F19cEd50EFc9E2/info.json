@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed7b3055-ebc7-4b38-adb4-bc10f2c690c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2/logo.png"
+    }
+  },
+  "name": "ExhibitToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

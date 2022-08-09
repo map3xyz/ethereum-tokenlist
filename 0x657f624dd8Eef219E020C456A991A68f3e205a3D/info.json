@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x657f624dd8Eef219E020C456A991A68f3e205a3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0941e82-e1e4-47b2-8946-e6352b678c3a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x657f624dd8Eef219E020C456A991A68f3e205a3D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x657f624dd8Eef219E020C456A991A68f3e205a3D/logo.png"
+    }
+  },
+  "name": "Digital Trader Luxury",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

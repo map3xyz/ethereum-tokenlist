@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "daeb55b5-bcba-4f07-862e-25de635bdb3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a/logo.png"
+    }
+  },
+  "name": "FundYourselfNow Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FYN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

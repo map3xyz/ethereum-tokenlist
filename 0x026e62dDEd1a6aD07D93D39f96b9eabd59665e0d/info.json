@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3418ba8a-0119-4c9b-ac8b-2ff1c525d8cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d/logo.png"
+    }
+  },
+  "name": "BirdCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

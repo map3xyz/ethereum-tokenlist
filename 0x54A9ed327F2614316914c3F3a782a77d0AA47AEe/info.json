@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54A9ed327F2614316914c3F3a782a77d0AA47AEe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e7c7104-11c1-41fa-8ba8-2f057bce87cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x54A9ed327F2614316914c3F3a782a77d0AA47AEe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54A9ed327F2614316914c3F3a782a77d0AA47AEe/logo.png"
+    }
+  },
+  "name": "CONNECT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

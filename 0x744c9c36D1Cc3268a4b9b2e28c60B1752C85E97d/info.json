@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "207427a0-7809-47af-b2f9-1c70cf37fab9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d/logo.png"
+    }
+  },
+  "name": "Alluva",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

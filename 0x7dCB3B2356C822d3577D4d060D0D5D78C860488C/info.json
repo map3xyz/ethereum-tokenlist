@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7dCB3B2356C822d3577D4d060D0D5D78C860488C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c9796f4-e043-4879-887d-948f172d314a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7dCB3B2356C822d3577D4d060D0D5D78C860488C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7dCB3B2356C822d3577D4d060D0D5D78C860488C/logo.png"
+    }
+  },
+  "name": "FANX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FANX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

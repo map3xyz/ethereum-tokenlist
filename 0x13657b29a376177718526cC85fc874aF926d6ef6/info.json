@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13657b29a376177718526cC85fc874aF926d6ef6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "032556be-b011-4241-85d9-adf2b107e54d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13657b29a376177718526cC85fc874aF926d6ef6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13657b29a376177718526cC85fc874aF926d6ef6/logo.png"
+    }
+  },
+  "name": "Radiance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RNR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCDC412F306e0C51e3249B88C65423Cd16b322673",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ca587b9-4356-4313-85e1-61d325514ada",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCDC412F306e0C51e3249B88C65423Cd16b322673/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCDC412F306e0C51e3249B88C65423Cd16b322673/logo.png"
+    }
+  },
+  "name": "Blockchain.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

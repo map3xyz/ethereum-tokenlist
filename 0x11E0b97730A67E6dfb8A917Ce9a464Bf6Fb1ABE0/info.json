@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "275a8c40-4f1c-4a46-a88b-8c469b956f13",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0/logo.png"
+    }
+  },
+  "name": "IzerBlack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IZB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

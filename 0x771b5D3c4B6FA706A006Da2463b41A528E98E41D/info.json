@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x771b5D3c4B6FA706A006Da2463b41A528E98E41D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f634d8fa-7b88-4ae2-b193-ac6b251344c2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x771b5D3c4B6FA706A006Da2463b41A528E98E41D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x771b5D3c4B6FA706A006Da2463b41A528E98E41D/logo.png"
+    }
+  },
+  "name": "COSSE Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COSSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

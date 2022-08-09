@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0eec63ac-6323-4de1-bd27-13e144bf2d1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB61354E9cf2217a29770E9811832B360a8DAad3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB61354E9cf2217a29770E9811832B360a8DAad3/logo.png"
+    }
+  },
+  "name": "3X Long Litecoin Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTCBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

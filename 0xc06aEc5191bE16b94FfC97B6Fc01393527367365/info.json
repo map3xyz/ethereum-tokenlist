@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "84ce4c29-2d34-47b9-9055-08388c7b9496",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc06aEc5191bE16b94FfC97B6Fc01393527367365/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc06aEc5191bE16b94FfC97B6Fc01393527367365/logo.png"
+    }
+  },
+  "name": "BTC ETH Equal Weight Set",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCETH5050",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

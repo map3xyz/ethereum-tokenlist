@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFADe17a07ba3B480aA1714c3724a52D4C57d410E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "021aa457-2445-4a9d-9eb4-c0e4d46e72de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFADe17a07ba3B480aA1714c3724a52D4C57d410E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFADe17a07ba3B480aA1714c3724a52D4C57d410E/logo.png"
+    }
+  },
+  "name": "Vegan",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEGAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

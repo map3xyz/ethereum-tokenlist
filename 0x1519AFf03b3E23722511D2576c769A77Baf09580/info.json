@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1519AFf03b3E23722511D2576c769A77Baf09580",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9091b2f-2925-4a8b-a139-0afd5b9597b2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1519AFf03b3E23722511D2576c769A77Baf09580/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1519AFf03b3E23722511D2576c769A77Baf09580/logo.png"
+    }
+  },
+  "name": "B91Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "B91",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

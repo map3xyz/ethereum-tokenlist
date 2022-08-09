@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e358107e-6ec6-4b5a-a2ce-fbf0146631c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc/logo.png"
+    }
+  },
+  "name": "MCAP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf6cFe53d6FEbaEEA051f400ff5fc14F0cBBDacA1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb6526f6-df31-4085-aed8-dc83aff08762",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf6cFe53d6FEbaEEA051f400ff5fc14F0cBBDacA1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6cFe53d6FEbaEEA051f400ff5fc14F0cBBDacA1/logo.png"
+    }
+  },
+  "name": "DigiPulse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

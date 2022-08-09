@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf5774f42b28F35429AAC35f8Eb57541c511fDd49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dcada409-4467-4f9e-ad1e-1e34a1bf6962",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5774f42b28F35429AAC35f8Eb57541c511fDd49/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5774f42b28F35429AAC35f8Eb57541c511fDd49/logo.png"
+    }
+  },
+  "name": "Arch Crypton Game",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARCG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe31DEbd7AbFF90B06bCA21010dD860d8701fd901",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9855e0b-b1ab-43be-bc27-a99a682a311c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe31DEbd7AbFF90B06bCA21010dD860d8701fd901/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe31DEbd7AbFF90B06bCA21010dD860d8701fd901/logo.png"
+    }
+  },
+  "name": "UniBomb",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBOMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

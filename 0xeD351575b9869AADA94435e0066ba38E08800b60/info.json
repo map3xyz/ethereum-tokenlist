@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeD351575b9869AADA94435e0066ba38E08800b60",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "462efc25-ec28-4655-a881-fb28e5ed3cf5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeD351575b9869AADA94435e0066ba38E08800b60/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeD351575b9869AADA94435e0066ba38E08800b60/logo.png"
+    }
+  },
+  "name": "Mcr Stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "c435665b-e64d-43f1-987f-2576ca05099d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6/logo.png"
+    }
+  },
+  "name": "NOVA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

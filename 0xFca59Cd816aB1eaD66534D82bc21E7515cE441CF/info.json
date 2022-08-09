@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58e09050-a786-4639-849b-7f091817a17c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png"
+    }
+  },
+  "name": "Rarible",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RARI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

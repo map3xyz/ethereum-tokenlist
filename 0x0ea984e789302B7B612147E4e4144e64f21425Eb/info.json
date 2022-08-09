@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ea984e789302B7B612147E4e4144e64f21425Eb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "28a4146e-ffa3-40c3-8488-3a39f8263fae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ea984e789302B7B612147E4e4144e64f21425Eb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ea984e789302B7B612147E4e4144e64f21425Eb/logo.png"
+    }
+  },
+  "name": "WaleTokeN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

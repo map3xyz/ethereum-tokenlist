@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7e1A6C74b9a862002d5246215205CA062FBe0868",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f3617f65-45af-4288-9c90-bb71d27ddb59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7e1A6C74b9a862002d5246215205CA062FBe0868/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7e1A6C74b9a862002d5246215205CA062FBe0868/logo.png"
+    }
+  },
+  "name": "Itubagus",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

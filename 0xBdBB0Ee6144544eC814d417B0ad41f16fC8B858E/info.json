@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "327aea6f-34c2-43b6-be75-213e9387b3c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E/logo.png"
+    }
+  },
+  "name": "BitKAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

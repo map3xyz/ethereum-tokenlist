@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44bf22949F9cc84b61B9328a9d885d1b5C806b41",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "fc175d52-72c0-40d8-af1e-e382ebbf5ebd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44bf22949F9cc84b61B9328a9d885d1b5C806b41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44bf22949F9cc84b61B9328a9d885d1b5C806b41/logo.png"
+    }
+  },
+  "name": "Mozo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MOZO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

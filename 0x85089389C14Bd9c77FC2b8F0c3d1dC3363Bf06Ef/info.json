@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28817f6a-be88-4f9c-8a29-abc9a4a4d713",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef/logo.png"
+    }
+  },
+  "name": "SPFToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

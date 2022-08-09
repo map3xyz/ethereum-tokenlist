@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1dABF6Ab0eB8E4208E7E9302CeC7A014068952e4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "979c9bf3-49b0-454a-91b3-69a61850190c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1dABF6Ab0eB8E4208E7E9302CeC7A014068952e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1dABF6Ab0eB8E4208E7E9302CeC7A014068952e4/logo.png"
+    }
+  },
+  "name": "Curate",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CURE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

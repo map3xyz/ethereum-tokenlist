@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6982e4F4b6269b0FebaA60B788FedAc2518c7bcF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06ebc46b-2a3c-425f-b955-5d3099a3a145",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6982e4F4b6269b0FebaA60B788FedAc2518c7bcF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6982e4F4b6269b0FebaA60B788FedAc2518c7bcF/logo.png"
+    }
+  },
+  "name": "OldDriver Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

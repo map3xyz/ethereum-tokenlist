@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBB13E608888E5D30C09b13F89d27631056161B9F",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6663f9f5-77f1-4a17-a431-f42dd389b887",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBB13E608888E5D30C09b13F89d27631056161B9F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBB13E608888E5D30C09b13F89d27631056161B9F/logo.png"
+    }
+  },
+  "name": "Genaro Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

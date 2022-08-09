@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27fD686Db10E0aE047fe8FE1DE9830C0e0dC3CFA",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "f9ab3bd9-841a-4932-9dc2-8e199a1ee296",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27fD686Db10E0aE047fe8FE1DE9830C0e0dC3CFA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27fD686Db10E0aE047fe8FE1DE9830C0e0dC3CFA/logo.png"
+    }
+  },
+  "name": "SCOTT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCOTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

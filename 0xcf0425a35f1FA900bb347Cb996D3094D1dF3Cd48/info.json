@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcf0425a35f1FA900bb347Cb996D3094D1dF3Cd48",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "03e771ad-5379-429d-80fe-e9d950cbfc39",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcf0425a35f1FA900bb347Cb996D3094D1dF3Cd48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf0425a35f1FA900bb347Cb996D3094D1dF3Cd48/logo.png"
+    }
+  },
+  "name": "Moose",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

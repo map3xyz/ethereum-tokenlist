@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07d8787c-779e-4c66-982c-8752878ff6f7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff/logo.png"
+    }
+  },
+  "name": "blocktrade.com",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

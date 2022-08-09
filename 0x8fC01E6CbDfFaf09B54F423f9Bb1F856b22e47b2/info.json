@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cee1e3dd-b983-44f1-b4fd-2b6eaa864f8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2/logo.png"
+    }
+  },
+  "name": "ObitanChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

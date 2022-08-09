@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c65a529-7edf-4aa1-b2ab-eefac859ebcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59/logo.png"
+    }
+  },
+  "name": "EtherStone",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

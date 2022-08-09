@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "297a46a3-9ed1-4b7c-b18f-09ba0ebeab3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8/logo.png"
+    }
+  },
+  "name": "LocalCoinSwap (LCS)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

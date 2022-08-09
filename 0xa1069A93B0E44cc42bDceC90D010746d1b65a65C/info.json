@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa1069A93B0E44cc42bDceC90D010746d1b65a65C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "663d5396-089f-45f5-a503-f44e4f66a08d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1069A93B0E44cc42bDceC90D010746d1b65a65C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa1069A93B0E44cc42bDceC90D010746d1b65a65C/logo.png"
+    }
+  },
+  "name": "BCDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48BD67ad140C9d10F94099C1ceF7Ab17D90aC335",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c24c3f75-d481-4e5e-a90d-a4af216b7c5b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48BD67ad140C9d10F94099C1ceF7Ab17D90aC335/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48BD67ad140C9d10F94099C1ceF7Ab17D90aC335/logo.png"
+    }
+  },
+  "name": "Leber Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

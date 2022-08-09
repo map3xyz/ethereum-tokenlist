@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb2ef236-8923-4c23-a046-961275172df3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1/logo.png"
+    }
+  },
+  "name": "UniTrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRADE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

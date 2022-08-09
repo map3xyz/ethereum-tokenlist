@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ab54478f-2590-487d-9661-4dd18703a2dd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7/logo.png"
+    }
+  },
+  "name": "Robonomics",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

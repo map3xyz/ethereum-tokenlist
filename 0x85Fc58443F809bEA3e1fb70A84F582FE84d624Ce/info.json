@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x85Fc58443F809bEA3e1fb70A84F582FE84d624Ce",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f92dd73-f6c6-4591-9590-01b80401f4b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85Fc58443F809bEA3e1fb70A84F582FE84d624Ce/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x85Fc58443F809bEA3e1fb70A84F582FE84d624Ce/logo.png"
+    }
+  },
+  "name": " Economic​ Zone",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "393b4b44-7b73-4acb-b477-c0aa41ad73bc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets//logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "OMG Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

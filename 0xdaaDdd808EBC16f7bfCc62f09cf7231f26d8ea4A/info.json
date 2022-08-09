@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdaaDdd808EBC16f7bfCc62f09cf7231f26d8ea4A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e7085cf-df56-4965-b8f9-614cd4acf904",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdaaDdd808EBC16f7bfCc62f09cf7231f26d8ea4A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdaaDdd808EBC16f7bfCc62f09cf7231f26d8ea4A/logo.png"
+    }
+  },
+  "name": "Hip Hop Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

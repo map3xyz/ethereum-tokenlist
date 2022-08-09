@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf132cA4DBBD2ca2dd7A1178B5F38Bf56b566ff55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a85c67e9-fad0-4e00-a310-6e7ce8673dbf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf132cA4DBBD2ca2dd7A1178B5F38Bf56b566ff55/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf132cA4DBBD2ca2dd7A1178B5F38Bf56b566ff55/logo.png"
+    }
+  },
+  "name": "BONUSHAMMER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BONUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

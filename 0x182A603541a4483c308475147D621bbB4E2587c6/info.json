@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x182A603541a4483c308475147D621bbB4E2587c6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c74b7178-09a8-4678-9290-942375a0e33e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x182A603541a4483c308475147D621bbB4E2587c6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x182A603541a4483c308475147D621bbB4E2587c6/logo.png"
+    }
+  },
+  "name": "ZBToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

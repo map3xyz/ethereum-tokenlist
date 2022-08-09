@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "a77027c1-bbd8-4990-8390-5b92752cc775",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A/logo.png"
+    }
+  },
+  "name": "Substratum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

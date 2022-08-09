@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6032a80aD22AC6aDAAEb0921eb39eE534F560fBE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f80a5832-a11c-444f-92d9-0673902f735a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6032a80aD22AC6aDAAEb0921eb39eE534F560fBE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6032a80aD22AC6aDAAEb0921eb39eE534F560fBE/logo.png"
+    }
+  },
+  "name": "Celfits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CELFIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

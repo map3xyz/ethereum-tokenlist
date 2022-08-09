@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34728c1d-8a18-48f6-aead-dd506b552314",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a/logo.png"
+    }
+  },
+  "name": "ValorToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VALOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

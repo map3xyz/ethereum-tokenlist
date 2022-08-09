@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b629359e-ac58-4a5e-92e4-0aec0054d44f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f693ca8D21b157107184d29D398A8D082b38b76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8f693ca8D21b157107184d29D398A8D082b38b76/logo.png"
+    }
+  },
+  "name": "Streamr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

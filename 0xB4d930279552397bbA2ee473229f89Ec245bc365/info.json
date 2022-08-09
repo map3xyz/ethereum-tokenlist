@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7a77bbc-44d1-494c-a36a-4d841367cc86",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xB4d930279552397bbA2ee473229f89Ec245bc365/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB4d930279552397bbA2ee473229f89Ec245bc365/logo.png"
+    }
+  },
+  "name": "MahaDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAHA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

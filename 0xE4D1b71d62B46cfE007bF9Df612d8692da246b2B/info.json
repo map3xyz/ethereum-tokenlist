@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE4D1b71d62B46cfE007bF9Df612d8692da246b2B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9aa7a663-1110-4df0-9ef2-34369e5d7845",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE4D1b71d62B46cfE007bF9Df612d8692da246b2B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE4D1b71d62B46cfE007bF9Df612d8692da246b2B/logo.png"
+    }
+  },
+  "name": "Custom Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0398d3e6-bf05-4cd1-ab52-5d2ab53d7538",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f/logo.png"
+    }
+  },
+  "name": "Video",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

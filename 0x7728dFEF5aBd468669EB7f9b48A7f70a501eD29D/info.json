@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9da83b78-5fab-4216-9b19-108e502bc52c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D/logo.png"
+    }
+  },
+  "name": "PRG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

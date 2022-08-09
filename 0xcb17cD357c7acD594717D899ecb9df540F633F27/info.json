@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcb17cD357c7acD594717D899ecb9df540F633F27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c0afb52-3fd3-4883-b6ae-60634a617db2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcb17cD357c7acD594717D899ecb9df540F633F27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb17cD357c7acD594717D899ecb9df540F633F27/logo.png"
+    }
+  },
+  "name": "CoinDeal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x106Aa49295B525fcf959aA75eC3f7dCbF5352f1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d372bc54-b41d-4500-a9a7-8108942a4577",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x106Aa49295B525fcf959aA75eC3f7dCbF5352f1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x106Aa49295B525fcf959aA75eC3f7dCbF5352f1C/logo.png"
+    }
+  },
+  "name": "Rock Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

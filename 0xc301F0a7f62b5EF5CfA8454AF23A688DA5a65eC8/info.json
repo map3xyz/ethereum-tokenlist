@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc301F0a7f62b5EF5CfA8454AF23A688DA5a65eC8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef6b442c-8049-41c1-bc67-541b27e1bae6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc301F0a7f62b5EF5CfA8454AF23A688DA5a65eC8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc301F0a7f62b5EF5CfA8454AF23A688DA5a65eC8/logo.png"
+    }
+  },
+  "name": "WORLD MEDICAL COINS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

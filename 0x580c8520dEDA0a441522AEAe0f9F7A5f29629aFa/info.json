@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52e272ee-e193-4e50-b59f-0737b5bbb58b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa/logo.png"
+    }
+  },
+  "name": "Dawn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd6f4d55-fbd5-4f31-9d2d-2964aca96902",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112/logo.png"
+    }
+  },
+  "name": "GenShards",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

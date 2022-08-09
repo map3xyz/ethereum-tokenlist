@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d24f34b3-732d-48bb-9719-7932b3014d9f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7FF4169a6B5122b664c51c95727d87750eC07c84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7FF4169a6B5122b664c51c95727d87750eC07c84/logo.png"
+    }
+  },
+  "name": "Tenset",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "10SET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

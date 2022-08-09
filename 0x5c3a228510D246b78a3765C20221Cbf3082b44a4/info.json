@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c3a228510D246b78a3765C20221Cbf3082b44a4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c202f4f-7a4f-4f26-bf12-de0fb90e632a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c3a228510D246b78a3765C20221Cbf3082b44a4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5c3a228510D246b78a3765C20221Cbf3082b44a4/logo.png"
+    }
+  },
+  "name": "Storiqa Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

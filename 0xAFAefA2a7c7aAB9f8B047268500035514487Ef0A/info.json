@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAFAefA2a7c7aAB9f8B047268500035514487Ef0A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26bbb368-d712-4e68-aafa-ea281ca224d1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAFAefA2a7c7aAB9f8B047268500035514487Ef0A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAFAefA2a7c7aAB9f8B047268500035514487Ef0A/logo.png"
+    }
+  },
+  "name": "Coin900 Exchange Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

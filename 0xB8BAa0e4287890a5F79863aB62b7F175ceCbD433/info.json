@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a5e6e8f-b0b1-4144-90de-5fc7fc86056d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433/logo.png"
+    }
+  },
+  "name": "Swerve",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWRV",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

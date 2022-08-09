@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x96B0bF939D9460095C15251F71Fda11e41DcBddB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c6d70c6-08fc-46eb-a230-15e22276a518",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96B0bF939D9460095C15251F71Fda11e41DcBddB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x96B0bF939D9460095C15251F71Fda11e41DcBddB/logo.png"
+    }
+  },
+  "name": "Sharpay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "S",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

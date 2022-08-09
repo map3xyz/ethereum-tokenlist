@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfeF4185594457050cC9c23980d301908FE057Bb1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7a5a0a6-750e-408d-a441-a67d9e44346b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeF4185594457050cC9c23980d301908FE057Bb1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfeF4185594457050cC9c23980d301908FE057Bb1/logo.png"
+    }
+  },
+  "name": "VIDT Datalink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE66b3AA360bB78468c00Bebe163630269DB3324F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d0298ab-1e13-453e-9ca6-bfc0210d7222",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE66b3AA360bB78468c00Bebe163630269DB3324F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE66b3AA360bB78468c00Bebe163630269DB3324F/logo.png"
+    }
+  },
+  "name": "Merchant Token (MTO)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

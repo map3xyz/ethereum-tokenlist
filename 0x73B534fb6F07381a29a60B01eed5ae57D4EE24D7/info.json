@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b196afba-26e3-4957-ac15-4cecd5a48771",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7/logo.png"
+    }
+  },
+  "name": "SENDERON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SDRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

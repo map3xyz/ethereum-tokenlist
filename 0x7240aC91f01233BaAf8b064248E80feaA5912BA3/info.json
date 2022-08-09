@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c50a3e49-fb50-4c35-8414-b70ef61444c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7240aC91f01233BaAf8b064248E80feaA5912BA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7240aC91f01233BaAf8b064248E80feaA5912BA3/logo.png"
+    }
+  },
+  "name": "OctoFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCTO",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

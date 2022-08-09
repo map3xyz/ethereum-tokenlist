@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeD0F59d483977b2bdE55fEcC81E7534FE7e605E7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85f15556-904a-4553-8d51-bccc7ac05279",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeD0F59d483977b2bdE55fEcC81E7534FE7e605E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeD0F59d483977b2bdE55fEcC81E7534FE7e605E7/logo.png"
+    }
+  },
+  "name": "Ganja Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

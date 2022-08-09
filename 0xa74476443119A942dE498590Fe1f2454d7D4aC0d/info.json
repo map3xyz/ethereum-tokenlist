@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51ee1333-a063-4e2e-bd9c-71a6909a65a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa74476443119A942dE498590Fe1f2454d7D4aC0d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa74476443119A942dE498590Fe1f2454d7D4aC0d/logo.png"
+    }
+  },
+  "name": "Golem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

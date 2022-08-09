@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A0c31837EdB132a9312841B9527E6307db13509",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40630b50-b75f-4849-973a-7ba464fa3b4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A0c31837EdB132a9312841B9527E6307db13509/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A0c31837EdB132a9312841B9527E6307db13509/logo.png"
+    }
+  },
+  "name": "Hash Power Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

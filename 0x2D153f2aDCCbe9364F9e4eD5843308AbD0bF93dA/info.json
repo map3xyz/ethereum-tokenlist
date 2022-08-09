@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2D153f2aDCCbe9364F9e4eD5843308AbD0bF93dA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "270f5ea5-5c1f-4bab-b8bc-6af173b07051",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2D153f2aDCCbe9364F9e4eD5843308AbD0bF93dA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2D153f2aDCCbe9364F9e4eD5843308AbD0bF93dA/logo.png"
+    }
+  },
+  "name": "IdealCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDEAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

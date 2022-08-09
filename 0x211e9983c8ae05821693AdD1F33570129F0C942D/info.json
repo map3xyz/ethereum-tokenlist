@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x211e9983c8ae05821693AdD1F33570129F0C942D",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e3482c3d-2a2a-48e0-a8b1-02367f1099dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x211e9983c8ae05821693AdD1F33570129F0C942D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x211e9983c8ae05821693AdD1F33570129F0C942D/logo.png"
+    }
+  },
+  "name": "MKIMG1-10/30M40",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "M",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

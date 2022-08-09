@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52Fe31c97e5c29EA63CbcFB045E1171427Bb9248",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d5990e5-442b-400d-936b-9e8b969d2dcb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52Fe31c97e5c29EA63CbcFB045E1171427Bb9248/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52Fe31c97e5c29EA63CbcFB045E1171427Bb9248/logo.png"
+    }
+  },
+  "name": "NewRich",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NRCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

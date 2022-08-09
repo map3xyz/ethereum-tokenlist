@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a50eca35-eb05-41c6-8832-7718065583e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C6ff50c9Ec362efa359317009428d52115fe643/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C6ff50c9Ec362efa359317009428d52115fe643/logo.png"
+    }
+  },
+  "name": "PeerEx Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PERX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

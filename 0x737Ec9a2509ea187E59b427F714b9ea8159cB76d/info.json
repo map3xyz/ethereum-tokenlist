@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x737Ec9a2509ea187E59b427F714b9ea8159cB76d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "aa37d404-f662-4c7f-837d-58da4887a404",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737Ec9a2509ea187E59b427F714b9ea8159cB76d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x737Ec9a2509ea187E59b427F714b9ea8159cB76d/logo.png"
+    }
+  },
+  "name": "PlayChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

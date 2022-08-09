@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbD4B60a138b3fce3584EA01f50c0908c18f9677A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6665287d-aa1a-4402-a37a-fe7bbf99f40d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbD4B60a138b3fce3584EA01f50c0908c18f9677A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbD4B60a138b3fce3584EA01f50c0908c18f9677A/logo.png"
+    }
+  },
+  "name": "FinTab",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

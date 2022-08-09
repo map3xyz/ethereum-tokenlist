@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "119a23f8-a748-491d-8ef9-498c9194bae0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00E150D741Eda1d49d341189CAE4c08a73a49C95/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00E150D741Eda1d49d341189CAE4c08a73a49C95/logo.png"
+    }
+  },
+  "name": "InfinitusTokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

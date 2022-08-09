@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x319bEb7dD4b5138BD0aBAd687d5Ca577e9f72B13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "092b4e64-e5ef-423b-93cb-0625afc2b355",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x319bEb7dD4b5138BD0aBAd687d5Ca577e9f72B13/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x319bEb7dD4b5138BD0aBAd687d5Ca577e9f72B13/logo.png"
+    }
+  },
+  "name": "HIPHOP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

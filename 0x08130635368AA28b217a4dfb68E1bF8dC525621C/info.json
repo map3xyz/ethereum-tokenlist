@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "4dafdee8-8c96-4b03-bd37-f50f0d018df1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08130635368AA28b217a4dfb68E1bF8dC525621C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08130635368AA28b217a4dfb68E1bF8dC525621C/logo.png"
+    }
+  },
+  "name": "AfroDex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AfroX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

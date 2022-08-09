@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "203a2f4b-fed2-4130-abff-589a9fd11eb1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae/logo.png"
+    }
+  },
+  "name": "WIKI Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

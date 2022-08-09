@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcF5A0010072ef3B791792F2D0Ea9A07ed84695d1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b37f62a5-df25-4cfd-92b8-2f9f72d4ae74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcF5A0010072ef3B791792F2D0Ea9A07ed84695d1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcF5A0010072ef3B791792F2D0Ea9A07ed84695d1/logo.png"
+    }
+  },
+  "name": "Krakatau Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a8669ed-6a1f-4f46-990d-64ee0f96b223",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c/logo.png"
+    }
+  },
+  "name": "BKEX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

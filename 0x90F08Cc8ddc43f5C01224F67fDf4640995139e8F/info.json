@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3d3a8e36-7b5a-4f50-9fc7-e5b32d533a82",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F/logo.png"
+    }
+  },
+  "name": "Ethash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

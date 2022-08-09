@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5e8ac865-b194-4507-aab9-f971bfbd2935",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd234BF2410a0009dF9c3C63b610c09738f18ccD7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd234BF2410a0009dF9c3C63b610c09738f18ccD7/logo.png"
+    }
+  },
+  "name": "Dynamic Trading Rights",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

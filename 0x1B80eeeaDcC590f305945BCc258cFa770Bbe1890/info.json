@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af4798e9-e030-440b-abe5-32d1d963e581",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890/logo.png"
+    }
+  },
+  "name": "BITSDAQ TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BQQQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

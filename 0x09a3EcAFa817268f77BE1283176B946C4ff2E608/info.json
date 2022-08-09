@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c990c477-114a-4652-a1e0-8eeb727e5bab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png"
+    }
+  },
+  "name": "Mirror Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

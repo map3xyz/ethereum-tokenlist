@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "771c30b2-2f02-4a6f-8a94-ed59ffe84aad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3/logo.png"
+    }
+  },
+  "name": "DREP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DREP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

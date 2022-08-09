@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5C5a61c0C8182b368e3E7DE52Ee64ABb693565Ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "570da257-d2f5-43b6-954d-70f0a4260346",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5C5a61c0C8182b368e3E7DE52Ee64ABb693565Ad/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5C5a61c0C8182b368e3E7DE52Ee64ABb693565Ad/logo.png"
+    }
+  },
+  "name": "Etherfaith",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETFH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

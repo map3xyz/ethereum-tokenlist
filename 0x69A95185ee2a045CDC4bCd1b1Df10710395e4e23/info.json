@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "795197ad-c0cb-4cca-b9c2-75302d0f518f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23/logo.png"
+    }
+  },
+  "name": "Poolz Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POOLZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

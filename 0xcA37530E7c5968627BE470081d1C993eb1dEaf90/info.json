@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xcA37530E7c5968627BE470081d1C993eb1dEaf90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a10b3d8-55d7-45ef-8c79-24165dbc0f4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcA37530E7c5968627BE470081d1C993eb1dEaf90/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcA37530E7c5968627BE470081d1C993eb1dEaf90/logo.png"
+    }
+  },
+  "name": "Stable DODO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneDODO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

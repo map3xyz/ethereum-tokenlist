@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDc279799643b6F52A7aDb03497f3cC941ff8f113",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "69e169d4-742a-4258-b585-3b86e8e2dad3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDc279799643b6F52A7aDb03497f3cC941ff8f113/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDc279799643b6F52A7aDb03497f3cC941ff8f113/logo.png"
+    }
+  },
+  "name": "TradeBit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

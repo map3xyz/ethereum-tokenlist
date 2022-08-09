@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2396695c0979562F2D4068fe5f6A5AF6c838F15c",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "10cf7371-86d6-4215-9e54-21c0cb09a37d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2396695c0979562F2D4068fe5f6A5AF6c838F15c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2396695c0979562F2D4068fe5f6A5AF6c838F15c/logo.png"
+    }
+  },
+  "name": "TRADE DINAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KWDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

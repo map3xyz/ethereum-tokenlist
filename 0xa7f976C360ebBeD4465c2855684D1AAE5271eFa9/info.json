@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "29241d32-22de-4a04-944a-3628512dc7bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9/logo.png"
+    }
+  },
+  "name": "TrueFlip",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

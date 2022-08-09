@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9f53d7a-3e33-43f0-ae8d-98d5e0aaa277",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361/logo.png"
+    }
+  },
+  "name": "Mysterium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MYST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

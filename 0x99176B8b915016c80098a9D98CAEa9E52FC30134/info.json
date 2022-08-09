@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x99176B8b915016c80098a9D98CAEa9E52FC30134",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "630e83d0-0772-4a30-b075-5ea399edc1e5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x99176B8b915016c80098a9D98CAEa9E52FC30134/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x99176B8b915016c80098a9D98CAEa9E52FC30134/logo.png"
+    }
+  },
+  "name": "Intelligent Travel Ecosystem Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

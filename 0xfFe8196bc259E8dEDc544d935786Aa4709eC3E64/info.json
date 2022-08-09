@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfFe8196bc259E8dEDc544d935786Aa4709eC3E64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdb57955-4b01-4ab3-8ede-bb9c37f06067",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfFe8196bc259E8dEDc544d935786Aa4709eC3E64/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfFe8196bc259E8dEDc544d935786Aa4709eC3E64/logo.png"
+    }
+  },
+  "name": "Hedge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

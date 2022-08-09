@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35278aa6-306b-46d0-99bc-7925eca7a04d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11/logo.png"
+    }
+  },
+  "name": "GOLDEN TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

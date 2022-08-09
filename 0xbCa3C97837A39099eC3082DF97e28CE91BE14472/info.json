@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c13dffd7-5e20-4542-9418-d15ad7315043",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbCa3C97837A39099eC3082DF97e28CE91BE14472/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbCa3C97837A39099eC3082DF97e28CE91BE14472/logo.png"
+    }
+  },
+  "name": "Distant Universe Stardust Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "550f2e57-71f7-4a66-a849-a255b9963de2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E/logo.png"
+    }
+  },
+  "name": "Hms Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

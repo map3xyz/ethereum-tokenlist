@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32639a61-9806-4e83-8751-c3e17ce1c6a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f/logo.png"
+    }
+  },
+  "name": "Gems Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

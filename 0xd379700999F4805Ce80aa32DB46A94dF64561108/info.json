@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c2676a99-8fcb-479a-864a-a2505ca0442a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xd379700999F4805Ce80aa32DB46A94dF64561108/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd379700999F4805Ce80aa32DB46A94dF64561108/logo.png"
+    }
+  },
+  "name": "Dextrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DETS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "03606d2c-123a-43d9-85fd-c92353ae3aa3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271/logo.png"
+    }
+  },
+  "name": "Maggie Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

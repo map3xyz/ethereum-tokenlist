@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x875089A734213cA39f0d93c2BbB8209827ec5e9f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ab154749-ac46-43f8-9a33-7fd3d30adfdb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x875089A734213cA39f0d93c2BbB8209827ec5e9f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x875089A734213cA39f0d93c2BbB8209827ec5e9f/logo.png"
+    }
+  },
+  "name": "Euphoria",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

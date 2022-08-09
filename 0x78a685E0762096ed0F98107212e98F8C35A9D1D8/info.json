@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78a685E0762096ed0F98107212e98F8C35A9D1D8",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "65d7adae-75b3-4a3a-af82-41ac52ef76e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78a685E0762096ed0F98107212e98F8C35A9D1D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78a685E0762096ed0F98107212e98F8C35A9D1D8/logo.png"
+    }
+  },
+  "name": "Bloc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Dap",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

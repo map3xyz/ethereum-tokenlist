@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7cf6dC769482AbEe2FF75795d000F381A8062DEC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd8358e1-ef26-466a-80da-57c2d2e3d76d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7cf6dC769482AbEe2FF75795d000F381A8062DEC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7cf6dC769482AbEe2FF75795d000F381A8062DEC/logo.png"
+    }
+  },
+  "name": "Far Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

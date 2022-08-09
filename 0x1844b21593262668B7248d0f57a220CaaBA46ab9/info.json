@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6cf1f35-8491-4955-9f75-1416476a5caa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1844b21593262668B7248d0f57a220CaaBA46ab9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1844b21593262668B7248d0f57a220CaaBA46ab9/logo.png"
+    }
+  },
+  "name": "Oyster Pearl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

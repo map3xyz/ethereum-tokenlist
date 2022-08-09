@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc5F4F79A8446FD80c646bC624Cc2CcA30fEf55FB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f7d1438c-203c-4d4a-bbdf-cc4b087d8471",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc5F4F79A8446FD80c646bC624Cc2CcA30fEf55FB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc5F4F79A8446FD80c646bC624Cc2CcA30fEf55FB/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 110-CN32",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

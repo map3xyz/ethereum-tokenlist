@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5ad6d9f1-75aa-4364-b2b3-f070bee7967a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea/logo.png"
+    }
+  },
+  "name": "25% of MindAd Project",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MindAd",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

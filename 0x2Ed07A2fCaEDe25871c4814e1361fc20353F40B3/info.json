@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Ed07A2fCaEDe25871c4814e1361fc20353F40B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5dbc2ead-4da6-43f7-9bb5-c0d11eadf09a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Ed07A2fCaEDe25871c4814e1361fc20353F40B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Ed07A2fCaEDe25871c4814e1361fc20353F40B3/logo.png"
+    }
+  },
+  "name": "coinwhitebook",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CWB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

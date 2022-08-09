@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAF350211414C5DC176421Ea05423F0cC494261fB",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3f49b037-2c37-4f85-9d1b-b21c7c5ce128",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAF350211414C5DC176421Ea05423F0cC494261fB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAF350211414C5DC176421Ea05423F0cC494261fB/logo.png"
+    }
+  },
+  "name": "Saturn DAO token (ERC20)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SATURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

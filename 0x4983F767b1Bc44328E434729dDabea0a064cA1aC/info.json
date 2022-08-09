@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4983F767b1Bc44328E434729dDabea0a064cA1aC",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "4fe4dcd2-6ef4-4a74-becb-1e5bfebfc4bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4983F767b1Bc44328E434729dDabea0a064cA1aC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4983F767b1Bc44328E434729dDabea0a064cA1aC/logo.png"
+    }
+  },
+  "name": "Constant",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CONST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

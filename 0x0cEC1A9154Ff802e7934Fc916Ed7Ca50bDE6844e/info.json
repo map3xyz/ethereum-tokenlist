@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba51c6a7-d897-4647-b821-2bc5d27adb46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e/logo.png"
+    }
+  },
+  "name": "PoolTogether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

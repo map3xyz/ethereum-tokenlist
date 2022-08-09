@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeBF4CA5319F406602EEFf68da16261f1216011B5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f0e8156-28f7-4b84-b098-2717fe805319",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeBF4CA5319F406602EEFf68da16261f1216011B5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeBF4CA5319F406602EEFf68da16261f1216011B5/logo.png"
+    }
+  },
+  "name": "Yo Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

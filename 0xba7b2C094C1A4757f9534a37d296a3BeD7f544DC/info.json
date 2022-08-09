@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xba7b2C094C1A4757f9534a37d296a3BeD7f544DC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5cfc440-3be7-48e5-9cb3-39d3fad3986b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba7b2C094C1A4757f9534a37d296a3BeD7f544DC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba7b2C094C1A4757f9534a37d296a3BeD7f544DC/logo.png"
+    }
+  },
+  "name": "HLAND",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HLAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

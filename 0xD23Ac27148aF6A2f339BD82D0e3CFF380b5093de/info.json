@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9732d2f9-2e43-4047-8f02-094f9ffbbbc8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
+    }
+  },
+  "name": "SIREN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

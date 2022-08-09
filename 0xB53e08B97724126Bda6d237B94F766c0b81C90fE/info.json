@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16ff5716-7ae0-4fd8-a03d-ec6eb20e97fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB53e08B97724126Bda6d237B94F766c0b81C90fE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB53e08B97724126Bda6d237B94F766c0b81C90fE/logo.png"
+    }
+  },
+  "name": "PIXBY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PIXBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

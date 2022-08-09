@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa12BD9d0f059349055a3Dc4e38833171B4ad2A35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf4446d4-06ce-4b42-a708-f4bcb08cd276",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa12BD9d0f059349055a3Dc4e38833171B4ad2A35/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa12BD9d0f059349055a3Dc4e38833171B4ad2A35/logo.png"
+    }
+  },
+  "name": "POWM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "POWM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb92f51CE4045212EeF8008C2f665DA713035267B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a641bd8c-7349-4e74-be5e-29d2cb3a7daa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb92f51CE4045212EeF8008C2f665DA713035267B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb92f51CE4045212EeF8008C2f665DA713035267B/logo.png"
+    }
+  },
+  "name": "Rentledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

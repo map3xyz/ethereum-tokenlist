@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "107d3d8e-945f-4aea-abbc-24f16a39983a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0/logo.png"
+    }
+  },
+  "name": "AllianceBlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

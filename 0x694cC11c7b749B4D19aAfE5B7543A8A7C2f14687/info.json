@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec2b5c79-3714-426b-86b4-0e6bfdd77bb4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687/logo.png"
+    }
+  },
+  "name": "CRYPTOTRADER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

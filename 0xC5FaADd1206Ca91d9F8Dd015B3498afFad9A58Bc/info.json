@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC5FaADd1206Ca91d9F8Dd015B3498afFad9A58Bc",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "acbcd2f5-76dc-4da7-8d8b-bac2f36e92bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC5FaADd1206Ca91d9F8Dd015B3498afFad9A58Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC5FaADd1206Ca91d9F8Dd015B3498afFad9A58Bc/logo.png"
+    }
+  },
+  "name": "EnjoyGameToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

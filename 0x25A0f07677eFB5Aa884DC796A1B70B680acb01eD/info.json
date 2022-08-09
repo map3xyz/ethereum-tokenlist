@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25A0f07677eFB5Aa884DC796A1B70B680acb01eD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6ba2a8e-ce84-44a4-a05c-25053bfc353d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25A0f07677eFB5Aa884DC796A1B70B680acb01eD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25A0f07677eFB5Aa884DC796A1B70B680acb01eD/logo.png"
+    }
+  },
+  "name": "LHO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LHO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

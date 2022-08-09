@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35C896b1700E344a81B95b6bC1D4d95b4503699c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55282aed-5ad9-4f36-ba7f-02dcafcf3578",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35C896b1700E344a81B95b6bC1D4d95b4503699c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35C896b1700E344a81B95b6bC1D4d95b4503699c/logo.png"
+    }
+  },
+  "name": "PokerSports Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

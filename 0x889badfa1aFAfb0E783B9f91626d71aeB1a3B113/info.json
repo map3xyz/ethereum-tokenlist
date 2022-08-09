@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x889badfa1aFAfb0E783B9f91626d71aeB1a3B113",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab1dfdbf-2192-4974-b707-018c7d95bcfb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x889badfa1aFAfb0E783B9f91626d71aeB1a3B113/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x889badfa1aFAfb0E783B9f91626d71aeB1a3B113/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Short ZRX-DAI 3x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dsZRX3x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

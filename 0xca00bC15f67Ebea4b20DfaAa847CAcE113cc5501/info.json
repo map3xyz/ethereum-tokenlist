@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xca00bC15f67Ebea4b20DfaAa847CAcE113cc5501",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26a527c3-aa98-424b-bccb-de65f15d5cbe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca00bC15f67Ebea4b20DfaAa847CAcE113cc5501/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca00bC15f67Ebea4b20DfaAa847CAcE113cc5501/logo.png"
+    }
+  },
+  "name": "CapdaxToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XCD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

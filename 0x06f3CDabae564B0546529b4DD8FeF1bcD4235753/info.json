@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c374f59c-c1ec-4ddf-929b-1499fae6d6b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753/logo.png"
+    }
+  },
+  "name": "TILWIKI - Faces of Art",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

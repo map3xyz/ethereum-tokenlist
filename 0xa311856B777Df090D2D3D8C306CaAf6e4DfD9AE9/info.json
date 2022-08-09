@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b158f0b-883e-4186-b52d-5357c45a0735",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9/logo.png"
+    }
+  },
+  "name": "Gamma Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

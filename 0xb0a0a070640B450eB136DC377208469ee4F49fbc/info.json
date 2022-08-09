@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb0a0a070640B450eB136DC377208469ee4F49fbc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3cf02eba-0327-469e-88d4-6c14c004654d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb0a0a070640B450eB136DC377208469ee4F49fbc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb0a0a070640B450eB136DC377208469ee4F49fbc/logo.png"
+    }
+  },
+  "name": "FUTURE1COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "F1C",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

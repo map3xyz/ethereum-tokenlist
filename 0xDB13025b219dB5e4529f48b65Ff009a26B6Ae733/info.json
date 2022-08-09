@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "647f02a9-9b0a-47f2-bd76-c75a8b580d98",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733/logo.png"
+    }
+  },
+  "name": "Ubricoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

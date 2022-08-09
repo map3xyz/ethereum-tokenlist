@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13bDd7dcc28B585f193241B31995AF22f1b0256E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2182b6db-d98a-474c-a3bf-d68f878312e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13bDd7dcc28B585f193241B31995AF22f1b0256E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13bDd7dcc28B585f193241B31995AF22f1b0256E/logo.png"
+    }
+  },
+  "name": "GIRLTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

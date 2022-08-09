@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf27bcca-eae1-4738-9ece-614544269b9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6/logo.png"
+    }
+  },
+  "name": "Akita Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AKITA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

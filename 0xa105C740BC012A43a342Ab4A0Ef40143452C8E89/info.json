@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa105C740BC012A43a342Ab4A0Ef40143452C8E89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00b4b180-8a14-425a-9877-296f57115209",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa105C740BC012A43a342Ab4A0Ef40143452C8E89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa105C740BC012A43a342Ab4A0Ef40143452C8E89/logo.png"
+    }
+  },
+  "name": "Litbinex Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

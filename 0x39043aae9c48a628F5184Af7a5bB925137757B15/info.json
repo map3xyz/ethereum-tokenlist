@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x39043aae9c48a628F5184Af7a5bB925137757B15",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ddc6cd3b-2ebf-4554-a534-6f93658d64b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39043aae9c48a628F5184Af7a5bB925137757B15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x39043aae9c48a628F5184Af7a5bB925137757B15/logo.png"
+    }
+  },
+  "name": "Yattaqi Pro",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YATX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

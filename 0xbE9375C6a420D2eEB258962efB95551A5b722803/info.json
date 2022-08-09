@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2188e477-cf1c-4aa0-b7da-8054f372d010",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbE9375C6a420D2eEB258962efB95551A5b722803/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbE9375C6a420D2eEB258962efB95551A5b722803/logo.png"
+    }
+  },
+  "name": "StormX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

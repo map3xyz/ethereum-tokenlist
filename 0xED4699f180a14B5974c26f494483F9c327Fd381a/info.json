@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xED4699f180a14B5974c26f494483F9c327Fd381a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fba2090c-b869-4e4d-8140-0de70c9c0a99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xED4699f180a14B5974c26f494483F9c327Fd381a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xED4699f180a14B5974c26f494483F9c327Fd381a/logo.png"
+    }
+  },
+  "name": "Synth sAUD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sAUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80E7a4d750aDe616Da896C49049B7EdE9e04C191",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2495c313-b29d-404a-9beb-c3545cf2dfcb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80E7a4d750aDe616Da896C49049B7EdE9e04C191/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80E7a4d750aDe616Da896C49049B7EdE9e04C191/logo.png"
+    }
+  },
+  "name": "AstrCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ASTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

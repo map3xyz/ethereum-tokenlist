@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAb89A337Ed77004937cB635BA5Bb5D63d5B272eA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16f9c7a6-45f7-4cae-b0d3-898214d70ec7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAb89A337Ed77004937cB635BA5Bb5D63d5B272eA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAb89A337Ed77004937cB635BA5Bb5D63d5B272eA/logo.png"
+    }
+  },
+  "name": "Retric",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

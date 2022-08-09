@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Ec300614EC04D7C357202A0070a6E957Ff5D319",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1521017-f065-47d7-9602-a7af18af510f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ec300614EC04D7C357202A0070a6E957Ff5D319/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Ec300614EC04D7C357202A0070a6E957Ff5D319/logo.png"
+    }
+  },
+  "name": "OneDollarCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ODC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

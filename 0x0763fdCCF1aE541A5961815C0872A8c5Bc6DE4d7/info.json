@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8735f6d8-d66a-4fc4-ba86-92be8d293ebb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+    }
+  },
+  "name": "SUKU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SUKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc8ac694-505b-4588-8a3b-95218226ed7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760/logo.png"
+    }
+  },
+  "name": "ZperToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

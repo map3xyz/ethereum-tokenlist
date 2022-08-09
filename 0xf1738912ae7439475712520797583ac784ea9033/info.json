@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf1738912ae7439475712520797583ac784ea9033",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5509ebf-d504-4369-b932-d054556bb8c6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf1738912ae7439475712520797583ac784ea9033/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf1738912ae7439475712520797583ac784ea9033/logo.png"
+    }
+  },
+  "name": "XionGlobal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

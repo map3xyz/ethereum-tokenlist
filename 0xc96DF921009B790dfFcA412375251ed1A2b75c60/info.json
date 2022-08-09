@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc96DF921009B790dfFcA412375251ed1A2b75c60",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "aaa519f4-4af3-4d99-9f3a-af96edf0e675",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc96DF921009B790dfFcA412375251ed1A2b75c60/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc96DF921009B790dfFcA412375251ed1A2b75c60/logo.png"
+    }
+  },
+  "name": "Ormeus Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b3dbfc8-1b6b-4757-995c-beccb2b9e448",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x13339fD07934CD674269726EdF3B5ccEE9DD93de/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x13339fD07934CD674269726EdF3B5ccEE9DD93de/logo.png"
+    }
+  },
+  "name": "CurToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

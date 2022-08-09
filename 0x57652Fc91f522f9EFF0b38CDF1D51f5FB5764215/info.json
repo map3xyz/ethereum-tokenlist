@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3817c2e-d7a9-4d99-8064-2c6fb7479c0d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215/logo.png"
+    }
+  },
+  "name": "Buddy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

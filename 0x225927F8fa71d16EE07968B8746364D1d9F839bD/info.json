@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x225927F8fa71d16EE07968B8746364D1d9F839bD",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0ec209de-b7d0-44d3-9bc1-9a6252d0a212",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x225927F8fa71d16EE07968B8746364D1d9F839bD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x225927F8fa71d16EE07968B8746364D1d9F839bD/logo.png"
+    }
+  },
+  "name": "Bitcoin Fast",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

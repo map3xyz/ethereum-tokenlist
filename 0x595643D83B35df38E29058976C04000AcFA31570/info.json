@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x595643D83B35df38E29058976C04000AcFA31570",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eccae3de-e236-4e49-b24b-a988a3eacddf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x595643D83B35df38E29058976C04000AcFA31570/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x595643D83B35df38E29058976C04000AcFA31570/logo.png"
+    }
+  },
+  "name": "Order of the Black Rose",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

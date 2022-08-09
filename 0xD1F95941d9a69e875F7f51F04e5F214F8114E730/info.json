@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD1F95941d9a69e875F7f51F04e5F214F8114E730",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0765532e-ffd6-4bce-a894-0f55d5cedfb1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD1F95941d9a69e875F7f51F04e5F214F8114E730/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD1F95941d9a69e875F7f51F04e5F214F8114E730/logo.png"
+    }
+  },
+  "name": "Exzie",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

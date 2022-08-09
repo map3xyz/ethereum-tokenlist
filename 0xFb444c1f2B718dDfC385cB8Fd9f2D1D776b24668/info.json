@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2aa4660b-7ae8-46ed-805f-069d971664cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668/logo.png"
+    }
+  },
+  "name": "ELA Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELAMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

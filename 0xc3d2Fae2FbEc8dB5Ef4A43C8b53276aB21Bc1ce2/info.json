@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3d2Fae2FbEc8dB5Ef4A43C8b53276aB21Bc1ce2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52775048-ddcf-439e-adef-f91545b17b8e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3d2Fae2FbEc8dB5Ef4A43C8b53276aB21Bc1ce2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc3d2Fae2FbEc8dB5Ef4A43C8b53276aB21Bc1ce2/logo.png"
+    }
+  },
+  "name": "SecretCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2A19165C17B36a5C753A246c1e188489754A693",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5f7b38b6-fc54-4102-ad61-8eb619df13d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2A19165C17B36a5C753A246c1e188489754A693/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2A19165C17B36a5C753A246c1e188489754A693/logo.png"
+    }
+  },
+  "name": "P2PG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "P2PGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

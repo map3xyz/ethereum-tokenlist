@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8DA087b4C36D0804E766c3a6b1c1AdAccc8490c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20778d8c-3d8a-4c3c-a7a8-b9388674abee",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8DA087b4C36D0804E766c3a6b1c1AdAccc8490c0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8DA087b4C36D0804E766c3a6b1c1AdAccc8490c0/logo.png"
+    }
+  },
+  "name": "CrystalCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRYSTAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

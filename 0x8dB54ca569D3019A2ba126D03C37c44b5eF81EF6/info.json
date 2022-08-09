@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c03f31d-8081-4dbc-b185-5bceadc3e018",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6/logo.png"
+    }
+  },
+  "name": "DataWallet Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

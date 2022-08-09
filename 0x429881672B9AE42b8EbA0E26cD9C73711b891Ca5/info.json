@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6248c581-88bf-4ca9-90fb-96cb07c6ed17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5/logo.png"
+    }
+  },
+  "name": "Pickle Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PICKLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

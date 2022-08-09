@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x93Ec2b9D85a7F4b0Abc66abf4CA8d5E50C355516",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63b1d99c-e87d-411d-89ea-4280ec1a1840",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93Ec2b9D85a7F4b0Abc66abf4CA8d5E50C355516/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x93Ec2b9D85a7F4b0Abc66abf4CA8d5E50C355516/logo.png"
+    }
+  },
+  "name": "Nixma Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

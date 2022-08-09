@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x970E035E2a013cf4bECD67E300d65BC32A56D826",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "86a60a1d-00ed-450b-89f7-058d4f29b9f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970E035E2a013cf4bECD67E300d65BC32A56D826/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x970E035E2a013cf4bECD67E300d65BC32A56D826/logo.png"
+    }
+  },
+  "name": "Bodhi Ethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

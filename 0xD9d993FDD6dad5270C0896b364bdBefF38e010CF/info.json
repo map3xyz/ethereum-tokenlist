@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD9d993FDD6dad5270C0896b364bdBefF38e010CF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "945252e7-93d0-478c-bf9e-77eededcac71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9d993FDD6dad5270C0896b364bdBefF38e010CF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD9d993FDD6dad5270C0896b364bdBefF38e010CF/logo.png"
+    }
+  },
+  "name": "BIGG CASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

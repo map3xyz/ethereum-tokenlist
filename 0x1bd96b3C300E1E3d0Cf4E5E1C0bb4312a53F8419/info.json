@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1bd96b3C300E1E3d0Cf4E5E1C0bb4312a53F8419",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c479011d-6894-4b78-b20d-39e8ce8a5929",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1bd96b3C300E1E3d0Cf4E5E1C0bb4312a53F8419/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1bd96b3C300E1E3d0Cf4E5E1C0bb4312a53F8419/logo.png"
+    }
+  },
+  "name": "FHCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

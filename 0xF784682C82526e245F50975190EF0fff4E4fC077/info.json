@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF784682C82526e245F50975190EF0fff4E4fC077",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ef25e73a-1bf2-467f-a084-07c112324595",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF784682C82526e245F50975190EF0fff4E4fC077/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF784682C82526e245F50975190EF0fff4E4fC077/logo.png"
+    }
+  },
+  "name": "Inlock",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

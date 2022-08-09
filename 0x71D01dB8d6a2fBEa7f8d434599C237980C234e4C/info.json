@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "dae6dd66-cf07-4aad-9c9b-1658597be9c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C/logo.png"
+    }
+  },
+  "name": "Gladius Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

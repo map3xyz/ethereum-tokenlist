@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd8B8E1Eca89dA014E67fDbc2014eaA8E171079bF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a2807fa-5bdc-43d1-866c-10a386c90e96",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd8B8E1Eca89dA014E67fDbc2014eaA8E171079bF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd8B8E1Eca89dA014E67fDbc2014eaA8E171079bF/logo.png"
+    }
+  },
+  "name": "FreldoCoinX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRECNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

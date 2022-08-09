@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x464BADdcE9BD32581a7d59D9Bb8350c7C7764668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1cf0d29-73f9-4336-9d26-fe96709b434f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x464BADdcE9BD32581a7d59D9Bb8350c7C7764668/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x464BADdcE9BD32581a7d59D9Bb8350c7C7764668/logo.png"
+    }
+  },
+  "name": "Viuly Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

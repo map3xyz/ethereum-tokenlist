@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF524F62058e5bb80AEcec2E8795fBAdbFcd8Dac0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4646716e-85f0-40f5-9bbe-62902db256d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF524F62058e5bb80AEcec2E8795fBAdbFcd8Dac0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF524F62058e5bb80AEcec2E8795fBAdbFcd8Dac0/logo.png"
+    }
+  },
+  "name": "GIGANTIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIGA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

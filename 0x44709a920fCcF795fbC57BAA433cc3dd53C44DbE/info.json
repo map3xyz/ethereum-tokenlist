@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8901bf53-b663-4dbf-8609-c5549a781535",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE/logo.png"
+    }
+  },
+  "name": "DappRadar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RADAR",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

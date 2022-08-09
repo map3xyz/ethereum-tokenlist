@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x943ACa8ed65FBf188A7D369Cfc2BeE0aE435ee1B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7cae93b-123b-4c52-9684-49eeabf83cf8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x943ACa8ed65FBf188A7D369Cfc2BeE0aE435ee1B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x943ACa8ed65FBf188A7D369Cfc2BeE0aE435ee1B/logo.png"
+    }
+  },
+  "name": "Contractium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CTU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe1E70407c8cdB588425fe7736e30DF139110949F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8cd7997b-8315-414a-887d-72b8a5626ea3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe1E70407c8cdB588425fe7736e30DF139110949F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe1E70407c8cdB588425fe7736e30DF139110949F/logo.png"
+    }
+  },
+  "name": "Bitcoin Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

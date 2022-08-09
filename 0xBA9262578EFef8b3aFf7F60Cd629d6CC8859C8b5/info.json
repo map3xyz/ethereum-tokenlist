@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "dfa7953e-8e4e-430c-83c1-babe11a75e91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5/logo.png"
+    }
+  },
+  "name": "bZx WBTC iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iWBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

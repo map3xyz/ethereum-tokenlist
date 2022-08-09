@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x348B7f3106B5Da47405332534d06069fF9CE4d1B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "27748e08-d4f4-4997-812b-0f0de50da01d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x348B7f3106B5Da47405332534d06069fF9CE4d1B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x348B7f3106B5Da47405332534d06069fF9CE4d1B/logo.png"
+    }
+  },
+  "name": "Elongate Deluxe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELONGD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

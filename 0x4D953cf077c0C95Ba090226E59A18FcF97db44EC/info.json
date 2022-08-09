@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f024d8f8-71d4-4dec-b434-40cb4541cbac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D953cf077c0C95Ba090226E59A18FcF97db44EC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D953cf077c0C95Ba090226E59A18FcF97db44EC/logo.png"
+    }
+  },
+  "name": "MINI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MINI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

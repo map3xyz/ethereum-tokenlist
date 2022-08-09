@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8605b058-5353-41fa-bcda-897f7db0c85e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419/logo.png"
+    }
+  },
+  "name": "DIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

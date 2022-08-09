@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0815cdec-8c14-46cc-badf-f815edfb1943",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea/logo.png"
+    }
+  },
+  "name": "tor.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

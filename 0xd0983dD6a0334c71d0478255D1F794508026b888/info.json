@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd0983dD6a0334c71d0478255D1F794508026b888",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dfdaf681-8afa-4887-b09d-8833e7b67091",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0983dD6a0334c71d0478255D1F794508026b888/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd0983dD6a0334c71d0478255D1F794508026b888/logo.png"
+    }
+  },
+  "name": "EGG Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

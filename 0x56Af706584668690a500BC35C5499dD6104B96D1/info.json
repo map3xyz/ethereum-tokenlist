@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56Af706584668690a500BC35C5499dD6104B96D1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24c16073-2b00-46cd-b88f-bb3e6e09927f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56Af706584668690a500BC35C5499dD6104B96D1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x56Af706584668690a500BC35C5499dD6104B96D1/logo.png"
+    }
+  },
+  "name": "IQC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IQC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

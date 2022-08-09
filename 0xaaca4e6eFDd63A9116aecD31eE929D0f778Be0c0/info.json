@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaaca4e6eFDd63A9116aecD31eE929D0f778Be0c0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6579b9a1-510d-4700-8c4f-d17a9a2ab705",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaaca4e6eFDd63A9116aecD31eE929D0f778Be0c0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaaca4e6eFDd63A9116aecD31eE929D0f778Be0c0/logo.png"
+    }
+  },
+  "name": "AgroLyte Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

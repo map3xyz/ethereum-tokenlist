@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x743E2916227E10882476da16487E6CF3030Df629",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "614e678a-fe25-4dd5-82d3-03b8f7e1c1c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x743E2916227E10882476da16487E6CF3030Df629/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x743E2916227E10882476da16487E6CF3030Df629/logo.png"
+    }
+  },
+  "name": "MasonCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MSNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

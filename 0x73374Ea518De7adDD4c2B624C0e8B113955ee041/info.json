@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c0bab4b-67b7-400b-b9ad-439da7e96969",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x73374Ea518De7adDD4c2B624C0e8B113955ee041/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x73374Ea518De7adDD4c2B624C0e8B113955ee041/logo.png"
+    }
+  },
+  "name": "JGNDeFi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

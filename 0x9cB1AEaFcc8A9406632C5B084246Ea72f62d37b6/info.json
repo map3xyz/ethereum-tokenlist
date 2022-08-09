@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "72c04860-9b39-40db-9af5-8d10c4091fa4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6/logo.png"
+    }
+  },
+  "name": "LBK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA12040497bC7B6077Ea125Bad27dAA8b74E7eDC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5e823d9-b846-4498-9ee8-b87f0b038b4f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA12040497bC7B6077Ea125Bad27dAA8b74E7eDC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA12040497bC7B6077Ea125Bad27dAA8b74E7eDC/logo.png"
+    }
+  },
+  "name": "Wish Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

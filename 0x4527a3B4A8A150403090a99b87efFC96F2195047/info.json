@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4527a3B4A8A150403090a99b87efFC96F2195047",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2e2176af-9444-436e-a59f-7f80c8beb832",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4527a3B4A8A150403090a99b87efFC96F2195047/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4527a3B4A8A150403090a99b87efFC96F2195047/logo.png"
+    }
+  },
+  "name": "P2P Solutions Foundation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "P2PS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x369eb6821C94a78428f7c86c768590F53950068f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c6a8911d-292c-49c7-8a2a-79d5b994e0f1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x369eb6821C94a78428f7c86c768590F53950068f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x369eb6821C94a78428f7c86c768590F53950068f/logo.png"
+    }
+  },
+  "name": "ATFS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATFS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

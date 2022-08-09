@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1B9743f556D65e757c4c650B4555bAF354cB8bd3",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "86ed8250-c724-487d-9d46-3d4cc880abe0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1B9743f556D65e757c4c650B4555bAF354cB8bd3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1B9743f556D65e757c4c650B4555bAF354cB8bd3/logo.png"
+    }
+  },
+  "name": "EthBits ETBS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

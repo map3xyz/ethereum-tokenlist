@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2f5e2c9002C058c063d21A06B6cabb50950130c8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6746b09-c098-491c-9f08-260868182845",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2f5e2c9002C058c063d21A06B6cabb50950130c8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2f5e2c9002C058c063d21A06B6cabb50950130c8/logo.png"
+    }
+  },
+  "name": " 3X Short Ethereum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETHBEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1aa95F4ca4A9Bc258Ba848db4355aEEA6413e815",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "de88421c-1bf3-4638-9b93-ade5f40933a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1aa95F4ca4A9Bc258Ba848db4355aEEA6413e815/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aa95F4ca4A9Bc258Ba848db4355aEEA6413e815/logo.png"
+    }
+  },
+  "name": "Budget",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUDGET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

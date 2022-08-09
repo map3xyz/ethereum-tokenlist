@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2ce7a32b-9c8d-4dee-adcc-1a50700ce326",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41f7B8b9b897276b7AAE926a9016935280b44E97/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41f7B8b9b897276b7AAE926a9016935280b44E97/logo.png"
+    }
+  },
+  "name": "USD Coin (Portal from Solana)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDCso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

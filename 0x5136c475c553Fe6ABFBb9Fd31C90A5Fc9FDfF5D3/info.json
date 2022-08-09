@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5136c475c553Fe6ABFBb9Fd31C90A5Fc9FDfF5D3",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5b4b9f55-09be-4b6f-a0db-162f2abf62a9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5136c475c553Fe6ABFBb9Fd31C90A5Fc9FDfF5D3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5136c475c553Fe6ABFBb9Fd31C90A5Fc9FDfF5D3/logo.png"
+    }
+  },
+  "name": "GoodWineToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

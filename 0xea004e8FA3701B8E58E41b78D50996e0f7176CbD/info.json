@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea004e8FA3701B8E58E41b78D50996e0f7176CbD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d5fa04c-3ed2-46b6-9153-f45982212a3d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea004e8FA3701B8E58E41b78D50996e0f7176CbD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea004e8FA3701B8E58E41b78D50996e0f7176CbD/logo.png"
+    }
+  },
+  "name": "yffc.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

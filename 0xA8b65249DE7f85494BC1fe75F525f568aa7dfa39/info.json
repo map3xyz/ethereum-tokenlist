@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8b65249DE7f85494BC1fe75F525f568aa7dfa39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ac5306c-cda8-4fba-9fcb-840268619aa0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA8b65249DE7f85494BC1fe75F525f568aa7dfa39/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA8b65249DE7f85494BC1fe75F525f568aa7dfa39/logo.png"
+    }
+  },
+  "name": "bZx BAT iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iBAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

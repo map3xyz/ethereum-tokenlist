@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47cb50f3-6f40-43a9-88a6-67b477ba211b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6/logo.png"
+    }
+  },
+  "name": "CoverCompared",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

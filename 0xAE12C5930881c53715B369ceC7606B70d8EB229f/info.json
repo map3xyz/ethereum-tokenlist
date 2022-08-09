@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc33014a-ee7d-48a6-a588-98805e2e871f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png"
+    }
+  },
+  "name": "Coin98",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C98",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

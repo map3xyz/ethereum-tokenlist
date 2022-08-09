@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f427e1da-da2c-4eb5-9e3c-57b19916a572",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc/logo.png"
+    }
+  },
+  "name": "ROMToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

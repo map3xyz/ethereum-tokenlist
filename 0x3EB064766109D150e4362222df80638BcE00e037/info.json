@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3EB064766109D150e4362222df80638BcE00e037",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f775497e-1caf-4e0f-bb2d-d8ac713b929a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3EB064766109D150e4362222df80638BcE00e037/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3EB064766109D150e4362222df80638BcE00e037/logo.png"
+    }
+  },
+  "name": "Synth sEUR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sEUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

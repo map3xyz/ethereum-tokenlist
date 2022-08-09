@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf96AA656eC0E0Ac163590DB372B430Cf3C0d61cA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c50708c0-d3bd-4634-b25b-4ff7243380a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf96AA656eC0E0Ac163590DB372B430Cf3C0d61cA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf96AA656eC0E0Ac163590DB372B430Cf3C0d61cA/logo.png"
+    }
+  },
+  "name": "Twogap Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

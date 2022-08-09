@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00000000001876eB1444c986fD502e618c587430",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "86e387d5-a44f-4bb9-86a9-16dcd698b5a4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00000000001876eB1444c986fD502e618c587430/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x00000000001876eB1444c986fD502e618c587430/logo.png"
+    }
+  },
+  "name": "Dharma Dai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dDai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

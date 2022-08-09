@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "a4a2344e-db5e-48ee-a426-941149d56f37",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644/logo.png"
+    }
+  },
+  "name": "Kipple",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KIPPLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

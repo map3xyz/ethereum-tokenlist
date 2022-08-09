@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6454340896B9AE47921809de9035F4dADEA3ac8B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11173b16-3dea-40cb-9032-713ab325f3b8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6454340896B9AE47921809de9035F4dADEA3ac8B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6454340896B9AE47921809de9035F4dADEA3ac8B/logo.png"
+    }
+  },
+  "name": "BLOCKCHAIN NEWMEDIA NETWORK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNN2U",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

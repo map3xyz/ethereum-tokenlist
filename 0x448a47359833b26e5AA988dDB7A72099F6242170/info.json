@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x448a47359833b26e5AA988dDB7A72099F6242170",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "428e5c4a-0003-4822-9c4b-835c7915fb2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x448a47359833b26e5AA988dDB7A72099F6242170/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x448a47359833b26e5AA988dDB7A72099F6242170/logo.png"
+    }
+  },
+  "name": "Real Estate Investment Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

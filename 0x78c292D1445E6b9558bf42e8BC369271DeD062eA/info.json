@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ec530748-3387-46d6-a14b-b81644f6f0de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78c292D1445E6b9558bf42e8BC369271DeD062eA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78c292D1445E6b9558bf42e8BC369271DeD062eA/logo.png"
+    }
+  },
+  "name": "CyberMusic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CYMT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

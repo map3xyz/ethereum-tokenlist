@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "954e33c1-5dd6-451b-a0ff-5732c49c0935",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08/logo.png"
+    }
+  },
+  "name": "Bitex Global XBX Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

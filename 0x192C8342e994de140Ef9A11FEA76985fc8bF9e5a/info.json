@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x192C8342e994de140Ef9A11FEA76985fc8bF9e5a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e68fd5e-4610-4bfe-953e-fb0b1a6d4f06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x192C8342e994de140Ef9A11FEA76985fc8bF9e5a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x192C8342e994de140Ef9A11FEA76985fc8bF9e5a/logo.png"
+    }
+  },
+  "name": "Socool",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

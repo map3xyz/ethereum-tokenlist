@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x248aDE18435f7B5E39d855CC98C42D8f6840a386",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "aa85c836-7c09-47c4-b599-95caa5af4087",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x248aDE18435f7B5E39d855CC98C42D8f6840a386/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x248aDE18435f7B5E39d855CC98C42D8f6840a386/logo.png"
+    }
+  },
+  "name": "Orbit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

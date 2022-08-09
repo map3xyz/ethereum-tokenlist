@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "840db890-bf6c-4bb2-a39a-e9a96c98ce1a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png"
+    }
+  },
+  "name": "Automata",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

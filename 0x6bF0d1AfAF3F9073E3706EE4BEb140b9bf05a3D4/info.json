@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6bF0d1AfAF3F9073E3706EE4BEb140b9bf05a3D4",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "4f0dfc83-3a1b-4a45-a14d-bf914229b4c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6bF0d1AfAF3F9073E3706EE4BEb140b9bf05a3D4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6bF0d1AfAF3F9073E3706EE4BEb140b9bf05a3D4/logo.png"
+    }
+  },
+  "name": "TransBurn",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRB ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

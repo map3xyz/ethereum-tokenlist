@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07972098-b002-4f18-a884-7e02493cb0da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4/logo.png"
+    }
+  },
+  "name": "Ejoy Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EJOY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

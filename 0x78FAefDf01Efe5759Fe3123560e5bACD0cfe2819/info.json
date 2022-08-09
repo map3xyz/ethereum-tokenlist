@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78FAefDf01Efe5759Fe3123560e5bACD0cfe2819",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ac232859-a637-4f98-87b3-70b82fb40199",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78FAefDf01Efe5759Fe3123560e5bACD0cfe2819/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78FAefDf01Efe5759Fe3123560e5bACD0cfe2819/logo.png"
+    }
+  },
+  "name": "ElectroLite Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

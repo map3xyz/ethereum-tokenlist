@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x134A2B5B1A1E3F3c3C7cfed71000035A53d4d127",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae698953-08d7-414e-9c2a-6f28d5f06f7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x134A2B5B1A1E3F3c3C7cfed71000035A53d4d127/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x134A2B5B1A1E3F3c3C7cfed71000035A53d4d127/logo.png"
+    }
+  },
+  "name": "OPC-ERC20-Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

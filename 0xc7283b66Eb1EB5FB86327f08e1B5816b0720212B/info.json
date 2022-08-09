@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e94fe5f9-98d0-439a-be21-c0658dd4c530",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png"
+    }
+  },
+  "name": "Tribe",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRIBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

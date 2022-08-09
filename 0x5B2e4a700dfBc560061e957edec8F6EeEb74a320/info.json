@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B2e4a700dfBc560061e957edec8F6EeEb74a320",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "913e29a3-4a52-415f-a374-2214bfb27672",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B2e4a700dfBc560061e957edec8F6EeEb74a320/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B2e4a700dfBc560061e957edec8F6EeEb74a320/logo.png"
+    }
+  },
+  "name": "INS Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

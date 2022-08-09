@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbDCDf13e7ECE3dFBe926979d2fc9942648A4083d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5c3ab59e-3a50-4a75-988a-fd0136e41e1d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbDCDf13e7ECE3dFBe926979d2fc9942648A4083d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbDCDf13e7ECE3dFBe926979d2fc9942648A4083d/logo.png"
+    }
+  },
+  "name": "AGI BANK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

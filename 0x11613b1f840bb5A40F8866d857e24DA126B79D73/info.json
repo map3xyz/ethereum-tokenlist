@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11613b1f840bb5A40F8866d857e24DA126B79D73",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c8692cb7-70d7-42b3-9dd3-9c0c8d8addd5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11613b1f840bb5A40F8866d857e24DA126B79D73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11613b1f840bb5A40F8866d857e24DA126B79D73/logo.png"
+    }
+  },
+  "name": "Cappasity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CAPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

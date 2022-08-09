@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x80D09dA032F4293b1f1295274509Cb76C2A5DC42",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e32f919e-fbe9-4d6b-a66e-d7c9870044e9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80D09dA032F4293b1f1295274509Cb76C2A5DC42/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x80D09dA032F4293b1f1295274509Cb76C2A5DC42/logo.png"
+    }
+  },
+  "name": "Visa Application Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VAAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

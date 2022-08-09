@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39df593a-84d1-4aaf-ba06-81e16f7f6a64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01/logo.png"
+    }
+  },
+  "name": "Zynecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZYN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

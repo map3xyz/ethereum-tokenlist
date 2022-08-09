@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x237c0e91c28d20254A2F25976b81262E63bB767f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1bde68e-80ba-41bc-b701-dd4e9d85f8ae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x237c0e91c28d20254A2F25976b81262E63bB767f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x237c0e91c28d20254A2F25976b81262E63bB767f/logo.png"
+    }
+  },
+  "name": "XITO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

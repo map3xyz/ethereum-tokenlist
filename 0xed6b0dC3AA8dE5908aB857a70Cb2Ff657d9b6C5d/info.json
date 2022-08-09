@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xed6b0dC3AA8dE5908aB857a70Cb2Ff657d9b6C5d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1a88518-05be-43bf-8b33-e034ce062aa5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xed6b0dC3AA8dE5908aB857a70Cb2Ff657d9b6C5d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xed6b0dC3AA8dE5908aB857a70Cb2Ff657d9b6C5d/logo.png"
+    }
+  },
+  "name": "Practical Official",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

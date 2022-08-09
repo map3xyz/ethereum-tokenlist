@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03977c45-747e-4749-98dd-ffb0d354c24e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14/logo.png"
+    }
+  },
+  "name": "Mettalex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MTLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

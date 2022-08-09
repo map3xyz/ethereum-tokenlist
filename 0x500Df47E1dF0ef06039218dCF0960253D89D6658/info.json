@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x500Df47E1dF0ef06039218dCF0960253D89D6658",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0193e4e-6ced-40be-b2c0-c98a5671cf9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x500Df47E1dF0ef06039218dCF0960253D89D6658/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x500Df47E1dF0ef06039218dCF0960253D89D6658/logo.png"
+    }
+  },
+  "name": "Authpaper Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

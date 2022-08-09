@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC0D766017141dd4866738C1e704Be6feDc97B904",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c78e9d09-ff06-4324-a1dc-9c2b6c55be06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0D766017141dd4866738C1e704Be6feDc97B904/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC0D766017141dd4866738C1e704Be6feDc97B904/logo.png"
+    }
+  },
+  "name": "Tree Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TREE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

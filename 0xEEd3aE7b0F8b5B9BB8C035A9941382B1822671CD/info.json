@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "cf093e0b-1a7f-4202-bc58-99f62fe8a14a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD/logo.png"
+    }
+  },
+  "name": "EveryCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

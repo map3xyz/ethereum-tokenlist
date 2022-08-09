@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a605abdc-d1eb-4701-a9d4-f267ce0d0732",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png"
+    }
+  },
+  "name": "DEXE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

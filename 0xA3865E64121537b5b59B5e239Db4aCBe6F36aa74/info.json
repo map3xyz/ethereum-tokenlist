@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87187ffa-9306-4476-9b60-9e51c5fe9cc2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74/logo.png"
+    }
+  },
+  "name": "WXTZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WXTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xFdB29741F239a2406AE287913Ef12415160378d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c296a15b-67f4-4c63-8fcb-d922c533c833",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFdB29741F239a2406AE287913Ef12415160378d3/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "EthOS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

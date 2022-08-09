@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0826a4b5-7bd7-4421-b6fb-d2abb85d4da0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8/logo.png"
+    }
+  },
+  "name": "BotOcean",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

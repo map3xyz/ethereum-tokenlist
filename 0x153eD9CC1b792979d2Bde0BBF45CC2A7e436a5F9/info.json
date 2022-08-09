@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d4baebaa-c235-47b6-a041-f8889816e882",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9/logo.png"
+    }
+  },
+  "name": "XOVBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XOV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

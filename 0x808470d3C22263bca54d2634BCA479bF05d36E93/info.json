@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x808470d3C22263bca54d2634BCA479bF05d36E93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f84f06bf-6cb7-4c84-b118-aa178e89e977",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x808470d3C22263bca54d2634BCA479bF05d36E93/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x808470d3C22263bca54d2634BCA479bF05d36E93/logo.png"
+    }
+  },
+  "name": "Quantum Generation",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QUBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

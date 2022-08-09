@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9da66Fe42480141b4b238e9573a0F83880D83a51",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ea3fec1-0c66-48eb-83c7-16d4f2a81a77",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9da66Fe42480141b4b238e9573a0F83880D83a51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9da66Fe42480141b4b238e9573a0F83880D83a51/logo.png"
+    }
+  },
+  "name": "baarbird",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "baar",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

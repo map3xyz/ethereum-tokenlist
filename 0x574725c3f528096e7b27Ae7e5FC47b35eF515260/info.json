@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x574725c3f528096e7b27Ae7e5FC47b35eF515260",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "db457bc9-6df7-4671-a3a8-720cbefeb937",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x574725c3f528096e7b27Ae7e5FC47b35eF515260/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x574725c3f528096e7b27Ae7e5FC47b35eF515260/logo.png"
+    }
+  },
+  "name": "Petra",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

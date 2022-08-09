@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6710CeE627Fa3A988200ffD5687cc1C814cEf0F6",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1d6bf52d-60b8-461e-8097-c805bd39ea71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6710CeE627Fa3A988200ffD5687cc1C814cEf0F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6710CeE627Fa3A988200ffD5687cc1C814cEf0F6/logo.png"
+    }
+  },
+  "name": "Fotrem Capital Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

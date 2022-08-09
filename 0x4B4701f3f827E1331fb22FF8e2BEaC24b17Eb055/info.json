@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d949cf23-f6c7-4d0b-9c19-4c7fb89360e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055/logo.png"
+    }
+  },
+  "name": "DISTX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DISTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

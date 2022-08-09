@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e29d3000-17de-4da7-b67a-ba56edf08192",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15/logo.png"
+    }
+  },
+  "name": "UniMex Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

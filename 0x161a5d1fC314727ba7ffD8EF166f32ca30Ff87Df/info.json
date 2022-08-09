@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x161a5d1fC314727ba7ffD8EF166f32ca30Ff87Df",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4039086a-bc5d-4bd3-ad11-97b53187e1b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x161a5d1fC314727ba7ffD8EF166f32ca30Ff87Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x161a5d1fC314727ba7ffD8EF166f32ca30Ff87Df/logo.png"
+    }
+  },
+  "name": "Chernobyl",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

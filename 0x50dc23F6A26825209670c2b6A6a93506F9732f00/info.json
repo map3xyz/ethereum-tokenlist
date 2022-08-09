@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x50dc23F6A26825209670c2b6A6a93506F9732f00",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9312f07c-8342-4a22-aca7-38b8804def9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50dc23F6A26825209670c2b6A6a93506F9732f00/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50dc23F6A26825209670c2b6A6a93506F9732f00/logo.png"
+    }
+  },
+  "name": "MCOM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

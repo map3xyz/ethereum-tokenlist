@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc37DF6DA3f7fd8290d7e1122B91Dd1aCC402F0E4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fef50df5-cff5-4e94-b1c1-4356e2e1268e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc37DF6DA3f7fd8290d7e1122B91Dd1aCC402F0E4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc37DF6DA3f7fd8290d7e1122B91Dd1aCC402F0E4/logo.png"
+    }
+  },
+  "name": "Rise VS Fall",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RVF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

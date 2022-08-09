@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA1248c718d52752b2cC257eeb0eBa900408dAeB8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cc83ed7-e7e6-4bf1-ae72-0221e0249f1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA1248c718d52752b2cC257eeb0eBa900408dAeB8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA1248c718d52752b2cC257eeb0eBa900408dAeB8/logo.png"
+    }
+  },
+  "name": "SWYFT Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWYFTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

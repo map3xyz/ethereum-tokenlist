@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd7ab96f-9321-4dda-aa19-4257763b0070",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9/logo.png"
+    }
+  },
+  "name": "LALA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

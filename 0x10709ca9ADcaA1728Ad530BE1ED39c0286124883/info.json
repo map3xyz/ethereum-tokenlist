@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x10709ca9ADcaA1728Ad530BE1ED39c0286124883",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a31d670-eb2c-4198-bbbd-72bcb662f18e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x10709ca9ADcaA1728Ad530BE1ED39c0286124883/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10709ca9ADcaA1728Ad530BE1ED39c0286124883/logo.png"
+    }
+  },
+  "name": "Meritum Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

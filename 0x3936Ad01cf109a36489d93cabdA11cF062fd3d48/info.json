@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "98c26673-cb72-470f-9347-1578a8bafa9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3936Ad01cf109a36489d93cabdA11cF062fd3d48/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3936Ad01cf109a36489d93cabdA11cF062fd3d48/logo.png"
+    }
+  },
+  "name": "Coil",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

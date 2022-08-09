@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "adf97950-b24c-4b2e-85c3-a7f1a504e167",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
+    }
+  },
+  "name": "Perpetual",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PERP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

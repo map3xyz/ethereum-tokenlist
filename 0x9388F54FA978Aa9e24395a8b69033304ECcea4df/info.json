@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9388F54FA978Aa9e24395a8b69033304ECcea4df",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "208c113a-3f69-4404-a8de-2f25437de4b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9388F54FA978Aa9e24395a8b69033304ECcea4df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9388F54FA978Aa9e24395a8b69033304ECcea4df/logo.png"
+    }
+  },
+  "name": "Bitscoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

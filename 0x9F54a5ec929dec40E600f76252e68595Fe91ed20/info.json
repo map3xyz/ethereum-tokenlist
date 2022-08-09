@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9F54a5ec929dec40E600f76252e68595Fe91ed20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab0d3673-e962-4ed9-a89d-c96e03790dea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9F54a5ec929dec40E600f76252e68595Fe91ed20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9F54a5ec929dec40E600f76252e68595Fe91ed20/logo.png"
+    }
+  },
+  "name": "Simplify",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

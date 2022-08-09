@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8851B3DDA4F8A0a231FF45e8871b7003142d83DC",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "145c072b-3ab8-42dd-89e6-983747ff1528",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8851B3DDA4F8A0a231FF45e8871b7003142d83DC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8851B3DDA4F8A0a231FF45e8871b7003142d83DC/logo.png"
+    }
+  },
+  "name": "ZIM GOLD TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZAGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

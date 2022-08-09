@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0c38e0ce-35ef-4cc1-afa3-2015cea6afac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x810908B285f85Af668F6348cD8B26D76B3EC12e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x810908B285f85Af668F6348cD8B26D76B3EC12e1/logo.png"
+    }
+  },
+  "name": "Swapcoinz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPAZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

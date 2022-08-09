@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8e41703d-09fc-461e-bee3-a4e26c7c1449",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB/logo.png"
+    }
+  },
+  "name": "EasySwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESWA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

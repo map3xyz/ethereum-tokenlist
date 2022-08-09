@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68abe2b0-7378-4922-92df-7f8150e0fb9b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54/logo.png"
+    }
+  },
+  "name": "FOODCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOOD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

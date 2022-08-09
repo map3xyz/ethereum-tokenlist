@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f8de26d-5b64-46b3-b033-1ab9cd4c5c67",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67/logo.png"
+    }
+  },
+  "name": "Logistics Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

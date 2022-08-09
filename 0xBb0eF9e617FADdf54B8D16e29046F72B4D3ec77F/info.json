@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBb0eF9e617FADdf54B8D16e29046F72B4D3ec77F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "445ae969-258a-4139-82e9-e9d52b321f8b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBb0eF9e617FADdf54B8D16e29046F72B4D3ec77F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBb0eF9e617FADdf54B8D16e29046F72B4D3ec77F/logo.png"
+    }
+  },
+  "name": "PEP Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

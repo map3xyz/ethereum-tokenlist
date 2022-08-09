@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcE27A2388D2ba7a9995fa0960FB168568e2a7923",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3a97377-9d44-4f05-b025-15ba2679168d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcE27A2388D2ba7a9995fa0960FB168568e2a7923/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcE27A2388D2ba7a9995fa0960FB168568e2a7923/logo.png"
+    }
+  },
+  "name": "Cinder",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc956fDB88D2E5b71E22D63313624e42d4757E7f9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c30c3f3d-f08e-43b4-b86f-a53db9c154d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc956fDB88D2E5b71E22D63313624e42d4757E7f9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc956fDB88D2E5b71E22D63313624e42d4757E7f9/logo.png"
+    }
+  },
+  "name": "ApeCash Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APEc",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

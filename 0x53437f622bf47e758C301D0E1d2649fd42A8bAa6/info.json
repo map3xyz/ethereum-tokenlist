@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53437f622bf47e758C301D0E1d2649fd42A8bAa6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b0ea82c-c09a-48a0-97bd-bcbaf67cf5bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53437f622bf47e758C301D0E1d2649fd42A8bAa6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53437f622bf47e758C301D0E1d2649fd42A8bAa6/logo.png"
+    }
+  },
+  "name": "NewYorkCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NYC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

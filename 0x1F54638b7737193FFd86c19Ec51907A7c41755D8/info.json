@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1F54638b7737193FFd86c19Ec51907A7c41755D8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e236055e-68af-453c-895b-167d26fa2008",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F54638b7737193FFd86c19Ec51907A7c41755D8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1F54638b7737193FFd86c19Ec51907A7c41755D8/logo.png"
+    }
+  },
+  "name": "Sola Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

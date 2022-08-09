@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0c2e3bbc4646c872a3F5A745D2902aFFda82C58a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1fce81e3-0132-4383-82b5-a58fcb67ad78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0c2e3bbc4646c872a3F5A745D2902aFFda82C58a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c2e3bbc4646c872a3F5A745D2902aFFda82C58a/logo.png"
+    }
+  },
+  "name": "FlashX Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

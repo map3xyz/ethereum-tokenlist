@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb9295f2-8e73-4376-9cd4-f8fe893ff966",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B/logo.png"
+    }
+  },
+  "name": "Launchpool",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LPOOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

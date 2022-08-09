@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83b338aa-1e5e-473a-882f-2458c329b112",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png"
+    }
+  },
+  "name": "Everest",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

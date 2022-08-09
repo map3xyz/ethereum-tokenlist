@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7646c1c4-56b4-4f87-ad7a-605c85f1e482",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A/logo.png"
+    }
+  },
+  "name": "MargiX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

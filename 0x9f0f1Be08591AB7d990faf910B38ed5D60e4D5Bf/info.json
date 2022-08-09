@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9f0f1Be08591AB7d990faf910B38ed5D60e4D5Bf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd783712-86a9-4c62-9f64-6a580a27c041",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f0f1Be08591AB7d990faf910B38ed5D60e4D5Bf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f0f1Be08591AB7d990faf910B38ed5D60e4D5Bf/logo.png"
+    }
+  },
+  "name": "MainCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

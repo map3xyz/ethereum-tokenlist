@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2433c4e0-fb5f-4447-9a1f-eaae8c4ab861",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f/logo.png"
+    }
+  },
+  "name": "Agrello",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

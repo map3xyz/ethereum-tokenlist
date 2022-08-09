@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c140468-5c6f-4005-bcf2-36359e55f374",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6/logo.png"
+    }
+  },
+  "name": "Realio Network USD Stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "rUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

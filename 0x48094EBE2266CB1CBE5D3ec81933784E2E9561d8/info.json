@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48094EBE2266CB1CBE5D3ec81933784E2E9561d8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "00b91134-3dc4-422c-af85-c9dc837f5de0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48094EBE2266CB1CBE5D3ec81933784E2E9561d8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48094EBE2266CB1CBE5D3ec81933784E2E9561d8/logo.png"
+    }
+  },
+  "name": "GOL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

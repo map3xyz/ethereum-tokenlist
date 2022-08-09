@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10757918-026b-4001-a2fc-8a1a4c198d5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0ff5A8451A839f5F0BB3562689D9A44089738D11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0ff5A8451A839f5F0BB3562689D9A44089738D11/logo.png"
+    }
+  },
+  "name": "Dopex Rebate Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "rDPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

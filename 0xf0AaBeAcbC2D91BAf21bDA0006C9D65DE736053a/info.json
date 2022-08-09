@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "be7c5c08-c38a-4a0b-9426-2f31bc886297",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a/logo.png"
+    }
+  },
+  "name": "OHFF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OHFF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

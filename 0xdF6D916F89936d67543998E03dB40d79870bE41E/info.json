@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdF6D916F89936d67543998E03dB40d79870bE41E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9439f039-0492-456a-906d-139523147e0b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF6D916F89936d67543998E03dB40d79870bE41E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF6D916F89936d67543998E03dB40d79870bE41E/logo.png"
+    }
+  },
+  "name": "Cryptocurrency 50 Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "C50",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

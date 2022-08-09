@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBbe761EA1447A20b75aA485b7BCad4837415d7D7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4534b757-9a66-4a6a-9ec7-faf943fe548d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBbe761EA1447A20b75aA485b7BCad4837415d7D7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBbe761EA1447A20b75aA485b7BCad4837415d7D7/logo.png"
+    }
+  },
+  "name": "Global Crypto Alliance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CALL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

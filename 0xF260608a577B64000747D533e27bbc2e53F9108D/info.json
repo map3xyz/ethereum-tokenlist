@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF260608a577B64000747D533e27bbc2e53F9108D",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "5c2c0f45-3114-49df-baca-b250864a2db4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF260608a577B64000747D533e27bbc2e53F9108D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF260608a577B64000747D533e27bbc2e53F9108D/logo.png"
+    }
+  },
+  "name": "mewFi.finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mewFi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

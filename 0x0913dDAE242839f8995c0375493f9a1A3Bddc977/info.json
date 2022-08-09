@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0913dDAE242839f8995c0375493f9a1A3Bddc977",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5f31006-2d55-4215-a10a-5bcbfa279f64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0913dDAE242839f8995c0375493f9a1A3Bddc977/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0913dDAE242839f8995c0375493f9a1A3Bddc977/logo.png"
+    }
+  },
+  "name": "Marshall Rogan Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MRI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2Ec62769e99b382fC6308e840762a039f6507845",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "fe38d1a1-00be-406c-845a-2f4ce4ef31c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2Ec62769e99b382fC6308e840762a039f6507845/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2Ec62769e99b382fC6308e840762a039f6507845/logo.png"
+    }
+  },
+  "name": "BCTOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCTOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

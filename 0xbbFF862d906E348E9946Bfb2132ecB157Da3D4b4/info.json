@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "613d3c80-f2d7-4208-8e45-e5587af90883",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4/logo.png"
+    }
+  },
+  "name": "Sharder",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6bee715f-978a-411a-9394-1eb5e557f6aa",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab/logo.png"
+    }
+  },
+  "name": "SatoExchange",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SATX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

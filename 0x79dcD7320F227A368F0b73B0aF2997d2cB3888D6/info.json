@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "195b69c0-f169-4ea8-a710-3f23a6fb98e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6/logo.png"
+    }
+  },
+  "name": "Maya",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "443b57a7-b051-4406-922f-dd660bd23352",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png"
+    }
+  },
+  "name": "Chiliz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHZ",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBAE235823D7255D9D48635cEd4735227244Cd583",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee4a6034-a2de-4343-b7b2-56fca2e26b92",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBAE235823D7255D9D48635cEd4735227244Cd583/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBAE235823D7255D9D48635cEd4735227244Cd583/logo.png"
+    }
+  },
+  "name": "Staker",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

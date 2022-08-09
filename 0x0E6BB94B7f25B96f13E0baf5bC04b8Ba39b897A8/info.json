@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E6BB94B7f25B96f13E0baf5bC04b8Ba39b897A8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2d8f3846-3313-4c19-8a82-0bdd06eb1f17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E6BB94B7f25B96f13E0baf5bC04b8Ba39b897A8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E6BB94B7f25B96f13E0baf5bC04b8Ba39b897A8/logo.png"
+    }
+  },
+  "name": "Top.One Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e81d95ef-4333-4d55-b61f-708b1eb25500",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42476F744292107e34519F9c357927074Ea3F75D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42476F744292107e34519F9c357927074Ea3F75D/logo.png"
+    }
+  },
+  "name": "Loom Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

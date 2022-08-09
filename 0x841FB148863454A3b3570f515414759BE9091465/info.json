@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x841FB148863454A3b3570f515414759BE9091465",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01bf69d5-3778-40b5-9054-8671421e2b55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x841FB148863454A3b3570f515414759BE9091465/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x841FB148863454A3b3570f515414759BE9091465/logo.png"
+    }
+  },
+  "name": "Shih Tzu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

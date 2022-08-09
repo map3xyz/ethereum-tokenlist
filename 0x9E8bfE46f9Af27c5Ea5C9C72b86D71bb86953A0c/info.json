@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2f012eb-c83a-4eb8-a256-03ce64d32366",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c/logo.png"
+    }
+  },
+  "name": "EZDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EZX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

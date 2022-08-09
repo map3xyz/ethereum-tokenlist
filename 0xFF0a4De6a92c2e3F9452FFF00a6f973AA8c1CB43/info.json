@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFF0a4De6a92c2e3F9452FFF00a6f973AA8c1CB43",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6d65791c-88c1-4883-a974-82a9444d27ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFF0a4De6a92c2e3F9452FFF00a6f973AA8c1CB43/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFF0a4De6a92c2e3F9452FFF00a6f973AA8c1CB43/logo.png"
+    }
+  },
+  "name": "AUA GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

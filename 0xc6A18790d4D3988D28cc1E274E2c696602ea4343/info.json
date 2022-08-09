@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc6A18790d4D3988D28cc1E274E2c696602ea4343",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a8f0f0a-c0c1-4ce3-9133-2cdb1e02d0e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc6A18790d4D3988D28cc1E274E2c696602ea4343/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc6A18790d4D3988D28cc1E274E2c696602ea4343/logo.png"
+    }
+  },
+  "name": "Coinrobots",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROBOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

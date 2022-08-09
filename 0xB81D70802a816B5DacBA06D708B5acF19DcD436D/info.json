@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99529dad-f748-4a84-a387-984bd12f23f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB81D70802a816B5DacBA06D708B5acF19DcD436D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB81D70802a816B5DacBA06D708B5acF19DcD436D/logo.png"
+    }
+  },
+  "name": "Dextoken Governance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEXG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

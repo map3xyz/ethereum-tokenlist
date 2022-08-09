@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62994dEF86d1810cFA795eF20f81aC74Dc43d155",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "df364909-ba35-460f-99d2-04f0b4e8235f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62994dEF86d1810cFA795eF20f81aC74Dc43d155/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62994dEF86d1810cFA795eF20f81aC74Dc43d155/logo.png"
+    }
+  },
+  "name": "EQR TEST mg14500",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

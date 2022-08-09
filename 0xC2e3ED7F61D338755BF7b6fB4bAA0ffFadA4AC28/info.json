@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d005032d-fc5f-4b78-86ed-4969a95db6f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28/logo.png"
+    }
+  },
+  "name": "Dmaarc",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

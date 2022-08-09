@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb39234b-10a6-4415-8dab-5775217cc822",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF/logo.png"
+    }
+  },
+  "name": "Rebellious",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

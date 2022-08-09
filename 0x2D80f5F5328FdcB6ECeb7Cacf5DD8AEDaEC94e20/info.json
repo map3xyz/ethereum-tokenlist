@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "67ab00f2-392c-4f6e-b332-96106821e25e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20/logo.png"
+    }
+  },
+  "name": "AGA Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AGA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7E4279b80D319EDe2889855135A22021baf0907",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f74fc1d5-3771-48a7-b23e-6a8de124caea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe7E4279b80D319EDe2889855135A22021baf0907/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe7E4279b80D319EDe2889855135A22021baf0907/logo.png"
+    }
+  },
+  "name": "ZeusNetwork",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "\"\"",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBc17729fDf562723f0267F79FF25aDE441056d87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3cc1e555-e002-44e6-9dd6-36138509e653",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBc17729fDf562723f0267F79FF25aDE441056d87/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBc17729fDf562723f0267F79FF25aDE441056d87/logo.png"
+    }
+  },
+  "name": "KSM Starter Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

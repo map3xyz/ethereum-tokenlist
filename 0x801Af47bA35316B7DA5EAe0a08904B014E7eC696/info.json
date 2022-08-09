@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x801Af47bA35316B7DA5EAe0a08904B014E7eC696",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4219d9cf-919a-4d44-8e67-a6007a2f9d94",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x801Af47bA35316B7DA5EAe0a08904B014E7eC696/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x801Af47bA35316B7DA5EAe0a08904B014E7eC696/logo.png"
+    }
+  },
+  "name": "IPP COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5036aA791115Ad4d35493De68B5529648A36De8e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "199ce7a1-2ab8-4e67-8f9a-5ff70adecc63",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5036aA791115Ad4d35493De68B5529648A36De8e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5036aA791115Ad4d35493De68B5529648A36De8e/logo.png"
+    }
+  },
+  "name": "Tachain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TCHN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

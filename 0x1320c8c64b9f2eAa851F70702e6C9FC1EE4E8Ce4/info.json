@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1320c8c64b9f2eAa851F70702e6C9FC1EE4E8Ce4",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b98ab740-0c30-4f80-a944-b0d391aaf44a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1320c8c64b9f2eAa851F70702e6C9FC1EE4E8Ce4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1320c8c64b9f2eAa851F70702e6C9FC1EE4E8Ce4/logo.png"
+    }
+  },
+  "name": "MegaSerum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MSRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

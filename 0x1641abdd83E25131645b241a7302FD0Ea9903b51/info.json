@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1641abdd83E25131645b241a7302FD0Ea9903b51",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2dd5f5ab-a09a-49e9-8bd6-10c2d9bbfb1e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1641abdd83E25131645b241a7302FD0Ea9903b51/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1641abdd83E25131645b241a7302FD0Ea9903b51/logo.png"
+    }
+  },
+  "name": "Soom Classic Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

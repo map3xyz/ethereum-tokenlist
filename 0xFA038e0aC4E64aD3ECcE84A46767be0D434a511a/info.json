@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "49730efb-f838-4305-906f-766840c70864",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a/logo.png"
+    }
+  },
+  "name": "Fundament",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

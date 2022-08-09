@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA110eeebc0751407bDCAeA4CD230F04A2b82a33a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91baef1c-a1bd-439d-b625-e912d722479a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA110eeebc0751407bDCAeA4CD230F04A2b82a33a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA110eeebc0751407bDCAeA4CD230F04A2b82a33a/logo.png"
+    }
+  },
+  "name": "GoWithMi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GMAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

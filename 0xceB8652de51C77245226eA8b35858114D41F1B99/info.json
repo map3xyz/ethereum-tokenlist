@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xceB8652de51C77245226eA8b35858114D41F1B99",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "34f81a47-c51e-40e7-aa84-462cd5b44cef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xceB8652de51C77245226eA8b35858114D41F1B99/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xceB8652de51C77245226eA8b35858114D41F1B99/logo.png"
+    }
+  },
+  "name": "Redin international co. Ltd.",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Redin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

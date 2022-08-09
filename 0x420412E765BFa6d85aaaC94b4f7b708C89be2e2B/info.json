@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3b87ba1d-65fc-480d-8e7c-646c265be836",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B/logo.png"
+    }
+  },
+  "name": "BRZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BRZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "506060a5-fb8c-42db-b0a0-676eb25cf509",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF/logo.png"
+    }
+  },
+  "name": "oneLINK",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneLINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

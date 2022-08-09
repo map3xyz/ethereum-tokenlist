@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e852a695-02c8-44db-8014-8c697a5f9bd6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7/logo.png"
+    }
+  },
+  "name": "TEAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TEAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xafcCbdA168681038419908470e79E2353a798E1f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3bdef2cd-1200-4dc2-bc5f-59248d9b7c42",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xafcCbdA168681038419908470e79E2353a798E1f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xafcCbdA168681038419908470e79E2353a798E1f/logo.png"
+    }
+  },
+  "name": "Mythril Ore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea061150-1990-4486-b211-765f7ada3a83",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo.png"
+    }
+  },
+  "name": "Fantom Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

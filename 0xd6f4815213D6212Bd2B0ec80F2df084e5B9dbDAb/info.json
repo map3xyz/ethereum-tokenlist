@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd6f4815213D6212Bd2B0ec80F2df084e5B9dbDAb",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "6ff5251e-e82c-4273-b4e9-c3d7660c256d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6f4815213D6212Bd2B0ec80F2df084e5B9dbDAb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd6f4815213D6212Bd2B0ec80F2df084e5B9dbDAb/logo.png"
+    }
+  },
+  "name": "AARON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AARON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

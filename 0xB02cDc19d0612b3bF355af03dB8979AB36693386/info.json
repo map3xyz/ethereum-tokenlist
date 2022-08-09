@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB02cDc19d0612b3bF355af03dB8979AB36693386",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37be564a-8a14-4c87-b06b-b3510942b2ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB02cDc19d0612b3bF355af03dB8979AB36693386/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB02cDc19d0612b3bF355af03dB8979AB36693386/logo.png"
+    }
+  },
+  "name": "Hacienda",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HACI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

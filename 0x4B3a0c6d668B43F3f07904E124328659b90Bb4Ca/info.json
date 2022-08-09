@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3ec4fbf-aa5d-4b35-bf0f-4f6a490a418e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca/logo.png"
+    }
+  },
+  "name": "AceD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AceD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

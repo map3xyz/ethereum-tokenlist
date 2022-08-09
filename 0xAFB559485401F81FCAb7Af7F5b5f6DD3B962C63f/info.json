@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAFB559485401F81FCAb7Af7F5b5f6DD3B962C63f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cf0a115-44d9-4f43-8f02-c19545638dff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAFB559485401F81FCAb7Af7F5b5f6DD3B962C63f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAFB559485401F81FCAb7Af7F5b5f6DD3B962C63f/logo.png"
+    }
+  },
+  "name": "LUMAX COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

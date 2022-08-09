@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c46d5636-e11c-4126-8fdd-9ea856cfed21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403/logo.png"
+    }
+  },
+  "name": "IoTコイン",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IoT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

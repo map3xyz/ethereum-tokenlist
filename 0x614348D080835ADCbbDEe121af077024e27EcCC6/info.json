@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x614348D080835ADCbbDEe121af077024e27EcCC6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a00a8da5-fe5d-4bb1-8a54-263509d0b46b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x614348D080835ADCbbDEe121af077024e27EcCC6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x614348D080835ADCbbDEe121af077024e27EcCC6/logo.png"
+    }
+  },
+  "name": "Ledgit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

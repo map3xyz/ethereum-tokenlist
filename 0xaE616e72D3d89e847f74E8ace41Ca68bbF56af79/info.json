@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "ad42a5b9-8161-4dcf-9001-c3fb7b8c0a74",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79/logo.png"
+    }
+  },
+  "name": "Good Karma",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "∞",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

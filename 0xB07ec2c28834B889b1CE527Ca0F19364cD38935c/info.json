@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB07ec2c28834B889b1CE527Ca0F19364cD38935c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dacc83b1-5d43-47e3-93c0-e99c5b6738bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB07ec2c28834B889b1CE527Ca0F19364cD38935c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB07ec2c28834B889b1CE527Ca0F19364cD38935c/logo.png"
+    }
+  },
+  "name": "Cardstack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CARD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

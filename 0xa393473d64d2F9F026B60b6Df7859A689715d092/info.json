@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "13d0778e-35e6-4ddc-baf4-3eb3429877fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xa393473d64d2F9F026B60b6Df7859A689715d092/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa393473d64d2F9F026B60b6Df7859A689715d092/logo.png"
+    }
+  },
+  "name": "Lattice Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

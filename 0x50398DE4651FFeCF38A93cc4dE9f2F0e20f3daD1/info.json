@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8c460162-bb1f-4f6b-b8cf-c9c4adb4f858",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1/logo.png"
+    }
+  },
+  "name": "PYR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PYR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

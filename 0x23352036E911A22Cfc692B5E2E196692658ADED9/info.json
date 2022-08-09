@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23352036E911A22Cfc692B5E2E196692658ADED9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "501cc6f2-41de-4eaf-9044-7c1ced7d04ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23352036E911A22Cfc692B5E2E196692658ADED9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23352036E911A22Cfc692B5E2E196692658ADED9/logo.png"
+    }
+  },
+  "name": "Friendz Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FDZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

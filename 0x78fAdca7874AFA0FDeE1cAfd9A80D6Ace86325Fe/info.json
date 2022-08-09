@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78fAdca7874AFA0FDeE1cAfd9A80D6Ace86325Fe",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "fad57172-81fd-41db-9dab-52708d6e3394",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78fAdca7874AFA0FDeE1cAfd9A80D6Ace86325Fe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78fAdca7874AFA0FDeE1cAfd9A80D6Ace86325Fe/logo.png"
+    }
+  },
+  "name": "EIC token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06301057D77D54B6e14c7FafFB11Ffc7Cab4eaa7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "05be41de-59e5-43e6-83e5-72a22ed9e1a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06301057D77D54B6e14c7FafFB11Ffc7Cab4eaa7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06301057D77D54B6e14c7FafFB11Ffc7Cab4eaa7/logo.png"
+    }
+  },
+  "name": "DMM: DAI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

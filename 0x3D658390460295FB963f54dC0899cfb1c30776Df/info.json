@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2a92c638-d727-453a-9267-ea0c67f78062",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png"
+    }
+  },
+  "name": "CircuitsOfValue",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Coval",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

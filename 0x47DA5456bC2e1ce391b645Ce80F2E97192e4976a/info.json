@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a933dccc-d70c-4d90-b0c0-261becfb686a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a/logo.png"
+    }
+  },
+  "name": "Pl^g Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLUG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

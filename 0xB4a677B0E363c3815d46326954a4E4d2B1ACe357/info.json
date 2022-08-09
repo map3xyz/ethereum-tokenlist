@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB4a677B0E363c3815d46326954a4E4d2B1ACe357",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0fc2b2be-d4c8-4aab-a689-fa02ea6b9f0a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4a677B0E363c3815d46326954a4E4d2B1ACe357/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB4a677B0E363c3815d46326954a4E4d2B1ACe357/logo.png"
+    }
+  },
+  "name": "THENODE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "THE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

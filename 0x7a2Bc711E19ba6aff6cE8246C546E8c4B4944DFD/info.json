@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f18e2558-d01a-45c5-8dc6-e61d8114b65f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD/logo.png"
+    }
+  },
+  "name": "WAXE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

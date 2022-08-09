@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b83adbb7-05d2-4518-bd1a-3bbf2903e45f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890/logo.png"
+    }
+  },
+  "name": "ChainSwap.com Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

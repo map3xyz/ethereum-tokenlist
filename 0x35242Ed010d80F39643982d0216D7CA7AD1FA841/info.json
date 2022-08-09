@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35242Ed010d80F39643982d0216D7CA7AD1FA841",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8db5bf81-b7e7-405c-99e1-d85511ba4cf4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35242Ed010d80F39643982d0216D7CA7AD1FA841/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35242Ed010d80F39643982d0216D7CA7AD1FA841/logo.png"
+    }
+  },
+  "name": "Slonigiraf Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

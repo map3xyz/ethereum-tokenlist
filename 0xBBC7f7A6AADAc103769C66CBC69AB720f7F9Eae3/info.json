@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65dbef6d-3209-42af-814f-63822cba879c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3/logo.png"
+    }
+  },
+  "name": "INX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

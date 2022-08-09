@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4375E7aD8A01B8eC3Ed041399f62D9Cd120e0063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8197568-a71c-44fd-a6f8-9e76ab8e71ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4375E7aD8A01B8eC3Ed041399f62D9Cd120e0063/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4375E7aD8A01B8eC3Ed041399f62D9Cd120e0063/logo.png"
+    }
+  },
+  "name": "BZ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

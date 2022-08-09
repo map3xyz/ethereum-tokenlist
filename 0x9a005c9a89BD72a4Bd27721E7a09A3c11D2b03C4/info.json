@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67ee699a-e824-41af-b719-a65cbd3e7b00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4/logo.png"
+    }
+  },
+  "name": "StarterCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

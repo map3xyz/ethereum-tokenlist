@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "67a7acaa-bc15-4a33-8f95-42bf46d9b1fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD/logo.png"
+    }
+  },
+  "name": "GRID",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

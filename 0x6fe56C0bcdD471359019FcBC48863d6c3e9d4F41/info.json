@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "932d0700-b1ec-4660-96e2-6b6b25757961",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41/logo.png"
+    }
+  },
+  "name": "Props Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PROPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

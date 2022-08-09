@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3514f2C8a12470Ae3410EA51F96f987e9e7018Dd",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d914cdea-01e3-45bc-a780-0551770573a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3514f2C8a12470Ae3410EA51F96f987e9e7018Dd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3514f2C8a12470Ae3410EA51F96f987e9e7018Dd/logo.png"
+    }
+  },
+  "name": "LYC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Lycoin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

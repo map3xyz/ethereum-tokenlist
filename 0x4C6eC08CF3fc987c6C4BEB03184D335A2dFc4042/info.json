@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d414a820-9f14-48f7-8c7f-e1c37ff17370",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042/logo.png"
+    }
+  },
+  "name": "Paint",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PAINT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

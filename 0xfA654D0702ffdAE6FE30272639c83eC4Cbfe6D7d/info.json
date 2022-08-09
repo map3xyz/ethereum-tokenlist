@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfA654D0702ffdAE6FE30272639c83eC4Cbfe6D7d",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "e7cf2d29-10aa-4699-a92d-a0a343dd03a8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfA654D0702ffdAE6FE30272639c83eC4Cbfe6D7d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfA654D0702ffdAE6FE30272639c83eC4Cbfe6D7d/logo.png"
+    }
+  },
+  "name": "TRADE YUAN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNYT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

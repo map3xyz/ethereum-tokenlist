@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "c38decfe-bd57-4423-b428-4c2ae9841e99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f/logo.png"
+    }
+  },
+  "name": "Coinibal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

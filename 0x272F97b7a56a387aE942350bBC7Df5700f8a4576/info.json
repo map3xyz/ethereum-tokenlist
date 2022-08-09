@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3183d0eb-7f05-4631-9a4a-7502c00b05c9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x272F97b7a56a387aE942350bBC7Df5700f8a4576/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x272F97b7a56a387aE942350bBC7Df5700f8a4576/logo.png"
+    }
+  },
+  "name": "Aave BAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aBAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

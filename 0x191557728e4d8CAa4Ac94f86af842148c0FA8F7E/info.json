@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "60031b42-a24f-4fb9-973c-1146639f37af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E/logo.png"
+    }
+  },
+  "name": "Ormeus Ecosystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

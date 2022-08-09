@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA64E816F4eB895533f93e0aecb79468Ab57D00ff",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "515d59d3-1be2-4eaa-88ab-77241d90b3c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA64E816F4eB895533f93e0aecb79468Ab57D00ff/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA64E816F4eB895533f93e0aecb79468Ab57D00ff/logo.png"
+    }
+  },
+  "name": "VARO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VARO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

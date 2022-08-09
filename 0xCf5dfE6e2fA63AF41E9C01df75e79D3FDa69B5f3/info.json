@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "5b342a6a-bbcd-4a8c-aff0-24be31f699e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3/logo.png"
+    }
+  },
+  "name": "Mutual Uniting System",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

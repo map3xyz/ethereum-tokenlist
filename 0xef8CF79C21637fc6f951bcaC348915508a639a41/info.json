@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xef8CF79C21637fc6f951bcaC348915508a639a41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "861d66ca-c932-4e7f-8981-977e0d820758",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xef8CF79C21637fc6f951bcaC348915508a639a41/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xef8CF79C21637fc6f951bcaC348915508a639a41/logo.png"
+    }
+  },
+  "name": "SRCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

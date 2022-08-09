@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57c98b74-516e-407a-a196-4920e4d266f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png"
+    }
+  },
+  "name": "Origin Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

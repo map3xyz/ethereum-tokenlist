@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "abc9fa01-b8df-42ce-a689-7829a0ac57bb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a/logo.png"
+    }
+  },
+  "name": "Axor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

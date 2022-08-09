@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "534da208-31f5-40a8-8d7a-7af91b322c87",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48f07301E9E29c3C38a80ae8d9ae771F224f1054/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48f07301E9E29c3C38a80ae8d9ae771F224f1054/logo.png"
+    }
+  },
+  "name": "South African Tether",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XZAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

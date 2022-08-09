@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c458857-d0d7-49a6-a94d-97fedc0d5568",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2/logo.png"
+    }
+  },
+  "name": "Lunch Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

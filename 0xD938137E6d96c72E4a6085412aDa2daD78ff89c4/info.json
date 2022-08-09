@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD938137E6d96c72E4a6085412aDa2daD78ff89c4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9fea430d-cb79-4117-a289-952f4b3de348",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD938137E6d96c72E4a6085412aDa2daD78ff89c4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD938137E6d96c72E4a6085412aDa2daD78ff89c4/logo.png"
+    }
+  },
+  "name": "Change Your Life",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AAA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

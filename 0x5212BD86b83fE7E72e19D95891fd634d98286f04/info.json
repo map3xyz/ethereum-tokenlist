@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5212BD86b83fE7E72e19D95891fd634d98286f04",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c6535a8-2bb6-4073-9be6-3c2297739e99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5212BD86b83fE7E72e19D95891fd634d98286f04/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5212BD86b83fE7E72e19D95891fd634d98286f04/logo.png"
+    }
+  },
+  "name": "Maxburn Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

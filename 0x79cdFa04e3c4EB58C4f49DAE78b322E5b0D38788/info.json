@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79cdFa04e3c4EB58C4f49DAE78b322E5b0D38788",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94ba4b08-2867-41bf-a788-1e89f94484db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79cdFa04e3c4EB58C4f49DAE78b322E5b0D38788/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79cdFa04e3c4EB58C4f49DAE78b322E5b0D38788/logo.png"
+    }
+  },
+  "name": "TrueFeedBack",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TFB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37F74e99794853777a10ea1dc08a64C86958F06a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "582beadb-84d4-4811-820c-13a0109967c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37F74e99794853777a10ea1dc08a64C86958F06a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37F74e99794853777a10ea1dc08a64C86958F06a/logo.png"
+    }
+  },
+  "name": "D Community",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DILI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

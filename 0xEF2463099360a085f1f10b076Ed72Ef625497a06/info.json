@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9fc64f30-9ca0-460e-9f10-2d2ca060d4c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEF2463099360a085f1f10b076Ed72Ef625497a06/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEF2463099360a085f1f10b076Ed72Ef625497a06/logo.png"
+    }
+  },
+  "name": "Sharpe Platform Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

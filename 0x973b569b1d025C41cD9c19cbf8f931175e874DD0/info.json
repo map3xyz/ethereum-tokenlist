@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x973b569b1d025C41cD9c19cbf8f931175e874DD0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "325cb534-0795-422d-8236-4f3f921a2f5e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x973b569b1d025C41cD9c19cbf8f931175e874DD0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x973b569b1d025C41cD9c19cbf8f931175e874DD0/logo.png"
+    }
+  },
+  "name": "BOOM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BOOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

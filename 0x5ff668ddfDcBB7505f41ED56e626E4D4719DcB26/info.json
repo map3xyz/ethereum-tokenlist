@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "77d914c3-a5e5-4cfd-9f21-633e993195dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26/logo.png"
+    }
+  },
+  "name": "Wrapped Loki",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

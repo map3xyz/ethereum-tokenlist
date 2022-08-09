@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA740684C9022dc07540031b10dD57984640bAbef",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0b003e8-3d48-47f7-85d9-570f29b569c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA740684C9022dc07540031b10dD57984640bAbef/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA740684C9022dc07540031b10dD57984640bAbef/logo.png"
+    }
+  },
+  "name": "Decash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DECH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

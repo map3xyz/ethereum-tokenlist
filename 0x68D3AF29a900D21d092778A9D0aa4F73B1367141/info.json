@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68D3AF29a900D21d092778A9D0aa4F73B1367141",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "985fab72-55f8-408e-9cd2-a1e442aabb66",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68D3AF29a900D21d092778A9D0aa4F73B1367141/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x68D3AF29a900D21d092778A9D0aa4F73B1367141/logo.png"
+    }
+  },
+  "name": "Bayan Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BYT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

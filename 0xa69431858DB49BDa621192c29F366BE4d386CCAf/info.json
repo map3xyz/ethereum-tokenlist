@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa69431858DB49BDa621192c29F366BE4d386CCAf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe652009-097f-43fd-91a0-eb1f38a2107f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa69431858DB49BDa621192c29F366BE4d386CCAf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa69431858DB49BDa621192c29F366BE4d386CCAf/logo.png"
+    }
+  },
+  "name": "Solereum Cash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

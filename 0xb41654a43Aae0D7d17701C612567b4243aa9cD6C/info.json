@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb41654a43Aae0D7d17701C612567b4243aa9cD6C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54639508-1bd3-4471-b19a-b7c664e2bf55",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb41654a43Aae0D7d17701C612567b4243aa9cD6C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb41654a43Aae0D7d17701C612567b4243aa9cD6C/logo.png"
+    }
+  },
+  "name": "Play Win Collect Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PWCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

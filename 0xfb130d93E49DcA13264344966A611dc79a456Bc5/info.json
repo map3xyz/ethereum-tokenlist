@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0828de4-742c-4f71-b3b4-790ab89c27ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfb130d93E49DcA13264344966A611dc79a456Bc5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb130d93E49DcA13264344966A611dc79a456Bc5/logo.png"
+    }
+  },
+  "name": "DogeGF",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOGEGF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

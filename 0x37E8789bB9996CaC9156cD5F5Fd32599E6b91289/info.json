@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8090c8ef-0abd-40d1-a78c-bf1b98c8e3f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289/logo.png"
+    }
+  },
+  "name": "AidCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

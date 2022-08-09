@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6667A56d8fCB35448eE8514936e6D6c4CcC86E97",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bc56d52d-63f9-41d8-850b-81a6d690f390",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6667A56d8fCB35448eE8514936e6D6c4CcC86E97/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6667A56d8fCB35448eE8514936e6D6c4CcC86E97/logo.png"
+    }
+  },
+  "name": "Globfone Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

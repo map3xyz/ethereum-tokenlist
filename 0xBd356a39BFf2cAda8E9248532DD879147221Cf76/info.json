@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37341783-faab-468b-a48e-b8c8b3289288",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBd356a39BFf2cAda8E9248532DD879147221Cf76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd356a39BFf2cAda8E9248532DD879147221Cf76/logo.png"
+    }
+  },
+  "name": "WOM Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff384ca2-8f2f-4c6e-9166-e138f91f202c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBC86727E770de68B1060C91f6BB6945c73e10388/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBC86727E770de68B1060C91f6BB6945c73e10388/logo.png"
+    }
+  },
+  "name": "Ink Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

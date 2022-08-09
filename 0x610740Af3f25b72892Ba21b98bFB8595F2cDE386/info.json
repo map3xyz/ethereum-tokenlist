@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x610740Af3f25b72892Ba21b98bFB8595F2cDE386",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "27033dd5-c397-4f64-ada9-530e40003f53",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x610740Af3f25b72892Ba21b98bFB8595F2cDE386/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x610740Af3f25b72892Ba21b98bFB8595F2cDE386/logo.png"
+    }
+  },
+  "name": "Garuda Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

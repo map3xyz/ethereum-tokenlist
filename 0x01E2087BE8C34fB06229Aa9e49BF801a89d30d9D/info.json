@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01E2087BE8C34fB06229Aa9e49BF801a89d30d9D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11faf670-3a08-40ea-9e35-1e5093ddeba1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01E2087BE8C34fB06229Aa9e49BF801a89d30d9D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01E2087BE8C34fB06229Aa9e49BF801a89d30d9D/logo.png"
+    }
+  },
+  "name": "Miles Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MILES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f24074b7-d72b-4798-8f58-9e365505bc75",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD/logo.png"
+    }
+  },
+  "name": "ITAM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ITAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

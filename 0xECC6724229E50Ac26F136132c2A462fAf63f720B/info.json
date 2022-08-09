@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xECC6724229E50Ac26F136132c2A462fAf63f720B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc1cc27e-323b-4ddd-a874-4432e585caeb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xECC6724229E50Ac26F136132c2A462fAf63f720B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xECC6724229E50Ac26F136132c2A462fAf63f720B/logo.png"
+    }
+  },
+  "name": "LASVEGASCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEGAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

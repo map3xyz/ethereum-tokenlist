@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a3b6bd3-efd9-407b-a95a-87f7260c6cd4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e/logo.png"
+    }
+  },
+  "name": "Nectar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

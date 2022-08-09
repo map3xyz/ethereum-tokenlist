@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3075c320F859C69F1f07fBD620AaAd77766b0386",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c1539af-afd0-45ef-bc13-1f6daab5f68e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3075c320F859C69F1f07fBD620AaAd77766b0386/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3075c320F859C69F1f07fBD620AaAd77766b0386/logo.png"
+    }
+  },
+  "name": "Cadin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

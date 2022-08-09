@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3Da327288Da2fd44Ca855748432D78226537dEF5",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3ebdcb63-8320-4b11-8993-3b480d2915c7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3Da327288Da2fd44Ca855748432D78226537dEF5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3Da327288Da2fd44Ca855748432D78226537dEF5/logo.png"
+    }
+  },
+  "name": "Cashlink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43E5F59247b235449E16eC84c46BA43991Ef6093",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1acfffe9-660b-4f17-8b56-130e76727522",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43E5F59247b235449E16eC84c46BA43991Ef6093/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43E5F59247b235449E16eC84c46BA43991Ef6093/logo.png"
+    }
+  },
+  "name": "Coin Bank Int",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

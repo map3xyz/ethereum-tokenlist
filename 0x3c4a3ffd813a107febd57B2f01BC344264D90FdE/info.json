@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3c4a3ffd813a107febd57B2f01BC344264D90FdE",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "870775c6-9b0e-4216-b5ad-47ea137b191d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3c4a3ffd813a107febd57B2f01BC344264D90FdE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3c4a3ffd813a107febd57B2f01BC344264D90FdE/logo.png"
+    }
+  },
+  "name": "EnergiToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

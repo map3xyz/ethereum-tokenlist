@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc2Cd3D241096d29FD7D477327e9109B1C5bf8293",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a65ae4c0-6119-49ef-b786-c95b22704f82",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc2Cd3D241096d29FD7D477327e9109B1C5bf8293/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc2Cd3D241096d29FD7D477327e9109B1C5bf8293/logo.png"
+    }
+  },
+  "name": "DigiCash",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DGX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

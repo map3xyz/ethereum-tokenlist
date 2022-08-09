@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09Ccd2DA5dCDd0510268d4979e792381337138b8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "561dcc22-36f1-4157-8999-a76a208b88ad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09Ccd2DA5dCDd0510268d4979e792381337138b8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09Ccd2DA5dCDd0510268d4979e792381337138b8/logo.png"
+    }
+  },
+  "name": "Bodhi Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NBOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

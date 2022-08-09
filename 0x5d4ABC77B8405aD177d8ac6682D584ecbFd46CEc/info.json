@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82d28cb2-c55f-4890-b1d4-ce65ac425362",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc/logo.png"
+    }
+  },
+  "name": "Primas Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

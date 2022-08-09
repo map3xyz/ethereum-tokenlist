@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2cb4ad6c-c2f9-42ae-8aca-68196e059305",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfc82bb4ba86045Af6F327323a46E80412b91b27d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfc82bb4ba86045Af6F327323a46E80412b91b27d/logo.png"
+    }
+  },
+  "name": "Prom",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PROM",
+  "tags": [
+    "gamefi",
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

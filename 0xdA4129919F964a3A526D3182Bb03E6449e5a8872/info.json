@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdA4129919F964a3A526D3182Bb03E6449e5a8872",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e33bb2dd-d24e-450b-9948-db194983fc3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdA4129919F964a3A526D3182Bb03E6449e5a8872/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdA4129919F964a3A526D3182Bb03E6449e5a8872/logo.png"
+    }
+  },
+  "name": "1irstgold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

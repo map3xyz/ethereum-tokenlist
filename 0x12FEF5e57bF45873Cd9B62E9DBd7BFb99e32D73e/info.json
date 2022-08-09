@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09665728-8a4e-4899-8646-ecc86c3d1b2e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e/logo.png"
+    }
+  },
+  "name": "Cofoundit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

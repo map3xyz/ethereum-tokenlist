@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdF44A80c17813789f60090638827aEb23698B122",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "90b6c883-3478-47f8-b3e5-e303f0554d2b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdF44A80c17813789f60090638827aEb23698B122/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdF44A80c17813789f60090638827aEb23698B122/logo.png"
+    }
+  },
+  "name": "stableDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STDEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

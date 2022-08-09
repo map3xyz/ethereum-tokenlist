@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7e7779d-815b-426f-804d-90008bd73802",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b/logo.png"
+    }
+  },
+  "name": "Havens Nook",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HXN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

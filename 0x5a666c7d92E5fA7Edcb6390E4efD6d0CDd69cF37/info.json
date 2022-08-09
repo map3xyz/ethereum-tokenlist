@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ff886b7-ceef-47fc-8490-094c8b376fb5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37/logo.png"
+    }
+  },
+  "name": "UnMarshal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MARSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

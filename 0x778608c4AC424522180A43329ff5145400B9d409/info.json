@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x778608c4AC424522180A43329ff5145400B9d409",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ebde2a74-f700-4e56-a508-ae5828032c85",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x778608c4AC424522180A43329ff5145400B9d409/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x778608c4AC424522180A43329ff5145400B9d409/logo.png"
+    }
+  },
+  "name": "Chainclub Ecosystem Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

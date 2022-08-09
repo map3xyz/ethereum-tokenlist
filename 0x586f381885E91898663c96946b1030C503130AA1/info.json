@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x586f381885E91898663c96946b1030C503130AA1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8412400b-6651-418c-9417-46ce799f9d2c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x586f381885E91898663c96946b1030C503130AA1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x586f381885E91898663c96946b1030C503130AA1/logo.png"
+    }
+  },
+  "name": "High Tech Genesis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HTECH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

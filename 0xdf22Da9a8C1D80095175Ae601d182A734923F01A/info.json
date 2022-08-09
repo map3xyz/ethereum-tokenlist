@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdf22Da9a8C1D80095175Ae601d182A734923F01A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "12f3dc24-cdf6-4243-857b-063a7ecf9e9a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdf22Da9a8C1D80095175Ae601d182A734923F01A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdf22Da9a8C1D80095175Ae601d182A734923F01A/logo.png"
+    }
+  },
+  "name": "BitpakcoinToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPAKC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

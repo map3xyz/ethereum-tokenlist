@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e490a43-5ac0-4e07-acb1-62e275fa1021",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e1A19F235bE7ED8E3369eF73b196C07257494DE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e1A19F235bE7ED8E3369eF73b196C07257494DE/logo.png"
+    }
+  },
+  "name": "WFIL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WFIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

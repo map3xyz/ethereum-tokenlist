@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "d069c069-80de-4eff-92e7-6e36c4818bfe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27/logo.png"
+    }
+  },
+  "name": "Zilliqa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

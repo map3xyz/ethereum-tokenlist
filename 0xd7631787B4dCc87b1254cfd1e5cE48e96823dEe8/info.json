@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "616817d2-cd8f-464c-9676-a42e09fc997a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8/logo.png"
+    }
+  },
+  "name": "SOCIAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

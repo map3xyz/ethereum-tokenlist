@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5fe98935-a2b1-4544-ab73-1be069fde226",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094/logo.png"
+    }
+  },
+  "name": "iXledger",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfeea6031805661daaCAabAfD99412C31D59E8D44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b8b8729-7051-4132-9dae-683b23d30995",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeea6031805661daaCAabAfD99412C31D59E8D44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfeea6031805661daaCAabAfD99412C31D59E8D44/logo.png"
+    }
+  },
+  "name": "GAY$",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAY$",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

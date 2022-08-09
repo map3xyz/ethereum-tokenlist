@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E283fE046118c0942aC2135B9C8e02547b20991",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42f79a5a-9ee6-4681-aaeb-26611b380733",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9E283fE046118c0942aC2135B9C8e02547b20991/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9E283fE046118c0942aC2135B9C8e02547b20991/logo.png"
+    }
+  },
+  "name": "Qwartz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QWRTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

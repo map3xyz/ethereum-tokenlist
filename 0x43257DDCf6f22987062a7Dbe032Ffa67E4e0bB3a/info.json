@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "64729bb0-23a2-41d7-85fa-88ea52a84975",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a/logo.png"
+    }
+  },
+  "name": "HBTT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HBTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4e7363E2B4253f07D786Fd12CFeE45f121DdaE98",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "344a76ae-b1f8-48d5-ba2d-08db34f65cdf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4e7363E2B4253f07D786Fd12CFeE45f121DdaE98/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4e7363E2B4253f07D786Fd12CFeE45f121DdaE98/logo.png"
+    }
+  },
+  "name": "ARAKAN DAN GAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

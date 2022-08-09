@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2919d3b1-f2f9-4705-95e6-86d296b92b52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF/logo.png"
+    }
+  },
+  "name": "Aura Finance (AURA)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AURA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB31C219959E06f9aFBeB36b388a4BaD13E802725",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8827cd5b-e756-46c6-a277-3b3a6fb8f8f5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB31C219959E06f9aFBeB36b388a4BaD13E802725/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB31C219959E06f9aFBeB36b388a4BaD13E802725/logo.png"
+    }
+  },
+  "name": "ONOT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ONOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

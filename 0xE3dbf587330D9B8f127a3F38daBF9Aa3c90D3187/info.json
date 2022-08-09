@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3dbf587330D9B8f127a3F38daBF9Aa3c90D3187",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f891be24-f7c0-4769-a1e0-127e7db3f4f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE3dbf587330D9B8f127a3F38daBF9Aa3c90D3187/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE3dbf587330D9B8f127a3F38daBF9Aa3c90D3187/logo.png"
+    }
+  },
+  "name": "VCcoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VCCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

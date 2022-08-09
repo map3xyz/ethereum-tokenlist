@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d2d6780-963b-4a0e-9bea-c97c1ae50b4a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x286BDA1413a2Df81731D4930ce2F862a35A609fE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x286BDA1413a2Df81731D4930ce2F862a35A609fE/logo.png"
+    }
+  },
+  "name": "Tael",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WaBi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

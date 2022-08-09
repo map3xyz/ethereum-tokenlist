@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x571f1ae7851E59580f24857Ed65bf2d89eaFBF00",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cef25c60-3273-46d0-8bf1-53fcdff9d51b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x571f1ae7851E59580f24857Ed65bf2d89eaFBF00/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x571f1ae7851E59580f24857Ed65bf2d89eaFBF00/logo.png"
+    }
+  },
+  "name": "ATLANTACOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

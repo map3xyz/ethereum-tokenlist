@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cbda9034-a8f2-4561-b995-af73fc6e1985",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D/logo.png"
+    }
+  },
+  "name": "Hive Project Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HVN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

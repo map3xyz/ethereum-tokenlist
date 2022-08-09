@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1a0a534e-e6f1-4d79-bb0b-3cb8d4328781",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B/logo.png"
+    }
+  },
+  "name": "BLUECHIPS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCHIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

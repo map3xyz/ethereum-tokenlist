@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eebde3ff-f2a5-4850-81f6-833bf484dcad",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8/logo.png"
+    }
+  },
+  "name": "MachiX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

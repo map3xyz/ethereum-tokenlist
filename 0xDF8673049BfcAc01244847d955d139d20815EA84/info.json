@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDF8673049BfcAc01244847d955d139d20815EA84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07becb1b-77c5-4644-8b6d-a8cfedb1679c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDF8673049BfcAc01244847d955d139d20815EA84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDF8673049BfcAc01244847d955d139d20815EA84/logo.png"
+    }
+  },
+  "name": "PLUTUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

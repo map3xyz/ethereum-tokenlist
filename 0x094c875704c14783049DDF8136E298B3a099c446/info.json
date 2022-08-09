@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x094c875704c14783049DDF8136E298B3a099c446",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1d53c07-f30b-4cea-afaf-08633de696d5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x094c875704c14783049DDF8136E298B3a099c446/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x094c875704c14783049DDF8136E298B3a099c446/logo.png"
+    }
+  },
+  "name": "Promotion Token @ https://kyber.network/swap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

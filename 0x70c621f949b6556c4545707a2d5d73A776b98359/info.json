@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x70c621f949b6556c4545707a2d5d73A776b98359",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "306041c5-c3f3-40eb-9cb0-002b380446f1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x70c621f949b6556c4545707a2d5d73A776b98359/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x70c621f949b6556c4545707a2d5d73A776b98359/logo.png"
+    }
+  },
+  "name": "Skychain Global Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SKCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

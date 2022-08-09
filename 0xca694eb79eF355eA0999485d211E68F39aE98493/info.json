@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xca694eb79eF355eA0999485d211E68F39aE98493",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7c031ef2-4313-4e36-9759-c53d04bc1a38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca694eb79eF355eA0999485d211E68F39aE98493/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca694eb79eF355eA0999485d211E68F39aE98493/logo.png"
+    }
+  },
+  "name": "Traceability Chain Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

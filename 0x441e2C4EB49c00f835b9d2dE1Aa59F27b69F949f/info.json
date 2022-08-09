@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x441e2C4EB49c00f835b9d2dE1Aa59F27b69F949f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "26ce997e-81c5-4be3-ac41-2b1cd9fd37b0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x441e2C4EB49c00f835b9d2dE1Aa59F27b69F949f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x441e2C4EB49c00f835b9d2dE1Aa59F27b69F949f/logo.png"
+    }
+  },
+  "name": "Bytecoin Black",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

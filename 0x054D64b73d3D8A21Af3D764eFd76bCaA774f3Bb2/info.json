@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc302b47-c20c-4ea0-a94c-329aacaa35a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2/logo.png"
+    }
+  },
+  "name": "PPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PPAY",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

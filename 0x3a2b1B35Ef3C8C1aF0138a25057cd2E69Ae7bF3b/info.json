@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a2b1B35Ef3C8C1aF0138a25057cd2E69Ae7bF3b",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "88b7b02d-ef38-4a5b-83f9-23d172d344e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a2b1B35Ef3C8C1aF0138a25057cd2E69Ae7bF3b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a2b1B35Ef3C8C1aF0138a25057cd2E69Ae7bF3b/logo.png"
+    }
+  },
+  "name": "IAM MDLT C 270-CN51",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

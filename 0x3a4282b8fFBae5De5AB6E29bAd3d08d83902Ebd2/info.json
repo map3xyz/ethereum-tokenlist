@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a4282b8fFBae5De5AB6E29bAd3d08d83902Ebd2",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "91e1f9c9-b1a7-40dc-979c-523d67f24e7f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3a4282b8fFBae5De5AB6E29bAd3d08d83902Ebd2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3a4282b8fFBae5De5AB6E29bAd3d08d83902Ebd2/logo.png"
+    }
+  },
+  "name": "SPONT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPONT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

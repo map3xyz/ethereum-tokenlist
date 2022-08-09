@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5a7f01c-0c7f-40f4-94a9-a638c8a77d7e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19/logo.png"
+    }
+  },
+  "name": "Five Color Stone",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

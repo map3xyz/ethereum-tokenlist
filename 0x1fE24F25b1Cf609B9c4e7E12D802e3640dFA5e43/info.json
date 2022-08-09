@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbdd360b-cc91-4749-b969-392b216f3978",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43/logo.png"
+    }
+  },
+  "name": "ChainGuardians Governance Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

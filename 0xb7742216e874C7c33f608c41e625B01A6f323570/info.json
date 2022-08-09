@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb7742216e874C7c33f608c41e625B01A6f323570",
+  "color": null,
+  "decimals": 1,
+  "description": null,
+  "id": "2e8e810e-231b-465a-82d8-6f64bffb0532",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb7742216e874C7c33f608c41e625B01A6f323570/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb7742216e874C7c33f608c41e625B01A6f323570/logo.png"
+    }
+  },
+  "name": "Atomic Ethereum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

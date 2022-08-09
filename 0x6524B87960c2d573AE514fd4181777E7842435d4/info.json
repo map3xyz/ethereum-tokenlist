@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6524B87960c2d573AE514fd4181777E7842435d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65221b3c-f4f1-42d0-9ccd-e4b686bc1019",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6524B87960c2d573AE514fd4181777E7842435d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6524B87960c2d573AE514fd4181777E7842435d4/logo.png"
+    }
+  },
+  "name": "Benzene 2.1",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

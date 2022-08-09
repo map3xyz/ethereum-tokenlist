@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x27310BfBE3481a295b8bD9092477C446A56C706c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20f63546-7528-46ef-8374-5859ad6f7367",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27310BfBE3481a295b8bD9092477C446A56C706c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x27310BfBE3481a295b8bD9092477C446A56C706c/logo.png"
+    }
+  },
+  "name": "BIXC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BIXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

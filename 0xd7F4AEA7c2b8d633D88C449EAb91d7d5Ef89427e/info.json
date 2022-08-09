@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd7F4AEA7c2b8d633D88C449EAb91d7d5Ef89427e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3d6e4261-ebbc-440f-b20e-80c812872341",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7F4AEA7c2b8d633D88C449EAb91d7d5Ef89427e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd7F4AEA7c2b8d633D88C449EAb91d7d5Ef89427e/logo.png"
+    }
+  },
+  "name": "EDAX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fba25266-92bf-4e9c-a31e-88186bee116f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9AF839687F6C94542ac5ece2e317dAAE355493A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9AF839687F6C94542ac5ece2e317dAAE355493A1/logo.png"
+    }
+  },
+  "name": "Hydro Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

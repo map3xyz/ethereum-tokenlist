@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3afc003f-28a1-4d2a-a64a-e45c0dbeaae8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab/logo.png"
+    }
+  },
+  "name": "DeepCloud",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

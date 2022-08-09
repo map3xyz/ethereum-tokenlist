@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA1c8031EF18272d8BfeD22E1b61319D6d9d2881B",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f64385a0-f4f1-4eb9-8d48-c204e76e3a02",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA1c8031EF18272d8BfeD22E1b61319D6d9d2881B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA1c8031EF18272d8BfeD22E1b61319D6d9d2881B/logo.png"
+    }
+  },
+  "name": "PlanetCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

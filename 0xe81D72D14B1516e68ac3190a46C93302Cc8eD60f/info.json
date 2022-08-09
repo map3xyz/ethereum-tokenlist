@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe81D72D14B1516e68ac3190a46C93302Cc8eD60f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e4a22e5-427e-4bed-b1eb-05a42c1e0857",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe81D72D14B1516e68ac3190a46C93302Cc8eD60f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe81D72D14B1516e68ac3190a46C93302Cc8eD60f/logo.png"
+    }
+  },
+  "name": "Coinlancer",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

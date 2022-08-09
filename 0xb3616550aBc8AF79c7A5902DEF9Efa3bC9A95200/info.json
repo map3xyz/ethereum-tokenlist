@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb3616550aBc8AF79c7A5902DEF9Efa3bC9A95200",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9710505d-9fa7-4c04-a551-fb26597f3135",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb3616550aBc8AF79c7A5902DEF9Efa3bC9A95200/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb3616550aBc8AF79c7A5902DEF9Efa3bC9A95200/logo.png"
+    }
+  },
+  "name": "Telex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

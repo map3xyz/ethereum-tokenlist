@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56bebe22-f4c4-4b2c-8619-e6c8e838c97a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png"
+    }
+  },
+  "name": "NAOS Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

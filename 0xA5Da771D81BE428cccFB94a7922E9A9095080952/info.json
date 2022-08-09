@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA5Da771D81BE428cccFB94a7922E9A9095080952",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "3b002f95-b892-4028-9b6d-0942fd83a304",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA5Da771D81BE428cccFB94a7922E9A9095080952/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA5Da771D81BE428cccFB94a7922E9A9095080952/logo.png"
+    }
+  },
+  "name": "Satanic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Sat",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

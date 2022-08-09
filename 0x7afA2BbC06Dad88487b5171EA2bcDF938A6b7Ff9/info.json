@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac627f8d-d2e2-43aa-953f-e6886e5793da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9/logo.png"
+    }
+  },
+  "name": "TramsToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRAMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

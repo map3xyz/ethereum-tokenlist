@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFEF3884b603C33EF8eD4183346E093A173C94da6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d36873b-2c70-40e6-9438-11b99e34e6de",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFEF3884b603C33EF8eD4183346E093A173C94da6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFEF3884b603C33EF8eD4183346E093A173C94da6/logo.png"
+    }
+  },
+  "name": "MetaMorph",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "METM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

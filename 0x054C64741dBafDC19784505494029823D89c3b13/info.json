@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x054C64741dBafDC19784505494029823D89c3b13",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4212eae7-cf78-4b3e-a615-1727a7e02d1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x054C64741dBafDC19784505494029823D89c3b13/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x054C64741dBafDC19784505494029823D89c3b13/logo.png"
+    }
+  },
+  "name": "ETERNAL TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

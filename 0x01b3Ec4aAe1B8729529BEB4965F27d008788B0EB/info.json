@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7fb71fd-9a8a-411b-a980-1da7bff83600",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB/logo.png"
+    }
+  },
+  "name": "DA Power Play Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

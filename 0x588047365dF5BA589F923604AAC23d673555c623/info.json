@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x588047365dF5BA589F923604AAC23d673555c623",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4977039-1662-4a46-86b5-81673464d2c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x588047365dF5BA589F923604AAC23d673555c623/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x588047365dF5BA589F923604AAC23d673555c623/logo.png"
+    }
+  },
+  "name": "NaviToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NAVI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

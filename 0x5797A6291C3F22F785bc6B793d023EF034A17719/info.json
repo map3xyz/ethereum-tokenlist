@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5797A6291C3F22F785bc6B793d023EF034A17719",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0212b69e-fd25-44d0-bc51-a34461ee19cc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5797A6291C3F22F785bc6B793d023EF034A17719/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5797A6291C3F22F785bc6B793d023EF034A17719/logo.png"
+    }
+  },
+  "name": "Cryptune",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7279ae2c-e859-4d71-a8d4-6bd4a433b1cd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8/logo.png"
+    }
+  },
+  "name": "SymVerse",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SYM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

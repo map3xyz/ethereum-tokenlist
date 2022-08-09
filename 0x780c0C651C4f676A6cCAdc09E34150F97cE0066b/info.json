@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x780c0C651C4f676A6cCAdc09E34150F97cE0066b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ad24613b-62b0-4ce6-8f32-6ad4b9b09343",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x780c0C651C4f676A6cCAdc09E34150F97cE0066b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x780c0C651C4f676A6cCAdc09E34150F97cE0066b/logo.png"
+    }
+  },
+  "name": "SafeStart Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

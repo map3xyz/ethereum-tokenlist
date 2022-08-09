@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c7e7e9e2-d028-492f-94ff-1b1234acab06",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50/logo.png"
+    }
+  },
+  "name": "BTC LITE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

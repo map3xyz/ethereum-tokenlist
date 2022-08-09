@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x310DA5e1E61cD9d6ECed092F085941089267E71E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "05c6dffb-c308-470f-aaa6-b421dee4af4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x310DA5e1E61cD9d6ECed092F085941089267E71E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x310DA5e1E61cD9d6ECed092F085941089267E71E/logo.png"
+    }
+  },
+  "name": "Money Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

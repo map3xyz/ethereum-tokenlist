@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85d684f4-feb4-4085-97d7-4c18fe25a24d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbdEB4b83251Fb146687fa19D1C660F99411eefe3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdEB4b83251Fb146687fa19D1C660F99411eefe3/logo.png"
+    }
+  },
+  "name": "savedroid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SVD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

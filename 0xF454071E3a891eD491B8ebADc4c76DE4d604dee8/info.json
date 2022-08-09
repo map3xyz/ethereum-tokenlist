@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF454071E3a891eD491B8ebADc4c76DE4d604dee8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9f4e5b90-6b45-4ac7-b930-6d0344512043",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF454071E3a891eD491B8ebADc4c76DE4d604dee8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF454071E3a891eD491B8ebADc4c76DE4d604dee8/logo.png"
+    }
+  },
+  "name": "Multicoin - All in One Cryptocurrency",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E2224Bae4036f85FBC2293E05cBC66D3ac23f1c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04bdf773-de65-4cbe-b8a1-30e524e8cf65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E2224Bae4036f85FBC2293E05cBC66D3ac23f1c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E2224Bae4036f85FBC2293E05cBC66D3ac23f1c/logo.png"
+    }
+  },
+  "name": "Flingo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLNGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

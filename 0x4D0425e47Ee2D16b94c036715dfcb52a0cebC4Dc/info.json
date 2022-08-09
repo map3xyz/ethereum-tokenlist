@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4D0425e47Ee2D16b94c036715dfcb52a0cebC4Dc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8c0b6b48-9ee1-4018-9706-0df5ba6d37c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4D0425e47Ee2D16b94c036715dfcb52a0cebC4Dc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4D0425e47Ee2D16b94c036715dfcb52a0cebC4Dc/logo.png"
+    }
+  },
+  "name": "TAGZ5",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TAGZ5",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

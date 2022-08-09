@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7f4decf5-e7e3-4d5f-b7df-5905b0f83118",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722/logo.png"
+    }
+  },
+  "name": "Zebi Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

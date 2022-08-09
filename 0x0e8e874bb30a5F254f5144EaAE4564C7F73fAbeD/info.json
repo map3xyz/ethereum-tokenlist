@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0e8e874bb30a5F254f5144EaAE4564C7F73fAbeD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c6b2fd2-af76-487b-9c88-e132d4befe1a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0e8e874bb30a5F254f5144EaAE4564C7F73fAbeD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0e8e874bb30a5F254f5144EaAE4564C7F73fAbeD/logo.png"
+    }
+  },
+  "name": "onLEXpa",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "onLEXpa.com",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

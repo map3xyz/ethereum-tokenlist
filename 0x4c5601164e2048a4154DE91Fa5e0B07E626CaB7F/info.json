@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4c5601164e2048a4154DE91Fa5e0B07E626CaB7F",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "6dbedf9c-dcb9-4330-9f54-1f8b0d5c6e26",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4c5601164e2048a4154DE91Fa5e0B07E626CaB7F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4c5601164e2048a4154DE91Fa5e0B07E626CaB7F/logo.png"
+    }
+  },
+  "name": "Funnel",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

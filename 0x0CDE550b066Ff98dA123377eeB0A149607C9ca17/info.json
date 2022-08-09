@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0CDE550b066Ff98dA123377eeB0A149607C9ca17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d23f901-e1b7-414d-b41f-9bf322e810a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0CDE550b066Ff98dA123377eeB0A149607C9ca17/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0CDE550b066Ff98dA123377eeB0A149607C9ca17/logo.png"
+    }
+  },
+  "name": "EUR36",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUR36",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

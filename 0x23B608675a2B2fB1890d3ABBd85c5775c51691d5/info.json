@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3cc94f2-b482-4db2-a75f-67664da73225",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5/logo.png"
+    }
+  },
+  "name": "Unisocks Edition 0",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SOCKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

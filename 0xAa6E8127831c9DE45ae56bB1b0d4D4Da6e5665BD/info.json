@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a57a25d-6af1-4370-9627-799bec58e958",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD/logo.png"
+    }
+  },
+  "name": "ETH 2x Flexible Leverage Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETH2x-FLI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5B4E0B60f6F3725628d831057C8A624422B2E9aF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8d0a883-b74a-48f1-9ab3-109f92b336e3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5B4E0B60f6F3725628d831057C8A624422B2E9aF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5B4E0B60f6F3725628d831057C8A624422B2E9aF/logo.png"
+    }
+  },
+  "name": "Health Data Chain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HDCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

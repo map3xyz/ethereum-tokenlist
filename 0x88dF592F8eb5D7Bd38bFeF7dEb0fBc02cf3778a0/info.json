@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebe08bd5-6a34-4972-aa55-635c5a9d5a0d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png"
+    }
+  },
+  "name": "Tellor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TRB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

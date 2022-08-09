@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbdBF67D9bcb35e2bb7e4951002c6D70013196972",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8474570-e931-4e77-84d2-e2452d97cd91",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbdBF67D9bcb35e2bb7e4951002c6D70013196972/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdBF67D9bcb35e2bb7e4951002c6D70013196972/logo.png"
+    }
+  },
+  "name": "Scott Stevenson Legal Engineering",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SSLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

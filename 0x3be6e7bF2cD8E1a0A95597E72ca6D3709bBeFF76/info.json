@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3516315-cb23-4037-8486-b1fc27509ade",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76/logo.png"
+    }
+  },
+  "name": "DMTC Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DMTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

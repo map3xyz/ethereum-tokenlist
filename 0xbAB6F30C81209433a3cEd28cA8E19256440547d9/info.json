@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbAB6F30C81209433a3cEd28cA8E19256440547d9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "99e7f19a-dbe9-4469-9d98-2336f2ab9a46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbAB6F30C81209433a3cEd28cA8E19256440547d9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbAB6F30C81209433a3cEd28cA8E19256440547d9/logo.png"
+    }
+  },
+  "name": "Yu Gi Oh",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1829aA045E21E0D59580024A951DB48096e01782",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bce57d08-9dd6-4839-910c-6729bb16b202",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1829aA045E21E0D59580024A951DB48096e01782/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1829aA045E21E0D59580024A951DB48096e01782/logo.png"
+    }
+  },
+  "name": "FuzeX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

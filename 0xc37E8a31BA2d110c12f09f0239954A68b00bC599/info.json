@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc37E8a31BA2d110c12f09f0239954A68b00bC599",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "03c9b709-7e3b-4ed9-9ed2-e9dadd227e79",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc37E8a31BA2d110c12f09f0239954A68b00bC599/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc37E8a31BA2d110c12f09f0239954A68b00bC599/logo.png"
+    }
+  },
+  "name": "EUB Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

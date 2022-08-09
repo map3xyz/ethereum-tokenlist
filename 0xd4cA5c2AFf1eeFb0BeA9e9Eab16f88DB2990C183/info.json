@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0e960e0a-8acb-42db-bb33-49e5e9bae2f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183/logo.png"
+    }
+  },
+  "name": "XRP CLASSIC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

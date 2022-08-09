@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x829FC6B9CCEC9FBd5534E40B2181556C2a791896",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "0d813516-805e-4198-92fa-2811f3ab06d6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x829FC6B9CCEC9FBd5534E40B2181556C2a791896/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x829FC6B9CCEC9FBd5534E40B2181556C2a791896/logo.png"
+    }
+  },
+  "name": "GEO Rewards",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GEO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

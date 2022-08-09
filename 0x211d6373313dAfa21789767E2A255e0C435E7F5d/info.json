@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "f820c879-6c3a-405b-bd8d-d0115245f52d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x211d6373313dAfa21789767E2A255e0C435E7F5d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x211d6373313dAfa21789767E2A255e0C435E7F5d/logo.png"
+    }
+  },
+  "name": "USDI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

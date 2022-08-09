@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE1Aee98495365fc179699C1bB3E761FA716beE62",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ef4c6ae-25f9-4b86-907e-ea61a03a2ce9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE1Aee98495365fc179699C1bB3E761FA716beE62/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE1Aee98495365fc179699C1bB3E761FA716beE62/logo.png"
+    }
+  },
+  "name": "BezantToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BZNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

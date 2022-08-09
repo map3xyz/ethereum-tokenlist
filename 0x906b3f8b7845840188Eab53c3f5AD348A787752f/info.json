@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x906b3f8b7845840188Eab53c3f5AD348A787752f",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "499e1ed1-834e-4e98-8d61-f5a991a53936",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x906b3f8b7845840188Eab53c3f5AD348A787752f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x906b3f8b7845840188Eab53c3f5AD348A787752f/logo.png"
+    }
+  },
+  "name": "DoradoToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

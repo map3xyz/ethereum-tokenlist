@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4156D3342D5c385a87D264F90653733592000581",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "370c945b-5896-4f1e-aa7c-b3ec765808c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4156D3342D5c385a87D264F90653733592000581/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4156D3342D5c385a87D264F90653733592000581/logo.png"
+    }
+  },
+  "name": "Salt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SALT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

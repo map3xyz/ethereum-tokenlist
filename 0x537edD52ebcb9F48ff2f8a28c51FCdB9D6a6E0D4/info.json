@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c75e8c6f-c9fc-4171-907f-8a765711929b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4/logo.png"
+    }
+  },
+  "name": "SDOG",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

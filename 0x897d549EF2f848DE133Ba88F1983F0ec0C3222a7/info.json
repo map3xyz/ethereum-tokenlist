@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x897d549EF2f848DE133Ba88F1983F0ec0C3222a7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "448a5c63-98fe-4368-8aa6-7b0323a9a2ed",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x897d549EF2f848DE133Ba88F1983F0ec0C3222a7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x897d549EF2f848DE133Ba88F1983F0ec0C3222a7/logo.png"
+    }
+  },
+  "name": "FFKDemoCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FFKD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

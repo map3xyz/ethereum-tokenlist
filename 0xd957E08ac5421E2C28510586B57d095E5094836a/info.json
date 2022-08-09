@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd957E08ac5421E2C28510586B57d095E5094836a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77d8bda2-ff01-4c50-a7e0-04fbe9a6bfca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd957E08ac5421E2C28510586B57d095E5094836a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd957E08ac5421E2C28510586B57d095E5094836a/logo.png"
+    }
+  },
+  "name": "VorteX Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

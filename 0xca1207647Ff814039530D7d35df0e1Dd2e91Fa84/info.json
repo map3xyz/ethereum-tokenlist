@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73bf6e3c-9f71-43f9-b8c2-de19e32fd6ac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84/logo.png"
+    }
+  },
+  "name": "dHEDGE DAO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [
+    "governance",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

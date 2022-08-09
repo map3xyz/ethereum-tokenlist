@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b0b8749-4e39-4d09-a3cd-65a15c556e54",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6/logo.png"
+    }
+  },
+  "name": "StargateToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

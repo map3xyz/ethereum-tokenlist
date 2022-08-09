@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x241C248B0Db328e25921a91D04F43c985dedbd07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9092f5b7-a1bf-4939-ab4c-e35c0183e193",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x241C248B0Db328e25921a91D04F43c985dedbd07/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x241C248B0Db328e25921a91D04F43c985dedbd07/logo.png"
+    }
+  },
+  "name": "MXT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

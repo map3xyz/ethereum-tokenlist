@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e9b92fe-55c0-4507-88b0-0efb92ca092f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2/logo.png"
+    }
+  },
+  "name": "SAINT FAME: Genesis Shirt",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

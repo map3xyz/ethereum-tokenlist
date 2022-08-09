@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43ebc0b8-f7fd-4d70-94a7-7e8dd29f8c5c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png"
+    }
+  },
+  "name": "wCUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

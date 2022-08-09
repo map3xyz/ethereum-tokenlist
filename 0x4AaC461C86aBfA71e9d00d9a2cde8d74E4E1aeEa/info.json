@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df23bfb9-2563-4785-b147-a58f52fd390d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa/logo.png"
+    }
+  },
+  "name": "ZINC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZINC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

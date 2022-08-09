@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe05D803fa0c5832Fa2262465290abB25d6C2bFA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2005e3fc-896d-4b4a-836f-a7afec9b6f76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe05D803fa0c5832Fa2262465290abB25d6C2bFA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe05D803fa0c5832Fa2262465290abB25d6C2bFA3/logo.png"
+    }
+  },
+  "name": "Synth sXAU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sXAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

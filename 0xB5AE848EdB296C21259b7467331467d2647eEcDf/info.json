@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB5AE848EdB296C21259b7467331467d2647eEcDf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "faf0a125-4e98-4262-89ff-0cb2e22353b7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB5AE848EdB296C21259b7467331467d2647eEcDf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB5AE848EdB296C21259b7467331467d2647eEcDf/logo.png"
+    }
+  },
+  "name": "Lemo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LEMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

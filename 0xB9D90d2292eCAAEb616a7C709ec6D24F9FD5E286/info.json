@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9D90d2292eCAAEb616a7C709ec6D24F9FD5E286",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "117bf41f-ad44-4bb4-b06d-253517f21a5f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9D90d2292eCAAEb616a7C709ec6D24F9FD5E286/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9D90d2292eCAAEb616a7C709ec6D24F9FD5E286/logo.png"
+    }
+  },
+  "name": "Fulcrum Perpetual Long ZRX-DAI 4x v2",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "dLZRX4x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

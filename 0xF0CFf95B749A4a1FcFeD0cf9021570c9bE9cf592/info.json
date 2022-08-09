@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF0CFf95B749A4a1FcFeD0cf9021570c9bE9cf592",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41f64765-f7e8-41bd-9dcb-a3d2d3fc1e10",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF0CFf95B749A4a1FcFeD0cf9021570c9bE9cf592/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF0CFf95B749A4a1FcFeD0cf9021570c9bE9cf592/logo.png"
+    }
+  },
+  "name": "MerchentPay",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

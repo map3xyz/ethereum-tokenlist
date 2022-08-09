@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14e9efd6-ff7b-4a21-bb82-0af7a43c6bb3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png"
+    }
+  },
+  "name": "WZEC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WZEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

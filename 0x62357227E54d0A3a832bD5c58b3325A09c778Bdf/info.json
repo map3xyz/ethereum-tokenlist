@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x62357227E54d0A3a832bD5c58b3325A09c778Bdf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "822bfe41-7cab-417b-9e7a-c6691fd7f5e2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62357227E54d0A3a832bD5c58b3325A09c778Bdf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x62357227E54d0A3a832bD5c58b3325A09c778Bdf/logo.png"
+    }
+  },
+  "name": "ETH_2X TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "E2X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

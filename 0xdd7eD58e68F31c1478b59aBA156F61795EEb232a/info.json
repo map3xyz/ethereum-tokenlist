@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdd7eD58e68F31c1478b59aBA156F61795EEb232a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "89e07868-087e-4b0e-8df0-4e679df04ff7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd7eD58e68F31c1478b59aBA156F61795EEb232a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdd7eD58e68F31c1478b59aBA156F61795EEb232a/logo.png"
+    }
+  },
+  "name": "Radincacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

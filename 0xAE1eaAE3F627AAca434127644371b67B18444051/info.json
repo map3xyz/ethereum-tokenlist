@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7e20bb2b-8b78-4c87-8df8-4714991d15e0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xAE1eaAE3F627AAca434127644371b67B18444051/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xAE1eaAE3F627AAca434127644371b67B18444051/logo.png"
+    }
+  },
+  "name": "YOP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

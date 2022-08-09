@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "392d3e42-d465-4d46-bb04-a23e6f6651b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d/logo.png"
+    }
+  },
+  "name": "GoldenPyrex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GPYX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

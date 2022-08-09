@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b45da84f-344b-44be-8fb3-8451f74e6117",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A/logo.png"
+    }
+  },
+  "name": "Better Money",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BETTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

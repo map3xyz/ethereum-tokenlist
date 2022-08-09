@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ac46942-ffc8-49c2-b728-d2605491370a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd/logo.png"
+    }
+  },
+  "name": "REDBOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RBOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC002141f62961AfA759F7b22aaeb151bf80a3d8D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0f423a6a-1bb2-41d4-8f5a-a83f7e3d1613",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC002141f62961AfA759F7b22aaeb151bf80a3d8D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC002141f62961AfA759F7b22aaeb151bf80a3d8D/logo.png"
+    }
+  },
+  "name": "Bexpress",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

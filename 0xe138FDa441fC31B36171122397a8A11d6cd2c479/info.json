@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9b34b9c8-c52d-45a5-8c43-34bdb1e4b440",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe138FDa441fC31B36171122397a8A11d6cd2c479/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe138FDa441fC31B36171122397a8A11d6cd2c479/logo.png"
+    }
+  },
+  "name": "GTIB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

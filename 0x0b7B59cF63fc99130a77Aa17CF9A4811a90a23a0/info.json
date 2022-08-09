@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0b7B59cF63fc99130a77Aa17CF9A4811a90a23a0",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3a6e2eb8-ca75-427e-bc31-e262d440a2ca",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0b7B59cF63fc99130a77Aa17CF9A4811a90a23a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b7B59cF63fc99130a77Aa17CF9A4811a90a23a0/logo.png"
+    }
+  },
+  "name": "Grenade Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GREN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

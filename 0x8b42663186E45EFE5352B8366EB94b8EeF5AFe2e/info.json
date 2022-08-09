@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8b42663186E45EFE5352B8366EB94b8EeF5AFe2e",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "1a53bcac-8fb7-4ac4-a72d-6b8179af0b97",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8b42663186E45EFE5352B8366EB94b8EeF5AFe2e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8b42663186E45EFE5352B8366EB94b8EeF5AFe2e/logo.png"
+    }
+  },
+  "name": "Distribute Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DIST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

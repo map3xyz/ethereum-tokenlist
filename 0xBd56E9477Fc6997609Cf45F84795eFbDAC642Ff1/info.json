@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBd56E9477Fc6997609Cf45F84795eFbDAC642Ff1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c5c0366-9e45-471c-a847-6a3130014a0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBd56E9477Fc6997609Cf45F84795eFbDAC642Ff1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBd56E9477Fc6997609Cf45F84795eFbDAC642Ff1/logo.png"
+    }
+  },
+  "name": "bZx REP iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iREP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

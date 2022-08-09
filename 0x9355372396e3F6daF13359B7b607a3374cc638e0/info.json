@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "522b9a5d-cdb9-4bdc-add6-971c851886c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9355372396e3F6daF13359B7b607a3374cc638e0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9355372396e3F6daF13359B7b607a3374cc638e0/logo.png"
+    }
+  },
+  "name": "WHALE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WHALE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

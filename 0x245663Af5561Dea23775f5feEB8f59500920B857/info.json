@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x245663Af5561Dea23775f5feEB8f59500920B857",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0786cf9f-bdea-4ec2-9bc2-584077443d87",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x245663Af5561Dea23775f5feEB8f59500920B857/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245663Af5561Dea23775f5feEB8f59500920B857/logo.png"
+    }
+  },
+  "name": "BCShareS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

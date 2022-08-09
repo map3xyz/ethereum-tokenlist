@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6F8591c960f41591097E9199E61441beA28D776A",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "6fc398f6-0980-42dd-be11-b08042ee9835",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6F8591c960f41591097E9199E61441beA28D776A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6F8591c960f41591097E9199E61441beA28D776A/logo.png"
+    }
+  },
+  "name": "Eco Care Organic Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

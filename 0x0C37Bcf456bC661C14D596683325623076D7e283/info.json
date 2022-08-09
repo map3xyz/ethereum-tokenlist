@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13194565-6bd9-4f91-b12a-936f0fb2f781",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png"
+    }
+  },
+  "name": "Aeron",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

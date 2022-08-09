@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9d3588b-583c-4ffa-81c5-fbdc99b8e5dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A/logo.png"
+    }
+  },
+  "name": "RaiseEntertainmentToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

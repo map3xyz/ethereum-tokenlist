@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "17d00eba-9fa1-4f8f-9be9-6644dc65aabb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c/logo.png"
+    }
+  },
+  "name": "e-Money EUR stablecoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EEUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

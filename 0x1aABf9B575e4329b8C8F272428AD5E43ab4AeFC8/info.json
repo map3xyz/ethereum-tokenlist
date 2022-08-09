@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1aABf9B575e4329b8C8F272428AD5E43ab4AeFC8",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6313a779-4286-4765-adb3-8e88fb7ca6c3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1aABf9B575e4329b8C8F272428AD5E43ab4AeFC8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aABf9B575e4329b8C8F272428AD5E43ab4AeFC8/logo.png"
+    }
+  },
+  "name": "Bugg Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

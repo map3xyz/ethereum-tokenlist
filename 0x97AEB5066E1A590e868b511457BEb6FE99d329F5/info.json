@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "01be5dfe-40ca-4b64-b766-4f9ee38818a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x97AEB5066E1A590e868b511457BEb6FE99d329F5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x97AEB5066E1A590e868b511457BEb6FE99d329F5/logo.png"
+    }
+  },
+  "name": "Atonomi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

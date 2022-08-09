@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "887ba1ef-0285-4ca8-b369-586b9bc7b043",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5/logo.png"
+    }
+  },
+  "name": "Yearn Finance Passive Income",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YFPI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

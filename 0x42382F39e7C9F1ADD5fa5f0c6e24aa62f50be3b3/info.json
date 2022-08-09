@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54ccb92a-947b-4858-9327-526dba07e13f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3/logo.png"
+    }
+  },
+  "name": "ZOM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ZOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

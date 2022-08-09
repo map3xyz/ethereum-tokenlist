@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09a9122e02d7b9871eAA15a0C168DA624132D3EF",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9628615f-f672-4a6c-aca4-289b7e787731",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09a9122e02d7b9871eAA15a0C168DA624132D3EF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x09a9122e02d7b9871eAA15a0C168DA624132D3EF/logo.png"
+    }
+  },
+  "name": "BUSINESS TICKER COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BSTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC78593C17482EA5de44Fdd84896fFd903972878E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "5f39d528-02d8-4038-99ed-31d89bdb7919",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC78593C17482EA5de44Fdd84896fFd903972878E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC78593C17482EA5de44Fdd84896fFd903972878E/logo.png"
+    }
+  },
+  "name": "EtherBB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05DAa40dD9E808032d7733d6AA048959dfd486ed",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4a825a1-f8e1-49c6-8d53-7a6f41e7b230",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05DAa40dD9E808032d7733d6AA048959dfd486ed/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x05DAa40dD9E808032d7733d6AA048959dfd486ed/logo.png"
+    }
+  },
+  "name": "Fluent Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

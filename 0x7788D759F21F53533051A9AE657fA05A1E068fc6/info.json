@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7788D759F21F53533051A9AE657fA05A1E068fc6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff58234e-e0fc-4bd7-a0ec-60cffe9ac0b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7788D759F21F53533051A9AE657fA05A1E068fc6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7788D759F21F53533051A9AE657fA05A1E068fc6/logo.png"
+    }
+  },
+  "name": "Fleta Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLETA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

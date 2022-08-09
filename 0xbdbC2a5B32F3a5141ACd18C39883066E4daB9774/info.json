@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "173ad744-e30d-4db2-a8ac-21d9ce6691a1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774/logo.png"
+    }
+  },
+  "name": "Emirex Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

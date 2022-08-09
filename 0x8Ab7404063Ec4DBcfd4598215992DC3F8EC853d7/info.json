@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23ed53de-4a6b-4f8e-b72d-c49c5167686a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7/logo.png"
+    }
+  },
+  "name": "Akropolis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AKRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

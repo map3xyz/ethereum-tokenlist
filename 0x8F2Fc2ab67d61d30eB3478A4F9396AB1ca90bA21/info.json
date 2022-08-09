@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "95a2ad2e-21c4-49a5-9997-6b604b76221d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21/logo.png"
+    }
+  },
+  "name": "Global Healthcare Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XHQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

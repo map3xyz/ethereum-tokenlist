@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c0e664f-f898-4976-93d7-99cfdcb92277",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF/logo.png"
+    }
+  },
+  "name": "Soniq Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SONIQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

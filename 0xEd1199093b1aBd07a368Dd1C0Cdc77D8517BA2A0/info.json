@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEd1199093b1aBd07a368Dd1C0Cdc77D8517BA2A0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1f37ffa-314f-454d-b7fb-158f0c119e49",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd1199093b1aBd07a368Dd1C0Cdc77D8517BA2A0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEd1199093b1aBd07a368Dd1C0Cdc77D8517BA2A0/logo.png"
+    }
+  },
+  "name": "HEX2T",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HEX2T",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

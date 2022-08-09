@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFB19C03a02a519a44542343803F3D42578CBc243",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fdc0ea78-2c96-4004-b6d6-0554d9237bf6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFB19C03a02a519a44542343803F3D42578CBc243/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFB19C03a02a519a44542343803F3D42578CBc243/logo.png"
+    }
+  },
+  "name": "CR Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

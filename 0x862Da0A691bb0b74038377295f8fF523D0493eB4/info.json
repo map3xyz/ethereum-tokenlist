@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x862Da0A691bb0b74038377295f8fF523D0493eB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37b558cb-d004-4c56-8da9-db7f11847b04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x862Da0A691bb0b74038377295f8fF523D0493eB4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x862Da0A691bb0b74038377295f8fF523D0493eB4/logo.png"
+    }
+  },
+  "name": "MINDOL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

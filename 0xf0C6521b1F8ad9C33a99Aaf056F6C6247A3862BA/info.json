@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d2532fc-ec9a-400e-ab7f-de9888422a17",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA/logo.png"
+    }
+  },
+  "name": "ETH.limiteD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ELD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

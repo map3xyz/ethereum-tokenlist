@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5651D6678bcf70740487cAd0003918d98ab2898B",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0e9ea297-b359-43d8-ae73-ec97b5f95a04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5651D6678bcf70740487cAd0003918d98ab2898B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5651D6678bcf70740487cAd0003918d98ab2898B/logo.png"
+    }
+  },
+  "name": "Expect Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfE94c504D07aDBa98b23AA7C765D35357Bd185a3",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "75460bb7-0232-4c91-9c41-9ef454814f37",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfE94c504D07aDBa98b23AA7C765D35357Bd185a3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfE94c504D07aDBa98b23AA7C765D35357Bd185a3/logo.png"
+    }
+  },
+  "name": "FLGCToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

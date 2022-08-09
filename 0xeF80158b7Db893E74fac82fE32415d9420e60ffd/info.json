@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeF80158b7Db893E74fac82fE32415d9420e60ffd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6908a45f-2150-4d3b-a863-b090e9c4e749",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeF80158b7Db893E74fac82fE32415d9420e60ffd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeF80158b7Db893E74fac82fE32415d9420e60ffd/logo.png"
+    }
+  },
+  "name": "BananaFundCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

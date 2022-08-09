@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCcB4622CdCe3b25F9230f496B8aea6b68Cb50535",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "e1238ec4-d0ce-4b2c-aa9a-27e2ee3f256d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCcB4622CdCe3b25F9230f496B8aea6b68Cb50535/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCcB4622CdCe3b25F9230f496B8aea6b68Cb50535/logo.png"
+    }
+  },
+  "name": "SIM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

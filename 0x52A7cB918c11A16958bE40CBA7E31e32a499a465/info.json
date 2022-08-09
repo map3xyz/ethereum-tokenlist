@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52A7cB918c11A16958bE40CBA7E31e32a499a465",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ade843e-9e46-4037-bc7d-dea25c2dc9ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52A7cB918c11A16958bE40CBA7E31e32a499a465/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52A7cB918c11A16958bE40CBA7E31e32a499a465/logo.png"
+    }
+  },
+  "name": "fidentiaX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "fdX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

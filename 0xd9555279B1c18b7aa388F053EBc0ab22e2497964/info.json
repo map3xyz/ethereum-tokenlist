@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9555279B1c18b7aa388F053EBc0ab22e2497964",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "24b13c28-c9c5-435c-b999-fd4b61d9f3fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9555279B1c18b7aa388F053EBc0ab22e2497964/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9555279B1c18b7aa388F053EBc0ab22e2497964/logo.png"
+    }
+  },
+  "name": "Reactioon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

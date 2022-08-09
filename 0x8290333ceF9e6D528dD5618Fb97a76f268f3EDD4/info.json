@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d183972-83fb-4f0e-a3b5-48aa649ddd76",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
+    }
+  },
+  "name": "Ankr",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANKR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

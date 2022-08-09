@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x75739d5944534115d7C54ee8C73F186D793BAE02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d551b12b-dece-44e3-baff-d908bf8a2c4e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x75739d5944534115d7C54ee8C73F186D793BAE02/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x75739d5944534115d7C54ee8C73F186D793BAE02/logo.png"
+    }
+  },
+  "name": "Collective",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CO2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

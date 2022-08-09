@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86081d79-1301-4378-a765-99ea3a0c7086",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c/logo.png"
+    }
+  },
+  "name": "Nestree",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

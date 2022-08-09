@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2da155b6-0b9c-4722-8627-3e65a7f6943d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d/logo.png"
+    }
+  },
+  "name": "CPH MQA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CMQA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

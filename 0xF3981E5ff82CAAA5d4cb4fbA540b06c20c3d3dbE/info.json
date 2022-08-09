@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9070bb94-4c7b-449f-831d-8e483ca281a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE/logo.png"
+    }
+  },
+  "name": "Meritum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

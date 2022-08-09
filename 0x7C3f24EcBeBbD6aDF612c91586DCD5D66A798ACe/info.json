@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7C3f24EcBeBbD6aDF612c91586DCD5D66A798ACe",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "eb63504b-56cc-4df8-9ed2-014bc66ba449",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7C3f24EcBeBbD6aDF612c91586DCD5D66A798ACe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7C3f24EcBeBbD6aDF612c91586DCD5D66A798ACe/logo.png"
+    }
+  },
+  "name": "Spexs Note 7",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPXN7",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

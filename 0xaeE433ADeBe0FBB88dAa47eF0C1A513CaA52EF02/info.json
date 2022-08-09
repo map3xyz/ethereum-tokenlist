@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aede8f0c-bacd-485c-8e33-0617d1efb8b5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png"
+    }
+  },
+  "name": "PontoonToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

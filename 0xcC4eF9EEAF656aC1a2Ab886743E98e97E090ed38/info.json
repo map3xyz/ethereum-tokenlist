@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ccecf57-4ed3-4b8a-b510-6ca3465e4a39",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38/logo.png"
+    }
+  },
+  "name": "Digital Developers Fund Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

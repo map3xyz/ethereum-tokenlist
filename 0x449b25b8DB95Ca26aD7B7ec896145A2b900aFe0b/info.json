@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x449b25b8DB95Ca26aD7B7ec896145A2b900aFe0b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "dc701264-51c9-4ffd-bc67-00fe5d08cc88",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x449b25b8DB95Ca26aD7B7ec896145A2b900aFe0b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x449b25b8DB95Ca26aD7B7ec896145A2b900aFe0b/logo.png"
+    }
+  },
+  "name": "Sarun Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

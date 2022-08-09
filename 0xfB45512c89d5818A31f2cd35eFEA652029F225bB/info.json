@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfB45512c89d5818A31f2cd35eFEA652029F225bB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e14a2b76-8e14-4939-a879-ab48ef1547d4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfB45512c89d5818A31f2cd35eFEA652029F225bB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfB45512c89d5818A31f2cd35eFEA652029F225bB/logo.png"
+    }
+  },
+  "name": "Financebull",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

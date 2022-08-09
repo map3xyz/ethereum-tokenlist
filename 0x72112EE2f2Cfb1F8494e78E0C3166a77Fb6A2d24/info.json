@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2fa76e81-c3b8-4644-9af7-01c261584fde",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24/logo.png"
+    }
+  },
+  "name": "Galaxy Diamond",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

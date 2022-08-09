@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "95ee3aee-7358-43c8-af61-2d978d1db48f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf/logo.png"
+    }
+  },
+  "name": "SIMBCOIN SWAP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMB SWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

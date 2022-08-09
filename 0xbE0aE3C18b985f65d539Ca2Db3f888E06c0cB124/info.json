@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c87dfd49-c89f-454b-b48a-e925aeedd05b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124/logo.png"
+    }
+  },
+  "name": "Kaleido",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

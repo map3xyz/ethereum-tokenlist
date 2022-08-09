@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25859743ED0861665611B81E47682e889b48313B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ca9e1856-4877-41cf-8bf6-aa14e9861e71",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25859743ED0861665611B81E47682e889b48313B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25859743ED0861665611B81E47682e889b48313B/logo.png"
+    }
+  },
+  "name": "Yumi",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YUMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

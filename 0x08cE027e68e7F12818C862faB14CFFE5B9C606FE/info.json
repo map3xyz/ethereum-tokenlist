@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x08cE027e68e7F12818C862faB14CFFE5B9C606FE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "294dc5a0-8e9e-42b3-b2b4-d2131806bfd5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08cE027e68e7F12818C862faB14CFFE5B9C606FE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x08cE027e68e7F12818C862faB14CFFE5B9C606FE/logo.png"
+    }
+  },
+  "name": "WrapORME",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eORME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

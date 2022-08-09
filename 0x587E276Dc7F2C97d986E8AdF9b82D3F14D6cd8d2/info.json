@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x587E276Dc7F2C97d986E8AdF9b82D3F14D6cd8d2",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "90d29103-d779-4dbd-8716-943ace001864",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x587E276Dc7F2C97d986E8AdF9b82D3F14D6cd8d2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x587E276Dc7F2C97d986E8AdF9b82D3F14D6cd8d2/logo.png"
+    }
+  },
+  "name": "Fysical",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

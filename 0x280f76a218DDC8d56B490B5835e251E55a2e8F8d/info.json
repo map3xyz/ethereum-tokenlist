@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x280f76a218DDC8d56B490B5835e251E55a2e8F8d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1831bf4a-4dbe-44e3-8684-fb0f6fa4e460",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x280f76a218DDC8d56B490B5835e251E55a2e8F8d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x280f76a218DDC8d56B490B5835e251E55a2e8F8d/logo.png"
+    }
+  },
+  "name": "Strike UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sUNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

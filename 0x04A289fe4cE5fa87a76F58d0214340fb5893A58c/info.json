@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6381228-5857-4154-a25d-31765e67c00c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04A289fe4cE5fa87a76F58d0214340fb5893A58c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x04A289fe4cE5fa87a76F58d0214340fb5893A58c/logo.png"
+    }
+  },
+  "name": "RealBlock.io",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

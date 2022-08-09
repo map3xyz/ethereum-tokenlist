@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1479c142-fb88-402f-b177-5e4cccd4ca1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3/logo.png"
+    }
+  },
+  "name": "Fractal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

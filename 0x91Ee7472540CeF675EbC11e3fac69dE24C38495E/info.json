@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91Ee7472540CeF675EbC11e3fac69dE24C38495E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ebefe92-bad4-435d-9127-fd3bd4c55f4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91Ee7472540CeF675EbC11e3fac69dE24C38495E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91Ee7472540CeF675EbC11e3fac69dE24C38495E/logo.png"
+    }
+  },
+  "name": "XAVIA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

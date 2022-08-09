@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0B2623a0e1dE4C3640A25bDE55a138FC40158195",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "910cde91-7952-4b7a-af2e-d8b0e78bb4f8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0B2623a0e1dE4C3640A25bDE55a138FC40158195/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0B2623a0e1dE4C3640A25bDE55a138FC40158195/logo.png"
+    }
+  },
+  "name": "Bearhugs",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TREATS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

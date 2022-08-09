@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1712Aad2C773ee04bdC9114b32163c058321CD85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c9a90f37-d437-45d7-b1cf-21424203ab30",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1712Aad2C773ee04bdC9114b32163c058321CD85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1712Aad2C773ee04bdC9114b32163c058321CD85/logo.png"
+    }
+  },
+  "name": "LimitSwap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIMIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

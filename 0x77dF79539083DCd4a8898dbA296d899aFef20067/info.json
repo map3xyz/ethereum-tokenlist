@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x77dF79539083DCd4a8898dbA296d899aFef20067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f985d568-8121-44ae-9a31-29bf1a7820a6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77dF79539083DCd4a8898dbA296d899aFef20067/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77dF79539083DCd4a8898dbA296d899aFef20067/logo.png"
+    }
+  },
+  "name": "ArtemProtocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ARTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

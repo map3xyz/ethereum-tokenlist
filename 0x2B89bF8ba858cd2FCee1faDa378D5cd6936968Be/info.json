@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b626357e-daaf-45cf-8a9b-e9e0c9ff9b84",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be/logo.png"
+    }
+  },
+  "name": "WSCRT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WSCRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

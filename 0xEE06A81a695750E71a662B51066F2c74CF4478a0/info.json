@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac6f8541-de8a-4aae-87cf-32ab18dde491",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEE06A81a695750E71a662B51066F2c74CF4478a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEE06A81a695750E71a662B51066F2c74CF4478a0/logo.png"
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "$DG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

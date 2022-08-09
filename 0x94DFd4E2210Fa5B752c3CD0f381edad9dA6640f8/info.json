@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "feb4690e-780a-4b97-a96c-6e5b15e5b448",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8/logo.png"
+    }
+  },
+  "name": "Sphynx ETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPHYNX",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be27e5e3-35e3-4a5c-92b2-8b1e85b322f2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1966d718A565566e8E202792658D7b5Ff4ECe469/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1966d718A565566e8E202792658D7b5Ff4ECe469/logo.png"
+    }
+  },
+  "name": "nDEX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

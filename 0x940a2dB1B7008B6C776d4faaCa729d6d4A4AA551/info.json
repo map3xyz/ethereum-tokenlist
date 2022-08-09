@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8096c46-9ef0-476f-b091-0d051503793c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551/logo.png"
+    }
+  },
+  "name": "Dusk Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUSK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

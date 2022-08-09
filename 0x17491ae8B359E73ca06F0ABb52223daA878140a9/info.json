@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17491ae8B359E73ca06F0ABb52223daA878140a9",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b757ed16-3cc2-4fd7-b04c-55004897a031",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x17491ae8B359E73ca06F0ABb52223daA878140a9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x17491ae8B359E73ca06F0ABb52223daA878140a9/logo.png"
+    }
+  },
+  "name": "Charge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHARGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc9260ea-1c39-4520-912c-d8f041ae707b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD/logo.png"
+    }
+  },
+  "name": "Switch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

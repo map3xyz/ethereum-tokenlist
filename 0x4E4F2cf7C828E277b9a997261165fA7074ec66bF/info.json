@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4E4F2cf7C828E277b9a997261165fA7074ec66bF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e04e492f-660a-4719-8087-e4e1b084b22f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E4F2cf7C828E277b9a997261165fA7074ec66bF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4E4F2cf7C828E277b9a997261165fA7074ec66bF/logo.png"
+    }
+  },
+  "name": "educca",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDUC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

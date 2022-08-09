@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa01360Fc23Bf50955c4552eC9f6c4E523a37a89F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7d9df158-2ebc-4cc5-aa94-54156c036ca1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa01360Fc23Bf50955c4552eC9f6c4E523a37a89F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa01360Fc23Bf50955c4552eC9f6c4E523a37a89F/logo.png"
+    }
+  },
+  "name": "We Are Musicos Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

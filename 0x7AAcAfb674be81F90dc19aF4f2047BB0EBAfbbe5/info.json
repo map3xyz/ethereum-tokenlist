@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5c5f3490-7677-45bc-bbe1-0fc4a4c7555f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5/logo.png"
+    }
+  },
+  "name": "GREENQUEEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GQC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

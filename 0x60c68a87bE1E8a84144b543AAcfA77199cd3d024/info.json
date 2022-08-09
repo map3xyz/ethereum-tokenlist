@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x60c68a87bE1E8a84144b543AAcfA77199cd3d024",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be5d2bf1-fe9d-408a-800f-fdb1ff742e6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60c68a87bE1E8a84144b543AAcfA77199cd3d024/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60c68a87bE1E8a84144b543AAcfA77199cd3d024/logo.png"
+    }
+  },
+  "name": "Themis",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

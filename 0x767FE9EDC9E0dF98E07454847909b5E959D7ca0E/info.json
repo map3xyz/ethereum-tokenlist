@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8d25943-e211-4166-8b02-375126e718e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+    }
+  },
+  "name": "Illuvium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ILV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77775029-88e5-436c-b0a7-b21e05a2f33d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267/logo.png"
+    }
+  },
+  "name": "BlockBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

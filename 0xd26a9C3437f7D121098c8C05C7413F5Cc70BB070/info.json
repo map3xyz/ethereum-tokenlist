@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "575829a0-0d14-4ee5-b611-dd084fd60151",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070/logo.png"
+    }
+  },
+  "name": "Azuma coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AZUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

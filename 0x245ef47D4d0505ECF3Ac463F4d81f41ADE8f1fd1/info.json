@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9302a8c2-5c33-4090-8c5a-89fab9160d99",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1/logo.png"
+    }
+  },
+  "name": "Nuggets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NUG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82977dc9-5456-49fc-84c5-46571b8bcdea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1/logo.png"
+    }
+  },
+  "name": "Edex",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

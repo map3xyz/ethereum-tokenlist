@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x52DB8ebF894036ec997Da693C5fa237A4fb69d10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07df9fa4-e3ca-4785-aa00-4f19231f4c2d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52DB8ebF894036ec997Da693C5fa237A4fb69d10/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x52DB8ebF894036ec997Da693C5fa237A4fb69d10/logo.png"
+    }
+  },
+  "name": "Curriculum Vitae",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CVH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

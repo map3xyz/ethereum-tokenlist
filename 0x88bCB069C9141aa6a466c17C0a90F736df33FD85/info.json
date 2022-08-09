@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x88bCB069C9141aa6a466c17C0a90F736df33FD85",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "418a038a-71db-46df-9f73-eba3c6a96a93",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x88bCB069C9141aa6a466c17C0a90F736df33FD85/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x88bCB069C9141aa6a466c17C0a90F736df33FD85/logo.png"
+    }
+  },
+  "name": "Dafco Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAFCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

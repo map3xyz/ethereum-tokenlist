@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49d4C3629f93f49ba934dEBF28605D26CAaF3aCc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a3b9b77c-8a68-4aa1-81d5-7179a0998703",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49d4C3629f93f49ba934dEBF28605D26CAaF3aCc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49d4C3629f93f49ba934dEBF28605D26CAaF3aCc/logo.png"
+    }
+  },
+  "name": "WineChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

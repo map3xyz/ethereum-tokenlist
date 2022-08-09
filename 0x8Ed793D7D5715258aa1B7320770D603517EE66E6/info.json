@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8Ed793D7D5715258aa1B7320770D603517EE66E6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "d343a98b-2e29-44d3-b3da-0da37201aa78",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8Ed793D7D5715258aa1B7320770D603517EE66E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8Ed793D7D5715258aa1B7320770D603517EE66E6/logo.png"
+    }
+  },
+  "name": "KimchiSoxchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KSOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

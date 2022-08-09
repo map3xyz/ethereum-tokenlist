@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5DBAC24e98E2a4f43ADC0DC82Af403fca063Ce2c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39cd6343-a263-42b1-9113-a60213f2cfa3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5DBAC24e98E2a4f43ADC0DC82Af403fca063Ce2c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5DBAC24e98E2a4f43ADC0DC82Af403fca063Ce2c/logo.png"
+    }
+  },
+  "name": "EngagementToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

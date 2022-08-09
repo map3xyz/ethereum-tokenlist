@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e8bfe0c-925a-42b3-91c2-0f8dd174247f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb/logo.png"
+    }
+  },
+  "name": "BULVRD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLVD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

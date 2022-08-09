@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6295Ab2BE04A617747481B292c390BfcA592Cf28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9fbd1b64-fb28-4a27-8659-67e881abd573",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6295Ab2BE04A617747481B292c390BfcA592Cf28/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6295Ab2BE04A617747481B292c390BfcA592Cf28/logo.png"
+    }
+  },
+  "name": "TokenDesk",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TDS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

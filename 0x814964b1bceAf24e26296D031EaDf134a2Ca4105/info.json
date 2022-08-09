@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x814964b1bceAf24e26296D031EaDf134a2Ca4105",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8b70a84b-cd2d-4fe7-a4d4-193aa2f86f8d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x814964b1bceAf24e26296D031EaDf134a2Ca4105/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x814964b1bceAf24e26296D031EaDf134a2Ca4105/logo.png"
+    }
+  },
+  "name": "Newbium",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NEWB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

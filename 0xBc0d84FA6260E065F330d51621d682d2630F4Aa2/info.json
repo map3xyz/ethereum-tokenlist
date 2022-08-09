@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBc0d84FA6260E065F330d51621d682d2630F4Aa2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da3e8e4e-3ca4-4575-8881-f2805a56d86c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBc0d84FA6260E065F330d51621d682d2630F4Aa2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBc0d84FA6260E065F330d51621d682d2630F4Aa2/logo.png"
+    }
+  },
+  "name": "BeatBind",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BBND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6c040045d962e4B8eFa00954c7d23CCd0a2b8AD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0de725c3-5701-4166-9b6f-ecd57b10bebe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6c040045d962e4B8eFa00954c7d23CCd0a2b8AD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6c040045d962e4B8eFa00954c7d23CCd0a2b8AD/logo.png"
+    }
+  },
+  "name": "BitEth2575RebalancingSetToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCETH2575",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

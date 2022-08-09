@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "2f40f98c-09d1-4dad-b68c-744f18636e9e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C/logo.png"
+    }
+  },
+  "name": "ANTISEAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ANTISEAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9f6513ED2b0DE89218E97DB4A5115ba04Be449f1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f656d95-eab5-4d4b-8d3e-3ef1373ad1af",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f6513ED2b0DE89218E97DB4A5115ba04Be449f1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f6513ED2b0DE89218E97DB4A5115ba04Be449f1/logo.png"
+    }
+  },
+  "name": "Wak Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

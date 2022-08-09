@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25f4aa13-cff0-407c-96c4-64a3e037465b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2/logo.png"
+    }
+  },
+  "name": "StakeWise SWISE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SWISE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

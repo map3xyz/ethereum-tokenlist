@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x43eE79e379e7b78D871100ed696e803E7893b644",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc3d8daa-e0a7-44d1-880b-bbd99a6bec75",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43eE79e379e7b78D871100ed696e803E7893b644/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x43eE79e379e7b78D871100ed696e803E7893b644/logo.png"
+    }
+  },
+  "name": "UG Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

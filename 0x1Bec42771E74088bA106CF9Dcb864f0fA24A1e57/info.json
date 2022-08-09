@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "d6f0d0b1-4c64-4193-b05d-f7d81c2f75d8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57/logo.png"
+    }
+  },
+  "name": "LHC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

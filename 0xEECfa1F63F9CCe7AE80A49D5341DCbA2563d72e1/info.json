@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEECfa1F63F9CCe7AE80A49D5341DCbA2563d72e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8af5041b-b1f1-470b-8889-647549cf493e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEECfa1F63F9CCe7AE80A49D5341DCbA2563d72e1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEECfa1F63F9CCe7AE80A49D5341DCbA2563d72e1/logo.png"
+    }
+  },
+  "name": "CROS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CROS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

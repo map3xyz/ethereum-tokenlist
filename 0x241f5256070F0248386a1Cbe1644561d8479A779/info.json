@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x241f5256070F0248386a1Cbe1644561d8479A779",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1f0fdcc-f6c4-4434-8f6b-f4fc32757c54",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x241f5256070F0248386a1Cbe1644561d8479A779/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x241f5256070F0248386a1Cbe1644561d8479A779/logo.png"
+    }
+  },
+  "name": "REAL",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "REAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

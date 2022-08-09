@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a87a2849-2276-4bbe-99b2-91a8e417747a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x11eeF04c884E24d9B7B4760e7476D06ddF797f36/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x11eeF04c884E24d9B7B4760e7476D06ddF797f36/logo.png"
+    }
+  },
+  "name": "MX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

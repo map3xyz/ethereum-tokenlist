@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x40AdFc7c23c22Cc06f94F199a4750D7196F46fbe",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2cdfb5f2-2037-4a04-978b-9c1461c8fd00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x40AdFc7c23c22Cc06f94F199a4750D7196F46fbe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x40AdFc7c23c22Cc06f94F199a4750D7196F46fbe/logo.png"
+    }
+  },
+  "name": "Coinchase Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

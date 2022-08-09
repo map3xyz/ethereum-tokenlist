@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2215459BBfc4A1041BB8B4E53D8c69d63F3B3224",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a345781d-8eba-4225-9b97-63ae3de60659",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2215459BBfc4A1041BB8B4E53D8c69d63F3B3224/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2215459BBfc4A1041BB8B4E53D8c69d63F3B3224/logo.png"
+    }
+  },
+  "name": "Noble Technologies Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

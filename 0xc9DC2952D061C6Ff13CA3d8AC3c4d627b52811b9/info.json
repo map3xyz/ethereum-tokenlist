@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc9DC2952D061C6Ff13CA3d8AC3c4d627b52811b9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "c7a7046f-b738-4b63-865b-f1cb3e6df490",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc9DC2952D061C6Ff13CA3d8AC3c4d627b52811b9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc9DC2952D061C6Ff13CA3d8AC3c4d627b52811b9/logo.png"
+    }
+  },
+  "name": "Ground Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GRND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

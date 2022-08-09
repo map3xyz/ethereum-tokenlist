@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35b08722AA26bE119c1608029CcbC976ac5C1082",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b76a59d5-f14a-420f-b59a-5e8f09d2e65f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x35b08722AA26bE119c1608029CcbC976ac5C1082/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x35b08722AA26bE119c1608029CcbC976ac5C1082/logo.png"
+    }
+  },
+  "name": "EminerToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

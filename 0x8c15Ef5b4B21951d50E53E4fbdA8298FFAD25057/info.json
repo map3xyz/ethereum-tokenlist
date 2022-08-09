@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1806891-1e43-4bdb-88c5-c4108265b63d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png"
+    }
+  },
+  "name": "Function X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

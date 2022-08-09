@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "113015d6-e8be-48f4-a393-a3067897e0ea",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFa14Fa6958401314851A17d6C5360cA29f74B57B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFa14Fa6958401314851A17d6C5360cA29f74B57B/logo.png"
+    }
+  },
+  "name": "SAITO Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SAITO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

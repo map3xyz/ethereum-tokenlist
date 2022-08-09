@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Fed2aca55338d77438797bDf609252Db92313ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e03bf031-dbcb-4e2d-a7e0-1b6104474975",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Fed2aca55338d77438797bDf609252Db92313ea/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0Fed2aca55338d77438797bDf609252Db92313ea/logo.png"
+    }
+  },
+  "name": "Bdb",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

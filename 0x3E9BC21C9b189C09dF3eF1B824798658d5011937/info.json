@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6bf5e51-62d4-4fe8-ac20-7ab147647b60",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3E9BC21C9b189C09dF3eF1B824798658d5011937/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3E9BC21C9b189C09dF3eF1B824798658d5011937/logo.png"
+    }
+  },
+  "name": "LINA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LINA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

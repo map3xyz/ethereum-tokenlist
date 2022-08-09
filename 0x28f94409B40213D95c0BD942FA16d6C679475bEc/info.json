@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28f94409B40213D95c0BD942FA16d6C679475bEc",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "63742a92-082a-4ea3-97b2-346eaae5d484",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x28f94409B40213D95c0BD942FA16d6C679475bEc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x28f94409B40213D95c0BD942FA16d6C679475bEc/logo.png"
+    }
+  },
+  "name": "DEKSEN Ecosystem",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEKSX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

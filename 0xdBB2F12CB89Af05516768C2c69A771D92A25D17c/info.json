@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdBB2F12CB89Af05516768C2c69A771D92A25D17c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae2ed710-2d23-42e5-827f-3498c7123f46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdBB2F12CB89Af05516768C2c69A771D92A25D17c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdBB2F12CB89Af05516768C2c69A771D92A25D17c/logo.png"
+    }
+  },
+  "name": "Beast DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BEAST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

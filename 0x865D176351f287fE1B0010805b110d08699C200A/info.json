@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x865D176351f287fE1B0010805b110d08699C200A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e38ddea7-d284-4d39-a539-2d2c8ec961dc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x865D176351f287fE1B0010805b110d08699C200A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x865D176351f287fE1B0010805b110d08699C200A/logo.png"
+    }
+  },
+  "name": "BananaCoin Extended",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

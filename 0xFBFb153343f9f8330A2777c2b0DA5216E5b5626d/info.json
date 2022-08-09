@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "95085f0f-9c43-4e71-a383-746168584cae",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d/logo.png"
+    }
+  },
+  "name": "Artemischain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x36a73557f5BDE5195EC39eCA82d28b8A36D21141",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5fe8ae1d-e3c9-41a0-8174-d60a528592e7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x36a73557f5BDE5195EC39eCA82d28b8A36D21141/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x36a73557f5BDE5195EC39eCA82d28b8A36D21141/logo.png"
+    }
+  },
+  "name": "Forex Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

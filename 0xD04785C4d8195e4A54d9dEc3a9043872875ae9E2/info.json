@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2a4c861-b0b0-4d8b-8992-944a4a57050c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2/logo.png"
+    }
+  },
+  "name": "RottenToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ROT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

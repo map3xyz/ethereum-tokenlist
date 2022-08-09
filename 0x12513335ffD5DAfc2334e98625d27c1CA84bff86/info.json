@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e11c9d3c-57b5-4a6c-8d62-0672ce11c334",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12513335ffD5DAfc2334e98625d27c1CA84bff86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12513335ffD5DAfc2334e98625d27c1CA84bff86/logo.png"
+    }
+  },
+  "name": "AME Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

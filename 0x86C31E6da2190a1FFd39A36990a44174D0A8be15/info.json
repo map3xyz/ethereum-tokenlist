@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86C31E6da2190a1FFd39A36990a44174D0A8be15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88531606-9817-421f-b85d-2d0cd624632a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86C31E6da2190a1FFd39A36990a44174D0A8be15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86C31E6da2190a1FFd39A36990a44174D0A8be15/logo.png"
+    }
+  },
+  "name": "VianeX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

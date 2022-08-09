@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "907d97bb-7ef7-48e9-8cc3-5d4f0cc29259",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4/logo.png"
+    }
+  },
+  "name": "J8T Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "J8T",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

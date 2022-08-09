@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x060e49653d5693a00f9037e3E66251eAD60b3Ba1",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "8012c331-a5db-4d0b-a1f5-35409fb3e341",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x060e49653d5693a00f9037e3E66251eAD60b3Ba1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x060e49653d5693a00f9037e3E66251eAD60b3Ba1/logo.png"
+    }
+  },
+  "name": "ICONN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICONN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

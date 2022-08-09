@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2CA06986040D18D80ACD34D0877E66F8e15f12fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47856aaf-a260-420a-9c70-78f6fa8f2403",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2CA06986040D18D80ACD34D0877E66F8e15f12fc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2CA06986040D18D80ACD34D0877E66F8e15f12fc/logo.png"
+    }
+  },
+  "name": "Wrapped TenX Pay Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

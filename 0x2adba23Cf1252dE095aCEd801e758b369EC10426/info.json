@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2adba23Cf1252dE095aCEd801e758b369EC10426",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f62a72ec-f97a-416b-8464-95e12636c617",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2adba23Cf1252dE095aCEd801e758b369EC10426/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2adba23Cf1252dE095aCEd801e758b369EC10426/logo.png"
+    }
+  },
+  "name": "UCBI Banking",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UCBI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

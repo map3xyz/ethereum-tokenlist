@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f755d8ed-4f65-4e1b-aa24-282a096fa2db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef/logo.png"
+    }
+  },
+  "name": "DeltaHub Community",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

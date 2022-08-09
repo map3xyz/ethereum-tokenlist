@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc67d5cfb933c4A1c6d2CA4CbdAE2ed9f017eE9e5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "dd803372-3336-4b20-9f17-12c14473c3fc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc67d5cfb933c4A1c6d2CA4CbdAE2ed9f017eE9e5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc67d5cfb933c4A1c6d2CA4CbdAE2ed9f017eE9e5/logo.png"
+    }
+  },
+  "name": "Lipchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

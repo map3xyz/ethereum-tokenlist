@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a11c3b56-79cd-49ea-b910-deecc4f2b559",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4/logo.png"
+    }
+  },
+  "name": "Standard Crypto Fund",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "QQQF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

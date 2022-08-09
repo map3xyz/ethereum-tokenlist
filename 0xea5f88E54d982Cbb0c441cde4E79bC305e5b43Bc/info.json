@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd936b42-11e7-446d-a1e5-27cc0b6b8742",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc/logo.png"
+    }
+  },
+  "name": "Pareto Network Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PARETO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

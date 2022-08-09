@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6aBb492D778903be5fb8922e076cA5e337E29062",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2a92b511-ba82-49f7-844d-1efbd3392c7a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6aBb492D778903be5fb8922e076cA5e337E29062/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6aBb492D778903be5fb8922e076cA5e337E29062/logo.png"
+    }
+  },
+  "name": "Cashpayz Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef1ac88f-052a-4d86-b899-fdf6f46538c5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png"
+    }
+  },
+  "name": "FalconSwap Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FSW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

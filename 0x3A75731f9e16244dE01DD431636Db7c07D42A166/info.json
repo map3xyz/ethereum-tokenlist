@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A75731f9e16244dE01DD431636Db7c07D42A166",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "dcc220c1-c5e9-414a-b97b-a2c4e7c38e58",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A75731f9e16244dE01DD431636Db7c07D42A166/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A75731f9e16244dE01DD431636Db7c07D42A166/logo.png"
+    }
+  },
+  "name": "Bones",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BONES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

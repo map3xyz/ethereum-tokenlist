@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb0ecc7f33973D8aCd6296Ab40f37718015b98345",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "31e5b0b2-cae5-4c20-adad-3249702f9297",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb0ecc7f33973D8aCd6296Ab40f37718015b98345/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb0ecc7f33973D8aCd6296Ab40f37718015b98345/logo.png"
+    }
+  },
+  "name": "I-PRO TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

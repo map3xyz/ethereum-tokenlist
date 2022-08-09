@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf77f4d0ce6f7b4B06434CF9624cd2f23175691FD",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "83579020-a3fe-440e-8d5d-0042cefc5353",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf77f4d0ce6f7b4B06434CF9624cd2f23175691FD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf77f4d0ce6f7b4B06434CF9624cd2f23175691FD/logo.png"
+    }
+  },
+  "name": "scoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "7SNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

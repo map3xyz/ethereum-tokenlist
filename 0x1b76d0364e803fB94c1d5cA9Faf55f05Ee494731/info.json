@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1b76d0364e803fB94c1d5cA9Faf55f05Ee494731",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10ff97a2-e0cd-4ca2-a145-ab97cef3560a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1b76d0364e803fB94c1d5cA9Faf55f05Ee494731/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1b76d0364e803fB94c1d5cA9Faf55f05Ee494731/logo.png"
+    }
+  },
+  "name": "Uniswap Community Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

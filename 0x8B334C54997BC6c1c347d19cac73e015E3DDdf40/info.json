@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8B334C54997BC6c1c347d19cac73e015E3DDdf40",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b11951c7-c9d5-4060-a929-628b37e8acff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8B334C54997BC6c1c347d19cac73e015E3DDdf40/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8B334C54997BC6c1c347d19cac73e015E3DDdf40/logo.png"
+    }
+  },
+  "name": "Credit",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EMEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "abcd17da-899f-4960-99b7-10304e8a3442",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF7920B0768Ecb20A123fAc32311d07D193381d6f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF7920B0768Ecb20A123fAc32311d07D193381d6f/logo.png"
+    }
+  },
+  "name": "Time New Bank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

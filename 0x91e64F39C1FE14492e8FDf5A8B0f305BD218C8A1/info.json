@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4e8c789-5de4-42d5-a6d0-a2023893b7a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1/logo.png"
+    }
+  },
+  "name": "Vodi X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

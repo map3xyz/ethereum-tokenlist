@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "033214a7-9e36-4ba6-8940-478036fba139",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86/logo.png"
+    }
+  },
+  "name": "mVIXY Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mVIXY",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

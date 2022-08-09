@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "410121ed-2414-4ea8-84c5-c2e78d7e99d2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "inSure",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

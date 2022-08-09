@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2afe232e-ad26-40df-9f88-138948702262",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png"
+    }
+  },
+  "name": "DEUS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DEUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

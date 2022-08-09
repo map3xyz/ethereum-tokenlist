@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "693c08f4-3d55-47cf-bfe3-07e4eaabde0a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE/logo.png"
+    }
+  },
+  "name": "Ocbtoken - Blockmax",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

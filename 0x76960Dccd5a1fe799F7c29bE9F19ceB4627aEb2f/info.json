@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c99f047-4e2c-4d23-9304-bdb825570ce2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f/logo.png"
+    }
+  },
+  "name": "Red Community Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

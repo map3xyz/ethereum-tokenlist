@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9fa5870-450f-4b91-a03c-cd7731f5c4a5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C/logo.png"
+    }
+  },
+  "name": "Liquid Lottery RTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LIQLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

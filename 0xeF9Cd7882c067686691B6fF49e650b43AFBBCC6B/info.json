@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b62cec3-28d6-4d61-ad93-f3ff91d9c49b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B/logo.png"
+    }
+  },
+  "name": "FNX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

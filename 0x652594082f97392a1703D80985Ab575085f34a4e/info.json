@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x652594082f97392a1703D80985Ab575085f34a4e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "69c0ca23-d898-4ab7-88e4-d76d44275073",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x652594082f97392a1703D80985Ab575085f34a4e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x652594082f97392a1703D80985Ab575085f34a4e/logo.png"
+    }
+  },
+  "name": "Silvertoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

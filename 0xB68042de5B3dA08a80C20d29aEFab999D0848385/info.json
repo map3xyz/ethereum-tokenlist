@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB68042de5B3dA08a80C20d29aEFab999D0848385",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03ceb24b-9339-40d0-a3ed-f8ff5ccb5c59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB68042de5B3dA08a80C20d29aEFab999D0848385/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB68042de5B3dA08a80C20d29aEFab999D0848385/logo.png"
+    }
+  },
+  "name": "iDAG SPACE",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iDAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

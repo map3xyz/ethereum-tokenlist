@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86876a5fCAcb52a197f194A2c8b2166Af327a6da",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0c402fdb-93f4-4602-bf15-39f11027cf3f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86876a5fCAcb52a197f194A2c8b2166Af327a6da/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x86876a5fCAcb52a197f194A2c8b2166Af327a6da/logo.png"
+    }
+  },
+  "name": "FabulousFunds",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FAB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

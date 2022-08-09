@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf67c3000943c74186B64A1Bc84Cb5880E5198661",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dae76648-afb5-4c8e-9868-22da84cefb44",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf67c3000943c74186B64A1Bc84Cb5880E5198661/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf67c3000943c74186B64A1Bc84Cb5880E5198661/logo.png"
+    }
+  },
+  "name": "CHF36",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHF36",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

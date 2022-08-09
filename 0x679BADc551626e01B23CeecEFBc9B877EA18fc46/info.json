@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x679BADc551626e01B23CeecEFBc9B877EA18fc46",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e018282d-7596-4e33-8e15-5259d39df8db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x679BADc551626e01B23CeecEFBc9B877EA18fc46/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x679BADc551626e01B23CeecEFBc9B877EA18fc46/logo.png"
+    }
+  },
+  "name": "Ccore Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

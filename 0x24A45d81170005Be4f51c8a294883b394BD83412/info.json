@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x24A45d81170005Be4f51c8a294883b394BD83412",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9aadde0f-30f3-40ac-b87e-3f10fa1aaa80",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24A45d81170005Be4f51c8a294883b394BD83412/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x24A45d81170005Be4f51c8a294883b394BD83412/logo.png"
+    }
+  },
+  "name": "FIB",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

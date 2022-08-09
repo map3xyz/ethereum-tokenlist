@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x405F242c397C428d5ecd2454Db7233Dd745Bf8F9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7349cb44-dc0c-4972-8206-a56213756edd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x405F242c397C428d5ecd2454Db7233Dd745Bf8F9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x405F242c397C428d5ecd2454Db7233Dd745Bf8F9/logo.png"
+    }
+  },
+  "name": "ICO Review",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ICRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

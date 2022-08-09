@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf091Cf09c51811819DB705710e9634B8bf18F164",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20e848fd-14de-43e2-b8c5-1db9f2b27113",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf091Cf09c51811819DB705710e9634B8bf18F164/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf091Cf09c51811819DB705710e9634B8bf18F164/logo.png"
+    }
+  },
+  "name": "Couchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

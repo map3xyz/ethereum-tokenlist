@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x957C7090C1e2bBAAE73780d657df8132D6f3dA9D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c75de02d-94cb-4983-bd71-f40c8331d886",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x957C7090C1e2bBAAE73780d657df8132D6f3dA9D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x957C7090C1e2bBAAE73780d657df8132D6f3dA9D/logo.png"
+    }
+  },
+  "name": "ADPOWER",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

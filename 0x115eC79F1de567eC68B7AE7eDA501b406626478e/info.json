@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58719235-406b-42e1-b0d0-91eee0a2898a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x115eC79F1de567eC68B7AE7eDA501b406626478e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x115eC79F1de567eC68B7AE7eDA501b406626478e/logo.png"
+    }
+  },
+  "name": "CarryToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

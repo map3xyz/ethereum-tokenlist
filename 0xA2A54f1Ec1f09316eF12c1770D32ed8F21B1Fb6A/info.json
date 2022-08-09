@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "478e6a97-117d-4d93-8d13-107d10bea2c1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A/logo.png"
+    }
+  },
+  "name": "DFT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

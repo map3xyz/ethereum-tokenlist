@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c73c1ac-9d32-4059-b63f-c67af962eb7d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2baac9330Cf9aC479D819195794d79AD0c7616e3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2baac9330Cf9aC479D819195794d79AD0c7616e3/logo.png"
+    }
+  },
+  "name": "AdBank",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ADB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

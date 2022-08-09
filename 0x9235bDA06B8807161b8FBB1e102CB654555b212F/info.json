@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "efc749fd-4d55-4d1d-bc44-48997ad53f52",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9235bDA06B8807161b8FBB1e102CB654555b212F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9235bDA06B8807161b8FBB1e102CB654555b212F/logo.png"
+    }
+  },
+  "name": "Feellike",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

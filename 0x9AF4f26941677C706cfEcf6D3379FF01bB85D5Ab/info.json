@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "81ca96cc-ef35-45b7-bc26-cd156b3cb460",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab/logo.png"
+    }
+  },
+  "name": "DomRaiderToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

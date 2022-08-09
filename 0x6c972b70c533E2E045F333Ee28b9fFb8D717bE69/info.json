@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f14d1183-2195-4b54-a384-6d3fac6c2a32",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69/logo.png"
+    }
+  },
+  "name": "Foundry Logistics Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FRY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

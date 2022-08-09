@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfC4A2Cd574bdcC385173f03A6a52cC3B853BB9d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e977f82-38b6-4239-819c-202fd8b39d05",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC4A2Cd574bdcC385173f03A6a52cC3B853BB9d4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfC4A2Cd574bdcC385173f03A6a52cC3B853BB9d4/logo.png"
+    }
+  },
+  "name": "LKSCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LKSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

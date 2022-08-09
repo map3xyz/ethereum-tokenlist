@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xab7E084Ad30a359006C4cdb7Ba796fA79c936B33",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c25c982-bc3a-4e15-8f14-9d23cef2f00b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xab7E084Ad30a359006C4cdb7Ba796fA79c936B33/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xab7E084Ad30a359006C4cdb7Ba796fA79c936B33/logo.png"
+    }
+  },
+  "name": "Litecointoken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

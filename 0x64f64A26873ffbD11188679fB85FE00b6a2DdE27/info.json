@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64f64A26873ffbD11188679fB85FE00b6a2DdE27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17da510a-85f3-4226-99fa-7d5d8637fc50",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x64f64A26873ffbD11188679fB85FE00b6a2DdE27/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x64f64A26873ffbD11188679fB85FE00b6a2DdE27/logo.png"
+    }
+  },
+  "name": "Ltconlinemarkets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

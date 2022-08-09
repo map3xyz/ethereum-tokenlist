@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3d6ad37c-5698-4b80-bcf2-ca741c5a36b9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3/logo.png"
+    }
+  },
+  "name": "1irst",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

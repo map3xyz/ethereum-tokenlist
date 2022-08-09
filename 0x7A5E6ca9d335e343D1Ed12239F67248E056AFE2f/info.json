@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7fafccf8-4954-41d6-9901-b22345aa9607",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7A5E6ca9d335e343D1Ed12239F67248E056AFE2f/logo.png"
+    }
+  },
+  "name": "Ethash Miner",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HETM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

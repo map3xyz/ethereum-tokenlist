@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12bAc8c392f5a2Ec82F3C2799289a1A7515d8f02",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "82e4896c-2f43-4f65-a229-2a1d9f1d8f6d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12bAc8c392f5a2Ec82F3C2799289a1A7515d8f02/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12bAc8c392f5a2Ec82F3C2799289a1A7515d8f02/logo.png"
+    }
+  },
+  "name": "SMASH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SMASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

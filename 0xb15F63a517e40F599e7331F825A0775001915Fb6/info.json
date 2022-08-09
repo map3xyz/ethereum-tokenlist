@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb15F63a517e40F599e7331F825A0775001915Fb6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6a440e1-c7d0-4dd4-87c0-dfefb94903c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb15F63a517e40F599e7331F825A0775001915Fb6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb15F63a517e40F599e7331F825A0775001915Fb6/logo.png"
+    }
+  },
+  "name": "DORON",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

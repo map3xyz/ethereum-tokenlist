@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2C05C327dE82fD198b1338DCBF43Af9dbaf1B24F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e966cb9-cf4d-438a-8c56-6377c0c96719",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2C05C327dE82fD198b1338DCBF43Af9dbaf1B24F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2C05C327dE82fD198b1338DCBF43Af9dbaf1B24F/logo.png"
+    }
+  },
+  "name": "CHARScoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

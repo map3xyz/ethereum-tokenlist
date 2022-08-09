@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a733429-4553-41c8-9bb5-2607d321abd3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+    }
+  },
+  "name": "Compound",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

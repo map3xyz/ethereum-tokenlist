@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "59135e7d-5817-47c5-bbef-b1f874ee4d0e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D/logo.png"
+    }
+  },
+  "name": "GENE TOKEN (PARKGENE)",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GENE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

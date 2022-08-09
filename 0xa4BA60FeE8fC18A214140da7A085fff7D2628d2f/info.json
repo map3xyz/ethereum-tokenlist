@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8854dfba-3eb3-4977-9337-b69359ce8125",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f/logo.png"
+    }
+  },
+  "name": "Electronic Sports Alliance ESA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ESA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

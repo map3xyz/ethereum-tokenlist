@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x031228f403DbFdE1DD47310BDc49Bb788F53Ecd9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6352524-4eb3-4bd9-887d-9b75c3cd4bc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x031228f403DbFdE1DD47310BDc49Bb788F53Ecd9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x031228f403DbFdE1DD47310BDc49Bb788F53Ecd9/logo.png"
+    }
+  },
+  "name": "Giving Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GIVING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

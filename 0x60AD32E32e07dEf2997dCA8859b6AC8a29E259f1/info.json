@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x60AD32E32e07dEf2997dCA8859b6AC8a29E259f1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cab60e77-a16e-44cc-98a1-34530754b988",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60AD32E32e07dEf2997dCA8859b6AC8a29E259f1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x60AD32E32e07dEf2997dCA8859b6AC8a29E259f1/logo.png"
+    }
+  },
+  "name": "NEWERA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NWR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

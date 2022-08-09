@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03bb4c0a-9e9a-43a6-b8e0-a1d5bcabdac1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0CF46eb152656C7090e769916eb44a138aaa406/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0CF46eb152656C7090e769916eb44a138aaa406/logo.png"
+    }
+  },
+  "name": "Spheroid",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

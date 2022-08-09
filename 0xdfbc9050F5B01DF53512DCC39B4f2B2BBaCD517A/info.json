@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "76ac998f-9330-4223-9b88-c1645e0fa501",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A/logo.png"
+    }
+  },
+  "name": "Jobchain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "JOB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

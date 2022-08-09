@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "69031397-cce7-428e-b196-e54bed6a9f4c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073/logo.png"
+    }
+  },
+  "name": "EGORAS DOLLAR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

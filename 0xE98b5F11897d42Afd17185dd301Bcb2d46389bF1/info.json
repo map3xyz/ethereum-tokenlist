@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE98b5F11897d42Afd17185dd301Bcb2d46389bF1",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0e692fa4-5787-4c1f-a20e-c5e9bfe54659",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE98b5F11897d42Afd17185dd301Bcb2d46389bF1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE98b5F11897d42Afd17185dd301Bcb2d46389bF1/logo.png"
+    }
+  },
+  "name": "Dude",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DUDE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEc4325F0518584F0774b483c215F65474EAbD27F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "241ccc30-91fe-43d4-8e83-88af272be957",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEc4325F0518584F0774b483c215F65474EAbD27F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xEc4325F0518584F0774b483c215F65474EAbD27F/logo.png"
+    }
+  },
+  "name": "Stable BTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "oneBTC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb2F7EB1f2c37645bE61d73953035360e768D81E6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9330887d-4cb4-46f4-88bd-ae045fe31387",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb2F7EB1f2c37645bE61d73953035360e768D81E6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb2F7EB1f2c37645bE61d73953035360e768D81E6/logo.png"
+    }
+  },
+  "name": "Cobinhood Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "COB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

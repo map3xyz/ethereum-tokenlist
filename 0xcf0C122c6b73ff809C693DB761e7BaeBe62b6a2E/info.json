@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3f11ab59-5344-44c6-ae94-204c1e0c63f0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E/logo.png"
+    }
+  },
+  "name": "FLOKI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

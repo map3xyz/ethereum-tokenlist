@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC87412535beC14FE79497914Dc5886fb0a163123",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e5364cf-77ec-42b0-aa16-6ef83c493dc4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC87412535beC14FE79497914Dc5886fb0a163123/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC87412535beC14FE79497914Dc5886fb0a163123/logo.png"
+    }
+  },
+  "name": "Bright Dream X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

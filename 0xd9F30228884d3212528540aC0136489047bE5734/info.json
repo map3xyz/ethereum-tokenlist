@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd9F30228884d3212528540aC0136489047bE5734",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbf091d4-895b-44b9-b185-96c3b03aa66d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd9F30228884d3212528540aC0136489047bE5734/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9F30228884d3212528540aC0136489047bE5734/logo.png"
+    }
+  },
+  "name": "Eaglebits",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EEB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

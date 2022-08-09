@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71879d53-4966-4290-b33c-759d9b5b0bc5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82/logo.png"
+    }
+  },
+  "name": "BITWOX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcb03bec536843D338ac138205a6689d4cDc11046",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5fad5cc-52d4-42c8-a609-2eedbb6efed3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcb03bec536843D338ac138205a6689d4cDc11046/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcb03bec536843D338ac138205a6689d4cDc11046/logo.png"
+    }
+  },
+  "name": "ABPT Crypto",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

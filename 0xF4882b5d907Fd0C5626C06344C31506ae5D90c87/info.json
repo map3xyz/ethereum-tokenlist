@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4882b5d907Fd0C5626C06344C31506ae5D90c87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32fb2a63-1550-456d-aef1-8d2ed8c23fc6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF4882b5d907Fd0C5626C06344C31506ae5D90c87/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF4882b5d907Fd0C5626C06344C31506ae5D90c87/logo.png"
+    }
+  },
+  "name": "Masacoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MASA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

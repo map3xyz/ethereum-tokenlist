@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x10DC623fCb8A3C151875f03D442103cBF6469bE6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "f6826f40-5e9f-46a3-98b2-68f6128ea8ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x10DC623fCb8A3C151875f03D442103cBF6469bE6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10DC623fCb8A3C151875f03D442103cBF6469bE6/logo.png"
+    }
+  },
+  "name": "Digital Block",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

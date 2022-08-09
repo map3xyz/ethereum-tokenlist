@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe40aFd59DaF2e6bF3A2116409cc3329958E1b667",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2e4f3f7-e126-4193-9803-ec8ce84e40c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe40aFd59DaF2e6bF3A2116409cc3329958E1b667/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe40aFd59DaF2e6bF3A2116409cc3329958E1b667/logo.png"
+    }
+  },
+  "name": "Bit Holding",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BHLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

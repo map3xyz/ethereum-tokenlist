@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "f2ea8203-46d5-4fcb-9257-4942a0b5383c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590/logo.png"
+    }
+  },
+  "name": "BLASTSCRYPT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLAST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1c6DD53Ccb74234C10410Af31F56082071D1C88b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "412a4b3e-5cd7-413a-8caf-12e45f793925",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c6DD53Ccb74234C10410Af31F56082071D1C88b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1c6DD53Ccb74234C10410Af31F56082071D1C88b/logo.png"
+    }
+  },
+  "name": "Michal Gee Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4FA2141eD83Fc7eE82d9c49A14aEAf1f1509Feb1",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "6a82f33a-bd4b-418d-8521-a204f21cdfab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4FA2141eD83Fc7eE82d9c49A14aEAf1f1509Feb1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4FA2141eD83Fc7eE82d9c49A14aEAf1f1509Feb1/logo.png"
+    }
+  },
+  "name": "All Beauty Community Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

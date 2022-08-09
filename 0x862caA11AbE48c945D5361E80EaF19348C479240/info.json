@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x862caA11AbE48c945D5361E80EaF19348C479240",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "abc8f560-d0d8-461c-81d5-c841d4db0f04",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x862caA11AbE48c945D5361E80EaF19348C479240/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x862caA11AbE48c945D5361E80EaF19348C479240/logo.png"
+    }
+  },
+  "name": "Hero",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

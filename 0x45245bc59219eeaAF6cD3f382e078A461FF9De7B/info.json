@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x45245bc59219eeaAF6cD3f382e078A461FF9De7B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82972ade-52a9-468b-bc43-8c457e29454d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45245bc59219eeaAF6cD3f382e078A461FF9De7B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x45245bc59219eeaAF6cD3f382e078A461FF9De7B/logo.png"
+    }
+  },
+  "name": "\"\"\"BANKEX\"\" project utility token\"",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BKX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

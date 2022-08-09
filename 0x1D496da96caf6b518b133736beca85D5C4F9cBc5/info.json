@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1D496da96caf6b518b133736beca85D5C4F9cBc5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42947ea8-15ec-406e-bfd0-ba2a920f576c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1D496da96caf6b518b133736beca85D5C4F9cBc5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1D496da96caf6b518b133736beca85D5C4F9cBc5/logo.png"
+    }
+  },
+  "name": "bZx LINK iToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "iLINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

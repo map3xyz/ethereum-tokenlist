@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b7481204-e4c0-4f7f-8ee2-fb7ec805042f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C/logo.png"
+    }
+  },
+  "name": "ioox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ioox",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

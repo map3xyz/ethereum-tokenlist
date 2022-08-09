@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d20848ef-ab8c-472f-b210-65ef5db4dbcc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B/logo.png"
+    }
+  },
+  "name": "KAIJU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KAIJU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

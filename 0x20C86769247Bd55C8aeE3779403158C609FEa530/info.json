@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x20C86769247Bd55C8aeE3779403158C609FEa530",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3949f53a-7e4b-426e-9e3c-40dc207789a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20C86769247Bd55C8aeE3779403158C609FEa530/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x20C86769247Bd55C8aeE3779403158C609FEa530/logo.png"
+    }
+  },
+  "name": "Kryptonian",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPMN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

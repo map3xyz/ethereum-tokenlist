@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x187abED6d17529E921aed5Dda458389e3d1c594b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48307487-f464-48fb-bd8f-8d86e8bcd416",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x187abED6d17529E921aed5Dda458389e3d1c594b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x187abED6d17529E921aed5Dda458389e3d1c594b/logo.png"
+    }
+  },
+  "name": "DEXDAQ",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DDQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

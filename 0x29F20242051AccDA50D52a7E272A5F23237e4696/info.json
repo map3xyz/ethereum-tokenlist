@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29F20242051AccDA50D52a7E272A5F23237e4696",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b61e715a-1562-4347-833a-541dd777bbcd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29F20242051AccDA50D52a7E272A5F23237e4696/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x29F20242051AccDA50D52a7E272A5F23237e4696/logo.png"
+    }
+  },
+  "name": "Identity Hub Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IDHUB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

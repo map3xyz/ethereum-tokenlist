@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCeE4019Fd41ECDc8bae9EFDd20510f4b6FAA6197",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eddb381d-3516-438a-9fd6-d57113094119",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCeE4019Fd41ECDc8bae9EFDd20510f4b6FAA6197/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCeE4019Fd41ECDc8bae9EFDd20510f4b6FAA6197/logo.png"
+    }
+  },
+  "name": "Nollya Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NLYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

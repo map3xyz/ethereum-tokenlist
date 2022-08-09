@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF02123509A08632339102eE5fdd41B638592E495",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da93cb48-1fc6-44d7-93a6-0e16726dd468",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF02123509A08632339102eE5fdd41B638592E495/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF02123509A08632339102eE5fdd41B638592E495/logo.png"
+    }
+  },
+  "name": "DUCATO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "VEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4b7aD3a56810032782Afce12d7d27122bDb96efF",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1c55f4ad-11e6-4bcd-b11b-cad8a912d209",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4b7aD3a56810032782Afce12d7d27122bDb96efF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4b7aD3a56810032782Afce12d7d27122bDb96efF/logo.png"
+    }
+  },
+  "name": "Sparkle Loyalty",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPRKL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

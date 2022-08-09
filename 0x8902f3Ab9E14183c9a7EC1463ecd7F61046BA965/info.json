@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "986ff168-bac8-4fb0-9abe-6787cacc91da",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965/logo.png"
+    }
+  },
+  "name": "BITNEXX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

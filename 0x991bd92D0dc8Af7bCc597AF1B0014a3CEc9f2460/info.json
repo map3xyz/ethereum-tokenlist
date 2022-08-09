@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x991bd92D0dc8Af7bCc597AF1B0014a3CEc9f2460",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "26205dda-23e2-4670-a143-a1c0f7c5874e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x991bd92D0dc8Af7bCc597AF1B0014a3CEc9f2460/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x991bd92D0dc8Af7bCc597AF1B0014a3CEc9f2460/logo.png"
+    }
+  },
+  "name": "UBIpromoter",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UBIPRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

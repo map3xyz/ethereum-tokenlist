@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e2754c2410620d8148E382E8feb7EF30dFa5b4C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "454ae9c7-1307-4f5e-a00f-69c6d2ea79fb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e2754c2410620d8148E382E8feb7EF30dFa5b4C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9e2754c2410620d8148E382E8feb7EF30dFa5b4C/logo.png"
+    }
+  },
+  "name": "OKStamp",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STAMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

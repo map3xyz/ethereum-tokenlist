@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b132129-645f-45c9-8298-67f154d1862e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd/logo.png"
+    }
+  },
+  "name": "PURCOW MILK TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MILK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

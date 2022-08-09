@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "02c0450a-72db-45ad-8163-aafa06e37167",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0/logo.png"
+    }
+  },
+  "name": "Bet Chips",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BetC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

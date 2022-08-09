@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x03C780cD554598592B97b7256dDAad759945b125",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e36e759-06b4-40f6-833c-116071b3df7b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x03C780cD554598592B97b7256dDAad759945b125/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x03C780cD554598592B97b7256dDAad759945b125/logo.png"
+    }
+  },
+  "name": "BTRN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

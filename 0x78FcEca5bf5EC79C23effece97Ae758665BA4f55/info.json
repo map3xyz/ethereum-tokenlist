@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x78FcEca5bf5EC79C23effece97Ae758665BA4f55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bcc6a60-b406-485e-8e7d-fc3c958d65a7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x78FcEca5bf5EC79C23effece97Ae758665BA4f55/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x78FcEca5bf5EC79C23effece97Ae758665BA4f55/logo.png"
+    }
+  },
+  "name": "YouDeal Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "YD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

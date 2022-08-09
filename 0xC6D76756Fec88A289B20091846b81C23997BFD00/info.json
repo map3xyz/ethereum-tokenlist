@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC6D76756Fec88A289B20091846b81C23997BFD00",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0fd776e0-e3ea-401f-8aa4-319cb90255ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC6D76756Fec88A289B20091846b81C23997BFD00/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC6D76756Fec88A289B20091846b81C23997BFD00/logo.png"
+    }
+  },
+  "name": "ethart",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "arte",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

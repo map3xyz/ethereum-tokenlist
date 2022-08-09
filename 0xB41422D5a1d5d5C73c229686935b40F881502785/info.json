@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB41422D5a1d5d5C73c229686935b40F881502785",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "43690bc8-01ac-4564-99b5-10b3a11c11ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB41422D5a1d5d5C73c229686935b40F881502785/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB41422D5a1d5d5C73c229686935b40F881502785/logo.png"
+    }
+  },
+  "name": "PayFair Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PFR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

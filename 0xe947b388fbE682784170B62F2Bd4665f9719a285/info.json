@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe947b388fbE682784170B62F2Bd4665f9719a285",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dba84e64-9dc1-418b-ac1f-01c50f22003e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe947b388fbE682784170B62F2Bd4665f9719a285/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe947b388fbE682784170B62F2Bd4665f9719a285/logo.png"
+    }
+  },
+  "name": "Rally Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RALLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

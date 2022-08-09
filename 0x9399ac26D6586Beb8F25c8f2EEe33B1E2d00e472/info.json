@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9399ac26D6586Beb8F25c8f2EEe33B1E2d00e472",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "033100fa-30f1-47fd-a597-505de7505900",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9399ac26D6586Beb8F25c8f2EEe33B1E2d00e472/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9399ac26D6586Beb8F25c8f2EEe33B1E2d00e472/logo.png"
+    }
+  },
+  "name": "BLike",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BLIKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

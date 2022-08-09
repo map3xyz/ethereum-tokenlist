@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c566b0b-bd6d-4205-a417-ff9025d04d1b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2/logo.png"
+    }
+  },
+  "name": "QuadrantProtocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "eQUAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

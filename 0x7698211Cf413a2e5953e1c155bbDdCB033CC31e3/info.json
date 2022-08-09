@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7698211Cf413a2e5953e1c155bbDdCB033CC31e3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1811ad6d-659b-4ae4-a3d6-99411f44c5b4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7698211Cf413a2e5953e1c155bbDdCB033CC31e3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7698211Cf413a2e5953e1c155bbDdCB033CC31e3/logo.png"
+    }
+  },
+  "name": "NERV",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

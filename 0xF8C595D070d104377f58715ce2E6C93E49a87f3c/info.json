@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF8C595D070d104377f58715ce2E6C93E49a87f3c",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "503646e7-550f-4ad4-b0c1-2f8d807a714e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF8C595D070d104377f58715ce2E6C93E49a87f3c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF8C595D070d104377f58715ce2E6C93E49a87f3c/logo.png"
+    }
+  },
+  "name": "Decentralized Accessible Content Chain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DACC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

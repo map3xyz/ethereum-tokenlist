@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeF764855F98C5Ef9cbe29b908510dd4e101616d1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "105430e1-f2ca-4639-b14d-5ad24ebdb744",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeF764855F98C5Ef9cbe29b908510dd4e101616d1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeF764855F98C5Ef9cbe29b908510dd4e101616d1/logo.png"
+    }
+  },
+  "name": "FIRA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FIRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9591fbe-c57c-4afd-8cfc-c644999991a3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667/logo.png"
+    }
+  },
+  "name": "MedicayunLink",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

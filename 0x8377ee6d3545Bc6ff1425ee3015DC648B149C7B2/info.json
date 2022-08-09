@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "abeb29f8-23e6-4408-8317-1c42a1977908",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2/logo.png"
+    }
+  },
+  "name": "ProChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA6281838f4A9c5736b2aa1cba9260D3F879623cA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b5d5d037-e25c-42f3-9b53-483670b06d1e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6281838f4A9c5736b2aa1cba9260D3F879623cA/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA6281838f4A9c5736b2aa1cba9260D3F879623cA/logo.png"
+    }
+  },
+  "name": "Decentralize Currency Assets",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DCA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "028fd25a-0f15-475a-8771-9825e503fddc",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1/logo.png"
+    }
+  },
+  "name": "AmpleGold",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMPLG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

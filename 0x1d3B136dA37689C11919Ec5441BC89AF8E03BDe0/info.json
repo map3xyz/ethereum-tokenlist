@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1d3B136dA37689C11919Ec5441BC89AF8E03BDe0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d87f55b-3b96-4c85-80a3-b4d4c70b3647",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d3B136dA37689C11919Ec5441BC89AF8E03BDe0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1d3B136dA37689C11919Ec5441BC89AF8E03BDe0/logo.png"
+    }
+  },
+  "name": "Bionik Protocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

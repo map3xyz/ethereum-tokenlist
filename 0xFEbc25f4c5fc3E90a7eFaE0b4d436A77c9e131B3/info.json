@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da4b2b02-8fa2-4821-adde-d218fc41cd31",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3/logo.png"
+    }
+  },
+  "name": "Cezo OS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CEZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

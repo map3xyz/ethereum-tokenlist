@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB0514a5b4Aa58aC6E954f537598dD42a71916581",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "525cf209-c851-4247-8e5f-181a9e047249",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB0514a5b4Aa58aC6E954f537598dD42a71916581/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB0514a5b4Aa58aC6E954f537598dD42a71916581/logo.png"
+    }
+  },
+  "name": "HUMToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "HUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

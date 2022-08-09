@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x454B9f249bC1492eE995793Bbc3e57b830F1A5e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2bd1c16d-7a0d-4587-add4-4d71eadfdbda",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x454B9f249bC1492eE995793Bbc3e57b830F1A5e9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x454B9f249bC1492eE995793Bbc3e57b830F1A5e9/logo.png"
+    }
+  },
+  "name": "Alphacon Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "832d7cd9-29b0-4d44-8b4e-0901a978c779",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C/logo.png"
+    }
+  },
+  "name": "FOTA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "FOTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

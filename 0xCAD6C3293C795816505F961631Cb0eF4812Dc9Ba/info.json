@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCAD6C3293C795816505F961631Cb0eF4812Dc9Ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4fc0c27d-33fa-4691-bbbe-d3dc719640ce",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCAD6C3293C795816505F961631Cb0eF4812Dc9Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCAD6C3293C795816505F961631Cb0eF4812Dc9Ba/logo.png"
+    }
+  },
+  "name": "Mercenario Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0A98273B00d699Bfc0bc445EC8CDF17653A98c1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5af6e1c-8b11-4880-a660-5fc6010ec65a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0A98273B00d699Bfc0bc445EC8CDF17653A98c1C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0A98273B00d699Bfc0bc445EC8CDF17653A98c1C/logo.png"
+    }
+  },
+  "name": "SLW WIND TOKEN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

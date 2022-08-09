@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d4cf3d5-fff0-4af1-b6de-1c26fa88119a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2/logo.png"
+    }
+  },
+  "name": "Pet friend",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PETF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

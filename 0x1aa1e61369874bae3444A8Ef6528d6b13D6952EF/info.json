@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1aa1e61369874bae3444A8Ef6528d6b13D6952EF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6c8e20e-3f08-4f48-a9dc-cc38a9d58b36",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1aa1e61369874bae3444A8Ef6528d6b13D6952EF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1aa1e61369874bae3444A8Ef6528d6b13D6952EF/logo.png"
+    }
+  },
+  "name": "ICHI ALLY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ALLY",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

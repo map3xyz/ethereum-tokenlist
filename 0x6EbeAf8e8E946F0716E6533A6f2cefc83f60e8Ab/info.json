@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "4a408e36-f750-44d6-818b-10dd20789dc8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab/logo.png"
+    }
+  },
+  "name": "Gods Unchained",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GODS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e5d8e0f-61d9-4f83-a06d-7c0502ceaa18",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0/logo.png"
+    }
+  },
+  "name": "BTZ by Bunz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

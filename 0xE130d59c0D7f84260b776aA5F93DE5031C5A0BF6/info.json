@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE130d59c0D7f84260b776aA5F93DE5031C5A0BF6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2049310-91f4-4726-88f8-9a8583d5ec73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE130d59c0D7f84260b776aA5F93DE5031C5A0BF6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xE130d59c0D7f84260b776aA5F93DE5031C5A0BF6/logo.png"
+    }
+  },
+  "name": "Aladdin Bao",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ABAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

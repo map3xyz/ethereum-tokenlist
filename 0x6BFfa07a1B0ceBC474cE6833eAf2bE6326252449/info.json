@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6BFfa07a1B0ceBC474cE6833eAf2bE6326252449",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "d7bf3a0f-768d-4283-aaea-123e7c165df7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6BFfa07a1B0ceBC474cE6833eAf2bE6326252449/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6BFfa07a1B0ceBC474cE6833eAf2bE6326252449/logo.png"
+    }
+  },
+  "name": "BAEPAY",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAEPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

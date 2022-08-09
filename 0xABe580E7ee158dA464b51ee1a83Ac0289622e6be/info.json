@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87db58c1-27ad-4cb3-942c-9ac3c4a74d59",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
+    }
+  },
+  "name": "Offshift",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d287e516-1913-40e7-bf99-f8766f5fe37c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe/logo.png"
+    }
+  },
+  "name": "PowH3D",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "P3D",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b96d7933-fcce-42e0-a88a-cc5b1546218b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623/logo.png"
+    }
+  },
+  "name": "Lucky You",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LKY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

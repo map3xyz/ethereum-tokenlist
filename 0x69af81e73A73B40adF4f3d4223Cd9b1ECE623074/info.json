@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce0b70f8-0e7e-4ad7-b7fd-016c2e9f6342",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
+    }
+  },
+  "name": "Mask Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MASK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

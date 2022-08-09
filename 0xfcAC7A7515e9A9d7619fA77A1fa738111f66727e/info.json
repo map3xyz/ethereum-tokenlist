@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfcAC7A7515e9A9d7619fA77A1fa738111f66727e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b026582b-e9c0-49f2-b005-60da8db5e7ec",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfcAC7A7515e9A9d7619fA77A1fa738111f66727e/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfcAC7A7515e9A9d7619fA77A1fa738111f66727e/logo.png"
+    }
+  },
+  "name": "Pitch",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "PCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

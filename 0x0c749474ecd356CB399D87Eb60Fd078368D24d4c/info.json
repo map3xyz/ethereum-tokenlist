@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ebe3381-bd9a-4a2b-ad86-dfd19fb67c1f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0c749474ecd356CB399D87Eb60Fd078368D24d4c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0c749474ecd356CB399D87Eb60Fd078368D24d4c/logo.png"
+    }
+  },
+  "name": "SHIBA INU GOLD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIBG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

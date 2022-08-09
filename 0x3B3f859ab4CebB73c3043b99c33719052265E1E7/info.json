@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3B3f859ab4CebB73c3043b99c33719052265E1E7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f5127bf-14bd-48ca-9196-200b3d968ebd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3B3f859ab4CebB73c3043b99c33719052265E1E7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3B3f859ab4CebB73c3043b99c33719052265E1E7/logo.png"
+    }
+  },
+  "name": "khAZon",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KReeD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

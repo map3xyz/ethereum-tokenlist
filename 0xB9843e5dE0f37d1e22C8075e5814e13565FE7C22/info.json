@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB9843e5dE0f37d1e22C8075e5814e13565FE7C22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88d56ed5-0d8c-41f7-ae89-0ec68b64c117",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB9843e5dE0f37d1e22C8075e5814e13565FE7C22/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB9843e5dE0f37d1e22C8075e5814e13565FE7C22/logo.png"
+    }
+  },
+  "name": "Lucky Block Network",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "547eacd6-9c4b-4951-8b42-4c8a53920134",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c/logo.png"
+    }
+  },
+  "name": "Datum Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

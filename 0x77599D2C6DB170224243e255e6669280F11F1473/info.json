@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x77599D2C6DB170224243e255e6669280F11F1473",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d7172ab-d6c4-4b4e-9679-a95538280cfd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77599D2C6DB170224243e255e6669280F11F1473/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x77599D2C6DB170224243e255e6669280F11F1473/logo.png"
+    }
+  },
+  "name": "Opacity",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "OPQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

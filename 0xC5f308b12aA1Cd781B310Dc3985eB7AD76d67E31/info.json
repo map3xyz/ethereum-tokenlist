@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC5f308b12aA1Cd781B310Dc3985eB7AD76d67E31",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a53efabc-f67a-49bf-abe7-fc3cc741b9cf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC5f308b12aA1Cd781B310Dc3985eB7AD76d67E31/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC5f308b12aA1Cd781B310Dc3985eB7AD76d67E31/logo.png"
+    }
+  },
+  "name": "IRM",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

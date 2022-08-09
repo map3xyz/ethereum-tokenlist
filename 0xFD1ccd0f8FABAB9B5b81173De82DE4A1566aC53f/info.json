@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFD1ccd0f8FABAB9B5b81173De82DE4A1566aC53f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1e5b7380-c0af-4ae3-9665-e5b3e217d79e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xFD1ccd0f8FABAB9B5b81173De82DE4A1566aC53f/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xFD1ccd0f8FABAB9B5b81173De82DE4A1566aC53f/logo.png"
+    }
+  },
+  "name": "ECOSCU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ECOSCU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

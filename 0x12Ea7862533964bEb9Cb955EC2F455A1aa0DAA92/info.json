@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x12Ea7862533964bEb9Cb955EC2F455A1aa0DAA92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db9a760f-bb7e-4736-b595-9b72d48c8022",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12Ea7862533964bEb9Cb955EC2F455A1aa0DAA92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12Ea7862533964bEb9Cb955EC2F455A1aa0DAA92/logo.png"
+    }
+  },
+  "name": "DoNever",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e00a185f-ee5d-4535-bbdc-7ce28b3e7a65",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7/logo.png"
+    }
+  },
+  "name": "Edustars Lite",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "EDSLTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8196cdd6e17991b22816bb9cdD31FAcEeCf2F816",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "382f64db-b619-4d31-90b0-b3f715d62052",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8196cdd6e17991b22816bb9cdD31FAcEeCf2F816/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8196cdd6e17991b22816bb9cdD31FAcEeCf2F816/logo.png"
+    }
+  },
+  "name": "\"\"",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NTV-e",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

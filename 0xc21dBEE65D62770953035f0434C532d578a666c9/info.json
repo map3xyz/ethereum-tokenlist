@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc21dBEE65D62770953035f0434C532d578a666c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c1fb01d-42ba-41e7-98d9-374119fa9190",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc21dBEE65D62770953035f0434C532d578a666c9/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc21dBEE65D62770953035f0434C532d578a666c9/logo.png"
+    }
+  },
+  "name": "CryptoEnergy",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CNRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

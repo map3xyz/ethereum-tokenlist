@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3753b671-00eb-44ae-ba6d-1ef944ee05c4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0/logo.png"
+    }
+  },
+  "name": "AXL INU",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AXL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

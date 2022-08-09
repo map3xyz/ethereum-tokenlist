@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9bda029-67c1-4feb-b708-d00699d7194d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
+    }
+  },
+  "name": "Spell Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SPELL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

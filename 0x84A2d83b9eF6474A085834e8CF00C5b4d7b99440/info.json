@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x84A2d83b9eF6474A085834e8CF00C5b4d7b99440",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "8fd71f72-d6f3-4768-bf74-ca114bfbedd0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x84A2d83b9eF6474A085834e8CF00C5b4d7b99440/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84A2d83b9eF6474A085834e8CF00C5b4d7b99440/logo.png"
+    }
+  },
+  "name": "MannyBUX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b18ec850-79d0-4316-ae34-dbe84fd5082e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C/logo.png"
+    }
+  },
+  "name": "AIT",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

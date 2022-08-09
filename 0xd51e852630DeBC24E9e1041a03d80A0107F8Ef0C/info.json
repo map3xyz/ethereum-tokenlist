@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9b05ddad-05d8-4796-860b-e9102c207a0c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C/logo.png"
+    }
+  },
+  "name": "\"\"",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ORM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

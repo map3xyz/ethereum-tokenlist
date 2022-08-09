@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac936d5e-2e09-49b3-9809-cf969b443c70",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6Bba316c48b49BD1eAc44573c5c871ff02958469/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Bba316c48b49BD1eAc44573c5c871ff02958469/logo.png"
+    }
+  },
+  "name": "Gas DAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

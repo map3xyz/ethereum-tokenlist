@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xac914BfE8cd7CDF89D67549be7225AfAd83E147C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b94da66-8562-48a5-a93f-04e952b3d16f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xac914BfE8cd7CDF89D67549be7225AfAd83E147C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xac914BfE8cd7CDF89D67549be7225AfAd83E147C/logo.png"
+    }
+  },
+  "name": "FuzeClassic",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XFZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

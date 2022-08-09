@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4f0eef84-f46c-475a-afbb-e0f1a5fbe195",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11/logo.png"
+    }
+  },
+  "name": "Bitcoin Red",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

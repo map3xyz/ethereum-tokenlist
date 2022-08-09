@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d4b66d95-5d57-4f90-93c5-10007148173d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD/logo.png"
+    }
+  },
+  "name": "mNFLX Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "mNFLX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

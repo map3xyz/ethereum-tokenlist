@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "37c9ff2a-d228-41d7-967a-f42607c4e4f3",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4/logo.png"
+    }
+  },
+  "name": "AtjehCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ACEH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

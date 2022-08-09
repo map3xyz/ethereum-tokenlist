@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72a350eb-166f-4fea-90b6-43e341d4d0d0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B/logo.png"
+    }
+  },
+  "name": "SALAM COIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

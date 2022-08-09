@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9278ff24-cebc-4927-a4b0-81406958fe3b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba/logo.png"
+    }
+  },
+  "name": "BarterTrade",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

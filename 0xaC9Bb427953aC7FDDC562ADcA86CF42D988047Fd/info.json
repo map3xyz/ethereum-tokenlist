@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "931be533-606c-4f3d-b93b-b8a8822c8a0a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd/logo.png"
+    }
+  },
+  "name": "Scatter.cx",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "STT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf5593de88c5391722873AFBA0cbe16fEc11066d5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b615b1f3-3518-4602-a815-374d27eb10e6",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5593de88c5391722873AFBA0cbe16fEc11066d5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xf5593de88c5391722873AFBA0cbe16fEc11066d5/logo.png"
+    }
+  },
+  "name": "Awkward",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AWKWRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

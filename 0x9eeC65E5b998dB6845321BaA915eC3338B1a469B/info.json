@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9eeC65E5b998dB6845321BaA915eC3338B1a469B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f825e25-1fa9-48ac-b7e5-a9cea6edee48",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9eeC65E5b998dB6845321BaA915eC3338B1a469B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9eeC65E5b998dB6845321BaA915eC3338B1a469B/logo.png"
+    }
+  },
+  "name": "OnlyChain",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "Only",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

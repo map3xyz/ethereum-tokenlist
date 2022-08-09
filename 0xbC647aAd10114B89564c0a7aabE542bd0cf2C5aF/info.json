@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37d5782a-89a3-4d5a-af92-b4d1e48c1f2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF/logo.png"
+    }
+  },
+  "name": "IONChain Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IONC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

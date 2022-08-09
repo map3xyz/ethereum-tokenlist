@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC80daE9129389C4ef6E7DBfAeE40f28DE49dE3a6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b6d4622-688b-4b81-98ae-e3d2c585d07c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC80daE9129389C4ef6E7DBfAeE40f28DE49dE3a6/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC80daE9129389C4ef6E7DBfAeE40f28DE49dE3a6/logo.png"
+    }
+  },
+  "name": "Luna Stars",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LSTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

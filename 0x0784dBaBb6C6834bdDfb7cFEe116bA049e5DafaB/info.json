@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16f60c38-28f7-4383-81aa-6331ab4962e4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB/logo.png"
+    }
+  },
+  "name": "IBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

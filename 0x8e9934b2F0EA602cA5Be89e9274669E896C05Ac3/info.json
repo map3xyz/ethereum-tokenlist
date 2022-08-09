@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8e9934b2F0EA602cA5Be89e9274669E896C05Ac3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "676eeac1-7926-49fe-b46b-c456b664d1ef",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8e9934b2F0EA602cA5Be89e9274669E896C05Ac3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8e9934b2F0EA602cA5Be89e9274669E896C05Ac3/logo.png"
+    }
+  },
+  "name": "Digital Australian Dollar",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "DAUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "864c53ae-30cb-42c6-8719-244f1e5c02f9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c/logo.png"
+    }
+  },
+  "name": "Utrust",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

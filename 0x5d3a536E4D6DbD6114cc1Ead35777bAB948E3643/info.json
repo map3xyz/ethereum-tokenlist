@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "72dc5c5c-7da3-48ed-9b50-5023c1ade473",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo.png"
+    }
+  },
+  "name": "Compound Dai",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "cDAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

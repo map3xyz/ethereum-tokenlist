@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6020Da0F7c1857dBE4431Ec92A15cC318D933eAa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e93af5e-8647-454e-b48a-8895e9e6d7c0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6020Da0F7c1857dBE4431Ec92A15cC318D933eAa/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6020Da0F7c1857dBE4431Ec92A15cC318D933eAa/logo.png"
+    }
+  },
+  "name": "EnTanMo",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ETM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

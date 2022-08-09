@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x84675a35c00e824F99Ec147ea6518D98f988DA32",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "579f77b8-9a6f-41f9-b8c2-4b5c13460a0f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x84675a35c00e824F99Ec147ea6518D98f988DA32/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x84675a35c00e824F99Ec147ea6518D98f988DA32/logo.png"
+    }
+  },
+  "name": "Shuern Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHUERN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

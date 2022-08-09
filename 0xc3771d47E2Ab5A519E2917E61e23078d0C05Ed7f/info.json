@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c777327-d67d-4293-b2cd-e2c93211561b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f/logo.png"
+      }
+    },
+    "output": {}
+  },
+  "name": "Gather",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "GTH",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

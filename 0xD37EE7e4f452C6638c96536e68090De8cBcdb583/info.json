@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "8df63061-f562-4f01-a806-b4ec5c938da0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD37EE7e4f452C6638c96536e68090De8cBcdb583/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xD37EE7e4f452C6638c96536e68090De8cBcdb583/logo.png"
+    }
+  },
+  "name": "Aave GUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aGUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7719e430-c6fc-437a-a999-001a87521fbb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png"
+    }
+  },
+  "name": "Metaverse Index",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MVI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

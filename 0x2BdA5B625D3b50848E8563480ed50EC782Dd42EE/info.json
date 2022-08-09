@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6b8a004-7142-4b82-88ff-1c236ba126ab",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE/logo.png"
+    }
+  },
+  "name": "BetEncore",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BTEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

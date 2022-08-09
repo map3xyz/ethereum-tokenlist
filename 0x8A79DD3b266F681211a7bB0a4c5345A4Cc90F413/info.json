@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8A79DD3b266F681211a7bB0a4c5345A4Cc90F413",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59d88ef2-a273-48b5-a93e-03ba6f86cfdd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8A79DD3b266F681211a7bB0a4c5345A4Cc90F413/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x8A79DD3b266F681211a7bB0a4c5345A4Cc90F413/logo.png"
+    }
+  },
+  "name": "Lord Coin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

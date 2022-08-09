@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3cdb537-3306-460c-a51a-1fe55ec6875a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5/logo.png"
+    }
+  },
+  "name": "Lympo tokens",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LYM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

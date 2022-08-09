@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xB0DD7c86b9FB49A5a2377111d9b5EEDeF2f99880",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ac50459-3a3a-4f98-be69-47eba325845b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB0DD7c86b9FB49A5a2377111d9b5EEDeF2f99880/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB0DD7c86b9FB49A5a2377111d9b5EEDeF2f99880/logo.png"
+    }
+  },
+  "name": "NVTNetworkToken",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

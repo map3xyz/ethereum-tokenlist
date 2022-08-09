@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc97A5cdF41BAfD51c8dBE82270097e704d748b92",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "0090c758-8064-4d31-867d-504462e68b9c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc97A5cdF41BAfD51c8dBE82270097e704d748b92/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc97A5cdF41BAfD51c8dBE82270097e704d748b92/logo.png"
+    }
+  },
+  "name": "Ether Clown",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KLOWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

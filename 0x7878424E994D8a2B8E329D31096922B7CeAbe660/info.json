@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7878424E994D8a2B8E329D31096922B7CeAbe660",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "249f77ab-f53c-4248-b668-9e76149df486",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7878424E994D8a2B8E329D31096922B7CeAbe660/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x7878424E994D8a2B8E329D31096922B7CeAbe660/logo.png"
+    }
+  },
+  "name": "ImmVRse Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "IMVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "213ad577-c593-453d-9ddd-c9abaa44896b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b/logo.png"
+    }
+  },
+  "name": "Tokenbox",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TBX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

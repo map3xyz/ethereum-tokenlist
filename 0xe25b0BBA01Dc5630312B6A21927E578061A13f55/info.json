@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ffebdc4-19bc-4e0f-820b-a72f2d92a95d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe25b0BBA01Dc5630312B6A21927E578061A13f55/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xe25b0BBA01Dc5630312B6A21927E578061A13f55/logo.png"
+    }
+  },
+  "name": "ShipChain SHIP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

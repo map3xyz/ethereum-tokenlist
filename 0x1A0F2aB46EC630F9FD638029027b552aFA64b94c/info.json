@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1216f17-c00d-4d8e-9678-7aa16d89a7fd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A0F2aB46EC630F9FD638029027b552aFA64b94c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x1A0F2aB46EC630F9FD638029027b552aFA64b94c/logo.png"
+    }
+  },
+  "name": "Aston X",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "ATX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

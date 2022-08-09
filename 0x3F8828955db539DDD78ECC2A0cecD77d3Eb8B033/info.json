@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d90d3cf5-1ec2-41e3-9b48-c9f731b03e19",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033/logo.png"
+    }
+  },
+  "name": "AmethystCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AMSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

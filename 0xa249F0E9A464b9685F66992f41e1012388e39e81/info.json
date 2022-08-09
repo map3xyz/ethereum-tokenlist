@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa249F0E9A464b9685F66992f41e1012388e39e81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "643b6c2a-ff35-4c08-b1db-30318386af2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa249F0E9A464b9685F66992f41e1012388e39e81/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa249F0E9A464b9685F66992f41e1012388e39e81/logo.png"
+    }
+  },
+  "name": "Aerum",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XRM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfb4C6e952F2fb4eA3FAEdF5A70A9126f42C78A15",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b6383b99-cce2-4697-8793-03b7778a5d64",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfb4C6e952F2fb4eA3FAEdF5A70A9126f42C78A15/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfb4C6e952F2fb4eA3FAEdF5A70A9126f42C78A15/logo.png"
+    }
+  },
+  "name": "Beside",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SIDE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

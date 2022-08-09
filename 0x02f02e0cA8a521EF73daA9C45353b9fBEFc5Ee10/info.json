@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x02f02e0cA8a521EF73daA9C45353b9fBEFc5Ee10",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9ed620e5-c70e-4b79-9b58-4bd35056644d",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x02f02e0cA8a521EF73daA9C45353b9fBEFc5Ee10/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x02f02e0cA8a521EF73daA9C45353b9fBEFc5Ee10/logo.png"
+    }
+  },
+  "name": "RenrenBit Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "RRB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

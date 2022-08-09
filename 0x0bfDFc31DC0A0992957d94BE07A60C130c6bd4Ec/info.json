@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0bfDFc31DC0A0992957d94BE07A60C130c6bd4Ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a2e7723-55d9-4034-a7d9-84016808c41c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bfDFc31DC0A0992957d94BE07A60C130c6bd4Ec/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0bfDFc31DC0A0992957d94BE07A60C130c6bd4Ec/logo.png"
+    }
+  },
+  "name": "Tyche Share",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

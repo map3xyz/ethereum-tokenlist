@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26e510b1-5d35-48cc-a7bb-cb14707dbfb4",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfF340f03E226B669c873516755a6B88a45b0B2aC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xfF340f03E226B669c873516755a6B88a45b0B2aC/logo.png"
+    }
+  },
+  "name": "NSRT BRICS",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NSRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6561cb76-f79b-4881-a70e-9e5c798b4319",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x23Ccc43365D9dD3882eab88F43d515208f832430/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23Ccc43365D9dD3882eab88F43d515208f832430/logo.png"
+    }
+  },
+  "name": "MidasProtocol",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

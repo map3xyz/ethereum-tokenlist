@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6525622-30d1-467d-bf04-cf34b5315fc0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428/logo.png"
+    }
+  },
+  "name": "Mainframe Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

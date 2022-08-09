@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6a85f717Aaa16a9050858be9415eB213DFc1957a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1828535b-8666-4a7e-bffd-31a317e131ff",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6a85f717Aaa16a9050858be9415eB213DFc1957a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6a85f717Aaa16a9050858be9415eB213DFc1957a/logo.png"
+    }
+  },
+  "name": "Xpress",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "XPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

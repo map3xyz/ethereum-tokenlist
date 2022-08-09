@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58a4884182d9E835597f405e5F258290E46ae7C2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de807ab6-29de-42b6-a8f9-dcfb037c3479",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58a4884182d9E835597f405e5F258290E46ae7C2/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x58a4884182d9E835597f405e5F258290E46ae7C2/logo.png"
+    }
+  },
+  "name": "NOAHCOIN",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "NOAH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

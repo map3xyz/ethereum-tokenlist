@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4be8cd7-f506-456d-95e4-fabcb36d2fbe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47/logo.png"
+    }
+  },
+  "name": "World Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "WORLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
