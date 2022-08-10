@@ -6,7 +6,9 @@
   "description": null,
   "id": "cad0680d-2799-429b-96ac-5bcb50f7a07f",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+  },
   "name": "Synthetix Network Token",
   "networkId": "ethereum",
   "spam": false,

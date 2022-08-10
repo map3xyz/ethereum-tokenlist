@@ -6,7 +6,9 @@
   "description": null,
   "id": "ba945423-3011-48cb-863f-ee1eef72dd58",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4954Db6391F4feB5468b6B943D4935353596aEC9/logo.png"
+  },
   "name": "USDQ",
   "networkId": "ethereum",
   "spam": false,

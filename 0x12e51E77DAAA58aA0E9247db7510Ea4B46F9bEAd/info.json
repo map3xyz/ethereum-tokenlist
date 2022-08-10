@@ -6,7 +6,9 @@
   "description": null,
   "id": "4e8efa71-419e-4ea6-8c6c-c678bccc2771",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd/logo.png"
+  },
   "name": "Aave Interest bearing YFI",
   "networkId": "ethereum",
   "spam": false,

@@ -6,7 +6,9 @@
   "description": null,
   "id": "e13f6f6d-9f75-4c1b-8043-98720ba8ff41",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x10c71515602429C19d53011EA7040B87a4894838/logo.png"
+  },
   "name": "Diamond Platform Token",
   "networkId": "ethereum",
   "spam": false,

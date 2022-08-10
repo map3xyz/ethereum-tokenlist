@@ -6,7 +6,9 @@
   "description": null,
   "id": "6b562c23-d79f-4a34-a47f-cc7b28726821",
   "links": null,
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+  },
   "name": "Binance USD",
   "networkId": "ethereum",
   "spam": false,
