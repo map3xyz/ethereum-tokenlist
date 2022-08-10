@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e43eff17-0ddf-436d-b80e-403720b3b5dc",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  "name": "Tether USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
