@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-08-10T11:16:36.963Z",
+  "timestamp": "2022-08-16T16:29:56.103Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -34234,6 +34234,15 @@
       "decimals": 8,
       "symbol": "PIS",
       "tags": []
+    },
+    {
+      "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+      "name": "SAITAMA",
+      "decimals": 9,
+      "symbol": "SAITAMA",
+      "tags": [
+        "memes"
+      ]
     },
     {
       "address": "0xCE958ECf2C752c74973e89674Faa30404b15A498",
