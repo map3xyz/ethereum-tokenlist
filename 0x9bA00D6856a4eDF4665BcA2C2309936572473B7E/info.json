@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9bA00D6856a4eDF4665BcA2C2309936572473B7E/logo.svg"
   },
   "name": "Aave Interest bearing USDC",
-  "networkId": "ethereum",
+  "networkCode": "ethereum",
   "spam": false,
   "symbol": "aUSDC",
   "tags": [
