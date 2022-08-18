@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-08-10T11:16:36.963Z",
+  "timestamp": "2022-08-18T13:26:43.660Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -21747,6 +21747,15 @@
       ]
     },
     {
+      "address": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
+      "name": "Luffy",
+      "decimals": 9,
+      "symbol": "LUFFY",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
       "name": "Aave Interest bearing ENJ",
       "decimals": 18,
@@ -34236,6 +34245,15 @@
       "tags": []
     },
     {
+      "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+      "name": "SAITAMA",
+      "decimals": 9,
+      "symbol": "SAITAMA",
+      "tags": [
+        "memes"
+      ]
+    },
+    {
       "address": "0xCE958ECf2C752c74973e89674Faa30404b15A498",
       "name": "MaspToken",
       "decimals": 18,
@@ -44626,6 +44644,16 @@
       "decimals": 18,
       "symbol": "LCK",
       "tags": []
+    },
+    {
+      "address": "0xdb4D1099D53e92593430e33483Db41c63525f55F",
+      "name": "JoyStick Games",
+      "decimals": 18,
+      "symbol": "JOY",
+      "tags": [
+        "defi",
+        "gamefi"
+      ]
     },
     {
       "address": "0xdb5af0e326B5f6417bc9Db89d76fB2390393287F",
