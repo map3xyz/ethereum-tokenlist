@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe803178b48A0e560C2b19F3b3d4e504f79D229ce",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bobcoin is a social asset-backed crypto—a cryptographically secured representation of the rights of a Bobcoin holder to receive a benefit from their tokens. As every Bobcoin is linked to an electric vehicle managed by Bob Eco, the tokens are always backed by the value of the asset they represent."
+  },
+  "id": "f208119d-9933-4dc0-a264-145afde9a07f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xe803178b48A0e560C2b19F3b3d4e504f79D229ce",
+    "website": "https://bob.eco",
+    "twitter": "https://twitter.com/BobEcoOfficial",
+    "github": "https://github.com/CryptoMechanics/bobc-token",
+    "telegram": "https://t.me/bobEco",
+    "telegramNews": "https://t.me/",
+    "blog": "https://bob.eco/news",
+    "medium": "https://medium.com/@BobEco",
+    "coingecko": "https://coingecko.com/en/coins/bobcoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bobcoin/",
+    "facebook": "https://facebook.com/Bobecoltd",
+    "youtube": "https://youtube.com/channel/UCr7ea3KYY7UUAD2iWowQGLw",
+    "whitepaper": "https://bob.eco/Bob_eco_Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xe803178b48A0e560C2b19F3b3d4e504f79D229ce/logo.png"
+  },
+  "name": "Bobcoin",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BOBC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
