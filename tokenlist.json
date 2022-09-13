@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-08-19T13:21:52.303Z",
+  "timestamp": "2022-09-13T08:38:21.540Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -16981,6 +16981,15 @@
       "tags": []
     },
     {
+      "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+      "name": "Wrapped TON Coin",
+      "decimals": 9,
+      "symbol": "TONCOIN",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
       "name": "BUYEXSHOP",
       "decimals": 18,
@@ -17443,6 +17452,16 @@
       "decimals": 18,
       "symbol": "AUN",
       "tags": []
+    },
+    {
+      "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+      "name": "SingularityNET Token",
+      "decimals": 8,
+      "symbol": "AGIX",
+      "tags": [
+        "governance",
+        "staking"
+      ]
     },
     {
       "address": "0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543",
@@ -25180,6 +25199,15 @@
       "decimals": 18,
       "symbol": "BBO",
       "tags": []
+    },
+    {
+      "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+      "name": "Grove Token",
+      "decimals": 18,
+      "symbol": "GVR",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
