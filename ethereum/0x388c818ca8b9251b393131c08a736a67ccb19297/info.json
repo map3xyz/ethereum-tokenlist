@@ -1,0 +1,18 @@
+{
+  "networkCode": "ethereum",
+  "type": "asset",
+  "name": "Map3Xyz Test",
+  "symbol": "MAP3",
+  "decimals": "8",
+  "address": "0x388c818ca8b9251b393131c08a736a67ccb19297",
+  "description": {},
+  "links": {
+    "explorer": "https://map3.xyz/explorer"
+  },
+  "regex": {},
+  "tags": [
+    "stablecoin",
+    "staking",
+    "wrapped"
+  ]
+}
