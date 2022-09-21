@@ -1,0 +1,19 @@
+{
+  "networkCode": "ethereum",
+  "type": "asset",
+  "name": "Map3 Test",
+  "symbol": "map3",
+  "decimals": "8",
+  "color": "#5f3f3f",
+  "address": "0x388c818ca8b9251b393131c08a736a67ccb19297",
+  "description": {
+    "en": "Map3 Test"
+  },
+  "links": {},
+  "regex": {},
+  "tags": [
+    "stablecoin",
+    "wrapped",
+    "staking"
+  ]
+}
