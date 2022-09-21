@@ -1,0 +1,20 @@
+{
+  "networkCode": "ethereum",
+  "type": "asset",
+  "name": "map3xyz",
+  "symbol": "MAP",
+  "decimals": "8",
+  "color": "#845858",
+  "address": "0x123",
+  "description": {
+    "en": "hello world"
+  },
+  "links": {
+    "explorer": "https://bitcoin.org"
+  },
+  "regex": {},
+  "tags": [
+    "stablecoin",
+    "staking"
+  ]
+}
