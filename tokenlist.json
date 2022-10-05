@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-08-19T13:21:52.303Z",
+  "timestamp": "2022-10-05T13:57:42.383Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -1855,6 +1855,15 @@
       "tags": []
     },
     {
+      "address": "0x08e0fAFf8bB80eaf8c30A99920355028b5bD6789",
+      "name": "AURIcoin",
+      "decimals": 8,
+      "symbol": "RIC",
+      "tags": [
+        "governance"
+      ]
+    },
+    {
       "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
       "name": "Tierion",
       "decimals": 8,
@@ -3689,6 +3698,15 @@
       "decimals": 18,
       "symbol": "PBET",
       "tags": []
+    },
+    {
+      "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+      "name": "Tamadoge",
+      "decimals": 18,
+      "symbol": "TAMA",
+      "tags": [
+        "gamefi"
+      ]
     },
     {
       "address": "0x12bAc8c392f5a2Ec82F3C2799289a1A7515d8f02",
@@ -16981,6 +16999,15 @@
       "tags": []
     },
     {
+      "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+      "name": "Wrapped TON Coin",
+      "decimals": 9,
+      "symbol": "TONCOIN",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
       "name": "BUYEXSHOP",
       "decimals": 18,
@@ -17443,6 +17470,16 @@
       "decimals": 18,
       "symbol": "AUN",
       "tags": []
+    },
+    {
+      "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+      "name": "SingularityNET Token",
+      "decimals": 8,
+      "symbol": "AGIX",
+      "tags": [
+        "governance",
+        "staking"
+      ]
     },
     {
       "address": "0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543",
@@ -25182,6 +25219,15 @@
       "tags": []
     },
     {
+      "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+      "name": "Grove Token",
+      "decimals": 18,
+      "symbol": "GVR",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
       "name": "DIA",
       "decimals": 18,
@@ -27024,6 +27070,15 @@
       "decimals": 18,
       "symbol": "PLS",
       "tags": []
+    },
+    {
+      "address": "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F",
+      "name": "Bazaars",
+      "decimals": 18,
+      "symbol": "BZR",
+      "tags": [
+        "governance"
+      ]
     },
     {
       "address": "0x8d9AB766cC475AA16AEF6529Fe5D4cd2c7ccFc98",
@@ -32125,6 +32180,15 @@
       "decimals": 18,
       "symbol": "CO2",
       "tags": []
+    },
+    {
+      "address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+      "name": "SWEAT",
+      "decimals": 18,
+      "symbol": "SWEAT",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
@@ -46350,6 +46414,15 @@
       "decimals": 18,
       "symbol": "ETHN",
       "tags": []
+    },
+    {
+      "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+      "name": "Cult DAO (CULT)",
+      "decimals": 18,
+      "symbol": "CULT",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xf132cA4DBBD2ca2dd7A1178B5F38Bf56b566ff55",

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Adding BZR Token Logo to Trust Wallet Assets Repo"
+  },
+  "id": "794da8e5-a323-454f-856a-b029f95469a3",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F",
+    "website": "https://bazaars.io",
+    "twitter": "https://twitter.com/Bazaars_project",
+    "github": "https://github.com/Bazaars-project",
+    "telegram": "https://t.me/+47OlE7imAd8yNjQ0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F/logo.png"
+  },
+  "name": "Bazaars",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BZR",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

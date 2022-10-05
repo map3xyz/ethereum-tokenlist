@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TAMA is the utility token for the Tamadoge ecosystem"
+  },
+  "id": "00775627-3885-438a-bb38-aaa7c07b7cc8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+    "website": "https://tamadoge.io",
+    "twitter": "https://twitter.com/Tamadogecoin",
+    "telegram": "https://t.me/TamadogeOfficial",
+    "discord": "https://discord.com/4WNqpuSp",
+    "youtube": "https://youtube.com/channel/UCivYe1JIbVcVq2wXtFYarjA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tamadoge/",
+    "coingecko": "https://coingecko.com/coins/tamadoge?clickId=fx_b17159_71833c0c7bd40a8c04ff4b7232914904_1",
+    "whitepaper": "https://tamadoge.io/wp-content/uploads/2022/08/Tamadoge-Whitepaper-V1-EN-1.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x12b6893cE26Ea6341919FE289212ef77e51688c8/logo.png"
+  },
+  "name": "Tamadoge",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "TAMA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
