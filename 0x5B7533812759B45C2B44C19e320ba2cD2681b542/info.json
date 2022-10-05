@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace."
+  },
+  "id": "47864014-faa8-4f5f-8220-52180fd2c41f",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+    "research": "https://research.binance.com/en/projects/singularitynet",
+    "website": "https://singularitynet.io",
+    "github": "https://github.com/singnet",
+    "whitepaper": "https://public.singularitynet.io/whitepaper.pdf",
+    "twitter": "https://twitter.com/singularity_net",
+    "telegram": "https://t.me/singularitynet",
+    "reddit": "https://reddit.com/r/SingularityNet",
+    "facebook": "https://facebook.com/singularityNET.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/singularitynet/",
+    "coingecko": "https://coingecko.com/en/coins/singularitynet",
+    "blog": "https://blog.singularitynet.io/",
+    "forum": "https://community.singularitynet.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x5B7533812759B45C2B44C19e320ba2cD2681b542/logo.png"
+  },
+  "name": "SingularityNET Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "AGIX",
+  "tags": [
+    "governance",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
