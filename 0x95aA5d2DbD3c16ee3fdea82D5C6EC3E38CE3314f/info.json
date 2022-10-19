@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PXP is a native utility token of the PointPay ecosystem. It lies at the heart of our platform, acting as a means of exchange."
+  },
+  "id": "98b94148-b2ba-47b3-bcda-aa7427871df2",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f",
+    "website": "https://pointpay.io/",
+    "twitter": "https://twitter.com/PointPay1",
+    "blog": "https://blog.pointpay.io/",
+    "telegram": "https://t.me/pointpay_eng",
+    "reddit": "https://reddit.com/r/PointPay1",
+    "medium": "https://pointpay.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f/logo.png"
+  },
+  "name": " PointPay Crypto Banking Token V2",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "PXP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
