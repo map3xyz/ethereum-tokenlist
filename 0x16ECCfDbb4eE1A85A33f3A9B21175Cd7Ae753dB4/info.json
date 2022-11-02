@@ -6,9 +6,7 @@
   "description": null,
   "id": "a866c079-a928-4a4b-9860-75d3a3d20c76",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
-  },
+  "logo": null,
   "name": "Route",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "staking"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

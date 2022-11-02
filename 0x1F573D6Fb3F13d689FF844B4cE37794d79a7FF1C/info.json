@@ -6,9 +6,7 @@
   "description": null,
   "id": "3c4e6bad-47d3-40f8-88ac-90e3fb02cd38",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
-  },
+  "logo": null,
   "name": "Bancor",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "defi"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

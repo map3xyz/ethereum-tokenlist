@@ -6,9 +6,7 @@
   "description": null,
   "id": "0ca9818b-6916-4510-b595-41059c60f472",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png"
-  },
+  "logo": null,
   "name": "Kyber Network",
   "networkCode": "ethereum",
   "spam": false,
@@ -18,6 +16,8 @@
     "governance"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

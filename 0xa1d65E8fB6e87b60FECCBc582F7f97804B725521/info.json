@@ -6,9 +6,7 @@
   "description": null,
   "id": "710a298e-c144-4cb2-8620-2841073e9253",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521/logo.png"
-  },
+  "logo": null,
   "name": "DXD",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "governance"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

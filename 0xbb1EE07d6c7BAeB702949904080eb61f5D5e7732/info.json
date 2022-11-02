@@ -6,9 +6,7 @@
   "description": null,
   "id": "d87362a7-b56d-442b-aa70-6b42abee2cee",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732/logo.png"
-  },
+  "logo": null,
   "name": "Dogey-Inu",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "deflationary"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

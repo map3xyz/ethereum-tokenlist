@@ -15,9 +15,7 @@
     "telegram": "https://t.me/cultdao",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cult-dao/"
   },
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xf0f9D895aCa5c8678f706FB8216fa22957685A13/logo.png"
-  },
+  "logo": null,
   "name": "Cult DAO (CULT)",
   "networkCode": "ethereum",
   "spam": false,
@@ -26,6 +24,8 @@
     "defi"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

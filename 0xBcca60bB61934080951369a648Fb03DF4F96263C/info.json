@@ -6,9 +6,7 @@
   "description": null,
   "id": "fab78af8-4579-48e5-8e07-364f86d87051",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xBcca60bB61934080951369a648Fb03DF4F96263C/logo.png"
-  },
+  "logo": null,
   "name": "Aave interest bearing USDC",
   "networkCode": "ethereum",
   "spam": false,
@@ -18,6 +16,8 @@
     "stablecoin"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

@@ -6,9 +6,7 @@
   "description": null,
   "id": "48c7912c-5d97-4b12-be82-789ac079f2cf",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x101cc05f4A51C0319f570d5E146a8C625198e636/logo.png"
-  },
+  "logo": null,
   "name": "Aave interest bearing TUSD",
   "networkCode": "ethereum",
   "spam": false,
@@ -18,6 +16,8 @@
     "stablecoin"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

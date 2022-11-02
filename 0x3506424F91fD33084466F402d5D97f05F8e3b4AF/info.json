@@ -6,9 +6,7 @@
   "description": null,
   "id": "da41a730-0d99-4756-abda-1d9fc4482952",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png"
-  },
+  "logo": null,
   "name": "Chiliz",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "nft"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

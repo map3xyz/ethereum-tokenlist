@@ -6,9 +6,7 @@
   "description": null,
   "id": "5f6160df-ca33-4cb4-affe-905b1c4f0fc8",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E/logo.png"
-  },
+  "logo": null,
   "name": "inSure",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "defi"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

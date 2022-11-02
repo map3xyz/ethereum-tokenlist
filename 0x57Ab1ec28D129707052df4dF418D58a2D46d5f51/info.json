@@ -6,9 +6,7 @@
   "description": null,
   "id": "95aa2b58-99a2-4160-9817-feb87d94025d",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
-  },
+  "logo": null,
   "name": "Synth sUSD",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "stablecoin"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }

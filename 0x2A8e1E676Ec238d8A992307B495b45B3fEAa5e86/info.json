@@ -6,9 +6,7 @@
   "description": null,
   "id": "facdec2d-30ea-4843-8add-1bc6165deab2",
   "links": null,
-  "logo": {
-    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86/logo.png"
-  },
+  "logo": null,
   "name": "Origin Dollar (OUSD)",
   "networkCode": "ethereum",
   "spam": false,
@@ -17,6 +15,8 @@
     "stablecoin"
   ],
   "type": "asset",
-  "verifications": [],
+  "verifications": [
+    null
+  ],
   "version": "0.0.1"
 }
