@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2022-10-05T13:57:42.383Z",
+  "timestamp": "2022-11-02T10:28:00.592Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -2908,6 +2908,15 @@
       "decimals": 5,
       "symbol": "TRAT",
       "tags": []
+    },
+    {
+      "address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+      "name": "BEND Token",
+      "decimals": 18,
+      "symbol": "BEND",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
@@ -28342,6 +28351,15 @@
       "tags": []
     },
     {
+      "address": "0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f",
+      "name": " PointPay Crypto Banking Token V2",
+      "decimals": 18,
+      "symbol": "PXP",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x95aBb152ed410cc4b6DffB3eD41D01015bdbb5D2",
       "name": "Mankind",
       "decimals": 18,
@@ -43073,6 +43091,15 @@
       "tags": []
     },
     {
+      "address": "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+      "name": "vEmpire DDAO",
+      "decimals": 18,
+      "symbol": "VEMP",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xcFbf70e33d5163E25B0dad73955c1BD9E8cd8BA2",
       "name": "WINS LIVE",
       "decimals": 18,
@@ -44666,6 +44693,15 @@
       "decimals": 18,
       "symbol": "HHC",
       "tags": []
+    },
+    {
+      "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+      "name": "Goldfinch",
+      "decimals": 18,
+      "symbol": "GFI",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
