@@ -14,7 +14,9 @@
     "github": "https://github.com/goldfinch-eng",
     "forum": "https://gov.goldfinch.finance/"
   },
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b/logo.png"
+  },
   "name": "Goldfinch",
   "networkCode": "ethereum",
   "spam": false,

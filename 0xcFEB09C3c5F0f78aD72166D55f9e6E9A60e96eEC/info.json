@@ -18,7 +18,9 @@
     "whitepaper": "https://v-empire.digital/whitepaper",
     "blog": "https://medium.com/@v-empire.digital"
   },
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC/logo.png"
+  },
   "name": "vEmpire DDAO",
   "networkCode": "ethereum",
   "spam": false,

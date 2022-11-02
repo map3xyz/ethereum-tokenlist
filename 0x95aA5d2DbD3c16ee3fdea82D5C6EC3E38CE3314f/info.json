@@ -16,7 +16,9 @@
     "reddit": "https://reddit.com/r/PointPay1",
     "medium": "https://pointpay.medium.com/"
   },
-  "logo": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f/logo.png"
+  },
   "name": " PointPay Crypto Banking Token V2",
   "networkCode": "ethereum",
   "spam": false,
