@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Connect the world’s capital with the world’s growth."
+  },
+  "id": "844d4259-e087-4f40-940e-f2777604d69a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+    "website": "https://goldfinch.finance/",
+    "twitter": "https://twitter.com/goldfinch_fi",
+    "github": "https://github.com/goldfinch-eng",
+    "forum": "https://gov.goldfinch.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b/logo.png"
+  },
+  "name": "Goldfinch",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "GFI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
