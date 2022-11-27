@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The OMI token underpins transactions on the VeVe digital collectible NFT platform, offering premium licensed NFTs to millions of users around the world from more than 200+ brand partners and artists, including Disney, Marvel, General Motors, Cartoon Network, Pixar, Sony, Universal and more"
+  },
+  "id": "972ceba5-677d-4d88-8d93-b73cf0545d87",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "website": "https://www.ecomi.com/",
+    "whitepaper": "https://drive.google.com/file/d/1UNE-EvjuMIaWJUfvF3qQiTe0OKLFAJXV/view",
+    "facebook": "https://facebook.com/veve.digital.collectibles",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ecomi-new/",
+    "coingecko": "https://coingecko.com/en/coins/ecomi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e/logo.png"
+  },
+  "name": "OMI Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "OMI",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

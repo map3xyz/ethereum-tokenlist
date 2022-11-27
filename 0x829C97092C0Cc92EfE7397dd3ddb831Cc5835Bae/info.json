@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x829C97092C0Cc92EfE7397dd3ddb831Cc5835Bae",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MINE Network is an innovative cross-chain mining Metaverse solution that seamlessly connects the worlds of DeFi, GameFi and NFT's into one consolidated, easy-to-use open-source protocol."
+  },
+  "id": "af5ce6b7-25ec-4d97-9a8f-e93ecd2f58aa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x829c97092c0cc92efe7397dd3ddb831cc5835bae",
+    "website": "https://mine.network/",
+    "twitter": "https://twitter.com/mine_blockchain",
+    "github": "https://github.com/Mine-Blockchain",
+    "telegram": "https://t.me/mine_blockchain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mine-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x829C97092C0Cc92EfE7397dd3ddb831Cc5835Bae/logo.png"
+  },
+  "name": "Mine Network",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "MNET",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

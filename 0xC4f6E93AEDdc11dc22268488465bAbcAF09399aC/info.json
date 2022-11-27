@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HI is the membership token of exchange and mobile banking platform hi. Stakeholders of HI are the key stakeholders of the hi ecosystem, allowing for true community governance of one of the largest blockchain ecosystems in the world."
+  },
+  "id": "4efc9653-b185-4e38-abc9-3c234d993cb9",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+    "website": "https://www.hi.com/",
+    "twitter": "https://twitter.com/hi_com_official",
+    "github": "https://github.com/HiChainGlobal/hiTokenERC20",
+    "telegram": "https://t.me/hi_official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hi-dollar/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC/logo.png"
+  },
+  "name": "hi Dollar",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "HI",
+  "tags": [
+    "defletionary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x94a7f270cd12545A277E656266Aef5e27dF3Eb28",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "All-in-one Live Streaming on a blockchain-based platform."
+  },
+  "id": "cc029422-abf3-443e-ae6d-2f52a74fd3e4",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x94a7f270cd12545a277e656266aef5e27df3eb28",
+    "website": "https://stream-coin.com/",
+    "twitter": "https://twitter.com/streamcoin_strm",
+    "github": "https://github.com/stream-coin-tech",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stream-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94a7f270cd12545A277E656266Aef5e27dF3Eb28/logo.png"
+  },
+  "name": "Wrapped Stream",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "MSTRM",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

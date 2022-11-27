@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDE075D9ADbD0240b4462F124af926452Ad0BAC91",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BBF is a governance token that maintains the game's ecosystem, and players will be able to form and build a collective network (DAO) to participate in the development direction and profits of the game. It is used for becoming a VIP, staking, etc."
+  },
+  "id": "95b2091d-dea7-4be5-82de-9b17ca21fbff",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xde075d9adbd0240b4462f124af926452ad0bac91",
+    "website": "https://bubblefong.io",
+    "twitter": "https://twitter.com/BubblefongGame",
+    "telegram": "https://t.me/BubbleFongFriends",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/bubblefong/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDE075D9ADbD0240b4462F124af926452Ad0BAC91/logo.png"
+  },
+  "name": "Bubblefong",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BBF",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

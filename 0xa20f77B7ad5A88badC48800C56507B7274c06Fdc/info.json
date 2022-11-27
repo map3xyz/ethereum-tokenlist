@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xa20f77B7ad5A88badC48800C56507B7274c06Fdc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Trustless, distributed storage for decentralized applications"
+  },
+  "id": "298cec6b-1016-4204-bc64-39ab7e8d150a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa20f77B7ad5A88badC48800C56507B7274c06Fdc",
+    "website": "https://cherry.network",
+    "github": "https://github.com/cherrynetwork",
+    "twitter": "https://twitter.com/cherry_network",
+    "telegram": "https://t.me/cherrynetwork",
+    "medium": "https://medium.com/@cherryproject",
+    "coingecko": "https://coingecko.com/en/coins/cherry-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa20f77B7ad5A88badC48800C56507B7274c06Fdc/logo.png"
+  },
+  "name": "Cherry Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "CHER",
+  "tags": [
+    "staking-native",
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

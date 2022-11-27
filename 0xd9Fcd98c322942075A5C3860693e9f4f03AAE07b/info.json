@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Euler is a non-custodial permissionless lending protocol on Ethereum that helps users to earn interest on their crypto assets or hedge against volatile markets without the need for a trusted third-party."
+  },
+  "id": "f24a7c61-de7d-41cc-a00a-02c470ae7830",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+    "website": "https://www.euler.finance/",
+    "twitter": "https://twitter.com/eulerfinance",
+    "telegram": "https://t.me/eulerfinance_official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/euler-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b/logo.png"
+  },
+  "name": "Euler",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "EUL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

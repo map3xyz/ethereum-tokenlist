@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Braintrust is a decentralized talent network that connects knowledge workers with companies. Braintrust was built and continues to be upgraded by its community. BTRST is the governance and staking token used to power the network."
+  },
+  "id": "daf94862-679e-4bca-aa71-be27bacf4667",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x799ebfabe77a6e34311eeee9825190b9ece32824",
+    "website": "https://www.usebraintrust.com/",
+    "twitter": "https://twitter.com/usebraintrust",
+    "telegram": "https://t.me/braintrustofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/braintrust/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x799ebfABE77a6E34311eeEe9825190B9ECe32824/logo.png"
+  },
+  "name": "BTRST",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BTRST",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

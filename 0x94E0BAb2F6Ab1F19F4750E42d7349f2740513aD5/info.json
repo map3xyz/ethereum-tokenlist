@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for fractionalized NFTs."
+  },
+  "id": "08ab42d9-0f01-4925-980d-a3e5b2dfd9b8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+    "website": "https://www.unic.ly/",
+    "twitter": "https://twitter.com/uniclyNFT",
+    "medium": "https://medium.com/unicly",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/unicly/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5/logo.png"
+  },
+  "name": "UNIC",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "UNIC",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

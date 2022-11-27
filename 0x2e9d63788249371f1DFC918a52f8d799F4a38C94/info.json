@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tokemak is a decentralized liquidity provider/AMM protocol. TOKE is the native token, serves as tokenized liquidity, enabling stakers to direct the protocol's TVL as liquidity across DeFi markets."
+  },
+  "id": "274b7dfa-7875-4af6-acad-a98a8de2effd",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+    "website": "https://www.tokemak.xyz/",
+    "twitter": "https://twitter.com/TokenReactor",
+    "medium": "https://medium.com/tokemak",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tokemak/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x2e9d63788249371f1DFC918a52f8d799F4a38C94/logo.png"
+  },
+  "name": "Tokemak",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "TOKE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A network owned & governed by artists, collectors and curators"
+  },
+  "id": "ba1ed27d-3e22-4277-8cf2-9b306994bf11",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xba5BDe662c17e2aDFF1075610382B9B691296350",
+    "website": "https://superrare.com/",
+    "twitter": "https://twitter.com/SuperRare",
+    "coingecko": "https://coingecko.com/en/coins/superrare/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superrare/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xba5BDe662c17e2aDFF1075610382B9B691296350/logo.png"
+  },
+  "name": "SuperRare",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "RARE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

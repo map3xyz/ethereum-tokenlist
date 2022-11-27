@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dora Factory is a programmable DAO-as-a-Service open infrastructure on Substrate. All cool features regrading on-chain governance can be built on this infrastructure as pallets by the developers, and they can be rewarded in a SaaS model when DAOs launched on Dora Factory deploy them."
+  },
+  "id": "ef4b76ba-3eb2-48f9-9bce-3b6ad5932efe",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+    "website": "https://dorafactory.org/",
+    "twitter": "https://twitter.com/DoraFactory",
+    "telegram": "https://t.me/dorafactory",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dora-factory/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d/logo.png"
+  },
+  "name": "Dorayaki",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "DORA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

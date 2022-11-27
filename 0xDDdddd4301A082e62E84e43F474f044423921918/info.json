@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDDdddd4301A082e62E84e43F474f044423921918",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RhinoFi is designed as a Layer 2 protocol on Ethereum using zk proofs for settlement."
+  },
+  "id": "4750fa3a-0412-4bb0-b5ff-c9717c847258",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xdddddd4301a082e62e84e43f474f044423921918",
+    "website": "https://www.rhino.fi/",
+    "twitter": "https://twitter.com/rhinofi",
+    "discord": "https://discord.com/26sXx2KAhy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/deversifi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDDdddd4301A082e62E84e43F474f044423921918/logo.png"
+  },
+  "name": "DeversiFi Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "DVF",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Threshold Network is the home of $tBTC v2, proxy re-encryption #PRE, $thUSD, and all threshold cryptography."
+  },
+  "id": "61e87cac-8f21-427b-9b56-a2c408d20931",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+    "website": "https://threshold.network/",
+    "github": "https://github.com/keep-network/tbtc-v2",
+    "telegram": "https://t.me/thresholdnetwork",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/threshold/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xCdF7028ceAB81fA0C6971208e83fa7872994beE5/logo.png"
+  },
+  "name": "Threshold Network Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "T",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
