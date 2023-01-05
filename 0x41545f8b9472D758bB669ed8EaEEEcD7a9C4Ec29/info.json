@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Forta is a real-time detection network for security & operational monitoring of blockchain activity. As a decentralized monitoring network, Forta detects threats and anomalies on Defi, NFT, governance, bridges and other Web3 systems in real-time."
+  },
+  "id": "d84fb795-3482-4038-8110-e7b5e347399a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "website": "https://forta.org/",
+    "twitter": "https://twitter.com/FortaNetwork",
+    "coingecko": "https://coingecko.com/en/coins/forta/",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/forta/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29/logo.png"
+  },
+  "name": "Forta",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "FORT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x19E98c4921aAb7E3f5FD2aDca36CFb669c63E926",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Colawork is a workplace benefits provider that rewards employees with cryptocurrency (COLA) for their participation at the digital workplace/collaboration tool."
+  },
+  "id": "f2259fa8-4514-4212-8d7c-92b27e9d6eb8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19e98c4921aab7e3f5fd2adca36cfb669c63e926",
+    "website": "http://www.colawork.com/",
+    "twitter": "https://twitter.com/colawork_COLA",
+    "telegram": "https://t.me/colawork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/colawork/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19E98c4921aAb7E3f5FD2aDca36CFb669c63E926/logo.png"
+  },
+  "name": "Cola Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "COLA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

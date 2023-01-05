@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x839e71613f9aA06E5701CF6de63E303616B0DDE3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A utility, governance, and reward token with applications throughout the VVS platform."
+  },
+  "id": "b4965375-27a5-42d5-9fd1-0eb531c821b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x839e71613f9aA06E5701CF6de63E303616B0DDE3",
+    "website": "https://vvs.finance/",
+    "twitter": "https://twitter.com/VVS_finance",
+    "telegram": "https://t.me/VVSFinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vvs-finance/",
+    "coingecko": "https://coingecko.com/en/coins/vvs-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x839e71613f9aA06E5701CF6de63E303616B0DDE3/logo.png"
+  },
+  "name": "VVS Finance",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "VVS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

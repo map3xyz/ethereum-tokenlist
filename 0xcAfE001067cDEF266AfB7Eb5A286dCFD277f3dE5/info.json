@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ParaSwap aggregates decentralized exchanges and other DeFi services in one comprehensive interface to streamline and facilitate users' interactions with decentralized finance on Ethereum and EVM-compatible chains Polygon, Avalanche, BSC & more to come."
+  },
+  "id": "727fddc9-d735-4d12-a299-dae9a35859fa",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "website": "https://paraswap.io/",
+    "twitter": "https://twitter.com/paraswap",
+    "telegram": "https://t.me/paraswap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/paraswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5/logo.png"
+  },
+  "name": "ParaSwap",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "PSP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

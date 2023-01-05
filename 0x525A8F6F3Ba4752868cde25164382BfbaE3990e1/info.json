@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Nym is an open-source, decentralized and permissionless privacy system. It provides full-stack privacy, allowing other applications, services or blockchains to provide their users with strong metadata protection, at both the network level (mixnet), and the application level (anonymous credentials)."
+  },
+  "id": "cc5c3309-e1e7-411f-bfce-c4a22e042ad0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
+    "website": "https://nymtech.net/",
+    "twitter": "https://twitter.com/nymproject",
+    "github": "https://github.com/nymtech",
+    "telegram": "https://t.me/nymchan",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/nym/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x525A8F6F3Ba4752868cde25164382BfbaE3990e1/logo.png"
+  },
+  "name": "NYM",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "NYM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

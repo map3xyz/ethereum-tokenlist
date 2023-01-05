@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TITAN is a blockchain based decentralized financial center that provides optimal liquidity solutions for different digital asset category by adaptive bonding curve."
+  },
+  "id": "a170b125-f8b9-410a-9dde-7490d119deec",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+    "website": "https://titanswap.org/",
+    "twitter": "https://twitter.com/TitanSwaporg",
+    "github": "https://github.com/titanSwap",
+    "telegram": "https://t.me/TitanSwap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87/logo.png"
+  },
+  "name": "TitanSwap",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "Titan",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Maple is a DeFi lending protocol for corporate and institutional capital."
+  },
+  "id": "7e898727-e4ac-401e-837f-a751048b62ab",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x33349b282065b0284d756f0577fb39c158f935e6",
+    "website": "https://maple.finance/",
+    "twitter": "https://twitter.com/maplefinance",
+    "github": "https://github.com/maple-labs",
+    "telegram": "https://t.me/maplefinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/maple/",
+    "coingecko": "https://coingecko.com/en/coins/maple/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x33349B282065b0284d756F0577FB39c158F935e6/logo.png"
+  },
+  "name": "Maple Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "MPL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
