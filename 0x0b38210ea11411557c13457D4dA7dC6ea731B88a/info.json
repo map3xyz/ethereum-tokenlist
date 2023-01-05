@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "API3 aims to build blockchain-native, decentralized APIs with DAO-governance and quantifiable security."
+  },
+  "id": "417df215-cd7e-485f-b085-b0a995c37a1a",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+    "website": "https://api3.org/",
+    "twitter": "https://twitter.com/API3DAO",
+    "telegram": "https://t.me/API3DAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/api3/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0b38210ea11411557c13457D4dA7dC6ea731B88a/logo.png"
+  },
+  "name": "API3",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "API3",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

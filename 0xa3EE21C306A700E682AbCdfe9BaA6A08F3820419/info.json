@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gluwa Creditcoin Vesting Token (G-CRE) is an ERC-20 representation of Creditcoin (CTC). Creditcoin is the native token of the Creditcoin network, a blockchain that provides a cryptocurrency credit investment market."
+  },
+  "id": "3bfd9a01-fbe5-415b-a34d-9f49784d7d86",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+    "website": "https://creditcoin.org/",
+    "twitter": "https://twitter.com/creditcoin",
+    "github": "https://github.com/gluwa/Creditcoin",
+    "telegram": "https://t.me/CreditcoinOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419/logo.png"
+  },
+  "name": "Gluwa Creditcoin Vesting Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "G-CRE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

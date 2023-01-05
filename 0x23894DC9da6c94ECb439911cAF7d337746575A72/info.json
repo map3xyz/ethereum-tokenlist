@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Geojam combines the technological advancements of decentralized finance with real-world experiences while interweaving the ethos of autonomous cryptocurrency communities and mainstream social networking."
+  },
+  "id": "074abae0-ddab-4310-ac24-f61f6018a042",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x23894DC9da6c94ECb439911cAF7d337746575A72",
+    "website": "https://geojam.com/",
+    "twitter": "https://twitter.com/geojamofficial",
+    "telegram": "https://t.me/geojamofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/geojam-token/",
+    "coingecko": "https://coingecko.com/en/coins/geojam/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x23894DC9da6c94ECb439911cAF7d337746575A72/logo.png"
+  },
+  "name": "Geojam",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "JAM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

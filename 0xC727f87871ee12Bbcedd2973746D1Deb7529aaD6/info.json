@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute"
+  },
+  "id": "bb53ec41-5bc9-4544-9f2f-f660f59fe009",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
+    "website": "https://akash.network",
+    "twitter": "https://twitter.com/akashnet_",
+    "telegram": "https://t.me/AkashNW",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/akash-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6/logo.png"
+  },
+  "name": "Akash Network",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "AKT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

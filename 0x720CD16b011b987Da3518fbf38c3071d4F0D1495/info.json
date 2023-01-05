@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Flux is the cryptocurrency powering the Flux Ecosystem, including a massive decentralized computational network. Flux gives users both institutional and private control over their cloud infrastructure in a decentralized manner."
+  },
+  "id": "bdbf946b-0e74-4a9a-87fc-bf8d9207200e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+    "website": "https://runonflux.io/",
+    "twitter": "https://twitter.com/RunOnFlux",
+    "github": "https://github.com/runonflux",
+    "facebook": "https://facebook.com/ruonflux",
+    "telegram": "https://t.me/runonflux",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zel/",
+    "coingecko": "https://coingecko.com/en/coins/zelcash/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  "name": "Flux",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "FLUX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

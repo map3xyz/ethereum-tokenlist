@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Silo's lending protocol (Silo Finance) is owned and operated by the SiloDAO. The governance token ($SILO) endows holders with full control over the DAO and its lending protocol through voting and delegation rights."
+  },
+  "id": "48550a74-df99-4562-966c-3d319c59d897",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+    "website": "https://www.silo.finance",
+    "twitter": "https://twitter.com/SiloFinance",
+    "github": "https://github.com/silo-finance",
+    "telegram": "https://t.me/silo_community",
+    "telegramNews": "https://t.me/silo_finance",
+    "discord": "https://discord.com/invite/silo-finance",
+    "docs": "https://silopedia.silo.finance/welcome/read-me",
+    "coingecko": "https://coingecko.com/en/coins/silo-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8/logo.png"
+  },
+  "name": "Silo Finance",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "SILO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

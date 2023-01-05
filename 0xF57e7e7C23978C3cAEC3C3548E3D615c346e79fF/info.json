@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Immutable X is the first layer-2 scaling solution for NFTs on Ethereum, with instant trade confirmation, massive scalability (up to 9,000+ trades per second) and zero gas fees."
+  },
+  "id": "274127c1-7bad-46ea-807b-0671dbe632bc",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "website": "https://www.immutable.com/",
+    "twitter": "https://twitter.com/Immutable",
+    "telegram": "https://t.me/immutablex",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/immutable-x/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF/logo.png"
+  },
+  "name": "Immutable X",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "IMX",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
