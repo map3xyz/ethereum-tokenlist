@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ethereum-tokenlist",
-  "timestamp": "2023-01-05T14:59:47.093Z",
+  "timestamp": "2023-01-15T16:36:43.886Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -22548,6 +22548,17 @@
       "tags": []
     },
     {
+      "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
+      "name": "MahaDAO",
+      "decimals": 18,
+      "symbol": "MAHA",
+      "tags": [
+        "staking",
+        "governance",
+        "defi"
+      ]
+    },
+    {
       "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8",
       "name": "DGN",
       "decimals": 18,
@@ -26117,6 +26128,15 @@
       "decimals": 18,
       "symbol": "dLKNC4x",
       "tags": []
+    },
+    {
+      "address": "0x88479186BAC914E4313389a64881F5ed0153C765",
+      "name": "SquidGrow",
+      "decimals": 19,
+      "symbol": "SquidGrow",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0x884E84264d540485fAd815e7b3e5d8413CF76bD9",
