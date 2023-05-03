@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x976a95786DA6f6eE1c0755cCFB9A22adac2BF7B2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Thanks to this innovative DynaSet, the DAM can use dYdX derivative solutions to hedge, short and apply leverage to the market. Powered by SingularityDAO.ai."
+  },
+  "id": "dbef5cc8-7655-4439-b540-b0cbb5097e10",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x976a95786DA6f6eE1c0755cCFB9A22adac2BF7B2",
+    "website": "https://singularitydao.ai/dynalab/dynDYDX",
+    "twitter": "https://twitter.com/SingularityDao",
+    "telegram": "https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==",
+    "telegramNews": "https://t.me/sdaoann",
+    "discord": "https://discord.com/invite/singularitydao",
+    "github": "https://github.com/Singularity-DAO",
+    "coingecko": "https://coingecko.com/en/coins/singularitydao",
+    "youtube": "https://youtube.com/@SingularityDAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/singularitydao/",
+    "medium": "https://medium.com/singularitydao",
+    "reddit": "https://reddit.com/r/SingularityDAO/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x976a95786DA6f6eE1c0755cCFB9A22adac2BF7B2/logo.png"
+  },
+  "name": "DynDYDX DynaSet",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "dynDYDX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xDa49AF8773Cb162ca56f8431442c750896F8C87A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DynBTC gives users exposure to Bitcoin using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai."
+  },
+  "id": "91ee90e6-3f1b-4121-bbfe-16e746349fee",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xDa49AF8773Cb162ca56f8431442c750896F8C87A",
+    "website": "https://singularitydao.ai/dynasets/dynBTC",
+    "twitter": "https://twitter.com/SingularityDao",
+    "telegram": "https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==",
+    "telegramNews": "https://t.me/sdaoann",
+    "discord": "https://discord.com/invite/singularitydao",
+    "github": "https://github.com/Singularity-DAO",
+    "coingecko": "https://coingecko.com/en/coins/singularitydao",
+    "youtube": "https://youtube.com/@SingularityDAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/singularitydao/",
+    "medium": "https://medium.com/singularitydao",
+    "reddit": "https://reddit.com/r/SingularityDAO/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xDa49AF8773Cb162ca56f8431442c750896F8C87A/logo.png"
+  },
+  "name": "DynBTC DynaSet",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "dynBTC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

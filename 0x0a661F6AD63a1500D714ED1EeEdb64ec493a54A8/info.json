@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto-powered ecosystem comprising Zedxion."
+  },
+  "id": "556637cb-c01f-4cd8-a8e5-f4024c3c846e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8",
+    "website": "https://zedxion.io/",
+    "twitter": "https://twitter.com/zedxion",
+    "github": "https://github.com/zedxioncryptocurrency",
+    "medium": "https://medium.com/@zedxion_exchange",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usdz/",
+    "coingecko": "https://coingecko.com/en/coins/zedxion-usdz/",
+    "discord": "https://discord.com/UDDb7FZF",
+    "whitepaper": "https://futures.zedxion.io/en_US/cms/WHITE%20PAPER"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8/logo.png"
+  },
+  "name": "Zedxion",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "USDZ",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

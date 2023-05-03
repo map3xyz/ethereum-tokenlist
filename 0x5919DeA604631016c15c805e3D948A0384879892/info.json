@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x5919DeA604631016c15c805e3D948A0384879892",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PEEPS is a community-driven coin built by people within that very same community. It will host an ever-adapting ecosystem built with the visibility and security of the ETH network. The transparency and welcoming community will both allow organic growth and the promotion of ideas to improve the existing crypto landscape."
+  },
+  "id": "06a2fd92-bedd-4618-8d59-672e278851e8",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5919DeA604631016c15c805e3D948A0384879892",
+    "website": "https://thepeoplescoin.money/",
+    "facebook": "https://facebook.com/groups/thepeoplescoin/",
+    "twitter": "https://twitter.com/ThePeoples_Coin",
+    "reddit": "https://reddit.com/r/PEEPScoin/",
+    "telegram": "https://t.me/ThePeoplesCoinOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5919DeA604631016c15c805e3D948A0384879892/logo.png"
+  },
+  "name": "The People's Coin",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "PEEPS",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

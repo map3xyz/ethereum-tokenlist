@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
+  "color": null,
+  "decimals": 16,
+  "description": {
+    "en": "Swarm is a decentralised permisionless data storage and distribution technology."
+  },
+  "id": "4685890b-89aa-4561-a6ca-c75a4f5a2663",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
+    "website": "https://ethswarm.org",
+    "twitter": "https://twitter.com/ethswarm",
+    "github": "https://github.com/ethersphere",
+    "medium": "https://medium.com/ethereum-swarm",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethereum-swarm/",
+    "coingecko": "https://coingecko.com/en/coins/swarm-bzz/",
+    "discord": "https://discord.com/invite/GU22h2utj6",
+    "reddit": "https://reddit.com/r/ethswarm/",
+    "youtube": "https://youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos",
+    "whitepaper": "https://www.ethswarm.org/swarm-whitepaper.pdf",
+    "docs": "https://docs.ethswarm.org/docs/",
+    "blog": "https://blog.ethswarm.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb/logo.png"
+  },
+  "name": "Swarm",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BZZ",
+  "tags": [
+    "privacy",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xA4Eb9C64eC359D093eAc7B65F51Ef933D6e5F7cd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Stablz is a stablecoin yield aggregator that converts yield to the same type as deposits. Deposit USDT, and earn your yield in USDT in a truly set-and-forget manner."
+  },
+  "id": "a2aa6005-fbe1-4121-908c-fb807676c236",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xA4Eb9C64eC359D093eAc7B65F51Ef933D6e5F7cd",
+    "website": "https://stablz.one",
+    "twitter": "https://twitter.com/Stablzone",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stablz/",
+    "telegram": "https://t.me/stablzone",
+    "coingecko": "https://coingecko.com/en/coins/stablz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA4Eb9C64eC359D093eAc7B65F51Ef933D6e5F7cd/logo.png"
+  },
+  "name": "Stablz",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "STABLZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

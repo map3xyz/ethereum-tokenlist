@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Shina Token is a decentralized meme token on the Ethereum blockchain. Its mission is to give back to the crypto community, give to charity, and win the heart of the greatest token of all time - Shina Inu."
+  },
+  "id": "e145faaf-57b1-44e4-b4f4-2247af9372b7",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+    "website": "https://shinatoken.com",
+    "twitter": "https://twitter.com/ShinaToken",
+    "telegram": "https://t.me/shinatokenportal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shina-inu/",
+    "coingecko": "https://coingecko.com/en/coins/shina-inu",
+    "whitepaper": "https://shinatoken.com/whitepaper/ShinaTokenWhitepaper-v0.6.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x243cACb4D5fF6814AD668C3e225246efA886AD5a/logo.png"
+  },
+  "name": "Shina Inu",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "SHI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

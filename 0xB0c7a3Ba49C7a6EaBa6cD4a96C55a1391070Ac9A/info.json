@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Treasure is the decentralized gaming ecosystem bringing games and players together through MAGIC."
+  },
+  "id": "731f480a-5fd5-47b2-ba18-87ee5dfd747e",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+    "website": "https://treasure.lol/",
+    "twitter": "https://twitter.com/Treasure_NFT",
+    "medium": "https://medium.com/@TreasureNFT",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/magic-token/",
+    "coingecko": "https://coingecko.com/en/coins/magic/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A/logo.png"
+  },
+  "name": "MAGIC",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "MAGIC",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

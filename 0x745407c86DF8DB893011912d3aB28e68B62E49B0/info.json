@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MahaDAO introduces the world's first valuecoin ARTH, a new kind of currency that remains stable short term, but appreciates long-term"
+  },
+  "id": "aea9c240-218c-4ade-a051-f72a4be9e20b",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x745407c86DF8DB893011912d3aB28e68B62E49B0",
+    "website": "https://mahadao.com/",
+    "twitter": "https://twitter.com/TheMahaDAO",
+    "telegram": "https://t.me/mahadao",
+    "medium": "https://medium.com/mahadao"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x745407c86DF8DB893011912d3aB28e68B62E49B0/logo.png"
+  },
+  "name": "MahaDAO",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "MAHA",
+  "tags": [
+    "staking",
+    "governance",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

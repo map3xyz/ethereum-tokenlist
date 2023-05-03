@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9f826324bb9BdcF7E7Eb274BEDc417BD45D74F39",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Visual creation platform that utilizes artificial intelligence powered by blockchain technology. This platform generates images and videos through the use of advanced AI algorithms. By utilizing milkAI, users are able to transform their creative concepts into visual outputs."
+  },
+  "id": "4b59c276-86ca-4d0c-bd9f-e5f04adaceba",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x9f826324bb9bdcf7e7eb274bedc417bd45d74f39",
+    "website": "https://milkai.com/",
+    "twitter": "https://twitter.com/MilkAI_com",
+    "telegram": "https://t.me/milkai_com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/milkai/",
+    "coingecko": "https://coingecko.com/en/coins/milkai/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x9f826324bb9BdcF7E7Eb274BEDc417BD45D74F39/logo.png"
+  },
+  "name": "milkAI",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "milkAI",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

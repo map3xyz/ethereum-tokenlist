@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xc221b7E65FfC80DE234bbB6667aBDd46593D34F0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Centrifuge Token (CFG) guides the development of Centrifuge using an on-chain governance mechanism."
+  },
+  "id": "47841aa3-1ad6-4dcd-ac22-4701d1ed7d39",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+    "website": "https://centrifuge.io/",
+    "twitter": "https://twitter.com/centrifuge",
+    "telegram": "https://t.me/centrifuge_chat",
+    "github": "https://github.com/centrifuge",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-centrifuge/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xc221b7E65FfC80DE234bbB6667aBDd46593D34F0/logo.png"
+  },
+  "name": "Wrapped Centrifuge",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "wCFG",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

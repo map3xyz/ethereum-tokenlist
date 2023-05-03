@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Blur is the NFT marketplace for pro traders. The goal is to make Blur a marketplace that the entire NFT community owns and profits from."
+  },
+  "id": "ebe9f6b4-8817-4074-be39-89d35200ea85",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44",
+    "website": "https://blur.io/",
+    "twitter": "https://twitter.com/blur_io",
+    "coingecko": "https://coingecko.com/en/coins/blur/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/blur-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x5283D291DBCF85356A21bA090E6db59121208b44/logo.png"
+  },
+  "name": "Blur",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "BLUR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

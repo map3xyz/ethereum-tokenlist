@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xbBbfa5d0Bfd30B9ebce64b06E3E9Fc85E7f0F396",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "dynETHc gives users exposure to Ethereum using long only strategies managed by the Dynamic Asset Manager with less fees & expenses. dynETHc tokens can then be used as collateral on 3rd party protocols. Powered by SingularityDAO.ai."
+  },
+  "id": "4573d4c4-2900-4b60-a46a-e69ecb434ed0",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xbBbfa5d0Bfd30B9ebce64b06E3E9Fc85E7f0F396",
+    "website": "https://singularitydao.ai/dynalab/dynETHc",
+    "twitter": "https://twitter.com/SingularityDao",
+    "telegram": "https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==",
+    "telegramNews": "https://t.me/sdaoann",
+    "discord": "https://discord.com/invite/singularitydao",
+    "github": "https://github.com/Singularity-DAO",
+    "coingecko": "https://coingecko.com/en/coins/singularitydao",
+    "youtube": "https://youtube.com/@SingularityDAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/singularitydao/",
+    "medium": "https://medium.com/singularitydao",
+    "reddit": "https://reddit.com/r/SingularityDAO/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xbBbfa5d0Bfd30B9ebce64b06E3E9Fc85E7f0F396/logo.png"
+  },
+  "name": "DynETHc DynaSet",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "dynETHc",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
