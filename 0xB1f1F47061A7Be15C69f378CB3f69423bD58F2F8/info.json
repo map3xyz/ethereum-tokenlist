@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Flashstake protocol is a novel financial infrastructure that allows users to receive instant yield on deposited assets by locking up principal for a chosen duration. The protocol is made possible by Flash Strategies, which utilize underlying protocols such as AAVE, Yearn, etc. to generate yield. For more information visit the documentation: https://docs.flashstake.io/"
+  },
+  "id": "7305e94e-cbcd-487d-941f-860b7785b021",
+  "links": {
+    "explorer": "https://etherscan.io/token/0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
+    "website": "https://flashstake.io",
+    "twitter": "https://twitter.com/Flashstake",
+    "docs": "https://docs.flashstake.io/",
+    "coingecko": "https://coingecko.com/en/coins/flashstake",
+    "discord": "https://discord.com/flashstake",
+    "medium": "https://medium.com/flashstake-protocol",
+    "youtube": "https://youtube.com/@flashstake"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8/logo.png"
+  },
+  "name": "Flashstake",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "FLASH",
+  "tags": [
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

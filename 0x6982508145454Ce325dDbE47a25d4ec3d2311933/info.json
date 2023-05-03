@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pepe is a community based memecoin with one mission: to make memecoins great again. Made to honor the iconic meme we all know and love, Pepe is here to take reign as the most memeable memecoin in existence, fueled purely by memetic power. Pepe is for the people."
+  },
+  "id": "e6ed747a-7811-4c75-be8f-c7e6a60cab1c",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "website": "https://www.pepe.vip/",
+    "twitter": "https://twitter.com/pepecoineth",
+    "telegram": "https://t.me/pepecoineth",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pepe/",
+    "coingecko": "https://coingecko.com/en/coins/pepe"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x6982508145454Ce325dDbE47a25d4ec3d2311933/logo.png"
+  },
+  "name": "Pepe",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "PEPE",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x456125Cd98107ae0480Ba566f1b716D48Ba31453",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ultimate Champions is a free to play and play to earn fantasy sports game."
+  },
+  "id": "7851badb-e852-4e18-abaf-acd91b737beb",
+  "links": {
+    "explorer": "https://etherscan.io/token/0x456125Cd98107ae0480Ba566f1b716D48Ba31453",
+    "website": "https://token.ultimate-champions.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ultimate-champions/",
+    "twitter": "https://twitter.com/UltiChamps",
+    "whitepaper": "https://whitepaper.ultimate-champions.com/",
+    "medium": "https://ultimatechampions.medium.com/",
+    "telegram": "https://t.me/ultimatechampions"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0x456125Cd98107ae0480Ba566f1b716D48Ba31453/logo.png"
+  },
+  "name": "Ultimate Champions Token",
+  "networkCode": "ethereum",
+  "spam": false,
+  "symbol": "CHAMP",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
